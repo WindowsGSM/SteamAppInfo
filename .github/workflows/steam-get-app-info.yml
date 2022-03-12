@@ -31,6 +31,6 @@ jobs:
       uses: Automattic/action-commit-to-branch@master
       with:
         branch: 'main'
-        commit_message: 'Build main'
+        commit_message: 'Update AppInfo'
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
