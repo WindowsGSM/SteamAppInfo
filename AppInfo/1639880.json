@@ -1,0 +1,83 @@
+{
+    "appid": "1639880",
+    "common": {
+        "name": "Longvinter Dedicated Server",
+        "type": "Tool",
+        "parent": "1635450",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "logo": "293ccb4c7bf0f2dc60233e5109b81c0e4cd16ef0",
+        "logo_small": "293ccb4c7bf0f2dc60233e5109b81c0e4cd16ef0_thumb",
+        "icon": "e14c0741602a743c0fe7fef9ca8a9c4231fe9682",
+        "clienttga": "9ceacf0e7471c8727b3fe186a6585e7357ec5ebb",
+        "clienticon": "da2efa45135aa1923b0f003b850ffe10ee7a10a4",
+        "releasestate": "released",
+        "gameid": "1639880"
+    },
+    "config": {
+        "installdir": "Longvinter Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "Longvinter/Binaries/Win64/LongvinterServer-Win64-Shipping.exe",
+                "arguments": "-log",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1639881": {
+            "name": "Longvinter Dedicated Server Content",
+            "manifests": {
+                "public": "2527226662481604992"
+            },
+            "maxsize": "370826691"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8359386",
+                "timeupdated": "1647083736"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14207094,
+    "_sha": "10cd015f29931e5059816775ab9f15e0e4024b20",
+    "_size": 1720
+}

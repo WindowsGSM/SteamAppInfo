@@ -1,0 +1,148 @@
+{
+    "appid": "550790",
+    "common": {
+        "name": "Rend Server",
+        "type": "Tool",
+        "parent": "547860",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "",
+        "logo": "c22cd31bc68fc1324ca9c78251684304cc1c84c9",
+        "logo_small": "c22cd31bc68fc1324ca9c78251684304cc1c84c9_thumb",
+        "icon": "4031403170db32cf7c4b71836a013ce899a4b863",
+        "clienttga": "f123dc09d894e5acafa0e1daeaa04a7a6505c28b",
+        "clienticon": "fdbbb7737910314d157c3fef57b1499cda5e06ff",
+        "associations": {},
+        "gameid": "550790"
+    },
+    "config": {
+        "installdir": "Rend Server",
+        "launch": {
+            "0": {
+                "executable": "RendServer.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228986": {
+            "name": "VC 2015 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29759921",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "550791": {
+            "name": "Rend Internal Dev Server - Windows",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "5702973121236201676",
+                "previous": "1647975703943925005",
+                "publictest": "1531373376475205055"
+            },
+            "maxsize": "2996461585",
+            "encryptedmanifests": {
+                "internaldev": {
+                    "encrypted_gid_2": "6281B935CA74B3DA366977C3AED16F76",
+                    "encrypted_size_2": "7C9A964DF58D77893382049988D4B3A9"
+                },
+                "official": {
+                    "encrypted_gid_2": "B3CEED2619EA69FD4BF4D2481C5B0578",
+                    "encrypted_size_2": "374DB7918343373DABF6E544BD9F6D03"
+                },
+                "officialstaging": {
+                    "encrypted_gid_2": "7B1331ED15E1C018CF430EB75FDA6126",
+                    "encrypted_size_2": "8F20C982392513112319EA5F4FA3CFA1"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "3699672",
+                "timeupdated": "1554230070"
+            },
+            "internaldev": {
+                "buildid": "3608138",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1551459079"
+            },
+            "official": {
+                "buildid": "3699681",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1554230059"
+            },
+            "officialstaging": {
+                "buildid": "3699681",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1554224527"
+            },
+            "previous": {
+                "buildid": "3605402",
+                "description": "",
+                "timeupdated": "1553890866"
+            },
+            "publictest": {
+                "buildid": "3690182",
+                "description": "",
+                "timeupdated": "1553823039"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "0f99c592092a893936523b85d898bf32b66e4753",
+    "_size": 3188
+}

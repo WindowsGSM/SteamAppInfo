@@ -1,0 +1,82 @@
+{
+    "appid": "1757500",
+    "common": {
+        "name": "Isles of Avalon Dedicated Server",
+        "type": "Tool",
+        "parent": "1582440",
+        "releasestate": "released",
+        "logo": "2fab522ffc06e7d0ee62c59791ce7f777662d0e2",
+        "logo_small": "2fab522ffc06e7d0ee62c59791ce7f777662d0e2_thumb",
+        "icon": "7e28522f745057044c69c1fa330a6b79d328e2d2",
+        "clienticon": "8c645655e4b7eaac75a6ad53c23e383c8c5f441c",
+        "clienttga": "acad03226ec970273743a5f033a31b4822903046",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "gameid": "1757500",
+        "exfgls": "1"
+    },
+    "extended": {
+        "gamedir": "Isles of Avalon"
+    },
+    "config": {
+        "installdir": "Isles of Avalon",
+        "launch": {
+            "0": {
+                "executable": "IslesofAvalonServer.exe",
+                "type": "none"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1757501": {
+            "name": "Dedicated Content",
+            "manifests": {
+                "public": "7045000593091701670"
+            },
+            "maxsize": "554387661"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7988481",
+                "timeupdated": "1641616740"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "7c6383a3c5b71d8618aeb554237c55418a30c115",
+    "_size": 1626
+}

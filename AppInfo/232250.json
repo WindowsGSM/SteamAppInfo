@@ -1,0 +1,88 @@
+{
+    "appid": "232250",
+    "common": {
+        "name": "Team Fortress 2 Dedicated Server",
+        "type": "Tool",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "parent": "440",
+        "gameid": "232250",
+        "exfgls": "1"
+    },
+    "extended": {
+        "checkpkgstate": "1",
+        "developer": "",
+        "gamedir": "ValveTestApp232250",
+        "homepage": "",
+        "icon": "",
+        "noservers": "0",
+        "sourcegame": "1",
+        "state": "eStateComingSoonNoPreload",
+        "visibleonlywhensubscribed": "1"
+    },
+    "config": {
+        "verifyupdates": "1",
+        "contenttype": "3",
+        "installdir": "Team Fortress 2 Dedicated Server"
+    },
+    "depots": {
+        "232250": {
+            "name": "TF2 Dedicated server assets",
+            "manifests": {
+                "public": "6205045774885601306"
+            },
+            "maxsize": "9146521630"
+        },
+        "232255": {
+            "name": "TF2 Windows server",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "3371687995080360350"
+            },
+            "maxsize": "102729176"
+        },
+        "232256": {
+            "name": "TF2 Linux server",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "2312266632028026945"
+            },
+            "maxsize": "90257800"
+        },
+        "232257": {
+            "name": "TF2 Private DS",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "4723924205698996072"
+            },
+            "maxsize": "9955"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "7975938",
+                "timeupdated": "1641414176"
+            },
+            "prerelease": {
+                "buildid": "7975938",
+                "description": "",
+                "timeupdated": "1641414168"
+            },
+            "valve_ds": {
+                "buildid": "7975938",
+                "description": "The version Valve dedicated servers will sync to",
+                "timeupdated": "1641414067"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 13582941,
+    "_sha": "e4f24112ad59920d982d1460fe19c2b9b0228090",
+    "_size": 1650
+}

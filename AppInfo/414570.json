@@ -1,0 +1,118 @@
+{
+    "appid": "414570",
+    "common": {
+        "name": "Crea Dedicated Server",
+        "type": "Tool",
+        "oslist": "windows,linux",
+        "logo": "732bc92d54462df43400daf3761ac39374c66d53",
+        "logo_small": "732bc92d54462df43400daf3761ac39374c66d53_thumb",
+        "icon": "1a791cd273035da4f3203996e4aa381fede49a59",
+        "clienttga": "8e39b912e5a7e42f652b28d5b6383787a08a0b9d",
+        "clienticon": "a39d7df6b8f5ba16a82bd651bf3f3d37bacc89b0",
+        "clienticns": "a8596f85936d23bf1aace382371686ac77971ca1",
+        "linuxclienticon": "bdad765d006d9469edd50d598f0b83f8ddf72553",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "414570"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Crea Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "standalone.exe",
+                "type": "server",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "standalone",
+                "description": "Launch",
+                "type": "none",
+                "config": {
+                    "oslist": "macos"
+                }
+            },
+            "2": {
+                "executable": "Standalone",
+                "description": "Launch",
+                "type": "none",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "228986": {
+            "name": "VC 2015 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29759921",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "414571": {
+            "name": "Crea Dedicated Server Content",
+            "manifests": {
+                "public": "5690689484414141726"
+            },
+            "maxsize": "126982038"
+        },
+        "414572": {
+            "name": "Crea Dedicated Server Win Depot",
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": "3284477798441038492"
+            },
+            "maxsize": "31615240"
+        },
+        "414573": {
+            "name": "Crea Dedicated Server OSX Depot",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "92510355467761506"
+            },
+            "maxsize": "46562311"
+        },
+        "414574": {
+            "name": "Crea Dedicated Server Linux Depot",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "823948547996124839"
+            },
+            "maxsize": "98214306"
+        },
+        "414575": {
+            "name": "Crea Dedicated Server Win64 Depot",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "2937532486051214741"
+            },
+            "maxsize": "38008888"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4101544",
+                "timeupdated": "1565711620"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "f8924c1d925ba0235e863be4f96042e22b242d64",
+    "_size": 2393
+}

@@ -1,0 +1,336 @@
+{
+    "appid": "403240",
+    "common": {
+        "name": "Squad Dedicated Server",
+        "type": "Tool",
+        "oslist": "windows,linux",
+        "logo": "43bc8f7ebbad4b8fee2eea9bc262be483dfb7983",
+        "logo_small": "43bc8f7ebbad4b8fee2eea9bc262be483dfb7983_thumb",
+        "icon": "2973559898c17218937162db6d2e423d3dc8a418",
+        "clienticon": "5cb6171b179fd2dc6a4a2dc49ef1760d0d839282",
+        "clienttga": "d26cb41f9f79cce4cc6bcbd40bc3e63e947d98a4",
+        "eulas": {
+            "0": {
+                "id": "403240_eula_0",
+                "name": "Squad Dedicated Server EULA",
+                "url": "http://store.steampowered.com//eula/403240_eula_0"
+            }
+        },
+        "releasestate": "released",
+        "osarch": "64",
+        "associations": {},
+        "gameid": "403240"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Squad Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "SquadServer.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "SquadServer.sh",
+                "type": "server",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228985": {
+            "name": "VC 2013 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "13699237",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "name": "VC 2015 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29759921",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "403241": {
+            "name": "Squad Dedicated Server Depot Windows",
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "4263785576024307529",
+                "squad_experimental": "8431999813157773577"
+            },
+            "maxsize": "10897732388",
+            "encryptedmanifests": {
+                "alpha-11.2": {
+                    "encrypted_gid_2": "286BEB7B9504102C1FBDA04353F6406A",
+                    "encrypted_size_2": "F7404090425BF56FE83DBD3C830227B0"
+                },
+                "alpha-12.2": {
+                    "encrypted_gid_2": "B2D275BA6197FBC9EF31DE7A3BA738CE",
+                    "encrypted_size_2": "F9C174AAD2D75A09626B297A3E55BD5F"
+                },
+                "alpha8": {
+                    "encrypted_gid_2": "3633634FE474BC70DAEEBCBB7ED83420",
+                    "encrypted_size_2": "2AA54AD4018508DD77040E70BC82434A"
+                },
+                "alpha9.7": {
+                    "encrypted_gid_2": "1C1A52EB8D6E4E63065B11ABC7D6718C",
+                    "encrypted_size_2": "663D6855ABB63E2124F9D4A117197E20"
+                },
+                "caf_event": {
+                    "encrypted_gid_2": "EA0648AB38C3E60E4C0F8EEE78F7707C",
+                    "encrypted_size_2": "49781692789F7B5282B366670036A827"
+                },
+                "newbuild-release": {
+                    "encrypted_gid_2": "6601036BE022D785042B0ADE6DB6BCA8",
+                    "encrypted_size_2": "2EEB20B8EE113BD45583F4FFB7B2D8E2"
+                },
+                "server-fixtest": {
+                    "encrypted_gid_2": "6A8AEB44CECFFD786068074980C0D67B",
+                    "encrypted_size_2": "E61A263BD9D785213EFA1F31F350F015"
+                },
+                "squad_main": {
+                    "encrypted_gid_2": "EE75FA2C401A9E1E1EBA5F0823F7879B",
+                    "encrypted_size_2": "F00A065F1335AC5E3D8C68E7EFC9545A"
+                },
+                "squad_tournament": {
+                    "encrypted_gid_2": "0C51564DB30546821B7083C6AE4AD4F7",
+                    "encrypted_size_2": "FBA7AAA3DF03072A71EF11674987E400"
+                }
+            }
+        },
+        "403242": {
+            "name": "Squad Dedicated Server Depot Linux",
+            "config": {
+                "osarch": "64",
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "2734166270760477242",
+                "squad_experimental": "8090321180619253649"
+            },
+            "maxsize": "10943374653",
+            "encryptedmanifests": {
+                "alpha-11.2": {
+                    "encrypted_gid_2": "1D9EF18C73C4669777A9243F75823C4D",
+                    "encrypted_size_2": "7814DA4EAA732C65D0203A063A8068D0"
+                },
+                "alpha-12.2": {
+                    "encrypted_gid_2": "BE3E7E230EF6EFA7D2CC4599E07AF7FB",
+                    "encrypted_size_2": "C16571DD92232C5D31398CB79E4BB4D2"
+                },
+                "alpha8": {
+                    "encrypted_gid_2": "772575B9DB62477B9E9951856B9B447D",
+                    "encrypted_size_2": "489A11404F0D109140365C327FB3A2B5"
+                },
+                "alpha9.7": {
+                    "encrypted_gid_2": "D27069268C6D4E6135B943227F315C33",
+                    "encrypted_size_2": "E1F36A7AC72FC388751D9C49A0732470"
+                },
+                "caf_event": {
+                    "encrypted_gid_2": "2F0D879E00712B513CBB728A035D65C2",
+                    "encrypted_size_2": "69A1722D9CB8CD9D8EC81AC2E912C419"
+                },
+                "newbuild-release": {
+                    "encrypted_gid_2": "C928B175FD0789806A151659535EC53E",
+                    "encrypted_size_2": "2DC09852BFFF92F6A131A22E412A067A"
+                },
+                "server-fixtest": {
+                    "encrypted_gid_2": "8101313B3CCB77B2E94C554EC2BF5B8C",
+                    "encrypted_size_2": "C25D584502F4CB2A8EE1D833EACF2D3E"
+                },
+                "squad_main": {
+                    "encrypted_gid_2": "70BE5D126D8C4C12A7EA4F4701790925",
+                    "encrypted_size_2": "BE46AB0ED315A4CC962EBD81B39FFB01"
+                },
+                "squad_tournament": {
+                    "encrypted_gid_2": "D8F5DEA257D88A9360D41D3737FD67DD",
+                    "encrypted_size_2": "11D18F3AE5574516C92DEFBDBCCC7AC6"
+                }
+            }
+        },
+        "1123920": {
+            "name": "CAF DLC Depot",
+            "dlcappid": "1123920",
+            "manifests": {
+                "public": "8509449628493661206"
+            },
+            "maxsize": "15654",
+            "encryptedmanifests": {
+                "backtracking": {
+                    "encrypted_gid_2": "4352485CFEEFA3994253D2144A517482",
+                    "encrypted_size_2": "55DE0A23036AFD72FC8AE0F40071D98B"
+                },
+                "squad_experimental": {
+                    "encrypted_gid_2": "113A1D4B85ADF0BF6446030840D38784",
+                    "encrypted_size_2": "380208164EF667F56392B307586BB924"
+                },
+                "squad_main": {
+                    "encrypted_gid_2": "CAA24698EC7532ABA63FFEAC21D70CEE",
+                    "encrypted_size_2": "50C098AED8E1A386827950949E036842"
+                },
+                "squad_steamfix": {
+                    "encrypted_gid_2": "FB14A2F478809EA6AB44F26AB9476FC0",
+                    "encrypted_size_2": "FD87B6FE7BA3619F1AB8EFE8845D38BB"
+                },
+                "tournament": {
+                    "encrypted_gid_2": "3F253CC3B47F24F1E02F6776F1FA488B",
+                    "encrypted_size_2": "8C3352FF1333AB4D9EADF0DD50F784E7"
+                }
+            },
+            "depotfromapp": "393380"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8276816",
+                "timeupdated": "1646246748"
+            },
+            "alpha-11.2": {
+                "buildid": "2863387",
+                "description": "2018-06-14",
+                "pwdrequired": "1",
+                "timeupdated": "1542031011"
+            },
+            "alpha-12.2": {
+                "buildid": "3396110",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1556801685"
+            },
+            "alpha8": {
+                "buildid": "1703017",
+                "description": "Alpha 8.11",
+                "pwdrequired": "1",
+                "timeupdated": "1490030620"
+            },
+            "alpha9.7": {
+                "buildid": "2315895",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1517938317"
+            },
+            "caf_event": {
+                "buildid": "4048602",
+                "description": "CAF event branch",
+                "pwdrequired": "1",
+                "timeupdated": "1564167686"
+            },
+            "newbuild-release": {
+                "buildid": "4045750",
+                "description": "Latest release build",
+                "pwdrequired": "1",
+                "timeupdated": "1564188085"
+            },
+            "server-fixtest": {
+                "buildid": "5037090",
+                "description": "freeze test",
+                "pwdrequired": "1",
+                "timeupdated": "1589617756"
+            },
+            "squad_experimental": {
+                "buildid": "6555803",
+                "description": "Experimental Squad builds (compatible with Live clients)",
+                "timeupdated": "1618644167"
+            },
+            "squad_main": {
+                "buildid": "8166163",
+                "description": "Squad main builds",
+                "pwdrequired": "1",
+                "timeupdated": "1644343235"
+            },
+            "squad_release": {
+                "buildid": "8276816",
+                "description": "Latest RELEASE branch builds",
+                "pwdrequired": "1",
+                "timeupdated": "1645818107"
+            },
+            "squad_tournament": {
+                "buildid": "8201544",
+                "description": "Squad Tournament branch",
+                "pwdrequired": "1",
+                "timeupdated": "1646246701"
+            },
+            "backtracking": {
+                "buildid": "6556628",
+                "description": "Backtracking builds",
+                "pwdrequired": "1",
+                "timeupdated": "1621282240"
+            },
+            "squad_steamfix": {
+                "buildid": "5148642",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1591847447"
+            },
+            "tournament": {
+                "buildid": "4298022",
+                "description": "OISC Branch",
+                "pwdrequired": "1",
+                "timeupdated": "1572096224"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "58f7c54fe8221e72bce44a85c76c8701c7fc6b5a",
+    "_size": 8705
+}

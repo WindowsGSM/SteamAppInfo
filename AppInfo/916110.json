@@ -1,0 +1,184 @@
+{
+    "appid": "916110",
+    "common": {
+        "name": "BattleRush 2 Dedicated Server",
+        "type": "Tool",
+        "parent": "871990",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "logo": "8d1c7946c7241e6d13e21d69487050532b98254d",
+        "logo_small": "8d1c7946c7241e6d13e21d69487050532b98254d_thumb",
+        "icon": "4697e95075c57aede97c7edb0e02b1299f4612aa",
+        "clienticon": "86dbd181d4b49f50ff79ad0bf3f0710b0b1c2e0c",
+        "clienttga": "ce1da4de95a330cee396029e1d8d9323d666c98e",
+        "associations": {},
+        "gameid": "916110"
+    },
+    "extended": {
+        "gamedir": "battlerush2",
+        "serverbrowsername": "BattleRush 2"
+    },
+    "config": {
+        "installdir": "BattleRush 2 Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "Cv2_Base/Binaries/Linux/Cv2_BaseServer_Shipping",
+                "type": "none",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "Cv2_Base/Binaries/Win64/Cv2_BaseServer_Shipping.exe",
+                "type": "none",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "2": {
+                "executable": "Cv2_Base/Binaries/Linux/Cv2_BaseServer",
+                "description": "Development build",
+                "type": "none",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64",
+                    "betakey": "devel"
+                }
+            },
+            "3": {
+                "executable": "Cv2_Base/Binaries/Win64/Cv2_BaseServer.exe",
+                "description": "Development build",
+                "type": "none",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "devel"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228985": {
+            "name": "VC 2013 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "13699237",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "name": "VC 2015 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29759921",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "name": "VC 2017 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29664201",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "name": ".NET 4.0 Client Profile Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "43001447",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "916111": {
+            "name": "BattleRush 2 Dedicated Server Windows",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "5783469227565596314"
+            },
+            "maxsize": "1088584003"
+        },
+        "916112": {
+            "name": "BattleRush 2 Dedicated Server Linux",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "4634197332362867823"
+            },
+            "maxsize": "2320146350"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3460909",
+                "timeupdated": "1547281263"
+            },
+            "devel": {
+                "buildid": "3460909",
+                "description": "Development version",
+                "timeupdated": "1547214324"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "0e5a255f1a498ac8cae2cf073cda560b5f1e0de4",
+    "_size": 3786
+}

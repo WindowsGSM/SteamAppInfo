@@ -1,0 +1,175 @@
+{
+    "appid": "1169370",
+    "common": {
+        "name": "Necesse Dedicated Server",
+        "type": "Tool",
+        "parent": "1169040",
+        "oslist": "windows,macos,linux",
+        "osarch": "",
+        "osextended": "macos64",
+        "icon": "a8c0e83b7164d9fb134d56e484e5ee169a566004",
+        "logo": "3342acbe227f6df5aca8398798affde4b21ca34e",
+        "logo_small": "3342acbe227f6df5aca8398798affde4b21ca34e_thumb",
+        "clienticon": "f77aa78f4e62d52e8197591062dedfc3c24ccf9d",
+        "clienttga": "044e2e9e2cd4f51cdb1a5263b0b7c93534798f55",
+        "linuxclienticon": "7671f4126751929ad91136e7218b243a7a1d2b43",
+        "clienticns": "1789428d7419d0d223bbf3d1f9f3ce41a1246bd3",
+        "releasestate": "released",
+        "gameid": "1169370"
+    },
+    "config": {
+        "installdir": "Necesse Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "jre\\bin\\javaw.exe",
+                "arguments": "-jar Server.jar",
+                "type": "none",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "jre\\bin\\java.exe",
+                "arguments": "-jar Server.jar -nogui",
+                "description": "Launch server from terminal",
+                "type": "none",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "2": {
+                "executable": "jre/Contents/Home/bin/java",
+                "arguments": "-jar Server.jar &",
+                "type": "none",
+                "config": {
+                    "oslist": "macos"
+                }
+            },
+            "3": {
+                "executable": "jre/Contents/Home/bin/java",
+                "arguments": "-jar Server.jar -nogui",
+                "config": {
+                    "oslist": "macos",
+                    "betakey": "buildtest"
+                },
+                "description_loc": {
+                    "english": "Launch server from terminal"
+                },
+                "description": "Launch server from terminal"
+            },
+            "4": {
+                "executable": "./jre/bin/java",
+                "arguments": "-jar Server.jar",
+                "type": "none",
+                "config": {
+                    "oslist": "linux"
+                }
+            },
+            "5": {
+                "executable": "./jre/bin/java",
+                "arguments": "-jar Server.jar -nogui",
+                "config": {
+                    "oslist": "linux",
+                    "betakey": "buildtest"
+                },
+                "description_loc": {
+                    "english": "Launch server from terminal"
+                },
+                "description": "Launch server from terminal"
+            }
+        }
+    },
+    "depots": {
+        "baselanguages": "english",
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1169372": {
+            "name": "Necesse Dedicated Server Windows 32 bit",
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": "3358731171175084336"
+            },
+            "maxsize": "199782728"
+        },
+        "1169373": {
+            "name": "Necesse Dedicated Server Windows 64 bit",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "6692248624964337363"
+            },
+            "maxsize": "216399816"
+        },
+        "1169374": {
+            "name": "Necesse Dedicated Server MacOS",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "218864531871265483"
+            },
+            "maxsize": "225203269"
+        },
+        "1169375": {
+            "name": "Necesse Dedicated Server Linux",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "7521670638744302485"
+            },
+            "maxsize": "255344978"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8321701",
+                "timeupdated": "1646551574"
+            },
+            "buildtest": {
+                "buildid": "8321701",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1646550438"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "1030cff69e2394897d1608b683fd156b021fbe29",
+    "_size": 3788
+}

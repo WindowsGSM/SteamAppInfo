@@ -1,0 +1,191 @@
+{
+    "appid": "696120",
+    "common": {
+        "name": "GearStorm Dedicated Server",
+        "type": "Tool",
+        "parent": "393800",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "logo": "9cbe2c5d9220da793aeb9b068fd3ee136c6a2f4d",
+        "logo_small": "9cbe2c5d9220da793aeb9b068fd3ee136c6a2f4d_thumb",
+        "icon": "dbd16ddbcd8a452d0b8e8690c4160e62b7a522eb",
+        "clienticon": "8c5906785cf00b34024d795919921f164d23dda4",
+        "clienttga": "738b0a0308c776747076c824d198d969c7e1c206",
+        "releasestate": "released",
+        "metacritic_name": "GearStorm Dedicated Server",
+        "small_capsule": {
+            "english": "capsule_231x87.jpg"
+        },
+        "header_image": {
+            "english": "header.jpg"
+        },
+        "library_assets": {
+            "library_capsule": "en",
+            "library_hero": "en",
+            "library_logo": "en",
+            "logo_position": {
+                "pinned_position": "BottomLeft",
+                "width_pct": "53.85064177362894",
+                "height_pct": "55.319401567323666"
+            }
+        },
+        "store_asset_mtime": "1574946551",
+        "associations": {
+            "0": {
+                "type": "publisher",
+                "name": "Iron City Games"
+            }
+        },
+        "primary_genre": "1",
+        "genres": {
+            "0": "1",
+            "1": "25",
+            "2": "23",
+            "3": "29",
+            "4": "3",
+            "5": "28",
+            "6": "2",
+            "7": "70"
+        },
+        "category": {
+            "category_22": "1",
+            "category_17": "1",
+            "category_1": "1",
+            "category_49": "1",
+            "category_36": "1",
+            "category_47": "1",
+            "category_9": "1",
+            "category_38": "1",
+            "category_48": "1"
+        },
+        "supported_languages": {
+            "english": {
+                "supported": "true",
+                "full_audio": "true",
+                "subtitles": "true"
+            }
+        },
+        "original_release_date": "1574841600",
+        "steam_release_date": "1574952600",
+        "gameid": "696120"
+    },
+    "extended": {
+        "gamedir": "GearStorm",
+        "serverbrowsername": "GearStorm",
+        "publisher": "Iron City Games"
+    },
+    "config": {
+        "installdir": "GearStorm Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "GearStorm\\Binaries\\Win64\\GearStormServer.exe",
+                "description": "GearStorm Dedicated Server",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        },
+        "uselaunchcommandline": "1"
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "name": ".NET 4.6 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "62009092",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "696121": {
+            "name": "GearStorm Dedicated Server Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": "2883015099138287529"
+            },
+            "maxsize": "4733201259"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5912476",
+                "timeupdated": "1606932302"
+            },
+            "beta": {
+                "buildid": "5912476",
+                "description": "Beta Version For Testing",
+                "timeupdated": "1606932291"
+            },
+            "development": {
+                "buildid": "5912476",
+                "description": "For Development Use Only",
+                "pwdrequired": "1",
+                "timeupdated": "1606932296"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "a801e749553c15fc9dcc573499472b8c305c111d",
+    "_size": 3935
+}

@@ -1,0 +1,90 @@
+{
+    "appid": "1750890",
+    "common": {
+        "name": "N1LServerTool",
+        "type": "Tool",
+        "parent": "860960",
+        "releasestate": "released",
+        "clienttga": "14eb3e7da2bb2c2740b86c3ef4f8e8ed7aec74a0",
+        "clienticon": "fc0cbd00d27ed30597c78bcccbaf8d0d5476088d",
+        "icon": "321c9c1760362622f41285ceabe082e0f45dbf8e",
+        "logo": "05596b9890dd4e8576b7baec75db4eb5b4f019bd",
+        "logo_small": "05596b9890dd4e8576b7baec75db4eb5b4f019bd_thumb",
+        "oslist": "",
+        "osarch": "",
+        "osextended": "",
+        "gameid": "1750890"
+    },
+    "extended": {
+        "gamedir": "iirc"
+    },
+    "config": {
+        "installdir": "N1LServerTool",
+        "launch": {
+            "0": {
+                "executable": "N1LBRServer.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "baselanguages": "english",
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1750891": {
+            "name": "N1LServerTool Content",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "3604138602391593556"
+            },
+            "maxsize": "1917008925"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7792780",
+                "timeupdated": "1638167041"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "25f8229654e105f7118d42237d2dbc4054f52f19",
+    "_size": 1739
+}

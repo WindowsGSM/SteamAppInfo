@@ -1,0 +1,64 @@
+{
+    "appid": "976380",
+    "common": {
+        "name": "Never Split the Party Dedicated Server",
+        "type": "Tool",
+        "parent": "711810",
+        "releasestate": "released",
+        "logo": "d3a0ae7b23390bb882fb62ef498682967acd4315",
+        "logo_small": "d3a0ae7b23390bb882fb62ef498682967acd4315_thumb",
+        "icon": "cbcd87d209da883e6f3fbd878488c3541abf0115",
+        "clienticon": "a833dc50d0860f7fae8954e6437fb770a660aa78",
+        "clienttga": "a8431e0ca5d3b9315afc0b2b5e1a87113e99d0d5",
+        "oslist": "windows,linux",
+        "osarch": "",
+        "associations": {},
+        "gameid": "976380",
+        "exfgls": "1"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "installdir": "Never Split the Party Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "Never Split The Party.exe",
+                "arguments": "-batchmode -nographics",
+                "type": "none"
+            }
+        }
+    },
+    "depots": {
+        "976381": {
+            "name": "Never Split the Party Dedicated Server Depot Windows",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "4154303759444280542"
+            },
+            "maxsize": "643589501"
+        },
+        "976382": {
+            "name": "Never Split the Party Dedicated Server Depot Linux",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "2436786604490739657"
+            },
+            "maxsize": "556802426"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5915229",
+                "timeupdated": "1606982549"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "7415fc3ae3505a26028e7568047e124e6d82645d",
+    "_size": 1359
+}

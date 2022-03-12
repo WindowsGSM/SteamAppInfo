@@ -1,0 +1,60 @@
+{
+    "appid": "1061710",
+    "common": {
+        "name": "CryoFall Dedicated Server",
+        "type": "Tool",
+        "parent": "829590",
+        "oslist": "windows,linux",
+        "osarch": "",
+        "logo": "b3b056503011b235fbf2241d59c5655004c5f7f5",
+        "logo_small": "b3b056503011b235fbf2241d59c5655004c5f7f5_thumb",
+        "clienticon": "6defb6cf8c07777a1a5207a5a9844bd9fa65aacf",
+        "clienttga": "85a7d5ac9889aba56d4c9ea6e5f5d6bdd56f9437",
+        "icon": "89bc972ae8416b0a1e5101ef298153101500f179",
+        "releasestate": "released",
+        "osextended": "",
+        "associations": {},
+        "gameid": "1061710",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "CryoFall Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "Readme.txt",
+                "type": "default"
+            }
+        }
+    },
+    "depots": {
+        "1061711": {
+            "name": "CryoFall Dedicated Server",
+            "manifests": {
+                "public": "6733171552322661126",
+                "legacy-r31": "6240746190867404355",
+                "legacy-r32": "7238442648441263839"
+            },
+            "maxsize": "647879569"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8229792",
+                "timeupdated": "1645188888"
+            },
+            "legacy-r31": {
+                "buildid": "7834783",
+                "description": "Old (R31) version of Server.",
+                "timeupdated": "1640955299"
+            },
+            "legacy-r32": {
+                "buildid": "7956630",
+                "description": "Old (R32) version of Server.",
+                "timeupdated": "1645188916"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 13997483,
+    "_sha": "f249a43d973c583257c2e9f3d39248869f0c237e",
+    "_size": 1326
+}

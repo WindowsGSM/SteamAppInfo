@@ -1,0 +1,158 @@
+{
+    "appid": "1433270",
+    "common": {
+        "name": "SCP: Escape Together Dedicated Server",
+        "type": "Tool",
+        "parent": "1394270",
+        "releasestate": "released",
+        "oslist": "",
+        "osarch": "",
+        "osextended": "",
+        "logo": "b6a8bdd487a8ab9dcb28debf562b39b356e0e561",
+        "logo_small": "b6a8bdd487a8ab9dcb28debf562b39b356e0e561_thumb",
+        "clienticon": "9980ec5179bb93d7c188a85cd338defa8ba6ad1a",
+        "clienttga": "4355438dc2e6710f64414d436a52f0243a38ea14",
+        "icon": "a44220936f0850fede0aa4fc4c53720828902e0e",
+        "linuxclienticon": "c4ad71504833ed792a5f0abb9d213a4786bcc6e9",
+        "community_hub_visible": "1",
+        "gameid": "1433270",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "SCP Escape Together Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "scp_et.x86_64",
+                "arguments": "-batchmode -nographics",
+                "type": "server",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "SCP_ET.exe",
+                "arguments": "-batchmode -nographics",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1433271": {
+            "name": "SCP: Escape Together Dedicated Server Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": "1738943022332949455"
+            },
+            "maxsize": "1072539853",
+            "encryptedmanifests": {
+                "ced-test": {
+                    "encrypted_gid_2": "6F847CF81B03BCA61A3CDA4C72D0A02B",
+                    "encrypted_size_2": "67F35DE22900777809013EAD6CB5DC78"
+                },
+                "ci-build": {
+                    "encrypted_gid_2": "88183B4D53D039D6E84D892DA82E6D8A",
+                    "encrypted_size_2": "ED5968EDC6A2D32BE38B7A2B19F7A746"
+                },
+                "thunder-test": {
+                    "encrypted_gid_2": "19C27305DE846E562970384A7DD79293",
+                    "encrypted_size_2": "CCEA2E6F0BE7DCB2DB6855802008E070"
+                }
+            }
+        },
+        "1433272": {
+            "name": "SCP: Escape Together Dedicated Server Content Linux",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": "5452291625194757505"
+            },
+            "maxsize": "1016114810",
+            "encryptedmanifests": {
+                "ced-test": {
+                    "encrypted_gid_2": "FA9D16CD0220D6ED1A5CF587EF1B8D54",
+                    "encrypted_size_2": "76C70E0495ADF010F149E26AAA9B8AE8"
+                },
+                "ci-build": {
+                    "encrypted_gid_2": "6CA8477C985E100FD3F18DB0A1A3376B",
+                    "encrypted_size_2": "C1579BAE1BAC5365E7CBDEE11A0E677E"
+                },
+                "thunder-test": {
+                    "encrypted_gid_2": "D8790FB6E58B14DC552CBE512B541448",
+                    "encrypted_size_2": "44133160E52146986150429AE6091BE5"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8255783",
+                "timeupdated": "1645579335"
+            },
+            "ced-test": {
+                "buildid": "8208475",
+                "description": " \tCed's testing branch",
+                "pwdrequired": "1",
+                "timeupdated": "1644950110"
+            },
+            "ci-build": {
+                "buildid": "8281067",
+                "description": "Builds from CI",
+                "pwdrequired": "1",
+                "timeupdated": "1645923196"
+            },
+            "thunder-test": {
+                "buildid": "8281067",
+                "description": "Thunder's testing branch",
+                "pwdrequired": "1",
+                "timeupdated": "1645923198"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "5710f0c845bfec3475fe1bc3e6361190fedffc11",
+    "_size": 3734
+}

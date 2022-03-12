@@ -1,0 +1,63 @@
+{
+    "appid": "904710",
+    "common": {
+        "name": "The Warhorn Dedicated Server",
+        "type": "Tool",
+        "parent": "660920",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "64",
+        "clienttga": "14113f43316a746aff5d85fc011c6fb19f4ce184",
+        "clienticon": "3be94a583ca85df1979190f97593c7f8754dc89d",
+        "icon": "1be59b9c315359feb0e9299abbf278aacc4ebbdc",
+        "logo": "f92f9faea390fa7e07110042cba05681069f30f4",
+        "logo_small": "f92f9faea390fa7e07110042cba05681069f30f4_thumb",
+        "app_retired_publisher_request": "1",
+        "associations": {},
+        "steam_release_date": "1545411600",
+        "community_hub_visible": "1",
+        "gameid": "904710"
+    },
+    "config": {
+        "installdir": "The Warhorn Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "TheWarhornServerLauncher.exe",
+                "type": "none",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "baselanguages": "english",
+        "904711": {
+            "name": "The Warhorn Dedicated Server Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "7831341002359120175"
+            },
+            "maxsize": "2326776114"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6858496",
+                "timeupdated": "1623511918"
+            },
+            "developers": {
+                "buildid": "6858496",
+                "description": "",
+                "timeupdated": "1623511504"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11739360,
+    "_sha": "31a1b88fa2e7d97a378ffa950ffd8c38f9f63936",
+    "_size": 1347
+}

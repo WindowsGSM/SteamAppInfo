@@ -1,0 +1,119 @@
+{
+    "appid": "302200",
+    "common": {
+        "name": "Miscreated Dedicated Server",
+        "type": "Tool",
+        "releasestate": "released",
+        "oslist": "",
+        "logo": "1caf3ead5c52be5ffe45d5b2aed9f4510a7f4c21",
+        "logo_small": "1caf3ead5c52be5ffe45d5b2aed9f4510a7f4c21_thumb",
+        "icon": "aa5ad156c129a711b82f0a324bb46137947d1307",
+        "clienticon": "1ae20339de3855d8b1eb362854b49428132c96a0",
+        "clienttga": "4b5b05fe711233be7171649094fb039e7df9cc5e",
+        "osarch": "",
+        "associations": {},
+        "gameid": "302200"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "MiscreatedServer",
+        "launch": {
+            "0": {
+                "executable": "Bin64_dedicated/MiscreatedServer.exe",
+                "arguments": "-sv_port 64090 +sv_maxplayers 50 +map islands -mis_gameserverid 100  +sv_servername \"My Server\"",
+                "description": "MiscreatedServer",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "228983": {
+            "name": "VC 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "19265607",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "name": "VC 2015 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29759921",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "302201": {
+            "name": "Miscreated Dedicated Server Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "9177634407733912381"
+            },
+            "maxsize": "4662043955",
+            "encryptedmanifests": {
+                "dev": {
+                    "encrypted_gid_2": "C8A740CA481D2338089CCDCBDA3D0475",
+                    "encrypted_size_2": "0445686C7F5D2904F3F08C66E2AE3B25"
+                },
+                "experimental": {
+                    "encrypted_gid_2": "8C83840627A7063E735F79F536C60DC2",
+                    "encrypted_size_2": "B4F34062459D083E9929C22C24B20EB9"
+                },
+                "hosting": {
+                    "encrypted_gid_2": "4A335A4D289E8BCB932271710230D48A",
+                    "encrypted_size_2": "4440ED4988F3867DD0A477C1ABDC99FF"
+                }
+            }
+        },
+        "workshopdepot": "302200",
+        "branches": {
+            "public": {
+                "buildid": "7677244",
+                "timeupdated": "1636396380"
+            },
+            "dev": {
+                "buildid": "7915334",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1640025071"
+            },
+            "experimental": {
+                "buildid": "5504149",
+                "description": "Experimental public server",
+                "pwdrequired": "1",
+                "timeupdated": "1599237694"
+            },
+            "hosting": {
+                "buildid": "7676427",
+                "description": "For Server Hosters",
+                "pwdrequired": "1",
+                "timeupdated": "1636386695"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 13472013,
+    "_sha": "a43f307659a3eba2faaacfcd43fab58574e87df3",
+    "_size": 2734
+}

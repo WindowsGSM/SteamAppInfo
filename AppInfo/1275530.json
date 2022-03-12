@@ -1,0 +1,68 @@
+{
+    "appid": "1275530",
+    "common": {
+        "name": "DeadsideServer",
+        "type": "Tool",
+        "parent": "895400",
+        "releasestate": "released",
+        "oslist": "linux",
+        "osarch": "",
+        "osextended": "",
+        "logo": "c38e70c26b09dd91c5d5b18b3b873e3a3789bfa8",
+        "logo_small": "c38e70c26b09dd91c5d5b18b3b873e3a3789bfa8_thumb",
+        "icon": "af7260cb89c19356cb6ddd0a5fff601dc2c35638",
+        "clienticon": "5ad1ebac1d98735ae8224ee6d06992875960f860",
+        "clienttga": "8141c61786bb40f9168d7390717c0c8bcc8b53f9",
+        "gameid": "1275530"
+    },
+    "config": {
+        "installdir": "DeadsideServer",
+        "launch": {
+            "0": {
+                "executable": "server.txt",
+                "type": "none"
+            }
+        }
+    },
+    "depots": {
+        "1275531": {
+            "name": "DeadsideServer Content",
+            "manifests": {
+                "public": "3373581341224861719"
+            },
+            "maxsize": "6",
+            "encryptedmanifests": {
+                "public_test": {
+                    "encrypted_gid_2": "20E0A889F7C08CC3591DB607D1C924CF",
+                    "encrypted_size_2": "82D0812B4905B4194D12477E0400F086"
+                },
+                "server": {
+                    "encrypted_gid_2": "B5FAFAB593E208DF98DB94416151CEF8",
+                    "encrypted_size_2": "9A70A4B64B900BC4A87A8ACE11EA2DA9"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "4809008",
+                "timeupdated": "1584971599"
+            },
+            "public_test": {
+                "buildid": "8294856",
+                "description": "public test fro GPortal",
+                "pwdrequired": "1",
+                "timeupdated": "1646152968"
+            },
+            "server": {
+                "buildid": "8315872",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1646413848"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14134560,
+    "_sha": "d2365e6df9a05457600b4257476894f268f89a03",
+    "_size": 1498
+}

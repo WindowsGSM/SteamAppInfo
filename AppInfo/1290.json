@@ -1,0 +1,105 @@
+{
+    "appid": "1290",
+    "common": {
+        "type": "Tool",
+        "parent": "1280",
+        "name": "Darkest Hour: Europe '44-'45 Dedicated Server",
+        "oslist": "windows,macos,linux",
+        "osarch": "",
+        "gameid": "1290",
+        "exfgls": "1"
+    },
+    "extended": {
+        "developer": "",
+        "gamedir": "DarkestHourServer",
+        "homepage": "",
+        "icon": "",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "1291",
+        "serverbrowsername": "",
+        "state": "eStateUnAvailable"
+    },
+    "config": {
+        "launch": {
+            "0": {
+                "description": "DarkestHourServer",
+                "executable": "System\\ucc.exe"
+            }
+        },
+        "contenttype": "3",
+        "installdir": "DarkestHourServer"
+    },
+    "depots": {
+        "overridescddb": "1",
+        "1281": {
+            "name": "DarkestHourCommon",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "2316483840682966544",
+                "prerelease": "2070342613782853031",
+                "previous": "9010623618386807462"
+            },
+            "maxsize": "10206511180",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "33140EDABBBE26D155150C3E38F51199",
+                    "encrypted_size_2": "67379AA9816BC1C6BA98A08AA2DEA91A"
+                },
+                "halloween": {
+                    "encrypted_gid_2": "888FFB4A0B2FA9FA0322F9DDBA19F2D6",
+                    "encrypted_size_2": "C837DAFB6FF81C2379EB1590EEDC5D9F"
+                }
+            },
+            "depotfromapp": "1280"
+        },
+        "1291": {
+            "name": "DarkestHourDedicatedServer",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "2712164138973594349",
+                "prerelease": "3547359333872292882",
+                "previous": "897293349609473024"
+            },
+            "maxsize": "1827461458",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "0D0F8BDC9A2C8A38A66E1335AB7C94C7",
+                    "encrypted_size_2": "0266B9C435EC1A46BC8E01E4B240C172"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8359367",
+                "timeupdated": "1647083093"
+            },
+            "development": {
+                "buildid": "7940874",
+                "description": "Development and testing branch",
+                "pwdrequired": "1",
+                "timeupdated": "1640484677"
+            },
+            "prerelease": {
+                "buildid": "7788411",
+                "description": " \tPre-release testing branch",
+                "timeupdated": "1638033478"
+            },
+            "previous": {
+                "buildid": "7781774",
+                "description": " \tRollback to previous version",
+                "timeupdated": "1638608419"
+            },
+            "halloween": {
+                "buildid": "7632620",
+                "description": "Halloween Pre-Release",
+                "pwdrequired": "1",
+                "timeupdated": "1636369176"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14207071,
+    "_sha": "bb72ef63045eb650b765015c0d2103195efe39de",
+    "_size": 2361
+}

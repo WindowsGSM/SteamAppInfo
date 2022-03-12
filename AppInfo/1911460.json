@@ -1,0 +1,70 @@
+{
+    "appid": "1911460",
+    "common": {
+        "name": "Infinite Progression Dedicated Server",
+        "type": "Tool",
+        "parent": "1794710",
+        "logo": "54d77d32515b6cfc762e14b1e3eb44f081799de0",
+        "logo_small": "54d77d32515b6cfc762e14b1e3eb44f081799de0_thumb",
+        "icon": "33e294dd1c2f7464812c3ba9fb7fd781ed691e9c",
+        "clienticon": "ff3a16a55a63aaf9502341a14a64c0ab8d31b00b",
+        "clienttga": "6012ea81d68607ad0dfc5610e61f17101373c1fd",
+        "oslist": "windows,linux",
+        "osarch": "",
+        "osextended": "",
+        "releasestate": "released",
+        "gameid": "1911460"
+    },
+    "config": {
+        "installdir": "Infinite Progression",
+        "launch": {
+            "0": {
+                "executable": "Server/PC/IP-Server.exe",
+                "workingdir": "Server/PC/",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "Server/Linux/IP-Server.x86_64",
+                "workingdir": "Server/Linux/",
+                "type": "default",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1911461": {
+            "name": "Infinite Progression Dedicated Server Content",
+            "manifests": {
+                "public": "4258719891330006335"
+            },
+            "maxsize": "220265045",
+            "encryptedmanifests": {
+                "alpha": {
+                    "encrypted_gid_2": "445BDA72E895D00C6D7B0137BBB9D677",
+                    "encrypted_size_2": "24E1AA780F86BA208806D738039AAF5B"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8314620",
+                "timeupdated": "1646402341"
+            },
+            "alpha": {
+                "buildid": "8329208",
+                "description": "the alpha branch",
+                "pwdrequired": "1",
+                "timeupdated": "1646686660"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14158639,
+    "_sha": "d4808fb74ddea58d2288a2fe8ef16651783dd44e",
+    "_size": 1548
+}

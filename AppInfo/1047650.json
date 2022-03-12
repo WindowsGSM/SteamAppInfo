@@ -1,0 +1,164 @@
+{
+    "appid": "1047650",
+    "common": {
+        "name": "Road to Eden - Dedicated server",
+        "type": "Tool",
+        "parent": "929060",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "clienttga": "ac49405840ca94666dfbf9a5839a701b02cef0db",
+        "clienticon": "f2164c7984aca1a675d31f798c1c9dc5d9c1b257",
+        "icon": "95d4221caae2ec6e1f277ae19ec1a556d9fb77b8",
+        "logo": "175cf88d36b7803b83187a175059e34cbfa110cd",
+        "logo_small": "175cf88d36b7803b83187a175059e34cbfa110cd_thumb",
+        "associations": {},
+        "community_hub_visible": "1",
+        "gameid": "1047650"
+    },
+    "extended": {
+        "gamedir": "Road to Eden",
+        "serverbrowsername": "Road to Eden"
+    },
+    "config": {
+        "installdir": "Road to Eden - Dedicated server",
+        "launch": {
+            "0": {
+                "executable": "RoadtoEden424Server-Win64-Shipping.exe",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "baselanguages": "english",
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228986": {
+            "name": "VC 2015 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29759921",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "name": "VC 2017 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29664201",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "name": ".NET 4.0 Client Profile Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "43001447",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229032": {
+            "name": "PhysX System Software 9.13.1220",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "41178235",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1047651": {
+            "name": "Road to Eden - Dedicated server Content",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": "8112630256110267612"
+            },
+            "maxsize": "2156374866"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7842277",
+                "timeupdated": "1639036910"
+            },
+            "experimental": {
+                "buildid": "7842277",
+                "description": "test_server",
+                "timeupdated": "1638893224"
+            },
+            "private": {
+                "buildid": "7842277",
+                "description": "private testing branch",
+                "timeupdated": "1639036959"
+            },
+            "server_private": {
+                "buildid": "7842277",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1639036969"
+            },
+            "unstable": {
+                "buildid": "7842277",
+                "description": "dev server",
+                "timeupdated": "1639036981"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "8f3285a2a2a378bf2e623e862827800bb16c62b0",
+    "_size": 3394
+}

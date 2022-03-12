@@ -1,0 +1,69 @@
+{
+    "appid": "13180",
+    "common": {
+        "name": "America's Army 3 Dedicated Server",
+        "logo": "c71c7280e754e754ec1060cc868011c25bd30f63",
+        "logo_small": "c71c7280e754e754ec1060cc868011c25bd30f63_thumb",
+        "icon": "d2be5ddb7b8154fd756843cea4335e9ec9754552",
+        "clienttga": "6903cbeb3319e60f652dec12b846d99c0e019e55",
+        "clienticon": "93c34af3d145c168bd7396cfce7d2c0d99167cb6",
+        "metacritic_url": "pc/americasarmy3",
+        "type": "Tool",
+        "freeondemand": "1",
+        "eulas": {
+            "0": {
+                "url": "http://aa3.americasarmy.com/aa3_eula/aa3eula.html",
+                "id": "create_me",
+                "name": "Unsupported EULA (editing is disabled)"
+            }
+        },
+        "gameid": "13180"
+    },
+    "extended": {
+        "developer": "U.S. Army",
+        "gamedir": "America's Army 3 Dedicated Server",
+        "homepage": "www.americasarmy.com",
+        "icon": "",
+        "installscript": "DirectX\\Installscript.vdf",
+        "launcheula": "http://aa3.americasarmy.com/aa3_eula/aa3eula.html",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "13181",
+        "serverbrowsername": "",
+        "state": "eStateTool"
+    },
+    "config": {
+        "launch": {
+            "0": {
+                "executable": "Binaries\\AA3Loader.exe",
+                "arguments": "/DS"
+            }
+        },
+        "contenttype": "3",
+        "installdir": "America's Army 3 Dedicated Server"
+    },
+    "depots": {
+        "13181": {
+            "name": "AA3_Public_Server",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "7800628848936793636"
+            },
+            "maxsize": "2933453659"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "24748"
+            },
+            "beta": {
+                "buildid": "24748",
+                "description": "beta version"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "862844c80f64115ae8d61bda26781849463ad12e",
+    "_size": 1559
+}

@@ -1,0 +1,75 @@
+{
+    "appid": "1475910",
+    "common": {
+        "name": "DIY Simulator Dedicated Server",
+        "type": "Tool",
+        "parent": "753210",
+        "releasestate": "released",
+        "logo": "d866d1a2569d153d0443e4b44b6608f31b1b36f8",
+        "logo_small": "d866d1a2569d153d0443e4b44b6608f31b1b36f8_thumb",
+        "icon": "94e0a260e4405bbdb08184f6aad58f88ee476c94",
+        "clienttga": "04e90895e1f5080ad6d3a21bc7dfc7943a04c7da",
+        "linuxclienticon": "c46eefeaf6038dc0f5d8a424f14267176f5ccf81",
+        "clienticon": "64c53054aed463e53e77333b440f0b148a372baf",
+        "gameid": "1475910"
+    },
+    "config": {
+        "installdir": "DIY Simulator Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "SurvivalGameServer.sh",
+                "type": "server",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1475911": {
+            "name": "DIY Simulator Dedicated Server Content"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8350903",
+                "timeupdated": "1646964563"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "b02f887665059205bb22039c98f13b88830b93fd",
+    "_size": 1561
+}

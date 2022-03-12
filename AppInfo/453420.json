@@ -1,0 +1,108 @@
+{
+    "appid": "453420",
+    "common": {
+        "name": "Formicide Dedicated Server",
+        "type": "Tool",
+        "oslist": "windows",
+        "icon": "f5a3c7ed3f377f1a76bee59a22c469420be2baa1",
+        "logo": "092e029c5fd8de56ec229e3894583d7fb019926c",
+        "logo_small": "092e029c5fd8de56ec229e3894583d7fb019926c_thumb",
+        "clienttga": "659b3297e4d9afb053e4bd94f46d51720ecbf7fc",
+        "clienticon": "21473b683c0e4c7b3bc5b68887a7459c8614659c",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "453420"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Formicide Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "Formicide Server Manager.exe",
+                "type": "none",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228983": {
+            "name": "VC 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "19265607",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "453421": {
+            "name": "Formicide Dedicated Server Content",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "8058626742077341079"
+            },
+            "maxsize": "215743338",
+            "encryptedmanifests": {
+                "testing": {
+                    "encrypted_gid_2": "DAD8D9A7311D832D7BD20F5BEB1E8E7C",
+                    "encrypted_size_2": "769FDE8D9CC1D4F1270E008735207533"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1965313",
+                "timeupdated": "1500245971"
+            },
+            "testing": {
+                "buildid": "1908015",
+                "description": "Testing branch",
+                "pwdrequired": "1",
+                "timeupdated": "1498103791"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "5c99264b72ed1e6e1fd7442b8275f0220d4a790c",
+    "_size": 2210
+}

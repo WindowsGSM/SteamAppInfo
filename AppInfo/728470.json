@@ -1,0 +1,294 @@
+{
+    "appid": "728470",
+    "common": {
+        "name": "ASTRONEER Dedicated Server",
+        "type": "Tool",
+        "parent": "361420",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "64",
+        "clienttga": "136ef74f5485c687ab9185c1fb9c63624fdd07ef",
+        "clienticon": "29a46bb1cc0cae5076b66b9915c1c170c3696080",
+        "icon": "18ef632a152a69a8fb4f62c074cd50aa15d3bf33",
+        "logo": "baf5219a4a1add9497e81c1ed4b513949c8e51a7",
+        "logo_small": "baf5219a4a1add9497e81c1ed4b513949c8e51a7_thumb",
+        "associations": {},
+        "gameid": "728470"
+    },
+    "config": {
+        "installdir": "ASTRONEER Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "AstroServer.exe",
+                "type": "default",
+                "config": {
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "AstroServer.exe",
+                "description": "Accept connections",
+                "type": "server",
+                "config": {
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228986": {
+            "name": "VC 2015 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29759921",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "728471": {
+            "name": "ASTRONEER Dedicated Server Content",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "251083873777296785"
+            },
+            "maxsize": "2206933717",
+            "encryptedmanifests": {
+                "astro_ds": {
+                    "encrypted_gid_2": "62C5B4D94CB35F76C62EBE9B9A92131E",
+                    "encrypted_size_2": "80CEEDB4CB97AEBCECB953D52043F34F"
+                },
+                "astro_rc": {
+                    "encrypted_gid_2": "A6A95622F57B0BA019319C3BEF063A90",
+                    "encrypted_size_2": "8032C527AC901A5CF15A9A0A1671EEDA"
+                },
+                "astro_rc_dev": {
+                    "encrypted_gid_2": "35DCD74BE84E896A783B321CFB780CA3",
+                    "encrypted_size_2": "045622A7E032FA3378A9A4F4E8C0E15A"
+                },
+                "astrodev_et": {
+                    "encrypted_gid_2": "D5A036F13B20C98FB91A639F8542856C",
+                    "encrypted_size_2": "D073FEABD3A90637124668B7A26F7687"
+                },
+                "astrodev_profiling": {
+                    "encrypted_gid_2": "6FD2357B1A393A6CF302117B1C05D9FB",
+                    "encrypted_size_2": "B5F91760CC6473E639D5112381291FC6"
+                },
+                "astromain_dailies": {
+                    "encrypted_gid_2": "42194B454FD61C18AD4D1B9B4B40D34D",
+                    "encrypted_size_2": "9B610C3C410977E8F240A6347519775B"
+                },
+                "astromain_incremental": {
+                    "encrypted_gid_2": "A668E8AE8B3A8CC06707F108A688D47A",
+                    "encrypted_size_2": "2554DA593154032BD659746F17AF895E"
+                },
+                "astromain_su": {
+                    "encrypted_gid_2": "C0C86416F5F353614F9F8AB0D6F6DAEF",
+                    "encrypted_size_2": "557A868B43CFDAF5D89C7A0CC6BEE49D"
+                },
+                "astroneer_beta": {
+                    "encrypted_gid_2": "F8AF21C08B59ED6523181ADB42117D55",
+                    "encrypted_size_2": "427FBB139473D2849B1348E7838201FE"
+                },
+                "astrortx_cu": {
+                    "encrypted_gid_2": "5A15C0E6D870C9BABC45FCF1658037DB",
+                    "encrypted_size_2": "D0B79ED145BC97D3CA16383AEDA895E2"
+                },
+                "astrortx_cu_dev": {
+                    "encrypted_gid_2": "ABAB7E03E6209F05D40F5C74F4A4274F",
+                    "encrypted_size_2": "710C713DE892D97ACECB4C89BAB0C8E2"
+                },
+                "astrortx_dailies": {
+                    "encrypted_gid_2": "00B07EC251AA88D0A39ED71155900A1E",
+                    "encrypted_size_2": "0DB7962E5178211C5558B1090D9FFCA5"
+                },
+                "astrortx_ds": {
+                    "encrypted_gid_2": "B54ADF67AD1CD1E9EF0B83BD35570F2D",
+                    "encrypted_size_2": "CDED12C7CDFB4249513A66B6F0EEC86B"
+                },
+                "astrortx_et": {
+                    "encrypted_gid_2": "752CA795A4EBBECD5A19B702139DA05C",
+                    "encrypted_size_2": "652D7DC0D5E1FF3879313B16BF65BDBE"
+                },
+                "astrortx_incremental": {
+                    "encrypted_gid_2": "7A88F373BE08569F9B7CEFC929A838CD",
+                    "encrypted_size_2": "42C15E3125D6F1B77EAD9988125189CD"
+                },
+                "debug": {
+                    "encrypted_gid_2": "188433C5B2B1A0519B5C3C1B0C2ECA39",
+                    "encrypted_size_2": "6D7C556C36FB2B64EAF0DFC41D1C4D0E"
+                },
+                "internal_playtest": {
+                    "encrypted_gid_2": "3736C90C59B299B4E751B2CD84F03CCB",
+                    "encrypted_size_2": "2BEDAF0F0B9DF0B976EB08A4696BAEDF"
+                },
+                "qa_sandbox": {
+                    "encrypted_gid_2": "EE15203DEA6E53239F88A1574D40B01B",
+                    "encrypted_size_2": "87CF6492DD4E610501EA8BADFBC784A0"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8121585",
+                "timeupdated": "1643931328"
+            },
+            "astro_ds": {
+                "buildid": "5174285",
+                "description": "ds test integration",
+                "pwdrequired": "1",
+                "timeupdated": "1592332548"
+            },
+            "astro_rc": {
+                "buildid": "8336401",
+                "description": "Latest Release Candidate build",
+                "pwdrequired": "1",
+                "timeupdated": "1646779852"
+            },
+            "astro_rc_dev": {
+                "buildid": "8329284",
+                "description": "Latest Release Candidate development build",
+                "pwdrequired": "1",
+                "timeupdated": "1646687490"
+            },
+            "astrodev_et": {
+                "buildid": "6973110",
+                "description": "Dev external test build",
+                "pwdrequired": "1",
+                "timeupdated": "1625269121"
+            },
+            "astrodev_profiling": {
+                "buildid": "5978708",
+                "description": "dev performance testing",
+                "pwdrequired": "1",
+                "timeupdated": "1608162001"
+            },
+            "astromain_dailies": {
+                "buildid": "8359345",
+                "description": "Main Dailies",
+                "pwdrequired": "1",
+                "timeupdated": "1647082341"
+            },
+            "astromain_incremental": {
+                "buildid": "8358256",
+                "description": "Main incremental builds\t",
+                "pwdrequired": "1",
+                "timeupdated": "1647053607"
+            },
+            "astromain_su": {
+                "buildid": "8359288",
+                "description": "dedicated server testing",
+                "pwdrequired": "1",
+                "timeupdated": "1647080289"
+            },
+            "astroneer_beta": {
+                "buildid": "8225454",
+                "description": "Closed beta testing",
+                "pwdrequired": "1",
+                "timeupdated": "1645215393"
+            },
+            "astrortx_cu": {
+                "buildid": "6995950",
+                "description": "RTX shipping",
+                "pwdrequired": "1",
+                "timeupdated": "1625771349"
+            },
+            "astrortx_cu_dev": {
+                "buildid": "6996172",
+                "description": "RTX non shipping",
+                "pwdrequired": "1",
+                "timeupdated": "1625771378"
+            },
+            "astrortx_dailies": {
+                "buildid": "8314053",
+                "description": "RTX Dailies",
+                "pwdrequired": "1",
+                "timeupdated": "1646394948"
+            },
+            "astrortx_ds": {
+                "buildid": "4245868",
+                "description": "ds test integration rtx",
+                "pwdrequired": "1",
+                "timeupdated": "1570462692"
+            },
+            "astrortx_et": {
+                "buildid": "5406765",
+                "description": "external testing",
+                "pwdrequired": "1",
+                "timeupdated": "1597525015"
+            },
+            "astrortx_incremental": {
+                "buildid": "8357355",
+                "description": "RTX incremental builds\t",
+                "pwdrequired": "1",
+                "timeupdated": "1647037033"
+            },
+            "debug": {
+                "buildid": "2409203",
+                "description": "debug",
+                "pwdrequired": "1",
+                "timeupdated": "1515082662"
+            },
+            "internal_playtest": {
+                "buildid": "6696623",
+                "description": "internal playtest",
+                "pwdrequired": "1",
+                "timeupdated": "1620942651"
+            },
+            "qa_sandbox": {
+                "buildid": "8225454",
+                "description": "For QA use",
+                "pwdrequired": "1",
+                "timeupdated": "1645134734"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14206995,
+    "_sha": "dab02740c898f9a5542a86625f990b828e499d6b",
+    "_size": 7683
+}

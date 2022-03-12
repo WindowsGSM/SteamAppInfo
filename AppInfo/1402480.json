@@ -1,0 +1,184 @@
+{
+    "appid": "1402480",
+    "common": {
+        "name": "NARAKA: BLADEPOINT - Test Server",
+        "type": "Game",
+        "releasestate": "released",
+        "clienticon": "26a182a0877cef7cbde11509de271735027c9027",
+        "clienttga": "6012ea81d68607ad0dfc5610e61f17101373c1fd",
+        "icon": "8055e7baa81ce2084d7daa42233983967956abb0",
+        "linuxclienticon": "52db544adc03f2785d53888787c4e637c7ace007",
+        "eulas": {
+            "0": {
+                "id": "1402480_eula_0",
+                "name": "NARAKA: BLADEPOINT - Test Server EULA",
+                "url": "https://store.steampowered.com//eula/1402480_eula_0",
+                "version": "1"
+            }
+        },
+        "logo": "4c943f0ba1addc448e6c2d983ca5a97c39ed0023",
+        "logo_small": "4c943f0ba1addc448e6c2d983ca5a97c39ed0023_thumb",
+        "exfgls": "1",
+        "languages": {
+            "english": "1",
+            "schinese": "1"
+        },
+        "has_adult_content": "1",
+        "has_adult_content_violence": "1",
+        "small_capsule": {
+            "english": "capsule_231x87.jpg"
+        },
+        "header_image": {
+            "english": "header.jpg"
+        },
+        "library_assets": {
+            "library_capsule": "en",
+            "library_hero": "en",
+            "library_logo": "en",
+            "logo_position": {
+                "pinned_position": "BottomLeft",
+                "width_pct": "46.51162790697675",
+                "height_pct": "57.97910235098553"
+            }
+        },
+        "store_asset_mtime": "1605167266",
+        "associations": {
+            "0": {
+                "type": "developer",
+                "name": "24 Entertainment"
+            },
+            "1": {
+                "type": "publisher",
+                "name": " 24 Entertainment"
+            }
+        },
+        "primary_genre": "1",
+        "genres": {
+            "0": "1",
+            "1": "25"
+        },
+        "category": {
+            "category_1": "1",
+            "category_49": "1",
+            "category_36": "1",
+            "category_45": "1",
+            "category_46": "1"
+        },
+        "supported_languages": {
+            "english": {
+                "supported": "true",
+                "subtitles": "true"
+            },
+            "japanese": {
+                "supported": "true",
+                "subtitles": "true"
+            },
+            "schinese": {
+                "supported": "true",
+                "subtitles": "true"
+            },
+            "tchinese": {
+                "supported": "true",
+                "subtitles": "true"
+            },
+            "koreana": {
+                "supported": "true",
+                "subtitles": "true"
+            }
+        },
+        "community_visible_stats": "1",
+        "community_hub_visible": "1",
+        "gameid": "1402480",
+        "store_tags": {
+            "0": "21",
+            "1": "19",
+            "2": "1775",
+            "3": "1685",
+            "4": "3843",
+            "5": "4345",
+            "6": "4667"
+        },
+        "review_score": "8",
+        "review_percentage": "86"
+    },
+    "extended": {
+        "developer": "24 Entertainment",
+        "publisher": " 24 Entertainment"
+    },
+    "config": {
+        "installdir": "NARAKA BLADEPOINT - Test Server",
+        "launch": {
+            "0": {
+                "executable": "StartGame.exe",
+                "type": "none",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "name": ".NET 4.6 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "62009092",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1402481": {
+            "name": "NARAKA: BLADEPOINT - Test Server Content",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": "1108227946038833207"
+            },
+            "maxsize": "22494913903"
+        },
+        "1402482": {
+            "name": "NARAKA: BLADEPOINT - Test Server Depot4Test",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": "1285174043198196567"
+            },
+            "maxsize": "22494913903"
+        },
+        "baselanguages": "schinese",
+        "branches": {
+            "public": {
+                "buildid": "8338204",
+                "timeupdated": "1646807215"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14194697,
+    "_sha": "9a2300bd6ee87e1e7f0bebb5ccaadab1b56b56bf",
+    "_size": 3685
+}

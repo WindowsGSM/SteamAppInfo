@@ -1,0 +1,57 @@
+{
+    "appid": "382030",
+    "common": {
+        "name": "Yargis - Space Melee - Dedicated Server",
+        "type": "Tool",
+        "releasestate": "released",
+        "logo": "c3a1968d8a1cdf722b7ec073de3c350eaa1ebdc0",
+        "logo_small": "c3a1968d8a1cdf722b7ec073de3c350eaa1ebdc0_thumb",
+        "clienticon": "e826b9e9137a18aacb71698d246dd424154b3944",
+        "clienttga": "3e3e1ff1ec0ca88f3c4128b78c916acb499fa13c",
+        "icon": "5bed90107daf49f3342f16d418be9127c88862f3",
+        "oslist": "windows",
+        "associations": {},
+        "gameid": "382030"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Yargis - Space Melee - Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "YargisServerConfig.exe",
+                "description": "Launch Config Tool"
+            },
+            "1": {
+                "executable": "YargisServer.exe",
+                "description": "Launch Console Mode"
+            }
+        }
+    },
+    "depots": {
+        "382031": {
+            "name": "Yargis - Space Melee - Dedicated Server Content",
+            "manifests": {
+                "public": "7390162872221018540"
+            },
+            "maxsize": "451649938"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1029233",
+                "timeupdated": "1458233831"
+            },
+            "alpha": {
+                "buildid": "1029233",
+                "description": "development version",
+                "timeupdated": "1458233814"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "15c77dfb02d2b7fd0cf166110ad8c40f1d73849d",
+    "_size": 1249
+}

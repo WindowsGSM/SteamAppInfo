@@ -1,0 +1,192 @@
+{
+    "appid": "912290",
+    "common": {
+        "name": "Miscreated: Experimental Server",
+        "type": "Game",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "",
+        "clienttga": "4b5b05fe711233be7171649094fb039e7df9cc5e",
+        "clienticon": "1ae20339de3855d8b1eb362854b49428132c96a0",
+        "icon": "4b038f4bcfe08476f2eec61b22c75de04b86f8fe",
+        "eulas": {
+            "0": {
+                "id": "912290_eula_0",
+                "name": "Miscreated: Experimental Server EULA",
+                "url": "https://store.steampowered.com//eula/912290_eula_0"
+            }
+        },
+        "logo": "9809371230aa68a1d98608c7e97670c5d1c024ab",
+        "logo_small": "9809371230aa68a1d98608c7e97670c5d1c024ab_thumb",
+        "metacritic_name": "Miscreated: Experimental Server",
+        "small_capsule": {
+            "english": "capsule_231x87.jpg"
+        },
+        "header_image": {
+            "english": "header.jpg"
+        },
+        "store_asset_mtime": "1532722447",
+        "associations": {
+            "0": {
+                "type": "developer",
+                "name": "Entrada Interactive LLC"
+            },
+            "1": {
+                "type": "publisher",
+                "name": "Entrada Interactive LLC"
+            }
+        },
+        "primary_genre": "29",
+        "genres": {
+            "0": "1",
+            "1": "25",
+            "2": "23",
+            "3": "29",
+            "4": "3",
+            "5": "28",
+            "6": "2"
+        },
+        "category": {
+            "category_1": "1"
+        },
+        "supported_languages": {
+            "english": {
+                "supported": "true"
+            }
+        },
+        "steam_release_date": "1532980800",
+        "workshop_visible": "1",
+        "community_hub_visible": "1",
+        "gameid": "912290",
+        "exfgls": "1"
+    },
+    "extended": {
+        "anti_cheat_support_url": "https://www.easy.ac/r/steam/gamebans/?steamAppId=912290",
+        "developer": "Entrada Interactive LLC",
+        "publisher": "Entrada Interactive LLC",
+        "homepage": "http://miscreatedgame.com",
+        "isfreeapp": "1"
+    },
+    "config": {
+        "installdir": "Miscreated Experimental Server",
+        "launch": {
+            "0": {
+                "executable": "Miscreated.exe",
+                "description": "Launch",
+                "type": "none",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "228983": {
+            "name": "VC 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "19265607",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "name": "VC 2012 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "13742505",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "name": "VC 2013 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "13699237",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "912291": {
+            "name": "Miscreated: Experimental Server Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "4392476096465872243"
+            },
+            "maxsize": "12960144837",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "A6B3C05CE22069A886C0A5DBCC13DAF6",
+                    "encrypted_size_2": "FAB5895F7F8DCF1D5D3C32644B5BDC6F"
+                }
+            }
+        },
+        "959471": {
+            "name": "Miscreated - Main Menu Theme Depot",
+            "dlcappid": "959471",
+            "manifests": {
+                "public": "1017070711154321779"
+            },
+            "maxsize": "16427568",
+            "depotfromapp": "959470"
+        },
+        "workshopdepot": "912290",
+        "branches": {
+            "public": {
+                "buildid": "3967865",
+                "timeupdated": "1600087212"
+            },
+            "development": {
+                "buildid": "7915345",
+                "description": "Internal dev branch",
+                "pwdrequired": "1",
+                "timeupdated": "1640025192"
+            },
+            "development2": {
+                "buildid": "3967865",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1561850539"
+            }
+        }
+    },
+    "ufs": {
+        "quota": "100000000000",
+        "maxnumfiles": "10000",
+        "hidecloudui": "1",
+        "ignoreexternalfiles": "1"
+    },
+    "_missing_token": false,
+    "_change_number": 13483601,
+    "_sha": "8e64f4481c32533321878d7fd2e0cf3cd164eb86",
+    "_size": 4040
+}

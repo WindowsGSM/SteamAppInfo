@@ -1,0 +1,82 @@
+{
+    "appid": "1926100",
+    "common": {
+        "name": "RealTennisServer",
+        "type": "Tool",
+        "parent": "1809820",
+        "oslist": "",
+        "osarch": "",
+        "osextended": "",
+        "logo": "5918eed38846017814375dc5b85aa440a01b43c0",
+        "logo_small": "5918eed38846017814375dc5b85aa440a01b43c0_thumb",
+        "icon": "615687bd1b61c037ccf9fdee0c66322e1ff856ae",
+        "clienttga": "b09b08f0830ed3688eb8f59aace7c15ac70e913c",
+        "clienticon": "c88d8b52ce250896d522aa555e92489f56f7fcb3",
+        "releasestate": "released",
+        "gameid": "1926100",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "RealTennisServer",
+        "launch": {
+            "0": {
+                "executable": "RealTennisServer.exe",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1926101": {
+            "name": "RealTennisServer Content",
+            "manifests": {
+                "public": "5631485669575185699"
+            },
+            "maxsize": "525130302"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8305286",
+                "timeupdated": "1646283473"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "34b01f0646e2df4251b1d30b6f7f4f231f97cbba",
+    "_size": 1608
+}

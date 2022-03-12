@@ -1,0 +1,77 @@
+{
+    "appid": "17595",
+    "common": {
+        "name": "Dystopia Beta Dedicated Server",
+        "type": "Tool",
+        "gameid": "17595"
+    },
+    "extended": {
+        "developer": "",
+        "gamedir": "dystopia Beta Server",
+        "homepage": "",
+        "icon": "",
+        "loadallbeforelaunch": "1",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "17591",
+        "serverbrowsername": "",
+        "state": "eStateTool",
+        "visibleonlywhensubscribed": "1"
+    },
+    "config": {
+        "contenttype": "2",
+        "installdir": "DystopiaBetaDedicatedServer",
+        "launch": {
+            "0": {
+                "executable": "bin\\win32\\srcds.exe",
+                "arguments": "-steam -dystopia",
+                "type": "none",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "overridescddb": "1",
+        "795520": {
+            "name": "Dystopia Beta Dedicated Server Depot Win32",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "4349510828610436242"
+            },
+            "maxsize": "21629170"
+        },
+        "795521": {
+            "name": "Dystopia Beta Dedicated Server Depot Linux32",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "6468668548043069951"
+            },
+            "maxsize": "60420385"
+        },
+        "17591": {
+            "name": "Dystopia Beta Content",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "6971901562711443706"
+            },
+            "maxsize": "4504283761",
+            "depotfromapp": "17590"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2522121",
+                "timeupdated": "1518534064"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "e3bb2690e8f956aebceb58ac16f4979940b6824d",
+    "_size": 1416
+}

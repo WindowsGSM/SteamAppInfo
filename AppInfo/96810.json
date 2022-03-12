@@ -1,0 +1,56 @@
+{
+    "appid": "96810",
+    "common": {
+        "name": "Nexuiz Dedicated Server",
+        "type": "Tool",
+        "freeondemand": "1",
+        "gameid": "96810"
+    },
+    "extended": {
+        "developer": "IllFonic",
+        "gamedir": "Nexuiz",
+        "homepage": "http://www.nexuiz.com",
+        "icon": "",
+        "installscript": "installscript.vdf",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "96802",
+        "serverbrowsername": "",
+        "state": "eStateTool"
+    },
+    "config": {
+        "launch": {
+            "0": {
+                "executable": "Bin32\\DedicatedServer.exe"
+            }
+        },
+        "contenttype": "3",
+        "installdir": "Nexuiz"
+    },
+    "depots": {
+        "96802": {
+            "name": "Nexuiz Dedicated",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "6231482703797645821",
+                "local": "736013265079676428"
+            },
+            "maxsize": "2089203164"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "920036"
+            },
+            "local": {
+                "buildid": "5560",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "cbe46ab7ec9cf956c1bc630db215636eb203d9d7",
+    "_size": 963
+}

@@ -1,0 +1,157 @@
+{
+    "appid": "42750",
+    "common": {
+        "name": "Call of Duty: Modern Warfare 3 - Dedicated Server",
+        "type": "Tool",
+        "logo": "52841f445d2a1a1df608c6625c541674a30c5985",
+        "logo_small": "52841f445d2a1a1df608c6625c541674a30c5985_thumb",
+        "icon": "c3330a875925437d8216949b6571f6e941ba0679",
+        "clienticon": "d95d20dd4381f6935fbc1a62be592d21a64c2af7",
+        "clienttga": "d1b92a38e21e6652ca549a8120b89ec9500907cf",
+        "freeondemand": "1",
+        "gameid": "42750"
+    },
+    "extended": {
+        "canskipinstallappchooser": "1",
+        "dependantonapp": "42680",
+        "developer": "Infinity Ward - Sledgehammer Games",
+        "gamedir": "modernwarfare3",
+        "homepage": "http://www.callofduty.com",
+        "icon": "",
+        "installscript": "installscript.vdf",
+        "languages": "english,french,german,italian,spanish,polish,russian,japanese",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "42751",
+        "serverbrowsername": "",
+        "state": "eStateTool",
+        "visibleonlywhensubscribed": "1"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Call of Duty Modern Warfare 3",
+        "launch": {
+            "0": {
+                "executable": "iw5mp_server.exe"
+            }
+        }
+    },
+    "depots": {
+        "42682": {
+            "name": "Call of Duty Modern Warfare 3 Content",
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "maxsize": "7373987358",
+            "depotfromapp": "42690",
+            "sharedinstall": "2"
+        },
+        "42751": {
+            "name": "Call of Duty Modern Warfare 3 DS Binaries",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "9089183337461621316"
+            },
+            "maxsize": "5982326"
+        },
+        "42683": {
+            "name": "Call of Duty Modern Warfare 3 english",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "maxsize": "7724536563",
+            "depotfromapp": "42690",
+            "sharedinstall": "2"
+        },
+        "42684": {
+            "name": "Call of Duty Modern Warfare 3 spanish",
+            "config": {
+                "language": "spanish",
+                "oslist": "windows"
+            },
+            "maxsize": "7950391875",
+            "depotfromapp": "42690",
+            "sharedinstall": "2"
+        },
+        "42685": {
+            "name": "Call of Duty Modern Warfare 3 german",
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "maxsize": "8014331652",
+            "depotfromapp": "42690",
+            "sharedinstall": "2"
+        },
+        "42686": {
+            "name": "Call of Duty Modern Warfare 3 french",
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "maxsize": "7972402575",
+            "depotfromapp": "42690",
+            "sharedinstall": "2"
+        },
+        "42687": {
+            "name": "Call of Duty Modern Warfare 3 italian",
+            "config": {
+                "language": "italian",
+                "oslist": "windows"
+            },
+            "maxsize": "8012829876",
+            "depotfromapp": "42690",
+            "sharedinstall": "2"
+        },
+        "42688": {
+            "name": "Call of Duty Modern Warfare 3 Russian",
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "maxsize": "8100213777",
+            "depotfromapp": "42690",
+            "sharedinstall": "2"
+        },
+        "42689": {
+            "name": "Call of Duty Modern Warfare 3 Japanese",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows"
+            },
+            "maxsize": "7861354059",
+            "depotfromapp": "42690",
+            "sharedinstall": "2"
+        },
+        "42692": {
+            "name": "Call of Duty Modern Warfare 3 Polish",
+            "config": {
+                "language": "polish",
+                "oslist": "windows"
+            },
+            "maxsize": "7724011501",
+            "depotfromapp": "42690",
+            "sharedinstall": "2"
+        },
+        "overridescddb": "1",
+        "baselanguages": "english,french,german,italian,spanish,polish,russian,japanese",
+        "branches": {
+            "public": {
+                "buildid": "2741211",
+                "timeupdated": "1525798853"
+            },
+            "beta": {
+                "buildid": "2741211",
+                "description": "MW3 Dedicated Server Beta",
+                "pwdrequired": "1",
+                "timeupdated": "1525309657"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "e7ef832d90badd15011a425d5bbcee6f4a765cb7",
+    "_size": 3612
+}

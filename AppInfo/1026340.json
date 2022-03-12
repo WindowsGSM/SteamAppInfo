@@ -1,0 +1,122 @@
+{
+    "appid": "1026340",
+    "common": {
+        "name": "Barotrauma Dedicated Server",
+        "type": "Tool",
+        "parent": "602960",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "logo": "eeec07c92bca9a724384ae44cf834f7a72918102",
+        "logo_small": "eeec07c92bca9a724384ae44cf834f7a72918102_thumb",
+        "icon": "e9ce473bfbe910511f83404583be733510b92423",
+        "clienticon": "3b1cb4f101280f29aa78f49dc1f48c4b5d2754aa",
+        "clienttga": "1818760cfc1931d64eca45b5a8174c10cba1e76c",
+        "linuxclienticon": "a54eaca331d1a05fd12204db0a8eb2a385677249",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "1026340"
+    },
+    "config": {
+        "installdir": "Barotrauma Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "DedicatedServer.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "./DedicatedServer",
+                "type": "default",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1026341": {
+            "name": "Barotrauma Dedicated Server Windows",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "5705980301812667227"
+            },
+            "maxsize": "233197900",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "F46C48B48A5B61285FCD752ED5841FC9",
+                    "encrypted_size_2": "96117698E8074299A4A1EC533A604C10"
+                }
+            }
+        },
+        "1026342": {
+            "name": "Barotrauma Dedicated Server Linux",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "1237708791415211838"
+            },
+            "maxsize": "234132182",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "831007F78BAA1AD3E7D1A91A50524CA0",
+                    "encrypted_size_2": "6EE332C9F3F691111F7C2F1042830D24"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8276020",
+                "timeupdated": "1645809322"
+            },
+            "development": {
+                "buildid": "6620330",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1619694108"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "83ada661450686789922c795ea993e3bec0a1cd2",
+    "_size": 2612
+}

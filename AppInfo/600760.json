@@ -1,0 +1,113 @@
+{
+    "appid": "600760",
+    "common": {
+        "name": "Stationeers Dedicated Server",
+        "type": "Tool",
+        "parent": "544550",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "logo": "cadc689734e4468b1e9e89327a7afad8cc05a841",
+        "logo_small": "cadc689734e4468b1e9e89327a7afad8cc05a841_thumb",
+        "icon": "1450e7f4ec567514855463d3691744795a99b425",
+        "clienttga": "bc91fde8f8886485a86c99ceb782c3644d66609e",
+        "clienticon": "80381c4b89907c6c635815bd42e7b605b1e45fd7",
+        "associations": {},
+        "gameid": "600760"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "installdir": "Stationeers Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "rocketstation_DedicatedServer.exe",
+                "description": "Dedicated Server with GUI settings",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "rocketstation_DedicatedServer.exe",
+                "arguments": "-batchmode",
+                "description": "Dedicated Server on background",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "2": {
+                "executable": "rocketstation_DedicatedServer.x86_64",
+                "arguments": "-autostart -worldtype Space -batchmode -nographics",
+                "type": "server",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "600761": {
+            "name": "Stationeers Dedicated Server(Windows)",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "8167311111027112296",
+                "beta": "5929742755774412347",
+                "previous": "5039642620781019932"
+            },
+            "maxsize": "4442642095"
+        },
+        "600762": {
+            "name": "Stationeers Dedicated Server(Linux)",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "316166962082160686",
+                "beta": "2057923132638093484",
+                "previous": "1781465093048227754"
+            },
+            "maxsize": "4497034601"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7634174",
+                "timeupdated": "1635726015"
+            },
+            "beta": {
+                "buildid": "7640018",
+                "description": "beta branch",
+                "timeupdated": "1635816660"
+            },
+            "previous": {
+                "buildid": "6903555",
+                "description": "",
+                "timeupdated": "1626672216"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 13020436,
+    "_sha": "7978ad5acc7b76172225dd9296544d52671dd2f7",
+    "_size": 2475
+}

@@ -1,0 +1,107 @@
+{
+    "appid": "598010",
+    "common": {
+        "name": "SQUIDS FROM SPACE Dedicated Server",
+        "type": "Tool",
+        "parent": "437610",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "64",
+        "clienttga": "a4f8a4c6cc529a9989782059237fe0a5a634149f",
+        "clienticon": "3538f95debe0cf1ca086788d399e749cd6375596",
+        "icon": "9fb62ab0a7ad57e7b112a7ae31ebcbf063e396c3",
+        "logo": "3063b5fa5ba276128a3ec9fb452f8383858d13d4",
+        "logo_small": "3063b5fa5ba276128a3ec9fb452f8383858d13d4_thumb",
+        "associations": {},
+        "gameid": "598010",
+        "exfgls": "1"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "installdir": "Squids From Space Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "./Server/SquidServer.exe",
+                "arguments": "-log",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228986": {
+            "name": "VC 2015 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29759921",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "598011": {
+            "name": "Squids From Space Dedicated Server Content",
+            "manifests": {
+                "public": "3631076348499709157"
+            },
+            "maxsize": "449246287"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2134281",
+                "timeupdated": "1505949105"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "0cf9bb38130eab5a97622b21b32404eca489837b",
+    "_size": 2144
+}

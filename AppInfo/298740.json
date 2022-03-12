@@ -1,0 +1,280 @@
+{
+    "appid": "298740",
+    "common": {
+        "name": "Space Engineers Dedicated Server",
+        "type": "Tool",
+        "releasestate": "released",
+        "parent": "244850",
+        "oslist": "windows",
+        "eulas": {
+            "0": {
+                "id": "298740_eula_0",
+                "name": "Space Engineers Dedicated Server EULA",
+                "url": "https://store.steampowered.com//eula/298740_eula_0",
+                "version": "1"
+            }
+        },
+        "associations": {},
+        "gameid": "298740"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "SpaceEngineersDedicatedServer",
+        "launch": {
+            "0": {
+                "executable": "DedicatedServer/SpaceEngineersDedicated.exe",
+                "description": "Launch",
+                "workingdir": "DedicatedServer",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "32"
+                }
+            },
+            "1": {
+                "executable": "DedicatedServer64/SpaceEngineersDedicated.exe",
+                "description": "Launch",
+                "workingdir": "DedicatedServer64",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228985": {
+            "name": "VC 2013 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "13699237",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "name": ".NET 4.8 Redis",
+            "config": {
+                "language": ""
+            },
+            "maxsize": "117381405",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "298741": {
+            "name": "Space Engineers Dedicated Server Content",
+            "manifests": {
+                "public": "1059567046225075732",
+                "1.178": "802443215314700870",
+                "1.184": "3500096795857531470",
+                "1.185": "2281021287844625855",
+                "1.186": "7542679167326094555",
+                "1.187": "1380954810324163548",
+                "1.188": "2517780917052194895",
+                "1.189": "242985783397483595",
+                "1.190": "6451912078757988878",
+                "1.191": "1899157208141734848",
+                "1.192": "2583672290944451332",
+                "1.193": "6457463920219384636",
+                "1.194": "290677496484991374",
+                "1.195": "5007318067664842288",
+                "1.196": "8228146921142172154",
+                "1.197": "5746191176388931827",
+                "1.198": "3127332575255370754",
+                "1.199": "7568682266249456353",
+                "dx9-32bit": "1995551932701408037"
+            },
+            "maxsize": "5536597535",
+            "encryptedmanifests": {
+                "playtest": {
+                    "encrypted_gid_2": "F3B8EE914E67A78F7CA051C2A8B8F48F",
+                    "encrypted_size_2": "5FA6002A867EC53E12AD0CDA42905F82"
+                },
+                "publictest": {
+                    "encrypted_gid_2": "2D8180D0D2CFF459A2452B69343AC3F1",
+                    "encrypted_size_2": "858681A349F46F2DEB08E99F6602F70B"
+                },
+                "steamctg": {
+                    "encrypted_gid_2": "B527C28FC962DD41A5E1D03B43EB658E",
+                    "encrypted_size_2": "2364C84C161536C185B735B2DE4C69EA"
+                },
+                "test": {
+                    "encrypted_gid_2": "D631C4BC098A4745A0E747E8B8FC7D90",
+                    "encrypted_size_2": "CE241E9AFB49195A3227720A7A501DDC"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8347483",
+                "timeupdated": "1647012767"
+            },
+            "1.178": {
+                "buildid": "1701148",
+                "description": "",
+                "timeupdated": "1490291640"
+            },
+            "1.184": {
+                "buildid": "2273991",
+                "description": "",
+                "timeupdated": "1511193348"
+            },
+            "1.185": {
+                "buildid": "2468464",
+                "description": "",
+                "timeupdated": "1517585428"
+            },
+            "1.186": {
+                "buildid": "2584366",
+                "description": "",
+                "timeupdated": "1532097694"
+            },
+            "1.187": {
+                "buildid": "3165387",
+                "description": "",
+                "timeupdated": "1540306325"
+            },
+            "1.188": {
+                "buildid": "3398118",
+                "description": "",
+                "timeupdated": "1551349913"
+            },
+            "1.189": {
+                "buildid": "3664468",
+                "description": "Major Overhaul of Survival, Ladders, Leaving Early Access",
+                "timeupdated": "1554741754"
+            },
+            "1.190": {
+                "buildid": "3777953",
+                "description": "Customizable LCD Screens, Replay Tool & Decorative Pack!",
+                "timeupdated": "1559835744"
+            },
+            "1.191": {
+                "buildid": "4026309",
+                "description": "Build Planner, Small Grid Cryo Pod and Style Pack!",
+                "timeupdated": "1566474184"
+            },
+            "1.192": {
+                "buildid": "4253403",
+                "description": "Economy",
+                "timeupdated": "1571919587"
+            },
+            "1.193": {
+                "buildid": "4521871",
+                "description": "6th Anniversary & Decorative Pack II",
+                "timeupdated": "1584640769"
+            },
+            "1.194": {
+                "buildid": "4999953",
+                "description": "Frostbite",
+                "timeupdated": "1593078533"
+            },
+            "1.195": {
+                "buildid": "5282705",
+                "description": "Sparks of the Future",
+                "timeupdated": "1596743467"
+            },
+            "1.196": {
+                "buildid": "5837681",
+                "description": "Server Optimizations",
+                "timeupdated": "1606327477"
+            },
+            "1.197": {
+                "buildid": "6388148",
+                "description": "Wasteland",
+                "timeupdated": "1619014738"
+            },
+            "1.198": {
+                "buildid": "6776688",
+                "description": "Warfare 1",
+                "timeupdated": "1627065183"
+            },
+            "1.199": {
+                "buildid": "7247611",
+                "description": "Heavy Industry",
+                "timeupdated": "1643920858"
+            },
+            "dx9-32bit": {
+                "buildid": "1150726",
+                "description": "compatibility branch for dx9 and 32 bit",
+                "timeupdated": "1464358279"
+            },
+            "playtest": {
+                "buildid": "7609286",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1635337251"
+            },
+            "publictest": {
+                "buildid": "5574561",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1600706300"
+            },
+            "stableready": {
+                "buildid": "8347483",
+                "description": "stable ready",
+                "pwdrequired": "1",
+                "timeupdated": "1646918991"
+            },
+            "steamctg": {
+                "buildid": "8355266",
+                "description": "CTG branch",
+                "pwdrequired": "1",
+                "timeupdated": "1647012936"
+            },
+            "test": {
+                "buildid": "7782736",
+                "description": " Branch for general testing",
+                "pwdrequired": "1",
+                "timeupdated": "1637924094"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14200082,
+    "_sha": "8b773a5e0f33bcc12ef25c20b3b80acde9efd3ce",
+    "_size": 6468
+}

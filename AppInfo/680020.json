@@ -1,0 +1,95 @@
+{
+    "appid": "680020",
+    "common": {
+        "name": "Wasteworld Server",
+        "type": "Tool",
+        "parent": "658170",
+        "oslist": "windows",
+        "osarch": "",
+        "logo": "dabe894ad446172f7fcd64212a5c2317ca740135",
+        "logo_small": "dabe894ad446172f7fcd64212a5c2317ca740135_thumb",
+        "icon": "a11a819dad1d72d799c35e791ae727c0c860f19b",
+        "clienttga": "51769ea49125ee9a2f5aed1a52297248842df9ca",
+        "clienticon": "b9a659e6c5f06f191686569bfef0264df3fcad6d",
+        "releasestate": "released",
+        "associations": {},
+        "community_hub_visible": "1",
+        "gameid": "680020",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "KiP Server",
+        "launch": {
+            "0": {
+                "executable": "test2.exe",
+                "arguments": "-batchmode -nographics -map Level1",
+                "type": "none"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "680021": {
+            "name": "Wasteworld Server Depot",
+            "manifests": {
+                "public": "1764541643659207580"
+            },
+            "maxsize": "1084825876"
+        },
+        "658171": {
+            "name": "Knowledge is Power Content",
+            "manifests": {
+                "public": "8898699655536222367",
+                "test": "8433715102432096968"
+            },
+            "maxsize": "1079969231",
+            "depotfromapp": "658170"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3005631",
+                "timeupdated": "1533378469"
+            },
+            "test": {
+                "buildid": "2909067",
+                "description": "",
+                "timeupdated": "1533004256"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "9196229816f998173e9bb50b42fd8c450a747558",
+    "_size": 1943
+}

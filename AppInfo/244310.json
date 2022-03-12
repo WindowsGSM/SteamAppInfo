@@ -1,0 +1,82 @@
+{
+    "appid": "244310",
+    "common": {
+        "name": "Source SDK Base 2013 Dedicated Server",
+        "type": "Tool",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "associations": {},
+        "gameid": "244310"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Source SDK Base 2013 Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "srcds.exe",
+                "arguments": "-game hl2mp"
+            }
+        }
+    },
+    "depots": {
+        "244311": {
+            "name": "Source SDK Base 2013 Dedicated server assets",
+            "manifests": {
+                "public": "2914782630826829845",
+                "previous": "4450448967343889496",
+                "previous_upcoming": "7021382552385958892"
+            },
+            "maxsize": "628691986"
+        },
+        "244312": {
+            "name": "Source SDK Base 2013 Windows server",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "6004463475531467995",
+                "previous": "478946293458400227",
+                "previous_upcoming": "947288342241400810"
+            },
+            "maxsize": "94437248"
+        },
+        "244313": {
+            "name": "Source SDK Base 2013 Linux server",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "6299109015578496445",
+                "previous": "8894712212653909576",
+                "previous_upcoming": "197554846229567789"
+            },
+            "maxsize": "53839379"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "6982827",
+                "timeupdated": "1625518940"
+            },
+            "prerelease": {
+                "buildid": "6982827",
+                "description": "",
+                "timeupdated": "1625518931"
+            },
+            "previous": {
+                "buildid": "4259087",
+                "description": "The previous release",
+                "timeupdated": "1625518921"
+            },
+            "previous_upcoming": {
+                "buildid": "397638",
+                "description": "The obsolete \"upcoming\" prerelease build",
+                "timeupdated": "1463012296"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11946142,
+    "_sha": "afaa38bba2ba63aa4356ad73f4af8704924c8d5b",
+    "_size": 1742
+}

@@ -1,0 +1,137 @@
+{
+    "appid": "222860",
+    "common": {
+        "name": "Left 4 Dead 2 Dedicated Server",
+        "type": "Tool",
+        "parent": "550",
+        "metacritic_name": "Left 4 Dead 2 Dedicated Server",
+        "library_assets": {
+            "library_capsule": "en",
+            "library_hero": "en",
+            "library_logo": "en",
+            "logo_position": {
+                "pinned_position": "BottomLeft",
+                "width_pct": "51.738122827346466",
+                "height_pct": "48.11053377420879"
+            }
+        },
+        "store_asset_mtime": "1574121176",
+        "associations": {},
+        "gameid": "222860",
+        "review_score": "7",
+        "review_percentage": "80"
+    },
+    "extended": {
+        "developer": "",
+        "gamedir": "ValveTestApp222860",
+        "homepage": "",
+        "icon": "",
+        "noservers": "0",
+        "sourcegame": "1",
+        "state": "eStateAvailable",
+        "thirdpartycdkey": "1",
+        "visibleonlywhensubscribed": "1"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Left 4 Dead 2 Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "srcds.exe",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "222861": {
+            "name": "Left 4 Dead 2 Dedicated Server Content",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "5193936581192184173"
+            },
+            "maxsize": "9597463577",
+            "encryptedmanifests": {
+                "private_beta": {
+                    "encrypted_gid_2": "311D6E73313E2B5DD48C411F55906792",
+                    "encrypted_size_2": "4CB891D7CB0AE69F3B4DA4E35FCF6723"
+                },
+                "private_beta_old": {
+                    "encrypted_gid_2": "997317A5D63E4A451D9D2D704A18BC14",
+                    "encrypted_size_2": "1734DCFB6BA5579200669ED61878539C"
+                }
+            }
+        },
+        "222862": {
+            "name": "Left 4 Dead 2 Win DS Content",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "8055386405611162858"
+            },
+            "maxsize": "159362153",
+            "encryptedmanifests": {
+                "private_beta": {
+                    "encrypted_gid_2": "8ABCF6D3A1FFE603D0CD647A913A7E74",
+                    "encrypted_size_2": "64E33F25EDBDD4BE31FD8400DA4A5AFE"
+                },
+                "private_beta_old": {
+                    "encrypted_gid_2": "DDD924860F8B2EE4DCAEF2A08FC295C8",
+                    "encrypted_size_2": "67FB1DCD28EF347D8517B07BCF0870DD"
+                }
+            }
+        },
+        "222863": {
+            "name": "Left 4 Dead 2 Linux DS Content",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "4291500901568573857"
+            },
+            "maxsize": "234246304",
+            "encryptedmanifests": {
+                "private_beta": {
+                    "encrypted_gid_2": "738A862D60BC17F8E04BA60EFC9612A6",
+                    "encrypted_size_2": "A616DDC17ABDBC81260836B7F3E2B7F4"
+                },
+                "private_beta_old": {
+                    "encrypted_gid_2": "97DEDEE6E0B1BA91F565DC37B7B996CD",
+                    "encrypted_size_2": "6F7CA62D29E6BFB5EDB7855440B8BECB"
+                }
+            }
+        },
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "branches": {
+            "public": {
+                "buildid": "8253595",
+                "timeupdated": "1645638926"
+            },
+            "beta": {
+                "buildid": "8253595",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1645638913"
+            },
+            "private_beta": {
+                "buildid": "7103573",
+                "description": "test",
+                "pwdrequired": "1",
+                "timeupdated": "1629474318"
+            },
+            "private_beta_old": {
+                "buildid": "6260430",
+                "description": "early beta",
+                "pwdrequired": "1",
+                "timeupdated": "1623878637"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14174778,
+    "_sha": "2f5deca21003e4f17f70e5937c6e286e3e519634",
+    "_size": 3132
+}

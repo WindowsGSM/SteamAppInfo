@@ -1,0 +1,178 @@
+{
+    "appid": "1170680",
+    "common": {
+        "name": "Task Force Elite Dedicated Server",
+        "type": "Tool",
+        "parent": "1148810",
+        "clienticon": "e12d42adccb1f5bf65501d778fb008b0a51898f4",
+        "clienttga": "171e546cc4e45801da05852ba4cf137d7327cec9",
+        "icon": "c0a5a38c91ae3957935f43feb0de50f6f9aeb6ff",
+        "linuxclienticon": "e12d42adccb1f5bf65501d778fb008b0a51898f4",
+        "logo": "2f7fa9f170b91fc485b01eda1667456a3a0b2440",
+        "logo_small": "2f7fa9f170b91fc485b01eda1667456a3a0b2440_thumb",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "osextended": "",
+        "releasestate": "released",
+        "gameid": "1170680"
+    },
+    "config": {
+        "installdir": "TaskForceEliteDedicatedServer",
+        "launch": {
+            "0": {
+                "executable": "CommunityTool/ServerManager.exe",
+                "workingdir": "CommunityTool",
+                "type": "none",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "CommunityTool/ServerManager.exe",
+                "workingdir": "CommunityTool",
+                "type": "none",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228987": {
+            "name": "VC 2017 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29664201",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "name": ".NET 4.7 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "83944258",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1170681": {
+            "name": "Task Force Elite Dedicated Server Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": "1961774115853629033"
+            },
+            "maxsize": "3765944232",
+            "encryptedmanifests": {
+                "betatest": {
+                    "encrypted_gid_2": "DFAE658D9E242237FE88317AA55D0B89",
+                    "encrypted_size_2": "A94619C785E63BF99A8B4CB4E5EFF665"
+                },
+                "internal": {
+                    "encrypted_gid_2": "B055E463B4A530C7386A0DADE6551E90",
+                    "encrypted_size_2": "4BABD785C327E956FDDDE6386FD170B3"
+                }
+            }
+        },
+        "1170682": {
+            "name": "Task Force Elite Dedicated Server Linux Depot",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": "118459558262453779"
+            },
+            "maxsize": "3954765097",
+            "encryptedmanifests": {
+                "betatest": {
+                    "encrypted_gid_2": "665209AA0D5C09B271D438DD144D51CE",
+                    "encrypted_size_2": "81FD865F54FB22C92EA5B65D8F980E81"
+                },
+                "internal": {
+                    "encrypted_gid_2": "FC12EDEDB4D7C79DEF15256BB70BAA06",
+                    "encrypted_size_2": "516F83ADD2928854C25ED9AD99B69D9F"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8319017",
+                "timeupdated": "1646531363"
+            },
+            "4players": {
+                "buildid": "8319017",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1646531355"
+            },
+            "betatest": {
+                "buildid": "6284987",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1614139132"
+            },
+            "internal": {
+                "buildid": "8238150",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1645340169"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "c302c7f9b70deb566ea19fa6957e2ea90db8bf1e",
+    "_size": 3913
+}

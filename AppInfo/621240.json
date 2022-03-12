@@ -1,0 +1,71 @@
+{
+    "appid": "621240",
+    "common": {
+        "name": "Galaxy in Turmoil Dedicated Server",
+        "type": "Tool",
+        "parent": "488430",
+        "oslist": "linux",
+        "osarch": "",
+        "logo": "eb610ba2bcf60784e46df78c191c21f655ca3b61",
+        "logo_small": "eb610ba2bcf60784e46df78c191c21f655ca3b61_thumb",
+        "icon": "446e3b67ad5d23a0ffdf97f21a713e9f07ea38b7",
+        "clienticon": "266ce9d4e9e63dd22c26933972f211aa8d16281f",
+        "clienttga": "ebbe3fb7ec1348082982269cbfebbd38707a53c6",
+        "osextended": "",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "621240",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "Galaxy in Turmoil Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "GalaxyinTurmoilServer.sh",
+                "arguments": "-log",
+                "type": "server",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        },
+        "usemms": "1"
+    },
+    "depots": {
+        "621241": {
+            "name": "Dedicated Server Client Content",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": "2892453385950345165"
+            },
+            "maxsize": "316938624",
+            "encryptedmanifests": {
+                "autobuilds": {
+                    "encrypted_gid_2": "D732AB5049CA75595A818C315CBEFC50",
+                    "encrypted_size_2": "63CD5455745AFF7180F2D43A5A5D1458"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "5735302",
+                "timeupdated": "1603669169"
+            },
+            "autobuilds": {
+                "buildid": "5735419",
+                "description": "Automated Server Builds",
+                "pwdrequired": "1",
+                "timeupdated": "1603672796"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "7a139b1528f5fd24d7d18b872b62f61030cfbc1f",
+    "_size": 1529
+}

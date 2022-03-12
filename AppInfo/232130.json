@@ -1,0 +1,158 @@
+{
+    "appid": "232130",
+    "common": {
+        "name": "Killing Floor 2 - Dedicated Server",
+        "type": "Tool",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "gameid": "232130"
+    },
+    "extended": {
+        "checkpkgstate": "1",
+        "developer": "",
+        "gamedir": "KF2",
+        "homepage": "",
+        "icon": "",
+        "noservers": "0",
+        "sourcegame": "1",
+        "state": "eStateComingSoonNoPreload",
+        "visibleonlywhensubscribed": "1"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "kf2server",
+        "launch": {
+            "0": {
+                "executable": "Binaries/Win64/KFServer.exe",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228983": {
+            "name": "VC 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "19265607",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "232131": {
+            "name": "Killing Floor 2 - Dedicated Server Depot",
+            "manifests": {
+                "public": "8147954144154929033"
+            },
+            "maxsize": "27316693649",
+            "encryptedmanifests": {
+                "beta": {
+                    "encrypted_gid_2": "17C066FD2768CAB6AE5DF0FE37335F6E",
+                    "encrypted_size_2": "8166BC987B6FB9C2F146C6B5B2C9439B"
+                },
+                "lagtest": {
+                    "encrypted_gid_2": "A8AA6FBD896AD8EA0E6FA510CE9ECFB3",
+                    "encrypted_size_2": "271CBDFDA527FC5A56EB1E6A62C092F1"
+                },
+                "linuxbeta": {
+                    "encrypted_gid_2": "52A58446D4D24C81C3571638CA286209",
+                    "encrypted_size_2": "DFD27BEC968954E7E522FDB6A46FFBD8"
+                },
+                "ovotcotod": {
+                    "encrypted_gid_2": "1D6371217C8474CF8CDF66EDC26438AA",
+                    "encrypted_size_2": "BC3FB19DCF9AE1660880E83E5C7EFF9F"
+                },
+                "qa_test": {
+                    "encrypted_gid_2": "029375FAEE6265E4934E8E1F625546BA",
+                    "encrypted_size_2": "4C0ED35DB49724843A7BBE986953B90D"
+                },
+                "showbuild": {
+                    "encrypted_gid_2": "0391C17A9B93798EA6370674FC83C450",
+                    "encrypted_size_2": "48D52039D4A4DB6E0168ECC5D64C0331"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "7835878",
+                "timeupdated": "1639061719"
+            },
+            "beta": {
+                "buildid": "8356996",
+                "description": "internal",
+                "pwdrequired": "1",
+                "timeupdated": "1647032992"
+            },
+            "lagtest": {
+                "buildid": "2350064",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1523374677"
+            },
+            "linuxbeta": {
+                "buildid": "3479126",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1547827918"
+            },
+            "ovotcotod": {
+                "buildid": "1854800",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1496158215"
+            },
+            "qa_test": {
+                "buildid": "7480914",
+                "description": "QA Internal",
+                "pwdrequired": "1",
+                "timeupdated": "1633436654"
+            },
+            "showbuild": {
+                "buildid": "1880499",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1497038083"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14203143,
+    "_sha": "21d843a8901ace1b2669e2ad7c467312e3f0653d",
+    "_size": 3421
+}

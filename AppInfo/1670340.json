@@ -1,0 +1,157 @@
+{
+    "appid": "1670340",
+    "common": {
+        "name": "Craftopia Dedicated Server",
+        "type": "Tool",
+        "parent": "1307550",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "osextended": "",
+        "logo": "286820a18f6f348343a3767cf79dda5544325180",
+        "logo_small": "286820a18f6f348343a3767cf79dda5544325180_thumb",
+        "icon": "51d2ce598e11bb589644d746f674f73e53a22eab",
+        "clienticon": "b6eabc569cbd4aef7355abca16037d5c20b0f755",
+        "clienttga": "0a13b8ab342e36699b198f01b24fbadd8e43ea70",
+        "releasestate": "released",
+        "gameid": "1670340"
+    },
+    "config": {
+        "installdir": "CraftopiaDedicatedServer",
+        "launch": {
+            "0": {
+                "executable": "Craftopia.exe",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "Craftopia.x86_64",
+                "type": "server",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1670341": {
+            "name": "Craftopia Dedicated Server Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "7279378544172147680",
+                "alpha-unstable": "1486786666049092849",
+                "alpha-unstable-edge": "5075740589620391959"
+            },
+            "maxsize": "4584350136",
+            "encryptedmanifests": {
+                "private_dev": {
+                    "encrypted_gid_2": "5958D1E839D7B932F10CC8FB02C8A956",
+                    "encrypted_size_2": "248FE1DCB13901656B4A5FB3CADB65AA"
+                },
+                "private_qa": {
+                    "encrypted_gid_2": "A492B3EA2C4C2FEFB5CDF49C015398FE",
+                    "encrypted_size_2": "D595EAAAEC548462414D9CD42F0DA1D6"
+                },
+                "private_test": {
+                    "encrypted_gid_2": "A7DD309C226E53FA2552DADBE796BA9B",
+                    "encrypted_size_2": "BC61AAEDC69E2DA64547EBD1F0119382"
+                }
+            }
+        },
+        "1670342": {
+            "name": "Craftopia Dedicated Server Linux",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "3732429843411997547",
+                "alpha-unstable": "4076642006174177895",
+                "alpha-unstable-edge": "9139767168242332731"
+            },
+            "maxsize": "5369623910",
+            "encryptedmanifests": {
+                "private_qa": {
+                    "encrypted_gid_2": "CB9EE7A98795595DFF9195B26D81BBA6",
+                    "encrypted_size_2": "0883E86AE74D7B1A31E067C99D6242EB"
+                }
+            }
+        },
+        "workshopdepot": "1670340",
+        "branches": {
+            "public": {
+                "buildid": "8022332",
+                "timeupdated": "1642484727"
+            },
+            "alpha-unstable": {
+                "buildid": "8332864",
+                "description": "This branch is literally unstable.",
+                "timeupdated": "1646803661"
+            },
+            "alpha-unstable-edge": {
+                "buildid": "8272753",
+                "description": "This branch is literally unstable.\t",
+                "timeupdated": "1646028165"
+            },
+            "private_dev": {
+                "buildid": "7566006",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1634884717"
+            },
+            "private_qa": {
+                "buildid": "8358856",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1647068460"
+            },
+            "private_test": {
+                "buildid": "6991408",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1625647874"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14206169,
+    "_sha": "c3d37bc336a8e52fb11b6845256725ae600aac2e",
+    "_size": 3612
+}

@@ -1,0 +1,180 @@
+{
+    "appid": "17525",
+    "common": {
+        "name": "Synergy Dedicated Server",
+        "logo": "8dc4b40628fe30c38c04a69c985568313383fb17",
+        "logo_small": "82449c00d99df4eb98e05e5afbba2b6b84856bbf",
+        "icon": "03b4a84bae9cbe03bd4384320adef70bbb97abe8",
+        "clienticon": "6abb3f99cb830086c818b36f4fff3e380a52c438",
+        "clienttga": "d43dc14d3405cfab7d0b3430e4aad431d03553cc",
+        "type": "Tool",
+        "freeondemand": "1",
+        "associations": {},
+        "gameid": "17525"
+    },
+    "extended": {
+        "developer": "Synergy Development Team",
+        "gamedir": "Synergy Server",
+        "homepage": "",
+        "icon": "",
+        "loadallbeforelaunch": "1",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "17522",
+        "serverbrowsername": "",
+        "state": "eStateTool",
+        "visibleonlywhensubscribed": "1"
+    },
+    "config": {
+        "usemms": "",
+        "contenttype": "3",
+        "installdir": "Synergy Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "srcds.exe",
+                "arguments": "-steam -synergy"
+            }
+        }
+    },
+    "depots": {
+        "overridescddb": "1",
+        "208": {
+            "name": "Base Source Shared Sounds",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "4485654213482970041"
+            },
+            "maxsize": "995705911",
+            "depotfromapp": "218"
+        },
+        "207": {
+            "name": "Base Source Shared Models",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "1119750819801277267"
+            },
+            "maxsize": "398094379",
+            "depotfromapp": "218"
+        },
+        "206": {
+            "name": "Base Source Shared Materials",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "20269405477291195"
+            },
+            "maxsize": "1038723685",
+            "depotfromapp": "218"
+        },
+        "307": {
+            "name": "Source 2007 Shared Sounds",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "7905667531274231595"
+            },
+            "maxsize": "2270722",
+            "depotfromapp": "218"
+        },
+        "306": {
+            "name": "Source 2007 Shared Models",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "617289042394289763"
+            },
+            "maxsize": "146146757",
+            "depotfromapp": "218"
+        },
+        "305": {
+            "name": "Source 2007 Shared Materials",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "1532139850764196878"
+            },
+            "maxsize": "995313918",
+            "depotfromapp": "218"
+        },
+        "310": {
+            "name": "Source 2007 Dedicated Server Win32",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "4768438366263625173"
+            },
+            "maxsize": "15209193",
+            "depotfromapp": "218"
+        },
+        "17522": {
+            "name": "Synergy Base",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "8038592251681110626",
+                "development": "234101591935432675",
+                "development_20.1": "2797977215120804872",
+                "development_portaltest": "6192747336539453608",
+                "steamplayprotontest": "6954203438919956369",
+                "twitch": "4336726577734868439"
+            },
+            "maxsize": "758646191",
+            "encryptedmanifests": {
+                "prerelease": {
+                    "encrypted_gid_2": "A8355C248BD7452B4D5D1641A126BD8F",
+                    "encrypted_size_2": "679429A672AD8384B95F1A54D2A684C7"
+                }
+            },
+            "depotfromapp": "17520"
+        },
+        "1004": {
+            "name": "Steamworks SDK Redist (Win32)",
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "3578600867548439549"
+            },
+            "maxsize": "9662208",
+            "depotfromapp": "218"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "131605"
+            },
+            "prerelease": {
+                "buildid": "7885639",
+                "description": "prereleasetest",
+                "pwdrequired": "1",
+                "timeupdated": "1639540336"
+            },
+            "development": {
+                "buildid": "7912030",
+                "description": "Latest Development Branch",
+                "timeupdated": "1639980432"
+            },
+            "development_20.1": {
+                "buildid": "4561932",
+                "description": "Synergy v20.1 (unreleased)",
+                "timeupdated": "1639533240"
+            },
+            "development_portaltest": {
+                "buildid": "3233543",
+                "description": "",
+                "timeupdated": "1545450480"
+            },
+            "steamplayprotontest": {
+                "buildid": "3167537",
+                "description": "",
+                "timeupdated": "1538191797"
+            },
+            "twitch": {
+                "buildid": "4806894",
+                "description": "",
+                "timeupdated": "1584918021"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 13466643,
+    "_sha": "bc70e93e38a5f8252568b631916efb2c64567aba",
+    "_size": 4009
+}

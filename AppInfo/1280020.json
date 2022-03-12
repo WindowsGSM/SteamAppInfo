@@ -1,0 +1,74 @@
+{
+    "appid": "1280020",
+    "common": {
+        "name": "Survived - Dedicated Server",
+        "type": "Tool",
+        "parent": "1175070",
+        "icon": "d757be952dafe141196a1cbf6f302bd283bea51a",
+        "logo": "5330e80211b5dcef857feec32c4157d7a80a8879",
+        "logo_small": "5330e80211b5dcef857feec32c4157d7a80a8879_thumb",
+        "clienttga": "05c92a92be8c57ad13a65317a3baf82dd6bead70",
+        "clienticon": "eae510a18b400b376469b8470761acf141c5d84b",
+        "releasestate": "released",
+        "gameid": "1280020"
+    },
+    "config": {
+        "installdir": "Survived\\Survived\\Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "Dedicated Server.exe",
+                "type": "none",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1280021": {
+            "name": "Dedicated Server Content"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8350903",
+                "timeupdated": "1646964563"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "c6cf31181e65ed594256ccad5399fa20f92c3829",
+    "_size": 1486
+}

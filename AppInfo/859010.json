@@ -1,0 +1,142 @@
+{
+    "appid": "859010",
+    "common": {
+        "name": "UniverCity Dedicated Server",
+        "type": "Tool",
+        "parent": "808160",
+        "oslist": "windows,linux",
+        "osarch": "",
+        "logo": "432e56a1377044f9df14b681b00dc5d6a300a89a",
+        "logo_small": "432e56a1377044f9df14b681b00dc5d6a300a89a_thumb",
+        "clienticon": "040eed8b821d5ad6635a9fd79f25dc23058e83dc",
+        "clienttga": "882901ccd31755282e9ab1035e836443657b00b7",
+        "icon": "3267be3e5a8abc0419e3f4e1a34903c37f988609",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "859010"
+    },
+    "config": {
+        "installdir": "UniverCity Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "univercity_server_dedicated",
+                "type": "server",
+                "config": {
+                    "oslist": "linux"
+                }
+            },
+            "1": {
+                "executable": "univercity_server_dedicated.exe",
+                "type": "server",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228987": {
+            "name": "VC 2017 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29664201",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "859011": {
+            "name": "UniverCity Dedicated Server Content",
+            "manifests": {
+                "public": "7249608133304450210"
+            },
+            "maxsize": "19058306"
+        },
+        "859012": {
+            "name": "UniverCity Dedicated Server Linux 64bit",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "5053175353304329981"
+            },
+            "maxsize": "7175354"
+        },
+        "859013": {
+            "name": "UniverCity Dedicated Server Linux 32bit",
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": "6092673669585520378"
+            },
+            "maxsize": "7079548"
+        },
+        "859014": {
+            "name": "UniverCity Dedicated Server Windows 64bit",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "1269768785961873685"
+            },
+            "maxsize": "7975712"
+        },
+        "859015": {
+            "name": "UniverCity Dedicated Server Windows 32bit",
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": "3523365904822614359"
+            },
+            "maxsize": "5403936"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4631117",
+                "timeupdated": "1580553266"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "ff9bce7d69137872f53f222029e029594a9ffd7b",
+    "_size": 2862
+}

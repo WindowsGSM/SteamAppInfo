@@ -1,0 +1,186 @@
+{
+    "appid": "1110390",
+    "common": {
+        "name": "Unturned Dedicated Server",
+        "type": "Tool",
+        "parent": "304930",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "icon": "be840104523d10c478f21e124c9d9e2d27a813c2",
+        "logo": "58ed08441d8cb66ca66bf5580548bad587b6dc07",
+        "logo_small": "58ed08441d8cb66ca66bf5580548bad587b6dc07_thumb",
+        "clienticon": "7500f9e8568184afab30645d9fb0d18cdb4100fb",
+        "clienttga": "1e85f215e662c98afe31ad93c693e25c2e4587bd",
+        "metacritic_name": "Unturned - Dedicated Server",
+        "small_capsule": {
+            "english": "capsule_231x87.jpg"
+        },
+        "header_image": {
+            "english": "header.jpg"
+        },
+        "library_assets": {
+            "library_capsule": "en",
+            "library_hero": "en",
+            "library_logo": "en",
+            "logo_position": {
+                "pinned_position": "CenterCenter",
+                "width_pct": "54.72578763127186",
+                "height_pct": "74.92282118261696"
+            }
+        },
+        "store_asset_mtime": "1574008711",
+        "associations": {},
+        "steam_release_date": "1561136400",
+        "gameid": "1110390",
+        "exfgls": "1",
+        "review_score": "8",
+        "review_percentage": "84"
+    },
+    "config": {
+        "installdir": "U3DS",
+        "launch": {
+            "0": {
+                "executable": "ServerHelper.bat",
+                "type": "server",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "ServerHelper.sh",
+                "type": "server",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1110391": {
+            "name": "Windows",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "162338517982442952",
+                "unity-2017.4": "7568905985975118755",
+                "unity-2018": "9065993161126347581"
+            },
+            "maxsize": "1194234983",
+            "encryptedmanifests": {
+                "private": {
+                    "encrypted_gid_2": "D8F6F9161820ED68485DD104BA5BC9E3",
+                    "encrypted_size_2": "B07F93CC189DAC1DAE02F6EC4AA9CF1B"
+                }
+            }
+        },
+        "1110392": {
+            "name": "Linux",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "3481114430467072771",
+                "unity-2017.4": "676864980440368611",
+                "unity-2018": "4299994285195357942"
+            },
+            "maxsize": "1243670044",
+            "encryptedmanifests": {
+                "private": {
+                    "encrypted_gid_2": "542B7A4E38DFAA8C0BFB988E20A80D83",
+                    "encrypted_size_2": "C5CE5ECDE83A4CAE3A29B456A9B48CCE"
+                }
+            }
+        },
+        "1110393": {
+            "name": "Shared",
+            "manifests": {
+                "public": "8686513572839939664",
+                "unity-2017.4": "5514188072839560067",
+                "unity-2018": "8575346071724065576"
+            },
+            "maxsize": "836383564",
+            "encryptedmanifests": {
+                "private": {
+                    "encrypted_gid_2": "4235CC87242C2E2BC5E156A56821EA4F",
+                    "encrypted_size_2": "E0DBD38FDC4F1082EE0797DDAB5D87D8"
+                }
+            }
+        },
+        "1110394": {
+            "name": "Shared_Release",
+            "manifests": {
+                "public": "158978785771687103",
+                "unity-2017.4": "5328516740166862532",
+                "unity-2018": "4435653943471569706"
+            },
+            "maxsize": "4591568"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8357557",
+                "timeupdated": "1647042027"
+            },
+            "preview": {
+                "buildid": "8357557",
+                "description": "Public test branch",
+                "timeupdated": "1647040629"
+            },
+            "private": {
+                "buildid": "8349941",
+                "description": "Private test branch",
+                "pwdrequired": "1",
+                "timeupdated": "1646945282"
+            },
+            "unity-2017.4": {
+                "buildid": "4297942",
+                "description": "Archived compatibility version 3.19.15.0",
+                "timeupdated": "1571413238"
+            },
+            "unity-2018": {
+                "buildid": "5784272",
+                "description": "Archived compatibility version 3.20.13.2",
+                "timeupdated": "1605292945"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14204112,
+    "_sha": "764a65791e6bd5de50a8ebaf408de38344d93574",
+    "_size": 4192
+}

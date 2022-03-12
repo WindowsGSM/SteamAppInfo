@@ -1,0 +1,127 @@
+{
+    "appid": "497110",
+    "common": {
+        "name": "Gang Beasts Server",
+        "type": "Tool",
+        "parent": "285900",
+        "oslist": "windows,linux",
+        "osarch": "",
+        "icon": "96d0e7ef5bad4760338287b6f85563c336291137",
+        "logo": "2a08400880d2aef6247e0b8c897840011836e034",
+        "logo_small": "2a08400880d2aef6247e0b8c897840011836e034_thumb",
+        "clienticon": "93e147828b67cf479b43b71d8907d1fe34f7aa71",
+        "clienttga": "5fec91db9cbace87674c483b05517c2cb2e1f59c",
+        "linuxclienticon": "b2e1a60f95a0e4ae75414f9452c54db9cb29cba8",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "497110"
+    },
+    "extended": {
+        "gamedir": "GangBeasts"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Gang Beasts Server",
+        "launch": {
+            "0": {
+                "executable": "Wrapper.exe",
+                "description": "Launch",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "runWrapper.sh",
+                "type": "default",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "497111": {
+            "name": "Gang Beasts Server Content",
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": "6593635910386374974"
+            },
+            "maxsize": "1357366228",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "3379FC4F9858C86283E8C2C2062E12FC",
+                    "encrypted_size_2": "A624E0AE57C9F1441FC15AA91837709C"
+                }
+            }
+        },
+        "497112": {
+            "name": "Gang Beasts Server Depot",
+            "config": {
+                "oslist": "linux",
+                "language": "english"
+            },
+            "manifests": {
+                "public": "1520651104960184265"
+            },
+            "maxsize": "1367934386",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "B8A2E7791DA1F98E2582508E835E74D7",
+                    "encrypted_size_2": "D1267B6C3DF482F4038CA95A4798A6A0"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1949880",
+                "timeupdated": "1499701715"
+            },
+            "development": {
+                "buildid": "1926031",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1498758971"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "24dbf54ea5a5bdc2a84fd4fe442196f892a89753",
+    "_size": 2667
+}

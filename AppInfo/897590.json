@@ -1,0 +1,216 @@
+{
+    "appid": "897590",
+    "common": {
+        "name": "Memories of Mars - Dedicated Server",
+        "type": "Tool",
+        "parent": "644290",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "logo": "a20e6003db5d20996598545c6b82a86dca40a386",
+        "logo_small": "a20e6003db5d20996598545c6b82a86dca40a386_thumb",
+        "icon": "5651eff56b86cce8991b56b6ce098f3d3ebd674f",
+        "clienticon": "4b9f9819fdaeb0ad0695567604151981a2ba7a75",
+        "clienttga": "3c945e1e5bd64a5836d2bed11669c29365922522",
+        "associations": {},
+        "gameid": "897590"
+    },
+    "config": {
+        "installdir": "Memories of Mars - Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "Game\\Binaries\\Win64\\MemoriesOfMarsServer.exe",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "MemoriesOfMarsServer.sh",
+                "type": "server",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            },
+            "2": {
+                "executable": "Run Server.bat",
+                "description": "Launch Game Server (restart automatically)",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "3": {
+                "executable": "RunServer.sh",
+                "description": "Launch Game Server (restart automatically)",
+                "type": "option1",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228985": {
+            "name": "VC 2013 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "13699237",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "name": "VC 2015 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29759921",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "897591": {
+            "name": "Memories of Mars - Dedicated Server Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "1383079057898914674"
+            },
+            "maxsize": "789260960",
+            "encryptedmanifests": {
+                "gportal": {
+                    "encrypted_gid_2": "E8921B2CD88FEE7744F452D5CEB7A055",
+                    "encrypted_size_2": "4BFBFA8080A664B1C6F81C76B18528C8"
+                },
+                "official": {
+                    "encrypted_gid_2": "B2CAE2BF321B29806D2960ED2F460901",
+                    "encrypted_size_2": "F21DBA6F887D91781B9AB6E763B0714E"
+                },
+                "preview": {
+                    "encrypted_gid_2": "29DC8B8FDCDFFE9A7B9881D6FABA18E1",
+                    "encrypted_size_2": "F57AB9E61578B467DFAD144EAB90A734"
+                },
+                "private_server": {
+                    "encrypted_gid_2": "15BBB0DDCB780016602E046701F185B3",
+                    "encrypted_size_2": "F698E853C410F8D471D93BCD17136949"
+                }
+            }
+        },
+        "897592": {
+            "name": "Memories of Mars - Dedicated Server - Linux",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "1448483816528976722"
+            },
+            "maxsize": "2009369662",
+            "encryptedmanifests": {
+                "gportal": {
+                    "encrypted_gid_2": "46C406A02174A0342347054BA4F9F328",
+                    "encrypted_size_2": "26D80D0B73B2B557FC2B39B570E010F3"
+                },
+                "official": {
+                    "encrypted_gid_2": "3DFCFD71DF21429119A409540C9CBF17",
+                    "encrypted_size_2": "C1F8C8560A4B3A3F9E0ED6C73ACF67C0"
+                },
+                "preview": {
+                    "encrypted_gid_2": "DAC72537E959D48325D2D0DD9DE72320",
+                    "encrypted_size_2": "E0F1BA4F72CDE2D82B9960380C8F7FE3"
+                },
+                "private_server": {
+                    "encrypted_gid_2": "4E92D5443FCBF119DA85555BC8A69320",
+                    "encrypted_size_2": "45F3AD15069077A6134BCD954681CD10"
+                }
+            }
+        },
+        "baselanguages": "english,german",
+        "branches": {
+            "public": {
+                "buildid": "5021879",
+                "timeupdated": "1589388958"
+            },
+            "gportal": {
+                "buildid": "4741902",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1583334773"
+            },
+            "gportal_ps4": {
+                "buildid": "5021879",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1589383313"
+            },
+            "gportal_xbox": {
+                "buildid": "5021879",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1589383324"
+            },
+            "official": {
+                "buildid": "2937113",
+                "description": "Branch for official servers",
+                "pwdrequired": "1",
+                "timeupdated": "1531324916"
+            },
+            "preview": {
+                "buildid": "3487052",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1548070235"
+            },
+            "private_server": {
+                "buildid": "4400344",
+                "description": "test branch for private servers",
+                "pwdrequired": "1",
+                "timeupdated": "1574079625"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "cdd657bda657fa9a0062df198eb1d406df6a8bde",
+    "_size": 5051
+}

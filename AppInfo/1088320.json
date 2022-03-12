@@ -1,0 +1,170 @@
+{
+    "appid": "1088320",
+    "common": {
+        "name": "Day of Dragons - Dedicated Server",
+        "type": "Tool",
+        "parent": "1088090",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "icon": "578510304c36c42e4ead4a33e09f7076823e6ee2",
+        "logo": "9893cc82a32ae33c6b4da13bf450ab6621921675",
+        "logo_small": "9893cc82a32ae33c6b4da13bf450ab6621921675_thumb",
+        "clienticon": "62d5a72368bd5017e46e8af7775417dae4b9fd14",
+        "clienttga": "1cf55d3689fa3a5cbef3cb3e5aba74515d405821",
+        "linuxclienticon": "dbaf8487e2db8f2bcfa6ab87abd97c0d7cc79bb6",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "1088320",
+        "exfgls": "1"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "installdir": "dayofdragons_server",
+        "launch": {
+            "0": {
+                "executable": "DragonsServer.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "DragonsServer.sh",
+                "type": "default",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228987": {
+            "name": "VC 2017 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29664201",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "name": ".NET 4.6 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "62009092",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1088321": {
+            "name": "Day of Dragons - Dedicated Server Windows",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": "82142160717795141"
+            },
+            "maxsize": "1353626079",
+            "encryptedmanifests": {
+                "nodecraft": {
+                    "encrypted_gid_2": "FC5F0DBAEA5FD39787001C716BD6A9DB",
+                    "encrypted_size_2": "4DA918AB1C4450D461153B552D9DEDCD"
+                },
+                "test": {
+                    "encrypted_gid_2": "45C04FD916FC9D278662FB3456316725",
+                    "encrypted_size_2": "72E18A16938100E88289AA9CC9F61387"
+                }
+            }
+        },
+        "1088322": {
+            "name": "Day of Dragons - Dedicated Server Linux",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": "6508572671676102372"
+            },
+            "maxsize": "2305243052",
+            "encryptedmanifests": {
+                "nodecraft": {
+                    "encrypted_gid_2": "641F74E795584EE0ACDA823273E79786",
+                    "encrypted_size_2": "1E384E931E8E172F8837E7962E6DB4F6"
+                },
+                "test": {
+                    "encrypted_gid_2": "8A53B2527F280B8CBA0C1D578F520D9D",
+                    "encrypted_size_2": "ABA902CC05587F00C8B12BB4F200918C"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8209377",
+                "timeupdated": "1644961178"
+            },
+            "nodecraft": {
+                "buildid": "8151858",
+                "description": "Host config testing",
+                "pwdrequired": "1",
+                "timeupdated": "1644089322"
+            },
+            "test": {
+                "buildid": "8311134",
+                "description": "Private test server",
+                "pwdrequired": "1",
+                "timeupdated": "1646352737"
+            },
+            "upload": {
+                "buildid": "8209377",
+                "description": "Latest server build",
+                "pwdrequired": "1",
+                "timeupdated": "1644961048"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "8e07d979b791f0cb45e0cc1f2db7b00aec18d0d3",
+    "_size": 3708
+}

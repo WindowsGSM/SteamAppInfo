@@ -1,0 +1,105 @@
+{
+    "appid": "557690",
+    "common": {
+        "name": "Vengeance: Dedicated Server (OBSOLETE)",
+        "type": "Tool",
+        "parent": "384960",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "clienttga": "0ac426db99687242039bd087644022bc6d9bca12",
+        "clienticon": "e24b43d007d9ff4bb7b88f31088e678187231a7c",
+        "icon": "36e6b99658ac806ad94294c414a82eeb5250585f",
+        "logo": "3031b45cc232be25dba8991d7fe2c4a03e956289",
+        "logo_small": "3031b45cc232be25dba8991d7fe2c4a03e956289_thumb",
+        "associations": {},
+        "gameid": "557690"
+    },
+    "config": {
+        "installdir": "Vengeance Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "vengeanceServer.x86_64",
+                "type": "default",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "vengeanceServer.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "557691": {
+            "name": "Vengeance: Dedicated Server Linux 64",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "3996648647336564824"
+            },
+            "maxsize": "1292362485"
+        },
+        "557692": {
+            "name": "Vengeance: Dedicated Server Windows 64",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "2674142791512406017"
+            },
+            "maxsize": "1212415250"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2349227",
+                "timeupdated": "1512672006"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "065541b8c21abfe8078e4cd536b4c853de138e88",
+    "_size": 2112
+}

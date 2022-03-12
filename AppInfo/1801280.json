@@ -1,0 +1,76 @@
+{
+    "appid": "1801280",
+    "common": {
+        "name": "SCP: CB Multiplayer Dedicated Server",
+        "type": "Tool",
+        "parent": "1782380",
+        "logo": "7d9c3c2481ff92467fd84cdb2939ab0c132303fc",
+        "logo_small": "7d9c3c2481ff92467fd84cdb2939ab0c132303fc_thumb",
+        "icon": "63f0143041b06a1a167a30e970a196db951071d7",
+        "oslist": "windows",
+        "osarch": "",
+        "osextended": "",
+        "clienticon": "9ddffe55583f7ae347adc07d6e66095aa72a49e6",
+        "clienttga": "4bad092d8d5fd06aad3ed826c74adca0ad178caa",
+        "releasestate": "released",
+        "community_hub_visible": "1",
+        "gameid": "1801280",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "SCP CB Multiplayer Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "server.exe"
+            }
+        }
+    },
+    "depots": {
+        "1801281": {
+            "name": "SCP: CB Multiplayer Dedicated Server Content",
+            "manifests": {
+                "public": "1201796289205600320"
+            },
+            "maxsize": "406717541"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "8350109",
+                "timeupdated": "1646947214"
+            }
+        }
+    },
+    "ufs": {
+        "quota": "10737418240",
+        "maxnumfiles": "100",
+        "savefiles": {
+            "0": {
+                "root": "gameinstall",
+                "path": "",
+                "pattern": "server.cfg"
+            },
+            "1": {
+                "root": "gameinstall",
+                "path": "",
+                "pattern": "server_log.txt"
+            },
+            "2": {
+                "root": "gameinstall",
+                "path": "ServerConfig",
+                "pattern": "*",
+                "recursive": "1"
+            },
+            "3": {
+                "root": "gameinstall",
+                "path": "Data",
+                "pattern": "*",
+                "recursive": "1"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14192099,
+    "_sha": "b902cd84f21eea36d74467993abf27ded911fadb",
+    "_size": 1494
+}

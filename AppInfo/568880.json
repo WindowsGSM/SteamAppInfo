@@ -1,0 +1,239 @@
+{
+    "appid": "568880",
+    "common": {
+        "name": "Sniper Elite 4 Dedicated Server",
+        "type": "Tool",
+        "parent": "312660",
+        "releasestate": "released",
+        "clienttga": "f647c3bc17f965c796d5e187e63a38e0e4e9c0e1",
+        "clienticon": "bfd89e2fba99ebffc7a36106cee766d0cf9e71b1",
+        "icon": "3a1dbbf59326c0bb78113db7ac0d70b9988b3ce8",
+        "logo": "c0d579b5e178503f6a6768e036d69f5e8e54ac47",
+        "logo_small": "c0d579b5e178503f6a6768e036d69f5e8e54ac47_thumb",
+        "oslist": "windows",
+        "osarch": "",
+        "associations": {},
+        "gameid": "568880"
+    },
+    "config": {
+        "installdir": "Sniper Elite 4 Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "bin\\SniperElite4_Dedicated.exe",
+                "type": "none"
+            }
+        }
+    },
+    "depots": {
+        "228984": {
+            "name": "VC 2012 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "13742505",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "name": "VC 2015 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29759921",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "568881": {
+            "name": "Sniper Elite 4 Dedicated Server Content",
+            "manifests": {
+                "public": "2439414259156814583"
+            },
+            "maxsize": "25908176",
+            "encryptedmanifests": {
+                "internal_testing": {
+                    "encrypted_gid_2": "CF4BBB6CBF07D31CDA9085EA814D1FF2",
+                    "encrypted_size_2": "9DC4AD2BD3CD2603C68AF6901CA64579"
+                },
+                "nightly": {
+                    "encrypted_gid_2": "3F22E77575E6A71BE54B5C0762A6C4A2",
+                    "encrypted_size_2": "4F7B50DC17CCEDA13AB2E44ECC2A81E8"
+                }
+            }
+        },
+        "312661": {
+            "name": "Sniper Elite 4 Base Files",
+            "manifests": {
+                "public": "4048799331839916338"
+            },
+            "maxsize": "487881657",
+            "encryptedmanifests": {
+                "internal_testing": {
+                    "encrypted_gid_2": "0006E08DEF58F8466C7A9BE84F9CDC1D",
+                    "encrypted_size_2": "FF8A265D9032A1B96BF269DE76D2ED49"
+                },
+                "internal_testing_2": {
+                    "encrypted_gid_2": "8EECDB4C5E5D0D78F9EFCC42415A177C",
+                    "encrypted_size_2": "87E57028730C19EF213E33DF7CD30D38"
+                }
+            },
+            "depotfromapp": "312660"
+        },
+        "474747": {
+            "name": "Sniper Elite 4 MP",
+            "manifests": {
+                "public": "9172257210152631323"
+            },
+            "maxsize": "3980081655",
+            "encryptedmanifests": {
+                "internal_testing": {
+                    "encrypted_gid_2": "62403483F681889E6E18B64A608F8BDD",
+                    "encrypted_size_2": "19C24759127A9B43DF47D38DA0C384EE"
+                },
+                "internal_testing_2": {
+                    "encrypted_gid_2": "BC32437BDFBC15AD1641A4E4B1CE887A",
+                    "encrypted_size_2": "51F479285EF1287B00E87BEA39195104"
+                }
+            },
+            "depotfromapp": "312660"
+        },
+        "474741": {
+            "name": "Sniper Elite 4 Common DLC Data",
+            "manifests": {
+                "public": "367765852226510888"
+            },
+            "maxsize": "1739446223",
+            "encryptedmanifests": {
+                "internal_testing": {
+                    "encrypted_gid_2": "74E3380778EEF4D2CD1AFB0DADA532C2",
+                    "encrypted_size_2": "AE3BEAD7E8FE51CB91B28DC087D20295"
+                },
+                "internal_testing_2": {
+                    "encrypted_gid_2": "238D565C74143EEFB6A203C82DF8C546",
+                    "encrypted_size_2": "3EDC058641A1B4A9D064D3BC79CA2244"
+                }
+            },
+            "depotfromapp": "312660"
+        },
+        "474743": {
+            "name": "Sniper Elite 4 Day 30",
+            "manifests": {
+                "public": "711719995978626888"
+            },
+            "maxsize": "1993296587",
+            "encryptedmanifests": {
+                "internal_testing": {
+                    "encrypted_gid_2": "EF7343C0DF93B9BAC2D7D2DE804E3FB4",
+                    "encrypted_size_2": "7F708AFE9D606FAB1A35E62793FAC188"
+                },
+                "internal_testing_2": {
+                    "encrypted_gid_2": "75747B8655190558D015B4ED44ABD3BF",
+                    "encrypted_size_2": "22FA867943952D972F071C4AC40A4E5C"
+                }
+            },
+            "depotfromapp": "312660"
+        },
+        "474744": {
+            "name": "Sniper Elite 4 Day 60",
+            "manifests": {
+                "public": "8096421991192761435"
+            },
+            "maxsize": "2658921683",
+            "encryptedmanifests": {
+                "internal_testing": {
+                    "encrypted_gid_2": "483DD1D1C80181170EB54F1A18497F15",
+                    "encrypted_size_2": "59D372754CE470C42C8A4C2096FC48A9"
+                },
+                "internal_testing_2": {
+                    "encrypted_gid_2": "7EC2AD7BD35942858FD722C1A20C080D",
+                    "encrypted_size_2": "454E342833D68767E2329ED3ED1E0259"
+                }
+            },
+            "depotfromapp": "312660"
+        },
+        "474745": {
+            "name": "Sniper Elite 4 Day 90",
+            "manifests": {
+                "public": "1606907339718391772"
+            },
+            "maxsize": "2885026691",
+            "encryptedmanifests": {
+                "internal_testing_2": {
+                    "encrypted_gid_2": "96F5A7BA76C7C928CB20406CEF73F673",
+                    "encrypted_size_2": "28F37800264448C3CD377367874D83C4"
+                }
+            },
+            "depotfromapp": "312660"
+        },
+        "474746": {
+            "name": "Sniper Elite 4 Day 120",
+            "manifests": {
+                "public": "8679890394768222636"
+            },
+            "maxsize": "1257529472",
+            "depotfromapp": "312660"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1993732",
+                "timeupdated": "1501234319"
+            },
+            "external": {
+                "buildid": "1993732",
+                "description": "Denuvo",
+                "pwdrequired": "1",
+                "timeupdated": "1501234360"
+            },
+            "external_testing_2": {
+                "buildid": "1993732",
+                "description": "Test builds for external QA",
+                "pwdrequired": "1",
+                "timeupdated": "1501226792"
+            },
+            "internal_testing": {
+                "buildid": "1777533",
+                "description": "Test builds, or pre-release testing",
+                "pwdrequired": "1",
+                "timeupdated": "1500983932"
+            },
+            "nightly": {
+                "buildid": "1987665",
+                "description": "Latest nightly (unstable)",
+                "pwdrequired": "1",
+                "timeupdated": "1501055177"
+            },
+            "public_beta": {
+                "buildid": "1993732",
+                "description": "Pre-release public builds",
+                "timeupdated": "1501234349"
+            },
+            "se4devbeta": {
+                "buildid": "1993732",
+                "description": "Stable build",
+                "pwdrequired": "1",
+                "timeupdated": "1501234332"
+            },
+            "internal_testing_2": {
+                "buildid": "1955221",
+                "description": "Test builds, or pre-release testing",
+                "pwdrequired": "1",
+                "timeupdated": "1500377813"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "4843462099a2d5c5edd3aea11c8dd58934330ae6",
+    "_size": 6052
+}

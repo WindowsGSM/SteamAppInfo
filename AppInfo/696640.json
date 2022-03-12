@@ -1,0 +1,108 @@
+{
+    "appid": "696640",
+    "common": {
+        "name": "Radline + Dedicated Server (obsolete)",
+        "type": "Tool",
+        "parent": "592390",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "icon": "370dd41d82e620053da7d03f6fd2308b25c553ac",
+        "logo": "385e43d4b78ca5d3000bc3ac3e2807029ea8038d",
+        "logo_small": "385e43d4b78ca5d3000bc3ac3e2807029ea8038d_thumb",
+        "clienttga": "17e0b26ffdaae8f4a4cbbf7213ca7c47e285deb4",
+        "clienticon": "75575ae286c457c84a337b4f5ea5e77df4d3e840",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "696640"
+    },
+    "extended": {
+        "gamedir": "radline",
+        "serverbrowsername": "Radline: Quarantine"
+    },
+    "config": {
+        "installdir": "Radline Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "Radline/Binaries/Win64/RadlineServer.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "Radline/Binaries/Linux/RadlineServer",
+                "type": "default",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228986": {
+            "name": "VC 2015 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29759921",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "696641": {
+            "name": "Radline: Quarantine Dedicated Server Content",
+            "config": {
+                "oslist": "windows,linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "464076992091257637"
+            },
+            "maxsize": "12699505769"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2070484",
+                "timeupdated": "1503752687"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "5fde18c95f820d208c43dc513411537284ba162b",
+    "_size": 2211
+}

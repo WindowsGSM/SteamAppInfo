@@ -1,0 +1,98 @@
+{
+    "appid": "629800",
+    "common": {
+        "name": "MORDHAU Dedicated Server",
+        "type": "Tool",
+        "parent": "629760",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "logo": "02a5c5026b1eb99cb0f8dfd94e1c4de94449b67f",
+        "logo_small": "02a5c5026b1eb99cb0f8dfd94e1c4de94449b67f_thumb",
+        "icon": "f04be0f078a1e41dd4df0149255617be299e0831",
+        "clienttga": "45cd687f7684e3ae2ea3245299402ef78dd99823",
+        "clienticon": "1ce1643c91aa49fee0b63c68f8fb56f8a08d540b",
+        "associations": {},
+        "gameid": "629800",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "Mordhau Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "MordhauServer.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "MordhauServer.sh",
+                "type": "default",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "629801": {
+            "name": "MORDHAU Dedicated Server Windows",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "4997286689071633005"
+            },
+            "maxsize": "3710448508",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "9B2AB9FBAB21A98C29B14C2DB05F9DBB",
+                    "encrypted_size_2": "8FB829C6C5CCE2D317603CECEEF04215"
+                }
+            }
+        },
+        "629802": {
+            "name": "MORDHAU Dedicated Server Linux",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "630310880902356954"
+            },
+            "maxsize": "2664097950",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "3CED2E77051B4CCEF032D36392FFBE75",
+                    "encrypted_size_2": "F0719245C47B07473D032A9F7EDDBDF3"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "7954281",
+                "timeupdated": "1640870045"
+            },
+            "development": {
+                "buildid": "8215120",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1645030415"
+            },
+            "testing": {
+                "buildid": "7954281",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1640869909"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 13976382,
+    "_sha": "1dfd020ed94f02dd789d6230dd8ba94b6464aa59",
+    "_size": 2085
+}

@@ -1,0 +1,46 @@
+{
+    "appid": "4207",
+    "common": {
+        "icon": "",
+        "logo": "",
+        "logo_small": "",
+        "name": "Race Internal Beta Dedicated Server",
+        "type": "Tool",
+        "gameid": "4207"
+    },
+    "extended": {
+        "developer": "",
+        "gamedir": "Race Internal Beta",
+        "homepage": "",
+        "icon": "",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "4208",
+        "serverbrowsername": "",
+        "state": "eStateTool"
+    },
+    "config": {
+        "contenttype": "2",
+        "installdir": "Race Internal Beta Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "RaceDedicatedServer_Steam.exe"
+            }
+        }
+    },
+    "depots": {
+        "4209": {
+            "name": "Race Textures Beta",
+            "systemdefined": "1"
+        },
+        "4208": {
+            "name": "Race Files Beta",
+            "systemdefined": "1"
+        },
+        "overridescddb": "1"
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "0b1f0a094b2b9bc6085dd98ad71eaeb57334afd1",
+    "_size": 745
+}

@@ -1,0 +1,73 @@
+{
+    "appid": "381690",
+    "common": {
+        "name": "Reign Of Kings Dedicated Server",
+        "type": "Tool",
+        "releasestate": "released",
+        "oslist": "windows",
+        "logo": "7367c5903512b1f00c1f39c505febecc4d24ac69",
+        "logo_small": "7367c5903512b1f00c1f39c505febecc4d24ac69_thumb",
+        "icon": "89535542b619b9f8dfc7d9d9df9bda2556a8f5fa",
+        "clienttga": "a4f4e58d22629cc4572e229ee54a13136525a496",
+        "clienticon": "76f823cbd7f9c66a80785c1e695e62a605e4e27e",
+        "associations": {},
+        "gameid": "381690"
+    },
+    "extended": {
+        "gamedir": "Reign Of Kings Server",
+        "serverbrowsername": "Reign Of Kings"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Reign Of Kings Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "Server.exe",
+                "description": "Launch",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "381691": {
+            "name": "Reign Of Kings Dedicated Server Content",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "7535360554442433535"
+            },
+            "maxsize": "2881053041",
+            "encryptedmanifests": {
+                "developer": {
+                    "encrypted_gid_2": "B030F133F2770F9BFA0548BE6F8C8391",
+                    "encrypted_size_2": "B0B79AA4D57505CD2B546F1CE69CAAFA"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "4088734",
+                "timeupdated": "1565307435"
+            },
+            "developer": {
+                "buildid": "3177678",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1542136718"
+            },
+            "test": {
+                "buildid": "4088734",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1565305546"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "d1016dd58be6acdf65bde53925abfffb3d44da80",
+    "_size": 1575
+}

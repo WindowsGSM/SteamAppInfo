@@ -1,0 +1,96 @@
+{
+    "appid": "1717030",
+    "common": {
+        "name": "Smerch Battle Arena - Dedicated Server",
+        "type": "Tool",
+        "parent": "1213530",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "logo": "3f25a28693857b5e8199e28cd4fcb41ea4c6591b",
+        "logo_small": "3f25a28693857b5e8199e28cd4fcb41ea4c6591b_thumb",
+        "icon": "13a73b28a55f9f6a2c1096c913cc3f9553be0e0e",
+        "clienttga": "0427e35a9e8ea1a95bf2ab309358bdaf02755f18",
+        "clienticon": "736c9945a27b76aed735d3593788f128c0e4d47c",
+        "releasestate": "released",
+        "gameid": "1717030",
+        "exfgls": "1"
+    },
+    "extended": {
+        "gamedir": "SmerchBattleArena",
+        "serverbrowsername": "Smerch Battle Arena - Dedicated server"
+    },
+    "config": {
+        "installdir": "SmerchBattleArena",
+        "launch": {
+            "0": {
+                "executable": "SBA_DedicatedServer.bat",
+                "type": "server",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1717031": {
+            "name": "Smerch Battle Arena - Dedicated Server Content",
+            "manifests": {
+                "public": "4179310191939026252"
+            },
+            "maxsize": "153857632"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7411467",
+                "timeupdated": "1632406185"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "104feba9ef4ddb316e03a691c57bd692b6b436f2",
+    "_size": 1970
+}

@@ -1,0 +1,149 @@
+{
+    "appid": "405100",
+    "common": {
+        "name": "Hurtworld Dedicated Server",
+        "type": "Tool",
+        "oslist": "windows,linux",
+        "clienticon": "3ba115604c26ea04a7a22d45491627b0a6459870",
+        "clienttga": "bf38462ae3684f96a20b69765c726831166173d3",
+        "icon": "6d5ae57f85d8d2af758afa89df4369da699900dc",
+        "logo": "943ead0e199bc103e2b74899f8ad1ad20ad5f4f6",
+        "logo_small": "943ead0e199bc103e2b74899f8ad1ad20ad5f4f6_thumb",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "405100"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Hurtworld Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "hurtworld.exe",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "hurtworld.so",
+                "type": "server",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "405101": {
+            "name": "Hurtworld Dedicated Server Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "7239348504016050697",
+                "legacy": "9185763667898370055",
+                "oldversion": "456048003566330781",
+                "privatetest": "8615606840404614775",
+                "whagwan": "6186249394656305976"
+            },
+            "maxsize": "956377460"
+        },
+        "405102": {
+            "name": "Hurtworld Dedicated Server Linux Depot",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "7147860276082064604",
+                "legacy": "6925592058745733688",
+                "oldversion": "6507461316042360070",
+                "privatetest": "1886158277074520110",
+                "whagwan": "3544464017689656215"
+            },
+            "maxsize": "998859671"
+        },
+        "405103": {
+            "name": "Hurtworld Dedicated Server Shared Depot",
+            "manifests": {
+                "public": "4737024751331444294",
+                "legacy": "8545715084088772803",
+                "privatetest": "7082597167772959456",
+                "whagwan": "1948679995373904297"
+            },
+            "maxsize": "3488098176"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4710832",
+                "timeupdated": "1582578093"
+            },
+            "devtest": {
+                "buildid": "4710832",
+                "description": "Developer only testing branch",
+                "timeupdated": "1582577436"
+            },
+            "legacy": {
+                "buildid": "3060263",
+                "description": "",
+                "timeupdated": "1547239764"
+            },
+            "oldversion": {
+                "buildid": "4599056",
+                "description": "",
+                "timeupdated": "1582578078"
+            },
+            "privatetest": {
+                "buildid": "4479838",
+                "description": "",
+                "timeupdated": "1576028935"
+            },
+            "whagwan": {
+                "buildid": "3240003",
+                "description": "Test",
+                "timeupdated": "1540316026"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "ff605d986053075892d3c8862b1e0f26ee91a375",
+    "_size": 3206
+}

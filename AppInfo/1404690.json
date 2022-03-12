@@ -1,0 +1,92 @@
+{
+    "appid": "1404690",
+    "common": {
+        "name": "Paint Royale Dedicated Server",
+        "type": "Tool",
+        "parent": "1396170",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "",
+        "osextended": "",
+        "clienttga": "20d483f55c21f1defcb4ad1e4440c7154e1933c7",
+        "logo": "09fc26c23def1c2c8671f7f8ba42e620fe1c6868",
+        "logo_small": "09fc26c23def1c2c8671f7f8ba42e620fe1c6868_thumb",
+        "icon": "584c4ec5416794962eb02d34d56acd4088fb80fd",
+        "clienticon": "3ac472bff32dee1e23f878880dd3e32bc4af3131",
+        "community_hub_visible": "1",
+        "gameid": "1404690",
+        "exfgls": "1"
+    },
+    "extended": {
+        "anti_cheat_support_url": "https://www.easy.ac/r/steam/gamebans/?steamAppId=1404690"
+    },
+    "config": {
+        "installdir": "Paint Royale Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "PaintRoyaleServer.exe",
+                "arguments": "-log",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1404691": {
+            "name": "Dedicated Server Content",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": "6056672256959520520"
+            },
+            "maxsize": "452997181"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "5887772",
+                "timeupdated": "1606420441"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "b1e94d9073d796b5fba7aa8568750cb1ed651d87",
+    "_size": 1898
+}

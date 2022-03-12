@@ -1,0 +1,79 @@
+{
+    "appid": "1738800",
+    "common": {
+        "name": "Outworlder Server",
+        "type": "Tool",
+        "parent": "1363900",
+        "releasestate": "released",
+        "clienticon": "3e610c0444d6aecb7a4da961389f01598102b99f",
+        "clienttga": "2caeeec178c70b809d679da461024e50dcd76d89",
+        "icon": "3b45cbc2b7728868048d4e685566b1ac069d65ec",
+        "logo": "e31d7136322b681c2081a9eb95a35684bf66e68d",
+        "logo_small": "e31d7136322b681c2081a9eb95a35684bf66e68d_thumb",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "gameid": "1738800",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "Outworlder Server",
+        "launch": {
+            "0": {
+                "executable": "Outworlder.exe",
+                "type": "none"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1738801": {
+            "name": "Outworlder Server Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8350903",
+                "timeupdated": "1646964563"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "a8015e497040f5fa77c5def6af6222cc52a07534",
+    "_size": 1541
+}

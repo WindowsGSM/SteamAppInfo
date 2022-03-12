@@ -1,0 +1,163 @@
+{
+    "appid": "882430",
+    "common": {
+        "name": "Beasts of Bermuda Dedicated Server",
+        "type": "Tool",
+        "parent": "719890",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "",
+        "logo": "150d386ee1f133eefdca0d4e2a2f87a9a9038f92",
+        "logo_small": "150d386ee1f133eefdca0d4e2a2f87a9a9038f92_thumb",
+        "icon": "0d01e5847b2ab02120d9b0e2d76aadc30b8808a6",
+        "clienttga": "ff8c213f5e44fafe55a9e3ad0a44da526e74c663",
+        "clienticon": "ab60031ff804dadc474f103d0a53d6e77b4be78e",
+        "associations": {},
+        "gameid": "882430"
+    },
+    "extended": {
+        "gamedir": "BeastsOfBermuda",
+        "serverbrowsername": "Beasts Of Bermuda",
+        "anti_cheat_support_url": "https://www.easy.ac/r/steam/gamebans/?steamAppId=882430"
+    },
+    "config": {
+        "installdir": "Beasts of Bermuda Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "WindowsServer/BeastsOfBermuda/Binaries/Win64/BeastsOfBermudaServer.exe",
+                "arguments": "-log -NoVerifyGC",
+                "description": "Dedicated Server for Beasts Of Bermuda",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "WindowsServer/BeastsOfBermudaServer.exe",
+                "arguments": "-log -NoVerifyGC",
+                "description": "Dedicated Server for Beasts of Bermuda",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "",
+        "882431": {
+            "name": "Beasts of Bermuda Dedicated Server Content",
+            "manifests": {
+                "public": "5313098562513802605"
+            },
+            "maxsize": "982593190",
+            "encryptedmanifests": {
+                "tester": {
+                    "encrypted_gid_2": "E1EFA4BA90817A0785787CCDEEF34D0C",
+                    "encrypted_size_2": "FB8488A97E1FF64A4F71F6175383BDE2"
+                }
+            }
+        },
+        "882432": {
+            "name": "Beasts of Bermuda Dedicated Server Windows",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "3371381388497742932"
+            },
+            "maxsize": "267119302",
+            "encryptedmanifests": {
+                "tester": {
+                    "encrypted_gid_2": "915CC776FFF4F52522B28B582F9AAF70",
+                    "encrypted_size_2": "070A6889C7112E8F92518757D895E156"
+                }
+            }
+        },
+        "882433": {
+            "name": "Beasts of Bermuda Dedicated Server Linux",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "5016492970766040489"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8192641",
+                "timeupdated": "1644692348"
+            },
+            "developers": {
+                "buildid": "8192641",
+                "description": "Developers-only branch",
+                "pwdrequired": "1",
+                "timeupdated": "1644692340"
+            },
+            "tester": {
+                "buildid": "8360241",
+                "description": "Tester branch",
+                "pwdrequired": "1",
+                "timeupdated": "1647108732"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14208796,
+    "_sha": "940e3032608acfd08a5303e61b459e2a1ea8da84",
+    "_size": 3705
+}

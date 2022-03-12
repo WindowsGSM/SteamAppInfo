@@ -1,0 +1,56 @@
+{
+    "appid": "1277220",
+    "common": {
+        "name": "Deep Space Battle Simulator Dedicated Server",
+        "type": "Tool",
+        "parent": "1055610",
+        "releasestate": "released",
+        "logo": "38324a88ec56fca6183d2452b99f8008baff9652",
+        "logo_small": "38324a88ec56fca6183d2452b99f8008baff9652_thumb",
+        "icon": "b2506e4a7e183fb97cbc861cbe870550cef62534",
+        "clienticon": "4385d921f083750dd0fbe2c4002d1a611ec00f4f",
+        "clienttga": "6012ea81d68607ad0dfc5610e61f17101373c1fd",
+        "oslist": "linux",
+        "osarch": "",
+        "osextended": "",
+        "gameid": "1277220"
+    },
+    "config": {
+        "installdir": "Deep Space Battle Simulator Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "DeepSpaceServer.exe",
+                "type": "none",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "DeepSpace-Linux-Shipping",
+                "type": "none",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1277221": {
+            "name": "Deep Space Battle Simulator Dedicated Server Content",
+            "manifests": {
+                "public": "6672899154141980681"
+            },
+            "maxsize": "2962280290"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8302454",
+                "timeupdated": "1646244652"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14112641,
+    "_sha": "6ffc10e0cbb014f6c0b0c4f1d14affed3e9ea9a7",
+    "_size": 1183
+}

@@ -1,0 +1,112 @@
+{
+    "appid": "317670",
+    "common": {
+        "name": "No More Room in Hell Dedicated Server",
+        "type": "Tool",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "logo": "932f6060f9090e5f78b7db86d11018f7185a4173",
+        "logo_small": "932f6060f9090e5f78b7db86d11018f7185a4173_thumb",
+        "icon": "2c589dd0e987a385665cb435b0c46f8c1e144f80",
+        "clienttga": "c7fd6b921104e7791471bb21d7085a1d4a2a3301",
+        "clienticon": "88eeeb9c4ce0eb56cf31cbe64cdf8ae4f0f9d9f4",
+        "clienticns": "79769e3585d3f1f24b6a24a3a30469a063f3b255",
+        "linuxclienticon": "7da1fd6feb1be59432777825dd9dab65921615f8",
+        "parent": "224260",
+        "associations": {},
+        "gameid": "317670",
+        "exfgls": "1"
+    },
+    "extended": {
+        "serverbrowsername": "No More Room in Hell",
+        "gamedir": "nmrih"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "No More Room in Hell Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "srcds.exe",
+                "arguments": "-game nmrih +map nmo_broadway",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "./srcds_run",
+                "arguments": "-game nmrih +map nmo_broadway",
+                "type": "default",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "317671": {
+            "name": "No More Room in Hell Dedicated Server Content Windows",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "4768090574655275912"
+            },
+            "maxsize": "716123714"
+        },
+        "317672": {
+            "name": "No More Room in Hell Dedicated Server Content Linux",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "5016052174384265910"
+            },
+            "maxsize": "684777786"
+        },
+        "317673": {
+            "name": "No More Room in Hell Dedicated Server Shared Content",
+            "manifests": {
+                "public": "3847621168829921566"
+            },
+            "maxsize": "6988264242"
+        },
+        "317674": {
+            "name": "No More Room in Hell Dedicated Server Windows Binaries",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "6429801287312005533"
+            },
+            "maxsize": "14788616"
+        },
+        "317675": {
+            "name": "No More Room in Hell Dedicated Server Linux Binaries",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "2957351119663428070"
+            },
+            "maxsize": "65835170"
+        },
+        "workshopdepot": "317670",
+        "branches": {
+            "public": {
+                "buildid": "8119465",
+                "timeupdated": "1643663861"
+            },
+            "devtest": {
+                "buildid": "8119465",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1643651852"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 13822765,
+    "_sha": "6d6f2d4442aeed0b3e7a6361e0588a27a52d8313",
+    "_size": 2511
+}

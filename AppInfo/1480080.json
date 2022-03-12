@@ -1,0 +1,113 @@
+{
+    "appid": "1480080",
+    "common": {
+        "name": "Notruf 112 - 2 Dedicated Server",
+        "type": "Tool",
+        "parent": "785770",
+        "releasestate": "released",
+        "oslist": "linux",
+        "osarch": "",
+        "osextended": "",
+        "logo": "739c1775f5d60884f4ea8413afa58c290bfcde0d",
+        "logo_small": "739c1775f5d60884f4ea8413afa58c290bfcde0d_thumb",
+        "icon": "6cc479ad906679ccace4ff28da1bb09a5dfe49e0",
+        "clienttga": "9854eb00ea72afaeb989cc1b724fb00cbe6e9ce8",
+        "clienticon": "44039a2ae7e5c3c5d9f9f95e670c05db7e8438f6",
+        "gameid": "1480080"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "installdir": "Notruf 112 - 2 Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "server2019.x86",
+                "type": "server",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1480081": {
+            "name": "Notruf 112 - 2 Dedicated Server Content",
+            "manifests": {
+                "public": "896501813594535404",
+                "open_beta": "546986290774723316"
+            },
+            "maxsize": "4313896847",
+            "encryptedmanifests": {
+                "closed_beta": {
+                    "encrypted_gid_2": "E11A4A9420DB8A86010A19A432CD71FD",
+                    "encrypted_size_2": "D0EF3DD07AC26C15B71355FE4B6BCEDE"
+                },
+                "private": {
+                    "encrypted_gid_2": "4BD442678141025A4E73E49AC1D953AB",
+                    "encrypted_size_2": "00D3E035C2B9C037A9FE67B7B8ECC992"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "7902301",
+                "timeupdated": "1639753804"
+            },
+            "closed_beta": {
+                "buildid": "8123790",
+                "description": "Closed Beta Testers",
+                "pwdrequired": "1",
+                "timeupdated": "1643709678"
+            },
+            "open_beta": {
+                "buildid": "8123790",
+                "description": "Public Beta Branch",
+                "timeupdated": "1643727074"
+            },
+            "private": {
+                "buildid": "8340952",
+                "description": "Internal only",
+                "pwdrequired": "1",
+                "timeupdated": "1646839649"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "cc76de40f3b4600fcb919a2d602c9b4448c7200b",
+    "_size": 2462
+}

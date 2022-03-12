@@ -1,0 +1,260 @@
+{
+    "appid": "526340",
+    "common": {
+        "name": "Voxel Turf Dedicated Server",
+        "type": "Tool",
+        "parent": "404530",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "icon": "b0e124dc42de0aafa3ed22e3ff51cf4d09cc1f98",
+        "logo": "5bf2f1c429096d65f82df09e3678630d56785ca8",
+        "logo_small": "5bf2f1c429096d65f82df09e3678630d56785ca8_thumb",
+        "clienticon": "7b9b219cfccd78c78629064eda5466f4296bf22a",
+        "clienttga": "88e983a4274be8ae66190a3b3dde301953e9ddda",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "526340"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "vtdediserver",
+        "launch": {
+            "0": {
+                "executable": "vtserver",
+                "type": "server",
+                "config": {
+                    "oslist": "linux"
+                }
+            },
+            "1": {
+                "executable": "vtserver.exe",
+                "type": "server",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "526341": {
+            "name": "Voxel Turf Server Content",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "2474946242308153973",
+                "oldversion1.0.23": "7961305307615314124",
+                "oldversion1.0.26": "6784511348148589275",
+                "oldversion1.0.28": "3110308815677349747",
+                "oldversion1.1.1": "3059007370864363740",
+                "oldversion1.1.2": "9079391421640594270",
+                "oldversion1.1.5": "7169774568902336851",
+                "oldversion1.2.0": "8647298641416251746",
+                "oldversion1.2.2": "7848512955875876213",
+                "oldversion1.2.3": "2793682788649731762",
+                "oldversion1.3.1": "7594335342060682926",
+                "oldversion1.3.3": "5414949263446292585",
+                "oldversion1.4.0": "5781378313011093374",
+                "oldversion1.4.3": "3181513138773714389",
+                "oldversion1.5.0": "4537673272965875116",
+                "oldversion1.5.3": "6806973450124161212",
+                "oldversion1.6.0": "894792474294001042",
+                "oldversion1.6.11a": "2730013230574184826",
+                "oldversion1.6.4": "9174817837960707838",
+                "oldversion1.6.7": "4463921069298452819",
+                "oldversion1.7.3": "297005032921748297"
+            },
+            "maxsize": "30665687"
+        },
+        "526342": {
+            "name": "Voxel Turf Server Depot Win64",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "5630789770278749131",
+                "oldversion1.0.23": "7115252530271934394",
+                "oldversion1.0.26": "7384438679782686062",
+                "oldversion1.0.28": "1444091633288953737",
+                "oldversion1.1.1": "8941522494064996453",
+                "oldversion1.1.2": "2670322892670003302",
+                "oldversion1.1.5": "7749185063276294645",
+                "oldversion1.2.0": "1952486079952578809",
+                "oldversion1.2.2": "4024660613284878084",
+                "oldversion1.2.3": "7006638753504158151",
+                "oldversion1.3.1": "7596211526393673103",
+                "oldversion1.3.3": "5608072340601740354",
+                "oldversion1.4.0": "5191739971576326946",
+                "oldversion1.4.3": "107281056074892320",
+                "oldversion1.5.0": "8758580917795732882",
+                "oldversion1.5.3": "2746519941970804797",
+                "oldversion1.6.0": "2957990347702966930",
+                "oldversion1.6.11a": "5963985322704927730",
+                "oldversion1.6.4": "6582504425022889075",
+                "oldversion1.6.7": "3605641193700494694",
+                "oldversion1.7.3": "2970268966471880750"
+            },
+            "maxsize": "35684228"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7009301",
+                "timeupdated": "1625913997"
+            },
+            "beta": {
+                "buildid": "7009301",
+                "description": "Public Beta",
+                "timeupdated": "1625908471"
+            },
+            "development": {
+                "buildid": "7009301",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1625908222"
+            },
+            "experimental": {
+                "buildid": "7009301",
+                "description": "",
+                "timeupdated": "1625908516"
+            },
+            "oldversion1.0.23": {
+                "buildid": "2244037",
+                "description": "",
+                "timeupdated": "1513903168"
+            },
+            "oldversion1.0.26": {
+                "buildid": "2391659",
+                "description": "",
+                "timeupdated": "1513903212"
+            },
+            "oldversion1.0.28": {
+                "buildid": "2450370",
+                "description": "",
+                "timeupdated": "1520489680"
+            },
+            "oldversion1.1.1": {
+                "buildid": "2725963",
+                "description": "",
+                "timeupdated": "1525914961"
+            },
+            "oldversion1.1.2": {
+                "buildid": "2760796",
+                "description": "",
+                "timeupdated": "1527059291"
+            },
+            "oldversion1.1.5": {
+                "buildid": "2817370",
+                "description": "",
+                "timeupdated": "1529824234"
+            },
+            "oldversion1.2.0": {
+                "buildid": "2890283",
+                "description": "",
+                "timeupdated": "1530010590"
+            },
+            "oldversion1.2.2": {
+                "buildid": "2914592",
+                "description": "",
+                "timeupdated": "1530842734"
+            },
+            "oldversion1.2.3": {
+                "buildid": "2923079",
+                "description": "",
+                "timeupdated": "1532583983"
+            },
+            "oldversion1.3.1": {
+                "buildid": "2981472",
+                "description": "",
+                "timeupdated": "1533171738"
+            },
+            "oldversion1.3.3": {
+                "buildid": "3004962",
+                "description": "",
+                "timeupdated": "1545882572"
+            },
+            "oldversion1.4.0": {
+                "buildid": "3429420",
+                "description": "",
+                "timeupdated": "1547254109"
+            },
+            "oldversion1.4.3": {
+                "buildid": "3462362",
+                "description": "",
+                "timeupdated": "1555133113"
+            },
+            "oldversion1.5.0": {
+                "buildid": "3734884",
+                "description": "",
+                "timeupdated": "1555577246"
+            },
+            "oldversion1.5.3": {
+                "buildid": "3751864",
+                "description": "",
+                "timeupdated": "1570351268"
+            },
+            "oldversion1.6.0": {
+                "buildid": "4261259",
+                "description": "",
+                "timeupdated": "1572660602"
+            },
+            "oldversion1.6.11a": {
+                "buildid": "6027485",
+                "description": "aa",
+                "timeupdated": "1611742324"
+            },
+            "oldversion1.6.4": {
+                "buildid": "4610301",
+                "description": "",
+                "timeupdated": "1587103110"
+            },
+            "oldversion1.6.7": {
+                "buildid": "4953349",
+                "description": "ov",
+                "timeupdated": "1609033344"
+            },
+            "oldversion1.7.3": {
+                "buildid": "6169475",
+                "description": "old version",
+                "timeupdated": "1625913988"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "60d9bc3d042c99f2151b2986f13df949b563ea96",
+    "_size": 6394
+}

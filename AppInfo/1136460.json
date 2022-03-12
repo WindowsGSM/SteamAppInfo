@@ -1,0 +1,85 @@
+{
+    "appid": "1136460",
+    "common": {
+        "name": "Without A Roof (W.A.R.) Dedicated Server",
+        "type": "Tool",
+        "parent": "689660",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "logo": "d4bbeb1107ea63c3e26d086b26806c387e0d0ed8",
+        "logo_small": "d4bbeb1107ea63c3e26d086b26806c387e0d0ed8_thumb",
+        "icon": "587e5f92a96ca368118aba326c21fd49c30c0796",
+        "clienttga": "4bfc518747a6e067696546f56ef861ff3c306f1e",
+        "clienticon": "a2f861f7ed515003a63902d8f1ebe381540a6095",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "1136460"
+    },
+    "config": {
+        "installdir": "Without A Roof (W.A.R.) Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "WAR.exe",
+                "arguments": " -batchmode -serververbose",
+                "type": "none"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1136461": {
+            "name": "Without A Roof (W.A.R.) Dedicated Server Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "4120521307531058474"
+            },
+            "maxsize": "6438628023"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "5865072",
+                "timeupdated": "1606020375"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "deaca057f03c918c779a6aa7d3a8c0c584e10d80",
+    "_size": 1774
+}

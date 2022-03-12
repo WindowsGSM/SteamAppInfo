@@ -1,0 +1,244 @@
+{
+    "appid": "564390",
+    "common": {
+        "name": "Serious Sam 2017 Dedicated Server",
+        "type": "Tool",
+        "parent": "564310",
+        "oslist": "windows,macos,linux",
+        "osarch": "64",
+        "releasestate": "released",
+        "logo": "31dc0fe51a6f88306d3f437ac0a9ca810a1c2333",
+        "logo_small": "31dc0fe51a6f88306d3f437ac0a9ca810a1c2333_thumb",
+        "associations": {},
+        "gameid": "564390"
+    },
+    "config": {
+        "installdir": "Serious Sam Fusion 2017",
+        "launch": {
+            "0": {
+                "executable": "Bin/x64/Sam2017_DedicatedServer.exe",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "Bin/x64/Sam2017_DedicatedServer",
+                "type": "server",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            },
+            "2": {
+                "executable": "Bin/x64/Sam2017_DedicatedServer",
+                "type": "server",
+                "config": {
+                    "oslist": "macos",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "564391": {
+            "name": "SS2017_ServerBin_Windows",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "7369212440532702738",
+                "legacy": "7422681394301168047",
+                "previousversion": "9126580938285381437"
+            },
+            "maxsize": "68609918",
+            "encryptedmanifests": {
+                "closedbeta": {
+                    "encrypted_gid_2": "092DF52D3D8965050F39B6F34CC9F9DA",
+                    "encrypted_size_2": "4A7EC4C9395618314DBB0750CE6089E3"
+                },
+                "internal": {
+                    "encrypted_gid_2": "2914334BC929E31FDCBE7CD75A65EFA5",
+                    "encrypted_size_2": "82C135723520CB85A3969611BBC0F4BE"
+                }
+            }
+        },
+        "564392": {
+            "name": "SS2017_ServerBin_Linux",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "8207392409225420878",
+                "legacy": "8367811276488978192",
+                "previousversion": "5600057570879111506"
+            },
+            "maxsize": "119495179",
+            "encryptedmanifests": {
+                "closedbeta": {
+                    "encrypted_gid_2": "CB89BDB2FEABE0F3431D07DF508D003B",
+                    "encrypted_size_2": "DDB0B8F326E27EBDE348FEF4DD938BE5"
+                },
+                "internal": {
+                    "encrypted_gid_2": "36A67389A07C1BF29AC5677A2A696CED",
+                    "encrypted_size_2": "1E963E0B763F2B2B374F760A3A0C7626"
+                }
+            }
+        },
+        "564393": {
+            "name": "SS2017_ServerBin_OSX",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "656839774688758553",
+                "legacy": "3473616017884258185",
+                "previousversion": "8100227582573936163"
+            },
+            "maxsize": "79368732",
+            "encryptedmanifests": {
+                "closedbeta": {
+                    "encrypted_gid_2": "EADD59E00721441D26BB4ED54ADE615E",
+                    "encrypted_size_2": "B69169B1B61F43EAFDE98DF1B22B8E05"
+                },
+                "internal": {
+                    "encrypted_gid_2": "B6C061A8434A6E2978901216FBCDB661",
+                    "encrypted_size_2": "1E963E0B763F2B2B374F760A3A0C7626"
+                }
+            }
+        },
+        "564315": {
+            "name": "SS2017_Common_Shared",
+            "maxsize": "622695576",
+            "depotfromapp": "564310",
+            "sharedinstall": "2"
+        },
+        "564316": {
+            "name": "SS2017_Common_Windows",
+            "config": {
+                "oslist": "windows"
+            },
+            "maxsize": "33548240",
+            "depotfromapp": "564310",
+            "sharedinstall": "2"
+        },
+        "564317": {
+            "name": "SS2017_Common_Linux",
+            "config": {
+                "oslist": "linux"
+            },
+            "maxsize": "197498",
+            "depotfromapp": "564310",
+            "sharedinstall": "2"
+        },
+        "564318": {
+            "name": "SS2017_Common_OSX",
+            "config": {
+                "oslist": "macos"
+            },
+            "maxsize": "457332",
+            "depotfromapp": "564310",
+            "sharedinstall": "2"
+        },
+        "564320": {
+            "name": "SS2017_Content_TFE",
+            "dlcappid": "564320",
+            "maxsize": "1442210446",
+            "depotfromapp": "564310",
+            "sharedinstall": "2"
+        },
+        "564321": {
+            "name": "SS2017_Content_TSE",
+            "dlcappid": "564321",
+            "maxsize": "2443411138",
+            "depotfromapp": "564310",
+            "sharedinstall": "2"
+        },
+        "564322": {
+            "name": "SS2017_Content_LotB",
+            "dlcappid": "564322",
+            "maxsize": "355177490",
+            "depotfromapp": "564310",
+            "sharedinstall": "2"
+        },
+        "564323": {
+            "name": "SS2017_Content_BFE",
+            "dlcappid": "564323",
+            "maxsize": "3677768100",
+            "depotfromapp": "564310",
+            "sharedinstall": "2"
+        },
+        "564324": {
+            "name": "SS2017_Content_JotN",
+            "dlcappid": "564324",
+            "maxsize": "411864345",
+            "depotfromapp": "564310",
+            "sharedinstall": "2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3897293",
+                "timeupdated": "1559914025"
+            },
+            "closedbeta": {
+                "buildid": "4488978",
+                "description": "For beta testers.",
+                "pwdrequired": "1",
+                "timeupdated": "1576234694"
+            },
+            "internal": {
+                "buildid": "8212503",
+                "description": "Internal testing",
+                "pwdrequired": "1",
+                "timeupdated": "1645003711"
+            },
+            "legacy": {
+                "buildid": "2501958",
+                "description": "",
+                "timeupdated": "1558528359"
+            },
+            "previousversion": {
+                "buildid": "3801095",
+                "description": "",
+                "timeupdated": "1559914037"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "eec17acd169753f33da3095d48e49f753bf3efff",
+    "_size": 5377
+}

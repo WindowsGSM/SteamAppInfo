@@ -1,0 +1,57 @@
+{
+    "appid": "1911970",
+    "common": {
+        "name": "OverShoot Battle Race [ Dedicated Server ]",
+        "type": "Tool",
+        "parent": "1318280",
+        "releasestate": "released",
+        "name_localized": {
+            "portuguese": "OverShoot Battle Race [ Servidor Dedicado ]"
+        },
+        "clienttga": "a8cc6432240362517c07f3457cfb35947ed05386",
+        "clienticon": "e07b1f272c65b0689e4925f53e011a2c05fc28fd",
+        "icon": "491235449fb8c9579d46a3d76be96c2bd7e266af",
+        "logo": "cd55c418468548210780bc0148ca17d166563ead",
+        "logo_small": "cd55c418468548210780bc0148ca17d166563ead_thumb",
+        "oslist": "",
+        "osarch": "",
+        "osextended": "",
+        "community_hub_visible": "1",
+        "gameid": "1911970"
+    },
+    "config": {
+        "installdir": "OverShootServer",
+        "launch": {
+            "0": {
+                "executable": "OverShootServer.exe",
+                "type": "server",
+                "config": {
+                    "oslist": "windows"
+                },
+                "description_loc": {
+                    "english": "Start OverShoot dedicated server"
+                },
+                "description": "Start OverShoot dedicated server"
+            }
+        }
+    },
+    "depots": {
+        "1911971": {
+            "name": "Dedicated Server Content",
+            "manifests": {
+                "public": "7114088841875552811"
+            },
+            "maxsize": "3872802"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8210203",
+                "timeupdated": "1644970239"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14008037,
+    "_sha": "0faca679b930c819540fc9685acc0be065910e17",
+    "_size": 1249
+}

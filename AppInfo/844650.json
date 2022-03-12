@@ -1,0 +1,191 @@
+{
+    "appid": "844650",
+    "common": {
+        "name": "Post Scriptum - Beta Dedicated Server",
+        "type": "Tool",
+        "parent": "844630",
+        "oslist": "windows,linux",
+        "osarch": "",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "844650"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "installdir": "Post Scriptum - Test Server Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "PostScriptumServer.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "PostScriptumServer.sh",
+                "type": "server",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228985": {
+            "name": "VC 2013 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "13699237",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "name": "VC 2015 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29759921",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "844651": {
+            "name": "Post Scriptum - Test Server Dedicated Server Content",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "7277179943848873235"
+            },
+            "maxsize": "2696401589",
+            "encryptedmanifests": {
+                "maginot": {
+                    "encrypted_gid_2": "76833134B8935F231D0EF61686894627",
+                    "encrypted_size_2": "90CFA45E09CD1751558029194FE603F6"
+                },
+                "newbuild-release": {
+                    "encrypted_gid_2": "356B1DCD2B194C55369862D45A318C8A",
+                    "encrypted_size_2": "A673AA4569CC67C1A1C2B3410AD322F3"
+                },
+                "validation-branch": {
+                    "encrypted_gid_2": "36E56F7D3FDA2611FFA3654611817198",
+                    "encrypted_size_2": "8460DD75EDA014A1C89C5B64326E33B2"
+                },
+                "veghel-testing": {
+                    "encrypted_gid_2": "9374E12484796FCD6B86A3D013CEF481",
+                    "encrypted_size_2": "8B825D90AAE2D3BF584030C58A6E1803"
+                }
+            }
+        },
+        "844652": {
+            "name": "Post Scriptum - Test Server Dedicated Server Linux Depot",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "3839670893242476396"
+            },
+            "maxsize": "3394208206",
+            "encryptedmanifests": {
+                "maginot": {
+                    "encrypted_gid_2": "8623B528342EDAD18CB15685401F0F25",
+                    "encrypted_size_2": "303642FD49F18C293229E5D98634BF82"
+                },
+                "newbuild-release": {
+                    "encrypted_gid_2": "4B3BE7EEF302E67FB77A55A3C8E3CD76",
+                    "encrypted_size_2": "73FA99AC3D93DCD37D4E099358F8BD4E"
+                },
+                "validation-branch": {
+                    "encrypted_gid_2": "46227278F92564A8C01A8B00CBF08EAC",
+                    "encrypted_size_2": "45BB30B884FC0465E92C58779493267F"
+                },
+                "veghel-testing": {
+                    "encrypted_gid_2": "EA0049437DE8256C5204E423BE3A47FE",
+                    "encrypted_size_2": "F065531D08C212CD6D9E86BC5320F7B5"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "3001715",
+                "timeupdated": "1533305022"
+            },
+            "maginot": {
+                "buildid": "7800080",
+                "description": "maginot map testing",
+                "pwdrequired": "1",
+                "timeupdated": "1638332370"
+            },
+            "newbuild-release": {
+                "buildid": "8360146",
+                "description": "Internal Test Build",
+                "pwdrequired": "1",
+                "timeupdated": "1647106508"
+            },
+            "validation-branch": {
+                "buildid": "7856309",
+                "description": "QA Test Build",
+                "pwdrequired": "1",
+                "timeupdated": "1639108074"
+            },
+            "veghel-testing": {
+                "buildid": "3478431",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1547746699"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14208593,
+    "_sha": "9437295bd3f89f18f777698f8a5506ed78331c71",
+    "_size": 4304
+}

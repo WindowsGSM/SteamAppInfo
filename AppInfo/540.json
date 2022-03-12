@@ -1,0 +1,46 @@
+{
+    "appid": "540",
+    "common": {
+        "icon": "fdecc9e1806d9ac0c4ec2492cd4cb005ac5deb80",
+        "logo": "9e5df48bd37cd9c977b14b1781ecf5a378bff521",
+        "logo_small": "9e5df48bd37cd9c977b14b1781ecf5a378bff521_thumb",
+        "name": "Left 4 Dead Demo Dedicated Server",
+        "clienttga": "d7e202519caf0705538e505103f05eb7fc872c5a",
+        "clienticon": "dea36504f7c4dac7c657e77a0fac8a274e2af2d3",
+        "metacritic_url": "pc/left4dead",
+        "type": "Tool",
+        "gameid": "540"
+    },
+    "extended": {
+        "developer": "Valve",
+        "gamedir": "L4D Ded Demo Server",
+        "homepage": "http://www.l4d.com/",
+        "icon": "",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "531",
+        "serverbrowsername": "",
+        "state": "eStateTool"
+    },
+    "config": {
+        "contenttype": "2",
+        "installdir": "Left 4 Dead Demo",
+        "launch": {
+            "0": {
+                "executable": "srcds.exe",
+                "arguments": "-game left4dead"
+            }
+        }
+    },
+    "depots": {
+        "531": {
+            "name": "left4dead demo base",
+            "systemdefined": "1"
+        },
+        "overridescddb": "1"
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "e4f20ef3830ab04a0405a36a5b0960aef8ca3413",
+    "_size": 969
+}

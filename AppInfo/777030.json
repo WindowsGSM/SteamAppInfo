@@ -1,0 +1,102 @@
+{
+    "appid": "777030",
+    "common": {
+        "name": "FTR Windows Server",
+        "type": "Tool",
+        "parent": "767430",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "osarch": "",
+        "logo": "316bb2e9c3e38f275c706e379b10e2028962d52c",
+        "logo_small": "316bb2e9c3e38f275c706e379b10e2028962d52c_thumb",
+        "icon": "6bdb08ca29cb4e7947eac75b7371655e0a1bf55a",
+        "clienttga": "19564ffafa2b0ce903b7401200c3c191794f8788",
+        "clienticon": "eb6c1f998bb8cff32465a9deb827d0dcd45cbedc",
+        "associations": {},
+        "gameid": "777030",
+        "exfgls": "1"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "installdir": "FTR Windows Server",
+        "launch": {
+            "0": {
+                "executable": "ForTheRealm\\Binaries\\Win64\\ForTheRealmServer.exe",
+                "type": "none",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "ForTheRealm\\Binaries\\Linux\\ForTheRealmServer",
+                "type": "none",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "hasdepotsindlc": "1",
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "777031": {
+            "name": "FTR Windows Server Windows",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "2462101163882277030",
+                "saato": "6432670712160108916"
+            },
+            "maxsize": "1652023607"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2400801",
+                "timeupdated": "1514425035"
+            },
+            "saato": {
+                "buildid": "2933784",
+                "description": "",
+                "timeupdated": "1531235075"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "b79a6c53801bec3e570446f55054b4ad7fcbdf0c",
+    "_size": 2051
+}

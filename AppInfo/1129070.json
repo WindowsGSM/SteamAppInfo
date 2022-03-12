@@ -1,0 +1,91 @@
+{
+    "appid": "1129070",
+    "common": {
+        "name": "Dedicated Server",
+        "type": "Tool",
+        "parent": "1079650",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "",
+        "osextended": "",
+        "logo": "012d81cce203cef18065f5aac977d6d2a950732e",
+        "logo_small": "012d81cce203cef18065f5aac977d6d2a950732e_thumb",
+        "icon": "269ffde284af53e9c28063bfb149a925deed3c73",
+        "clienttga": "74d038747789151c86741e2527541cef97dd8944",
+        "clienticon": "816adbdba0393567e1c22118da0e76e4cd269033",
+        "associations": {},
+        "gameid": "1129070",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "spark",
+        "launch": {
+            "0": {
+                "executable": "bin\\sparkLauncher_Server.exe",
+                "arguments": "+map 512map",
+                "type": "none"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228987": {
+            "name": "VC 2017 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29664201",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1129071": {
+            "name": "Dedicated Server Content",
+            "manifests": {
+                "public": "5418351296562121146"
+            },
+            "maxsize": "634909717"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4055642",
+                "timeupdated": "1564434042"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "14cf2cb2faafd454225d90d16c38735f4abf2352",
+    "_size": 1807
+}

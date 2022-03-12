@@ -1,0 +1,66 @@
+{
+    "appid": "1336240",
+    "common": {
+        "name": "Automobilista 2 Beta - Dedicated Server",
+        "type": "Tool",
+        "parent": "1066880",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "",
+        "osextended": "",
+        "logo": "da409d82270283b39d3fe750acfef7d639745cd8",
+        "logo_small": "da409d82270283b39d3fe750acfef7d639745cd8_thumb",
+        "icon": "c3099dee505501dc6ca8800ff9042495729d2903",
+        "clienticon": "619c117330af778dc9669b75e78c026048a462d5",
+        "clienttga": "299eab4abeee2aae735c98cda8bd71aadfe4fa04",
+        "gameid": "1336240",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "Automobilista 2 Beta Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "DedicatedServerCmd.exe",
+                "type": "server",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1336241": {
+            "name": "Automobilista 2 Beta Dedicated Server Content",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": "1627372413978552646"
+            },
+            "maxsize": "15809101",
+            "encryptedmanifests": {
+                "stagingtest": {
+                    "encrypted_gid_2": "A40980A6FBF0E89012DD1036F9736B09",
+                    "encrypted_size_2": "EBB56C9F86E268AD343EBD4BE8C4BE1B"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "7521168",
+                "timeupdated": "1634063314"
+            },
+            "stagingtest": {
+                "buildid": "8326299",
+                "description": "pre public release testing",
+                "pwdrequired": "1",
+                "timeupdated": "1646652455"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14153227,
+    "_sha": "fdc956df9379b984b13760f38dbe60f8dc021507",
+    "_size": 1459
+}

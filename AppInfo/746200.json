@@ -1,0 +1,224 @@
+{
+    "appid": "746200",
+    "common": {
+        "name": "Post Scriptum Dedicated Server",
+        "type": "Tool",
+        "parent": "736220",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "clienticon": "20316a1b1234266e0a438cfa349749bff47a156b",
+        "clienttga": "941a6badd900fd6a1aab620b353353ac5d509abe",
+        "icon": "cf25599f348f4b2ddc63c82cbf4dc4202b2b44b0",
+        "associations": {},
+        "gameid": "746200",
+        "exfgls": "1"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "installdir": "Post Scriptum Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "PostScriptumServer.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "PostScriptumServer.sh",
+                "type": "server",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228985": {
+            "name": "VC 2013 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "13699237",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "name": "VC 2015 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29759921",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "746201": {
+            "name": "Post Scriptum Dedicated Server Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "2608684401641976855",
+                "cinematic-branch": "5134661732417894322"
+            },
+            "maxsize": "13590777001",
+            "encryptedmanifests": {
+                "416last": {
+                    "encrypted_gid_2": "0A145ECAE1AED7DF4033135A715C8922",
+                    "encrypted_size_2": "EFD3FF6FAC835A6A339471FA705F8D70"
+                },
+                "build427": {
+                    "encrypted_gid_2": "90397BC4658676B46992DF086C3A002F",
+                    "encrypted_size_2": "20F8CE013BBCC685516A3D24D0193C12"
+                },
+                "mercury": {
+                    "encrypted_gid_2": "D208506726CC7F4794A4874C910585FF",
+                    "encrypted_size_2": "0254FFBBCD0CE4EB029040C81B13214B"
+                },
+                "newbuild-release": {
+                    "encrypted_gid_2": "DF7E5C7D6297A7C5682F7558CB5CC12E",
+                    "encrypted_size_2": "9348B792527C01569CFD097ADED60510"
+                },
+                "validation-branch": {
+                    "encrypted_gid_2": "6FAD004EC40C80A187EAF0E7296C9F56",
+                    "encrypted_size_2": "CBEBB2802BBD21BBD7980EC9BA7F515E"
+                }
+            }
+        },
+        "746202": {
+            "name": "Post Scriptum Dedicated Server Depot Linux",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "7451724899104921777",
+                "cinematic-branch": "2154165448052012121"
+            },
+            "maxsize": "14889087943",
+            "encryptedmanifests": {
+                "416last": {
+                    "encrypted_gid_2": "4C5D4E9E6ED6CB943BF9F0F345E4FB72",
+                    "encrypted_size_2": "A307504F2A519C1C7132587241CE1985"
+                },
+                "build427": {
+                    "encrypted_gid_2": "7F7C4FC6CE83EBB7981D117B92F5E686",
+                    "encrypted_size_2": "38C359E39D84071007CEE954C8896072"
+                },
+                "mercury": {
+                    "encrypted_gid_2": "CD0EADB4A33F05821310E4B9CD0F1C3B",
+                    "encrypted_size_2": "AD586655FE6816441C9E78245C25CBFA"
+                },
+                "newbuild-release": {
+                    "encrypted_gid_2": "97042A25831EA29386D26909527FD7BC",
+                    "encrypted_size_2": "3BAEB9A8F71BB9A85F30A5D6381C7F4C"
+                },
+                "validation-branch": {
+                    "encrypted_gid_2": "DA9C76EDA90136D3ECE5F808023F87CB",
+                    "encrypted_size_2": "6B9833EDFFABD643C00760283A9B78BC"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8252175",
+                "timeupdated": "1645620916"
+            },
+            "416last": {
+                "buildid": "4093443",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1565544532"
+            },
+            "421last": {
+                "buildid": "8252175",
+                "description": "last 4.21 live build",
+                "pwdrequired": "1",
+                "timeupdated": "1645620932"
+            },
+            "build427": {
+                "buildid": "8360114",
+                "description": "WIP 427",
+                "pwdrequired": "1",
+                "timeupdated": "1647105744"
+            },
+            "cinematic-branch": {
+                "buildid": "4334767",
+                "description": "",
+                "timeupdated": "1572355580"
+            },
+            "mercury": {
+                "buildid": "8227247",
+                "description": "mercurydedicated",
+                "pwdrequired": "1",
+                "timeupdated": "1645238117"
+            },
+            "newbuild-release": {
+                "buildid": "8258916",
+                "description": "Build for internal tests",
+                "pwdrequired": "1",
+                "timeupdated": "1645617693"
+            },
+            "validation-branch": {
+                "buildid": "8278056",
+                "description": "Validation before public",
+                "pwdrequired": "1",
+                "timeupdated": "1646246853"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14208545,
+    "_sha": "6519a2fdb03ffc508f74b6349dc29bc70dead983",
+    "_size": 5248
+}

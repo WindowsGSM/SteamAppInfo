@@ -1,0 +1,54 @@
+{
+    "appid": "72310",
+    "common": {
+        "name": "Breach - Dedicated Server",
+        "logo": "1186dad9a4555f16dc0f0ea08d2ed61d6e724083",
+        "logo_small": "1186dad9a4555f16dc0f0ea08d2ed61d6e724083_thumb",
+        "icon": "61a7aff7fe8f2040712ed1d033eb8d0c3a687dba",
+        "clienttga": "5b919ea23c633e3bf4ab8b737c033faf60c66929",
+        "clienticon": "d4b3dd06669d415f217d2f29034900f4c6fedef3",
+        "type": "Tool",
+        "freeondemand": "1",
+        "gameid": "72310"
+    },
+    "extended": {
+        "developer": "",
+        "gamedir": "Breach Dedicated Server",
+        "homepage": "",
+        "icon": "",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "72311",
+        "serverbrowsername": "",
+        "state": "eStateTool"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Breach Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "BreachServer.exe"
+            }
+        }
+    },
+    "depots": {
+        "72311": {
+            "name": "BreachDedicatedServerDepot",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "6222766130400259168"
+            },
+            "maxsize": "670206704"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "24022"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "513baa35669dc25a5ff760220d0530f44d802d0b",
+    "_size": 1075
+}

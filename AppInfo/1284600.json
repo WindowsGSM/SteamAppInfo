@@ -1,0 +1,66 @@
+{
+    "appid": "1284600",
+    "common": {
+        "name": "Race Project Dedicated Server",
+        "type": "Tool",
+        "parent": "1280590",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "logo": "c21032513eb4b206e6654b7339ba8d1e490b4e7b",
+        "logo_small": "c21032513eb4b206e6654b7339ba8d1e490b4e7b_thumb",
+        "icon": "afc4ef08da34df3939c32b757e9fa7755c14340d",
+        "clienticon": "c62a54031f55d70dc1ccac095d153a041eaa481b",
+        "clienttga": "a0f9c246629223de62a484b0b3ba1c26b4305350",
+        "gameid": "1284600"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "installdir": "raceproject_server",
+        "launch": {
+            "0": {
+                "executable": "RaceProject_DS.exe",
+                "arguments": "-batchmode -nographics",
+                "type": "server"
+            }
+        }
+    },
+    "depots": {
+        "229002": {
+            "name": ".NET 4.0 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "50450161",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1284601": {
+            "name": "Dedicated Server Content",
+            "manifests": {
+                "public": "7434429540955451424",
+                "staging": "286423043671096305"
+            },
+            "maxsize": "845050850"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6938808",
+                "timeupdated": "1624736451"
+            },
+            "staging": {
+                "buildid": "8207363",
+                "description": "Most Recent Updates",
+                "timeupdated": "1644938882"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 13964210,
+    "_sha": "36680d8828907eb93aea6934c401303236e32e7e",
+    "_size": 1362
+}

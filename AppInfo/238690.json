@@ -1,0 +1,75 @@
+{
+    "appid": "238690",
+    "common": {
+        "name": "Rising Storm Beta Dedicated Server",
+        "type": "Game",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "community_hub_visible": "1",
+        "gameid": "238690"
+    },
+    "extended": {
+        "checkpkgstate": "1",
+        "developer": "",
+        "gamedir": "ValveTestApp238690",
+        "homepage": "",
+        "icon": "",
+        "noservers": "0",
+        "sourcegame": "1",
+        "state": "eStateComingSoonNoPreload",
+        "visibleonlywhensubscribed": "1"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Rising Storm Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "bin/game.exe",
+                "arguments": "-console",
+                "description": "Launch with Console",
+                "workingdir": "bin"
+            }
+        }
+    },
+    "depots": {
+        "238691": {
+            "name": "Rising Storm Dedicated Server Content",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "1935636036930935304",
+                "beta": "2939625009422351744",
+                "internalbeta": "7205591244558743304"
+            },
+            "maxsize": "15431762947",
+            "encryptedmanifests": {
+                "betabrew": {
+                    "encrypted_gid_2": "B7B7B1EE4E23B2B917A460C6B7BE1C1C",
+                    "encrypted_size_2": "1F5A421325C19852390C22425C8272EB"
+                }
+            }
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "220840"
+            },
+            "beta": {
+                "buildid": "172968",
+                "description": ""
+            },
+            "betabrew": {
+                "buildid": "386003",
+                "description": "",
+                "pwdrequired": "1"
+            },
+            "internalbeta": {
+                "buildid": "72017",
+                "description": ""
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "3cab88a5050f8ad530d48a17123942117dad8acc",
+    "_size": 1483
+}

@@ -1,0 +1,91 @@
+{
+    "appid": "533830",
+    "common": {
+        "name": "Starbound Dedicated Server",
+        "type": "Tool",
+        "parent": "211820",
+        "releasestate": "released",
+        "logo": "e7cca6183981e17457044d7915f4d1081fbe41a2",
+        "logo_small": "e7cca6183981e17457044d7915f4d1081fbe41a2_thumb",
+        "icon": "82a6fd8f8aa38829ff41b419ca4d5bedc0caad1a",
+        "clienticon": "86f1307815556c533a7dbb316397c8fcfb4af178",
+        "clienttga": "c2176903ffe5e527378ef80a924a842dd0132314",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "associations": {},
+        "gameid": "533830"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Starbound Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "win64/starbound_server.exe",
+                "workingdir": "win64/",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "linux/run-server.sh",
+                "workingdir": "linux/",
+                "type": "server",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "533831": {
+            "name": "Starbound Dedicated Server Content",
+            "manifests": {
+                "public": "2755498507246012069",
+                "staging": "4939007784564884823"
+            },
+            "maxsize": "264724390"
+        },
+        "533832": {
+            "name": "Starbound Dedicated Server Windows Depot",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "7660845383161263255",
+                "staging": "4436183008994172862"
+            },
+            "maxsize": "58629230"
+        },
+        "533833": {
+            "name": "Starbound Dedicated Server Linux Depot",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "4004503843917843549",
+                "staging": "7255521273658361477"
+            },
+            "maxsize": "37071911"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3959842",
+                "timeupdated": "1561628201"
+            },
+            "staging": {
+                "buildid": "4083326",
+                "description": "",
+                "timeupdated": "1565187646"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "993d87017ab658cc3c5a7025891f88ce82da2fef",
+    "_size": 1918
+}

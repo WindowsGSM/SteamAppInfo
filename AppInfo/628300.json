@@ -1,0 +1,143 @@
+{
+    "appid": "628300",
+    "common": {
+        "name": "Stellar Overload Dedicated Server",
+        "type": "Tool",
+        "parent": "397150",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "logo": "e817f23d8a2c3c5065f9b1c1bed990c8c50b95ba",
+        "logo_small": "e817f23d8a2c3c5065f9b1c1bed990c8c50b95ba_thumb",
+        "icon": "b303c6016965e2906a22ceaf1ae8fd45fa65e5c6",
+        "clienttga": "452def96a54e4748938dcfe843e8617b91305d3f",
+        "clienticon": "1f98ffae271e683761daa26490c0c36d9df3089f",
+        "linuxclienticon": "bbb969457eb955b13fb4051430e77b028dec8dfc",
+        "associations": {},
+        "gameid": "628300"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "installdir": "Stellar Overload Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "start_server.cmd",
+                "type": "server",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "start_server.sh",
+                "type": "server",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228986": {
+            "name": "VC 2015 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29759921",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "628301": {
+            "name": "Stellar Overload Dedicated Server Content",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "8172759215209524511"
+            },
+            "maxsize": "882755439",
+            "encryptedmanifests": {
+                "v0.8.9.11_shipping": {
+                    "encrypted_gid_2": "9F6372F0A299888F64CD82D1555D651E",
+                    "encrypted_size_2": "7A3F5A77EA71CD4F2C8B20C96C42BC8F"
+                }
+            }
+        },
+        "628302": {
+            "name": "Stellar Overload Dedicated Server Linux Depot",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "3705017185716207576"
+            },
+            "maxsize": "2336262842",
+            "encryptedmanifests": {
+                "v0.8.9.11_shipping": {
+                    "encrypted_gid_2": "BB073B9F361DEDA6ECBB11074FA9D0FA",
+                    "encrypted_size_2": "B7ADBEC0926F8826FA1181C0FF491AFA"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "2149251",
+                "timeupdated": "1506441955"
+            },
+            "v0.8.9.11_shipping": {
+                "buildid": "2251731",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1509626506"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "62aacdae1817b6763ce2742b3bd51b5934a774c5",
+    "_size": 3037
+}

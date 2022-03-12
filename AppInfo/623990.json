@@ -1,0 +1,224 @@
+{
+    "appid": "623990",
+    "common": {
+        "name": "Tom Clancy's Rainbow Six Siege - Test Server",
+        "type": "Game",
+        "oslist": "windows",
+        "osarch": "",
+        "logo": "ecad14acd27551c5bcd669e25aec9967bbe09332",
+        "logo_small": "ecad14acd27551c5bcd669e25aec9967bbe09332_thumb",
+        "icon": "20deaf466474f76f2ffdb345fe56f40fe3af74c0",
+        "clienticon": "7fa2839e2795c96f64a7db38200febc8d59c78b6",
+        "clienttga": "96566f96a175b6802ddbc3b988a8b9675f0c0fd0",
+        "releasestate": "released",
+        "metacritic_name": "Tom Clancy's Rainbow Six® Siege - Technical Test Server",
+        "small_capsule": {
+            "english": "capsule_231x87.jpg"
+        },
+        "header_image": {
+            "english": "header.jpg"
+        },
+        "library_assets": {
+            "library_capsule": "en",
+            "library_hero": "en",
+            "library_logo": "en",
+            "logo_position": {
+                "pinned_position": "CenterCenter",
+                "width_pct": "50",
+                "height_pct": "50"
+            }
+        },
+        "store_asset_mtime": "1591190839",
+        "associations": {
+            "0": {
+                "type": "developer",
+                "name": "Ubisoft Montreal"
+            },
+            "1": {
+                "type": "publisher",
+                "name": "Ubisoft"
+            }
+        },
+        "primary_genre": "1",
+        "genres": {
+            "0": "1"
+        },
+        "category": {
+            "category_2": "1",
+            "category_1": "1",
+            "category_9": "1"
+        },
+        "supported_languages": {
+            "english": {
+                "supported": "true",
+                "full_audio": "true",
+                "subtitles": "true"
+            }
+        },
+        "steam_release_date": "1495036800",
+        "community_hub_visible": "1",
+        "gameid": "623990",
+        "store_tags": {
+            "0": "19"
+        }
+    },
+    "extended": {
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft",
+        "homepage": "http://rainbow6.ubi.com/"
+    },
+    "config": {
+        "installdir": "Tom Clancy's Rainbow Six Siege - Test Server",
+        "launch": {
+            "0": {
+                "executable": "RainbowSix.exe",
+                "arguments": "-upc_steam_required_product_id 10424 -uplay_steam_mode -orbit_uat",
+                "description": "Test Server",
+                "type": "none",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "RainbowSix_Vulkan.exe",
+                "arguments": "-upc_steam_required_product_id 10424 -uplay_steam_mode -orbit_uat",
+                "description": "Tom Clancy's Rainbow Six Siege Vulkan - Test Server",
+                "type": "none",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "228983": {
+            "name": "VC 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "19265607",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "name": "VC 2012 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "13742505",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "name": "VC 2015 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29759921",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "name": "VC 2017 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29664201",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "name": ".NET 4.5.2 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "70000464",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "623991": {
+            "name": "Tom Clancy's Rainbow Six Siege - Technical Test Server Content",
+            "manifests": {
+                "public": "2443923430949442357"
+            },
+            "maxsize": "57867000382",
+            "encryptedmanifests": {
+                "none": {
+                    "encrypted_gid_2": "A65C07D5DA39ABD9190790CCE5DA1C2F",
+                    "encrypted_size_2": "AC85D946DF2526D96EFF52D9F4BC44D9"
+                },
+                "pts-a": {
+                    "encrypted_gid_2": "70536A30B05672DFDA8D59F4E7DF29C2",
+                    "encrypted_size_2": "D904EE99959B64BF65FA43F43EA799E5"
+                },
+                "pts-stable": {
+                    "encrypted_gid_2": "896DDB4794043B9859B13095B24F4EB2",
+                    "encrypted_size_2": "E91BD8543510378ACBCACF2624C3BBE7"
+                },
+                "pts_test": {
+                    "encrypted_gid_2": "F7893DC0251744298E99E1961D86B99D",
+                    "encrypted_size_2": "139FF14B5DF4FFC1D6A816E7E6C11E97"
+                },
+                "test": {
+                    "encrypted_gid_2": "A17D2475C357FBE88B76F14079186511",
+                    "encrypted_size_2": "3BD906714E399012208BB0C9EF0E472F"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8270166",
+                "timeupdated": "1645804977"
+            },
+            "none": {
+                "buildid": "2816154",
+                "description": "None",
+                "pwdrequired": "1",
+                "timeupdated": "1527616334"
+            },
+            "pts-a": {
+                "buildid": "8344062",
+                "description": "Pup pts-a branch",
+                "pwdrequired": "1",
+                "timeupdated": "1646874854"
+            },
+            "pts-stable": {
+                "buildid": "3597594",
+                "description": "Deprecated -> Pup pts-stable branch",
+                "pwdrequired": "1",
+                "timeupdated": "1551227497"
+            },
+            "pts_test": {
+                "buildid": "5710835",
+                "description": "PTS_TEST",
+                "pwdrequired": "1",
+                "timeupdated": "1603211983"
+            },
+            "test": {
+                "buildid": "7996610",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1641829298"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14182469,
+    "_sha": "adf0fd5f22ee1bc5a69c591a77ff8882ea36618e",
+    "_size": 5099
+}

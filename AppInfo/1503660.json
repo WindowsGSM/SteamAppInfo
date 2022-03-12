@@ -1,0 +1,101 @@
+{
+    "appid": "1503660",
+    "common": {
+        "name": "Dedicated Server",
+        "type": "Tool",
+        "parent": "1302480",
+        "logo": "055126f4a58fb5ca50931e21a60c81960b043a8f",
+        "logo_small": "055126f4a58fb5ca50931e21a60c81960b043a8f_thumb",
+        "icon": "3c4cea626c25aa601940f24879c3b79b5de39168",
+        "clienticon": "1a1177c02a63338aac7e8c80b1525e209ea435b8",
+        "clienttga": "e01aa30299886a7a52e38c55c706ea1cd308ebcc",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "",
+        "osextended": "",
+        "community_hub_visible": "1",
+        "gameid": "1503660"
+    },
+    "config": {
+        "installdir": "Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "SlurkumHeadless_SLURKUM.bat",
+                "type": "default"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1503661": {
+            "name": "Dedicated Server Content",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "6263394620596136128"
+            },
+            "maxsize": "971089214"
+        },
+        "1503662": {
+            "name": "Dedicated Test Server Depot",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "4723770148095266967",
+                "test": "3566066843122547714"
+            },
+            "maxsize": "971090278"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "6510148",
+                "timeupdated": "1617900528"
+            },
+            "test": {
+                "buildid": "6512659",
+                "description": "do not use",
+                "timeupdated": "1617935699"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "45c758a42992a2bb38145629303ce48575b6101e",
+    "_size": 2053
+}

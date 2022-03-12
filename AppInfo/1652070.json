@@ -1,0 +1,132 @@
+{
+    "appid": "1652070",
+    "common": {
+        "name": "QANGA Dedicated Server",
+        "type": "Tool",
+        "parent": "1648190",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "osextended": "",
+        "clienticon": "ea432ed5684b31542dfcde67244542e29808d1e3",
+        "clienttga": "8554020b3ff8292df7b611aacfe685eb59d1e6e7",
+        "icon": "7ef2efdba5e6f21e1d6fc15e868ff4d87448f9c3",
+        "logo": "e223d6f46e5a4d4e66f182b29355c08a17186acc",
+        "logo_small": "e223d6f46e5a4d4e66f182b29355c08a17186acc_thumb",
+        "releasestate": "released",
+        "gameid": "1652070",
+        "exfgls": "1"
+    },
+    "extended": {
+        "gamedir": "Qanga",
+        "serverbrowsername": "Qanga Dedicated Server"
+    },
+    "config": {
+        "installdir": "QangaDedicatedServer",
+        "uselaunchcommandline": "1",
+        "launch": {
+            "0": {
+                "executable": "QangaServer.exe",
+                "arguments": "-log -login anonymous",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "QangaServer.sh",
+                "arguments": "-log -login anonymous",
+                "type": "default",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "baselanguages": "english",
+        "1652071": {
+            "name": "Qanga Dedicated Server Windows",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "6562460306575395110"
+            },
+            "maxsize": "722950503",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "493D0F0AF60CB877E5EE872A220FE4FF",
+                    "encrypted_size_2": "6FBD03D14CDDF20D7EF44F00AA074C06"
+                }
+            }
+        },
+        "1652072": {
+            "name": "QANGA Dedicated Server Linux",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "2706663574699671613"
+            },
+            "maxsize": "1028926551",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "343FDC3ABC6379864FE6AE39D5E1CB8E",
+                    "encrypted_size_2": "D6A3E7699C74002899FDE31ACACD5367"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8358664",
+                "timeupdated": "1647063484"
+            },
+            "development": {
+                "buildid": "8352942",
+                "description": "development branch",
+                "pwdrequired": "1",
+                "timeupdated": "1646989447"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14205872,
+    "_sha": "1741fccad548b6c51fd8a5c9afbb72828ae4ae6d",
+    "_size": 2817
+}

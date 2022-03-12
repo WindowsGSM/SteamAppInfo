@@ -1,0 +1,45 @@
+{
+    "appid": "265360",
+    "common": {
+        "name": "Kingdoms Rise Dedicated Server",
+        "type": "Tool",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "265360"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Kingdoms Rise Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "Binaries\\Win32\\UDK.exe",
+                "arguments": "server tdm_snowblind.udk?steamsockets -configsubdir=server1",
+                "description": "Launch",
+                "workingdir": "Binaries",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "265361": {
+            "name": "Kingdoms Rise Dedicated Server Content",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "8861021438747421950"
+            },
+            "maxsize": "1167841024"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "583990"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "8013fcfb4f0f17a0a2c461f50dedc5ba0eee1a08",
+    "_size": 827
+}

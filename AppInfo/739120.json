@@ -1,0 +1,145 @@
+{
+    "appid": "739120",
+    "common": {
+        "name": "BattleRush Dedicated Server",
+        "type": "Tool",
+        "parent": "734580",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "icon": "0e1681601b3d4c6f6d5dc180f1201f29a6c765fd",
+        "logo": "86474edfbc4a33aae8d533b483a71a83454d5bf9",
+        "logo_small": "86474edfbc4a33aae8d533b483a71a83454d5bf9_thumb",
+        "clienticon": "5ca648daf3054f4b57721987b7f8b3527b6ca050",
+        "clienttga": "8ad675cd2a09aff64b0e7d9ed6a7c1e4cf873be1",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "739120",
+        "exfgls": "1"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "installdir": "BattleRush Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "Cv2_Base/Binaries/Linux/Cv2_BaseServer_Shipping",
+                "type": "none",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "Cv2_Base/Binaries/Win64/Cv2_BaseServer_Shipping.exe",
+                "type": "none",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "2": {
+                "executable": "Cv2_Base/Binaries/Linux/Cv2_BaseServer",
+                "description": "Development build",
+                "type": "none",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64",
+                    "betakey": "devel"
+                }
+            },
+            "3": {
+                "executable": "Cv2_Base/Binaries/Win64/Cv2_BaseServer.exe",
+                "description": "Development build",
+                "type": "none",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "devel"
+                }
+            }
+        }
+    },
+    "depots": {
+        "228985": {
+            "name": "VC 2013 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "13699237",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "name": "VC 2015 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29759921",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "name": "VC 2017 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29664201",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "739121": {
+            "name": "BattleRush Dedicated Server Linux",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "4799816964070848189"
+            },
+            "maxsize": "825448967",
+            "encryptedmanifests": {
+                "devel": {
+                    "encrypted_gid_2": "8AE85E5817B958153EFFC9F5EF740DF2",
+                    "encrypted_size_2": "5DF33A0C0E91F827B87D0778F1B67DE6"
+                }
+            }
+        },
+        "739122": {
+            "name": "BattleRush Dedicated Server Windows",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "1257568331986116298"
+            },
+            "maxsize": "295953686",
+            "encryptedmanifests": {
+                "devel": {
+                    "encrypted_gid_2": "F25142E50AD15BEE9CCFD131BB51273C",
+                    "encrypted_size_2": "8E5D60195DDED3F4032A10094BD7EFA4"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "2634492",
+                "timeupdated": "1522139406"
+            },
+            "devel": {
+                "buildid": "2634490",
+                "description": "Development build",
+                "pwdrequired": "1",
+                "timeupdated": "1522084151"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "163527b96cc695036a99a4bd9858132cc5c0e7d2",
+    "_size": 3088
+}

@@ -1,0 +1,104 @@
+{
+    "appid": "1830410",
+    "common": {
+        "name": "Dedicated Server",
+        "type": "Tool",
+        "parent": "1725560",
+        "releasestate": "released",
+        "icon": "2994832f9d79091eceeaac7e6fb6558bf72db2ec",
+        "logo": "a4813f5c18f6b6e57626d622710bb26bce795860",
+        "logo_small": "a4813f5c18f6b6e57626d622710bb26bce795860_thumb",
+        "clienttga": "4f857b0e199130cb205d90f883bf668334a47d5c",
+        "clienticon": "36be9b5b463883b9a80a2737b5744fdcf42ae206",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "osextended": "",
+        "gameid": "1830410"
+    },
+    "extended": {
+        "gamedir": "brokenbetrayal",
+        "serverbrowsername": "Broken Betrayal Dedicated Servers"
+    },
+    "config": {
+        "installdir": "Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "BrokenBetrayalServer.exe",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1830411": {
+            "name": "Dedicated Server Content",
+            "manifests": {
+                "public": "5415446400589236248"
+            },
+            "maxsize": "735209611"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7830667",
+                "timeupdated": "1638703931"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "f4cfccdd6083f4394e8f9f8d4a6fbe39f5f74575",
+    "_size": 2086
+}

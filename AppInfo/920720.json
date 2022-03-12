@@ -1,0 +1,168 @@
+{
+    "appid": "920720",
+    "common": {
+        "name": "Last Oasis - Dedicated Server",
+        "type": "Tool",
+        "parent": "903950",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "osextended": "",
+        "logo": "2f69a51d8bae1b2ef232fd581d117f42593423b6",
+        "logo_small": "2f69a51d8bae1b2ef232fd581d117f42593423b6_thumb",
+        "icon": "77d0de7f7f808287b334ff34c3591f1f6f9b16fc",
+        "clienticon": "b8ac6f3a5533070804d3264f48f11a0be14bf294",
+        "clienttga": "3d94db27a0855769b2bd97cb9bdfea3d239b67e4",
+        "associations": {},
+        "steam_release_date": "1627563022",
+        "gameid": "920720"
+    },
+    "extended": {
+        "anti_cheat_support_url": "https://www.easy.ac/r/steam/gamebans/?steamAppId=920720"
+    },
+    "config": {
+        "installdir": "Last Oasis - Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "MistServer.exe",
+                "arguments": "-OpenFolder",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "name": ".NET 4.7 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "83944258",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "920721": {
+            "name": "Last Oasis Dedicated Server Windows",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "1609466825646979246"
+            },
+            "maxsize": "5578332203",
+            "encryptedmanifests": {
+                "nightly": {
+                    "encrypted_gid_2": "70387C5F8EBC8E9560E12F6A9EEA4EFD",
+                    "encrypted_size_2": "F0B7B95AD25C632CAADE0FC662220BD3"
+                },
+                "profiling": {
+                    "encrypted_gid_2": "50A324DC3A2CA8E6ECFF4D97FD884C52",
+                    "encrypted_size_2": "E85FF3DF561A419F5CA35615E9321A67"
+                },
+                "staging": {
+                    "encrypted_gid_2": "F791867E844FB7EB731BC97758A0941A",
+                    "encrypted_size_2": "60569CBA255DE6111E66184EA5F2BEF5"
+                }
+            }
+        },
+        "920722": {
+            "name": "Last Oasis Dedicated Server Linux",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "1707901607899996398"
+            },
+            "maxsize": "5926705175",
+            "encryptedmanifests": {
+                "nightly": {
+                    "encrypted_gid_2": "EAB355EE3D0A152E656A0B8B3BCA8259",
+                    "encrypted_size_2": "69D3B465E722119C82A9E4DAC2DECC78"
+                },
+                "profiling": {
+                    "encrypted_gid_2": "FC04330C79273D6256996A95182FF962",
+                    "encrypted_size_2": "5E3D9A90749227971871B1DC6231E5A5"
+                },
+                "staging": {
+                    "encrypted_gid_2": "7E072F91BABCBC946DB2A76C97AC1C88",
+                    "encrypted_size_2": "3438368991BF0BDAF5469B4D76DB423B"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8049305",
+                "timeupdated": "1642615531"
+            },
+            "nightly": {
+                "buildid": "8045084",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1642565870"
+            },
+            "profiling": {
+                "buildid": "7129449",
+                "description": "Profiling",
+                "pwdrequired": "1",
+                "timeupdated": "1628014794"
+            },
+            "staging": {
+                "buildid": "8266875",
+                "description": "Preparing the patch",
+                "pwdrequired": "1",
+                "timeupdated": "1645699452"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "cd70c20cef5b1da8329b753832af91491eee465a",
+    "_size": 3842
+}

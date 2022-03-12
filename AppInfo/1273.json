@@ -1,0 +1,58 @@
+{
+    "appid": "1273",
+    "common": {
+        "name": "Killing Floor Beta Dedicated Server",
+        "type": "Tool",
+        "freeondemand": "1",
+        "gameid": "1273"
+    },
+    "extended": {
+        "developer": "",
+        "gamedir": "killingfloorbetadedicatedserver",
+        "homepage": "",
+        "icon": "",
+        "noservers": "0",
+        "order": "1",
+        "primarycache": "1273",
+        "serverbrowsername": "Killing Floor Beta",
+        "state": "eStateTool"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "KillingFloorBeta",
+        "launch": {
+            "0": {
+                "description": "KFBetaWinServer",
+                "executable": "System\\ucc.exe"
+            }
+        }
+    },
+    "depots": {
+        "1273": {
+            "name": "Killing Floor Beta Dedicated Server",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "550351460270546694"
+            },
+            "maxsize": "43900025"
+        },
+        "1271": {
+            "name": "KillingFloorBetaCommon",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "5518203134833754139"
+            },
+            "maxsize": "962848399"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "87583"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "0de73ea3626a09adf2d00162cc2afdfb8f06d177",
+    "_size": 1019
+}

@@ -1,0 +1,118 @@
+{
+    "appid": "336400",
+    "common": {
+        "name": "PCE Dedicated Server",
+        "type": "Tool",
+        "releasestate": "released",
+        "logo": "9a5105c853b427f1161caf958fa53205a536a7ce",
+        "logo_small": "9a5105c853b427f1161caf958fa53205a536a7ce_thumb",
+        "clienticon": "878a3447c5aeff6f203b2c51ed06c3f14b60341b",
+        "clienttga": "10f9055409a55903778c5f325171863bb996b78f",
+        "icon": "534a241cac3715a699f74b98a2b691fc18b06f5b",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "associations": {},
+        "gameid": "336400"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Primal Carnage Extinction Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "Binaries\\Win64\\PrimalCarnageServer.exe",
+                "description_loc": {
+                    "english": "Launch"
+                },
+                "description": "Launch"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228983": {
+            "name": "VC 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "19265607",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229032": {
+            "name": "PhysX System Software 9.13.1220",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "41178235",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "336401": {
+            "name": "Primal Carnage: Extinction Dedicated Server Content",
+            "manifests": {
+                "public": "6216445721253015384",
+                "opentesting": "4105309630408813539"
+            },
+            "maxsize": "996178239"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8083542",
+                "timeupdated": "1643134150"
+            },
+            "opentesting": {
+                "buildid": "8359542",
+                "description": "Open Testing Branch",
+                "timeupdated": "1647091444"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14207512,
+    "_sha": "f46df4aef159b19402e637a2fc955522afd9435e",
+    "_size": 2476
+}

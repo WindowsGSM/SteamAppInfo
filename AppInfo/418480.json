@@ -1,0 +1,155 @@
+{
+    "appid": "418480",
+    "common": {
+        "name": "Rising Storm 2 - Dedicated Server",
+        "type": "Tool",
+        "oslist": "windows",
+        "osarch": "64",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "418480"
+    },
+    "extended": {
+        "gamedir": "RS2",
+        "serverbrowsername": "Rising Storm 2: Vietnam",
+        "listofdlc": "1075820"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Rising Storm 2 - Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "binaries\\win64\\VNGame.exe",
+                "type": "none"
+            }
+        }
+    },
+    "depots": {
+        "418481": {
+            "name": "Rising Storm 2 - Dedicated Server Content",
+            "manifests": {
+                "public": "7619902099503460404"
+            },
+            "maxsize": "21173980438",
+            "encryptedmanifests": {
+                "2020beta": {
+                    "encrypted_gid_2": "1565473F873BDAE0A2383E584D1BEFAF",
+                    "encrypted_size_2": "AC8B99ADC1968FC7E28D0547FF2145AB"
+                },
+                "eacbeta": {
+                    "encrypted_gid_2": "9715B762D3C7C839C19574CA32738802",
+                    "encrypted_size_2": "59EF2EE0E88899B215D3AEB30185984C"
+                },
+                "gamm": {
+                    "encrypted_gid_2": "E956A1BF5FE7CC219FACFE40BFF5A1AC",
+                    "encrypted_size_2": "F641119364B54CE21B5CCDEBFA36DC7E"
+                },
+                "iceberg": {
+                    "encrypted_gid_2": "E449B5164235CF009AD465930BECFBFF",
+                    "encrypted_size_2": "5B902D81CDD1948A10344F2F1C19FA81"
+                },
+                "nightly": {
+                    "encrypted_gid_2": "3268CEE8C6DFC8A49FE1DF92DF3A8D1D",
+                    "encrypted_size_2": "4B81263544BD6AC58E35F65DA2346969"
+                },
+                "nightlymain": {
+                    "encrypted_gid_2": "D61396451ECA7508C6A80389221E0E5D",
+                    "encrypted_size_2": "A6522007E4D685635FBB1C1D70D6C686"
+                },
+                "nodoublexp": {
+                    "encrypted_gid_2": "D13564A2E151837A64FFEA0C754B5702",
+                    "encrypted_size_2": "05D2F9E1E94E03A76368D38148DB679B"
+                },
+                "pax_build": {
+                    "encrypted_gid_2": "C7868FEFB1C6FEE902377D3E97C66D87",
+                    "encrypted_size_2": "40C06222B6FFC9671E7B2994F74005DF"
+                },
+                "privatebeta": {
+                    "encrypted_gid_2": "1DD5CBDC30FC0A3726794F1D61A81062",
+                    "encrypted_size_2": "B650CB801274B036BA3DDAF2D56B63B3"
+                },
+                "terndev": {
+                    "encrypted_gid_2": "366BA6D16EDD916E51C58B61ACE4A4F4",
+                    "encrypted_size_2": "947B8F14EFC5A7949278D0FF4BB7F67C"
+                }
+            }
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "6699699",
+                "timeupdated": "1622556030"
+            },
+            "2020beta": {
+                "buildid": "5352672",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1596160056"
+            },
+            "beta": {
+                "buildid": "6699699",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1620989800"
+            },
+            "eacbeta": {
+                "buildid": "3227716",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1540486760"
+            },
+            "gamm": {
+                "buildid": "3963254",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1561702742"
+            },
+            "iceberg": {
+                "buildid": "1779458",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1493128845"
+            },
+            "nightly": {
+                "buildid": "3592367",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1551103993"
+            },
+            "nightlymain": {
+                "buildid": "3846024",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1558636532"
+            },
+            "nodoublexp": {
+                "buildid": "2310485",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1511434976"
+            },
+            "pax_build": {
+                "buildid": "1627445",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1487117265"
+            },
+            "privatebeta": {
+                "buildid": "1847220",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1495831105"
+            },
+            "terndev": {
+                "buildid": "5884600",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1606374973"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11637010,
+    "_sha": "4ed6d19c39124c4c31391679357754d790019a28",
+    "_size": 3711
+}

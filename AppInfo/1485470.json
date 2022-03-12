@@ -1,0 +1,56 @@
+{
+    "appid": "1485470",
+    "common": {
+        "name": "Monogon: Echoes Dedicated Server",
+        "type": "Tool",
+        "parent": "1456590",
+        "releasestate": "released",
+        "icon": "cd4c7567439621015922a9d9679d0572893513d2",
+        "logo": "06487ccf8d416e2268c6ef37edc0e318da91417c",
+        "logo_small": "06487ccf8d416e2268c6ef37edc0e318da91417c_thumb",
+        "clienttga": "1a8fe8e7f84c931379a952cffed000e0d1a07b12",
+        "clienticon": "d4c2e200681870cff6b494a0c9fa71916b53c3ae",
+        "library_assets": {
+            "library_capsule": "en",
+            "library_hero": "en",
+            "library_logo": "en",
+            "logo_position": {
+                "pinned_position": "BottomLeft",
+                "width_pct": "55.93023255813954",
+                "height_pct": "67.8579909760152"
+            }
+        },
+        "store_asset_mtime": "1606300803",
+        "associations": {},
+        "steam_release_date": "1608872400",
+        "gameid": "1485470"
+    },
+    "config": {
+        "installdir": "Monogon Echoes Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "server.exe",
+                "type": "none"
+            }
+        }
+    },
+    "depots": {
+        "1485471": {
+            "name": "Monogon: Echoes Dedicated Server Content",
+            "manifests": {
+                "public": "5867136104388087954"
+            },
+            "maxsize": "126766509"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6694089",
+                "timeupdated": "1620907677"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 13483601,
+    "_sha": "8fef77a7ba6fc3d0f3ec927674179e27a2805f90",
+    "_size": 1242
+}

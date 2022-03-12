@@ -1,0 +1,81 @@
+{
+    "appid": "582320",
+    "common": {
+        "name": "RHdedicatedserver",
+        "type": "Tool",
+        "parent": "582290",
+        "releasestate": "released",
+        "logo": "715040f938b177c097739cd29b657722abe8e5d7",
+        "logo_small": "715040f938b177c097739cd29b657722abe8e5d7_thumb",
+        "icon": "31b0a31501e97bd51ff4e0a60c6cd06f7446f1f3",
+        "clienttga": "71ed7d4b108a8b10f100c65846efc317f6ef1ce6",
+        "clienticon": "69dcf5c51040642642bf4d1bb3eb39fa24ebec84",
+        "oslist": "windows",
+        "osarch": "",
+        "associations": {},
+        "gameid": "582320"
+    },
+    "config": {
+        "installdir": "RestHouse",
+        "launch": {
+            "0": {
+                "executable": "RH5.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "582321": {
+            "name": "RHdedicatedserver Content",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8350903",
+                "timeupdated": "1646964563"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "86fe78e6361795f353d9184cf2dc289fd56738cc",
+    "_size": 1570
+}

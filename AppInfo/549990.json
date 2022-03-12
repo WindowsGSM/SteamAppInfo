@@ -1,0 +1,89 @@
+{
+    "appid": "549990",
+    "common": {
+        "name": "Cobalt Dedicated Server",
+        "type": "Tool",
+        "parent": "357340",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "",
+        "icon": "451a523550ee16a6674778e25fff21beca5cce84",
+        "clienttga": "c28037e4debf89eb717a5eef262d626b86d8baf0",
+        "clienticon": "b2b4c24980e259c16640ba03f28421f6197a1c89",
+        "logo": "79c152f25a5413ddd275a0b25df53dfda883e95c",
+        "logo_small": "79c152f25a5413ddd275a0b25df53dfda883e95c_thumb",
+        "metacritic_name": "Cobalt Dedicated Server",
+        "small_capsule": {
+            "english": "capsule_231x87.jpg"
+        },
+        "header_image": {
+            "english": "header.jpg"
+        },
+        "store_asset_mtime": "1505326793",
+        "associations": {},
+        "steam_release_date": "1518539526",
+        "gameid": "549990"
+    },
+    "config": {
+        "installdir": "Cobalt Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "cobalt_dedicated.exe",
+                "arguments": "-bundle-dir bundle -host_game -mode d",
+                "type": "server"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "549991": {
+            "name": "Cobalt Dedicated Server Content",
+            "manifests": {
+                "public": "2217736840269435757"
+            },
+            "maxsize": "22504647"
+        },
+        "workshopdepot": "549990",
+        "branches": {
+            "public": {
+                "buildid": "6038083",
+                "timeupdated": "1609797935"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "46afc2ef435f00d763a4678de4b3478744a1dbc3",
+    "_size": 1890
+}

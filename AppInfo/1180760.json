@@ -1,0 +1,94 @@
+{
+    "appid": "1180760",
+    "common": {
+        "name": "Risk of Rain 2 Dedicated Server",
+        "type": "Tool",
+        "parent": "632360",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "clienttga": "25e79d73de0b4058652b70d0dcf68cc1775e2ad5",
+        "clienticon": "818320cd0870b7d6b22a0c6a108e4335697a4382",
+        "icon": "7a291e0189921643c400a072aa730d15ea0abfb4",
+        "logo": "0bbc7ffbf03488369945d4696468ea5dc487b8b7",
+        "logo_small": "0bbc7ffbf03488369945d4696468ea5dc487b8b7_thumb",
+        "releasestate": "released",
+        "gameid": "1180760"
+    },
+    "config": {
+        "installdir": "Risk of Rain 2 Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "Risk of Rain 2.exe",
+                "type": "none",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "228986": {
+            "name": "VC 2015 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29759921",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1180761": {
+            "name": "Risk of Rain 2 Dedicated Server Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": "3785584345930435036"
+            },
+            "maxsize": "2246331398",
+            "encryptedmanifests": {
+                "public_test_server": {
+                    "encrypted_gid_2": "6E8401C256712113B3B0876522D333B6",
+                    "encrypted_size_2": "D6C97ED3DA743B3E7024ABC10C9858E7"
+                },
+                "qa_server_1.2.0": {
+                    "encrypted_gid_2": "89244F5A4F878B0B4BEC1743C726F896",
+                    "encrypted_size_2": "8D82554786F2BBD6226ACCCBBD29A8C1"
+                }
+            }
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "8331540",
+                "timeupdated": "1647028550"
+            },
+            "public_test_server": {
+                "buildid": "5439922",
+                "description": "Public Test Server",
+                "pwdrequired": "1",
+                "timeupdated": "1597968292"
+            },
+            "qa_server": {
+                "buildid": "8331540",
+                "description": "QA_server",
+                "pwdrequired": "1",
+                "timeupdated": "1646721351"
+            },
+            "qa_server_1.2.0": {
+                "buildid": "8208642",
+                "description": "qa_server_1.2.0",
+                "pwdrequired": "1",
+                "timeupdated": "1645038863"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14202568,
+    "_sha": "e02e95bf7c0ad753819f348419732cd2085c3ebb",
+    "_size": 2120
+}

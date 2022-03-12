@@ -1,0 +1,74 @@
+{
+    "appid": "1860400",
+    "common": {
+        "name": "Escape from Covid Dedicated Server",
+        "type": "Tool",
+        "parent": "1466530",
+        "releasestate": "released",
+        "logo": "ba357956960687aa0e8440bbe9d360668b0b71b1",
+        "logo_small": "ba357956960687aa0e8440bbe9d360668b0b71b1_thumb",
+        "icon": "09da7431fb0176f37a4a01b419033725cea8ec2d",
+        "clienttga": "b719041396ee0cec4cbad0b7552c56e1202d5e40",
+        "clienticon": "d986e98f1f734122ea75c0defd2041cdd5ded266",
+        "gameid": "1860400"
+    },
+    "config": {
+        "installdir": "Escape from Covid Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "EFC_dedicated_Server/EscapeFromCovid.exe"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1860401": {
+            "name": "Escape from Covid Dedicated Server Content",
+            "manifests": {
+                "public": "3339807867156424136"
+            },
+            "maxsize": "60991767"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7941707",
+                "timeupdated": "1640524313"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "08e7ce70c5d10d692f5f8215cc4ac715775a3d04",
+    "_size": 1546
+}

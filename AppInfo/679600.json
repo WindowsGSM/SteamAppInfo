@@ -1,0 +1,107 @@
+{
+    "appid": "679600",
+    "common": {
+        "name": "Pantropy dedicated server",
+        "type": "Tool",
+        "parent": "677180",
+        "oslist": "windows",
+        "osarch": "",
+        "logo": "636e3a591dbd91a9cb30a74cb149395b46579b12",
+        "logo_small": "636e3a591dbd91a9cb30a74cb149395b46579b12_thumb",
+        "icon": "ccc79941bc620df5e0bb724b6f42a8d6f70e709a",
+        "clienttga": "4c953fa768b6300268f990297922e5a4ee89fdcb",
+        "clienticon": "163941c3a20d577a757a67bf2f47f6c4d06af9d9",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "679600"
+    },
+    "config": {
+        "installdir": "PantropyServer",
+        "launch": {
+            "0": {
+                "executable": "PantropyServer.exe",
+                "arguments": "batchmode nographics",
+                "type": "none",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "679601": {
+            "name": "Pantropy dedicated server Content",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "3834327196876031428"
+            },
+            "maxsize": "14392642054",
+            "encryptedmanifests": {
+                "developerversion": {
+                    "encrypted_gid_2": "28295B26A454BECE24E9BF05968380B4",
+                    "encrypted_size_2": "E4C1C467CAD15E0B1BACD6D4E2F29501"
+                },
+                "staging": {
+                    "encrypted_gid_2": "3A49ED2F61921643A391239BC968C650",
+                    "encrypted_size_2": "7F4E3CF899F6556015C6586C295E4500"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "6841115",
+                "timeupdated": "1623743814"
+            },
+            "developerversion": {
+                "buildid": "6899112",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1624113554"
+            },
+            "staging": {
+                "buildid": "6899112",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1624114064"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "c18df9ff165cc27290d3c47d32063ef44e9a18e3",
+    "_size": 2294
+}

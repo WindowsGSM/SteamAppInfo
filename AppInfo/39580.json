@@ -1,0 +1,63 @@
+{
+    "appid": "39580",
+    "common": {
+        "name": "Painkiller: Resurrection Dedicated Server",
+        "clienticon": "1dd8c3122085834e54b1ecf6b38869d52c287b11",
+        "clienttga": "cfbde9f6c115ba1f06a47b4ef5b7b1cf339ce4de",
+        "icon": "c0db285921a0a11417cdd54a5dd868fcba61a87b",
+        "logo": "7c47618d7f3b2d93c4293ce310f985a05f2bea2a",
+        "logo_small": "7c47618d7f3b2d93c4293ce310f985a05f2bea2a_thumb",
+        "type": "Tool",
+        "gameid": "39580"
+    },
+    "extended": {
+        "cwdoverride": "bin",
+        "developer": "Homegrown Games",
+        "gamedir": "Painkiller Resurrection",
+        "homepage": "http://www.painkillerresurrection.com/",
+        "icon": "",
+        "installscript": "39560_install.vdf",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "39561",
+        "serverbrowsername": "",
+        "state": "eStateTool"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Painkiller Resurrection",
+        "launch": {
+            "0": {
+                "executable": "bin\\ResurrectionQUICKDedicated.exe",
+                "workingdir": "bin"
+            }
+        }
+    },
+    "depots": {
+        "39561": {
+            "name": "painkiller resurrection content",
+            "systemdefined": "1",
+            "maxsize": "4716055368",
+            "depotfromapp": "39560",
+            "sharedinstall": "2"
+        },
+        "39562": {
+            "name": "painkiller resurrection low violence content",
+            "optional": "1",
+            "systemdefined": "1",
+            "maxsize": "1976050723",
+            "depotfromapp": "39560",
+            "sharedinstall": "2"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "11430"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "23b75e7e339ac30478094620c4d7e3694206952c",
+    "_size": 1420
+}

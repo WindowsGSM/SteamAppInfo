@@ -1,0 +1,153 @@
+{
+    "appid": "1064780",
+    "common": {
+        "name": "Beyond The Wire - Dedicated Server",
+        "type": "Tool",
+        "parent": "1058650",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "64",
+        "icon": "7f773198c11fc802240cc51e345d3bdabcd58dc0",
+        "clienticon": "477178b95b5861fcbd2dad6485a0d375a8fd612d",
+        "clienttga": "d4bc0b029b58f2c5bf072051434442dfd31486d4",
+        "osextended": "",
+        "associations": {},
+        "gameid": "1064780"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "installdir": "Beyond the Wire - Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "WireGameServer.exe",
+                "arguments": "start WireGameServer.exe Port=7887 QueryPort=27165 FIXEDMAXPLAYERS=100 FIXEDMAXTICKRATE=35 RANDOM=NONE -log",
+                "description": "Beyond The Wire Dedicated Server Executable",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228984": {
+            "name": "VC 2012 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "13742505",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1064781": {
+            "name": "Beyond the Wire - Dedicated Server Content",
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "7993536589551788288"
+            },
+            "maxsize": "7125964525",
+            "encryptedmanifests": {
+                "closed-testing": {
+                    "encrypted_gid_2": "A3B7D87EF8F1CAD590D10D93D4948337",
+                    "encrypted_size_2": "7B358EC99CA1991025DE0D76789A3789"
+                },
+                "internal": {
+                    "encrypted_gid_2": "E74510E9DB19426439AD799A17942969",
+                    "encrypted_size_2": "446E919DA093EF4E20EEDFA115FBA0D2"
+                },
+                "public-testing": {
+                    "encrypted_gid_2": "0162D8B8C394281F18C62EE3A7C6FB22",
+                    "encrypted_size_2": "FEAB08F0859D98E4BCE50BE7F575CE62"
+                },
+                "release": {
+                    "encrypted_gid_2": "4FF18324B561570F3FE68C7A540AB766",
+                    "encrypted_size_2": "6CA7E331D0F475CC9F748D96DE54F810"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "7894964",
+                "timeupdated": "1639686402"
+            },
+            "closed-testing": {
+                "buildid": "7644198",
+                "description": "closed testing branch",
+                "pwdrequired": "1",
+                "timeupdated": "1635879072"
+            },
+            "internal": {
+                "buildid": "8318765",
+                "description": "development branch",
+                "pwdrequired": "1",
+                "timeupdated": "1646458058"
+            },
+            "public-testing": {
+                "buildid": "7644198",
+                "description": "public testing branch",
+                "pwdrequired": "1",
+                "timeupdated": "1635879058"
+            },
+            "release": {
+                "buildid": "7987290",
+                "description": "release branch",
+                "pwdrequired": "1",
+                "timeupdated": "1641593072"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "59811592df1e31db140fa10351cb0cbb7f790ecd",
+    "_size": 3496
+}

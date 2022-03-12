@@ -1,0 +1,112 @@
+{
+    "appid": "1502300",
+    "common": {
+        "name": " Survive the Nights Dedicated Server",
+        "type": "Tool",
+        "parent": "541300",
+        "oslist": "linux",
+        "osarch": "",
+        "osextended": "",
+        "clienttga": "26346d575cdd43c75c8a1de8d91fdc0c0cbe4ff3",
+        "clienticon": "38a860f31c625adef7fd808fde2b9ac93cd2371e",
+        "icon": "d0cfe1d214730a37df851a32f8bee7c786d874eb",
+        "logo": "8064cb823d2cad29ddf23ad650b836dedd8ed0eb",
+        "logo_small": "8064cb823d2cad29ddf23ad650b836dedd8ed0eb_thumb",
+        "releasestate": "released",
+        "gameid": "1502300"
+    },
+    "config": {
+        "installdir": " Survive the Nights Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "Server_Linux_x64",
+                "type": "server",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1502301": {
+            "name": " Survive the Nights Dedicated Server Content",
+            "config": {
+                "language": "english",
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "2097284702475996363"
+            },
+            "maxsize": "1390180708",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "524554D474A8B0F233D700AE50723469",
+                    "encrypted_size_2": "78FC4542F1E2047D229B86FB24346ED4"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8316590",
+                "timeupdated": "1646430822"
+            },
+            "development": {
+                "buildid": "7688246",
+                "description": "development branch",
+                "pwdrequired": "1",
+                "timeupdated": "1637318495"
+            },
+            "experimental": {
+                "buildid": "8316590",
+                "description": "for testing",
+                "timeupdated": "1646422212"
+            },
+            "pre-experimental": {
+                "buildid": "8316590",
+                "description": "experimental staging branch",
+                "pwdrequired": "1",
+                "timeupdated": "1646421391"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "d935dea96660c765a73b402f646594b7910ca9ef",
+    "_size": 2423
+}

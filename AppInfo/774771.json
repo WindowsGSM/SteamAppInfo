@@ -1,0 +1,103 @@
+{
+    "appid": "774771",
+    "common": {
+        "name": "Original War Server",
+        "type": "Tool",
+        "parent": "235320",
+        "releasestate": "released",
+        "icon": "bbb764e1e2540d981cf37d20ef7deaed89784e21",
+        "clienticon": "72efcd4ceee4080e0865d014db039c7b4d45d425",
+        "clienttga": "28fc266341e059c619c1afbfce0b584f2de2c1c5",
+        "logo": "c5ce270d234086234f6258a13fbd0d85d547f7b5",
+        "logo_small": "c5ce270d234086234f6258a13fbd0d85d547f7b5_thumb",
+        "associations": {},
+        "gameid": "774771"
+    },
+    "config": {
+        "installdir": "Original War Server",
+        "launch": {
+            "1": {
+                "executable": "OwarDediManager.exe",
+                "type": "config",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "774772": {
+            "name": "Original War Server Content",
+            "manifests": {
+                "public": "3374029916157979519",
+                "legacy": "8002366436717239143"
+            },
+            "maxsize": "143484641"
+        },
+        "774773": {
+            "name": "Original War Server Binary - Windows",
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "774774": {
+            "name": "Original War Server Manager Binary - Windows",
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "5264611",
+                "timeupdated": "1594382421"
+            },
+            "development": {
+                "buildid": "5264611",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1594204850"
+            },
+            "legacy": {
+                "buildid": "2674939",
+                "description": "",
+                "timeupdated": "1594382296"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "b59766e98cd82c570d8e7e7bf8e9880dea07b9ce",
+    "_size": 2077
+}

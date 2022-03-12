@@ -1,0 +1,122 @@
+{
+    "appid": "974130",
+    "common": {
+        "name": "StickyBots DedicatedServer",
+        "type": "Tool",
+        "parent": "889400",
+        "oslist": "windows,macos,linux",
+        "osarch": "",
+        "logo": "d17ad51e67319703db5be51cfa12236ec6d8f3e4",
+        "logo_small": "d17ad51e67319703db5be51cfa12236ec6d8f3e4_thumb",
+        "icon": "9e9e6e388cae5e0c4ace80f23e59d0ecdfc12cb8",
+        "clienticon": "5ad0108d70d365da85b14d5d678ee30f8e1dbd5c",
+        "clienttga": "f7682c0fc67779c7b83289fa40bff149e8257841",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "974130"
+    },
+    "extended": {
+        "gamedir": "StickyBots",
+        "serverbrowsername": "StickyBots"
+    },
+    "config": {
+        "installdir": "StickyBotsDedicatedServer",
+        "launch": {
+            "0": {
+                "executable": "blank1\\Binaries\\Win64\\blank1Server-Win64-Shipping.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "blank1\\Binaries\\Linux\\blank1Server-Linux-Shipping",
+                "type": "default",
+                "config": {
+                    "oslist": "linux"
+                }
+            },
+            "2": {
+                "executable": "blank1\\Binaries\\Mac\\blank1Server-Mac-Shipping.app",
+                "type": "default",
+                "config": {
+                    "oslist": "macos"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "974131": {
+            "name": "StickyBotsDedicatedServer Windows Content",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "217200716855148764"
+            },
+            "maxsize": "246208305"
+        },
+        "974132": {
+            "name": "StickyBots DedicatedServer Linux Content",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "6152909738926332120"
+            },
+            "maxsize": "843940958"
+        },
+        "974133": {
+            "name": "StickyBots DedicatedServer Mac Content",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "1683960798424906373"
+            },
+            "maxsize": "711135326"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3838731",
+                "timeupdated": "1558325183"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "b6397d2c29d2549e9aa5f0b397a00edc5f763daa",
+    "_size": 2538
+}

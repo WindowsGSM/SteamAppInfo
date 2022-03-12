@@ -1,0 +1,97 @@
+{
+    "appid": "553650",
+    "common": {
+        "name": "VIAR Server",
+        "type": "Tool",
+        "parent": "551610",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "64",
+        "logo": "292811c8af4070a491088af6dfe1e8dde47c3a2c",
+        "logo_small": "292811c8af4070a491088af6dfe1e8dde47c3a2c_thumb",
+        "icon": "52c90647dc3f7fd548ddb2b626afbe2e6847cc55",
+        "clienttga": "4e28672515ce73f009a2e504fc585ff07f13b19a",
+        "clienticon": "c226381ae1b8f057da35505acf9d7c2a9eb26f98",
+        "associations": {},
+        "community_hub_visible": "1",
+        "gameid": "553650"
+    },
+    "extended": {
+        "gamedir": "VIAR_Server",
+        "serverbrowsername": "VIAR Dedicated Server Browser"
+    },
+    "config": {
+        "installdir": "VIAR server",
+        "launch": {
+            "0": {
+                "executable": "VIAR_SERVER.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "VIAR_Server_w64.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "553651": {
+            "name": "Dedi server Content",
+            "manifests": {
+                "public": "9070464456020566220"
+            },
+            "maxsize": "2995681611"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3599430",
+                "timeupdated": "1551268616"
+            }
+        }
+    },
+    "ufs": {
+        "quota": "100000000000",
+        "maxnumfiles": "10000"
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "28bf94473b4213d9262c4cb69d187066d8536d94",
+    "_size": 1910
+}

@@ -1,0 +1,121 @@
+{
+    "appid": "688930",
+    "common": {
+        "name": "City of Ages: Picture Supportive Text MUD (server and client included)",
+        "type": "Game",
+        "oslist": "windows",
+        "osarch": "",
+        "clienttga": "6deda44a08c09fac0f3a8e3ee23b43721342c9db",
+        "clienticon": "a26012e6fe35e1bfb564e94a5f97d13081a181eb",
+        "icon": "f4c03da2c09dba80aa5233f2db310fae29bba67c",
+        "logo": "3c3af37c8da9227a3b9c2d563a8369f218005152",
+        "logo_small": "3c3af37c8da9227a3b9c2d563a8369f218005152_thumb",
+        "releasestate": "released",
+        "metacritic_name": "City of Ages: Picture Supportive Text MUD (server and client included)",
+        "small_capsule": {
+            "english": "capsule_231x87.jpg"
+        },
+        "header_image": {
+            "english": "header.jpg"
+        },
+        "store_asset_mtime": "1518714569",
+        "associations": {
+            "0": {
+                "type": "developer",
+                "name": "Darren N Lory"
+            },
+            "1": {
+                "type": "publisher",
+                "name": "Formsmatter"
+            }
+        },
+        "primary_genre": "25",
+        "genres": {
+            "0": "25",
+            "1": "23",
+            "2": "29",
+            "3": "3",
+            "4": "2"
+        },
+        "category": {
+            "category_2": "1",
+            "category_1": "1",
+            "category_36": "1",
+            "category_37": "1",
+            "category_20": "1",
+            "category_9": "1",
+            "category_38": "1",
+            "category_39": "1",
+            "category_24": "1",
+            "category_14": "1",
+            "category_17": "1",
+            "category_16": "1",
+            "category_49": "1",
+            "category_44": "1"
+        },
+        "supported_languages": {
+            "english": {
+                "supported": "true",
+                "full_audio": "true"
+            }
+        },
+        "original_release_date": "1508742000",
+        "steam_release_date": "1507903740",
+        "community_hub_visible": "1",
+        "gameid": "688930",
+        "exfgls": "1",
+        "store_tags": {
+            "0": "9",
+            "1": "21",
+            "2": "122",
+            "3": "128",
+            "4": "492",
+            "5": "1754",
+            "6": "10397",
+            "7": "31275"
+        },
+        "review_score": "7",
+        "review_percentage": "81"
+    },
+    "extended": {
+        "developer": "Darren N Lory",
+        "publisher": "Formsmatter",
+        "isfreeapp": "1"
+    },
+    "config": {
+        "installdir": "City of Ages Picture Supportive Text MUD (server and client included)",
+        "launch": {
+            "0": {
+                "executable": "handoff.exe",
+                "description": "CoA Handoff Launcher",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "baselanguages": "english",
+        "688931": {
+            "name": "City of Ages: Picture Supportive Text MUD (server and client included) Content",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "2670026470080053502"
+            },
+            "maxsize": "183427087"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2632156",
+                "timeupdated": "1522004465"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 13713737,
+    "_sha": "ce453d41dad6a87db4979968a258daee14bc1d17",
+    "_size": 2548
+}

@@ -1,0 +1,175 @@
+{
+    "appid": "1222650",
+    "common": {
+        "name": "Space Impossible Dedicated Server",
+        "type": "Tool",
+        "parent": "416240",
+        "releasestate": "released",
+        "oslist": "windows,macos,linux",
+        "osarch": "64",
+        "osextended": "macos64",
+        "clienticon": "b33f3f180e068baa9b9fe71813f04c1193dbc4bc",
+        "clienttga": "de0c2afade8ea2d26086caa50c57795d8508fb1f",
+        "icon": "c9cdcb47ac5081275c20ef557c4d83488235cb42",
+        "clienticns": "e604eb159f86fa6483d51fa9ea11755b1b6fb804",
+        "linuxclienticon": "bfb1f83ec55a6ba7a957c9e2e3550275189dd60e",
+        "logo": "c2449b84bf03aa4e446ff21ceeb92b2795f2f593",
+        "logo_small": "c2449b84bf03aa4e446ff21ceeb92b2795f2f593_thumb",
+        "gameid": "1222650"
+    },
+    "config": {
+        "installdir": "Space Impossible Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "SIDedicatedServer.exe",
+                "arguments": "-config serverconfig.txt -console -batchmode -nographics",
+                "type": "none",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "SIDedicatedServer.x86_64",
+                "arguments": "-config serverconfig.txt -console -batchmode -nographics",
+                "type": "none",
+                "config": {
+                    "oslist": "linux"
+                }
+            },
+            "2": {
+                "executable": "SIDedicatedServer.app",
+                "arguments": "-config serverconfig.txt -console -batchmode -nographics",
+                "type": "none",
+                "config": {
+                    "oslist": "macos"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1222651": {
+            "name": "Space Impossible Dedicated Server Game Data",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": "7935296339843719513",
+                "experimental": "3900247573245888514"
+            },
+            "maxsize": "63394402",
+            "encryptedmanifests": {
+                "developer": {
+                    "encrypted_gid_2": "FB5E2063687524CA7EBE32418E0B9E19",
+                    "encrypted_size_2": "7B6F9066190E2AD529EC164CED4D0B8D"
+                }
+            }
+        },
+        "1222652": {
+            "name": "Space Impossible Dedicated Server Windows",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": "2399517284318752920",
+                "experimental": "1143319133146060861"
+            },
+            "maxsize": "82035183",
+            "encryptedmanifests": {
+                "developer": {
+                    "encrypted_gid_2": "7B7D615E3BAB56B5291122ED7FA1EA49",
+                    "encrypted_size_2": "41FADE7BC18A14620F8B95A14C7F45AD"
+                }
+            }
+        },
+        "1222653": {
+            "name": "Space Impossible Dedicated Server OSX",
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": "7314092926651669263",
+                "experimental": "6634096844854836167"
+            },
+            "maxsize": "104889891",
+            "encryptedmanifests": {
+                "developer": {
+                    "encrypted_gid_2": "B56674696D317BBD0684AF4B16CEE02A",
+                    "encrypted_size_2": "4E5929295EE03F5BBED21C41449FCC91"
+                }
+            }
+        },
+        "1222654": {
+            "name": "Space Impossible Dedicated Server Linux",
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": "2456738921743713068",
+                "experimental": "667688703361850826"
+            },
+            "maxsize": "98020044",
+            "encryptedmanifests": {
+                "developer": {
+                    "encrypted_gid_2": "CF9BD9610DF836DB0712A3B3D03C44E3",
+                    "encrypted_size_2": "3FE5B19ACE904E5F650DA0EB993DF850"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "7439992",
+                "timeupdated": "1632849966"
+            },
+            "developer": {
+                "buildid": "8133119",
+                "description": "Internal Developer Only",
+                "pwdrequired": "1",
+                "timeupdated": "1643822577"
+            },
+            "experimental": {
+                "buildid": "8133119",
+                "description": "Experimental",
+                "timeupdated": "1643835046"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "8f1ac89e69a77985d620e3d917aea6ba36ff7616",
+    "_size": 4147
+}

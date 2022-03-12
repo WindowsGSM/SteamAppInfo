@@ -1,0 +1,70 @@
+{
+    "appid": "4270",
+    "common": {
+        "clienttga": "6c895a01954bfeb9de8098471ef1b44259efe80d",
+        "icon": "a84d62ad8095e8b991cbb83044a02fd4980ead3a",
+        "logo": "",
+        "logo_small": "",
+        "name": "RACE 07 Demo Dedicated Server",
+        "clienticon": "05e281791c36d8d409c7c55aba2bb47aa395c7f5",
+        "type": "Tool",
+        "freeondemand": "1",
+        "gameid": "4270"
+    },
+    "extended": {
+        "developer": "SimBin Studios",
+        "gamedir": "Race07 Demo Dedicated Server",
+        "homepage": "http://www.race-game.org/",
+        "icon": "steam/games/icon_Race 07",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "4261",
+        "serverbrowsername": "",
+        "state": "eStateTool",
+        "visibleonlywheninstalled": "1"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Race07 Demo Dedicated Server",
+        "convertgcfs": "1",
+        "launch": {
+            "0": {
+                "executable": "RaceDemoDedicatedServer_Steam.exe"
+            }
+        }
+    },
+    "depots": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "4261": {
+            "name": "Race07 Demo Content",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "637215948742709402"
+            },
+            "maxsize": "552637440",
+            "depotfromapp": "4260"
+        },
+        "1004": {
+            "name": "Steamworks SDK Redist (Win32)",
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "3578600867548439549"
+            },
+            "maxsize": "9662208",
+            "depotfromapp": "1002"
+        },
+        "branches": {
+            "public": {
+                "buildid": "82802"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "2127c2b6f5d2abf56c27bf2d49e0d8d0a253b1f6",
+    "_size": 1416
+}

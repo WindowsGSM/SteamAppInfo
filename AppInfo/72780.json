@@ -1,0 +1,60 @@
+{
+    "appid": "72780",
+    "common": {
+        "name": "Brink Dedicated Server",
+        "clienticon": "c9da2ae550016598cde7371200ac60109595b547",
+        "clienttga": "85dc8ffa1cc69a40349c6c6ccd9782c0e339de90",
+        "icon": "a8287f6a2627c344116d8f81fc518e71aab2a647",
+        "type": "Tool",
+        "freeondemand": "1",
+        "eulas": {
+            "0": {
+                "url": "http://store.steampowered.com/eula/eula_72780",
+                "id": "eula_72780",
+                "name": "eula_72780"
+            }
+        },
+        "gameid": "72780"
+    },
+    "extended": {
+        "developer": "",
+        "gamedir": "BRINK Dedicated Server",
+        "homepage": "",
+        "icon": "",
+        "launcheula": "http://store.steampowered.com/eula/eula_72780",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "72782",
+        "serverbrowsername": "",
+        "state": "eStateTool"
+    },
+    "config": {
+        "launch": {
+            "0": {
+                "executable": "brink.exe"
+            }
+        },
+        "contenttype": "3",
+        "installdir": "BRINK Dedicated Server"
+    },
+    "depots": {
+        "72782": {
+            "name": "BRINK Server Depot 2",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "3467984721875580111"
+            },
+            "maxsize": "617930462"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "66398"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "75c8a00852d7624c7d983c1cd8b2ed0054bf7556",
+    "_size": 1145
+}

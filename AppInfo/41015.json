@@ -1,0 +1,148 @@
+{
+    "appid": "41015",
+    "common": {
+        "name": "Serious Sam HD: The Second Encounter Dedicated Server",
+        "type": "Tool",
+        "freeondemand": "1",
+        "gameid": "41015"
+    },
+    "extended": {
+        "developer": "Croteam",
+        "gamedir": "Serious Sam HD: The Second Encounter",
+        "homepage": "http://www.croteam.com/",
+        "icon": "",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "41016",
+        "serverbrowsername": "",
+        "state": "eStateTool"
+    },
+    "config": {
+        "launch": {
+            "0": {
+                "executable": "Bin\\SamHD_TSE_DedicatedServer.exe"
+            }
+        },
+        "contenttype": "3",
+        "installdir": "Serious Sam HD The Second Encounter",
+        "checkguid": "SamHD_TSE_DedicatedServer.exe"
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "41018": {
+            "name": "Retail Exclusive DLC",
+            "optional": "1",
+            "systemdefined": "1",
+            "maxsize": "1219",
+            "dlcappid": "41018",
+            "depotfromapp": "41010",
+            "sharedinstall": "2"
+        },
+        "41017": {
+            "name": "Steam Pre-order DLC",
+            "optional": "1",
+            "systemdefined": "1",
+            "maxsize": "656",
+            "dlcappid": "41017",
+            "depotfromapp": "41010",
+            "sharedinstall": "2"
+        },
+        "41016": {
+            "name": "DedServerBin",
+            "optional": "1",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "1446886366694468888",
+                "publicbeta": "3178483061285669746"
+            },
+            "maxsize": "20065050",
+            "encryptedmanifests": {
+                "closedbeta": {
+                    "encrypted_gid_2": "C706C1D13E2F52FF0E4097A3D96B0E6A",
+                    "encrypted_size_2": "197082063C8794AED7C670E0CF977886"
+                }
+            }
+        },
+        "41011": {
+            "name": "Content",
+            "systemdefined": "1",
+            "maxsize": "2300549299",
+            "depotfromapp": "41010",
+            "sharedinstall": "2"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "5821912",
+                "timeupdated": "1605201996"
+            },
+            "closedbeta": {
+                "buildid": "2297899",
+                "description": "Testers, IHVs,...",
+                "pwdrequired": "1",
+                "timeupdated": "1511111222"
+            },
+            "internal": {
+                "buildid": "5821912",
+                "description": "Internal testing",
+                "pwdrequired": "1",
+                "timeupdated": "1605199434"
+            },
+            "publicbeta": {
+                "buildid": "2297899",
+                "description": "",
+                "timeupdated": "1511111232"
+            },
+            "speedrunning-171082": {
+                "buildid": "20986",
+                "description": "Legacy Build 171082",
+                "timeupdated": "1642443313"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "8c3f130309a1425fa8047cd355ec3efbb96fd15f",
+    "_size": 3062
+}

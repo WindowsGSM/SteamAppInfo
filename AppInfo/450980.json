@@ -1,0 +1,210 @@
+{
+    "appid": "450980",
+    "common": {
+        "name": "Ultimate Arena FPS - Dedicated Server",
+        "type": "Tool",
+        "oslist": "windows,linux",
+        "logo": "5f856ea21b89441f89dc167b44286dbdc87d0670",
+        "logo_small": "5f856ea21b89441f89dc167b44286dbdc87d0670_thumb",
+        "icon": "2517befae4e5241425ff1ee52aa6492cf2baf5aa",
+        "clienttga": "346553e45c6af334ea5d92d25e0b317ac7e2afca",
+        "clienticon": "23b201d019aa72d8b9c305c265e35c77c7d1bbc6",
+        "eulas": {
+            "0": {
+                "id": "450980_eula_0",
+                "name": "Ultimate Arena - Dedicated Server EULA",
+                "url": "http://store.steampowered.com//eula/450980_eula_0"
+            }
+        },
+        "releasestate": "released",
+        "associations": {},
+        "community_hub_visible": "1",
+        "gameid": "450980"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "UltimateArenaDedicatedServer",
+        "launch": {
+            "0": {
+                "executable": "UltimateArena/Binaries/Linux/UltimateArenaServer-Win64-Shipping Hall -log",
+                "type": "none",
+                "config": {
+                    "oslist": "linux"
+                }
+            },
+            "1": {
+                "executable": "UltimateArena/Binaries/Win64/UltimateArenaServer-Win64-Shipping.exe Hall -log",
+                "type": "none",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "2": {
+                "executable": "UltimateArena/Binaries/Win64/UltimateArenaServer-Win64-DebugGame.exe",
+                "description": "Play Debug Version",
+                "type": "none",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "publictest,closedtest"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "name": ".NET 3.5 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "242743889",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229001": {
+            "name": ".NET 3.5 Client Profile Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "267964564",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "name": ".NET 4.0 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "50450161",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "name": ".NET 4.0 Client Profile Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "43001447",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "name": ".NET 4.5.2 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "70000464",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "name": ".NET 4.6 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "62009092",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "450981": {
+            "name": "Ultimate Arena - Dedicated Server Windows",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "8567282029702503548"
+            },
+            "maxsize": "878414269"
+        },
+        "450982": {
+            "name": "Ultimate Arena - Dedicated Server Linux",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "4676663787469673432"
+            },
+            "maxsize": "1654070120"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5040319",
+                "timeupdated": "1589715432"
+            },
+            "closedtest": {
+                "buildid": "5040319",
+                "description": "This is only for a small circle",
+                "pwdrequired": "1",
+                "timeupdated": "1589715409"
+            },
+            "publictest": {
+                "buildid": "5040319",
+                "description": "Test new unstable versions here",
+                "timeupdated": "1589715423"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "6a180875451593bf413a08cc5ddc5c93b7033f01",
+    "_size": 4486
+}

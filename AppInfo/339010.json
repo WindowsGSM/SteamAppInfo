@@ -1,0 +1,157 @@
+{
+    "appid": "339010",
+    "common": {
+        "name": "Rising World Dedicated Server",
+        "type": "Tool",
+        "oslist": "windows,linux",
+        "logo": "0c9f46eb19dab44fd8a27979fd02ac3d6eff820b",
+        "logo_small": "0c9f46eb19dab44fd8a27979fd02ac3d6eff820b_thumb",
+        "icon": "872418d80aa6ae6a948e05258373898532464aba",
+        "clienticon": "3ac916be1980f861fec6c3768b1ca93198fcba1d",
+        "clienttga": "269d62fc7acbca0338281b3d9c048735d5b91204",
+        "clienticns": "79fc2039fd153fcd8c7693c9bd71fae03180f281",
+        "releasestate": "released",
+        "associations": {},
+        "community_hub_visible": "1",
+        "gameid": "339010"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "RisingWorldDedicatedServer",
+        "launch": {
+            "0": {
+                "executable": "rw_server.exe",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "betakey": "default"
+                },
+                "description_loc": {
+                    "english": "Launch"
+                },
+                "description": "Launch"
+            },
+            "1": {
+                "executable": "RisingWorldServer.exe",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "betakey": "unity"
+                },
+                "description_loc": {
+                    "english": "New Version"
+                },
+                "description": "New Version"
+            },
+            "2": {
+                "executable": "RisingWorldServer.x64",
+                "type": "server",
+                "config": {
+                    "oslist": "linux",
+                    "betakey": "unity"
+                },
+                "description_loc": {
+                    "english": "New Version"
+                },
+                "description": "New Version"
+            },
+            "3": {
+                "executable": "rw_server.exe",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "betakey": "legacy"
+                },
+                "description_loc": {
+                    "english": "Java Version"
+                },
+                "description": "Java Version"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "339011": {
+            "name": "Rising World Dedicated Server - Java Version",
+            "manifests": {
+                "public": "8860498018075835343",
+                "unity": "21240271230280590"
+            },
+            "maxsize": "35505017"
+        },
+        "339012": {
+            "name": "Rising World Dedicated Server - New Version Windows",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "unity": "9016636494106966507"
+            },
+            "maxsize": "728562734"
+        },
+        "339013": {
+            "name": "Rising World Dedicated Server - New Version Linux",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "unity": "1495281941952289792"
+            },
+            "maxsize": "755516315"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7281128",
+                "timeupdated": "1630433202"
+            },
+            "legacy": {
+                "buildid": "7281128",
+                "description": "Java Version",
+                "timeupdated": "1630433220"
+            },
+            "unity": {
+                "buildid": "8182713",
+                "description": "New Version Preview",
+                "timeupdated": "1644598414"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "5e1b75fbb76ea091e259892159cb4003b65c2a4a",
+    "_size": 3304
+}

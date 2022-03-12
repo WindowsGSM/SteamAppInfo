@@ -1,0 +1,381 @@
+{
+    "appid": "996560",
+    "common": {
+        "name": "SCP: Secret Laboratory Dedicated Server",
+        "type": "Tool",
+        "parent": "700330",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "icon": "85c1c1fc51a8952bcc19bb1c4c3270cb20788f10",
+        "logo": "257b3631eb822e18165d0b3ac8a0d19bea216fef",
+        "logo_small": "257b3631eb822e18165d0b3ac8a0d19bea216fef_thumb",
+        "clienttga": "192b20abe0007ee37a9c55be1f0242df66863725",
+        "clienticon": "700f8fa16aae82fe0605806b6c44e4bb9701fc8d",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "996560",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "SCP Secret Laboratory Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "LocalAdmin.exe",
+                "type": "server"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "name": ".NET 4.7 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "83944258",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "996561": {
+            "name": "SCP: Secret Laboratory Dedicated Server Windows Depot",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "6972846762417100816"
+            },
+            "maxsize": "645794788",
+            "encryptedmanifests": {
+                "arith1": {
+                    "encrypted_gid_2": "BD3FBC3996657D30580317E5C454B5EA",
+                    "encrypted_size_2": "E91FA7F6F21BA26717A9A970DF342420"
+                },
+                "arith2": {
+                    "encrypted_gid_2": "AB0F4477EB0802D6888D5043BBAE5863",
+                    "encrypted_size_2": "1F185F0241AC12330AF296B6123B302F"
+                },
+                "ava-test": {
+                    "encrypted_gid_2": "EC57199B5A5FA58186824388AD5A35DB",
+                    "encrypted_size_2": "768A2A9DFB739C9035628FBB76A8A459"
+                },
+                "beryl-test": {
+                    "encrypted_gid_2": "1A203C5FB1D22C53D100441B927DA593",
+                    "encrypted_size_2": "EC1E4B18E876A67EA991DFEDC0CD57E2"
+                },
+                "community-qa": {
+                    "encrypted_gid_2": "494F58919D830C138B625AA03CCFFC5E",
+                    "encrypted_size_2": "DDA65CA61FE29BBE839DDAE607F5F6E0"
+                },
+                "deputation": {
+                    "encrypted_gid_2": "CE99A85B96260931C3AFDC2C98297317",
+                    "encrypted_size_2": "FAFE86FC6DD229EED989B587E29C8456"
+                },
+                "hube-testing": {
+                    "encrypted_gid_2": "A39A605B680359849C1DCD5D5E905E34",
+                    "encrypted_size_2": "0B092203B1A2E2F9051CD57A66824718"
+                },
+                "killers-test": {
+                    "encrypted_gid_2": "59334D60AA74BEC38F51EFBB639C401F",
+                    "encrypted_size_2": "965C1B47C38DF6BDA37B82E2CA6EDCE6"
+                },
+                "meep-test": {
+                    "encrypted_gid_2": "EE76339E8C21BF1AC384786FF2AB4C92",
+                    "encrypted_size_2": "3ED8CC19BC0AD0C5CDC8E7E96C0D5A20"
+                },
+                "mith-test": {
+                    "encrypted_gid_2": "DCB9F01B7AA09879C4242754E81FAA73",
+                    "encrypted_size_2": "6858EE96E70BB31490DEFF7918621399"
+                },
+                "mr-testing-2": {
+                    "encrypted_gid_2": "5E23DD957D14DC9BEDE07DC44FC4CEA1",
+                    "encrypted_size_2": "6A58A0C6A4ED2B3CC66B3AFD3EABDFBB"
+                },
+                "nightly": {
+                    "encrypted_gid_2": "4DC3CAB102CAB2AE87417E9BAF63CBE3",
+                    "encrypted_size_2": "30613796151457016EDC7ADB88A1A977"
+                },
+                "petris": {
+                    "encrypted_gid_2": "57634171F7481A345A1D7A23BFDC79D3",
+                    "encrypted_size_2": "50A78CFDC67A918855E362EFAFB8ED1F"
+                },
+                "pie-test": {
+                    "encrypted_gid_2": "ABEA6A2211468F858647187E82294B91",
+                    "encrypted_size_2": "20A3BC32D98FA45FFBC7D23226F671D6"
+                },
+                "pognity": {
+                    "encrypted_gid_2": "950E325217D8775C942A00E4F209CEF1",
+                    "encrypted_size_2": "238C5FA5DF625E678CE525C07429CF39"
+                },
+                "qa-testing": {
+                    "encrypted_gid_2": "5B573CAC5D78F5CF3B7DF9FA9B509C7E",
+                    "encrypted_size_2": "808E21518E7ECE5FA37DF4049ECEE9C9"
+                },
+                "tech": {
+                    "encrypted_gid_2": "89E667F83EE4CF53601ED2BE0D3AB7AF",
+                    "encrypted_size_2": "3E0920D29C82BC02D0D8E54628F20033"
+                },
+                "thomasjosif-test": {
+                    "encrypted_gid_2": "EE12FDE7285B9054B2057B66998F60F3",
+                    "encrypted_size_2": "8704C90C7C42F7A20D98D98E6A6834D4"
+                }
+            }
+        },
+        "996562": {
+            "name": "SCP: Secret Laboratory Dedicated Server Linux Depot",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "885707950633623967"
+            },
+            "maxsize": "483912112",
+            "encryptedmanifests": {
+                "arith1": {
+                    "encrypted_gid_2": "ED7024A3B8EA10C463DF485DB4D2B1F6",
+                    "encrypted_size_2": "896F9C165799343C11D933F12F868935"
+                },
+                "arith2": {
+                    "encrypted_gid_2": "800F3A0478814BC955B096A82BF5A12B",
+                    "encrypted_size_2": "A7016B4AF03ACDF30A249074CF42BF67"
+                },
+                "ava-test": {
+                    "encrypted_gid_2": "5852F0DF8737DB4A8DD2570716CB5184",
+                    "encrypted_size_2": "23F14494F597C2BD73BFC58E743B7066"
+                },
+                "beryl-test": {
+                    "encrypted_gid_2": "4AFF4CB385D533EC4574A534A1390A62",
+                    "encrypted_size_2": "02E311BF516401117AB52D102EE9D728"
+                },
+                "community-qa": {
+                    "encrypted_gid_2": "0ECDD9AD86451DCCB09CD10AE9F271AE",
+                    "encrypted_size_2": "51E9AAAF797323465DD2FC3FD42E04C1"
+                },
+                "deputation": {
+                    "encrypted_gid_2": "85D700D787507D32FBD389E5CA855BAB",
+                    "encrypted_size_2": "E7E20A437AF249FA440D10AA6E96CD63"
+                },
+                "hube-testing": {
+                    "encrypted_gid_2": "C5C77AC36BCADBC8D6B0F94536887172",
+                    "encrypted_size_2": "75E0A0EE9B8785F7E26EA27C1B04A42A"
+                },
+                "killers-test": {
+                    "encrypted_gid_2": "5FA7D7122652FF53B7F5257773A660F3",
+                    "encrypted_size_2": "70DDF2B9CB50C28D397752F465FE7B0D"
+                },
+                "meep-test": {
+                    "encrypted_gid_2": "FBD63CF1B765C5B37015C99E1722A4BE",
+                    "encrypted_size_2": "FB4CB70CB871A9FB5E591C403400AFD3"
+                },
+                "mith-test": {
+                    "encrypted_gid_2": "40771E3C31BBE5CD003167BABEAE608B",
+                    "encrypted_size_2": "6AB8303D6731A3520DCFDD9631D06D72"
+                },
+                "mr-testing-2": {
+                    "encrypted_gid_2": "D8A3FD9F54C45583B8C3ADACFD4A6C3F",
+                    "encrypted_size_2": "2CDA0057E25DC65530EA6555D1087CB2"
+                },
+                "nightly": {
+                    "encrypted_gid_2": "416C8E7C76C3C4F31FA3D1BCF492F3D7",
+                    "encrypted_size_2": "DDCA932496492C3D5B0A007595093F35"
+                },
+                "petris": {
+                    "encrypted_gid_2": "08179825FA503B2834EE3C499F5ECD63",
+                    "encrypted_size_2": "20FA7DD04345301D58E38D45321829CE"
+                },
+                "pie-test": {
+                    "encrypted_gid_2": "9D3B513D92DCA97E6140FF78C01237B4",
+                    "encrypted_size_2": "D5723720DC024A4CFDAE03D2393EE332"
+                },
+                "pognity": {
+                    "encrypted_gid_2": "538E36C56FDBCE62986FA12C8759EFA7",
+                    "encrypted_size_2": "46F8E3B19E6E3342F50C33A6CC4C5F15"
+                },
+                "qa-testing": {
+                    "encrypted_gid_2": "2B6D965C97E6C5AB39B6A5DEFAA06288",
+                    "encrypted_size_2": "4B81583D5D0C1021267F87968B45F74B"
+                },
+                "tech": {
+                    "encrypted_gid_2": "69E478E7DB40E90F6F9FCB871E66D732",
+                    "encrypted_size_2": "D5B6E1625023018E091207E8CA279B47"
+                },
+                "thomasjosif-test": {
+                    "encrypted_gid_2": "F17F61E5E44D4E6B15A318937BE2A0C2",
+                    "encrypted_size_2": "8FDB1B1552CEE5B2D47859B9E7339959"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8310295",
+                "timeupdated": "1646424410"
+            },
+            "arith1": {
+                "buildid": "7982008",
+                "description": "Arith QA Branch",
+                "pwdrequired": "1",
+                "timeupdated": "1641514320"
+            },
+            "arith2": {
+                "buildid": "7713400",
+                "description": "Arith Testing Branch",
+                "pwdrequired": "1",
+                "timeupdated": "1636971560"
+            },
+            "ava-test": {
+                "buildid": "8348640",
+                "description": "Ava's testing branch",
+                "pwdrequired": "1",
+                "timeupdated": "1646938774"
+            },
+            "beryl-test": {
+                "buildid": "8304208",
+                "description": "beryl test branch",
+                "pwdrequired": "1",
+                "timeupdated": "1646267028"
+            },
+            "community-qa": {
+                "buildid": "8289938",
+                "description": "Community QA Testing",
+                "pwdrequired": "1",
+                "timeupdated": "1646093687"
+            },
+            "deputation": {
+                "buildid": "8301781",
+                "description": "italian lmaoo",
+                "pwdrequired": "1",
+                "timeupdated": "1646238524"
+            },
+            "hube-testing": {
+                "buildid": "8326537",
+                "description": "Hubert's testing branch",
+                "pwdrequired": "1",
+                "timeupdated": "1646655260"
+            },
+            "killers-test": {
+                "buildid": "8341149",
+                "description": "killers test branch",
+                "pwdrequired": "1",
+                "timeupdated": "1647113140"
+            },
+            "meep-test": {
+                "buildid": "8235633",
+                "description": "bruh x2",
+                "pwdrequired": "1",
+                "timeupdated": "1645272974"
+            },
+            "mith-test": {
+                "buildid": "8281090",
+                "description": "Mith's testing branch",
+                "pwdrequired": "1",
+                "timeupdated": "1645923715"
+            },
+            "mr-testing-2": {
+                "buildid": "8185902",
+                "description": "Multipurpose merge request testing branch for internal use. (Again!)",
+                "pwdrequired": "1",
+                "timeupdated": "1644575409"
+            },
+            "nightly": {
+                "buildid": "8358339",
+                "description": "Nightly SCP:SL build",
+                "pwdrequired": "1",
+                "timeupdated": "1647055497"
+            },
+            "petris": {
+                "buildid": "7954652",
+                "description": "Petris' testing branch",
+                "pwdrequired": "1",
+                "timeupdated": "1640874153"
+            },
+            "pie-test": {
+                "buildid": "7191623",
+                "description": "Pie's testing branch",
+                "pwdrequired": "1",
+                "timeupdated": "1628998690"
+            },
+            "pognity": {
+                "buildid": "8203799",
+                "description": "Kognity test branch, now actually working",
+                "pwdrequired": "1",
+                "timeupdated": "1644899922"
+            },
+            "qa-testing": {
+                "buildid": "8232431",
+                "description": "Private beta branch for QA Testing.",
+                "pwdrequired": "1",
+                "timeupdated": "1645213539"
+            },
+            "tech": {
+                "buildid": "8042083",
+                "description": "Technical branch",
+                "pwdrequired": "1",
+                "timeupdated": "1642528145"
+            },
+            "thomasjosif-test": {
+                "buildid": "8295412",
+                "description": "I promise this branch won't global ban you",
+                "pwdrequired": "1",
+                "timeupdated": "1646159426"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14209165,
+    "_sha": "b8fad2d6f3d6d9987b191aef81eef6356c75eb5e",
+    "_size": 10635
+}

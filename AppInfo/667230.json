@@ -1,0 +1,146 @@
+{
+    "appid": "667230",
+    "common": {
+        "name": "Capsa Dedicated Server",
+        "type": "Tool",
+        "parent": "588120",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "64",
+        "logo": "55aecc2926cbbb795a2df3c2c16644b9cbe0f5cc",
+        "logo_small": "55aecc2926cbbb795a2df3c2c16644b9cbe0f5cc_thumb",
+        "icon": "d75f5a6c0eb60a65b04a2d979af16c07d20b7224",
+        "clienticon": "bacfeb840664e847a02f377812e77376894381c0",
+        "clienttga": "ef32751a6494e26cc0dd7764e2f1934f4bb91171",
+        "small_capsule": {
+            "english": "capsule_231x87.jpg"
+        },
+        "header_image": {
+            "english": "header.jpg"
+        },
+        "library_assets": {
+            "library_capsule": "en",
+            "library_hero": "en",
+            "library_logo": "en",
+            "logo_position": {
+                "pinned_position": "BottomLeft",
+                "width_pct": "50",
+                "height_pct": "50"
+            }
+        },
+        "store_asset_mtime": "1579188202",
+        "associations": {},
+        "steam_release_date": "1506355200",
+        "gameid": "667230",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "Capsa Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "CapsaServer.exe",
+                "arguments": "-log",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "name": ".NET 4.6 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "62009092",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "name": ".NET 4.7 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "83944258",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "name": ".NET 4.8 Redis",
+            "config": {
+                "language": ""
+            },
+            "maxsize": "117381405",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "667231": {
+            "name": "Capsa Dedicated Server Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "7435694003537861866"
+            },
+            "maxsize": "1438921901",
+            "encryptedmanifests": {
+                "closed_beta": {
+                    "encrypted_gid_2": "FE1A545260346C7F6116914D8B4A1579",
+                    "encrypted_size_2": "D1A87D1B28734519172379D4AE705035"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8190518",
+                "timeupdated": "1644632879"
+            },
+            "closed_beta": {
+                "buildid": "5862820",
+                "description": "Closed test branch",
+                "pwdrequired": "1",
+                "timeupdated": "1605940442"
+            },
+            "private": {
+                "buildid": "8190518",
+                "description": "Private test branch",
+                "pwdrequired": "1",
+                "timeupdated": "1644630195"
+            },
+            "test": {
+                "buildid": "8190518",
+                "description": "test server",
+                "timeupdated": "1644630521"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 13936359,
+    "_sha": "8a8c55bc13cee9ca7238fb4f12524efa58b84ed5",
+    "_size": 3034
+}

@@ -1,0 +1,131 @@
+{
+    "appid": "541790",
+    "common": {
+        "name": "Days of War Dedicated Server",
+        "type": "Tool",
+        "parent": "454350",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "",
+        "logo": "fba99f5275b43441ca1cbd937a24730e2652a492",
+        "logo_small": "fba99f5275b43441ca1cbd937a24730e2652a492_thumb",
+        "icon": "9fb0bd442dbc3e84efd727124014fa57897f82d2",
+        "clienticon": "bd9224fdf4c589f9121dc9281a9671462a768fc3",
+        "clienttga": "e291be33f6a56622661c7a7307fa6e0e2deefcdd",
+        "associations": {},
+        "gameid": "541790"
+    },
+    "config": {
+        "installdir": "Days of War Dedicated Server",
+        "launch": {
+            "1": {
+                "executable": "ReadMe.txt",
+                "type": "none",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "228986": {
+            "name": "VC 2015 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29759921",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "541791": {
+            "name": "Days of War Dedicated Windows Server Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": "3889720421601920330"
+            },
+            "maxsize": "724822306",
+            "encryptedmanifests": {
+                "1050": {
+                    "encrypted_gid_2": "716647338DEB6D2D21C966986F47C233",
+                    "encrypted_size_2": "E1511C38BADBB54AB45104A168E14738"
+                },
+                "development2": {
+                    "encrypted_gid_2": "6307CFC7CC736E787718522C8E32F6B2",
+                    "encrypted_size_2": "A0ECF10F776EF43D8B1ACE7845652404"
+                },
+                "moddev": {
+                    "encrypted_gid_2": "0B8D90C702E793650179A6DF2CB5ADD0",
+                    "encrypted_size_2": "069B8B52557898D8FB5559696DB47400"
+                },
+                "re-ca1": {
+                    "encrypted_gid_2": "FE079913392EDA85ED38DA33F1ADFB80",
+                    "encrypted_size_2": "58283224F9A83DDD47000C2DF066E26B"
+                }
+            }
+        },
+        "541792": {
+            "name": "Days of War Dedicated Linux Server Depot",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": "8869199936295808574"
+            },
+            "maxsize": "882383766",
+            "encryptedmanifests": {
+                "re-ca1": {
+                    "encrypted_gid_2": "0D401C987F6319D2259453A916603FF5",
+                    "encrypted_size_2": "6D6DB8574547E71712964CE223309FF3"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "5169733",
+                "timeupdated": "1592338457"
+            },
+            "1050": {
+                "buildid": "2342045",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1512491315"
+            },
+            "development": {
+                "buildid": "5169733",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1592276009"
+            },
+            "development2": {
+                "buildid": "4562125",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1578924943"
+            },
+            "moddev": {
+                "buildid": "3380844",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1544393787"
+            },
+            "re-ca1": {
+                "buildid": "4679412",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1592338446"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "e1ae444f1c698e309c7e1553ab0002e94613871d",
+    "_size": 2964
+}

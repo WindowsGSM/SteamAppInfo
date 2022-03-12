@@ -1,0 +1,108 @@
+{
+    "appid": "1899970",
+    "common": {
+        "name": "Badlands Dedicated Server",
+        "type": "Tool",
+        "parent": "1714350",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "logo": "91b6ed7a7a5c132cdd52009e47d3ce0ebe258e46",
+        "logo_small": "91b6ed7a7a5c132cdd52009e47d3ce0ebe258e46_thumb",
+        "icon": "f81c96c9a6d2c8e8064a2fb9348fee99c943aa99",
+        "clienticon": "db6ac4c665a72f8ebb20b45734ca41275e2344e4",
+        "clienttga": "8ebbd6b2e2a5a16202eb1b6c8b0d421882d97c04",
+        "gameid": "1899970",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "Badlands Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "BadlandsServer.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "name": "PhysX System Software 9.14.0702",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "60039803",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1899971": {
+            "name": "Badlands Dedicated Server Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "steamdeck": "0"
+            },
+            "manifests": {
+                "public": "3940206657249964523"
+            },
+            "maxsize": "1368446253"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8287888",
+                "timeupdated": "1646105988"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "9e23e6b0a45515f5088fb5eb6e09ef374f4c8d31",
+    "_size": 2146
+}

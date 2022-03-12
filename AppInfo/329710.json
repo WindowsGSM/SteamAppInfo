@@ -1,0 +1,59 @@
+{
+    "appid": "329710",
+    "common": {
+        "name": "Fortress Forever Dedicated Server",
+        "type": "Tool",
+        "releasestate": "released",
+        "oslist": "windows",
+        "clienticon": "815b73fc7aad255536ceaf24d3115815a1fd56e7",
+        "clienttga": "fb3469eb37b706446ee638ce3785cda409bd8c8a",
+        "icon": "3f217a9298a20c210cc48fe2b2aee8b937fa2bc0",
+        "logo": "b0a1574e805c41826624ce2896060ffd7b173f66",
+        "logo_small": "b0a1574e805c41826624ce2896060ffd7b173f66_thumb",
+        "associations": {},
+        "gameid": "329710"
+    },
+    "extended": {
+        "gamedir": "FortressForever",
+        "serverbrowsername": "Fortress Forever"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Fortress Forever Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "srcds.exe",
+                "arguments": "-game FortressForever",
+                "description": "Launch",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "329711": {
+            "name": "Fortress Forever Dedicated Server Content",
+            "manifests": {
+                "public": "9087959644111766100",
+                "beta": "7253176194661593925"
+            },
+            "maxsize": "2395731915"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3980769",
+                "timeupdated": "1562210363"
+            },
+            "beta": {
+                "buildid": "2534842",
+                "description": "",
+                "timeupdated": "1518890803"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "c9b80c5e0e6f1500c3bcd622c4e0de1c2aafc575",
+    "_size": 1274
+}

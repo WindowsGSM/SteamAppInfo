@@ -1,0 +1,50 @@
+{
+    "appid": "1050410",
+    "common": {
+        "name": "UP Server",
+        "type": "Tool",
+        "parent": "1050350",
+        "oslist": "windows",
+        "osarch": "",
+        "icon": "a95f2bda321f17fa80c7f0d55ee6b2fdc2482e4c",
+        "logo": "2cf37133087d49817b61c96a44ab03cd03ceefa0",
+        "logo_small": "2cf37133087d49817b61c96a44ab03cd03ceefa0_thumb",
+        "clienticon": "6fe7f5d71f9fd87a41eec58fe6ef1d7d28255b0e",
+        "clienttga": "598b175a683e4694a1bb76ce2eef0ae848808bb4",
+        "osextended": "",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "1050410"
+    },
+    "config": {
+        "installdir": "UP Server",
+        "launch": {
+            "0": {
+                "executable": "UP Server.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1050411": {
+            "name": "d Content",
+            "manifests": {
+                "public": "1300760384777371466"
+            },
+            "maxsize": "10240412"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4085646",
+                "timeupdated": "1565244969"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "f2caec91a25cf8817ee94e2026f3837e62050458",
+    "_size": 963
+}

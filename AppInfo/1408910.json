@@ -1,0 +1,53 @@
+{
+    "appid": "1408910",
+    "common": {
+        "name": "UGDL Dedicated Server",
+        "type": "Tool",
+        "parent": "1370300",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "",
+        "osextended": "",
+        "logo": "6c32a37b5abc8adefb0a677a712f38912b5135e9",
+        "logo_small": "6c32a37b5abc8adefb0a677a712f38912b5135e9_thumb",
+        "icon": "a6cc97c9e0eb2e0451497c615b844f162db9caa0",
+        "clienticon": "d79ac81b6c65dacf3507cfafe9be9f7e88f8632c",
+        "clienttga": "3a33b92146da6b5748321f414a23a4adf8a32a9b",
+        "gameid": "1408910"
+    },
+    "config": {
+        "installdir": "UGDL Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "Ultragun Dreamland.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1408911": {
+            "name": "UGDL Dedicated Server Content",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": "1309814701662243307"
+            },
+            "maxsize": "622521564"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5575425",
+                "timeupdated": "1600720161"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "916e0e8aa14982b060df6deded432add7c58cc79",
+    "_size": 1057
+}

@@ -1,0 +1,123 @@
+{
+    "appid": "4020",
+    "common": {
+        "name": "Garry's Mod Dedicated Server",
+        "type": "Tool",
+        "releasestate": "released",
+        "parent": "4000",
+        "gameid": "4020"
+    },
+    "extended": {
+        "checkpkgstate": "1",
+        "developer": "",
+        "gamedir": "ValveTestApp4020",
+        "homepage": "",
+        "icon": "",
+        "noservers": "0",
+        "sourcegame": "1",
+        "state": "eStateComingSoonNoPreload",
+        "visibleonlywhensubscribed": "1"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "GarrysModDS"
+    },
+    "depots": {
+        "overridescddb": "1",
+        "markdlcdepots": "0",
+        "4021": {
+            "name": "Garry's Mod Dedicated Server Content",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "2571124895181555952",
+                "chromium": "8490159965717592950",
+                "dev": "3848957584440262435",
+                "x86-64": "8490159965717592950"
+            },
+            "maxsize": "3709386805",
+            "encryptedmanifests": {
+                "addonsystem": {
+                    "encrypted_gid_2": "F9ED75E5ED6F1816C04CBDF1E4A63B38",
+                    "encrypted_size_2": "ED779B8159805405E82194CC1B74AD70"
+                }
+            }
+        },
+        "4022": {
+            "name": "Garry's Mod Dedicated Server Win32",
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": "6041329711616596441",
+                "chromium": "9071681026664604648",
+                "dev": "7715469410855647521",
+                "x86-64": "9071681026664604648"
+            },
+            "maxsize": "473890465",
+            "encryptedmanifests": {
+                "addonsystem": {
+                    "encrypted_gid_2": "A7DCC3BFD0D6CA7BE2D21E89E5341406",
+                    "encrypted_size_2": "39877E9AAEEBFF5C3EFCF44F8DA989E1"
+                }
+            }
+        },
+        "4023": {
+            "name": "Garry's Mod Dedicated Server Linux",
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": "7724521649890553552",
+                "chromium": "5383681678108187551",
+                "dev": "9065707680065039916",
+                "x86-64": "5383681678108187551"
+            },
+            "maxsize": "291162824",
+            "encryptedmanifests": {
+                "addonsystem": {
+                    "encrypted_gid_2": "DAF615926E256CEF460254E07DA8F58A",
+                    "encrypted_size_2": "646411432396B56ECC70F86A924AA9C4"
+                }
+            }
+        },
+        "workshopdepot": "0",
+        "branches": {
+            "public": {
+                "buildid": "8349305",
+                "timeupdated": "1646938749"
+            },
+            "addonsystem": {
+                "buildid": "2516155",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1518346461"
+            },
+            "chromium": {
+                "buildid": "8349101",
+                "description": "x86-64 but older",
+                "timeupdated": "1646938768"
+            },
+            "dev": {
+                "buildid": "8349078",
+                "description": "Development Branch",
+                "timeupdated": "1646934636"
+            },
+            "prerelease": {
+                "buildid": "8349305",
+                "description": "Pre-Release Branch",
+                "timeupdated": "1646937296"
+            },
+            "x86-64": {
+                "buildid": "8349101",
+                "description": "Testing 64-bit builds",
+                "timeupdated": "1646934907"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14190928,
+    "_sha": "c6a014673fe6688cc97d0bfa024d6f471ab248c7",
+    "_size": 2759
+}

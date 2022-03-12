@@ -1,0 +1,123 @@
+{
+    "appid": "1101560",
+    "common": {
+        "name": "灵魂筹码欧美服demo测试版 Soul at Stake US/EU Server Testing Demo",
+        "type": "Demo",
+        "parent": "690530",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "64",
+        "clienttga": "7447eb9e44dde18c36ae25a8343409b79fba2832",
+        "clienticon": "8f655602886a88689e02c01d192370ec74ee12e5",
+        "icon": "7d4e8f484d058a314daef29df820f2280d60c87d",
+        "has_adult_content": "1",
+        "has_adult_content_violence": "1",
+        "metacritic_name": "Soul at Stake Demo",
+        "small_capsule": {
+            "english": "capsule_231x87.jpg"
+        },
+        "header_image": {
+            "english": "header.jpg"
+        },
+        "store_asset_mtime": "1560924813",
+        "associations": {
+            "0": {
+                "type": "developer",
+                "name": "Chongming Studio"
+            },
+            "1": {
+                "type": "publisher",
+                "name": "Chongming Studio"
+            }
+        },
+        "primary_genre": "1",
+        "genres": {
+            "0": "1",
+            "1": "23",
+            "2": "3"
+        },
+        "category": {
+            "category_1": "1",
+            "category_36": "1",
+            "category_9": "1",
+            "category_38": "1",
+            "category_22": "1",
+            "category_29": "1",
+            "category_23": "1"
+        },
+        "supported_languages": {
+            "english": {
+                "supported": "true",
+                "full_audio": "true"
+            },
+            "schinese": {
+                "supported": "true",
+                "full_audio": "true",
+                "subtitles": "true"
+            }
+        },
+        "steam_release_date": "1561176180",
+        "gameid": "1101560"
+    },
+    "extended": {
+        "demoofappid": "690530",
+        "developer": "Chongming Studio",
+        "publisher": "Chongming Studio"
+    },
+    "config": {
+        "installdir": "Soul at Stake Demo",
+        "launch": {
+            "0": {
+                "executable": "SaS.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "228986": {
+            "name": "VC 2015 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29759921",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1101561": {
+            "name": "Soul at Stake Demo Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "141936362165869551"
+            },
+            "maxsize": "21188280169"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3973595",
+                "timeupdated": "1562059662"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "a40529827e3379fb06db70bfc7abf5a92a17a16e",
+    "_size": 2387
+}

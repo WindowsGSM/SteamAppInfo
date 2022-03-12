@@ -1,0 +1,122 @@
+{
+    "appid": "1722130",
+    "common": {
+        "name": "Birthright Dedicated Server",
+        "type": "Tool",
+        "parent": "1371760",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "logo": "6733330f2522c2390944ed5d3181ebc55145fe42",
+        "logo_small": "6733330f2522c2390944ed5d3181ebc55145fe42_thumb",
+        "icon": "6e9bf6f383495bc19494fea1d17ff4502e646b67",
+        "clienttga": "95504ea3578cdbe773c3439d49e95c57a948686b",
+        "clienticon": "c2ed4607f3d10bc481989b606569a50d1acca021",
+        "gameid": "1722130"
+    },
+    "config": {
+        "installdir": "Birthright Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "BirthrightServer.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1722131": {
+            "name": "Birthright Dedicated Server Content",
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "1192534173731153282",
+                "0.19.1": "4354222138232340694",
+                "0.19.2": "5817187121082051407",
+                "0.19.4": "616558848270099467",
+                "0.19.5": "8239207122395780994",
+                "0.19.6": "2242147631644608169"
+            },
+            "maxsize": "17969735922"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7960213",
+                "timeupdated": "1641058262"
+            },
+            "0.19.1": {
+                "buildid": "7804332",
+                "description": "Release",
+                "timeupdated": "1638486028"
+            },
+            "0.19.2": {
+                "buildid": "7818920",
+                "description": "Release",
+                "timeupdated": "1638486038"
+            },
+            "0.19.4": {
+                "buildid": "7850559",
+                "description": "Release",
+                "timeupdated": "1638996678"
+            },
+            "0.19.5": {
+                "buildid": "7897783",
+                "description": "Release",
+                "timeupdated": "1639688714"
+            },
+            "0.19.6": {
+                "buildid": "7928715",
+                "description": "Release",
+                "timeupdated": "1640200654"
+            },
+            "0.19.7": {
+                "buildid": "7960213",
+                "description": "Release",
+                "timeupdated": "1641058251"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "7b01ba5d34e3d2f462585bddfeb861ea9b47322c",
+    "_size": 2576
+}

@@ -1,0 +1,95 @@
+{
+    "appid": "423410",
+    "common": {
+        "name": "Blackwake Dedicated Server",
+        "type": "Tool",
+        "oslist": "windows",
+        "osarch": "64",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "423410"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Blackwake Dedicated Server"
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "423411": {
+            "name": "Blackwake Dedicated Server Content",
+            "manifests": {
+                "public": "5032640623346278518",
+                "laststable": "1449166235835234137"
+            },
+            "maxsize": "4007512304",
+            "encryptedmanifests": {
+                "pretest": {
+                    "encrypted_gid_2": "94DCA660DEFDACD5984D04D46189E139",
+                    "encrypted_size_2": "947675F4FC5F8AC606CC836C6D819DDD"
+                },
+                "publictest": {
+                    "encrypted_gid_2": "A1AFD0E9B916E18EB1D0B64D4BE655D9",
+                    "encrypted_size_2": "1FAA53619933384DCCA356627B556D62"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "5059939",
+                "timeupdated": "1590067678"
+            },
+            "laststable": {
+                "buildid": "4692850",
+                "description": "",
+                "timeupdated": "1588513389"
+            },
+            "pretest": {
+                "buildid": "1611455",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1486696917"
+            },
+            "publictest": {
+                "buildid": "3969070",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1561930866"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "fcfc66a2667506087101b6d06d1b5bb78fc34b1f",
+    "_size": 1924
+}

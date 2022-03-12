@@ -1,0 +1,127 @@
+{
+    "appid": "295230",
+    "common": {
+        "name": "Fistful of Frags Dedicated Server",
+        "type": "Tool",
+        "releasestate": "released",
+        "parent": "265630",
+        "oslist": "windows,linux",
+        "clienticon": "32891fd7ff06b545be17e422c27d555989735443",
+        "clienttga": "a32fad174d6485f97fb5319e4ef848546447785c",
+        "icon": "e70c19e10125ea3f221666327af2b90f3fcecad9",
+        "logo": "96455c4ec57504a5287c9239f52a068253691dfb",
+        "logo_small": "96455c4ec57504a5287c9239f52a068253691dfb_thumb",
+        "associations": {},
+        "gameid": "295230",
+        "exfgls": "1"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Fistful of Frags Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "srcds.exe",
+                "arguments": "-game fof",
+                "description": "Launch",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "./srcds_run",
+                "arguments": "-steam -game fof",
+                "description": "Launch",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "overridescddb": "1",
+        "295231": {
+            "name": "Fistfull of Frags Dedicated Server Content",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "6987822567926387508",
+                "beta": "2032614952952668483",
+                "upcoming": "4209535234746864213"
+            },
+            "maxsize": "2888541881",
+            "encryptedmanifests": {
+                "ranked_30": {
+                    "encrypted_gid_2": "21D7B1AA2ADA135D27A4FCBAB0E9FB6A",
+                    "encrypted_size_2": "6C9CFB31BBBB1CAA8EE2E48949E6F95E"
+                }
+            }
+        },
+        "295232": {
+            "name": "win",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "1698677889550380421",
+                "beta": "7036406250853843631",
+                "upcoming": "6467056708273920292"
+            },
+            "maxsize": "100091911",
+            "encryptedmanifests": {
+                "ranked_30": {
+                    "encrypted_gid_2": "5047887B4946D2B1DC1DC66A4BF023D4",
+                    "encrypted_size_2": "E16987FEFFCAF470A74239B29EC7ADCB"
+                }
+            }
+        },
+        "295233": {
+            "name": "linux",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "8222652000947473361",
+                "beta": "6165168814692247872",
+                "upcoming": "4760218327755568763"
+            },
+            "maxsize": "70754355",
+            "encryptedmanifests": {
+                "ranked_30": {
+                    "encrypted_gid_2": "20A585B8903C7DC4CE2CDFB74FF8E201",
+                    "encrypted_size_2": "86108CD781C874ADA49FA2ABF428E36F"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8117335",
+                "timeupdated": "1643629761"
+            },
+            "beta": {
+                "buildid": "1492681",
+                "description": "",
+                "timeupdated": "1480618526"
+            },
+            "ranked": {
+                "buildid": "8117482",
+                "description": "?¿",
+                "pwdrequired": "1",
+                "timeupdated": "1643631772"
+            },
+            "ranked_30": {
+                "buildid": "7831173",
+                "description": "¿?",
+                "pwdrequired": "1",
+                "timeupdated": "1638720245"
+            },
+            "upcoming": {
+                "buildid": "8353043",
+                "description": "",
+                "timeupdated": "1646991612"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14196908,
+    "_sha": "a49f26d92b4870297bcac8bfe9e334113b1877dd",
+    "_size": 2845
+}

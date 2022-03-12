@@ -1,0 +1,456 @@
+{
+    "appid": "369630",
+    "common": {
+        "name": "Mirage: Arcane Warfare - Dedicated Server",
+        "type": "Tool",
+        "parent": "368420",
+        "oslist": "windows",
+        "osarch": "",
+        "logo": "0fd453519712b88f565fc7fcb28d990c8e8e008b",
+        "logo_small": "0fd453519712b88f565fc7fcb28d990c8e8e008b_thumb",
+        "icon": "c0b61f2a0d0499217b8b947eab1a995966dfe3c8",
+        "clienticon": "bb13b878957142d222166847ccc42c30c77ca404",
+        "clienttga": "8fa8115e13fb80cc9e361c6979ce92aef843315d",
+        "releasestate": "released",
+        "metacritic_name": "Latte Dedicated Server",
+        "associations": {},
+        "steam_release_date": "1495584000",
+        "gameid": "369630"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Latte Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "DO NOT USE THIS",
+                "arguments": "TO-Ravine_p -log -messaging",
+                "description": "Launch",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228984": {
+            "name": "VC 2012 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "13742505",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "name": "VC 2013 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "13699237",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "369631": {
+            "name": "Latte Dedicated Server Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "2207009392577253325",
+                "local": "1746049304978712588"
+            },
+            "maxsize": "4314262126",
+            "encryptedmanifests": {
+                "531800_mm_test": {
+                    "encrypted_gid_2": "BDAF46D7C9755E31AE136FD3329C7AC0",
+                    "encrypted_size_2": "C52FC6A938CE288A7346142F39C47EBD"
+                },
+                "531800brady": {
+                    "encrypted_gid_2": "362081212F6347298191AE016754F1C7",
+                    "encrypted_size_2": "F6D69D62C9A8E16B33581E95457F99D0"
+                },
+                "531800latest": {
+                    "encrypted_gid_2": "E34F8D7F6C8F1969B0A2A59C1FCDDA9F",
+                    "encrypted_size_2": "F516994B41E0247F9AFDD26727357DBB"
+                },
+                "531800marketing": {
+                    "encrypted_gid_2": "8BB23CCADE9BCEE3FDB8D259FF2F0675",
+                    "encrypted_size_2": "A29EB927B6CE6E2A181734E402C7B3A0"
+                },
+                "531800nightly": {
+                    "encrypted_gid_2": "D6F15E31B6B82F1A3CB961A616D054C8",
+                    "encrypted_size_2": "13C4439BC6FE66C9F543D01EADC1A48E"
+                },
+                "531800open_beta": {
+                    "encrypted_gid_2": "E5D178C538C4DDDB5672D061CF19E3BA",
+                    "encrypted_size_2": "E5CBF814916C6FB7D0EB9156B207A434"
+                },
+                "amg_alchemancer": {
+                    "encrypted_gid_2": "958592F6ACD87DD998898647C00D798C",
+                    "encrypted_size_2": "63BCCDE488E83FD3B5BEA52278DC5187"
+                },
+                "beta_1_cl_70050": {
+                    "encrypted_gid_2": "CE787F412D48CFDB2E7247750CA9FFEE",
+                    "encrypted_size_2": "DE173BE7E96AF2CF7D144D59BD2D32C0"
+                },
+                "beta_2_cl_71491": {
+                    "encrypted_gid_2": "527D8F41F0F358CE27743726CBC2F440",
+                    "encrypted_size_2": "66919BB0D0F2B04487CC7E39F8772D79"
+                },
+                "beta_4_cl_73696": {
+                    "encrypted_gid_2": "465D2DBCA35591BB3ABF02983FC1AF50",
+                    "encrypted_size_2": "6B9DFBC2265677F548B0BE1BCC0B0969"
+                },
+                "continuous": {
+                    "encrypted_gid_2": "C606EBCD1ABB1DB4BEC53660DC28BBCE",
+                    "encrypted_size_2": "C659622BD1E540F6C97530166D3FD4DA"
+                },
+                "gdc_server": {
+                    "encrypted_gid_2": "3B8EDB8EA143A5A7846E07DDD4F8495E",
+                    "encrypted_size_2": "6A74527FD3274B26E982F14DCCB30BF0"
+                },
+                "hosting": {
+                    "encrypted_gid_2": "B78EFD08BF03634122D65FDBAAC481B9",
+                    "encrypted_size_2": "893F150588DEC1272D2FAB0A07C153A5"
+                },
+                "last_live": {
+                    "encrypted_gid_2": "606D1C07FD6B72AC08DD1EBB2842B082",
+                    "encrypted_size_2": "88B02FD6610B79826FE7E57A57637BB8"
+                },
+                "marketing2": {
+                    "encrypted_gid_2": "A5A783390115D926E5311CC7CC0CB731",
+                    "encrypted_size_2": "FF41D538C0BEC362B52929CA65D07938"
+                },
+                "mirage_launch": {
+                    "encrypted_gid_2": "DCC335CEFAD17CCE6A952F62AB0BE16C",
+                    "encrypted_size_2": "000C8003A1A73D159E80E576326EF5E2"
+                },
+                "mirage_live": {
+                    "encrypted_gid_2": "224C1E72E7AF43339C3632FEC6C0AC57",
+                    "encrypted_size_2": "65B7C3591D47F2E3FC9A590B0992E90D"
+                },
+                "nightly": {
+                    "encrypted_gid_2": "F47F10CA0EC85B0934272639EB2D46DE",
+                    "encrypted_size_2": "4701CC2257BEA90AB3C03B265C056D51"
+                },
+                "pax_archive": {
+                    "encrypted_gid_2": "A02CDB5995AA233744A93C189B964398",
+                    "encrypted_size_2": "4A9A1DE098BFE09D6336FDB0FA570CB4"
+                },
+                "pc_gamer": {
+                    "encrypted_gid_2": "D3A0756B48AB0A96099D175E9B042131",
+                    "encrypted_size_2": "87DE34E075FFF202FC4DC594866C6C38"
+                },
+                "trailer": {
+                    "encrypted_gid_2": "CDDD75130D58FD889D7A4DCBCC3ED739",
+                    "encrypted_size_2": "DFF5EDC85910A7A67405CD11579030F5"
+                },
+                "withlinux": {
+                    "encrypted_gid_2": "CB32AAB0339696A9A9416DFE00AF472C",
+                    "encrypted_size_2": "47F8376EE1A144581C7C83005ED7B904"
+                }
+            }
+        },
+        "369632": {
+            "name": "Latte Dedicated Server -- Linux",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "4779218272992616394"
+            },
+            "encryptedmanifests": {
+                "hosting": {
+                    "encrypted_gid_2": "D1FF175F8138A18418C7CFB4CEAFF1D4",
+                    "encrypted_size_2": "6AA89E3645F34CD7A52655EC77BE7F48"
+                },
+                "pax_archive": {
+                    "encrypted_gid_2": "F50A4B0EAD8247E4DE355A6B83221E07",
+                    "encrypted_size_2": "6AD6AA10B3BDFD60EE342042F34BEC11"
+                },
+                "withlinux": {
+                    "encrypted_gid_2": "53BFBF6383962305F6EC65D19A6FA941",
+                    "encrypted_size_2": "B2DC6D81F78017EA3C85F61594F58EE0"
+                }
+            }
+        },
+        "369633": {
+            "name": "Latte Dedicated Server -- Dev Binaries Depot",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "6431627440438571323"
+            },
+            "maxsize": "2316046336",
+            "encryptedmanifests": {
+                "531800_mm_test": {
+                    "encrypted_gid_2": "3A82A76D652CF09A47AAFE7B0DFD53A2",
+                    "encrypted_size_2": "93936342BD5CC8F51734CEB1B81A65DB"
+                },
+                "531800brady": {
+                    "encrypted_gid_2": "7038F37DCEA020C746F7D3568D7A81C4",
+                    "encrypted_size_2": "39940A3BF13C401F994C68603038E5C6"
+                },
+                "531800latest": {
+                    "encrypted_gid_2": "3610DEF3219DC28FF179548CF864A560",
+                    "encrypted_size_2": "0683CAA8C49AEAA7379AC36049D04D12"
+                },
+                "531800marketing": {
+                    "encrypted_gid_2": "858DC9A2FD5C711B17D762AE9E7A10C4",
+                    "encrypted_size_2": "BEC1D3AF9AEF6CD988AAC60192E8F237"
+                },
+                "531800nightly": {
+                    "encrypted_gid_2": "02362FBE2E45E9B51AC411C6B7D48E5C",
+                    "encrypted_size_2": "B46FFA2F725C8C2EAED1E2B90249D7F7"
+                },
+                "531800open_beta": {
+                    "encrypted_gid_2": "951F8012526772FED4ABF47C7D9C2EE7",
+                    "encrypted_size_2": "8BCF447D7EDD268D74FB4A6211D2CB42"
+                },
+                "amg_alchemancer": {
+                    "encrypted_gid_2": "55CA35EA19A1505267B570FC25EEAB13",
+                    "encrypted_size_2": "5326EF50FF65733489449DDCC86DB851"
+                },
+                "beta_1_cl_70050": {
+                    "encrypted_gid_2": "55DF0E411452DADF1E09B23627810600",
+                    "encrypted_size_2": "F3BEF79D405E1B00608CCC4C499332DF"
+                },
+                "beta_2_cl_71491": {
+                    "encrypted_gid_2": "7129B76701B7C113CBF24646D9960B9D",
+                    "encrypted_size_2": "B6BDDB931E7C84AFB2060A5571F16002"
+                },
+                "beta_4_cl_73696": {
+                    "encrypted_gid_2": "61FBCB2C2CFBE74488BD525471531F1D",
+                    "encrypted_size_2": "10A60AB22284F54662042AE72427257E"
+                },
+                "last_live": {
+                    "encrypted_gid_2": "BA2E353482F69FADAFE9C3AEBB71EF5C",
+                    "encrypted_size_2": "256478E590CAC70049DCBF95B5639C18"
+                },
+                "marketing2": {
+                    "encrypted_gid_2": "82F87DF2E8874EA87F7711FEADF3D260",
+                    "encrypted_size_2": "C728448EDFAA24666AE6E70832EEFC77"
+                },
+                "mirage_launch": {
+                    "encrypted_gid_2": "927D025AFEB37E0C2F2144E5C853CA1F",
+                    "encrypted_size_2": "9C986176A8AC29ACEE6A108BE22CD553"
+                },
+                "mirage_live": {
+                    "encrypted_gid_2": "BBA14C1782D1E788E37DA4F8C030E851",
+                    "encrypted_size_2": "A153C55675744DE2240C01CDD406F8C9"
+                },
+                "nightly": {
+                    "encrypted_gid_2": "61B49095D9A4B2F983CE5C51E4BCD6E5",
+                    "encrypted_size_2": "080773D1104604E739B8EE00D50A560C"
+                },
+                "pc_gamer": {
+                    "encrypted_gid_2": "6945258B2D76B442D2F1B0FE87914BEF",
+                    "encrypted_size_2": "C80FAA5A45F877DAF49D5C1848DACEAC"
+                },
+                "trailer": {
+                    "encrypted_gid_2": "BE93DF019A101A2CAAE39A25151370FE",
+                    "encrypted_size_2": "3F9D1130A9E570A2703A7938D5AAAFBB"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "2157534",
+                "timeupdated": "1506719813"
+            },
+            "531800_mm_test": {
+                "buildid": "1936631",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1499194722"
+            },
+            "531800brady": {
+                "buildid": "1681719",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1490023522"
+            },
+            "531800latest": {
+                "buildid": "1817005",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1494567140"
+            },
+            "531800marketing": {
+                "buildid": "1805229",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1494200375"
+            },
+            "531800nightly": {
+                "buildid": "2164470",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1506924212"
+            },
+            "531800open_beta": {
+                "buildid": "1817005",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1494637481"
+            },
+            "amg_alchemancer": {
+                "buildid": "1713916",
+                "description": "for amg (B1)",
+                "pwdrequired": "1",
+                "timeupdated": "1491492580"
+            },
+            "beta_1_cl_70050": {
+                "buildid": "1713916",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1490620693"
+            },
+            "beta_2_cl_71491": {
+                "buildid": "1751036",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1492032313"
+            },
+            "beta_4_cl_73696": {
+                "buildid": "1801505",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1494015688"
+            },
+            "continuous": {
+                "buildid": "1131031",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1463464221"
+            },
+            "gdc_server": {
+                "buildid": "962095",
+                "description": "",
+                "pwdrequired": "1"
+            },
+            "hosting": {
+                "buildid": "1130410",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1463582697"
+            },
+            "last_live": {
+                "buildid": "1907007",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1500500138"
+            },
+            "latest": {
+                "buildid": "2157534",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1506644575"
+            },
+            "local": {
+                "buildid": "1338613",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1473987094"
+            },
+            "marketing2": {
+                "buildid": "1819616",
+                "description": "for marketing",
+                "pwdrequired": "1",
+                "timeupdated": "1494885394"
+            },
+            "mirage_launch": {
+                "buildid": "1838560",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1495546166"
+            },
+            "mirage_live": {
+                "buildid": "2063791",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1505226657"
+            },
+            "nightly": {
+                "buildid": "2114228",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1505834669"
+            },
+            "pax_archive": {
+                "buildid": "1075490",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1462224670"
+            },
+            "pc_gamer": {
+                "buildid": "1634131",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1487196405"
+            },
+            "trailer": {
+                "buildid": "1562005",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1484109461"
+            },
+            "withlinux": {
+                "buildid": "892205",
+                "description": "",
+                "pwdrequired": "1"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "54a19a23e7a11d87fc41031d53c1a884d609122a",
+    "_size": 12326
+}

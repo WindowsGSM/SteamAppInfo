@@ -1,0 +1,117 @@
+{
+    "appid": "908290",
+    "common": {
+        "name": "Server Composer",
+        "type": "Application",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "",
+        "eulas": {
+            "0": {
+                "id": "908290_eula_0",
+                "name": "ColdByte Server Composer EULA",
+                "url": "https://store.steampowered.com//eula/908290_eula_0"
+            }
+        },
+        "logo": "7203784432b2ca9680ec6dc0dcb5505ec4f1b679",
+        "logo_small": "7203784432b2ca9680ec6dc0dcb5505ec4f1b679_thumb",
+        "icon": "3e46f381c1bcde6d56d86836552d20d24f67d71f",
+        "clienttga": "62f412d4bae881619570621dc547eee477e6060f",
+        "clienticon": "223b018e163a332cf8c33969a7148b459b0ea2f0",
+        "small_capsule": {
+            "english": "capsule_231x87.jpg"
+        },
+        "header_image": {
+            "english": "header.jpg"
+        },
+        "store_asset_mtime": "1644553891",
+        "associations": {
+            "0": {
+                "type": "developer",
+                "name": "Soqueto"
+            },
+            "1": {
+                "type": "developer",
+                "name": "ColdByte"
+            },
+            "2": {
+                "type": "publisher",
+                "name": "Soqueto"
+            }
+        },
+        "primary_genre": "57",
+        "genres": {
+            "0": "54",
+            "1": "56",
+            "2": "57",
+            "3": "59"
+        },
+        "supported_languages": {
+            "english": {
+                "supported": "true"
+            }
+        },
+        "steam_release_date": "1540578620",
+        "community_hub_visible": "1",
+        "gameid": "908290",
+        "exfgls": "1",
+        "store_tags": {
+            "0": "87",
+            "1": "1036",
+            "2": "1038",
+            "3": "1445"
+        }
+    },
+    "extended": {
+        "anti_cheat_support_url": "https://www.easy.ac/r/steam/gamebans/?steamAppId=908290",
+        "developer": "Soqueto",
+        "publisher": "Soqueto",
+        "homepage": "https://www.soqueto.com/sc"
+    },
+    "config": {
+        "installdir": "Server Composer",
+        "launch": {
+            "0": {
+                "executable": "ide.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "228987": {
+            "name": "VC 2017 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29664201",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "908291": {
+            "name": "Server Composer Content",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "3527708748430899726"
+            },
+            "maxsize": "11049664"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7993793",
+                "timeupdated": "1641783558"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 13926259,
+    "_sha": "17df94494f89b2dd8a3dab23ed66b677b20da59e",
+    "_size": 2278
+}

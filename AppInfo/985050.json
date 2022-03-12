@@ -1,0 +1,86 @@
+{
+    "appid": "985050",
+    "common": {
+        "name": "Action: Source Dedicated Server",
+        "type": "Tool",
+        "parent": "977050",
+        "oslist": "windows,linux",
+        "osarch": "",
+        "logo": "d87aef6019232d26398fe7c96b3b2c4a60193583",
+        "logo_small": "d87aef6019232d26398fe7c96b3b2c4a60193583_thumb",
+        "icon": "eda54166cf9f1ddd13d69bf7c0323293009537ac",
+        "clienttga": "3be1c3bb108b49e0efa255a380502561d324a88c",
+        "clienticon": "f97b96f955fe34460c8bc903e45f9ca2c1670803",
+        "releasestate": "released",
+        "associations": {},
+        "community_hub_visible": "1",
+        "gameid": "985050",
+        "exfgls": "1"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "installdir": "Action Source Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "srcds.exe",
+                "arguments": "-game ahl2",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "srcds_run",
+                "arguments": "-game ahl2",
+                "type": "default",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "977051": {
+            "name": "Action Source Content",
+            "manifests": {
+                "public": "949745137295664055"
+            },
+            "maxsize": "3140868914",
+            "depotfromapp": "977050"
+        },
+        "985051": {
+            "name": "Action: Source Windows Dedicated Server Base",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "1948420736167760978"
+            },
+            "maxsize": "715548309"
+        },
+        "985052": {
+            "name": "Action: Source Linux Dedicated Server Base",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "8964205574984978646"
+            },
+            "maxsize": "674247188"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3632040",
+                "timeupdated": "1552190729"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "2e602c3755d0b2ea2cabf2fe6ee7f51c82fb3dca",
+    "_size": 1739
+}

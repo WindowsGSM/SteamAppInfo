@@ -1,0 +1,89 @@
+{
+    "appid": "950290",
+    "common": {
+        "name": "Dedicated Server",
+        "type": "Tool",
+        "parent": "840820",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "64",
+        "clienttga": "08d76634695da0d502fa258bd68198f815ac6935",
+        "clienticon": "406f21dde33a66c700290f39c87f634d81825733",
+        "icon": "487151ec3dea79491289d60940d056ccbbff71d7",
+        "logo": "9c4fc90969ee6d2f06d18916787d87f961691094",
+        "logo_small": "9c4fc90969ee6d2f06d18916787d87f961691094_thumb",
+        "associations": {},
+        "gameid": "950290",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "ReadyOrNotServer.exe",
+                "type": "server"
+            }
+        },
+        "uselaunchcommandline": "1"
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "950291": {
+            "name": "Dedicated Server Content",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "6812729414507585272",
+                "experimental": "2256082679757463660"
+            },
+            "maxsize": "1595559078"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4133022",
+                "timeupdated": "1566568950"
+            },
+            "experimental": {
+                "buildid": "4514033",
+                "description": "",
+                "timeupdated": "1576818576"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "5b4eceff48a70ef1ce8eb14aaed83cae98abcac5",
+    "_size": 1796
+}

@@ -1,0 +1,91 @@
+{
+    "appid": "1231430",
+    "common": {
+        "name": "CFToolServer",
+        "type": "Tool",
+        "parent": "1187920",
+        "icon": "1fc36ff4986b54d6bcb4219a2c2e074e810f75ee",
+        "logo": "8b2e9828d1c23f5f768ed7f35bc2d3aa70977a0e",
+        "logo_small": "8b2e9828d1c23f5f768ed7f35bc2d3aa70977a0e_thumb",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "clienttga": "55a0f7decb296b5b3f03660c7c8a3dd2336b70bb",
+        "clienticon": "62d88c211a3ba703bf2f22e53b522504e051fef0",
+        "linuxclienticon": "63a3133f34a9fd47a322bf90f8cd56235c62a872",
+        "clienticns": "ca546335e14d629d06498c84cb91a1fafc8ffacb",
+        "releasestate": "released",
+        "gameid": "1231430",
+        "exfgls": "1"
+    },
+    "extended": {
+        "gamedir": "Countrified",
+        "serverbrowsername": "Countrified"
+    },
+    "config": {
+        "installdir": "CountrifiedToolServer",
+        "launch": {
+            "0": {
+                "executable": "Countrified\\Binaries\\Win64\\CountrifiedServer.exe",
+                "arguments": "-log",
+                "type": "none"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1231431": {
+            "name": "CountrifiedToolServer Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": "4637791487145696818"
+            },
+            "maxsize": "399046982"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6745628",
+                "timeupdated": "1621793409"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "281644bc153ab9de492d73098ebca4f32b9a8f5c",
+    "_size": 1916
+}

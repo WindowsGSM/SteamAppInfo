@@ -1,0 +1,68 @@
+{
+    "appid": "1757540",
+    "common": {
+        "name": "Axial Drift Dedicated Server",
+        "type": "Tool",
+        "parent": "1707030",
+        "releasestate": "released",
+        "logo": "b75d8a4c02eba7c8746af169bc137ab69afb53cf",
+        "logo_small": "b75d8a4c02eba7c8746af169bc137ab69afb53cf_thumb",
+        "icon": "8a32b11cf4d8d69de61693e82121915ed6bf9dc5",
+        "clienticon": "2835d52e62524699d03d5924bed3f12cc7478e14",
+        "clienttga": "da26f7d4fcd7d51a0f285c2d2b0e035e6d0e3e7c",
+        "gameid": "1757540"
+    },
+    "config": {
+        "installdir": "TRILEGY Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "ArenaVRServer.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1757541": {
+            "name": "Axial Drift Dedicated Server Content",
+            "manifests": {
+                "public": "1822842371583909236"
+            },
+            "maxsize": "477106387"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "8237739",
+                "timeupdated": "1645324144"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14010948,
+    "_sha": "b978253b5883cb6eb84ec6281b4407fea25a9474",
+    "_size": 1385
+}

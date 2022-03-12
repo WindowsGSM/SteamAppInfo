@@ -1,0 +1,87 @@
+{
+    "appid": "216280",
+    "common": {
+        "name": "Serious Sam 3 - Linux DedServer",
+        "type": "Tool",
+        "gameid": "216280"
+    },
+    "extended": {
+        "developer": "",
+        "gamedir": "Serious Sam 3 - Linux Dedicated Server",
+        "homepage": "",
+        "icon": "",
+        "noservers": "0",
+        "sourcegame": "1",
+        "state": "eStateAvailable",
+        "thirdpartycdkey": "1",
+        "visibleonlywhensubscribed": "1"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Serious Sam 3 - Linux Dedicated Server"
+    },
+    "depots": {
+        "41078": {
+            "name": "SS3_Common_Linux",
+            "systemdefined": "1",
+            "manifests": {},
+            "encryptedmanifests": {
+                "closedbeta": {
+                    "encrypted_gid_2": "712DBB7125F1B2AE9CDCC01A1325F83A",
+                    "encrypted_size_2": "75A072A35CCF7C6700ED6D7E359CCD0D"
+                },
+                "internal": {
+                    "encrypted_gid_2": "7160AFAC18AC1DB28CDB7CDC48412836",
+                    "encrypted_size_2": "79FA0599A24F22AEF755B9AF6CDB0ABA"
+                }
+            }
+        },
+        "41083": {
+            "name": "SS3_ServerBin_Linux",
+            "systemdefined": "1",
+            "manifests": {},
+            "encryptedmanifests": {
+                "closedbeta": {
+                    "encrypted_gid_2": "EC7BCE1BE5004EF4EA56A81AA637729D",
+                    "encrypted_size_2": "F599994658A0FCB1C4E72B53E29EA9DC"
+                },
+                "internal": {
+                    "encrypted_gid_2": "055FE61A0709AE96465EC7F24443A57B",
+                    "encrypted_size_2": "C42474C73E0603193282020B2ACB12AC"
+                }
+            }
+        },
+        "41084": {
+            "name": "SS3_GameBin_Linux",
+            "manifests": {},
+            "encryptedmanifests": {
+                "closedbeta": {
+                    "encrypted_gid_2": "BDED92D89BEC88E42D4810BCCD848AF3",
+                    "encrypted_size_2": "B494F22E99CE895FD3D5E2B8E9318144"
+                },
+                "internal": {
+                    "encrypted_gid_2": "A912F98E2ACF48AF950AFA6586F40F1B",
+                    "encrypted_size_2": "E07D26BA8BBAB271BBE8E1D8D428B8B1"
+                }
+            }
+        },
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "branches": {
+            "closedbeta": {
+                "buildid": "8180",
+                "description": "Testers, IHVs...",
+                "pwdrequired": "1"
+            },
+            "internal": {
+                "buildid": "8180",
+                "description": "Internal testing",
+                "pwdrequired": "1"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "1128fc871a9036e95d4c1849c56fc1cef57c93d4",
+    "_size": 2026
+}

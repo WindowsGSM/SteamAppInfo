@@ -1,0 +1,75 @@
+{
+    "appid": "8680",
+    "common": {
+        "clienttga": "d774f43ddc03db89d1f157a54282798d9f7cda56",
+        "name": "RACE 07 Demo - Crowne Plaza Edition Dedicated Server",
+        "type": "Tool",
+        "freeondemand": "1",
+        "gameid": "8680"
+    },
+    "extended": {
+        "developer": "SimBin Studios",
+        "gamedir": "RACE 07 Demo Crowne Plaza Dedicated Server",
+        "homepage": "http://www.race-game.org/race07/index.php",
+        "icon": "steam/games/icon_CrownePlaza",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "8604",
+        "serverbrowsername": "",
+        "state": "eStateTool",
+        "visibleonlywheninstalled": "1"
+    },
+    "config": {
+        "contenttype": "3",
+        "convertgcfs": "1",
+        "installdir": "RACE 07 Demo Crowne Plaza Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "RaceDemoDedicatedServer_Steam.exe"
+            }
+        }
+    },
+    "depots": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "8604": {
+            "name": "RACE 07 CrownePlaza",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "7963520296699615963"
+            },
+            "maxsize": "127104449",
+            "depotfromapp": "8650"
+        },
+        "4261": {
+            "name": "Race07 Demo Content",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "637215948742709402"
+            },
+            "maxsize": "552637440",
+            "depotfromapp": "4260"
+        },
+        "1004": {
+            "name": "Steamworks SDK Redist (Win32)",
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "3578600867548439549"
+            },
+            "maxsize": "9662208",
+            "depotfromapp": "1002"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11257"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "8ae34b94766a90d4d74843adbca3a05c434fa70e",
+    "_size": 1530
+}

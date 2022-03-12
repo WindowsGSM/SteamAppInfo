@@ -1,0 +1,82 @@
+{
+    "appid": "426660",
+    "common": {
+        "name": "Robot Roller-Derby Disco Dodgeball Dedicated Server",
+        "type": "Tool",
+        "oslist": "windows",
+        "logo": "36767415e8730436f680d536fd4817fcf54d2ec8",
+        "logo_small": "36767415e8730436f680d536fd4817fcf54d2ec8_thumb",
+        "icon": "4541ff8854e36cabfe3f5e57e46e9ffbba385eaa",
+        "clienticon": "17d7eb361e92285bdbc262c3de5d6db6804ae7df",
+        "clienttga": "4dde54a8ebb0c89026980a0864a343c5fcc4b0a4",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "426660"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Disco Dodgeball Server",
+        "launch": {
+            "0": {
+                "executable": "Disco Dodgeball Server.exe",
+                "type": "none",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "426661": {
+            "name": "Robot Roller-Derby Disco Dodgeball Dedicated Server Content",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "1504670342620334001"
+            },
+            "maxsize": "30870434"
+        },
+        "branches": {
+            "public": {
+                "buildid": "974327"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "2369fd126fc2d1c100b9982f6a868b2ea8972aa1",
+    "_size": 1679
+}

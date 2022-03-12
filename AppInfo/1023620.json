@@ -1,0 +1,78 @@
+{
+    "appid": "1023620",
+    "common": {
+        "name": "PlayerVs Dedicated Server",
+        "type": "Tool",
+        "parent": "907100",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "logo": "ccd3ff3769b5398b274f5faab0b245ed365a80ad",
+        "logo_small": "ccd3ff3769b5398b274f5faab0b245ed365a80ad_thumb",
+        "icon": "0045b9bdf69f5f2a6119b3127cb0fc203c2e7515",
+        "clienttga": "e7bb11761850e821ddd1f1f1afbf799d81f5e0bd",
+        "clienticon": "8a0243fd987b6591252742d1f8a67c1e6200c8e6",
+        "associations": {},
+        "gameid": "1023620",
+        "exfgls": "1"
+    },
+    "extended": {
+        "gamedir": "playervs",
+        "serverbrowsername": "PlayerVs"
+    },
+    "config": {
+        "installdir": "playervs-dedicated",
+        "launch": {
+            "0": {
+                "executable": "PlayerVsServer.exe",
+                "type": "server",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "PlayerVsServer.sh",
+                "type": "server",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1023621": {
+            "name": "PlayerVs Dedicated Server Win64",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "5382506409424274139"
+            },
+            "maxsize": "187346150"
+        },
+        "1023622": {
+            "name": "PlayerVs Dedicated Server Linux64",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "4971112848633206168"
+            },
+            "maxsize": "2324164838"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3602387",
+                "timeupdated": "1551333998"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "3996f0afc23b25de90523c12ff406a71bd7abbc2",
+    "_size": 1540
+}

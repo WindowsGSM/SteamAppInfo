@@ -1,0 +1,143 @@
+{
+    "appid": "1041160",
+    "common": {
+        "name": "Observers",
+        "type": "Game",
+        "releasestate": "released",
+        "oslist": "windows,macos",
+        "osarch": "",
+        "logo": "56b5b67b843343c7011b0930e250d2bebe2289f8",
+        "logo_small": "56b5b67b843343c7011b0930e250d2bebe2289f8_thumb",
+        "icon": "876db806509aaf56616d3a95a4c2cc2c91aed0cf",
+        "clienticon": "b9ae6c25e495d6eaaa64ca2a44e9b98599159b36",
+        "clienttga": "13622cff8c8d9795eff63d45353705eb1fccbfe5",
+        "clienticns": "b9ae6c25e495d6eaaa64ca2a44e9b98599159b36",
+        "metacritic_name": "Observers",
+        "controller_support": "partial",
+        "small_capsule": {
+            "english": "capsule_231x87.jpg"
+        },
+        "header_image": {
+            "english": "header.jpg"
+        },
+        "library_assets": {
+            "library_logo": "en"
+        },
+        "store_asset_mtime": "1610314162",
+        "associations": {
+            "0": {
+                "type": "developer",
+                "name": "ShooStudios"
+            },
+            "1": {
+                "type": "publisher",
+                "name": "ShooStudios"
+            }
+        },
+        "primary_genre": "4",
+        "genres": {
+            "0": "1",
+            "1": "25",
+            "2": "4",
+            "3": "23",
+            "4": "2"
+        },
+        "category": {
+            "category_1": "1",
+            "category_37": "1",
+            "category_9": "1",
+            "category_39": "1",
+            "category_24": "1",
+            "category_18": "1",
+            "category_49": "1",
+            "category_44": "1"
+        },
+        "supported_languages": {
+            "english": {
+                "supported": "true"
+            }
+        },
+        "steam_release_date": "1554824166",
+        "community_hub_visible": "1",
+        "gameid": "1041160",
+        "store_tags": {
+            "0": "3859",
+            "1": "7368",
+            "2": "1755",
+            "3": "1685",
+            "4": "4305",
+            "5": "3871",
+            "6": "4726",
+            "7": "4136",
+            "8": "1621",
+            "9": "3798",
+            "10": "5379",
+            "11": "3841",
+            "12": "1625",
+            "13": "3968",
+            "14": "599",
+            "15": "5537",
+            "16": "3877",
+            "17": "1719",
+            "18": "3964",
+            "19": "4195"
+        }
+    },
+    "extended": {
+        "absolutemousecoordinates": "0",
+        "remoteplaytogethertestingbranches": "default",
+        "developer": "ShooStudios",
+        "publisher": "ShooStudios"
+    },
+    "config": {
+        "installdir": "Observers",
+        "launch": {
+            "0": {
+                "executable": "Observers.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "Contents\\MacOS\\Observers_Mac",
+                "type": "default",
+                "config": {
+                    "oslist": "macos"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1041161": {
+            "name": "Observers Content",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "3378326851202013034"
+            },
+            "maxsize": "298879954"
+        },
+        "1041162": {
+            "name": "Observers Depot Mac",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "5545391092236353739"
+            },
+            "maxsize": "297557330"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6142988",
+                "timeupdated": "1611713754"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "364eb7178712e4dbe0afc249a2de4c34ae1acef9",
+    "_size": 2702
+}

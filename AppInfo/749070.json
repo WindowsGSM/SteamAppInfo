@@ -1,0 +1,90 @@
+{
+    "appid": "749070",
+    "common": {
+        "name": "Ymir dedicated server",
+        "type": "Tool",
+        "parent": "378360",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "",
+        "clienticon": "20361c67e969100754c7552f79e35107774ceab7",
+        "clienttga": "671ebea85fd0f9bdac1b2141afa4b70c51756bde",
+        "icon": "b60d2095711c03a634e454822325eebe7b7b3863",
+        "logo": "74d3b8288c098c183f35e61dba2996007fc44947",
+        "logo_small": "74d3b8288c098c183f35e61dba2996007fc44947_thumb",
+        "associations": {},
+        "gameid": "749070",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "Ymir dedicated server",
+        "launch": {
+            "0": {
+                "executable": "Ymir.exe",
+                "type": "none",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "228984": {
+            "name": "VC 2012 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "13742505",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "749071": {
+            "name": "Ymir dedicated server > main depot",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "8405741216229331523",
+                "previous_version": "3249174008069649385"
+            },
+            "maxsize": "930077898"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8288023",
+                "timeupdated": "1646068615"
+            },
+            "development": {
+                "buildid": "8288023",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1646067336"
+            },
+            "previous_version": {
+                "buildid": "8260910",
+                "description": "Previous version of the game",
+                "timeupdated": "1646068573"
+            },
+            "testers": {
+                "buildid": "8288023",
+                "description": "",
+                "timeupdated": "1646068560"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14090021,
+    "_sha": "76b49ebcbbf836980d9e6c65f080a7ded6526304",
+    "_size": 1848
+}

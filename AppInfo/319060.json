@@ -1,0 +1,104 @@
+{
+    "appid": "319060",
+    "common": {
+        "name": "Lambda Wars Dedicated Server",
+        "type": "Tool",
+        "releasestate": "released",
+        "parent": "270370",
+        "oslist": "windows",
+        "logo": "c4caa84924ff69c0c6921c7b5379eabf73f983d0",
+        "logo_small": "c4caa84924ff69c0c6921c7b5379eabf73f983d0_thumb",
+        "icon": "14dabc87a5c77a80a86eaca8a67b30b8a462fc62",
+        "clienttga": "a860ac4fb288f66dd22cd76f078fcb39ae7698bd",
+        "clienticon": "9d1367b9aeaa2ca973d1d286a8088712d8567271",
+        "associations": {},
+        "community_hub_visible": "1",
+        "gameid": "319060",
+        "exfgls": "1"
+    },
+    "extended": {
+        "gamedir": "lambdawars"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Lambda Wars Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "srcds.exe",
+                "arguments": "-game lambdawars",
+                "description": "Launch"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "319061": {
+            "name": "Lambda Wars Dedicated Server Content",
+            "manifests": {
+                "public": "8837973745549879133"
+            },
+            "maxsize": "231524"
+        },
+        "270371": {
+            "name": "Lambda Wars Content",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "3648697680421550019"
+            },
+            "maxsize": "5469774194",
+            "encryptedmanifests": {
+                "lwgo": {
+                    "encrypted_gid_2": "28A9D8E1932716ED7256637D95955FA1",
+                    "encrypted_size_2": "9E9ACA24D1FB9C28B78229D1A71EAD39"
+                }
+            },
+            "depotfromapp": "270370"
+        },
+        "branches": {
+            "public": {
+                "buildid": "426875"
+            },
+            "lwgo": {
+                "buildid": "5819217",
+                "description": "Go Development",
+                "pwdrequired": "1",
+                "timeupdated": "1605164504"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "1bc4437a7ebc364266e743485b77cde169a79446",
+    "_size": 2185
+}

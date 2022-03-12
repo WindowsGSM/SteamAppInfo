@@ -1,0 +1,51 @@
+{
+    "appid": "1875500",
+    "common": {
+        "name": "Treason Dedicated Server",
+        "type": "Tool",
+        "parent": "1786950",
+        "clienttga": "32125fbac667e80197071890c550ea4e1d8f382f",
+        "clienticon": "aa57178f5ce969c469298960cdd277072f3fa81f",
+        "icon": "f11f56a907aca901bc0c7482dfc4ff366efc853d",
+        "logo": "631b460ea3ae4ef28501a31f404c9e3aa94a0b81",
+        "logo_small": "631b460ea3ae4ef28501a31f404c9e3aa94a0b81_thumb",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "",
+        "osextended": "",
+        "gameid": "1875500",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "Treason Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "srcds.exe",
+                "arguments": "-game treason",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1875501": {
+            "name": "Treason Dedicated Server Content",
+            "manifests": {
+                "public": "482558746444818094"
+            },
+            "maxsize": "1686073993"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8024810",
+                "timeupdated": "1642206986"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 13664340,
+    "_sha": "9c3d1d50ed5acd1207dcc34bc72e5c96b8a63408",
+    "_size": 1037
+}

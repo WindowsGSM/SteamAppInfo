@@ -1,0 +1,93 @@
+{
+    "appid": "1853570",
+    "common": {
+        "name": "WTWServerFiles",
+        "type": "Tool",
+        "parent": "1691480",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "logo": "ae4ee4916a7c8166d9ed0a9b39ecfda28d19b9d3",
+        "logo_small": "ae4ee4916a7c8166d9ed0a9b39ecfda28d19b9d3_thumb",
+        "icon": "3f8e77e7e73c247e617e8f26d39925dd44d715d7",
+        "clienttga": "8d95faee73d1dc0d1426ce0e7676db28fb99ba72",
+        "clienticon": "89e2b70a923d8c3afa827002064015bdce754741",
+        "releasestate": "released",
+        "gameid": "1853570",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "WTWServerFiles",
+        "launch": {
+            "0": {
+                "executable": "WTWServer.exe",
+                "type": "server",
+                "config": {
+                    "oslist": "windows"
+                },
+                "description_loc": {
+                    "english": "Launch"
+                },
+                "description": "Launch"
+            }
+        },
+        "uselaunchcommandline": "1"
+    },
+    "depots": {
+        "baselanguages": "english",
+        "workshopdepot": "1853570",
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1853571": {
+            "name": "WTWServerFilesContent",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "3138915745404879187"
+            },
+            "maxsize": "4439365479"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8360126",
+                "timeupdated": "1647106599"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14208599,
+    "_sha": "7cbc177d0bad41b167e4e1358d87d8f9e0a9cc98",
+    "_size": 1845
+}

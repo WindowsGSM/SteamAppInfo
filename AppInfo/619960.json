@@ -1,0 +1,176 @@
+{
+    "appid": "619960",
+    "common": {
+        "name": "Just Cause™ 3: Multiplayer - Dedicated Server",
+        "type": "Tool",
+        "parent": "619910",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "icon": "f47549fceafa32b3a2e396f439b6c5000e4f2d50",
+        "clienticon": "5ad3a47f319dff9ee277f013d595b9b8b76fae65",
+        "clienttga": "ecbffa50b4eeb7db78efbc8e126a47cc1b59cd92",
+        "logo": "4d74b4a30ff4eddbf7be317aae73aa767f266377",
+        "logo_small": "4d74b4a30ff4eddbf7be317aae73aa767f266377_thumb",
+        "releasestate": "released",
+        "eulas": {
+            "0": {
+                "id": "619960_eula_0",
+                "name": "Just Cause™ 3: Multiplayer - Dedicated Server EULA",
+                "url": "http://store.steampowered.com//eula/619960_eula_0"
+            }
+        },
+        "associations": {},
+        "gameid": "619960",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "Just Cause 3 Multiplayer Mod Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "Server.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "Server",
+                "type": "default",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228986": {
+            "name": "VC 2015 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29759921",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "619961": {
+            "name": "Just Cause 3: Multiplayer - Windows Dedicated Server",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "1699968664194881891",
+                "public-beta": "9114016530823338975"
+            },
+            "maxsize": "30184374",
+            "encryptedmanifests": {
+                "beta": {
+                    "encrypted_gid_2": "14A98D9B419625D40A1E31A466B2D904",
+                    "encrypted_size_2": "F526425FE92DBFC41AA978097AB984DD"
+                },
+                "bleeding-edge": {
+                    "encrypted_gid_2": "A6BDCDE55E448FFF6C102AA5BF2C5598",
+                    "encrypted_size_2": "5BC35F4DAEF5D74F4106A931EF418254"
+                },
+                "internal": {
+                    "encrypted_gid_2": "75C86FD0EFDF0AD5F3D88C89433240CF",
+                    "encrypted_size_2": "2E51F1E8BBD663E7A65FA3BCE6D0480A"
+                }
+            }
+        },
+        "619962": {
+            "name": "Just Cause 3: Multiplayer - Linux Dedicated Server",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "808072426333417283",
+                "public-beta": "8356733896068090164"
+            },
+            "maxsize": "58015569",
+            "encryptedmanifests": {
+                "beta": {
+                    "encrypted_gid_2": "A0DF09D85E46F55CF3268FEADAFA03DF",
+                    "encrypted_size_2": "15499DDA6951D8DEBAC82987580B69FA"
+                },
+                "bleeding-edge": {
+                    "encrypted_gid_2": "0CFF631CA51E461E22B78C02B9A392C5",
+                    "encrypted_size_2": "E6DA66AFFADF78C84838FD32672B0F99"
+                },
+                "internal": {
+                    "encrypted_gid_2": "97256169FE6A9EBF48BF4CBD44CAF2A7",
+                    "encrypted_size_2": "FAC558A82381410ED7940BA25A942C27"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "2017198",
+                "timeupdated": "1502295697"
+            },
+            "beta": {
+                "buildid": "2416083",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1515186655"
+            },
+            "bleeding-edge": {
+                "buildid": "3148246",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1537659264"
+            },
+            "internal": {
+                "buildid": "3148246",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1537659252"
+            },
+            "public-beta": {
+                "buildid": "2406027",
+                "description": "",
+                "timeupdated": "1514776498"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "25258a783cbea080b83c6ad3b59a6693eb801f50",
+    "_size": 4047
+}

@@ -1,0 +1,114 @@
+{
+    "appid": "685100",
+    "common": {
+        "name": "Crafting Dead Dedicated Server",
+        "type": "Tool",
+        "parent": "657990",
+        "releasestate": "released",
+        "logo": "33483847bad042d0abf0f59536218497db493f9e",
+        "logo_small": "33483847bad042d0abf0f59536218497db493f9e_thumb",
+        "icon": "a45a08769712bdbacde08cdd179aa5a1720fb3f8",
+        "clienttga": "66fd48bfb497ac02be605f17e249f391eced130c",
+        "clienticon": "954f5654a19035eac523ac09d2481e7ef73cad5c",
+        "oslist": "windows,linux",
+        "osarch": "",
+        "eulas": {},
+        "osextended": "",
+        "linuxclienticon": "954f5654a19035eac523ac09d2481e7ef73cad5c",
+        "associations": {},
+        "gameid": "685100"
+    },
+    "config": {
+        "installdir": "craftingdeadserver",
+        "launch": {
+            "0": {
+                "executable": "Crafting Dead.exe",
+                "arguments": "-batchmode -nographics",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                },
+                "description_loc": {
+                    "english": "Run dedicated server."
+                },
+                "description": "Run dedicated server."
+            },
+            "1": {
+                "executable": "game_server.x86_64",
+                "config": {
+                    "oslist": "linux"
+                },
+                "description_loc": {
+                    "english": "Run dedicated server."
+                },
+                "description": "Run dedicated server."
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "685101": {
+            "name": "Crafting Dead Dedicated Server Depot Windows",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "88353377448412602"
+            },
+            "maxsize": "385202220"
+        },
+        "685102": {
+            "name": "Crafting Dead Dedicated Server Depot Linux",
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "7898031448167426782"
+            },
+            "maxsize": "430166561"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8288300",
+                "timeupdated": "1646071368"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "8cbf30c244eb367c11fac5a72241c9f4e60f4740",
+    "_size": 2425
+}

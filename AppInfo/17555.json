@@ -1,0 +1,93 @@
+{
+    "appid": "17555",
+    "common": {
+        "name": "Eternal Silence Dedicated Server",
+        "type": "Tool",
+        "freeondemand": "1",
+        "gameid": "17555"
+    },
+    "extended": {
+        "developer": "ES Team",
+        "gamedir": "Eternal-Silence Server",
+        "homepage": "",
+        "icon": "",
+        "loadallbeforelaunch": "1",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "17551",
+        "serverbrowsername": "",
+        "state": "eStateTool",
+        "visibleonlywhensubscribed": "1"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Source Dedicated Server",
+        "convertgcfs": "1",
+        "launch": {
+            "0": {
+                "executable": "srcds.exe",
+                "arguments": "-steam -esmod"
+            }
+        }
+    },
+    "depots": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "208": {
+            "name": "Base Source Shared Sounds",
+            "systemdefined": "1",
+            "maxsize": "995522479",
+            "depotfromapp": "205",
+            "sharedinstall": "2"
+        },
+        "207": {
+            "name": "Base Source Shared Models",
+            "systemdefined": "1",
+            "maxsize": "397557916",
+            "depotfromapp": "205",
+            "sharedinstall": "2"
+        },
+        "206": {
+            "name": "Base Source Shared Materials",
+            "systemdefined": "1",
+            "maxsize": "1038409978",
+            "depotfromapp": "205",
+            "sharedinstall": "2"
+        },
+        "205": {
+            "name": "Source Dedicated Server",
+            "systemdefined": "1",
+            "maxsize": "20223153",
+            "depotfromapp": "205",
+            "sharedinstall": "2"
+        },
+        "17551": {
+            "name": "Eternal-Silence content",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "2331363083649090747"
+            },
+            "maxsize": "2096775398",
+            "depotfromapp": "17550"
+        },
+        "1004": {
+            "name": "Steamworks SDK Redist (Win32)",
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "maxsize": "9662208",
+            "depotfromapp": "205",
+            "sharedinstall": "2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "123345"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "f46a40e81bd480060c645eedc09887b14bdc48b3",
+    "_size": 1780
+}

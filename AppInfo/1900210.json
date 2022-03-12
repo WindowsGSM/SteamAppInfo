@@ -1,0 +1,80 @@
+{
+    "appid": "1900210",
+    "common": {
+        "name": "LGS Dedicated Server",
+        "type": "Tool",
+        "parent": "1309760",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "logo": "bbdf0a9e7a2cefd4713b2105970af099a5e6fa65",
+        "logo_small": "bbdf0a9e7a2cefd4713b2105970af099a5e6fa65_thumb",
+        "icon": "5fd373b28cd57782c4e05008cebb24946e15b945",
+        "clienttga": "7d279118421620c034f917b6fb8eadc4e6dc1404",
+        "clienticon": "4dd7d077b0ca3c38d381b7d866aa829d7803dc42",
+        "releasestate": "released",
+        "gameid": "1900210",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "LGS Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "LastGangStanding_425Server.exe",
+                "arguments": "-log"
+            }
+        },
+        "uselaunchcommandline": "1"
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1900211": {
+            "name": "Dedicated Server Content",
+            "manifests": {
+                "public": "6931276427035631550"
+            },
+            "maxsize": "328846050"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8264990",
+                "timeupdated": "1645674397"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "ae4e8f911dd6fe2e1e38d4de28b5f0cb6dd16139",
+    "_size": 1619
+}

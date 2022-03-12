@@ -1,0 +1,113 @@
+{
+    "appid": "1189160",
+    "common": {
+        "name": "Re.Poly Server",
+        "type": "Tool",
+        "parent": "970300",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "logo": "5b4e34e6bc923c5a56110e82ea90ba67f27e7ae3",
+        "logo_small": "5b4e34e6bc923c5a56110e82ea90ba67f27e7ae3_thumb",
+        "icon": "3574cef589fd32ea028477e61d4c2bcce2d19f38",
+        "clienticon": "e99a16ca20d62ff75c18225be2961db29989a498",
+        "clienttga": "0ef18f9a8d1a2d928be6420c776927f3413f2752",
+        "gameid": "1189160"
+    },
+    "extended": {
+        "gamedir": "repoly",
+        "serverbrowsername": "Re.Poly Server"
+    },
+    "config": {
+        "installdir": "Re.Poly Server",
+        "launch": {
+            "0": {
+                "executable": "ServerStart.bat",
+                "description": "Re.Poly Gameserver",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228987": {
+            "name": "VC 2017 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29664201",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "name": ".NET 4.6 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "62009092",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1189161": {
+            "name": "Re.Poly Server Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": "5460693568647442383"
+            },
+            "maxsize": "546302066"
+        },
+        "baselanguages": "english,german",
+        "branches": {
+            "public": {
+                "buildid": "8172951",
+                "timeupdated": "1644416628"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "c384fe40a28a76d2f4bee371daf90fb204f6fe11",
+    "_size": 2229
+}

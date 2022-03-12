@@ -1,0 +1,70 @@
+{
+    "appid": "805140",
+    "common": {
+        "name": "Battalion 1944 Dedicated Server",
+        "type": "Tool",
+        "parent": "489940",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "osarch": "",
+        "logo": "d379d1b3b787addde8d8210f6bd6b0d6bc857d6e",
+        "logo_small": "d379d1b3b787addde8d8210f6bd6b0d6bc857d6e_thumb",
+        "icon": "e2aad6dcc6ad6ff7e612401c0a6492cc53225001",
+        "clienttga": "17ac2d766d5ec788b028445646f95b8d1abff776",
+        "clienticon": "6eb4fdf18d486ee767f4f40a556d7fa1c4870c99",
+        "associations": {},
+        "gameid": "805140"
+    },
+    "config": {
+        "installdir": "Battalion 1944 Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "Windows/Run.bat",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "Linux/Run.sh",
+                "type": "server",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "805141": {
+            "name": "Battalion 1944 Dedicated Server Content",
+            "manifests": {
+                "public": "175389806278947342"
+            },
+            "maxsize": "3573135825",
+            "encryptedmanifests": {
+                "test": {
+                    "encrypted_gid_2": "25D4EC0E418BE4A7EA9723860CC5410B",
+                    "encrypted_size_2": "03F2BAF3220D910C0852331805B1EA8D"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "4481370",
+                "timeupdated": "1576065176"
+            },
+            "test": {
+                "buildid": "2587700",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1523609067"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "5a3fd8a0ab1b2d0f3f6855b67be1b6d6b2868977",
+    "_size": 1479
+}

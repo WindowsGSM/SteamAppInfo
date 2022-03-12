@@ -1,0 +1,78 @@
+{
+    "appid": "354060",
+    "common": {
+        "name": "RaceRoom Dedicated Server",
+        "type": "Tool",
+        "releasestate": "released",
+        "clienticon": "cbe7d4b5be469fff787e1911e4fc13292717adc8",
+        "clienttga": "e2588aee5fa6a9b048dc3cb66e9a3cadea80482a",
+        "icon": "214a3359f9e1a45697fcb06e1680e8211ea53bba",
+        "logo": "48c507e4c786f41b8c2d1cbef29ec5aa9703766d",
+        "logo_small": "48c507e4c786f41b8c2d1cbef29ec5aa9703766d_thumb",
+        "associations": {},
+        "gameid": "354060"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "RaceRoom Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "RRRE_dedicated.exe",
+                "description": "Launch"
+            }
+        }
+    },
+    "depots": {
+        "229006": {
+            "name": ".NET 4.7 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "83944258",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "354061": {
+            "name": "RaceRoom Dedicated Server Content",
+            "manifests": {
+                "public": "4021078844821577728"
+            },
+            "maxsize": "76024456",
+            "encryptedmanifests": {
+                "p.i.": {
+                    "encrypted_gid_2": "D1BF56E5B543F9B0E9B8B6F98B0E9CBC",
+                    "encrypted_size_2": "9F531FBF53E148A810DCEDF35118DE68"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8331942",
+                "timeupdated": "1646750605"
+            },
+            "livepreview": {
+                "buildid": "8331942",
+                "description": "public config",
+                "pwdrequired": "1",
+                "timeupdated": "1646750614"
+            },
+            "p.i.": {
+                "buildid": "8314789",
+                "description": "Public Internal",
+                "pwdrequired": "1",
+                "timeupdated": "1646402783"
+            },
+            "staging": {
+                "buildid": "8331942",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1646727119"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14166036,
+    "_sha": "c47cede806f9505f594f1a283810e5f3619de83f",
+    "_size": 1690
+}

@@ -1,0 +1,501 @@
+{
+    "appid": "774961",
+    "common": {
+        "name": "Squad - Public Test Dedicated Server",
+        "type": "Tool",
+        "parent": "774941",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "osarch": "",
+        "clienttga": "d26cb41f9f79cce4cc6bcbd40bc3e63e947d98a4",
+        "clienticon": "5cb6171b179fd2dc6a4a2dc49ef1760d0d839282",
+        "icon": "e02936d5dda8f41ce8c480d4b3e8af1e8d3db18c",
+        "associations": {},
+        "gameid": "774961"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "installdir": "Squad - Public Test Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "SquadServer.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "SquadServer.sh",
+                "type": "server",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228985": {
+            "name": "VC 2013 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "13699237",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "name": "VC 2015 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29759921",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "774962": {
+            "name": "Squad - Test Server Dedicated Server Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": "9218183786785996521"
+            },
+            "maxsize": "10802266611",
+            "encryptedmanifests": {
+                "uat_community_hosting": {
+                    "encrypted_gid_2": "D82B5C43D99E05C9AD34F3F20EF5A529",
+                    "encrypted_size_2": "FF0E8C1A2E1E4A78B140C2B3C6958762"
+                },
+                "uat_content": {
+                    "encrypted_gid_2": "1BC9308179DF38CCB845DDB240583FA4",
+                    "encrypted_size_2": "D3310E5E10B958927A50B087989257C9"
+                },
+                "uat_content_pt": {
+                    "encrypted_gid_2": "B4C555467D22258CF29E565E5447DEC6",
+                    "encrypted_size_2": "BA2C0C8E7F6F2D6ACF0929CF38A0D728"
+                },
+                "uat_cpt": {
+                    "encrypted_gid_2": "BBA83F580A28D5AC8582DEAF8131C16A",
+                    "encrypted_size_2": "97B66D5134B99D2AD527D47EDDA0798B"
+                },
+                "uat_crashtest": {
+                    "encrypted_gid_2": "A426BF0BEDC0E22469CA59D1816E00D8",
+                    "encrypted_size_2": "B3B6CF551F9968AF4792F538FBA16906"
+                },
+                "uat_features": {
+                    "encrypted_gid_2": "1EB179EF76370EC6CCCE177D892EAE1E",
+                    "encrypted_size_2": "3B85B0036F1CC40D7D08FF9BAD832017"
+                },
+                "uat_features_rc": {
+                    "encrypted_gid_2": "9822BE2FC1605119035D5AC61DADA60F",
+                    "encrypted_size_2": "158094DBBCED2555D51E39EA8ABBA69D"
+                },
+                "uat_featuretest1": {
+                    "encrypted_gid_2": "7D48A0B141D46099C592F6C0A1DC0DD2",
+                    "encrypted_size_2": "83A92D6E4F80556312E95C2937BD7174"
+                },
+                "uat_featuretest10": {
+                    "encrypted_gid_2": "E23231C64B9901B22760E8AB9ECCDD78",
+                    "encrypted_size_2": "81A8223D0673768C58DC5B0BA324EA7E"
+                },
+                "uat_featuretest11": {
+                    "encrypted_gid_2": "47D14EA7225BE165515BFC7D761BC1FA",
+                    "encrypted_size_2": "C5C0ABAB992960272A857F131917A979"
+                },
+                "uat_featuretest2": {
+                    "encrypted_gid_2": "D30D0CD642D802B69F900D000C97B16A",
+                    "encrypted_size_2": "6F15B33E23C4B95FB778650E2D8EBF04"
+                },
+                "uat_featuretest3": {
+                    "encrypted_gid_2": "D32FF3C581D822EFB45ED5C92F69C264",
+                    "encrypted_size_2": "BCBDF82DD11FF698F050C47040B0EF60"
+                },
+                "uat_featuretest4": {
+                    "encrypted_gid_2": "C4BD6780AEA58060EF7A8E9E6F9DABDC",
+                    "encrypted_size_2": "C020F8BDE1ECC80A2D3C2E5E3D1E4C4B"
+                },
+                "uat_featuretest5": {
+                    "encrypted_gid_2": "DF57AA655C5D8B6A2063464A040A3403",
+                    "encrypted_size_2": "B9678A7A8BC35A334416AF17C4B1F3BB"
+                },
+                "uat_featuretest6": {
+                    "encrypted_gid_2": "232B2C9A29F5680096525B61D6D58BA2",
+                    "encrypted_size_2": "C7CCA836B10E2E3C3BC53AD44AB7680F"
+                },
+                "uat_featuretest7": {
+                    "encrypted_gid_2": "8EA7BDA341278026AC963B33D8A254CA",
+                    "encrypted_size_2": "EBAD6090D149FA495610E9567413176F"
+                },
+                "uat_featuretest8": {
+                    "encrypted_gid_2": "0B61FB0F6BB6D31D46050A76DC39F38B",
+                    "encrypted_size_2": "E718E2F17086A7DC854E13F3A4736339"
+                },
+                "uat_featuretest9": {
+                    "encrypted_gid_2": "B8BB804A42E20E7BEEED5F02E2573269",
+                    "encrypted_size_2": "B6E84AA4BDFB4BCA6A5CFC867123AE10"
+                },
+                "uat_functionality_test": {
+                    "encrypted_gid_2": "50D54A2A5B1483538A424F76AC79BEEE",
+                    "encrypted_size_2": "062055279141ED9A1621AE0ACF84F967"
+                },
+                "uat_main": {
+                    "encrypted_gid_2": "6E9D2D32BC4FFAFC7046B32A45F87084",
+                    "encrypted_size_2": "9B1C9B080B7DA7581321803E73181C1A"
+                },
+                "uat_main_rc": {
+                    "encrypted_gid_2": "ED1DA64EB75139ECDD33B7F1D844D7FD",
+                    "encrypted_size_2": "62015A39B5F4873F329E30688030702D"
+                },
+                "uat_ppt": {
+                    "encrypted_gid_2": "CB9CF69EA8CB3343B29857F9E3853F4A",
+                    "encrypted_size_2": "20D9C6A6C2A0F46C327429B8F191694D"
+                },
+                "uat_release": {
+                    "encrypted_gid_2": "4E974FECAB0310AE093872AD6AD5D859",
+                    "encrypted_size_2": "6D6F9707F687422DA96A05DFB0307A4E"
+                }
+            }
+        },
+        "774963": {
+            "name": "Squad - Test Server Dedicated Server Depot Linux",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": "919858418026913339"
+            },
+            "maxsize": "10945406481",
+            "encryptedmanifests": {
+                "uat_community_hosting": {
+                    "encrypted_gid_2": "17695FF87D78705095E32DDE6E771247",
+                    "encrypted_size_2": "EDA3ECDF7F43ACD486D96E97B51A1F81"
+                },
+                "uat_content": {
+                    "encrypted_gid_2": "1FAD67212C4AB5049CBEEAADC91BDC18",
+                    "encrypted_size_2": "4F03C0CC6355FDC1FFE99B1AED4C3329"
+                },
+                "uat_content_pt": {
+                    "encrypted_gid_2": "5A555B9CE239644FAF3CEAB90E485075",
+                    "encrypted_size_2": "85195CDE2DAA4DA08CA89879476AA243"
+                },
+                "uat_cpt": {
+                    "encrypted_gid_2": "E75471F5ACA44396017C711DA0BB8378",
+                    "encrypted_size_2": "BABE3C10F26C4FE92BBE4530E9B310B3"
+                },
+                "uat_crashtest": {
+                    "encrypted_gid_2": "1ADB8F10706F607D94E8BBC02515EBCE",
+                    "encrypted_size_2": "CE8A7AE3C2180DEF2F53CDF25447F3F7"
+                },
+                "uat_features": {
+                    "encrypted_gid_2": "1BB1BFD233054AB15200840763B80D02",
+                    "encrypted_size_2": "2F532EF6A49766DCD19CAB5236FC2FA4"
+                },
+                "uat_features_rc": {
+                    "encrypted_gid_2": "1E13CCD6C73A4656BF6F3347BBB8C4A5",
+                    "encrypted_size_2": "8FAFF44508BF5257DB9D7F7A14F7AB8D"
+                },
+                "uat_featuretest1": {
+                    "encrypted_gid_2": "72CE95E10BD287374467B19522B8F26A",
+                    "encrypted_size_2": "B22A5DB655111FA5A0488F68BA0DB710"
+                },
+                "uat_featuretest10": {
+                    "encrypted_gid_2": "C303DCA0FFCFB32009DF47E2F44341F4",
+                    "encrypted_size_2": "46D573FC9D7B8F46A840E44A8B6B7EEE"
+                },
+                "uat_featuretest11": {
+                    "encrypted_gid_2": "0E1629B04DA9E3194EFCB57EE8F8F386",
+                    "encrypted_size_2": "8485F551A0C143B5428939FBBEF60C49"
+                },
+                "uat_featuretest2": {
+                    "encrypted_gid_2": "5BBB3D8F586C7970852D89B53FA0C680",
+                    "encrypted_size_2": "959E77465DFB0120F00CF3138A73E8A6"
+                },
+                "uat_featuretest3": {
+                    "encrypted_gid_2": "F41E317AEE83A48BAA2D77FAA3B9F8E6",
+                    "encrypted_size_2": "AB446D9488BFDB456A65121B7B1BBCBD"
+                },
+                "uat_featuretest4": {
+                    "encrypted_gid_2": "6C6F140D641859E79BDC2DD09CC2CBA3",
+                    "encrypted_size_2": "E32B9065AD4DBA37E4F620C0EB6E3F22"
+                },
+                "uat_featuretest5": {
+                    "encrypted_gid_2": "1A2948D579F994D1E9B6AEE2901F8216",
+                    "encrypted_size_2": "5E4BF069860970732770D53D380CBE62"
+                },
+                "uat_featuretest6": {
+                    "encrypted_gid_2": "0392546FF12B4CA00CBE6A1678F1A9F4",
+                    "encrypted_size_2": "A354F96205CFDCD951CEC867DF54E304"
+                },
+                "uat_featuretest7": {
+                    "encrypted_gid_2": "BEB202B13D7398444528C42649698C64",
+                    "encrypted_size_2": "5453A5A1429168C971AB17D213771AC8"
+                },
+                "uat_featuretest8": {
+                    "encrypted_gid_2": "743282E9115A7E021A2A4EED1C7A7AE5",
+                    "encrypted_size_2": "5775ED1C1415144FA1782A08EF76F6D4"
+                },
+                "uat_featuretest9": {
+                    "encrypted_gid_2": "83FEF5EC3440EA19CACBA383E9F11342",
+                    "encrypted_size_2": "B30615F8D2AE84535B146DE4C92AAFDE"
+                },
+                "uat_functionality_test": {
+                    "encrypted_gid_2": "B047389E309F477CB4EEDF9D64BA6CC1",
+                    "encrypted_size_2": "C8F3ED48EE241EE9A3853F8CCB990D7E"
+                },
+                "uat_main": {
+                    "encrypted_gid_2": "1C7F38CA4021EBF36F4DBC520C089EED",
+                    "encrypted_size_2": "6AC022FBB91A9579FAA556F896B88AE3"
+                },
+                "uat_main_rc": {
+                    "encrypted_gid_2": "26B424A1128915CC365249289667D3FF",
+                    "encrypted_size_2": "473B8E9A6320B8F66F16134503C80155"
+                },
+                "uat_ppt": {
+                    "encrypted_gid_2": "A8F9CC3AFB072711FFB5CE7512B73B66",
+                    "encrypted_size_2": "3B7ED19FD394B52C3B8F0472C042C270"
+                },
+                "uat_release": {
+                    "encrypted_gid_2": "5E2E3A592647548CE22BD1A71D15AD06",
+                    "encrypted_size_2": "DAE97352FCF5AB6CB2FC3C2A77CF20AF"
+                }
+            }
+        },
+        "774943": {
+            "name": "Squad UAT Test CAF nonDLC",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": "2545188719619349744",
+                "uat_experimental": "7844286360282026320"
+            },
+            "maxsize": "6005622287",
+            "encryptedmanifests": {
+                "uat_features": {
+                    "encrypted_gid_2": "2AEB2FCF4ACE50C7610FE16FAE4883FF",
+                    "encrypted_size_2": "1455FB16EE1AB6CC7FC36EED79E69F29"
+                },
+                "uat_featuretest1": {
+                    "encrypted_gid_2": "34D4DF7E7EAD268D81AEDD598C28FE1F",
+                    "encrypted_size_2": "70EF337C19938C9A1ECA34D32879FBDE"
+                },
+                "uat_main": {
+                    "encrypted_gid_2": "AF3C789199956B255C2DA76113F31816",
+                    "encrypted_size_2": "7A9A6036F3644EC6FC753CE7E2C9B189"
+                },
+                "uat_ppt": {
+                    "encrypted_gid_2": "63A41389A26D12447DB298BFC3AE25BD",
+                    "encrypted_size_2": "A273BDE4F4DD66A2EEB6EEB779C50DC6"
+                }
+            },
+            "depotfromapp": "774941"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7494375",
+                "timeupdated": "1633693857"
+            },
+            "uat_community_hosting": {
+                "buildid": "7894910",
+                "description": "Community Hosting for UAT",
+                "pwdrequired": "1",
+                "timeupdated": "1639697821"
+            },
+            "uat_content": {
+                "buildid": "8354277",
+                "description": "Content stream nightly",
+                "pwdrequired": "1",
+                "timeupdated": "1647003509"
+            },
+            "uat_content_pt": {
+                "buildid": "8293762",
+                "description": "Content stream playtest",
+                "pwdrequired": "1",
+                "timeupdated": "1646141886"
+            },
+            "uat_cpt": {
+                "buildid": "8301222",
+                "description": "Branch for Community PlayTest Group Testing",
+                "pwdrequired": "1",
+                "timeupdated": "1646258726"
+            },
+            "uat_crashtest": {
+                "buildid": "8342098",
+                "description": "Crash test branch",
+                "pwdrequired": "1",
+                "timeupdated": "1646851138"
+            },
+            "uat_features": {
+                "buildid": "6075329",
+                "description": "Features stream",
+                "pwdrequired": "1",
+                "timeupdated": "1611010726"
+            },
+            "uat_features_rc": {
+                "buildid": "5206646",
+                "description": "Features stream nightly",
+                "pwdrequired": "1",
+                "timeupdated": "1592965032"
+            },
+            "uat_featuretest1": {
+                "buildid": "8317196",
+                "description": "Generic feature test branch 1",
+                "pwdrequired": "1",
+                "timeupdated": "1646428508"
+            },
+            "uat_featuretest10": {
+                "buildid": "8359600",
+                "description": " Generic feature test branch 10",
+                "pwdrequired": "1",
+                "timeupdated": "1647090764"
+            },
+            "uat_featuretest11": {
+                "buildid": "8351446",
+                "description": " Generic feature test branch 11",
+                "pwdrequired": "1",
+                "timeupdated": "1646965703"
+            },
+            "uat_featuretest2": {
+                "buildid": "8102396",
+                "description": "Generic feature test branch 2",
+                "pwdrequired": "1",
+                "timeupdated": "1645223345"
+            },
+            "uat_featuretest3": {
+                "buildid": "8256792",
+                "description": "Generic feature test branch 3",
+                "pwdrequired": "1",
+                "timeupdated": "1645591919"
+            },
+            "uat_featuretest4": {
+                "buildid": "8235168",
+                "description": "Generic feature test branch 4",
+                "pwdrequired": "1",
+                "timeupdated": "1645260415"
+            },
+            "uat_featuretest5": {
+                "buildid": "8306650",
+                "description": "Generic feature test branch 5",
+                "pwdrequired": "1",
+                "timeupdated": "1646302727"
+            },
+            "uat_featuretest6": {
+                "buildid": "8352106",
+                "description": " Generic feature test branch 6",
+                "pwdrequired": "1",
+                "timeupdated": "1646977134"
+            },
+            "uat_featuretest7": {
+                "buildid": "8350708",
+                "description": " Generic feature test branch 7",
+                "pwdrequired": "1",
+                "timeupdated": "1646955446"
+            },
+            "uat_featuretest8": {
+                "buildid": "8234255",
+                "description": "Generic feature test branch 8",
+                "pwdrequired": "1",
+                "timeupdated": "1645547562"
+            },
+            "uat_featuretest9": {
+                "buildid": "8303861",
+                "description": " Generic feature test branch 9",
+                "pwdrequired": "1",
+                "timeupdated": "1646262125"
+            },
+            "uat_functionality_test": {
+                "buildid": "7860281",
+                "description": "Branch for testing specific functionality",
+                "pwdrequired": "1",
+                "timeupdated": "1639423985"
+            },
+            "uat_main": {
+                "buildid": "6683471",
+                "description": "Latest MAIN branch builds",
+                "pwdrequired": "1",
+                "timeupdated": "1620757901"
+            },
+            "uat_main_rc": {
+                "buildid": "5862657",
+                "description": "Main RC",
+                "pwdrequired": "1",
+                "timeupdated": "1606165095"
+            },
+            "uat_ppt": {
+                "buildid": "6920760",
+                "description": "Branch for Partner Program Members Testing",
+                "pwdrequired": "1",
+                "timeupdated": "1624647610"
+            },
+            "uat_release": {
+                "buildid": "8357811",
+                "description": "Latest RELEASE branch builds",
+                "pwdrequired": "1",
+                "timeupdated": "1647044972"
+            },
+            "uat_experimental": {
+                "buildid": "6992347",
+                "description": "uat_experimental (Experimental features public)",
+                "timeupdated": "1625762365"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14207478,
+    "_sha": "efc35c6a4bcea151ed92fcd902b7cb05f9595394",
+    "_size": 14513
+}

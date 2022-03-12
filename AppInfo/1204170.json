@@ -1,0 +1,113 @@
+{
+    "appid": "1204170",
+    "common": {
+        "name": "Onset Dedicated Server",
+        "type": "Tool",
+        "parent": "1105810",
+        "releasestate": "released",
+        "logo": "0da43a25fd1f4cb8a4f43ddab18d17186b770e44",
+        "logo_small": "0da43a25fd1f4cb8a4f43ddab18d17186b770e44_thumb",
+        "icon": "151fa7c9ef0566f47083b40a98eb7ab336ca608a",
+        "clienttga": "0cfe5a7460dc283b523b5bc66c2b3d657e38d50e",
+        "clienticon": "a9f94fad7dbb984738e306b8aa34400da90ad35e",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "osextended": "",
+        "eulas": {
+            "0": {
+                "id": "1204170_eula_0",
+                "name": "Onset Dedicated Server EULA",
+                "url": "https://store.steampowered.com//eula/1204170_eula_0"
+            }
+        },
+        "gameid": "1204170"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "installdir": "Onset Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "OnsetServer.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "OnsetServer",
+                "type": "default",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1204171": {
+            "name": "Onset Dedicated Server Content",
+            "manifests": {
+                "public": "52582517278355052"
+            },
+            "maxsize": "180437171"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8141104",
+                "timeupdated": "1644052443"
+            },
+            "steamworksbeta": {
+                "buildid": "8141104",
+                "description": "beta",
+                "timeupdated": "1643988438"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "ff515d50c1e888cca29c75b5a4680a34ab348a83",
+    "_size": 2244
+}

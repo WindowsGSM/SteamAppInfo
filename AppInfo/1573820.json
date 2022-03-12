@@ -1,0 +1,102 @@
+{
+    "appid": "1573820",
+    "common": {
+        "name": "Raptor Territory Dedicated Server",
+        "type": "Tool",
+        "parent": "1513860",
+        "logo": "84cf25e453531a002711680430230e55dd77f63e",
+        "logo_small": "84cf25e453531a002711680430230e55dd77f63e_thumb",
+        "icon": "f0c9143727e3796458e142a8466a707f812e5676",
+        "clienttga": "ba849af0f223a96c554f9977a519c781ad597c31",
+        "clienticon": "fdd0fee3fe81c2e735cdecc05a8890fcb2d66f56",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "gameid": "1573820"
+    },
+    "config": {
+        "installdir": "Raptor Territory Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "startup.bat",
+                "type": "default"
+            },
+            "1": {
+                "executable": "DediServer.bat",
+                "type": "config"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1573821": {
+            "name": "Raptor Territory Dedicated Server Content",
+            "manifests": {
+                "public": "7453614496077157579"
+            },
+            "maxsize": "1227342060"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8322448",
+                "timeupdated": "1646572554"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "8277bc0968c9bbfb65991c9cbd146b83be8ebec8",
+    "_size": 2057
+}

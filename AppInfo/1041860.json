@@ -1,0 +1,79 @@
+{
+    "appid": "1041860",
+    "common": {
+        "name": "HELL'S NEW WORLD Dedicated Server",
+        "type": "Tool",
+        "parent": "823350",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "osextended": "",
+        "logo": "ddd8fd7eb83e7963504c6e7f936623c2b0a4d430",
+        "logo_small": "ddd8fd7eb83e7963504c6e7f936623c2b0a4d430_thumb",
+        "icon": "6cd2be7988f0e00bda6d3dd40719edff2c64c779",
+        "clienttga": "d3231d676c504b8bd5c4ba73e0d24c486a37ad42",
+        "clienticon": "a55f8da2eb0b32f2dda01e2e45746bc6223c7ee5",
+        "associations": {},
+        "gameid": "1041860",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "HELL'S NEW WORLD",
+        "launch": {
+            "0": {
+                "executable": "WindowsServer\\HellsNewWorld\\Binaries\\Win64\\HellsNewWorldServer.exe",
+                "arguments": "-log",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "/LinuxServer/HellsNewWorld/Binaries/Linux/HellsNewWorldServer",
+                "type": "server",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1041862": {
+            "name": "HELL'S NEW WORLD Dedicated Server Depot Windows",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": "5238543730583489935"
+            },
+            "maxsize": "381327134"
+        },
+        "1041863": {
+            "name": "HELL'S NEW WORLD Dedicated Server Depot Linux",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": "1271283057983070031"
+            },
+            "maxsize": "475128678"
+        },
+        "workshopdepot": "1041860",
+        "branches": {
+            "public": {
+                "buildid": "8302878",
+                "timeupdated": "1646249510"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14113323,
+    "_sha": "52297abfc9a862b49278017ea62f1ddc612a3739",
+    "_size": 1705
+}

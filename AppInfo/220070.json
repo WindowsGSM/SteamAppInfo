@@ -1,0 +1,173 @@
+{
+    "appid": "220070",
+    "common": {
+        "name": "Chivalry: Medieval Warfare Dedicated Server",
+        "type": "Tool",
+        "oslist": "windows,linux",
+        "gameid": "220070"
+    },
+    "extended": {
+        "developer": "",
+        "gamedir": "ValveTestApp220070",
+        "homepage": "",
+        "icon": "",
+        "noservers": "0",
+        "sourcegame": "1",
+        "state": "eStateTool",
+        "thirdpartycdkey": "1",
+        "visibleonlywhensubscribed": "1"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "chivalry_ded_server",
+        "launch": {
+            "0": {
+                "executable": "Binaries/Win32/UDK.exe",
+                "arguments": "AOCTO-Battlegrounds_V3_P?steamsockets -SEEKFREELOADINGSERVER",
+                "description": "Launch Dedicated Server",
+                "workingdir": "Binaries/Win32",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "Binaries/Linux/UDKGameServer-Linux",
+                "arguments": "AOCTO-Battlegrounds_V3_P?steamsockets -SEEKFREELOADINGSERVER",
+                "description": "Launch Dedicated Server",
+                "workingdir": "Binaries/Linux/",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "preloadonly": "1",
+        "overridescddb": "1",
+        "220071": {
+            "name": "Chivalry: Medieval Warfare Dedicated Server Content",
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "1612728030001206406",
+                "beta": "5773543025664294237",
+                "hotfix1": "4802313358293805195",
+                "linuxtesting": "7347527372863537280",
+                "local": "9166824352901336187",
+                "prepatch": "2738335746069986139"
+            },
+            "maxsize": "1493394120",
+            "encryptedmanifests": {
+                "betaauto": {
+                    "encrypted_gid_2": "558B47AA98355DD7CFC49EF5021C5339",
+                    "encrypted_size_2": "96CE0D092CEF06B8807F83565BD3C726"
+                },
+                "internal": {
+                    "encrypted_gid_2": "E5E8C2BB91121BCA3B41E7ABC6A375C3",
+                    "encrypted_size_2": "88C72C57CDE4541ED31E07C145C716D1"
+                }
+            }
+        },
+        "220072": {
+            "name": "Chivalry: Medieval Warfare Dedicated Server Linux Depot",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "526122111323908601",
+                "beta": "7649592364407112260",
+                "linuxtesting": "1408652631493350438",
+                "prepatch": "3562284815739696257"
+            },
+            "maxsize": "1233747595",
+            "encryptedmanifests": {
+                "betaauto": {
+                    "encrypted_gid_2": "727CF96C26685EE57E7EDC19BBDAF090",
+                    "encrypted_size_2": "2F6115616CB3C888E7F07A6FA2C96996"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "5216959",
+                "timeupdated": "1593534485"
+            },
+            "beta": {
+                "buildid": "2903861",
+                "description": "",
+                "timeupdated": "1530282484"
+            },
+            "betaauto": {
+                "buildid": "5216973",
+                "description": "auto set to live by build machine",
+                "pwdrequired": "1",
+                "timeupdated": "1593133818"
+            },
+            "defaultauto": {
+                "buildid": "5216959",
+                "description": "auto set to live by build machine",
+                "timeupdated": "1593133613"
+            },
+            "hotfix1": {
+                "buildid": "29366",
+                "description": ""
+            },
+            "internal": {
+                "buildid": "117386",
+                "description": "Internal",
+                "pwdrequired": "1"
+            },
+            "linuxtesting": {
+                "buildid": "502647",
+                "description": ""
+            },
+            "local": {
+                "buildid": "68735",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            },
+            "prepatch": {
+                "buildid": "576791",
+                "description": ""
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "ae7181e82cd9082caacd1d2df2974b92432a5a49",
+    "_size": 3912
+}

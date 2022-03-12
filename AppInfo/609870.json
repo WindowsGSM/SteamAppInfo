@@ -1,0 +1,94 @@
+{
+    "appid": "609870",
+    "common": {
+        "name": "Hunt For Gods Dedicated Server",
+        "type": "Tool",
+        "parent": "576940",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "64",
+        "logo": "08d24533be0dfc04e3da5368d56b09e62e178475",
+        "logo_small": "08d24533be0dfc04e3da5368d56b09e62e178475_thumb",
+        "icon": "dba7860ed19d0c7c283023f1788c13ddf5938422",
+        "clienticon": "421890fdc05859aeb5edcb7f7c7ca8903393463d",
+        "clienttga": "026acd4f352bd249e0c071862c0855a95396e7ca",
+        "associations": {},
+        "gameid": "609870",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "Hunt For Gods Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "HuntForGods.exe",
+                "description": "Launch",
+                "type": "none",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "609871": {
+            "name": "Hunt For Gods Dedicated Server Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "8238054858564405399"
+            },
+            "maxsize": "4558576899"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4301265",
+                "timeupdated": "1571406900"
+            },
+            "devtest": {
+                "buildid": "4301265",
+                "description": "StarworkGC's test branch",
+                "pwdrequired": "1",
+                "timeupdated": "1571406890"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "3a5cb6954d647e9cb0b4ffe2711e1347bfc186a0",
+    "_size": 1918
+}

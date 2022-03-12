@@ -1,0 +1,108 @@
+{
+    "appid": "559440",
+    "common": {
+        "name": "Sunset Rangers Server",
+        "type": "Tool",
+        "parent": "559340",
+        "oslist": "windows",
+        "osarch": "",
+        "logo": "5ac645e2cefc1ebc9eb73379f2e7cd017d5199cf",
+        "logo_small": "5ac645e2cefc1ebc9eb73379f2e7cd017d5199cf_thumb",
+        "icon": "d67806cc186d8a22bfcdb05b37092b2dae2d26d9",
+        "clienttga": "88a41608265cf8ad8ed0aaa94fe2e84bd778a4ad",
+        "clienticon": "a3280e802822dfc08007d1cad6e63dfbb941acdd",
+        "releasestate": "released",
+        "associations": {},
+        "community_hub_visible": "1",
+        "gameid": "559440"
+    },
+    "config": {
+        "installdir": "Sunset Rangers Server",
+        "launch": {
+            "0": {
+                "executable": "SRServerInvoker.exe",
+                "type": "server",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228985": {
+            "name": "VC 2013 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "13699237",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "559441": {
+            "name": "Sunset Rangers Server Depot",
+            "manifests": {
+                "public": "4828704873388589552",
+                "preview": "3629105873386993369"
+            },
+            "maxsize": "606733819"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2567293",
+                "timeupdated": "1519908587"
+            },
+            "preview": {
+                "buildid": "1914810",
+                "description": "",
+                "timeupdated": "1498348782"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "bc166643814ee2899983dd2e7da835c23a3ce6bf",
+    "_size": 2172
+}

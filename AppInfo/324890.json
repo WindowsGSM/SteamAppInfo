@@ -1,0 +1,38 @@
+{
+    "appid": "324890",
+    "common": {
+        "name": "RS/RO2 Beta Community Maps - Dedicated Server",
+        "type": "Tool",
+        "releasestate": "released",
+        "oslist": "windows",
+        "associations": {},
+        "gameid": "324890"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Red Orchestra 2"
+    },
+    "depots": {
+        "324891": {
+            "name": "RS/RO2 Beta Community Maps - Dedicated Server Content",
+            "manifests": {
+                "public": "4109414443725175279"
+            },
+            "maxsize": "713641817"
+        },
+        "branches": {
+            "public": {
+                "buildid": "823291"
+            },
+            "custom_map_beta": {
+                "buildid": "823291",
+                "description": "",
+                "pwdrequired": "1"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "7ba56af2afd6a78a1ec334f9ee057524f72f7b29",
+    "_size": 649
+}

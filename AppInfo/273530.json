@@ -1,0 +1,115 @@
+{
+    "appid": "273530",
+    "common": {
+        "name": "Centration Dedicated Server",
+        "type": "Tool",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "logo": "6fbf982ae22571cef7c8d97326bcf3c9775727e8",
+        "logo_small": "6fbf982ae22571cef7c8d97326bcf3c9775727e8_thumb",
+        "icon": "1abd2db1933eb07203b56fd59e47e2cdd328a9bf",
+        "clienttga": "75c351f52aadd4264905789f659843b5a1472a8b",
+        "clienticon": "754d44ffced60c0a8d197a376bfdc5e6534084e2",
+        "clienticns": "754d44ffced60c0a8d197a376bfdc5e6534084e2",
+        "parent": "243300",
+        "associations": {},
+        "gameid": "273530"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Centration Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "UCP/Binaries/Win64/UCPServer.exe",
+                "arguments": "-log",
+                "description": "Launch",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "2": {
+                "executable": "runserver.sh",
+                "description": "Launch",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "273531": {
+            "name": "Centration Dedicated Server Content",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "110411987557802510"
+            },
+            "maxsize": "675219425"
+        },
+        "273532": {
+            "name": "Centration Dedicated Server Linux Binary",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "5077262477460773985"
+            },
+            "encryptedmanifests": {
+                "nightly": {
+                    "encrypted_gid_2": "9B2B7B2650D2B24BB3CD3B5672C5D031",
+                    "encrypted_size_2": "D7F0B4B2083AFE47A5532D634D1677AE"
+                }
+            }
+        },
+        "273533": {
+            "name": "Centration Dedicated Server Mac Binary",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "3185108328394021077"
+            },
+            "maxsize": "347"
+        },
+        "273534": {
+            "name": "Centration Dedicated Server Windows Binary",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "2421291104708251606"
+            },
+            "maxsize": "11444224",
+            "encryptedmanifests": {
+                "nightly": {
+                    "encrypted_gid_2": "7AE4F10F3B6966D2CEE0E842BE69BE2A",
+                    "encrypted_size_2": "036F560C2495A04C05F1BBFB49E88BF9"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "248417"
+            },
+            "bleeding": {
+                "buildid": "248417",
+                "description": "Latest server updates.",
+                "pwdrequired": "1"
+            },
+            "nightly": {
+                "buildid": "614310",
+                "description": "",
+                "pwdrequired": "1"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "ccf8115d32e7417ce7f717ae385912404caf828f",
+    "_size": 2485
+}

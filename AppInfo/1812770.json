@@ -1,0 +1,78 @@
+{
+    "appid": "1812770",
+    "common": {
+        "name": "Dead Event Dedicated Server",
+        "type": "Tool",
+        "parent": "1333490",
+        "releasestate": "released",
+        "logo": "416140cbe14844b8e2995e10e1e2c8fb35fcbcf0",
+        "logo_small": "416140cbe14844b8e2995e10e1e2c8fb35fcbcf0_thumb",
+        "icon": "e53028e2d1752f1f6dcc05441d2528e74f2b6b54",
+        "clienttga": "a07fa58edaa3e61e771d45a3aa1d0dbf11918f56",
+        "linuxclienticon": "5f69a229889c6f68e6406bdb1c209c86c66f1590",
+        "clienticon": "4e2bd8b364d407bb86b8fd308640411d3eae11c3",
+        "oslist": "linux",
+        "osarch": "",
+        "osextended": "",
+        "gameid": "1812770"
+    },
+    "config": {
+        "installdir": "Dead_Event",
+        "launch": {
+            "0": {
+                "executable": "Dead_Event.x86_64"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1812772": {
+            "name": "Server Depot",
+            "manifests": {
+                "public": "6078215492307593921"
+            },
+            "maxsize": "466681452"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7875918",
+                "timeupdated": "1639418540"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "e5d8bc35c521060f5d5cb4a27963658bb9adebfd",
+    "_size": 1581
+}

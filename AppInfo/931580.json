@@ -1,0 +1,75 @@
+{
+    "appid": "931580",
+    "common": {
+        "name": "Conan Exiles - Testlive Dedicated Server",
+        "type": "Tool",
+        "parent": "931180",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "931580"
+    },
+    "config": {
+        "installdir": "Conan Exiles - Testlive Dedicated Server"
+    },
+    "depots": {
+        "931581": {
+            "name": "Conan Exiles - Testlive Dedicated Server Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "7995143035902654082"
+            },
+            "maxsize": "3054662713",
+            "encryptedmanifests": {
+                "4testlive": {
+                    "encrypted_gid_2": "E6F642BD99AA7E14BA312A839D397AC2",
+                    "encrypted_size_2": "74A544E553366D1D3DD327D2BE72BBDE"
+                },
+                "branch4test": {
+                    "encrypted_gid_2": "037BA62D2D7058A40AF28F12A6C882D4",
+                    "encrypted_size_2": "8C5FC5C39335A9DF68531FC921ED15CD"
+                }
+            }
+        },
+        "931582": {
+            "name": "Conan Exiles - Testlive Dedicated Server (Linux)",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "560819281529291749"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "7969272",
+                "timeupdated": "1641474661"
+            },
+            "4testlive": {
+                "buildid": "7697636",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1636652392"
+            },
+            "branch4test": {
+                "buildid": "7678622",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1636413606"
+            },
+            "candidate4testlive": {
+                "buildid": "7969272",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1641304523"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 13588792,
+    "_sha": "ef5d3093be3886540843b108ecf211baf0167539",
+    "_size": 1567
+}

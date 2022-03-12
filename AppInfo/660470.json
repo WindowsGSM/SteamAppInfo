@@ -1,0 +1,66 @@
+{
+    "appid": "660470",
+    "common": {
+        "name": "Dedicated Server",
+        "type": "Tool",
+        "parent": "625340",
+        "releasestate": "released",
+        "oslist": "linux",
+        "osarch": "",
+        "logo": "81f3f29d3a4ba7a222fda06ad9a1c2fcede00bba",
+        "logo_small": "81f3f29d3a4ba7a222fda06ad9a1c2fcede00bba_thumb",
+        "icon": "a27409ea2467bff516ccecc6ee1b5d7d2311fdc4",
+        "clienticon": "83304c126b5cdbbadf4905bfaf5030b76e213eaf",
+        "clienttga": "6749c8a012ce746c4a513a263c6e30e91ab2a127",
+        "associations": {},
+        "gameid": "660470",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "server.txt",
+                "type": "none"
+            }
+        }
+    },
+    "depots": {
+        "660472": {
+            "name": "Dedicated Server Depot",
+            "manifests": {},
+            "encryptedmanifests": {
+                "official": {
+                    "encrypted_gid_2": "BAD457C79B0DF0D106252FB5013CF958",
+                    "encrypted_size_2": "8DE9DE6322C9479F09D4D2BA5CEA33B5"
+                },
+                "testing": {
+                    "encrypted_gid_2": "A37DF680B075A77A142EE718ED4D04AB",
+                    "encrypted_size_2": "66778F26CE086B18FB9937DC120C1C7D"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "3842467",
+                "timeupdated": "1558425574"
+            },
+            "official": {
+                "buildid": "7987587",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1641601069"
+            },
+            "testing": {
+                "buildid": "7987587",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1641598325"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 13603124,
+    "_sha": "c30f820f3627938af7d1b14bba94d9f694843772",
+    "_size": 1440
+}

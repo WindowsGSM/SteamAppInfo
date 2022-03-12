@@ -1,0 +1,144 @@
+{
+    "appid": "476400",
+    "common": {
+        "name": "GROUND BRANCH Dedicated Server",
+        "type": "Tool",
+        "oslist": "windows",
+        "eulas": {
+            "0": {
+                "id": "476400_eula_0",
+                "name": "Ground Branch Dedicated Server EULA",
+                "url": "https://store.steampowered.com//eula/476400_eula_0"
+            }
+        },
+        "logo": "dd026ee9719724fff694a1ad4240d8587a00f6a9",
+        "logo_small": "dd026ee9719724fff694a1ad4240d8587a00f6a9_thumb",
+        "icon": "ab83c7c2f72264eba26029301fb5961ab8b2d147",
+        "clienttga": "a299eff20f49bca78382ee15b0fa04fd3db53e17",
+        "clienticon": "7b0091cf24a217ba3864cba50ffaa86753648f89",
+        "osarch": "64",
+        "releasestate": "released",
+        "associations": {},
+        "community_hub_visible": "1",
+        "gameid": "476400"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Ground Branch Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "\\GroundBranch\\Binaries\\Win64\\GroundBranchServer-Win64-Shipping.exe",
+                "arguments": "-log",
+                "type": "none",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228986": {
+            "name": "VC 2015 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29759921",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "name": "VC 2017 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29664201",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "476401": {
+            "name": "Ground Branch Dedicated Server Content",
+            "manifests": {
+                "public": "5699372199474348797"
+            },
+            "maxsize": "2167359420",
+            "encryptedmanifests": {
+                "devtest": {
+                    "encrypted_gid_2": "4F7FFD4088BE3872697A06F8BB384525",
+                    "encrypted_size_2": "4AE65697CD893F66C32B48226E602002"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8098322",
+                "timeupdated": "1643305527"
+            },
+            "devtest": {
+                "buildid": "8325776",
+                "description": "Developer testing branch",
+                "pwdrequired": "1",
+                "timeupdated": "1646646003"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "51ce7f9e5035e9a202385fd6e9e0edc53e022075",
+    "_size": 3068
+}

@@ -1,0 +1,198 @@
+{
+    "appid": "367970",
+    "common": {
+        "name": "Medieval Engineers Dedicated Server",
+        "type": "Tool",
+        "oslist": "windows",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "367970"
+    },
+    "extended": {
+        "gamedir": "Medieval Engineers"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Medieval Engineers Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "DedicatedServer/MedievalEngineersDedicated.exe",
+                "description": "Launch",
+                "workingdir": "DedicatedServer",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "32"
+                }
+            },
+            "1": {
+                "executable": "DedicatedServer64/MedievalEngineersDedicated.exe",
+                "description": "Launch",
+                "workingdir": "DedicatedServer64",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228987": {
+            "name": "VC 2017 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29664201",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "name": ".NET 4.7 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "83944258",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "367971": {
+            "name": "Medieval Engineers Dedicated Server Content",
+            "manifests": {
+                "public": "4353014925469155315",
+                "0.2.70": "8708066655424873290",
+                "0.3.8": "9020582738573568232",
+                "0.4.20": "7496619810833376367",
+                "0.5.23": "8317524616206950350",
+                "0.6.4": "6387099835503853948",
+                "last_week": "8703148628929953842"
+            },
+            "maxsize": "1917199296",
+            "encryptedmanifests": {
+                "ctg_major": {
+                    "encrypted_gid_2": "BA6320A988B87543592500A03B2F5843",
+                    "encrypted_size_2": "28566A474617F1CA5C3E84864C478485"
+                },
+                "ctg_weekly": {
+                    "encrypted_gid_2": "8532D192EB50B44D602B8C323100FC17",
+                    "encrypted_size_2": "755D97FF944BD29B4B2E399232949A40"
+                },
+                "develop": {
+                    "encrypted_gid_2": "F924015BB628F09DEFE0BBFB16DDAC5A",
+                    "encrypted_size_2": "CCD17D846D5D5AB66300CB9BF8289536"
+                },
+                "develop_major": {
+                    "encrypted_gid_2": "AE00D9CF3BF340239A3B30DFC5FF06ED",
+                    "encrypted_size_2": "E9377973D6F36BB346F6536C5BB7F81A"
+                },
+                "master": {
+                    "encrypted_gid_2": "7C556C7398F3571CE60D44B124CDC879",
+                    "encrypted_size_2": "E71BF2A109AE7EDAE711A8418B23F76A"
+                }
+            }
+        },
+        "workshopdepot": "367970",
+        "branches": {
+            "public": {
+                "buildid": "4676574",
+                "timeupdated": "1584457360"
+            },
+            "0.2.70": {
+                "buildid": "1146003",
+                "description": "Legacy Archive (32bit support)",
+                "timeupdated": "1494339512"
+            },
+            "0.3.8": {
+                "buildid": "1501782",
+                "description": "Planets Stable",
+                "timeupdated": "1481646377"
+            },
+            "0.4.20": {
+                "buildid": "1794614",
+                "description": "Farming Stable",
+                "timeupdated": "1494339419"
+            },
+            "0.5.23": {
+                "buildid": "2186089",
+                "description": "Shovel Stable",
+                "timeupdated": "1510821222"
+            },
+            "0.6.4": {
+                "buildid": "3412282",
+                "description": "Character Stable",
+                "timeupdated": "1550163386"
+            },
+            "ctg_major": {
+                "buildid": "7502062",
+                "description": "Testing Branch: Major",
+                "pwdrequired": "1",
+                "timeupdated": "1633871296"
+            },
+            "ctg_weekly": {
+                "buildid": "5588602",
+                "description": "Testing Branch: Weekly",
+                "pwdrequired": "1",
+                "timeupdated": "1600964110"
+            },
+            "develop": {
+                "buildid": "7502062",
+                "description": "Internal branch",
+                "pwdrequired": "1",
+                "timeupdated": "1633703891"
+            },
+            "develop_major": {
+                "buildid": "3751261",
+                "description": "Internal branch",
+                "pwdrequired": "1",
+                "timeupdated": "1555615585"
+            },
+            "last_week": {
+                "buildid": "3681352",
+                "description": "Last week's build",
+                "timeupdated": "1556263064"
+            },
+            "master": {
+                "buildid": "3412282",
+                "description": "Internal branch",
+                "pwdrequired": "1",
+                "timeupdated": "1545223290"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "bde920f6b16cfcb94c849c1f7e5ad4644dc12c77",
+    "_size": 4547
+}

@@ -1,0 +1,93 @@
+{
+    "appid": "1141420",
+    "common": {
+        "name": "Remnants Dedicated Server",
+        "type": "Tool",
+        "parent": "574180",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "icon": "4cce30c4530d8d88d1a381ea4608f186efbab68b",
+        "logo": "b2ed5d00f04cf3db036d9dea9e5941f32d2315d0",
+        "logo_small": "b2ed5d00f04cf3db036d9dea9e5941f32d2315d0_thumb",
+        "clienticon": "e3c6d9400059755e4c827a113a46d5a5b6f1a0ec",
+        "clienttga": "9bf209ae9feac6fdc4ce7daa1028d90256a154e3",
+        "associations": {},
+        "gameid": "1141420"
+    },
+    "config": {
+        "installdir": "Remnants Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "RemnantsServer.exe",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1141421": {
+            "name": "RemnantsDedicatedServer Content",
+            "config": {
+                "language": ""
+            }
+        },
+        "1141422": {
+            "name": "Remnants Alpha Dedicated Server",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": "173088278267825940"
+            },
+            "maxsize": "1130465835",
+            "encryptedmanifests": {
+                "dev-branch": {
+                    "encrypted_gid_2": "208E1C2CBECCFC9B2AC0B940C844F55D",
+                    "encrypted_size_2": "67C216FB277964278689117769019C10"
+                },
+                "public-test-branch": {
+                    "encrypted_gid_2": "C2BD52D289D9A8516C581F83CEDFC548",
+                    "encrypted_size_2": "629C64D71E4E4BEE2932F077E509472C"
+                }
+            }
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "7957271",
+                "timeupdated": "1640942056"
+            },
+            "dev-branch": {
+                "buildid": "8359267",
+                "description": "latest development test branch",
+                "pwdrequired": "1",
+                "timeupdated": "1647080213"
+            },
+            "public-test-branch": {
+                "buildid": "8359267",
+                "description": "public testing on the newest updates",
+                "pwdrequired": "1",
+                "timeupdated": "1647084845"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14207132,
+    "_sha": "e4f6c1a87b4df137eb82c167931434648dd1a4c1",
+    "_size": 2071
+}

@@ -1,0 +1,141 @@
+{
+    "appid": "111710",
+    "common": {
+        "name": "Nuclear Dawn - Dedicated Server",
+        "type": "Tool",
+        "freeondemand": "1",
+        "oslist": "windows,linux",
+        "osarch": "",
+        "gameid": "111710"
+    },
+    "extended": {
+        "dedicatedserverfolder": "nucleardawn",
+        "developer": "http://www.interwavestudios.com",
+        "gamedir": "Nuclear Dawn Dedicated Server",
+        "homepage": "http://www.nucleardawnthegame.com",
+        "icon": "",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "17711",
+        "serverbrowsername": "",
+        "state": "eStateTool"
+    },
+    "config": {
+        "launch": {
+            "0": {
+                "executable": "ndsrv.exe",
+                "arguments": "-steam -game nucleardawn"
+            }
+        },
+        "contenttype": "3",
+        "installdir": "Nuclear Dawn"
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "overridescddb": "1",
+        "17718": {
+            "name": "nuclear dawn DS helper",
+            "config": {
+                "oslist": "windows"
+            },
+            "optional": "1",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "3735901233717536875"
+            },
+            "maxsize": "1"
+        },
+        "17711": {
+            "name": "Nuclear Dawn Content",
+            "systemdefined": "1",
+            "maxsize": "4633578503",
+            "depotfromapp": "17710",
+            "sharedinstall": "2"
+        },
+        "17712": {
+            "name": "Nuclear Dawn Windows Engine",
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "maxsize": "73369365",
+            "depotfromapp": "17710",
+            "sharedinstall": "2"
+        },
+        "111711": {
+            "name": "Nuclear Dawn LinuxDedicated Engine",
+            "config": {
+                "oslist": "linux"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": "8871863972997944411"
+            },
+            "maxsize": "37750808",
+            "encryptedmanifests": {
+                "beta": {
+                    "encrypted_gid_2": "3B1D00F81FBE146692B4D66115C8F29F",
+                    "encrypted_size_2": "875956FA653D447A1FB9EEFFA6A489DB"
+                },
+                "previous": {
+                    "encrypted_gid_2": "D8E407722BD27A231DB9486154871C49",
+                    "encrypted_size_2": "401A9525DCDDFFC04FBD55EA5B2A49C7"
+                }
+            }
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "3212411",
+                "timeupdated": "1539564137"
+            },
+            "beta": {
+                "buildid": "2990994",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1533001748"
+            },
+            "previous": {
+                "buildid": "2791029",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1533072915"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "52cd28fa393f5c07b01c7586fb1d0155fe06ee5f",
+    "_size": 2861
+}

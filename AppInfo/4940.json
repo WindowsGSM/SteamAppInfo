@@ -1,0 +1,183 @@
+{
+    "appid": "4940",
+    "common": {
+        "name": "Natural Selection 2 Dedicated Server",
+        "type": "Tool",
+        "parent": "4920",
+        "oslist": "windows,linux",
+        "gameid": "4940"
+    },
+    "extended": {
+        "developer": "",
+        "gamedir": "Natural Selection 2 Dedicated Server",
+        "homepage": "",
+        "icon": "",
+        "noservers": "0",
+        "sourcegame": "1",
+        "state": "eStateTool",
+        "visibleonlywhensubscribed": "1"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Natural Selection 2 Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "x64/Server.exe",
+                "type": "none",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "4922": {
+            "name": "Natural Selection 2 Dedicated Server Content",
+            "manifests": {
+                "public": "7967389062671940883"
+            },
+            "maxsize": "3456940113",
+            "encryptedmanifests": {
+                "backup": {
+                    "encrypted_gid_2": "54FF99CAF1510622BACFD06ACBFF48D2",
+                    "encrypted_size_2": "6B18CB44D808C7C712C535C3B7D2D13B"
+                },
+                "build_253": {
+                    "encrypted_gid_2": "4567082EDC283918B9564070A79FCF6E",
+                    "encrypted_size_2": "77C9C5CC19E22DF57115B69D28AEC98F"
+                },
+                "build_277": {
+                    "encrypted_gid_2": "DDEC2A661BFF84A73B2233C4D80AE153",
+                    "encrypted_size_2": "F44F7A1D2B90A46A6BAFDC8691F2098C"
+                },
+                "build_307": {
+                    "encrypted_gid_2": "7227B56D52C82CDD271FD568EE3A579B",
+                    "encrypted_size_2": "2B42BF6E1BE1C25A98F568BA9E7E17D1"
+                },
+                "experimental": {
+                    "encrypted_gid_2": "FDF9E05D270B75A5B0FF11B17E1FB04A",
+                    "encrypted_size_2": "757A47EFDE97B41412AA95CE6A3ED493"
+                },
+                "maptesting": {
+                    "encrypted_gid_2": "A1801182C4BBAA7EE89A1909D229BA24",
+                    "encrypted_size_2": "941F1CD8F7CEE9A5E5B7424A7B90C59F"
+                },
+                "testing": {
+                    "encrypted_gid_2": "D7C7C1294C26D56732AA6D20FB6A00B2",
+                    "encrypted_size_2": "6FC589053311705EE3B136FDA9FFE47D"
+                },
+                "throwback": {
+                    "encrypted_gid_2": "340F86A9FAD1E40A2C4D4A9AE594AF79",
+                    "encrypted_size_2": "D943381D0B12632D31B8D87F5BB02363"
+                }
+            }
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "8140053",
+                "timeupdated": "1643909919"
+            },
+            "backup": {
+                "buildid": "2275931",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1520527767"
+            },
+            "beta": {
+                "buildid": "8148105",
+                "description": "Beta Branch",
+                "timeupdated": "1644007382"
+            },
+            "build_253": {
+                "buildid": "64174",
+                "description": "Archived Reinforced (253) Build",
+                "pwdrequired": "1",
+                "timeupdated": "1547731014"
+            },
+            "build_277": {
+                "buildid": "836716",
+                "description": "Archived Build 277",
+                "pwdrequired": "1",
+                "timeupdated": "1547730967"
+            },
+            "build_307": {
+                "buildid": "1275763",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1473365691"
+            },
+            "experimental": {
+                "buildid": "8349702",
+                "description": "Experimental Branch",
+                "pwdrequired": "1",
+                "timeupdated": "1646942066"
+            },
+            "maptesting": {
+                "buildid": "4447692",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1575155009"
+            },
+            "testing": {
+                "buildid": "8288786",
+                "description": "Testing branch",
+                "pwdrequired": "1",
+                "timeupdated": "1646075834"
+            },
+            "throwback": {
+                "buildid": "24990",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1547585483"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "0b3383f00841f9c9d8c0c73299fc7166b7076084",
+    "_size": 4176
+}

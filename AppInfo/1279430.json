@@ -1,0 +1,111 @@
+{
+    "appid": "1279430",
+    "common": {
+        "name": "Civil Dedicated Server",
+        "type": "Tool",
+        "parent": "1131160",
+        "logo": "c94aeac7764931e7e7f7d0d5a72a46b3b3a497a9",
+        "logo_small": "c94aeac7764931e7e7f7d0d5a72a46b3b3a497a9_thumb",
+        "icon": "b00a99d2d4c5dbbd437d93f6feb737b316b6c3bb",
+        "clienttga": "ced7d00a97ea52e60ff197a7180cf45f08025691",
+        "clienticon": "e87ed3f23982f4e86687c7778cf9e79eb1ce7c6d",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "osextended": "",
+        "releasestate": "released",
+        "gameid": "1279430"
+    },
+    "config": {
+        "installdir": "Civil Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "civilServer.exe",
+                "arguments": "-log",
+                "description": "in window",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "civilServer.exe",
+                "description": "in the background",
+                "type": "option2",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "2": {
+                "executable": "\\Linux\\civilServer.sh",
+                "type": "default",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1279431": {
+            "name": "Civil Dedicated Server Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": "8910553028430889392"
+            },
+            "maxsize": "3157847383"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "5184195",
+                "timeupdated": "1592488391"
+            },
+            "dev_build": {
+                "buildid": "5184195",
+                "description": "Testing branch",
+                "pwdrequired": "1",
+                "timeupdated": "1592488379"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "3002fafe8d02af17d9df341643dab15553a610bf",
+    "_size": 2247
+}

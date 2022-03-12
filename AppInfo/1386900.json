@@ -1,0 +1,292 @@
+{
+    "appid": "1386900",
+    "common": {
+        "name": "Observer: System Redux",
+        "type": "Game",
+        "releasestate": "released",
+        "logo": "14fc2de704a0aeebc882a381d166f41a8c637811",
+        "logo_small": "14fc2de704a0aeebc882a381d166f41a8c637811_thumb",
+        "icon": "0d2465d0f499a253b0b07d335121beb08183ef1a",
+        "clienticon": "567884811bf931463f60c6dacfc0e3905a0cd652",
+        "clienttga": "6db18f65fbc75d6a570127389939a7f136daf2b1",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "languages": {
+            "english": "1",
+            "german": "1",
+            "french": "1",
+            "italian": "1",
+            "koreana": "1",
+            "spanish": "1",
+            "schinese": "1",
+            "russian": "1",
+            "japanese": "1",
+            "polish": "1",
+            "brazilian": "1"
+        },
+        "has_adult_content": "1",
+        "has_adult_content_sex": "1",
+        "has_adult_content_violence": "1",
+        "controller_support": "full",
+        "small_capsule": {
+            "english": "capsule_231x87.jpg"
+        },
+        "header_image": {
+            "english": "header.jpg"
+        },
+        "library_assets": {
+            "library_capsule": "en",
+            "library_hero": "en",
+            "library_logo": "en",
+            "logo_position": {
+                "pinned_position": "BottomLeft",
+                "width_pct": "64.65517241379311",
+                "height_pct": "100"
+            }
+        },
+        "store_asset_mtime": "1640189757",
+        "associations": {
+            "0": {
+                "type": "developer",
+                "name": "Bloober Team"
+            },
+            "1": {
+                "type": "developer",
+                "name": "Anshar Studios"
+            },
+            "2": {
+                "type": "publisher",
+                "name": "Bloober Team SA"
+            },
+            "3": {
+                "type": "franchise",
+                "name": "Bloober Team"
+            }
+        },
+        "primary_genre": "23",
+        "genres": {
+            "0": "25",
+            "1": "23"
+        },
+        "category": {
+            "category_2": "1",
+            "category_22": "1",
+            "category_23": "1",
+            "category_28": "1",
+            "category_45": "1",
+            "category_46": "1",
+            "category_33": "1"
+        },
+        "supported_languages": {
+            "english": {
+                "supported": "true",
+                "full_audio": "true",
+                "subtitles": "true"
+            },
+            "french": {
+                "supported": "true",
+                "subtitles": "true"
+            },
+            "italian": {
+                "supported": "true",
+                "subtitles": "true"
+            },
+            "german": {
+                "supported": "true",
+                "subtitles": "true"
+            },
+            "spanish": {
+                "supported": "true",
+                "subtitles": "true"
+            },
+            "schinese": {
+                "supported": "true",
+                "subtitles": "true"
+            },
+            "japanese": {
+                "supported": "true",
+                "subtitles": "true"
+            },
+            "koreana": {
+                "supported": "true",
+                "subtitles": "true"
+            },
+            "polish": {
+                "supported": "true",
+                "subtitles": "true"
+            },
+            "brazilian": {
+                "supported": "true",
+                "subtitles": "true"
+            },
+            "russian": {
+                "supported": "true",
+                "subtitles": "true"
+            }
+        },
+        "steam_release_date": "1605027877",
+        "community_visible_stats": "1",
+        "community_hub_visible": "1",
+        "gameid": "1386900",
+        "store_tags": {
+            "0": "1667",
+            "1": "8369",
+            "2": "5502",
+            "3": "1687",
+            "4": "4115",
+            "5": "5900",
+            "6": "3839",
+            "7": "4106",
+            "8": "4598",
+            "9": "1742",
+            "10": "5613",
+            "11": "1721",
+            "12": "9592",
+            "13": "1710",
+            "14": "6426",
+            "15": "15172",
+            "16": "6971",
+            "17": "5094",
+            "18": "4252",
+            "19": "5030"
+        },
+        "review_score": "8",
+        "review_percentage": "87"
+    },
+    "extended": {
+        "developer": "Bloober Team",
+        "publisher": "Bloober Team SA",
+        "homepage": "https://observersystemredux.com/",
+        "listofdlc": "1396070"
+    },
+    "config": {
+        "installdir": "Observer System Redux",
+        "launch": {
+            "0": {
+                "executable": "Tokio\\Binaries\\Win64\\ObserverSystemRedux.exe",
+                "workingdir": "Tokio\\Binaries\\Win64",
+                "description": "Launch game",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "Tokio\\Binaries\\Win64\\ObserverSystemRedux.exe",
+                "arguments": "-dx11",
+                "workingdir": "Tokio\\Binaries\\Win64",
+                "description": "Observer: System Redux (DX11)",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "2": {
+                "executable": "Tokio\\Binaries\\Win64\\ObserverSystemRedux.exe",
+                "arguments": "-dx12",
+                "workingdir": "Tokio\\Binaries\\Win64",
+                "description": "Observer: System Redux (DX12)",
+                "type": "option2",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "hasdepotsindlc": "1",
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1386901": {
+            "name": "Observer: System Redux Content",
+            "manifests": {
+                "public": "8851447905049334082"
+            },
+            "maxsize": "10227137838",
+            "encryptedmanifests": {
+                "patchtest": {
+                    "encrypted_gid_2": "EF321E94FB37196B675C459F2541036B",
+                    "encrypted_size_2": "25639D602A716108AC4609ED6E3C2DB4"
+                },
+                "pressrelease": {
+                    "encrypted_gid_2": "98B7560E1B996537234F6B247E928BEB",
+                    "encrypted_size_2": "62814C52E53E5C5883A53CEAE489138E"
+                }
+            }
+        },
+        "1386902": {
+            "name": "Observer: System Redux Japan",
+            "manifests": {},
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "349FA298BD82BB60A0A89201F99983A8",
+                    "encrypted_size_2": "B59704B94CA7C539D80F7BBCD0A73C09"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "7368691",
+                "timeupdated": "1635242799"
+            },
+            "development": {
+                "buildid": "7436884",
+                "description": "For testing",
+                "pwdrequired": "1",
+                "timeupdated": "1632820013"
+            },
+            "patchtest": {
+                "buildid": "5846647",
+                "description": "Additional testing branch",
+                "pwdrequired": "1",
+                "timeupdated": "1605690261"
+            },
+            "pressrelease": {
+                "buildid": "5709461",
+                "description": "Closed Beta",
+                "pwdrequired": "1",
+                "timeupdated": "1603213441"
+            }
+        }
+    },
+    "ufs": {
+        "quota": "64000000",
+        "maxnumfiles": "100",
+        "savefiles": {
+            "0": {
+                "root": "WinAppDataLocal",
+                "path": "ObserverSystemRedux/Saved/SaveGames/{64BitSteamID}",
+                "pattern": "*.sav",
+                "platforms": {
+                    "1": "Windows"
+                }
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14146496,
+    "_sha": "f3eb89ddf3f40095df3440bd75ab936d97171875",
+    "_size": 6145
+}

@@ -1,0 +1,179 @@
+{
+    "appid": "1433120",
+    "common": {
+        "name": "STAR WARS™: The Old Republic™ - Public Test Server",
+        "type": "Game",
+        "releasestate": "released",
+        "clienticon": "052984c11c278a78cb6525c7075bdf53795c2b39",
+        "clienttga": "73317caf085dfe34dfa33147f0bc05e953d665c2",
+        "icon": "a3146c62e6e27741847984508296316bae40e548",
+        "logo": "577d0304f48423ec13a0d25b2bd55e1a23ba9262",
+        "logo_small": "577d0304f48423ec13a0d25b2bd55e1a23ba9262_thumb",
+        "small_capsule": {
+            "english": "capsule_231x87.jpg"
+        },
+        "header_image": {
+            "english": "header.jpg"
+        },
+        "library_assets": {
+            "library_capsule": "en",
+            "library_hero": "en",
+            "library_logo": "en",
+            "logo_position": {
+                "pinned_position": "BottomLeft",
+                "width_pct": "55.81395348837209",
+                "height_pct": "70.51769175967704"
+            }
+        },
+        "store_asset_mtime": "1616174152",
+        "associations": {
+            "0": {
+                "type": "developer",
+                "name": "BioWare"
+            },
+            "1": {
+                "type": "publisher",
+                "name": "Electronic Arts"
+            },
+            "2": {
+                "type": "franchise",
+                "name": "Star Wars"
+            }
+        },
+        "primary_genre": "29",
+        "genres": {
+            "0": "29"
+        },
+        "category": {
+            "category_1": "1",
+            "category_20": "1",
+            "category_49": "1",
+            "category_9": "1"
+        },
+        "supported_languages": {
+            "english": {
+                "supported": "true",
+                "full_audio": "true",
+                "subtitles": "true"
+            }
+        },
+        "original_release_date": "1324368000",
+        "steam_release_date": "1616166000",
+        "community_hub_visible": "1",
+        "gameid": "1433120",
+        "exfgls": "1",
+        "store_tags": {
+            "0": "19",
+            "1": "128",
+            "2": "21",
+            "3": "122",
+            "4": "4231",
+            "5": "1754",
+            "6": "1697",
+            "7": "1685",
+            "8": "3859"
+        },
+        "review_score": "6",
+        "review_percentage": "76"
+    },
+    "extended": {
+        "developer": "BioWare",
+        "publisher": "Electronic Arts",
+        "homepage": "http://www.swtor.com/",
+        "isfreeapp": "1"
+    },
+    "config": {
+        "installdir": "Star Wars - The Old Republic - PTS",
+        "launch": {
+            "0": {
+                "executable": "launcher.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "228982": {
+            "name": "VC 2008 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "9688647",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1433121": {
+            "name": "PTS Launcher Content",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": "9175269190940161058"
+            },
+            "maxsize": "53652727"
+        },
+        "1433124": {
+            "name": "PTS English Assets",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "110216582572935896"
+            },
+            "maxsize": "11737576309"
+        },
+        "1433125": {
+            "name": "PTS Client and Shared Assets",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": "3027288681891366317"
+            },
+            "maxsize": "38301348749"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8348742",
+                "timeupdated": "1646930778"
+            },
+            "beta": {
+                "buildid": "8348742",
+                "description": "Internal testing",
+                "pwdrequired": "1",
+                "timeupdated": "1646930764"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14189646,
+    "_sha": "9a0ec8917914eb5f0d94fa3332b296ddf2656ffd",
+    "_size": 3541
+}

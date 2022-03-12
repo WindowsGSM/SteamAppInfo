@@ -1,0 +1,87 @@
+{
+    "appid": "1892930",
+    "common": {
+        "name": "s&box server",
+        "type": "Tool",
+        "parent": "590830",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "clienticon": "799a8fa793bfc9db3a72c88ae4f2d80516dafb79",
+        "clienttga": "0e1edfc157a793c94e232195bc5cc13ce5bd2aae",
+        "icon": "cfbd779994321ad3cec06be2570961339e4166c3",
+        "logo": "9fe7618a518e830887b691d1ba9db4ec45c2733a",
+        "logo_small": "9fe7618a518e830887b691d1ba9db4ec45c2733a_thumb",
+        "releasestate": "released",
+        "gameid": "1892930",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "sbox-server.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1892931": {
+            "name": "Dedicated Server Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "7391542931918808972"
+            },
+            "maxsize": "7075531498"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8360019",
+                "timeupdated": "1647103187"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14208344,
+    "_sha": "6929f12ec941c7f17a774eb86ec80536d36e40da",
+    "_size": 1695
+}

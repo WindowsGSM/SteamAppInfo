@@ -1,0 +1,114 @@
+{
+    "appid": "1362540",
+    "common": {
+        "name": "Battle Cry of Freedom - Dedicated Server",
+        "type": "Tool",
+        "parent": "1358710",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "osextended": "",
+        "clienticon": "b20b59cd3289d1f4e2742ee169a43d5b2c7c95d8",
+        "clienttga": "104406cb95d472b395e919f94ac91c35c54784ad",
+        "icon": "a25b3dfb1858427fddb252b4b9c0f1711852c0f4",
+        "logo": "17cf49a4babf62527c7f457dd367fc670702bf60",
+        "logo_small": "17cf49a4babf62527c7f457dd367fc670702bf60_thumb",
+        "community_hub_visible": "1",
+        "gameid": "1362540"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "installdir": "Battle Cry of Freedom - Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "BCoF.exe",
+                "arguments": "-batchmode -nographics -server",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        },
+        "uselaunchcommandline": "1"
+    },
+    "depots": {
+        "baselanguages": "english",
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1362541": {
+            "name": "Battle Cry of Freedom - Dedicated Server Content",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "2509714843627780418"
+            },
+            "maxsize": "8484615250",
+            "encryptedmanifests": {
+                "demo": {
+                    "encrypted_gid_2": "E3929FD256CA3F32AB925B8642643A65",
+                    "encrypted_size_2": "B4819664A3A77519BB56F2BAB932C237"
+                },
+                "demobeta": {
+                    "encrypted_gid_2": "327ED13B230D90061589046DD9DB20C6",
+                    "encrypted_size_2": "7830B9B4BC561E73EA4244CFC7FBD445"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8341549",
+                "timeupdated": "1647010571"
+            },
+            "demo": {
+                "buildid": "8294740",
+                "description": "Demo",
+                "pwdrequired": "1",
+                "timeupdated": "1646151965"
+            },
+            "demobeta": {
+                "buildid": "8355020",
+                "description": "bETA OF DEMO",
+                "pwdrequired": "1",
+                "timeupdated": "1647010578"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14199602,
+    "_sha": "17ed2b7dcd348eaa932ce5d5b11e92bd08e157e4",
+    "_size": 2495
+}

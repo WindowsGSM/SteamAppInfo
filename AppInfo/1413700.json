@@ -1,0 +1,88 @@
+{
+    "appid": "1413700",
+    "common": {
+        "name": "Trick Shot Dedicated Server",
+        "type": "Tool",
+        "parent": "1234920",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "logo": "005679e20e5249466d528a2251a0b22568b26b52",
+        "logo_small": "005679e20e5249466d528a2251a0b22568b26b52_thumb",
+        "icon": "7272c675cf5777d8b828bd249ae6a841ff5e2513",
+        "clienttga": "896e08ca6a6b90cacef1f0bef2e47159fda0ada5",
+        "clienticon": "27ff76e01dee3791addd3a7f4ab61a0580affa05",
+        "releasestate": "released",
+        "gameid": "1413700",
+        "exfgls": "1"
+    },
+    "extended": {
+        "gamedir": "TrickShot",
+        "serverbrowsername": "TrickShot"
+    },
+    "config": {
+        "installdir": "Trick Shot Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "/TrickShot/Binaries/Win64/TrickShotServer.exe",
+                "arguments": " -log",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1413701": {
+            "name": "Trick Shot Dedicated Server Content",
+            "manifests": {
+                "public": "8931235003205404429"
+            },
+            "maxsize": "347545543"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5488661",
+                "timeupdated": "1598976574"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "fb05cf47653ee6e9e06f071d1e9275ff32a984a7",
+    "_size": 1800
+}

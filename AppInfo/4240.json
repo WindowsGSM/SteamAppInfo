@@ -1,0 +1,88 @@
+{
+    "appid": "4240",
+    "common": {
+        "clienttga": "10e02063cc2e36850e54198cefddc19f167c2d9a",
+        "icon": "9b4d229c7c1855f7650915ac893d066f2e6e4087",
+        "logo": "",
+        "logo_small": "",
+        "name": "Race Dedicated Server",
+        "clienticon": "e7819961f6015dd9a26de05743a52463e4d78168",
+        "type": "Tool",
+        "small_capsule": {
+            "english": "capsule_231x87.jpg"
+        },
+        "header_image": {
+            "english": "header.jpg"
+        },
+        "associations": {
+            "0": {
+                "type": "developer",
+                "name": "SimBin"
+            },
+            "1": {
+                "type": "publisher",
+                "name": "SimBin"
+            }
+        },
+        "primary_genre": "5",
+        "genres": {
+            "0": "5",
+            "1": "9"
+        },
+        "gameid": "4240"
+    },
+    "extended": {
+        "developer": "SimBin",
+        "developer_url": "http://www.simbin.se/",
+        "gamedir": "RaceDS",
+        "homepage": "http://www.race-game.org/",
+        "icon": "steam/games/icon_Race",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "4231",
+        "serverbrowsername": "",
+        "state": "eStateTool",
+        "visibleonlywhensubscribed": "1",
+        "publisher": "SimBin"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "RaceDS",
+        "launch": {
+            "0": {
+                "executable": "RaceDedicatedServer_Steam.exe"
+            }
+        }
+    },
+    "depots": {
+        "overridescddb": "1",
+        "4232": {
+            "name": "Race Textures",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "2738374821109609842"
+            },
+            "maxsize": "499306752",
+            "depotfromapp": "4230"
+        },
+        "4231": {
+            "name": "Race Files",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "6226423127447119883"
+            },
+            "maxsize": "628748272",
+            "depotfromapp": "4230"
+        },
+        "markdlcdepots": "0",
+        "branches": {
+            "public": {
+                "buildid": "105485"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "b9324b9c135850a161576d99410dc7e7b5c95b2f",
+    "_size": 1635
+}

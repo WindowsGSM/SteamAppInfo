@@ -1,0 +1,131 @@
+{
+    "appid": "328950",
+    "common": {
+        "name": "SNOW Dedicated Server",
+        "type": "Tool",
+        "releasestate": "released",
+        "oslist": "windows",
+        "associations": {},
+        "gameid": "328950"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "SNOW",
+        "launch": {
+            "0": {
+                "executable": "Bin64/playSNOW_Server.exe",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "228982": {
+            "name": "VC 2008 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "9688647",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228983": {
+            "name": "VC 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "19265607",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "name": "VC 2012 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "13742505",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "name": "VC 2013 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "13699237",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "328951": {
+            "name": "Dedicated Server Binaries Windows x64",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "5744342002172186281"
+            },
+            "maxsize": "36474771"
+        },
+        "244932": {
+            "name": "SNOW Content",
+            "systemdefined": "1",
+            "maxsize": "5687931359",
+            "depotfromapp": "244930",
+            "sharedinstall": "2"
+        },
+        "244931": {
+            "name": "Binaries Windows x64",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "maxsize": "101981770",
+            "depotfromapp": "244930",
+            "sharedinstall": "2"
+        },
+        "244935": {
+            "name": "Levels",
+            "systemdefined": "1",
+            "maxsize": "3955626609",
+            "depotfromapp": "244930",
+            "sharedinstall": "2"
+        },
+        "244934": {
+            "name": "Localization English",
+            "config": {
+                "language": "english"
+            },
+            "systemdefined": "1",
+            "maxsize": "2130141",
+            "depotfromapp": "244930",
+            "sharedinstall": "2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "903750"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "dc4c3f36594ae88fff6ae811bc32b73353b6c144",
+    "_size": 2376
+}

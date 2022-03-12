@@ -1,0 +1,96 @@
+{
+    "appid": "689410",
+    "common": {
+        "name": "BattleBitDedicatedGameServer",
+        "type": "Tool",
+        "parent": "671860",
+        "oslist": "windows",
+        "osarch": "",
+        "osextended": "",
+        "logo": "99516aeb589497f95a2fe001d48557126fde7287",
+        "logo_small": "99516aeb589497f95a2fe001d48557126fde7287_thumb",
+        "icon": "1729a63fb50ed6f6a070bf73f184da27dee1b7c6",
+        "clienttga": "305c2c8db717669ae04fdb6d84f517973f697939",
+        "clienticon": "75648e42b503768d789b37e6eb49b5094b62c833",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "689410",
+        "exfgls": "1"
+    },
+    "extended": {
+        "gamedir": "BattleBit Master Server",
+        "serverbrowsername": "1.0.0.0",
+        "anti_cheat_support_url": "https://www.easy.ac/r/steam/gamebans/?steamAppId=689410"
+    },
+    "config": {
+        "installdir": "BattleBitServer",
+        "launch": {
+            "0": {
+                "executable": "BattleBit.exe",
+                "arguments": "-batchmode -nographics \"-Name=Game Server server\" -Port=29991 -Hz=60 -SaveStats=true -DynamicRooms=true -MaxPlayers=00 -PlayersToStart=00 \"-FirstRoom=\" \"-TemplateRoom=\" \"-DynamicFirstMap=namak\" \"-DynamicFirstGamemode=tiny\" \"-DynamicFirstSize=tiny\" \"-DynamicFixedSize=none\" \"-BeginnerServer=false\" \"-DynamicMaxSize=ultra\" \"-MinRank=0\" \"-MaxRank=0\" \"-RconEnabled=true\" \"-RconPassword=admin\""
+            }
+        }
+    },
+    "depots": {
+        "1611741": {
+            "name": "BattleBit Remastered Playtest Depot",
+            "manifests": {
+                "public": "7491435986050261719"
+            },
+            "maxsize": "1402272423",
+            "encryptedmanifests": {
+                "developer": {
+                    "encrypted_gid_2": "CE2302EF56DEBB6F39C630BA6E625685",
+                    "encrypted_size_2": "B19E6A42063D7777E536DAC1B7CAD23E"
+                },
+                "publicqa": {
+                    "encrypted_gid_2": "59951D2C0E88AA79E5B595C05C3F8963",
+                    "encrypted_size_2": "53BC4B034F8998D93D235430AD87E62A"
+                },
+                "server": {
+                    "encrypted_gid_2": "2DD33B11259C4419F69518F018D75ACF",
+                    "encrypted_size_2": "5F328BB3C110328688047DF31518B4E9"
+                },
+                "test": {
+                    "encrypted_gid_2": "DE45CB64A5FA931034957EBA82051F7B",
+                    "encrypted_size_2": "63F43386089D0B0284995301B3E529E1"
+                }
+            },
+            "depotfromapp": "1611740"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2513063",
+                "timeupdated": "1518200532"
+            },
+            "developer": {
+                "buildid": "8343902",
+                "description": "developer",
+                "pwdrequired": "1",
+                "timeupdated": "1646872334"
+            },
+            "publicqa": {
+                "buildid": "8338297",
+                "description": "publicqa",
+                "pwdrequired": "1",
+                "timeupdated": "1646809183"
+            },
+            "server": {
+                "buildid": "8338297",
+                "description": "server",
+                "pwdrequired": "1",
+                "timeupdated": "1646809189"
+            },
+            "test": {
+                "buildid": "8338297",
+                "description": "Test",
+                "pwdrequired": "1",
+                "timeupdated": "1646809195"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14182802,
+    "_sha": "c4d586444c32d9c5ab75295621ccf280b2e85847",
+    "_size": 2735
+}

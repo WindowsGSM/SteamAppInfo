@@ -1,0 +1,88 @@
+{
+    "appid": "817300",
+    "common": {
+        "name": "Base Defense Dedicated Server",
+        "type": "Tool",
+        "parent": "632730",
+        "releasestate": "released",
+        "oslist": "linux",
+        "osarch": "",
+        "logo": "a62852da896d45f099613bc2a742e9ff2d25694a",
+        "logo_small": "a62852da896d45f099613bc2a742e9ff2d25694a_thumb",
+        "icon": "26710ab9a92d397bdda218963e32d6d2047fd83a",
+        "linuxclienticon": "545f18d67d7b225fee8e8089b8e3c55d3ad85960",
+        "clienticon": "2c3ccd318290453e0436a56bb6eb2d2de357908a",
+        "clienttga": "55fa9670a1137e752ec516ce38a54e8eda4e6cf2",
+        "associations": {},
+        "gameid": "817300",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "Base Defense Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "hlds_run",
+                "arguments": "-console -game bdef +map pve_tomb -maxplayers 3",
+                "type": "none",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "32"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "817301": {
+            "name": "Base Defense Dedicated Server Content",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "3568171064761768443"
+            },
+            "maxsize": "350213312"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2602875",
+                "timeupdated": "1521026187"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "323e55f287da747cce518c6e0ce07bef3e48c87c",
+    "_size": 1834
+}

@@ -1,0 +1,92 @@
+{
+    "appid": "205",
+    "common": {
+        "clienttga": "cf1ac7ec6ac21d099a2fe81bf269bfd50a550a0c",
+        "icon": "",
+        "logo": "",
+        "logo_small": "",
+        "name": "Source Dedicated Server",
+        "releasestate": "released",
+        "oslist": "windows,macos,linux",
+        "type": "Tool",
+        "gameid": "205"
+    },
+    "extended": {
+        "developer": "Valve",
+        "gamedir": "valve",
+        "homepage": "http://www.steampowered.com",
+        "icon": "steam/games/icon_source_ds",
+        "icon2": "steam/games/icon_source_ds_dull",
+        "noservers": "1",
+        "order": "19",
+        "primarycache": "205",
+        "state": "eStateUnAvailable"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Source Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "srcds.exe",
+                "arguments": "-steam"
+            }
+        }
+    },
+    "depots": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "208": {
+            "name": "Base Source Shared Sounds",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "3149153229693629388"
+            },
+            "maxsize": "995522479"
+        },
+        "207": {
+            "name": "Base Source Shared Models",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "1025719905895126023"
+            },
+            "maxsize": "397557916"
+        },
+        "206": {
+            "name": "Base Source Shared Materials",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "8460749637658605693"
+            },
+            "maxsize": "1038409978"
+        },
+        "205": {
+            "name": "Source Dedicated Server",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "29462157349265252"
+            },
+            "maxsize": "20223153"
+        },
+        "1004": {
+            "name": "Steamworks SDK Redist (Win32)",
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "3578600867548439549"
+            },
+            "maxsize": "9662208",
+            "depotfromapp": "1002"
+        },
+        "branches": {
+            "public": {
+                "buildid": "123345"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "a7bb6e59280e2084d14ca2e5c0ef9482c74cc9b2",
+    "_size": 1768
+}

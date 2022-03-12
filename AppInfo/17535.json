@@ -1,0 +1,134 @@
+{
+    "appid": "17535",
+    "common": {
+        "name": "D.I.P.R.I.P. Dedicated Server",
+        "clienttga": "d9c5f6f8bd66ba888c9d97f75db240395dca5b60",
+        "clienticon": "85e02abd00f9ef9a5fb8b2154c5c6f2959e2f9f4",
+        "type": "Tool",
+        "freeondemand": "1",
+        "gameid": "17535"
+    },
+    "extended": {
+        "developer": "EXOR Studios",
+        "gamedir": "D.I.P.R.I.P. Server",
+        "homepage": "www.diprip.com",
+        "icon": "",
+        "loadallbeforelaunch": "1",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "17531",
+        "serverbrowsername": "",
+        "state": "eStateTool",
+        "visibleonlywhensubscribed": "1"
+    },
+    "config": {
+        "usemms": "",
+        "contenttype": "3",
+        "installdir": "D.I.P.R.I.P. Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "srcds.exe",
+                "arguments": "-steam -diprip"
+            }
+        }
+    },
+    "depots": {
+        "overridescddb": "1",
+        "208": {
+            "name": "Base Source Shared Sounds",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "6607606726056919811"
+            },
+            "maxsize": "995522479",
+            "depotfromapp": "310"
+        },
+        "207": {
+            "name": "Base Source Shared Models",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "8662237756916905160"
+            },
+            "maxsize": "397557916",
+            "depotfromapp": "310"
+        },
+        "206": {
+            "name": "Base Source Shared Materials",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "3397042702627679991"
+            },
+            "maxsize": "1038409978",
+            "depotfromapp": "310"
+        },
+        "307": {
+            "name": "Source 2007 Shared Sounds",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "4320616745349668692"
+            },
+            "maxsize": "2270328",
+            "depotfromapp": "310"
+        },
+        "306": {
+            "name": "Source 2007 Shared Models",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "7375716330301856215"
+            },
+            "maxsize": "146083290",
+            "depotfromapp": "310"
+        },
+        "305": {
+            "name": "Source 2007 Shared Materials",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "1641700147160657647"
+            },
+            "maxsize": "995098913",
+            "depotfromapp": "310"
+        },
+        "310": {
+            "name": "Source 2007 Dedicated Server Win32",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "4768438366263625173"
+            },
+            "maxsize": "15209193",
+            "depotfromapp": "310"
+        },
+        "17531": {
+            "name": "diprip_mod",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "8962930858358266155"
+            },
+            "maxsize": "1326082674",
+            "depotfromapp": "17530"
+        },
+        "1004": {
+            "name": "Steamworks SDK Redist (Win32)",
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "3578600867548439549"
+            },
+            "maxsize": "9662208",
+            "depotfromapp": "310"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "195543"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "eeae6870be2b91cc0f6a08bc207ab0f4d4167e92",
+    "_size": 2690
+}

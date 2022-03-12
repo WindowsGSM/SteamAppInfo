@@ -1,0 +1,229 @@
+{
+    "appid": "228780",
+    "common": {
+        "name": "Blade Symphony Dedicated Server",
+        "type": "Tool",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "parent": "225600",
+        "gameid": "228780",
+        "exfgls": "1"
+    },
+    "extended": {
+        "checkpkgstate": "1",
+        "developer": "",
+        "gamedir": "ValveTestApp228780",
+        "homepage": "",
+        "icon": "",
+        "installscript": "installscript_ds.vdf",
+        "noservers": "0",
+        "sourcegame": "1",
+        "state": "eStateComingSoonNoPreload",
+        "visibleonlywhensubscribed": "1"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Blade Symphony",
+        "launch": {
+            "0": {
+                "executable": "bin\\win32\\srcds.exe",
+                "arguments": "-console +maxplayers 16 +map duel_winter",
+                "workingdir": "bin\\win32\\",
+                "description": "Launch Dedicated Server",
+                "type": "none",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "srcds_linux",
+                "description": "Launch Dedicated Server",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "overridescddb": "1",
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228983": {
+            "name": "VC 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "19265607",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "name": ".NET 3.5 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "242743889",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229001": {
+            "name": ".NET 3.5 Client Profile Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "267964564",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "225601": {
+            "name": "Blade Symphony | Shared Content",
+            "systemdefined": "1",
+            "maxsize": "6566850570",
+            "depotfromapp": "225600",
+            "sharedinstall": "2"
+        },
+        "228781": {
+            "name": "Blade Symphony Dedicated Server Linux",
+            "systemdefined": "1",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "933024078521606849",
+                "release_candidate": "8881834461384163076",
+                "unharmonious": "5248850657780698129"
+            },
+            "maxsize": "141940642",
+            "encryptedmanifests": {
+                "jenkins_builds": {
+                    "encrypted_gid_2": "91D89442C13620339CECC587F5579ACD",
+                    "encrypted_size_2": "EDB1C12494C2C2C7295481C78BA028FF"
+                },
+                "nightly": {
+                    "encrypted_gid_2": "7AA8F27D2AC866E1FA75FBBF5A8B3CED",
+                    "encrypted_size_2": "2FE66D2BE6AD05FF0B1B9E0D08372E58"
+                },
+                "nightly-prod": {
+                    "encrypted_gid_2": "64CC7AF852C6BD02484887DBC803C775",
+                    "encrypted_size_2": "A3E768DE7F6D66A988E8395F577ADA94"
+                }
+            }
+        },
+        "228782": {
+            "name": "Blade Symphony Dedicated Server Win32",
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "manifests": {
+                "public": "3990207016367704756",
+                "release_candidate": "563231722562336572",
+                "unharmonious": "3122610084588606763"
+            },
+            "maxsize": "175678655",
+            "encryptedmanifests": {
+                "jenkins_builds": {
+                    "encrypted_gid_2": "BFEACBA12B166BA0EE26A37F4BC71513",
+                    "encrypted_size_2": "B3361096A8F239CA31C058A52D4A498C"
+                },
+                "nightly": {
+                    "encrypted_gid_2": "1EB257A1406352E4F7426ED500BAA3AF",
+                    "encrypted_size_2": "A3B2BD56F1EAF22E22F8F55ABB7C122D"
+                },
+                "nightly-prod": {
+                    "encrypted_gid_2": "F9473B0E9F94B6DCC4BCDD046D937C1A",
+                    "encrypted_size_2": "3E45E2E210D1E876C842FD0C2D3B47DD"
+                }
+            }
+        },
+        "228783": {
+            "name": "Blade Symphony Dedicated Server Win64",
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "4658495359715763202",
+                "release_candidate": "3532740538147205442"
+            },
+            "maxsize": "152756996",
+            "encryptedmanifests": {
+                "jenkins_builds": {
+                    "encrypted_gid_2": "0DB01623B894F8EF376D23D604515724",
+                    "encrypted_size_2": "A505B3B0C70F61D8C293DCD58FBD35CB"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "7237463",
+                "timeupdated": "1630619620"
+            },
+            "jenkins_builds": {
+                "buildid": "7733314",
+                "description": "Builds from Jenkins",
+                "pwdrequired": "1",
+                "timeupdated": "1637208243"
+            },
+            "nightly": {
+                "buildid": "1569738",
+                "description": "Bleeding edge development",
+                "pwdrequired": "1",
+                "timeupdated": "1484442007"
+            },
+            "nightly-prod": {
+                "buildid": "1569740",
+                "description": "nightly, api.blade-symphony.com",
+                "pwdrequired": "1",
+                "timeupdated": "1484442111"
+            },
+            "release_candidate": {
+                "buildid": "7733314",
+                "description": "Main Release Candidate",
+                "timeupdated": "1637763388"
+            },
+            "unharmonious": {
+                "buildid": "1536482",
+                "description": "",
+                "timeupdated": "1538440637"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "9e47d5f37117346dfc685201c5ad8778db809149",
+    "_size": 5267
+}

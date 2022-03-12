@@ -1,0 +1,99 @@
+{
+    "appid": "1315990",
+    "common": {
+        "name": "Blackstorm - Dedicated Server",
+        "type": "Tool",
+        "parent": "1315240",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "",
+        "osextended": "",
+        "logo": "589279cad7d17373b7979ee6dfc1c06c7c08cc13",
+        "logo_small": "589279cad7d17373b7979ee6dfc1c06c7c08cc13_thumb",
+        "icon": "cc9c9095dda612ae9ad1340c693ced080634950c",
+        "clienttga": "c84c9b4532c9e471537dc97e57539fcff680717a",
+        "clienticon": "498809795e7c6607da788b020a3b9234438b0d9a",
+        "community_hub_visible": "1",
+        "gameid": "1315990",
+        "exfgls": "1"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "installdir": "Blackstorm - Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "Blackstorm_Dedicated_Server_App.exe",
+                "type": "none",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1315991": {
+            "name": "Blackstorm - Dedicated Server Content",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "5511225831446943461"
+            },
+            "maxsize": "146484944"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6806792",
+                "timeupdated": "1622728901"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "2e5552995e9f9edca3e5bf9ceca7b0dd61ce68e2",
+    "_size": 1968
+}

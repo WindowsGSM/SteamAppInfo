@@ -1,0 +1,74 @@
+{
+    "appid": "255470",
+    "common": {
+        "name": "Half-Life Deathmatch: Source Dedicated server",
+        "type": "Tool",
+        "releasestate": "released",
+        "oslist": "windows",
+        "clienticon": "d991f95d96e1c76d2acb944bb09447628cd96caa",
+        "clienttga": "bf3b23c9bf2252c27e6472c65383176002c1643c",
+        "icon": "b4f572a6cc5a6a84ae84634c31414b9123d2f26b",
+        "linuxclienticon": "87bda297bfca8fa26490f4a35d634d978c7da319",
+        "clienticns": "44b51f7d161d4d16f4517d36bd9eab1589b75c9e",
+        "gameid": "255470"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Half-Life Deathmatch Source Dedicated server",
+        "launch": {
+            "0": {
+                "executable": "srcds.exe",
+                "arguments": "-game hl1mp",
+                "description": "Launch",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "255470": {
+            "name": "HL1:MP Dedicated server assets",
+            "manifests": {
+                "public": "2278144969926205611"
+            },
+            "maxsize": "949719957"
+        },
+        "255471": {
+            "name": "HL1:MP Windows server",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "2924862230544282892"
+            },
+            "maxsize": "92717248"
+        },
+        "255472": {
+            "name": "HL1:MP Linux server",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "5572515540873246049"
+            },
+            "maxsize": "66997815"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "6935416",
+                "timeupdated": "1625258036"
+            },
+            "prerelease": {
+                "buildid": "6935416",
+                "description": "",
+                "timeupdated": "1625258030"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11927331,
+    "_sha": "d8f960b0f85f3099106570d6cb1e4a3ce949631c",
+    "_size": 1527
+}

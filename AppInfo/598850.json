@@ -1,0 +1,147 @@
+{
+    "appid": "598850",
+    "common": {
+        "name": "Hellion Dedicated Server",
+        "type": "Tool",
+        "parent": "588210",
+        "releasestate": "released",
+        "icon": "66680bbd642aa7f9032e8a81d11d9814f1da6264",
+        "logo": "c264f5302f70b23887c360927fc1bc664128783a",
+        "logo_small": "c264f5302f70b23887c360927fc1bc664128783a_thumb",
+        "clienticon": "6e07435fdd4d383142a5bb01c5ae17d6dd20e0de",
+        "clienttga": "d7f4035c6775b2745af9a4da1cf0c4f2e2a3263f",
+        "oslist": "windows",
+        "osarch": "",
+        "associations": {},
+        "community_hub_visible": "1",
+        "gameid": "598850"
+    },
+    "config": {
+        "installdir": "Hellion Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "HELLION_Dedicated.exe",
+                "type": "none",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228986": {
+            "name": "VC 2015 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29759921",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "name": ".NET 4.6 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "62009092",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "598851": {
+            "name": "Hellion Dedicated Server Content",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "8521234559282681105"
+            },
+            "maxsize": "14383335",
+            "encryptedmanifests": {
+                "closedtestingbranch": {
+                    "encrypted_gid_2": "5798F4384AC4BDAC92935AEB0F34FF1C",
+                    "encrypted_size_2": "1E1A0DC93DD827F8EEAF763AE0720C94"
+                },
+                "experimental": {
+                    "encrypted_gid_2": "3EDD30468AD46043CAA5366AB231BF9D",
+                    "encrypted_size_2": "A28C71E5F24DA599110D1EA651D91684"
+                },
+                "hellionrp": {
+                    "encrypted_gid_2": "307618230E1841492AB8A186BF28D69F",
+                    "encrypted_size_2": "DBDD423FA212B86BBC6DB1E1E7B25A2B"
+                },
+                "specialevent": {
+                    "encrypted_gid_2": "1D4B00892258D608297A73C500734BCA",
+                    "encrypted_size_2": "54A2014DBAC2691CA8912AEB9296CA27"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "4108572",
+                "timeupdated": "1565878001"
+            },
+            "closedtestingbranch": {
+                "buildid": "3344061",
+                "description": "Closed testing build",
+                "pwdrequired": "1",
+                "timeupdated": "1543337114"
+            },
+            "experimental": {
+                "buildid": "3229618",
+                "description": "Experimental server build",
+                "pwdrequired": "1",
+                "timeupdated": "1539969490"
+            },
+            "hellionrp": {
+                "buildid": "2591042",
+                "description": "uHostPro",
+                "pwdrequired": "1",
+                "timeupdated": "1520615875"
+            },
+            "specialevent": {
+                "buildid": "2779147",
+                "description": "specialevent",
+                "pwdrequired": "1",
+                "timeupdated": "1526481239"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "6a6f9bf2843bfac5dcc8a60a2c9700c736d9ebf1",
+    "_size": 3307
+}

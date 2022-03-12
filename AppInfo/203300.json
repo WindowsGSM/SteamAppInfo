@@ -1,0 +1,122 @@
+{
+    "appid": "203300",
+    "common": {
+        "name": "America's Army: Proving Grounds Dedicated Server",
+        "type": "Tool",
+        "oslist": "windows,linux",
+        "parent": "203290",
+        "osarch": "",
+        "associations": {},
+        "gameid": "203300",
+        "exfgls": "1"
+    },
+    "extended": {
+        "developer": "",
+        "gamedir": "ValveTestApp203300",
+        "homepage": "",
+        "icon": "",
+        "noservers": "0",
+        "sourcegame": "1",
+        "state": "eStateAvailable",
+        "visibleonlywhensubscribed": "1"
+    },
+    "config": {
+        "launch": {
+            "0": {
+                "executable": "Binaries/Win32/AAGameServer.exe",
+                "workingdir": "Binaries/Win32/",
+                "description": "Launch a Dedicated America's Army: Proving Grounds Server",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        },
+        "contenttype": "3",
+        "installdir": "AAPG Dedicated Server"
+    },
+    "depots": {
+        "228983": {
+            "name": "VC 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "19265607",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "name": "VC 2012 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "13742505",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "preloadonly": "1",
+        "overridescddb": "1",
+        "203301": {
+            "name": "America's Army: Proving Grounds Dedicated Server Common",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "228900238534150950"
+            },
+            "maxsize": "1382349958"
+        },
+        "203302": {
+            "name": "America's Army: Proving Grounds Dedicated Server Windows",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "2718704469986543584"
+            },
+            "maxsize": "142042533"
+        },
+        "203303": {
+            "name": "America's Army: Proving Grounds Dedicated Server Linux",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "5122976245272997519"
+            },
+            "maxsize": "77117253"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7855978",
+                "timeupdated": "1639486905"
+            },
+            "beta": {
+                "buildid": "7855978",
+                "description": "Beta Branch",
+                "pwdrequired": "1",
+                "timeupdated": "1639065135"
+            }
+        }
+    },
+    "ufs": {
+        "quota": "104857600",
+        "maxnumfiles": "1000",
+        "hidecloudui": "0"
+    },
+    "_missing_token": false,
+    "_change_number": 13415386,
+    "_sha": "bb4e4aa84abed069a286d391017471650e6f1889",
+    "_size": 2417
+}

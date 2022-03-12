@@ -1,0 +1,53 @@
+{
+    "appid": "43210",
+    "common": {
+        "name": "The Haunted: Hells Reach Dedicated Server",
+        "type": "Tool",
+        "freeondemand": "1",
+        "parent": "43190",
+        "gameid": "43210"
+    },
+    "extended": {
+        "developer": "",
+        "gamedir": "the-haunted-hells-reach-dedicated",
+        "homepage": "",
+        "icon": "",
+        "installscript": "43210_install.vdf",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "43211",
+        "serverbrowsername": "",
+        "state": "eStateTool"
+    },
+    "config": {
+        "usemms": "",
+        "contenttype": "3",
+        "installdir": "the-haunted-hells-reach-dedicated",
+        "launch": {
+            "0": {
+                "executable": "Binaries/Win32/HauntedGame.exe",
+                "arguments": "server"
+            }
+        }
+    },
+    "depots": {
+        "43211": {
+            "name": "the-haunted-hells-reach-dedicated content",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "8057051142407401699"
+            },
+            "maxsize": "2479578129"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "87579"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "9a1a8e466ece85a2bf86013445a08df71d451b10",
+    "_size": 953
+}

@@ -1,0 +1,99 @@
+{
+    "appid": "1801260",
+    "common": {
+        "name": "Spawnworks Dedicated Server",
+        "type": "Tool",
+        "parent": "1731710",
+        "oslist": "",
+        "osarch": "",
+        "osextended": "",
+        "logo": "78fd25432cf08c10c0125d8adb01af7ae0da5817",
+        "logo_small": "78fd25432cf08c10c0125d8adb01af7ae0da5817_thumb",
+        "icon": "31576513266bc9d1313970eef667727b93340872",
+        "clienttga": "336f0e15a03ff045c63186bd494b9272f14e1c4c",
+        "clienticon": "e648b73976efdc1adcf94a865bf8a24f3ea13bec",
+        "releasestate": "released",
+        "gameid": "1801260",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "Spawnworks Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "BombRunnersServer.exe",
+                "arguments": "DM_POC -log"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1801261": {
+            "name": "Spawnworks Windows Dedicated Server Depot",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "4432924794912304032",
+                "development": "8923009970870191152"
+            },
+            "maxsize": "1572568871"
+        },
+        "1801262": {
+            "name": "Spawnworks Linux Dedicated Server Depot",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "5805652148236782539",
+                "development": "6956398262668621648"
+            },
+            "maxsize": "2530176861"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8219300",
+                "timeupdated": "1645096873"
+            },
+            "development": {
+                "buildid": "8354350",
+                "description": "development",
+                "timeupdated": "1647004187"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14198723,
+    "_sha": "b64ae67852bcc598847367ca07cf0b3b176d9c9b",
+    "_size": 2060
+}

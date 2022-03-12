@@ -1,0 +1,127 @@
+{
+    "appid": "824240",
+    "common": {
+        "name": "Unfortunate Spacemen Dedicated Server",
+        "type": "Tool",
+        "parent": "408900",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "64",
+        "clienticon": "3242110be3b41234e8d5ed6e224d13b3c3a9e5e0",
+        "clienttga": "6a4d4ad9f750891fc9ff8078728ed3d8850236a8",
+        "icon": "1b195661a0eb26c6b51880bbfc14efdcfff0d470",
+        "eulas": {
+            "0": {
+                "id": "824240_eula_0",
+                "name": "Spacemen Dedicated Srv EULA",
+                "url": "http://store.steampowered.com//eula/824240_eula_0"
+            }
+        },
+        "logo": "316bb2e9c3e38f275c706e379b10e2028962d52c",
+        "logo_small": "316bb2e9c3e38f275c706e379b10e2028962d52c_thumb",
+        "associations": {},
+        "gameid": "824240",
+        "exfgls": "1"
+    },
+    "extended": {
+        "gamedir": "UnfortunateSpacemen",
+        "serverbrowsername": "U F"
+    },
+    "config": {
+        "installdir": "SpacemenServer",
+        "launch": {
+            "0": {
+                "executable": "UnfortunateSpacemenServer.exe",
+                "arguments": "-log",
+                "description": "Dedicated Server for Unfortunate Spacemen",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "name": ".NET 4.7 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "83944258",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "824244": {
+            "name": "SpacemenServer",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": "92275206396506364"
+            },
+            "maxsize": "8804374838"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8102310",
+                "timeupdated": "1643428127"
+            },
+            "beta": {
+                "buildid": "8102310",
+                "description": "Internal testing branch",
+                "pwdrequired": "1",
+                "timeupdated": "1643343505"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "b6be254d3ad96159ba6ab5c30781859e08310b61",
+    "_size": 2600
+}

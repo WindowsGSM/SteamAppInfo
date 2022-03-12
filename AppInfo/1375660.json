@@ -1,0 +1,115 @@
+{
+    "appid": "1375660",
+    "common": {
+        "name": "SCP: Recontainment Dedicated Server",
+        "type": "Tool",
+        "parent": "1249520",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "osextended": "",
+        "logo": "88ac745ba600517a05d336cbdf8bed790e133e97",
+        "logo_small": "88ac745ba600517a05d336cbdf8bed790e133e97_thumb",
+        "icon": "6b7087d28dc1485be33920becdb4361b33dd3c2d",
+        "eulas": {
+            "0": {
+                "id": "1375660_eula_0",
+                "name": "SCP: Recontainment Dedicated Server EULA",
+                "url": "https://store.steampowered.com//eula/1375660_eula_0"
+            }
+        },
+        "clienticon": "90c6d7fbe832675417cf91b5e36e75de909fa702",
+        "clienttga": "8713809a4c7ffd7db11c5b2c54f8366f3c3fb296",
+        "gameid": "1375660",
+        "exfgls": "1"
+    },
+    "extended": {
+        "gamedir": "scprecontainment",
+        "serverbrowsername": "SCP: Recontainment"
+    },
+    "config": {
+        "installdir": "SCP Recontainment Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "SCP575Server.exe",
+                "arguments": "-log",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "SCP575Server.sh",
+                "arguments": "-log",
+                "type": "default",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1375661": {
+            "name": "SCP: Recontainment Dedicated Server Windows",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "7667247103109785502"
+            },
+            "maxsize": "136640959"
+        },
+        "1375662": {
+            "name": "SCP: Recontainment Dedicated Server Linux",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "8331705893267659924"
+            },
+            "maxsize": "192847753"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8209831",
+                "timeupdated": "1644966410"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "972c13a86189f5c9915c3f8382a89139fe292e3c",
+    "_size": 2376
+}

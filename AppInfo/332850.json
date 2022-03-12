@@ -1,0 +1,59 @@
+{
+    "appid": "332850",
+    "common": {
+        "name": "BlazeRush Dedicated Server",
+        "type": "Tool",
+        "releasestate": "released",
+        "logo": "dd2f2b88892d6396433adcedd7775d3ff3629932",
+        "logo_small": "dd2f2b88892d6396433adcedd7775d3ff3629932_thumb",
+        "icon": "875374888aa7ba35c9ba24f4cb9aa5e364154e6a",
+        "clienttga": "45760c204413c6ad41f74ea5b1e7e44d40712122",
+        "clienticon": "bfd20598ee286367b745127557422e06cb0ee880",
+        "oslist": "windows,linux",
+        "associations": {},
+        "gameid": "332850"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "BlazeRush Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "DedicatedServer.exe",
+                "description": "Launch",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "dedicatedserver",
+                "arguments": "-xterm",
+                "description": "Launch",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "332851": {
+            "name": "BlazeRush Dedicated Server Content",
+            "manifests": {
+                "public": "5615569931200243631"
+            },
+            "maxsize": "17922641"
+        },
+        "branches": {
+            "public": {
+                "buildid": "516065"
+            },
+            "test": {
+                "buildid": "769548",
+                "description": ""
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "e8b59686106857118ef59229f1afa6555e985bf8",
+    "_size": 1190
+}

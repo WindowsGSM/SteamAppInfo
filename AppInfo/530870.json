@@ -1,0 +1,201 @@
+{
+    "appid": "530870",
+    "common": {
+        "name": "Empyrion - Galactic Survival Dedicated Server",
+        "type": "Tool",
+        "parent": "383120",
+        "oslist": "windows",
+        "osarch": "64",
+        "logo": "83ec4e8f167d27a5325864ca72f9fe7ee2b6145c",
+        "logo_small": "83ec4e8f167d27a5325864ca72f9fe7ee2b6145c_thumb",
+        "icon": "2fe06be467a7a1e536555b1699a23344e7792b25",
+        "clienttga": "6012ea81d68607ad0dfc5610e61f17101373c1fd",
+        "clienticon": "ee56b41cf2455b4be44516dd30e99b4b0a0179c9",
+        "releasestate": "released",
+        "associations": {},
+        "community_hub_visible": "1",
+        "gameid": "530870"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Empyrion - Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "EmpyrionLauncher.exe",
+                "arguments": "-startDediWithGfx",
+                "type": "none",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "530871": {
+            "name": "Dedicated Server Content",
+            "manifests": {
+                "public": "2556342484409602278",
+                "alpha10": "4139613444459975471",
+                "alpha11": "7348305962190994729",
+                "alpha12": "2395002668044090563",
+                "alpha5": "6843577062821720454",
+                "alpha6": "4907152130322703793",
+                "alpha7": "5310005512522126015",
+                "alpha8": "9130500877719341038",
+                "alpha9": "98967298642520364",
+                "experimental": "894490318841252648"
+            },
+            "maxsize": "12693977211",
+            "encryptedmanifests": {
+                "closedalpha": {
+                    "encrypted_gid_2": "38D853A3D1589037F41CA261E1F750ED",
+                    "encrypted_size_2": "A23C914E761383B691D7667C5C8B3C8F"
+                },
+                "eleononly": {
+                    "encrypted_gid_2": "021339D5DA6D52762AD9CF63A3CD062E",
+                    "encrypted_size_2": "79693E30A6B9363077D3AE304D6E9423"
+                },
+                "eleontest": {
+                    "encrypted_gid_2": "9876D0D3D96B3D50908D65592374A997",
+                    "encrypted_size_2": "8DBB087E2F058AE78F314722EE2DEE1E"
+                },
+                "internal": {
+                    "encrypted_gid_2": "68A543D2F39CBFD8997D05A1462FFDA4",
+                    "encrypted_size_2": "1940D789A53210903CE725DCBA25301B"
+                },
+                "steamtest": {
+                    "encrypted_gid_2": "E550E020BC06B4AFAC7BC208795202CB",
+                    "encrypted_size_2": "2524D0E8058729A515334C0909CF8ED7"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8277153",
+                "timeupdated": "1646128154"
+            },
+            "alpha10": {
+                "buildid": "4347212",
+                "description": "Archive: Alpha 10",
+                "timeupdated": "1574350441"
+            },
+            "alpha11": {
+                "buildid": "4993648",
+                "description": "Archive: Alpha 11",
+                "timeupdated": "1592243716"
+            },
+            "alpha12": {
+                "buildid": "5347793",
+                "description": "Archive: Alpha 12",
+                "timeupdated": "1596619825"
+            },
+            "alpha5": {
+                "buildid": "1664273",
+                "description": "Archive: Alpha 5",
+                "timeupdated": "1551601487"
+            },
+            "alpha6": {
+                "buildid": "2145114",
+                "description": "Archive: Alpha 6",
+                "timeupdated": "1508405756"
+            },
+            "alpha7": {
+                "buildid": "2535891",
+                "description": "Archive: Alpha 7",
+                "timeupdated": "1528720111"
+            },
+            "alpha8": {
+                "buildid": "3313728",
+                "description": "Archive: Alpha 8",
+                "timeupdated": "1545046813"
+            },
+            "alpha9": {
+                "buildid": "3799912",
+                "description": "Archive: Alpha 9",
+                "timeupdated": "1560769269"
+            },
+            "closedalpha": {
+                "buildid": "8354758",
+                "description": "Closed Alpha testing",
+                "pwdrequired": "1",
+                "timeupdated": "1647018098"
+            },
+            "eleononly": {
+                "buildid": "8354758",
+                "description": "Eleon team branch",
+                "pwdrequired": "1",
+                "timeupdated": "1647007946"
+            },
+            "eleontest": {
+                "buildid": "8119271",
+                "description": "Eleon internal testing",
+                "pwdrequired": "1",
+                "timeupdated": "1645552905"
+            },
+            "experimental": {
+                "buildid": "8348166",
+                "description": "Experimental branch",
+                "timeupdated": "1646931030"
+            },
+            "internal": {
+                "buildid": "8354758",
+                "description": "For the team only",
+                "pwdrequired": "1",
+                "timeupdated": "1647008802"
+            },
+            "steamtest": {
+                "buildid": "8348166",
+                "description": "Special Tests",
+                "pwdrequired": "1",
+                "timeupdated": "1646926634"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14200981,
+    "_sha": "c8679cf6245c139574e2d94bbaceb94be0237d1b",
+    "_size": 4835
+}

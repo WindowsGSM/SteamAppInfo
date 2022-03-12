@@ -1,0 +1,362 @@
+{
+    "appid": "443030",
+    "common": {
+        "name": "Conan Exiles Dedicated Server",
+        "type": "Tool",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "443030"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Conan Exiles Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "ConanSandboxServer.exe",
+                "arguments": "-Messaging",
+                "description": "Launch Game server",
+                "type": "none",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "ConanSandbox\\Binaries\\Linux\\ConanSandboxServer",
+                "type": "server",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228985": {
+            "name": "VC 2013 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "13699237",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "name": "VC 2015 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29759921",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "443031": {
+            "name": "Conan Exiles Dedicated Server (Windows)",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "680700222832203900",
+                "testlive": "3413207279564689242"
+            },
+            "maxsize": "3054532327",
+            "encryptedmanifests": {
+                "2testronic": {
+                    "encrypted_gid_2": "E03CCE281D98CDADC0BCE2D679C89AFA",
+                    "encrypted_size_2": "CF3F6DD2679F935737BD37EF03608B6A"
+                },
+                "3testronic": {
+                    "encrypted_gid_2": "5B249C3D352B75D787F61B7762327EF3",
+                    "encrypted_size_2": "B28C0FB3B23AA38D76F530342DEDCF50"
+                },
+                "4testronic": {
+                    "encrypted_gid_2": "9CD3D1D4DDCE64E69DB7C8DC37A69A9E",
+                    "encrypted_size_2": "EEE9485605C8478250A094BCF9DF1A1A"
+                },
+                "autobuildsystem": {
+                    "encrypted_gid_2": "C09737EB21DDA6FFC4AE5A70906747A0",
+                    "encrypted_size_2": "BAA1CCD81DA9A2053F6D3C23ABBF1799"
+                },
+                "devqa": {
+                    "encrypted_gid_2": "0914C8C9DEDA4F61975433FC97D7B654",
+                    "encrypted_size_2": "D77838C9F8FC6327CE08F6750C26D644"
+                },
+                "emergency_fix_live": {
+                    "encrypted_gid_2": "27009A7AFF97134DC154ED66CF65AEA3",
+                    "encrypted_size_2": "535FA3579E0767A170818D52FB285517"
+                },
+                "exiles-development": {
+                    "encrypted_gid_2": "B93D643F9DB76CF294BDF24BC5E66169",
+                    "encrypted_size_2": "72F248B26E2EFD5AA4CEF6C28171480F"
+                },
+                "exiles-live": {
+                    "encrypted_gid_2": "ABAB420A0E1E4BBE4FA4284E5D977665",
+                    "encrypted_size_2": "FD1B9A2722C74DDDDAA6FF35CFB812D1"
+                },
+                "exiles-stable": {
+                    "encrypted_gid_2": "D5C6471CA1B848C2668A95C4F2668653",
+                    "encrypted_size_2": "8713F258F37EB85BCD53A4CBE3D9E15B"
+                },
+                "exiles-test": {
+                    "encrypted_gid_2": "7DEDA361B846BCD94A87832642FB54C9",
+                    "encrypted_size_2": "EB5C15590CB3F58D4D66F75236EAA669"
+                },
+                "exiles-testfeature": {
+                    "encrypted_gid_2": "90D5D579DE2B5DAA5723026919B69AB0",
+                    "encrypted_size_2": "8A99712772BDC687F3D8D74C56408AF6"
+                },
+                "experimental": {
+                    "encrypted_gid_2": "24F0E87FE53963EB7AF7E37A32110885",
+                    "encrypted_size_2": "C93FDBF0068942178BE003FBD25A069E"
+                },
+                "for_testing": {
+                    "encrypted_gid_2": "8EA59749099C3D30A697F66BA185CF0D",
+                    "encrypted_size_2": "2655D6DB590D0CDFCDF81F6C5F29AA85"
+                },
+                "for_testing2": {
+                    "encrypted_gid_2": "5B54950564ECEAFDA7C047288BF0C89E",
+                    "encrypted_size_2": "F016CE159FBBF410D6F77BC634D5A71E"
+                },
+                "forepic": {
+                    "encrypted_gid_2": "344531440AE6F244AE7D14C272293A42",
+                    "encrypted_size_2": "C26C965EB7DDC66A1257CFA0813ECB81"
+                },
+                "internal_playtest": {
+                    "encrypted_gid_2": "FC81F691FB2CA4261968427274196E2B",
+                    "encrypted_size_2": "4E4E0A847228E7ED4CC9F61F9B4B7575"
+                },
+                "live_backup1": {
+                    "encrypted_gid_2": "8DDEED0B52CFA9702042BA8FA4C6881B",
+                    "encrypted_size_2": "0CD753BE4236F4652A7B16EA8951728C"
+                },
+                "live_backup2": {
+                    "encrypted_gid_2": "14103F732E23CE7FF01800FAEED8B230",
+                    "encrypted_size_2": "34C9FBA3154FCD7CAEDD92E2133DCDF0"
+                },
+                "marketing": {
+                    "encrypted_gid_2": "65A4694343DA64D040F8F0356908D06A",
+                    "encrypted_size_2": "532B011B7258AE77C104FD6C19B952BE"
+                },
+                "marketing2": {
+                    "encrypted_gid_2": "A1D935EC62CAE52770C934CDA03D3C47",
+                    "encrypted_size_2": "833E54B55FD49D4FE197B5D5748CBF13"
+                },
+                "preview": {
+                    "encrypted_gid_2": "101FFADCE460F61EBA4846C1C51A1FC5",
+                    "encrypted_size_2": "332240D842E4978621911A4B83E58807"
+                },
+                "trials": {
+                    "encrypted_gid_2": "28CAEC20E7480F2E9B688577B3431709",
+                    "encrypted_size_2": "32CEC88234C7C5D6A6F93BD988762322"
+                }
+            }
+        },
+        "443032": {
+            "name": "Conan Exiles Dedicated Server (Linux)",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "3199714172864163068"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8317659",
+                "timeupdated": "1646657032"
+            },
+            "2testronic": {
+                "buildid": "8349837",
+                "description": "For Testronic Team",
+                "pwdrequired": "1",
+                "timeupdated": "1646944032"
+            },
+            "3testronic": {
+                "buildid": "8327707",
+                "description": "extra branch",
+                "pwdrequired": "1",
+                "timeupdated": "1646668420"
+            },
+            "4testronic": {
+                "buildid": "8294533",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1646149372"
+            },
+            "autobuildsystem": {
+                "buildid": "7921467",
+                "description": "buildsystem submits",
+                "pwdrequired": "1",
+                "timeupdated": "1640098518"
+            },
+            "devqa": {
+                "buildid": "7973080",
+                "description": "Additional branch available for DevQA",
+                "pwdrequired": "1",
+                "timeupdated": "1641368382"
+            },
+            "emergency_fix_live": {
+                "buildid": "6805305",
+                "description": "Temp branch to fix live",
+                "pwdrequired": "1",
+                "timeupdated": "1622712375"
+            },
+            "exiles-development": {
+                "buildid": "8358635",
+                "description": "Nightly builds from exiles-development branch",
+                "pwdrequired": "1",
+                "timeupdated": "1647062288"
+            },
+            "exiles-live": {
+                "buildid": "8357567",
+                "description": "Nightly builds from exiles-live branch\t",
+                "pwdrequired": "1",
+                "timeupdated": "1647040748"
+            },
+            "exiles-stable": {
+                "buildid": "8358437",
+                "description": "Nightly builds from exiles-stable branch",
+                "pwdrequired": "1",
+                "timeupdated": "1647057795"
+            },
+            "exiles-test": {
+                "buildid": "8358465",
+                "description": "Nightly builds from exiles-test branch",
+                "pwdrequired": "1",
+                "timeupdated": "1647058540"
+            },
+            "exiles-testfeature": {
+                "buildid": "7392182",
+                "description": "Nightly builds from exiles-testfeature",
+                "pwdrequired": "1",
+                "timeupdated": "1632171895"
+            },
+            "experimental": {
+                "buildid": "7335279",
+                "description": "Experiemental Feature Testing",
+                "pwdrequired": "1",
+                "timeupdated": "1631245934"
+            },
+            "for_testing": {
+                "buildid": "6747784",
+                "description": "branch moving.",
+                "pwdrequired": "1",
+                "timeupdated": "1622671160"
+            },
+            "for_testing2": {
+                "buildid": "8203016",
+                "description": "branch moving.",
+                "pwdrequired": "1",
+                "timeupdated": "1645196557"
+            },
+            "forepic": {
+                "buildid": "7659745",
+                "description": "for crossplay testing",
+                "pwdrequired": "1",
+                "timeupdated": "1636399510"
+            },
+            "internal_playtest": {
+                "buildid": "6768332",
+                "description": "Internal Playtesting",
+                "pwdrequired": "1",
+                "timeupdated": "1622119689"
+            },
+            "live_backup1": {
+                "buildid": "7718161",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1638967970"
+            },
+            "live_backup2": {
+                "buildid": "7634234",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1638967948"
+            },
+            "marketing": {
+                "buildid": "8230409",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1645200030"
+            },
+            "marketing2": {
+                "buildid": "6494453",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1617798539"
+            },
+            "preview": {
+                "buildid": "5691789",
+                "description": "VIP/Partner Previews",
+                "pwdrequired": "1",
+                "timeupdated": "1602848080"
+            },
+            "testlive": {
+                "buildid": "7966427",
+                "description": "",
+                "timeupdated": "1641474541"
+            },
+            "trials": {
+                "buildid": "7484895",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1633532119"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14205823,
+    "_sha": "0cd3dba4f566353434d70320536932bbc90b9cd8",
+    "_size": 9241
+}

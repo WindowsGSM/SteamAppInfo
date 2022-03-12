@@ -1,0 +1,92 @@
+{
+    "appid": "604100",
+    "common": {
+        "name": "Rokh Dedicated Server",
+        "type": "Tool",
+        "parent": "462440",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "logo": "f0e4599519d8083bf2644bbbe0b63324aec56443",
+        "logo_small": "f0e4599519d8083bf2644bbbe0b63324aec56443_thumb",
+        "icon": "758f00d36843c64744e0562367f4db64ed8ce309",
+        "clienticon": "af8ced1bda162d7ccdc0287a49f3fc6bde85737c",
+        "clienttga": "32965200a9f84b2963f7022a7d55531c582f1f8b",
+        "associations": {},
+        "gameid": "604100"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "installdir": "Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "WindowsServer/RokhServer.exe",
+                "arguments": "messaging -log",
+                "description": "Launch Diedicated Server",
+                "type": "none",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "604101": {
+            "name": "Rokh Windows Dedicated Server",
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "604102": {
+            "name": "Rokh Linux Dedicated Server Depot",
+            "config": {
+                "oslist": "linux"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8350903",
+                "timeupdated": "1646964563"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "4f6668a6dcd866a75430788fcf9bba1e9e24dd02",
+    "_size": 1829
+}

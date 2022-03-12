@@ -1,0 +1,70 @@
+{
+    "appid": "232330",
+    "common": {
+        "name": "Counter-Strike: Source Dedicated Server",
+        "type": "Tool",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "gameid": "232330"
+    },
+    "extended": {
+        "checkpkgstate": "1",
+        "developer": "",
+        "gamedir": "ValveTestApp232330",
+        "homepage": "",
+        "icon": "",
+        "noservers": "0",
+        "sourcegame": "1",
+        "state": "eStateComingSoonNoPreload",
+        "visibleonlywhensubscribed": "1"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Counter-Strike Source Dedicated Server"
+    },
+    "depots": {
+        "232330": {
+            "name": "CS:S Dedicated server assets",
+            "manifests": {
+                "public": "2613653526845220043"
+            },
+            "maxsize": "2229493575"
+        },
+        "232335": {
+            "name": "CS:S Windows server",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "2005180106795533146"
+            },
+            "maxsize": "92931776"
+        },
+        "232336": {
+            "name": "CS:S Linux server",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "2107924716899862244"
+            },
+            "maxsize": "67634043"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "6953255",
+                "timeupdated": "1625257768"
+            },
+            "prerelease": {
+                "buildid": "6953255",
+                "description": "Latest available build",
+                "timeupdated": "1625257761"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11927300,
+    "_sha": "4ed043793ca9bb9f6550c733cb637d00f92dcea2",
+    "_size": 1306
+}

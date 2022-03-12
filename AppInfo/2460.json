@@ -1,0 +1,71 @@
+{
+    "appid": "2460",
+    "common": {
+        "name": "Bloody Good Time Dedicated Server",
+        "type": "Tool",
+        "gameid": "2460"
+    },
+    "extended": {
+        "developer": "Outerlight",
+        "gamedir": "Bloody Good Time Dedicated Server",
+        "homepage": "http://store.steampowered.com/app/2450/",
+        "icon": "",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "2453",
+        "serverbrowsername": "",
+        "state": "eStateTool"
+    },
+    "config": {
+        "contenttype": "2",
+        "installdir": "Bloody Good Time Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "srcds.exe",
+                "arguments": "-steam -game pm"
+            }
+        }
+    },
+    "depots": {
+        "overridescddb": "1",
+        "2452": {
+            "name": "Bloody Good Time Common",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "5726217717789289915"
+            },
+            "maxsize": "1279247053",
+            "depotfromapp": "2450"
+        },
+        "2453": {
+            "name": "Bloody Good Time Server",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "6238851782732503747"
+            },
+            "maxsize": "101950591"
+        },
+        "1004": {
+            "name": "Steamworks SDK Redist (Win32)",
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "3578600867548439549"
+            },
+            "maxsize": "9662208",
+            "depotfromapp": "1002"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "87012"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "690949a4d0627bd7d9c84e89495f2f06bba7e96c",
+    "_size": 1319
+}

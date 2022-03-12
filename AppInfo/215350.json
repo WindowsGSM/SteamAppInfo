@@ -1,0 +1,57 @@
+{
+    "appid": "215350",
+    "common": {
+        "name": "Killing Floor Dedicated Server - Win32",
+        "type": "Game",
+        "community_hub_visible": "1",
+        "gameid": "215350"
+    },
+    "extended": {
+        "developer": "",
+        "gamedir": "Killing Floor Dedicated Server - Win32",
+        "homepage": "",
+        "icon": "",
+        "noservers": "0",
+        "sourcegame": "1",
+        "state": "eStateAvailable",
+        "visibleonlywheninstalled": "1",
+        "visibleonlywhensubscribed": "1"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Killing Floor Dedicated Server - Win32"
+    },
+    "depots": {
+        "1251": {
+            "name": "Killing Floor Shared Content",
+            "manifests": {
+                "public": "9033622738747915238"
+            },
+            "maxsize": "2262659300"
+        },
+        "1253": {
+            "name": "Killing Floor Win32 Content",
+            "manifests": {
+                "public": "3588045873416010845"
+            },
+            "maxsize": "106304112"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "1074388",
+                "timeupdated": "1461081330"
+            },
+            "internalbeta": {
+                "buildid": "1074388",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1460647847"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "42188fdfc4dd478f795474dadeec68ab362a7f41",
+    "_size": 1082
+}

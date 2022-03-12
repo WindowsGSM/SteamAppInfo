@@ -1,0 +1,56 @@
+{
+    "appid": "635",
+    "common": {
+        "name": "Alien Swarm Dedicated Server",
+        "clienticon": "e3d1e6143f2c0e274b2bf6432b9cd35c81a2269a",
+        "clienttga": "d02c74f76431a829dea58c69d0c8ed7e2f246a17",
+        "icon": "2263391453e3f77856db1078f0f168fb99dd2c51",
+        "logo": "0d0b3dcc49966c02f3803463503b99b185e69945",
+        "logo_small": "0d0b3dcc49966c02f3803463503b99b185e69945_thumb",
+        "type": "Tool",
+        "gameid": "635"
+    },
+    "extended": {
+        "dedicatedserverfolder": "swarm",
+        "developer": "Valve",
+        "gamedir": "Swarm ded server",
+        "homepage": "",
+        "icon": "",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "631",
+        "serverbrowsername": "",
+        "state": "eStateTool"
+    },
+    "config": {
+        "launch": {
+            "0": {
+                "executable": "srcds.exe",
+                "arguments": "-game swarm"
+            }
+        },
+        "contenttype": "3",
+        "installdir": "Alien Swarm"
+    },
+    "depots": {
+        "overridescddb": "1",
+        "631": {
+            "name": "alien swarm content",
+            "systemdefined": "1",
+            "maxsize": "2147669903",
+            "depotfromapp": "630",
+            "sharedinstall": "2"
+        },
+        "markdlcdepots": "0",
+        "branches": {
+            "public": {
+                "buildid": "5587483",
+                "timeupdated": "1600919461"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "40ab266130534f68231fd15dd0a4a730952ef647",
+    "_size": 1132
+}

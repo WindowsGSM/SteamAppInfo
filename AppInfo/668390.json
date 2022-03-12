@@ -1,0 +1,133 @@
+{
+    "appid": "668390",
+    "common": {
+        "name": "Hanako: Honor & Blade Dedicated Server",
+        "type": "Tool",
+        "parent": "349510",
+        "oslist": "windows",
+        "osarch": "64",
+        "logo": "9c2ec787fbe73cd55b81fac34bcc0e8420b642aa",
+        "logo_small": "9c2ec787fbe73cd55b81fac34bcc0e8420b642aa_thumb",
+        "icon": "808cf83769d7fe138c6997d79977d4b8cd6b8e0b",
+        "clienttga": "db59f83bb294c60ae3a4c8f89afacfc666cead09",
+        "clienticon": "25ef2f21368e5937e208feccb65134e430c9dbbc",
+        "releasestate": "released",
+        "osextended": "",
+        "associations": {},
+        "community_hub_visible": "1",
+        "gameid": "668390",
+        "exfgls": "1"
+    },
+    "extended": {
+        "gamedir": "Hanako: Honor & Blade",
+        "serverbrowsername": "Hanako: Honor & Blade"
+    },
+    "config": {
+        "installdir": "Hanako Honor & Blade Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "HanakoServer.exe",
+                "arguments": "-log",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "name": ".NET 4.8 Redis",
+            "config": {
+                "language": ""
+            },
+            "maxsize": "117381405",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "668391": {
+            "name": "Hanako: Honor & Blade Dedicated Server Content",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "747071866143075051"
+            },
+            "maxsize": "3451835141",
+            "encryptedmanifests": {
+                "testing_branch": {
+                    "encrypted_gid_2": "0A86F8C88E232B367154C465D63F2F47",
+                    "encrypted_size_2": "71C33477BCAD57FDA9DCF0537E015441"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "7858757",
+                "timeupdated": "1639095201"
+            },
+            "testing_branch": {
+                "buildid": "7930526",
+                "description": "Private testing branch",
+                "pwdrequired": "1",
+                "timeupdated": "1640227843"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "177d589feae92a2f00d5ed8e0b0460c63008a124",
+    "_size": 2798
+}

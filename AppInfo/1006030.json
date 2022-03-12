@@ -1,0 +1,101 @@
+{
+    "appid": "1006030",
+    "common": {
+        "name": "ATLAS Dedicated Server",
+        "type": "Tool",
+        "oslist": "windows,linux",
+        "osarch": "",
+        "parent": "834910",
+        "logo": "0a885c86d73536ceeed0012dc49c4a3504c25500",
+        "logo_small": "0a885c86d73536ceeed0012dc49c4a3504c25500_thumb",
+        "icon": "a1042b777e3d7133fcafe83bdd4bbd43c5e1a09e",
+        "clienticon": "dc68d7281d63dc36f90c80e0a53dd22c46f0c777",
+        "clienttga": "1eb5c40a88b2b9a7b6bda477e62766ea678bc1d0",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "1006030"
+    },
+    "config": {
+        "installdir": "ATLAS Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "ShooterGame\\Binaries\\Win64\\ShooterGameServer.exe",
+                "arguments": "TestMapArea?listen",
+                "description": "Launch TestMap",
+                "type": "none",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1006031": {
+            "name": "ATLAS Dedicated Server Content",
+            "manifests": {
+                "public": "2353349735763569822",
+                "publictestrealm": "7242285574534009916"
+            },
+            "maxsize": "35334119001",
+            "encryptedmanifests": {
+                "testserver": {
+                    "encrypted_gid_2": "F68DA25A84F21C91BE84FBCE102F1552",
+                    "encrypted_size_2": "3809F04B08AEAE43E08830C9ABA22667"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8358512",
+                "timeupdated": "1647059552"
+            },
+            "publictestrealm": {
+                "buildid": "3736722",
+                "description": "",
+                "timeupdated": "1555256275"
+            },
+            "testserver": {
+                "buildid": "3727418",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1554952682"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14205639,
+    "_sha": "4f8293b2457edddaa3f47cee3f03ffa4b2205b3b",
+    "_size": 2199
+}

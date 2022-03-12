@@ -1,0 +1,101 @@
+{
+    "appid": "1377020",
+    "common": {
+        "name": "Sanctuary Island dedicated server",
+        "type": "Tool",
+        "parent": "1377010",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "logo": "ed4a52abe950b20a16d5efd3efb5247e9c494026",
+        "logo_small": "ed4a52abe950b20a16d5efd3efb5247e9c494026_thumb",
+        "icon": "7d266c757d4c8490d726a2a5bc48d213f6aa734f",
+        "clienticon": "1f0ad587a3605f525f8b9f8cc7f687df093a6248",
+        "clienttga": "9537e631700dc7ec2fe703c22a2377ff91e26f73",
+        "gameid": "1377020"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "installdir": "Sanctuary Island dedicated server",
+        "launch": {
+            "0": {
+                "executable": "SanctuaryIslandServer.exe",
+                "type": "server"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1377021": {
+            "name": "Sanctuary Island dedicated server Content",
+            "manifests": {
+                "public": "1804488889853419716"
+            },
+            "maxsize": "667222183"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8320052",
+                "timeupdated": "1646495272"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "87fd1d04d3fbb09b6412ffdc4d5e5b9fd7ed7c5c",
+    "_size": 2030
+}

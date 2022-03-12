@@ -1,0 +1,55 @@
+{
+    "appid": "1574860",
+    "common": {
+        "name": "Kaboom! Dedicated Server",
+        "type": "Tool",
+        "parent": "1574670",
+        "releasestate": "released",
+        "logo": "e2f71a3b312bac8ef5c40e210a8b80420c726b37",
+        "logo_small": "e2f71a3b312bac8ef5c40e210a8b80420c726b37_thumb",
+        "icon": "5e89e95f18acecf2548de9cda0aa07d28d5a53a1",
+        "clienticon": "ea81212b653d95b78a2d5b1d9a68f3c487fa25c3",
+        "clienttga": "ee451c9d1c6205372017d11209731fb94544fffc",
+        "oslist": "linux",
+        "osarch": "",
+        "osextended": "",
+        "gameid": "1574860"
+    },
+    "config": {
+        "installdir": "Kaboom Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "LinuxHeadless_Core.x86_64",
+                "type": "default",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1574861": {
+            "name": "Kaboom! Dedicated Server Content",
+            "config": {
+                "language": "english",
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "7852558881480274534"
+            },
+            "maxsize": "370248261"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7262215",
+                "timeupdated": "1630083148"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 12409081,
+    "_sha": "d802a171c0a916ab4bc83d62bd5d57002763f742",
+    "_size": 1108
+}

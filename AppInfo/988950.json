@@ -1,0 +1,132 @@
+{
+    "appid": "988950",
+    "common": {
+        "name": "Journey of Life - Dedicated Server",
+        "type": "Tool",
+        "parent": "794490",
+        "clienttga": "c61cbedbaad3d96081d3a77ebbe3c1824cd48f5f",
+        "clienticon": "7f214d6aa70917fef3afe9fdd6527105386e9592",
+        "icon": "0c70ba99a0eae310df3e808579b747540fdefa7c",
+        "logo": "99e543c36f9f1f90a9ceb731ce6206b6d157806a",
+        "logo_small": "99e543c36f9f1f90a9ceb731ce6206b6d157806a_thumb",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "",
+        "osextended": "",
+        "associations": {},
+        "community_hub_visible": "1",
+        "gameid": "988950"
+    },
+    "config": {
+        "installdir": "Journey of Life - Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "JourneyOfLife_419Server.exe",
+                "type": "none"
+            }
+        }
+    },
+    "depots": {
+        "hasdepotsindlc": "0",
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228986": {
+            "name": "VC 2015 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29759921",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "name": "VC 2017 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29664201",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "name": ".NET 4.0 Client Profile Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "43001447",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "988951": {
+            "name": "Journey of Life - Dedicated Server Content",
+            "manifests": {
+                "public": "7864919770206583701",
+                "legacy": "8443651178289967592"
+            },
+            "maxsize": "2088860459"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7243615",
+                "timeupdated": "1629980240"
+            },
+            "devtest": {
+                "buildid": "7243615",
+                "description": "",
+                "timeupdated": "1629980233"
+            },
+            "legacy": {
+                "buildid": "4805088",
+                "description": "Old server files",
+                "timeupdated": "1614629154"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "c29934bfb34b42b86eb00d236fd1e57917d1ab55",
+    "_size": 2723
+}

@@ -1,0 +1,114 @@
+{
+    "appid": "1430110",
+    "common": {
+        "name": "Assetto Corsa Competizione Dedicated Server",
+        "type": "Tool",
+        "parent": "805550",
+        "logo": "507b26c60074fce986e8e630b7b69b7e6fad7cdd",
+        "logo_small": "507b26c60074fce986e8e630b7b69b7e6fad7cdd_thumb",
+        "icon": "7da4b9ed0125a1437c2ed1518548e436a1b4e50f",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "clienttga": "094e02ec0549a9cd1559a57e1720fac2317be63a",
+        "clienticon": "e80299a06573bcef4c056d199022867a2923b70f",
+        "releasestate": "released",
+        "gameid": "1430110"
+    },
+    "config": {
+        "installdir": "Assetto Corsa Competizione Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "server\\accServer.exe",
+                "description": "Assetto Corsa Competizione Dedicated Server",
+                "type": "none",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1430111": {
+            "name": "Assetto Corsa Competizione Dedicated Server Content",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": "447580444942295497"
+            },
+            "maxsize": "3640467",
+            "encryptedmanifests": {
+                "ks_beta_testing": {
+                    "encrypted_gid_2": "BB52E60C38E5395C146930AF9C0C3B88",
+                    "encrypted_size_2": "B8FB4C32F1A12F6812895B5E4B871F2A"
+                },
+                "public_beta": {
+                    "encrypted_gid_2": "A6B9477755F16F58E5D00E0D3905E2F8",
+                    "encrypted_size_2": "09EA789CFF6B7ACCB76FA874AE60F484"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8157195",
+                "timeupdated": "1644234037"
+            },
+            "ks_beta_testing": {
+                "buildid": "7350635",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1631547945"
+            },
+            "ks_latest": {
+                "buildid": "8157195",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1644226792"
+            },
+            "public_beta": {
+                "buildid": "6949475",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1624975497"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "d6d0ac1f1a4f3135204b1cac7132dff9b9eb48a5",
+    "_size": 2533
+}

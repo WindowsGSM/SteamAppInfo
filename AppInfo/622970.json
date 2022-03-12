@@ -1,0 +1,163 @@
+{
+    "appid": "622970",
+    "common": {
+        "name": "Pavlov VR Dedicated Server",
+        "type": "Tool",
+        "parent": "555160",
+        "oslist": "",
+        "osarch": "",
+        "logo": "55d800ee937a747d99d5c887eb3c7938ea902090",
+        "logo_small": "55d800ee937a747d99d5c887eb3c7938ea902090_thumb",
+        "icon": "dd6b12c785905be249de30bec09fe996170ce880",
+        "clienttga": "147d1ede6093cd93f1626703311d5221fe88cfb7",
+        "clienticon": "99bd6b7384b2024a23f8c8f415c509f2c5ff0ab0",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "622970",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "PavlovVRServer",
+        "launch": {
+            "0": {
+                "executable": "Pavlov/Binaries/Linux/PavlovServer",
+                "arguments": "office_map?listen?bots=1",
+                "type": "none",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "622971": {
+            "name": "Pavlov VR Dedicated Server Content",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "6227886927471103421",
+                "beta_server": "1969796913804573916",
+                "docker_beta": "5147461459264594208",
+                "docker_shack": "7518500948355498942",
+                "docker_shack_beta": "2567089139497426217",
+                "dummy": "3425611114712832410",
+                "shack": "7518500948355498942",
+                "shack_beta": "1176062243257440282",
+                "shack_docker": "7912308253716083771"
+            },
+            "maxsize": "3116922840",
+            "encryptedmanifests": {
+                "nighly": {
+                    "encrypted_gid_2": "DCAA3CD9115846FB3E569ABE4BE18A4D",
+                    "encrypted_size_2": "265D830955B1A1BA183BB599EA0AB2BE"
+                },
+                "nighly_shack": {
+                    "encrypted_gid_2": "6ACC30CC234684D25A563A02F125FF89",
+                    "encrypted_size_2": "FB51F6DC71B615D38C5DE5BC684FFE11"
+                }
+            }
+        },
+        "workshopdepot": "622970",
+        "branches": {
+            "public": {
+                "buildid": "8076883",
+                "timeupdated": "1643058494"
+            },
+            "beta_server": {
+                "buildid": "8064350",
+                "description": "",
+                "timeupdated": "1642800477"
+            },
+            "docker": {
+                "buildid": "8076883",
+                "description": "",
+                "timeupdated": "1643058513"
+            },
+            "docker_beta": {
+                "buildid": "7929609",
+                "description": "",
+                "timeupdated": "1640212157"
+            },
+            "docker_shack": {
+                "buildid": "7915932",
+                "description": "new docker branch",
+                "timeupdated": "1640035871"
+            },
+            "docker_shack_beta": {
+                "buildid": "8085302",
+                "description": "new",
+                "timeupdated": "1643146176"
+            },
+            "dummy": {
+                "buildid": "6028084",
+                "description": "empty shell don't delete",
+                "timeupdated": "1609417460"
+            },
+            "nighly": {
+                "buildid": "8357559",
+                "description": "nighly builds",
+                "pwdrequired": "1",
+                "timeupdated": "1647040657"
+            },
+            "nighly_shack": {
+                "buildid": "8296414",
+                "description": "nighly builds for shack",
+                "pwdrequired": "1",
+                "timeupdated": "1646170839"
+            },
+            "shack": {
+                "buildid": "7915932",
+                "description": "",
+                "timeupdated": "1640035893"
+            },
+            "shack_beta": {
+                "buildid": "8004644",
+                "description": "beta",
+                "timeupdated": "1641938332"
+            },
+            "shack_docker": {
+                "buildid": "6282543",
+                "description": "",
+                "timeupdated": "1614724243"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14203998,
+    "_sha": "dd8ef889527827e8799e702ed9db62791772d5b6",
+    "_size": 3708
+}

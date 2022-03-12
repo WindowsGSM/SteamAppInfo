@@ -1,0 +1,86 @@
+{
+    "appid": "208050",
+    "common": {
+        "name": "Sniper Elite V2 Dedicated Server",
+        "type": "Tool",
+        "freeondemand": "1",
+        "gameid": "208050"
+    },
+    "extended": {
+        "developer": "",
+        "gamedir": "Sniper Elite V2 Dedicated Server",
+        "homepage": "",
+        "icon": "",
+        "installscript": "installscript.vdf",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "208051",
+        "serverbrowsername": "",
+        "state": "eStateTool"
+    },
+    "config": {
+        "launch": {
+            "0": {
+                "executable": "bin\\SniperEliteV2CLI.exe"
+            }
+        },
+        "contenttype": "3",
+        "installdir": "Sniper Elite V2"
+    },
+    "depots": {
+        "228982": {
+            "name": "VC 2008 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "9688647",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "63381": {
+            "name": "Sniper Elite V2 base",
+            "systemdefined": "1",
+            "maxsize": "90857991",
+            "depotfromapp": "63380",
+            "sharedinstall": "2"
+        },
+        "63393": {
+            "name": "Sniper Elite V2 Install Files",
+            "systemdefined": "1",
+            "maxsize": "1855991",
+            "depotfromapp": "63380",
+            "sharedinstall": "2"
+        },
+        "208051": {
+            "name": "Sniper Elite V2 DedServer base",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "563153054103075786"
+            },
+            "maxsize": "14791805"
+        },
+        "63394": {
+            "name": "Sniper Elite V2 DM Maps",
+            "systemdefined": "1",
+            "maxsize": "1127976334",
+            "depotfromapp": "63380",
+            "sharedinstall": "2"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "59069"
+            },
+            "devbeta": {
+                "buildid": "59069",
+                "description": "",
+                "pwdrequired": "1"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "ff0f29187c1d6e920259b325c55366e6d37384ea",
+    "_size": 1597
+}

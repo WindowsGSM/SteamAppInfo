@@ -1,0 +1,358 @@
+{
+    "appid": "233780",
+    "common": {
+        "name": "Arma 3 Server",
+        "type": "Tool",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "parent": "107410",
+        "logo": "dbf7763b674955fd374966ba4d4c5e8fc98eaded",
+        "logo_small": "dbf7763b674955fd374966ba4d4c5e8fc98eaded_thumb",
+        "clienticon": "65008c45141949621c1485a4099596ee6297476f",
+        "clienttga": "ab2d0fd9178e03d78524335c74ebcdc2ce37de61",
+        "icon": "03fac7ea514d12d5abf1526ddec2b363d5f72629",
+        "eulas": {
+            "0": {
+                "id": "233780_eula_0",
+                "name": "Arma 3 Server EULA",
+                "url": "http://store.steampowered.com/eula/233780_eula_0"
+            }
+        },
+        "metacritic_name": "Arma 3 Server",
+        "small_capsule": {
+            "english": "capsule_231x87.jpg"
+        },
+        "header_image": {
+            "english": "header.jpg"
+        },
+        "store_asset_mtime": "1438284794",
+        "associations": {
+            "0": {
+                "type": "developer",
+                "name": "Bohemia Interactive"
+            },
+            "1": {
+                "type": "publisher",
+                "name": "Bohemia Interactive"
+            }
+        },
+        "steam_release_date": "1386795600",
+        "gameid": "233780",
+        "exfgls": "1"
+    },
+    "extended": {
+        "developer": "Bohemia Interactive",
+        "developer_url": "http://www.bistudio.com/",
+        "checkpkgstate": "1",
+        "gamedir": "ValveTestApp233780",
+        "homepage": "http://dev.arma3.com",
+        "icon": "",
+        "noservers": "0",
+        "sourcegame": "1",
+        "state": "eStateComingSoonNoPreload",
+        "visibleonlywhensubscribed": "1",
+        "publisher": "Bohemia Interactive"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Arma 3 Server",
+        "launch": {
+            "0": {
+                "executable": "arma3server_readme.txt",
+                "description": "Launch Server"
+            }
+        }
+    },
+    "depots": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "233781": {
+            "name": "Arma 3 Alpha Dedicated Server Content (internal)",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "3250487187947544362",
+                "contact": "1811333099260627715",
+                "creatordlc": "1811333099260627715"
+            },
+            "maxsize": "7466908371",
+            "encryptedmanifests": {
+                "cdlc_internal_server": {
+                    "encrypted_gid_2": "4D53CF6085310120597893F5579AB7EF",
+                    "encrypted_size_2": "F204A16409586168997211FD0CE52A25"
+                },
+                "cdlc_private_beta_server": {
+                    "encrypted_gid_2": "EB2C66C269F3B08C6DF46F5319AFCCB6",
+                    "encrypted_size_2": "3F2B3D341007897769C731F524EA72F4"
+                },
+                "gmstaging": {
+                    "encrypted_gid_2": "80E5938FAD1B7EE0CC251A04F716FA13",
+                    "encrypted_size_2": "C8D5E52615347DDE7F144A68E3BCDA07"
+                },
+                "legacy": {
+                    "encrypted_gid_2": "E546C5A580DC48AFBC0D2A1169FBF9AC",
+                    "encrypted_size_2": "DEF7D46290D1E77B4544F9DB355BB9E8"
+                },
+                "legacycontact": {
+                    "encrypted_gid_2": "FE0160E0FAF44B9DDAA29CB17A450323",
+                    "encrypted_size_2": "2EA30B2D9025A09E7943895E579698BD"
+                },
+                "legacyports": {
+                    "encrypted_gid_2": "141FDF4B0F50654634D6A2BCA6E57849",
+                    "encrypted_size_2": "DEDD995FA78625E7FDA961369608407A"
+                },
+                "temp": {
+                    "encrypted_gid_2": "5B821600B044634E0CFE781730BA4C7D",
+                    "encrypted_size_2": "B45C57F177618936155008D5CBD63C58"
+                }
+            }
+        },
+        "233782": {
+            "name": "Arma 3 Alpha Dedicated Server binary Windows (internal)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "2988639769786876561"
+            },
+            "maxsize": "164757807",
+            "encryptedmanifests": {
+                "cdlc_internal_server": {
+                    "encrypted_gid_2": "D4495C9CC122859030DCD9558A761FC8",
+                    "encrypted_size_2": "1B1E00326CE990392E05B61A432B4BD9"
+                },
+                "gmstaging": {
+                    "encrypted_gid_2": "BBC4A156BA5333976D46479CB8F91B47",
+                    "encrypted_size_2": "60C29887D1F6148ADD01F5A073B08E97"
+                },
+                "legacy": {
+                    "encrypted_gid_2": "05210D277265A1616AF787EBE4C3557C",
+                    "encrypted_size_2": "F9D2F55B615590B10248128E2242D1ED"
+                },
+                "legacycontact": {
+                    "encrypted_gid_2": "E198F29833AB1C69EC19D12161F6B3DF",
+                    "encrypted_size_2": "DEA03F311210ABE2F78C46BB50E28D9B"
+                },
+                "legacyports": {
+                    "encrypted_gid_2": "2503A1C0EBB2CE8BC4C11F0DC34F80A0",
+                    "encrypted_size_2": "16A0CEF956BD12365B631252CF7610ED"
+                },
+                "temp": {
+                    "encrypted_gid_2": "E1B731A89FBE7ED582221114AEA7BB53",
+                    "encrypted_size_2": "DA898C5F16967C3B61353E24DDE06846"
+                }
+            }
+        },
+        "233783": {
+            "name": "Arma 3 Alpha Dedicated Server binary Linux (internal)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "9106970864092073993"
+            },
+            "maxsize": "146403105",
+            "encryptedmanifests": {
+                "cdlc_internal_server": {
+                    "encrypted_gid_2": "DAC1F2AF16C4B6780D3DDB06486C68F9",
+                    "encrypted_size_2": "2BE074FD4B8A8BABA32D24F1743DFF6C"
+                },
+                "gmstaging": {
+                    "encrypted_gid_2": "1B1D3F53EFD6E028AE5AEA456EE7E9F1",
+                    "encrypted_size_2": "1198337371487E724598303DEDCFF058"
+                },
+                "legacy": {
+                    "encrypted_gid_2": "3C1BA8ED94D6E479EDA99215A9393813",
+                    "encrypted_size_2": "CF99799603E10B2EBDBD4CE5E4A8BAAC"
+                },
+                "legacycontact": {
+                    "encrypted_gid_2": "B353CC5CAE942746AF75E0CA6D3B4F5B",
+                    "encrypted_size_2": "49ABCAF45640812AD4A5195B88864830"
+                },
+                "legacyports": {
+                    "encrypted_gid_2": "D7F79FAE4EF2ADC053A19015BB9DF14D",
+                    "encrypted_size_2": "002297841B499E19FDFA3F86CF1BB04A"
+                },
+                "temp": {
+                    "encrypted_gid_2": "61F5F4CA613A88CB8BC2CC896FF0C288",
+                    "encrypted_size_2": "8E8E4CDE439EF9BD9C5A29B9A73B7E01"
+                }
+            }
+        },
+        "233784": {
+            "name": "Arma 3 Server Profiling - WINDOWS Depot",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {},
+            "encryptedmanifests": {
+                "profiling": {
+                    "encrypted_gid_2": "AABE7D71993907C184E1005FD3D2E8CF",
+                    "encrypted_size_2": "564F6697D6C41AEAEA68A0647A59FB1C"
+                }
+            }
+        },
+        "233785": {
+            "name": "Arma 3 Server - Profiler - LINUX Depot",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {},
+            "encryptedmanifests": {
+                "profiling": {
+                    "encrypted_gid_2": "1666B520850F2390A65CAB80FD89BAA0",
+                    "encrypted_size_2": "2CFC21DF7FE4AF362DB21ADBCFE10D1C"
+                }
+            }
+        },
+        "233787": {
+            "name": "Arma 3 Server Creator DLC - GM",
+            "manifests": {
+                "creatordlc": "5132611187809370715"
+            },
+            "encryptedmanifests": {
+                "cdlc_private_beta_server": {
+                    "encrypted_gid_2": "90942BDC710BBE0E57761819E65E7A38",
+                    "encrypted_size_2": "A5D49EEDEEC2310E63738833F0843BA2"
+                },
+                "gmstaging": {
+                    "encrypted_gid_2": "55510ABA8A926A640F9DB162C49E59A7",
+                    "encrypted_size_2": "20B450B8D3E42E22C3D2F0DF29AB01DF"
+                },
+                "temp": {
+                    "encrypted_gid_2": "27ECEDBFE68B164A3E7E6A8AB5ECD086",
+                    "encrypted_size_2": "E4EB06E7CDF6E6B220EF9C298CC6C071"
+                }
+            },
+            "maxsize": "3485094993"
+        },
+        "233788": {
+            "name": "Arma 3 Server Prague Project 2",
+            "manifests": {},
+            "encryptedmanifests": {
+                "cdlc_private_beta_server": {
+                    "encrypted_gid_2": "9269FD2F07E7AA83A1247746AEEC1805",
+                    "encrypted_size_2": "7C258C55A0BA231CAAF7A8EF98B40DEB"
+                }
+            }
+        },
+        "233789": {
+            "name": "Arma 3 Server Creator DLC - CSLA",
+            "manifests": {
+                "creatordlc": "856558041704607072"
+            },
+            "encryptedmanifests": {
+                "cdlc_private_beta_server": {
+                    "encrypted_gid_2": "A81584011BABED7452D73207515CEF8E",
+                    "encrypted_size_2": "3DA76EFBCFEAC08B56B490E40545A6B2"
+                },
+                "temp": {
+                    "encrypted_gid_2": "BB0C925FED6777AAAD63AF2DF7207221",
+                    "encrypted_size_2": "BAE666C8E12FF3C1860D26C260CFA1DA"
+                }
+            },
+            "maxsize": "2167309043"
+        },
+        "233790": {
+            "name": "Arma 3 Server Creator DLC - SOGPF",
+            "manifests": {
+                "creatordlc": "673702058420372856"
+            },
+            "encryptedmanifests": {
+                "cdlc_internal_server": {
+                    "encrypted_gid_2": "5F74B648E8F6A447ABEDD747E7968BEC",
+                    "encrypted_size_2": "81AA04142C6C473B206D4522ACE6C9CF"
+                },
+                "cdlc_private_beta_server": {
+                    "encrypted_gid_2": "23BB26739FA75998A2089EDF3A471D23",
+                    "encrypted_size_2": "5525D404051CFE05DE3C7354113E5E89"
+                },
+                "temp": {
+                    "encrypted_gid_2": "14B2E70305E996685C3E2BBA35996B44",
+                    "encrypted_size_2": "DEC15650D31639465F8A0E54875A813A"
+                }
+            },
+            "maxsize": "3719623990"
+        },
+        "233791": {
+            "name": "Arma 3 Server Creator DLC - WS",
+            "manifests": {
+                "creatordlc": "4514405498479115567"
+            },
+            "encryptedmanifests": {
+                "cdlc_private_beta_server": {
+                    "encrypted_gid_2": "6C52240303E4D9E6623C1A98CAF217D1",
+                    "encrypted_size_2": "0457929BF5E468F02CF32FA6E4743881"
+                }
+            },
+            "maxsize": "401738737"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8294295",
+                "timeupdated": "1646748432"
+            },
+            "cdlc_internal_server": {
+                "buildid": "6475122",
+                "description": "For internal CDLC testing",
+                "pwdrequired": "1",
+                "timeupdated": "1617270887"
+            },
+            "cdlc_private_beta_server": {
+                "buildid": "8333821",
+                "description": "For private CDLC Betas",
+                "pwdrequired": "1",
+                "timeupdated": "1646749123"
+            },
+            "contact": {
+                "buildid": "8294158",
+                "description": "Contact Build",
+                "timeupdated": "1646748408"
+            },
+            "creatordlc": {
+                "buildid": "8333816",
+                "description": "Creator DLC Build",
+                "timeupdated": "1646749107"
+            },
+            "gmstaging": {
+                "buildid": "4481552",
+                "description": "GM staging branch",
+                "pwdrequired": "1",
+                "timeupdated": "1576068786"
+            },
+            "legacy": {
+                "buildid": "7921592",
+                "description": "Legacy Build (2.06)",
+                "pwdrequired": "1",
+                "timeupdated": "1646748241"
+            },
+            "legacycontact": {
+                "buildid": "7697447",
+                "description": "Contact Legacy Build (2.06)",
+                "pwdrequired": "1",
+                "timeupdated": "1646748218"
+            },
+            "legacyports": {
+                "buildid": "2745873",
+                "description": "Legacy Build (1.82 - ports)",
+                "pwdrequired": "1",
+                "timeupdated": "1532420309"
+            },
+            "profiling": {
+                "buildid": "8359050",
+                "description": "Performance Profiling Build",
+                "pwdrequired": "1",
+                "timeupdated": "1647073801"
+            },
+            "temp": {
+                "buildid": "6879455",
+                "description": "temp",
+                "pwdrequired": "1",
+                "timeupdated": "1624028396"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14206488,
+    "_sha": "c33c5e80eb61650c6cda1c81a6414500120382c7",
+    "_size": 9909
+}

@@ -1,0 +1,109 @@
+{
+    "appid": "1836200",
+    "common": {
+        "name": "Fallout 76 Public Test Server",
+        "type": "Beta",
+        "parent": "1151340",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "clienttga": "371ddde278809ff35f9ea406c921fc66d0510f47",
+        "clienticon": "e70e202c276d3e49163d30f320c778ac8648ec79",
+        "icon": "e153521098b536cc1ca5a79e03031533c44a6b05",
+        "logo": "6fadf075d478c811dff8de8900c662e84704a01f",
+        "logo_small": "6fadf075d478c811dff8de8900c662e84704a01f_thumb",
+        "small_capsule": {
+            "english": "capsule_231x87.jpg"
+        },
+        "header_image": {
+            "english": "header.jpg"
+        },
+        "library_assets": {
+            "library_capsule": "en",
+            "library_hero": "en",
+            "library_logo": "en",
+            "logo_position": {
+                "pinned_position": "BottomLeft",
+                "width_pct": "58.953488372093034",
+                "height_pct": "77.35692234623605"
+            }
+        },
+        "store_asset_mtime": "1641218655",
+        "associations": {},
+        "steam_release_date": "1643658448",
+        "community_hub_visible": "1",
+        "gameid": "1836200",
+        "review_score": "6",
+        "review_percentage": "72"
+    },
+    "extended": {
+        "betaforappid": "1151340"
+    },
+    "config": {
+        "installdir": "Fallout 76 Playtest",
+        "launch": {
+            "0": {
+                "executable": "Fallout76.exe",
+                "type": "default"
+            }
+        }
+    },
+    "depots": {
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1836201": {
+            "name": "Client_Exes",
+            "manifests": {
+                "public": "1899146298308263974"
+            },
+            "maxsize": "97549106"
+        },
+        "1836202": {
+            "name": "Client_Archives",
+            "manifests": {
+                "public": "9135223399762942510"
+            },
+            "maxsize": "75910570520"
+        },
+        "1836203": {
+            "name": "Client_Corefiles",
+            "manifests": {
+                "public": "4319150587789981525"
+            },
+            "maxsize": "3043957930"
+        },
+        "1836204": {
+            "name": "Chromium_Locales",
+            "manifests": {
+                "public": "685950529408728112"
+            },
+            "maxsize": "13533071"
+        },
+        "1836205": {
+            "name": "Localization_English",
+            "manifests": {
+                "public": "8120719175259731460"
+            },
+            "maxsize": "4069"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8268803",
+                "timeupdated": "1645817237"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14140552,
+    "_sha": "a17c17f3a8ed1644330c5db2ff01c3fd3bd2cf16",
+    "_size": 2249
+}

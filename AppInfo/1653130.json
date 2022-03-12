@@ -1,0 +1,90 @@
+{
+    "appid": "1653130",
+    "common": {
+        "name": "Desperation Dedicated Server",
+        "type": "Tool",
+        "parent": "1617360",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "logo": "eee23d8bc12ee3c82a0e604497ba2108f84e1d9b",
+        "logo_small": "eee23d8bc12ee3c82a0e604497ba2108f84e1d9b_thumb",
+        "icon": "5cee151740681d6582f3135bb09dbea6ceaa06e7",
+        "clienttga": "6012ea81d68607ad0dfc5610e61f17101373c1fd",
+        "clienticon": "2bcde96dcb5fb4d461ef5995caa248e073cab591",
+        "community_hub_visible": "1",
+        "gameid": "1653130"
+    },
+    "extended": {
+        "gamedir": "Desperation",
+        "serverbrowsername": "Desperation"
+    },
+    "config": {
+        "installdir": "DesperationDedicatedServer",
+        "launch": {
+            "0": {
+                "executable": "DesperationFolder/DesperationServer.exe",
+                "type": "server",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1653131": {
+            "name": "Desperation Dedicated Server Content",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "8942121147299345724"
+            },
+            "maxsize": "1196664971"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7876595",
+                "timeupdated": "1639426317"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "cfc23b9d1c483760859ea09a45c993af378930da",
+    "_size": 1841
+}

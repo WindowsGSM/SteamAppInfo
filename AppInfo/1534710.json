@@ -1,0 +1,111 @@
+{
+    "appid": "1534710",
+    "common": {
+        "name": "SCP: Breakout Dedicated Server",
+        "type": "Tool",
+        "parent": "1534050",
+        "oslist": "",
+        "osarch": "",
+        "osextended": "",
+        "icon": "0a9c5374712471f0521b7d7221562c98923b4b78",
+        "clienttga": "90c6091e3960ff3e3cc93a147a76087223aefff0",
+        "clienticon": "a66152cdc9b3ae7a97f0f26cae2ce9b0dc86bf12",
+        "logo": "602d5477e13d2f6e44a3be8b23c5fc1709fb3887",
+        "logo_small": "602d5477e13d2f6e44a3be8b23c5fc1709fb3887_thumb",
+        "releasestate": "released",
+        "gameid": "1534710"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "installdir": "SCP Breakout Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "SCPBreakout.exe",
+                "type": "server"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "name": ".NET 4.7 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "83944258",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1534711": {
+            "name": "SCP: Breakout Dedicated Server Content",
+            "manifests": {
+                "public": "408784379942811388"
+            },
+            "maxsize": "309008651"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7015504",
+                "timeupdated": "1626088487"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "8af1c32908f697d852057c86a2dc958f41ff5bfb",
+    "_size": 2190
+}

@@ -1,0 +1,56 @@
+{
+    "appid": "91720",
+    "common": {
+        "name": "E.Y.E - Dedicated Server",
+        "type": "Tool",
+        "freeondemand": "1",
+        "gameid": "91720"
+    },
+    "extended": {
+        "developer": "",
+        "gamedir": "E.Y.E",
+        "homepage": "",
+        "icon": "",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "91702",
+        "serverbrowsername": "",
+        "state": "eStateTool"
+    },
+    "config": {
+        "launch": {
+            "0": {
+                "description": "E.Y.E: Divine Cybermancy - Dedicated Server",
+                "executable": "srcds.exe",
+                "arguments": "-game EYE"
+            }
+        },
+        "contenttype": "3",
+        "installdir": "EYE"
+    },
+    "depots": {
+        "91702": {
+            "name": "EYE_DS",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "6583079002623682731"
+            },
+            "maxsize": "4865203765"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "70036"
+            },
+            "beta": {
+                "buildid": "70036",
+                "description": "Blood Games",
+                "pwdrequired": "1"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "a25f4facaea5640e2c1ca502819c498d6adaf496",
+    "_size": 915
+}

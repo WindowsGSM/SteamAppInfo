@@ -1,0 +1,152 @@
+{
+    "appid": "17505",
+    "common": {
+        "name": "Zombie Panic! Source Dedicated Server",
+        "icon": "541d222305440c75cd5599d3032ab9590c206a75",
+        "clienttga": "e16bdba18d468b27f1a16914ded950640575c39c",
+        "logo": "8c6b32078adf9aca270d4328bea47f01f9f0009a",
+        "logo_small": "8c6b32078adf9aca270d4328bea47f01f9f0009a_thumb",
+        "clienticon": "0829095faea0df8a0531fc9582e6e566cd2f4c2a",
+        "type": "Tool",
+        "freeondemand": "1",
+        "oslist": "windows,linux",
+        "osarch": "",
+        "associations": {},
+        "gameid": "17505"
+    },
+    "extended": {
+        "developer": "Zombie Panic! Team",
+        "gamedir": "Zombie Panic! Source",
+        "homepage": "http://www.zombiepanic.org",
+        "icon": "",
+        "loadallbeforelaunch": "1",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "17501",
+        "serverbrowsername": "",
+        "state": "eStateTool",
+        "visibleonlywhensubscribed": "1"
+    },
+    "config": {
+        "usemms": "",
+        "contenttype": "3",
+        "installdir": "Zombie Panic Source Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "srcds.exe",
+                "arguments": "-game zps -steam -secure",
+                "description": "Launch",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "srcds_run.sh",
+                "arguments": "-steam -secure",
+                "description": "Launch",
+                "type": "default",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "228983": {
+            "name": "VC 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "19265607",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "686471": {
+            "name": "Zombie Panic! Source Dedicated Server Windows Binaries",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "5289325312449002468",
+                "legacy2.4": "7345369736366925217",
+                "v3.0.9a": "4543002528562670536"
+            },
+            "maxsize": "100675255",
+            "encryptedmanifests": {
+                "eugene": {
+                    "encrypted_gid_2": "05EA0B0DC64725AF96888DB06FC869B3",
+                    "encrypted_size_2": "B8223D5A9337375D6472F6E835887AC9"
+                }
+            }
+        },
+        "686472": {
+            "name": "Zombie Panic! Source Dedicated Server Linux Binaries",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "6272757686987525315",
+                "legacy2.4": "4221706886458780388",
+                "v3.0.9a": "3456975260622561583"
+            },
+            "maxsize": "91877537",
+            "encryptedmanifests": {
+                "eugene": {
+                    "encrypted_gid_2": "00883DC5FC32FFA614F37C1BC6B6281D",
+                    "encrypted_size_2": "ACC6E98E697543E388D9A6F1941259C2"
+                }
+            }
+        },
+        "686473": {
+            "name": "Zombie Panic! Source Dedicated Server Shared Content Dedicated",
+            "manifests": {
+                "public": "1677478452159104909",
+                "legacy2.4": "1906675738397121551",
+                "v3.0.9a": "1646989424537902631"
+            },
+            "maxsize": "7865328910",
+            "encryptedmanifests": {
+                "eugene": {
+                    "encrypted_gid_2": "1C4D2ADC3E6F9B2BA8D2E47C53F2E6CA",
+                    "encrypted_size_2": "DA054D2ACEA0441909D2F251959D05FE"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8320045",
+                "timeupdated": "1646499588"
+            },
+            "eugene": {
+                "buildid": "8236737",
+                "description": "Hi there! :)",
+                "pwdrequired": "1",
+                "timeupdated": "1646499283"
+            },
+            "legacy2.4": {
+                "buildid": "5567065",
+                "description": "ZPS v2.4 - NOT SUPPORTED",
+                "timeupdated": "1601575109"
+            },
+            "quality_assurance": {
+                "buildid": "8320045",
+                "description": "ZPS v3.Next - Quality Assurance (PlayTesting) build",
+                "pwdrequired": "1",
+                "timeupdated": "1646495007"
+            },
+            "v3.0.9a": {
+                "buildid": "3809221",
+                "description": "ZPS v3.0.9a - Deprecated",
+                "timeupdated": "1602784746"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14142252,
+    "_sha": "c16b759ccb0022525567ed55ed83f7bd8b3d2987",
+    "_size": 3640
+}

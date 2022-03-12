@@ -1,0 +1,73 @@
+{
+    "appid": "8610",
+    "common": {
+        "clienttga": "6c895a01954bfeb9de8098471ef1b44259efe80d",
+        "icon": "a84d62ad8095e8b991cbb83044a02fd4980ead3a",
+        "logo": "",
+        "logo_small": "",
+        "name": "RACE 07 Dedicated Server",
+        "clienticon": "05e281791c36d8d409c7c55aba2bb47aa395c7f5",
+        "type": "Tool",
+        "gameid": "8610"
+    },
+    "extended": {
+        "developer": "SimBin Studios",
+        "gamedir": "RACE07DS",
+        "homepage": "http://www.race-game.org/race07/",
+        "icon": "steam/games/icon_Race 07",
+        "loadallbeforelaunch": "1",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "8601",
+        "serverbrowsername": "",
+        "state": "eStateTool"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "race 07",
+        "allowrunningmultipleinstances": "1",
+        "launch": {
+            "0": {
+                "executable": "RaceDedicatedServer_Steam.exe"
+            }
+        }
+    },
+    "depots": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "8602": {
+            "name": "RACE 07 Textures",
+            "systemdefined": "1",
+            "maxsize": "1150003636",
+            "depotfromapp": "8600",
+            "sharedinstall": "2"
+        },
+        "8601": {
+            "name": "RACE 07 Files",
+            "systemdefined": "1",
+            "maxsize": "1593109696",
+            "depotfromapp": "8600",
+            "sharedinstall": "2"
+        },
+        "1004": {
+            "name": "Steamworks SDK Redist (Win32)",
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "maxsize": "9662208",
+            "depotfromapp": "8600",
+            "sharedinstall": "2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1200527",
+                "timeupdated": "1467033601"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "c06e9c6cf813bab73a6a3c71c7d8af7d098cf517",
+    "_size": 1468
+}

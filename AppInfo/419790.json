@@ -1,0 +1,192 @@
+{
+    "appid": "419790",
+    "common": {
+        "name": "Eden Star Dedicated Server",
+        "type": "Tool",
+        "oslist": "windows",
+        "clienticon": "654d328a3770700c30c4bdd474734ab50d6dd48a",
+        "clienttga": "565a53d046a8214fb8959b7b825eef806dca12a7",
+        "icon": "fd3c2472381ec4bfe2d36e52bd9e69849306aa57",
+        "logo": "3e9fdfba684b1fac76995dd6b5c1731214fa6d78",
+        "logo_small": "3e9fdfba684b1fac76995dd6b5c1731214fa6d78_thumb",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "419790"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Eden Star Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "EdenGame\\Binaries\\Win64\\EdenGameServer.exe",
+                "arguments": "-log",
+                "description": "Launch Server",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        },
+        "noupdatesafterinstall": "1"
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228983": {
+            "name": "VC 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": "8124929965194586177"
+            },
+            "maxsize": "19265607",
+            "depotfromapp": "228980"
+        },
+        "228984": {
+            "name": "VC 2012 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": "2547553897526095397"
+            },
+            "maxsize": "13742505",
+            "depotfromapp": "228980"
+        },
+        "228985": {
+            "name": "VC 2013 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": "3966345552745568756"
+            },
+            "maxsize": "13699237",
+            "depotfromapp": "228980"
+        },
+        "228986": {
+            "name": "VC 2015 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": "8782296191957114623"
+            },
+            "maxsize": "29759921",
+            "depotfromapp": "228980"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": "1829726630299308803"
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980"
+        },
+        "229002": {
+            "name": ".NET 4.0 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": "7260605429366465749"
+            },
+            "maxsize": "50450161",
+            "depotfromapp": "228980"
+        },
+        "229003": {
+            "name": ".NET 4.0 Client Profile Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": "8740933542064151477"
+            },
+            "maxsize": "43001447",
+            "depotfromapp": "228980"
+        },
+        "229004": {
+            "name": ".NET 4.5.2 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": "5220958916987797232"
+            },
+            "maxsize": "70000464",
+            "depotfromapp": "228980"
+        },
+        "229005": {
+            "name": ".NET 4.6 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": "7992454656023763365"
+            },
+            "maxsize": "62009092",
+            "depotfromapp": "228980"
+        },
+        "419791": {
+            "name": "Eden Star Dedicated Server Content",
+            "manifests": {
+                "public": "4094031142452105056"
+            },
+            "maxsize": "358886632"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1929073",
+                "timeupdated": "1498845457"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "6b52de5d712e661cec089f7dface86d1d295cc54",
+    "_size": 3817
+}

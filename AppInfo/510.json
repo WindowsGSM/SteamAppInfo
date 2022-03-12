@@ -1,0 +1,74 @@
+{
+    "appid": "510",
+    "common": {
+        "icon": "428df26bc35b09319e31b1ffb712487b20b3245c",
+        "logo": "0f67ee504d8f04ecd83986dd7855821dc21f7a78",
+        "logo_small": "0f67ee504d8f04ecd83986dd7855821dc21f7a78_thumb",
+        "name": "Left 4 Dead Dedicated Server",
+        "clienttga": "e0e62581f75fc35153cf4b144fe6e75610373ef3",
+        "clienticon": "dea36504f7c4dac7c657e77a0fac8a274e2af2d3",
+        "metacritic_url": "pc/left4dead",
+        "type": "Tool",
+        "gameid": "510"
+    },
+    "extended": {
+        "dedicatedserverfolder": "l4d",
+        "developer": "Valve",
+        "gamedir": "L4D ded server",
+        "homepage": "http://www.l4d.com/",
+        "icon": "",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "511",
+        "serverbrowsername": "",
+        "state": "eStateTool"
+    },
+    "config": {
+        "usemms": "",
+        "contenttype": "3",
+        "installdir": "Left 4 Dead",
+        "launch": {
+            "0": {
+                "executable": "srcds.exe"
+            }
+        }
+    },
+    "depots": {
+        "502": {
+            "name": "Left 4 Dead base",
+            "systemdefined": "1",
+            "maxsize": "3840027063",
+            "depotfromapp": "500",
+            "sharedinstall": "2"
+        },
+        "501": {
+            "name": "Left 4 Dead binaries",
+            "systemdefined": "1",
+            "maxsize": "302264448",
+            "depotfromapp": "500",
+            "sharedinstall": "2"
+        },
+        "511": {
+            "name": "left4dead win32 dedicated server",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "6592105419075378706"
+            },
+            "maxsize": "18159577"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "108902"
+            },
+            "steampipe": {
+                "buildid": "108902",
+                "description": ""
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 13821961,
+    "_sha": "5afcaccd130ed12c0f4b3c3bec89b6dcf2e4ca77",
+    "_size": 1499
+}

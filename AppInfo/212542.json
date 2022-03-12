@@ -1,0 +1,53 @@
+{
+    "appid": "212542",
+    "common": {
+        "name": "Red Orchestra 2 - Dedicated Server",
+        "type": "Game",
+        "community_hub_visible": "1",
+        "gameid": "212542"
+    },
+    "extended": {
+        "developer": "",
+        "gamedir": "Red Orchestra 2 - Dedicated Server",
+        "homepage": "",
+        "icon": "",
+        "noservers": "0",
+        "primarycache": "35453",
+        "sourcegame": "1",
+        "state": "eStateAvailable",
+        "visibleonlywhensubscribed": "1"
+    },
+    "config": {
+        "launch": {
+            "0": {
+                "executable": "testapp.exe"
+            }
+        },
+        "contenttype": "3",
+        "installdir": "Red Orchestra 2"
+    },
+    "depots": {
+        "35453": {
+            "name": "RedOrchestra2WindowsDedicated",
+            "manifests": {
+                "public": "2573614721256970795"
+            },
+            "maxsize": "10858743459"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "815573"
+            },
+            "internalbeta": {
+                "buildid": "815573",
+                "description": "",
+                "pwdrequired": "1"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "83cd28b499cffb70e053608eb8f20638c4032f07",
+    "_size": 903
+}

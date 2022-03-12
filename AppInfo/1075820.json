@@ -1,0 +1,59 @@
+{
+    "appid": "1075820",
+    "common": {
+        "name": "Green Army Men - Dedicated Server",
+        "type": "DLC",
+        "parent": "418480",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "1075820"
+    },
+    "extended": {
+        "dlcforappid": "418480",
+        "mustownapptopurchase": "418480"
+    },
+    "depots": {
+        "1075820": {
+            "name": "Green Army Men - Dedicated Server Depot",
+            "manifests": {
+                "public": "881447729623456747"
+            },
+            "maxsize": "2296212493",
+            "encryptedmanifests": {
+                "gamm": {
+                    "encrypted_gid_2": "1A6CE6DC7E700A4ADD5734C0447D1AAF",
+                    "encrypted_size_2": "3B9E3FF1B94CB21BA9C31D2D182D4158"
+                }
+            },
+            "dlcappid": "1075820"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6699778",
+                "timeupdated": "1622556045"
+            },
+            "beta": {
+                "buildid": "6699778",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1620990575"
+            },
+            "gamm": {
+                "buildid": "4439286",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1575045596"
+            },
+            "terndev": {
+                "buildid": "5707993",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1603480927"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "f5482b6f794d6b3da5a2fa2c40319a54c505e696",
+    "_size": 1135
+}

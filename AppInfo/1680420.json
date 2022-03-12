@@ -1,0 +1,84 @@
+{
+    "appid": "1680420",
+    "common": {
+        "name": "Prehistoric Marine Monsters dedicated server",
+        "type": "Tool",
+        "parent": "1679670",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "logo": "080479146b535d00e637cb39a1025f7fafa7df95",
+        "logo_small": "080479146b535d00e637cb39a1025f7fafa7df95_thumb",
+        "icon": "05a0cf86f7958b531d187fa216d771d497076a4b",
+        "clienticon": "7e1d4fbd892740c14b074923591c53156dfd350c",
+        "clienttga": "88ab76e989fefaadd5bb180f1d2094d5fb1d3516",
+        "gameid": "1680420"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "installdir": "Prehistoric Marine Monsters dedicated server",
+        "launch": {
+            "0": {
+                "executable": "Prehistoric Marine Monsters Server.exe",
+                "type": "none"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1680421": {
+            "name": "Prehistoric Marine Monsters dedicated server Content",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "8383627681898902226"
+            },
+            "maxsize": "4162978232"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7623535",
+                "timeupdated": "1635498002"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "032489220d33b3eadde057276e263369170af6e4",
+    "_size": 1733
+}

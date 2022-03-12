@@ -1,0 +1,134 @@
+{
+    "appid": "1405890",
+    "common": {
+        "name": "Blood Oath: When The Sword Rises dedicated server",
+        "type": "Tool",
+        "parent": "1399190",
+        "oslist": "windows,linux",
+        "osarch": "",
+        "osextended": "",
+        "logo": "e73918eead81aa08dc278b7ac55aa4d61a5b5c22",
+        "logo_small": "e73918eead81aa08dc278b7ac55aa4d61a5b5c22_thumb",
+        "icon": "d20419a531b1ceee8e1b8f57e723719402412ad3",
+        "clienttga": "dd7cdfb83ed0afd7ec56b227ec8d71c4e29be605",
+        "clienticon": "926075669f8caf0c5d1ae154f1b88b68b877113c",
+        "releasestate": "released",
+        "gameid": "1405890",
+        "exfgls": "1"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "installdir": "Blood Oath When The Sword Rises dedicated server",
+        "launch": {
+            "0": {
+                "executable": "BloodOathWTSRServer.exe",
+                "description": "Dedicated Server",
+                "type": "none",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "BloodOathWTSRServer.sh",
+                "description": "Linux Dedicated Server",
+                "type": "none",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1405891": {
+            "name": "Blood Oath: When The Sword Rises dedicated server Content",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": "5977469505492572677"
+            },
+            "maxsize": "428171785"
+        },
+        "1405892": {
+            "name": "Blood Oath: When The Sword Rises Linux dedicated server",
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": "7352978295039393128"
+            },
+            "maxsize": "2538076138"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6274856",
+                "timeupdated": "1613988819"
+            },
+            "server": {
+                "buildid": "6274856",
+                "description": "Multiplatform dedicated server",
+                "timeupdated": "1613988789"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "f2ded431cfc6b5a272a072d7df92a2e45da34db9",
+    "_size": 2788
+}

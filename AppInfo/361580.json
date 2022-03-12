@@ -1,0 +1,102 @@
+{
+    "appid": "361580",
+    "common": {
+        "name": "Wreckfest Dedicated Server",
+        "type": "Tool",
+        "parent": "228380",
+        "logo": "13f6074af0fee36a42410a9bee71443b0db5486b",
+        "logo_small": "13f6074af0fee36a42410a9bee71443b0db5486b_thumb",
+        "icon": "2c93b44a991870cff51b8f77096969201771d2e9",
+        "clienttga": "d1f643e4867de974d5e4dde253ce5159f133986e",
+        "clienticon": "ee8be8f5d1185588eb91dabead08fc20071fa02a",
+        "oslist": "windows",
+        "osarch": "",
+        "releasestate": "released",
+        "eulas": {
+            "0": {
+                "id": "361580_eula_0",
+                "name": "Wreckfest Dedicated Server EULA",
+                "url": "https://store.steampowered.com//eula/361580_eula_0"
+            }
+        },
+        "associations": {},
+        "gameid": "361580"
+    },
+    "extended": {
+        "gamedir": "wreckfest",
+        "serverbrowsername": "Wreckfest"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Wreckfest Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "start_server.bat",
+                "type": "none"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "361581": {
+            "name": "Wreckfest Dedicated Server Content",
+            "manifests": {
+                "public": "7492828396323762463"
+            },
+            "maxsize": "5939430295"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8300715",
+                "timeupdated": "1646232064"
+            },
+            "bbtest": {
+                "buildid": "8300715",
+                "description": "dev",
+                "pwdrequired": "1",
+                "timeupdated": "1646228127"
+            }
+        }
+    },
+    "ufs": {
+        "quota": "0",
+        "maxnumfiles": "0",
+        "hidecloudui": "1",
+        "ignoreexternalfiles": "1"
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "63f59d682c132c7641c340a887dd71010c3b812e",
+    "_size": 2073
+}

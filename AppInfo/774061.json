@@ -1,0 +1,116 @@
+{
+    "appid": "774061",
+    "common": {
+        "name": "The Prison Game Dedicated Server Tool",
+        "type": "Tool",
+        "parent": "461990",
+        "oslist": "linux",
+        "osarch": "",
+        "logo": "138284fb1bf915b8e66f19cd45454fdae5ff8238",
+        "logo_small": "138284fb1bf915b8e66f19cd45454fdae5ff8238_thumb",
+        "icon": "6d74ded29ccc92549a19c1f43594f2bbbfbe391d",
+        "clienttga": "83afd45aa1dac8793ba5da4e07641e40d9e8661a",
+        "clienticon": "67820e52982896b40d3c9819ee9b2ea55f0770f5",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "774061"
+    },
+    "config": {
+        "installdir": "The Prison Game Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "ThePrisonGameServer.sh",
+                "type": "server",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "774062": {
+            "name": "ThePrisonGame Dedicated Server Content",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "4626450579223998240"
+            },
+            "maxsize": "11233821328",
+            "encryptedmanifests": {
+                "alpha": {
+                    "encrypted_gid_2": "12FE38345F09AD244FC152A2D8297DCE",
+                    "encrypted_size_2": "C76A18E46B502094AB2807283A10E293"
+                },
+                "beta": {
+                    "encrypted_gid_2": "CEFAF5BA3F1836B0A9B6F97F90C9F0DA",
+                    "encrypted_size_2": "9018D8C41B0E1EBF0728A6323B24446B"
+                },
+                "steam": {
+                    "encrypted_gid_2": "142A4E3C5D7EA53806B29A52D02FD60E",
+                    "encrypted_size_2": "ABEF00D77DFDC33B6F8906788C11E577"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "2394133",
+                "timeupdated": "1513977858"
+            },
+            "alpha": {
+                "buildid": "2583741",
+                "description": "Early Access",
+                "pwdrequired": "1",
+                "timeupdated": "1520434267"
+            },
+            "beta": {
+                "buildid": "3412102",
+                "description": "Beta Closed Tests",
+                "pwdrequired": "1",
+                "timeupdated": "1545220381"
+            },
+            "steam": {
+                "buildid": "2418271",
+                "description": "Steam Tests",
+                "pwdrequired": "1",
+                "timeupdated": "1515321328"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "ae1d4ee2783934a32963eaeb53c016a29bfa1073",
+    "_size": 2567
+}

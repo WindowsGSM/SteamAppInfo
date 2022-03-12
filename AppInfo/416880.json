@@ -1,0 +1,110 @@
+{
+    "appid": "416880",
+    "common": {
+        "name": "Ballistic Overkill Dedicated Server",
+        "type": "Tool",
+        "oslist": "windows,linux",
+        "logo": "ccff1d9464165da90bf0a44ddedd2df044f4515f",
+        "logo_small": "ccff1d9464165da90bf0a44ddedd2df044f4515f_thumb",
+        "icon": "6a4f474e91effe3651fc0aeb9fa16a36dd40ab38",
+        "clienttga": "8d0604342b39d8f194f4d4e419c01004c8731bb7",
+        "clienticon": "d1e0ff364186a35ea978854bf9718a3313fb441b",
+        "releasestate": "released",
+        "clienticns": "256769b52f517483c0f9da1250ef24bd5f107350",
+        "linuxclienticon": "c420d6ff55c5f66e9652e259aa2d7a55f3ff8464",
+        "associations": {},
+        "community_hub_visible": "1",
+        "gameid": "416880"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "BODS",
+        "launch": {
+            "0": {
+                "executable": "BODSLauncher.exe",
+                "type": "server",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "./BODS.x86",
+                "arguments": "-logFile output.txt",
+                "type": "server",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "416881": {
+            "name": "Ballistic Overkill Dedicated Server Content",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "5226631182675636115"
+            },
+            "maxsize": "61213777"
+        },
+        "416882": {
+            "name": "Ballistic Overkill Dedicated Server Linux",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "6149405167024505758"
+            },
+            "maxsize": "93700030"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4607866",
+                "timeupdated": "1580232666"
+            },
+            "development": {
+                "buildid": "4607866",
+                "description": "Development Branch",
+                "pwdrequired": "1",
+                "timeupdated": "1579964115"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "1909b672dad96c7ae112da931cff808b357324fa",
+    "_size": 2321
+}

@@ -1,0 +1,170 @@
+{
+    "appid": "928530",
+    "common": {
+        "name": "Prime & Load: 1776 Dedicated Server",
+        "type": "Tool",
+        "parent": "926540",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "logo": "774fd6c8bda24efa7c9f73b63a68edc75013d626",
+        "logo_small": "774fd6c8bda24efa7c9f73b63a68edc75013d626_thumb",
+        "icon": "84ebfccbbe837ef9bfd06c5ef8c14e850be301ab",
+        "clienticon": "821849aab4ae42e8aeefc1cdef215fdd86ec527e",
+        "clienttga": "9d58cdb1ee312ae215bdea973c27b0803d0f5177",
+        "osextended": "",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "928530"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "installdir": "Prime & Load 1776 Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "WaTServer.exe",
+                "arguments": "-log",
+                "description": "Launch Prime & Load: 1776 Dedicated Server",
+                "type": "server",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "WaTServer.sh",
+                "arguments": "-log",
+                "description": "Launch Prime & Load: 1776 Dedicated Server",
+                "type": "server",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "928531": {
+            "name": "Prime and Load: 1776 Linux Dedicated Server Depot",
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": "1151962120627918160"
+            },
+            "maxsize": "781509233",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "0996BC91701A10F108D207D7A2E06996",
+                    "encrypted_size_2": "F92806822CB2A0DD559219166CF60E15"
+                },
+                "pal_testing": {
+                    "encrypted_gid_2": "89C4F3DD51F2FAEEE3F87533A5894CCF",
+                    "encrypted_size_2": "8ADE80BD245A05BA3EFB3762D4115172"
+                },
+                "release": {
+                    "encrypted_gid_2": "54865AC1B571C45C3B4269B8B99F017E",
+                    "encrypted_size_2": "69DF118EDE5EFC0987FAF8C19C4AEA2F"
+                }
+            }
+        },
+        "928532": {
+            "name": "Prime and Load: 1776 Windows Dedicated Server Depot",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": "9169256028913995323"
+            },
+            "maxsize": "781645341",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "28FE89F807C48D262D386AF2B1645E24",
+                    "encrypted_size_2": "A0C6C15F1C4021943C3C5CDAE6137742"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "6838348",
+                "timeupdated": "1623230268"
+            },
+            "development": {
+                "buildid": "6825167",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1623073210"
+            },
+            "pal_testing": {
+                "buildid": "4966159",
+                "description": "This is the testing branch",
+                "pwdrequired": "1",
+                "timeupdated": "1588266635"
+            },
+            "release": {
+                "buildid": "5223294",
+                "description": "This is the release branch for Oasis Hosting",
+                "pwdrequired": "1",
+                "timeupdated": "1593265700"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "321fbbec6e29abf1662a475384effada77d38d16",
+    "_size": 3842
+}

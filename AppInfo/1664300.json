@@ -1,0 +1,264 @@
+{
+    "appid": "1664300",
+    "common": {
+        "name": "Animalia Survival Dedicated Server",
+        "type": "Tool",
+        "parent": "1364290",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "clienttga": "5ba32330d4ca53cad20a89f082d50a8b7be49465",
+        "logo": "c100f36905c975cf50fc5de6e76bfb3a50f55a1a",
+        "logo_small": "c100f36905c975cf50fc5de6e76bfb3a50f55a1a_thumb",
+        "icon": "15f2f9be77d0ddbecca0af3bfd085e03a0f5f720",
+        "clienticon": "65e88517e8042a31712eb0d96f5819f80d9b2a14",
+        "releasestate": "released",
+        "gameid": "1664300"
+    },
+    "extended": {
+        "gamedir": "AnimaliaSurvivalServer",
+        "anti_cheat_support_url": ""
+    },
+    "config": {
+        "installdir": "AnimaliaSurvivalServer",
+        "launch": {
+            "0": {
+                "executable": "AnimaliaSurvivalServer.exe",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "0.0.0.1.4.7"
+                }
+            }
+        },
+        "uselaunchcommandline": "1"
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228981": {
+            "name": "VC 2005 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "5884085",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228982": {
+            "name": "VC 2008 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "9688647",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228983": {
+            "name": "VC 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "19265607",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "name": "VC 2012 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "13742505",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "name": "VC 2013 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "13699237",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "name": ".NET 4.5.2 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "70000464",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "name": ".NET 4.6 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "62009092",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "name": ".NET 4.7 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "83944258",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "name": ".NET 4.8 Redis",
+            "config": {
+                "language": ""
+            },
+            "maxsize": "117381405",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229010": {
+            "name": "XNA 3.0 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "7982688",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229011": {
+            "name": "XNA 3.1 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "7672416",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "name": "XNA 4.0 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "7061608",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "name": "OpenAL 2.0.7.0 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "810085",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "name": "PhysX System Software 9.14.0702",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "60039803",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1664301": {
+            "name": "Servidor Dedicado Animalia Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "8914677560004189254"
+            },
+            "maxsize": "965701574",
+            "encryptedmanifests": {
+                "testing": {
+                    "encrypted_gid_2": "865957041AE542C14540E56663E8600B",
+                    "encrypted_size_2": "6335217477D7D4C619F5A3B208827BA2"
+                }
+            }
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "8296324",
+                "timeupdated": "1646237401"
+            },
+            "testing": {
+                "buildid": "8345466",
+                "description": "QA - Quality Assurance Testing Branch",
+                "pwdrequired": "1",
+                "timeupdated": "1646948863"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "c292fdb506c88d556d1d1c72f6214450c0d75c9e",
+    "_size": 5277
+}

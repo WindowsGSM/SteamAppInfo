@@ -1,0 +1,540 @@
+{
+    "appid": "258550",
+    "common": {
+        "name": "Rust Dedicated Server",
+        "type": "Game",
+        "releasestate": "released",
+        "oslist": "windows,macos,linux",
+        "osarch": "",
+        "osextended": "macos64",
+        "associations": {},
+        "gameid": "258550",
+        "store_tags": {}
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "rust_dedicated"
+    },
+    "depots": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "258551": {
+            "name": "rust dedicated - win64",
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "5684749072605419745",
+                "aux01": "5375335380796554516",
+                "staging": "5792583440212116170"
+            },
+            "maxsize": "504333352",
+            "encryptedmanifests": {
+                "aux01-debug": {
+                    "encrypted_gid_2": "406B4B861375E6569BA2FA7E81111613",
+                    "encrypted_size_2": "3CB95330B3BE2DE67A43D18BE3AC8842"
+                },
+                "aux02": {
+                    "encrypted_gid_2": "9C2E016AFBF7B00A2FA30C339A68E6C7",
+                    "encrypted_size_2": "A686B472E20DAE165A8D8B9E8B4DA1E8"
+                },
+                "aux02-debug": {
+                    "encrypted_gid_2": "9DCDD9FB61523E260495708FDE32648F",
+                    "encrypted_size_2": "B6BDC85C2004F2E8606AD90309DE94BD"
+                },
+                "aux03": {
+                    "encrypted_gid_2": "1994814E111928562AD423ED85D1FBE1",
+                    "encrypted_size_2": "85EB3381331AFB72F5AF17A14F82A05C"
+                },
+                "aux03-debug": {
+                    "encrypted_gid_2": "372672EF7FC8A60F850F22852B9C898D",
+                    "encrypted_size_2": "8ED72D0639958B5C5A32D9278BAB7A56"
+                },
+                "backport-update": {
+                    "encrypted_gid_2": "92C6D07020C7E943EE2EB7C69682FF01",
+                    "encrypted_size_2": "98D2E5226EBAF278BE6B6E469F247271"
+                },
+                "contacts-update": {
+                    "encrypted_gid_2": "F8DB2B909B4A075845EBA17A638C25AB",
+                    "encrypted_size_2": "F101283F1CBA87EEE05F2316B5DF291D"
+                },
+                "debug": {
+                    "encrypted_gid_2": "45A15372F84E75351A5A81E698DD5F91",
+                    "encrypted_size_2": "E710C9B60E56ACC4592221EC7453312A"
+                },
+                "experimental": {
+                    "encrypted_gid_2": "159AA4DD3B269CD343815D0B0D86CF8E",
+                    "encrypted_size_2": "E66AB74890AC4AD10524467D6FD301C8"
+                },
+                "experimental-debug": {
+                    "encrypted_gid_2": "BCDD99D620DD8FFF7A62FCD059C860F6",
+                    "encrypted_size_2": "59AFDB5E0D9ADCDC060FC3E0DECD65F6"
+                },
+                "gestures": {
+                    "encrypted_gid_2": "AAFB6681C530841E623309307CEE3D65",
+                    "encrypted_size_2": "D41CEF8C919CBE6CAC4F1A14F1E97470"
+                },
+                "hdrp": {
+                    "encrypted_gid_2": "BD5F620DDC1C2647E7DD53FF9C0824CF",
+                    "encrypted_size_2": "A544D04BD49A6F72E0D03F360EC8C4E9"
+                },
+                "hdrp-debug": {
+                    "encrypted_gid_2": "D82CAEA64912F7924C30E16A08B255A2",
+                    "encrypted_size_2": "8527E491A710A5E528285CB21028B4C3"
+                },
+                "release-debug": {
+                    "encrypted_gid_2": "00EF53922BA3893562E49DA3DDAB154E",
+                    "encrypted_size_2": "8E83ED41407BD707B9B75A6ACB7DF6D7"
+                },
+                "softcore-update-feb": {
+                    "encrypted_gid_2": "157EB5E71EDBC535E32197D8A80DD12D",
+                    "encrypted_size_2": "F15DFACBD0649705008BF69FDCB06DBF"
+                },
+                "staging-debug": {
+                    "encrypted_gid_2": "6655368E59200C9A907C1709377A53E7",
+                    "encrypted_size_2": "9DE1CEE543319964F9ECB905C571E1C8"
+                },
+                "test": {
+                    "encrypted_gid_2": "D7A8AFC61BC9499187247BC80218717A",
+                    "encrypted_size_2": "E4C924EB3362F7C68CC252D43EE58BDD"
+                },
+                "trailer": {
+                    "encrypted_gid_2": "AA679449F3904707DE438AA7BC7842D9",
+                    "encrypted_size_2": "7CD53B0D8979E32740672A3BF3E920C1"
+                },
+                "workcart-update": {
+                    "encrypted_gid_2": "C935319F2FC84DACD9711B26E662A8F3",
+                    "encrypted_size_2": "7831D025BDEE156AEFF819765FF02024"
+                },
+                "wounding-update": {
+                    "encrypted_gid_2": "0460B641AC245A25B3FFC55153564D46",
+                    "encrypted_size_2": "BE3BE9538B18329DEDC02265FBCF4C15"
+                }
+            }
+        },
+        "258552": {
+            "name": "rust dedicated - linux64",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "6271654237781238562",
+                "aux01": "3086855064831238413",
+                "staging": "8590875616250400562"
+            },
+            "maxsize": "545392559",
+            "encryptedmanifests": {
+                "aux01-debug": {
+                    "encrypted_gid_2": "E943A51328A3977EC5B3276018AFBA04",
+                    "encrypted_size_2": "945DF3847CE5BA2037F2FF02BB49B529"
+                },
+                "aux02": {
+                    "encrypted_gid_2": "9911DF037A9BB554EB2E814897931303",
+                    "encrypted_size_2": "218CF27ED2D72E457DF6A58326836F00"
+                },
+                "aux02-debug": {
+                    "encrypted_gid_2": "1399CCF7CB6756AD84ADA15F00E4E7F9",
+                    "encrypted_size_2": "FE2BE9D087167099536FF76E33CA79EE"
+                },
+                "aux03": {
+                    "encrypted_gid_2": "6FC2DF2338A5863D0F967C271D790E97",
+                    "encrypted_size_2": "F49C54BFDC2FF5ACB09A224C60226496"
+                },
+                "aux03-debug": {
+                    "encrypted_gid_2": "DC06472F9E4005326319B94F3FB2330A",
+                    "encrypted_size_2": "01E27505F424FC289930237AC609B169"
+                },
+                "backport-update": {
+                    "encrypted_gid_2": "0CE41ECE560515B10832CB1AFFC98CAE",
+                    "encrypted_size_2": "7253DA1DD6B649200173BE1EEFC260D0"
+                },
+                "contacts-update": {
+                    "encrypted_gid_2": "590654BC3A44811A3C499EA0D4D4482E",
+                    "encrypted_size_2": "7823B369039A973CA4DEFA69CD8F322F"
+                },
+                "debug": {
+                    "encrypted_gid_2": "2E1F82C055CCA0C4BAAAEC6D0E340E58",
+                    "encrypted_size_2": "6934BE44EDBAE662DBA0A772EF22543D"
+                },
+                "experimental": {
+                    "encrypted_gid_2": "DBED0E059A1E10516AB5ED485664CBC9",
+                    "encrypted_size_2": "7C49B323C224C921BE41CF0AD0C11398"
+                },
+                "experimental-debug": {
+                    "encrypted_gid_2": "9AFF07810C4FB49E334ADEF7B88C81EF",
+                    "encrypted_size_2": "A79CE9FF0F9B09303CBCBA262082FB30"
+                },
+                "gestures": {
+                    "encrypted_gid_2": "FD9DDADD1D534F3D3BB899CA33C3BCDE",
+                    "encrypted_size_2": "D6D5A1D2F0C663480E96222F410A25C6"
+                },
+                "hdrp": {
+                    "encrypted_gid_2": "2ABA75AC166B29FDC022204A579DFCCB",
+                    "encrypted_size_2": "3049163F621D5A952F97B97870595A67"
+                },
+                "hdrp-debug": {
+                    "encrypted_gid_2": "698C589591179FB1D7052AB93AEC07D9",
+                    "encrypted_size_2": "B0B1290DC3DF7793D3B33373FEE4D375"
+                },
+                "release-debug": {
+                    "encrypted_gid_2": "873D65069E36919C816166D35DAA9A8F",
+                    "encrypted_size_2": "FF5DFFC5A1ECB6CD9229867356E65E2F"
+                },
+                "softcore-update-feb": {
+                    "encrypted_gid_2": "27B9A55B42B3CF4AF177BE804CA460CD",
+                    "encrypted_size_2": "9BA773416ACE46306E5B95DDA0C9DB4F"
+                },
+                "staging-debug": {
+                    "encrypted_gid_2": "B122C1F9B5C97943334A724041D1C1E7",
+                    "encrypted_size_2": "A711D8D8402C7AF27FE90630C469993E"
+                },
+                "test": {
+                    "encrypted_gid_2": "3BB313F404670BA381D70B158A266CAC",
+                    "encrypted_size_2": "CB5952B7EED539ECDF374A4EF75DBD19"
+                },
+                "trailer": {
+                    "encrypted_gid_2": "3F56408994AE08FF5F411F0DB7C5CB48",
+                    "encrypted_size_2": "7B8E033EB6ECE09383D56C0D8A7290C4"
+                },
+                "workcart-update": {
+                    "encrypted_gid_2": "479B15F18808FDBDB4CA2DF7439A8A50",
+                    "encrypted_size_2": "E4A31A8E8380F64EB5CBEC57CEAC8379"
+                },
+                "wounding-update": {
+                    "encrypted_gid_2": "2FEC0E1B0ABEA80F526A8C1CC0FD2A87",
+                    "encrypted_size_2": "03087404A4601F97E875EFC08B0504C5"
+                }
+            }
+        },
+        "258553": {
+            "name": "rust dedicated - osx64",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "6797459586901911047",
+                "aux01": "3103918118633768973",
+                "staging": "899729973444320203"
+            },
+            "maxsize": "460938568",
+            "encryptedmanifests": {
+                "aux01-debug": {
+                    "encrypted_gid_2": "FC70A39CB38E5ED5C30863745976858D",
+                    "encrypted_size_2": "6A27F3D36B0CFD3A9EC08EE128E27334"
+                },
+                "aux02": {
+                    "encrypted_gid_2": "9BB8E7D137EB3900FB4B096AFFF2BD8F",
+                    "encrypted_size_2": "4AEEE073E1865D8B514D93156FFDAC47"
+                },
+                "aux02-debug": {
+                    "encrypted_gid_2": "E0E897919DE9B18F3FA96E4C054B09BA",
+                    "encrypted_size_2": "387453ABEE13288F168DBA6512294939"
+                },
+                "aux03": {
+                    "encrypted_gid_2": "1A09DA80F35627358DBEF938C728BDEC",
+                    "encrypted_size_2": "B1CF1A448A16D02975CE9E194FD3DB15"
+                },
+                "aux03-debug": {
+                    "encrypted_gid_2": "A89D4B0E7DCFD79E05B0AB09F3AB32AE",
+                    "encrypted_size_2": "0BFBB5976926573984436199D209858B"
+                },
+                "backport-update": {
+                    "encrypted_gid_2": "251C1F4EB097C0F1F580AE1713392477",
+                    "encrypted_size_2": "6B23B44E6B69A525BDEEAE084937B109"
+                },
+                "contacts-update": {
+                    "encrypted_gid_2": "9992FF0911F2A5C8AD5FFACAFEF5BA91",
+                    "encrypted_size_2": "AB8BE1E440B99E4E602F429982C12F2C"
+                },
+                "debug": {
+                    "encrypted_gid_2": "73D9D9480A9449159921D6433D4A7CA8",
+                    "encrypted_size_2": "3EBB2A0D69D9E2D1B1A33B97566CDAA7"
+                },
+                "experimental": {
+                    "encrypted_gid_2": "F265FF8CA430C77F7FF8A0C7B3B6F3FF",
+                    "encrypted_size_2": "688A57CE04CBF89E7BD685B009E2129C"
+                },
+                "experimental-debug": {
+                    "encrypted_gid_2": "939A41CDA66CBCE6537F506ADF370B60",
+                    "encrypted_size_2": "F990CD2793F00897EA44291F129888D6"
+                },
+                "gestures": {
+                    "encrypted_gid_2": "1F498824090219A1478D60435BF0D3F7",
+                    "encrypted_size_2": "6969F0EA93062C594070D170B911E888"
+                },
+                "hdrp": {
+                    "encrypted_gid_2": "184748BA435830F6B7E220F2C47723AE",
+                    "encrypted_size_2": "8ECD3C01DDC555CADFBEA4C26EFB31FE"
+                },
+                "hdrp-debug": {
+                    "encrypted_gid_2": "6E80FD91BAB9AAD17B079FCC672106D3",
+                    "encrypted_size_2": "2594CD39DD2251FBA8C6F4D35D0D8571"
+                },
+                "release-debug": {
+                    "encrypted_gid_2": "A33EDA3AF81E53988FB14B6CD1118A88",
+                    "encrypted_size_2": "99F602CB53ACA8D695199480D0CCA3B9"
+                },
+                "softcore-update-feb": {
+                    "encrypted_gid_2": "27312B0A0FADA899854D1993ED832E89",
+                    "encrypted_size_2": "A31039B820B280892FCDA0BEBBFD8DCE"
+                },
+                "staging-debug": {
+                    "encrypted_gid_2": "6729E08A45D44FD03752C5DBB41D8B32",
+                    "encrypted_size_2": "5AF9AF544F46BE71BDA097E93B16742E"
+                },
+                "test": {
+                    "encrypted_gid_2": "B27296397E6AA2D490C195017A56C337",
+                    "encrypted_size_2": "9C6CE4FFFD5D6D8AD07E2F103B079E59"
+                },
+                "trailer": {
+                    "encrypted_gid_2": "339FEADE719CF46673F619BC1FD5347F",
+                    "encrypted_size_2": "B619155916AB0C99226D8C9337EFDDD7"
+                },
+                "workcart-update": {
+                    "encrypted_gid_2": "41037514EB0C929565EBBA2CDF173B45",
+                    "encrypted_size_2": "407D0D6EA75D263C64461B173BC19391"
+                },
+                "wounding-update": {
+                    "encrypted_gid_2": "6708F3F846D37DFD1048A24A22F84E67",
+                    "encrypted_size_2": "D8C3D646D793D1507F6C205550703828"
+                }
+            }
+        },
+        "258554": {
+            "name": "rust dedicated - common",
+            "manifests": {
+                "public": "3714509066146323916",
+                "aux01": "5571480713012949675",
+                "staging": "3853154909414979804"
+            },
+            "maxsize": "5970943927",
+            "encryptedmanifests": {
+                "aux01-debug": {
+                    "encrypted_gid_2": "8BAAE850FB56A7E3018E588098B554FB",
+                    "encrypted_size_2": "5D77A978A3F80C58E1501B5AC8512658"
+                },
+                "aux02": {
+                    "encrypted_gid_2": "A4E2E069DCD1A358FE7284826841037F",
+                    "encrypted_size_2": "3E7D7918ED87CC46062FAB0EED84D786"
+                },
+                "aux02-debug": {
+                    "encrypted_gid_2": "40E9274BCF3185964A6F8DE1D727E838",
+                    "encrypted_size_2": "15E9AF239C57AD4113B1C97390924A5E"
+                },
+                "aux03": {
+                    "encrypted_gid_2": "BF095C6AB7B604A067717E2C413E53A4",
+                    "encrypted_size_2": "2EF6A5896AAC7E3736E8C4A92493CAE4"
+                },
+                "aux03-debug": {
+                    "encrypted_gid_2": "AEBA9B8CA0519A29A078FE47DF1623C7",
+                    "encrypted_size_2": "53C1E3A1D76777C92F6294142D22FCA3"
+                },
+                "backport-update": {
+                    "encrypted_gid_2": "35CB0303F628FB0F8E8E722B13A0CF6E",
+                    "encrypted_size_2": "F4E17137C3F5E2E3D7A9B837B088FAB1"
+                },
+                "contacts-update": {
+                    "encrypted_gid_2": "A2D0B673EA4BF89F5CE7E3AC98158C7D",
+                    "encrypted_size_2": "0FB0E74DE6BDCC69A1408C9A07B34F73"
+                },
+                "debug": {
+                    "encrypted_gid_2": "87CC65FDBA427AC1B61A8FB28F588ED7",
+                    "encrypted_size_2": "AD2E7F14BE5C6E68964DB5F1B394C738"
+                },
+                "experimental": {
+                    "encrypted_gid_2": "3CEF6A9C89BE0EEC8D9FA3958A3AD095",
+                    "encrypted_size_2": "0801406FAB4932E8A6A435C929A30854"
+                },
+                "experimental-debug": {
+                    "encrypted_gid_2": "54EBDE83D740F54829026F830285CD22",
+                    "encrypted_size_2": "ED7F99D7E86064AEE895F9FF8D1A26FF"
+                },
+                "gestures": {
+                    "encrypted_gid_2": "46A4E127203AA0D850F8A441848CCCE3",
+                    "encrypted_size_2": "D1F08594A7059216C706F79EBAEBFE21"
+                },
+                "hdrp": {
+                    "encrypted_gid_2": "3AD2994111BED2BA7E39587E8169621C",
+                    "encrypted_size_2": "1D1E68F461A897FF3FCA5159DF19E29D"
+                },
+                "hdrp-debug": {
+                    "encrypted_gid_2": "9D9ECE9C8C6E1982EA608E666883DEA0",
+                    "encrypted_size_2": "1B7A89A69F102E5F2153C1FED28F7085"
+                },
+                "softcore-update-feb": {
+                    "encrypted_gid_2": "19B595D32674AA1FC4ECC250360E1008",
+                    "encrypted_size_2": "93514C3F1E239E9C76EC614F4074229A"
+                },
+                "staging-debug": {
+                    "encrypted_gid_2": "26C0D3DA602411A1EDD1818B6EF3C9B4",
+                    "encrypted_size_2": "47C4C1A9FBBCB7A4E0C977339469C998"
+                },
+                "test": {
+                    "encrypted_gid_2": "251E9546290252692929466DE35BAF80",
+                    "encrypted_size_2": "593569DDC0240C714E62EF5DD17BE5DF"
+                },
+                "trailer": {
+                    "encrypted_gid_2": "B13E4E9C0C3E9DCB8192F5A31A00EAC6",
+                    "encrypted_size_2": "342666ED06CCC8892D7BEA873D69C67F"
+                },
+                "workcart-update": {
+                    "encrypted_gid_2": "CA7532E3CACD1056AFA4CDDE9B5DEF96",
+                    "encrypted_size_2": "F7737E1FF081C025FEA4F1A9399EC920"
+                },
+                "wounding-update": {
+                    "encrypted_gid_2": "1348A720477E316E82C7003EA49FFB89",
+                    "encrypted_size_2": "7B8A5517FF075E9501924817832650B1"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8329924",
+                "timeupdated": "1646696851"
+            },
+            "aux01": {
+                "buildid": "8104678",
+                "description": "Pre-Staging",
+                "timeupdated": "1643372028"
+            },
+            "aux01-debug": {
+                "buildid": "8104689",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1643372123"
+            },
+            "aux02": {
+                "buildid": "8352512",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1646983618"
+            },
+            "aux02-debug": {
+                "buildid": "8352520",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1646983697"
+            },
+            "aux03": {
+                "buildid": "8341325",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1646843407"
+            },
+            "aux03-debug": {
+                "buildid": "8341340",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1646843489"
+            },
+            "backport-update": {
+                "buildid": "6684682",
+                "description": "backport-update",
+                "pwdrequired": "1",
+                "timeupdated": "1620805121"
+            },
+            "contacts-update": {
+                "buildid": "6831531",
+                "description": "contacts-update",
+                "pwdrequired": "1",
+                "timeupdated": "1623158913"
+            },
+            "debug": {
+                "buildid": "4082533",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1565175365"
+            },
+            "experimental": {
+                "buildid": "6775797",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1622209302"
+            },
+            "experimental-debug": {
+                "buildid": "6775809",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1622209454"
+            },
+            "gestures": {
+                "buildid": "6482618",
+                "description": "gestures-update",
+                "pwdrequired": "1",
+                "timeupdated": "1617449973"
+            },
+            "hdrp": {
+                "buildid": "5585428",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1600880700"
+            },
+            "hdrp-debug": {
+                "buildid": "5585460",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1600881047"
+            },
+            "release": {
+                "buildid": "8329924",
+                "description": "",
+                "timeupdated": "1646695976"
+            },
+            "release-debug": {
+                "buildid": "8329940",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1646696086"
+            },
+            "softcore-update-feb": {
+                "buildid": "6424743",
+                "description": "softcore-update",
+                "pwdrequired": "1",
+                "timeupdated": "1616491889"
+            },
+            "staging": {
+                "buildid": "8333692",
+                "description": "",
+                "timeupdated": "1646747662"
+            },
+            "staging-debug": {
+                "buildid": "8333701",
+                "description": "debug",
+                "pwdrequired": "1",
+                "timeupdated": "1646747730"
+            },
+            "test": {
+                "buildid": "8022893",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1642182524"
+            },
+            "trailer": {
+                "buildid": "7104639",
+                "description": "trailer",
+                "pwdrequired": "1",
+                "timeupdated": "1627528044"
+            },
+            "workcart-update": {
+                "buildid": "6485636",
+                "description": "workcart-update",
+                "pwdrequired": "1",
+                "timeupdated": "1617450989"
+            },
+            "wounding-update": {
+                "buildid": "7005562",
+                "description": "wounding-update",
+                "pwdrequired": "1",
+                "timeupdated": "1625838709"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14195848,
+    "_sha": "6e2a6f429abbf3121bbc5453781373b182b1f089",
+    "_size": 16439
+}

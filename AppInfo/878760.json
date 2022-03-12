@@ -1,0 +1,112 @@
+{
+    "appid": "878760",
+    "common": {
+        "name": "Realm Royale - Test Server",
+        "type": "Game",
+        "oslist": "windows",
+        "osarch": "64",
+        "logo": "b3c468b4233ff613346f7d4ecf8ed9492427cd29",
+        "logo_small": "b3c468b4233ff613346f7d4ecf8ed9492427cd29_thumb",
+        "clienticon": "daa3f3f8958015df8d62ecbc9c7d804c08e64273",
+        "clienttga": "b9d92c6757775fb097837751ceb2a9611e1d2e0f",
+        "icon": "9c57e70460f256b775b9131591cc26ddf08d8afa",
+        "eulas": {
+            "0": {
+                "id": "878760_eula_0",
+                "name": "Realm Royale - Test Server EULA",
+                "url": "https://store.steampowered.com//eula/878760_eula_0"
+            }
+        },
+        "releasestate": "released",
+        "associations": {},
+        "community_hub_visible": "1",
+        "gameid": "878760",
+        "store_tags": {
+            "0": "19",
+            "1": "113"
+        }
+    },
+    "config": {
+        "installdir": "realmpts",
+        "launch": {
+            "0": {
+                "executable": "Binaries\\Win64\\RealmEAC.exe",
+                "arguments": "-seekfreeloadingpcconsole -pid=703 -steam -anon -homedir=\"paladinsroyale\" -eac_dir \"..\\\\EasyAntiCheat\\\\\"",
+                "workingdir": "Binaries",
+                "description": "Launch Win64",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        },
+        "usemms": "1"
+    },
+    "depots": {
+        "228983": {
+            "name": "VC 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "19265607",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "name": "VC 2012 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "13742505",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "878761": {
+            "name": "Realm Royale - Test Server Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "9205136734621189613"
+            },
+            "maxsize": "7637208179",
+            "encryptedmanifests": {
+                "beta_tester": {
+                    "encrypted_gid_2": "79251A88726F67FCAF0D2E269B6DB4C1",
+                    "encrypted_size_2": "40BFCFED2B6687BA9C2F553210C4336B"
+                }
+            }
+        },
+        "baselanguages": "english,german,french,koreana,schinese,russian,japanese,portuguese,polish,latam",
+        "branches": {
+            "public": {
+                "buildid": "4259215",
+                "timeupdated": "1570550210"
+            },
+            "beta_tester": {
+                "buildid": "6554221",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1618604408"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "5010385737dedfe3639529f569584baf31ce74b0",
+    "_size": 2518
+}

@@ -1,0 +1,400 @@
+{
+    "appid": "770720",
+    "common": {
+        "name": "Hunt: Showdown (Test Server)",
+        "type": "Game",
+        "releasestate": "released",
+        "logo": "449b63e96d9563899399d7fc2461e77eeec71870",
+        "logo_small": "449b63e96d9563899399d7fc2461e77eeec71870_thumb",
+        "icon": "5b6e6df3d86da34a061ef77113483a54317b01e8",
+        "oslist": "windows",
+        "osarch": "64",
+        "has_adult_content": "1",
+        "clienttga": "811af0a1f53d77319154d8bd0959714057e037b7",
+        "clienticon": "9ac2aa2b6e6d3d98b05e32702a64d5e3e8b2d75a",
+        "languages": {
+            "english": "1",
+            "german": "1",
+            "french": "1",
+            "italian": "1",
+            "spanish": "1",
+            "schinese": "1",
+            "russian": "1",
+            "japanese": "1",
+            "portuguese": "1",
+            "polish": "1",
+            "turkish": "1"
+        },
+        "metacritic_name": "Hunt: Showdown (Test Server)",
+        "small_capsule": {
+            "english": "capsule_231x87.jpg"
+        },
+        "header_image": {
+            "english": "header.jpg"
+        },
+        "library_assets": {
+            "library_capsule": "en",
+            "library_hero": "en",
+            "library_logo": "en",
+            "logo_position": {
+                "pinned_position": "BottomLeft",
+                "width_pct": "29.238885222487184",
+                "height_pct": "100"
+            }
+        },
+        "store_asset_mtime": "1596201044",
+        "associations": {},
+        "primary_genre": "0",
+        "category": {
+            "category_45": "1",
+            "category_46": "1"
+        },
+        "steam_release_date": "1522940400",
+        "community_visible_stats": "1",
+        "community_hub_visible": "1",
+        "gameid": "770720",
+        "store_tags": {}
+    },
+    "config": {
+        "installdir": "Hunt Showdown (Test Server)",
+        "launch": {
+            "0": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings stage_external +sys_dump_type 2",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "3": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings yellow +online_websvc_skip_tls_cert_validation 1",
+                "type": "option3",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "qa_testroom latest"
+                },
+                "description_loc": {
+                    "english": "Alice Farm Room"
+                },
+                "description": "Alice Farm Room"
+            },
+            "9": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings blue +online_websvc_skip_tls_cert_validation 1",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "qa_testroom latest"
+                },
+                "description_loc": {
+                    "english": "Davant Ranch Room"
+                },
+                "description": "Davant Ranch Room"
+            },
+            "11": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings mpQA +online_websvc_skip_tls_cert_validation 1 +sys_dump_type 2 +online_websvc_enable_tls 0",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "qa_testroom latest latest_lwp current"
+                },
+                "description_loc": {
+                    "english": "MP QA server"
+                },
+                "description": "MP QA server"
+            },
+            "12": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings local +online_websvc_skip_tls_cert_validation 1",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "qa_testroom latest teamtest latest_lwp"
+                },
+                "description_loc": {
+                    "english": "Local"
+                },
+                "description": "Local"
+            },
+            "13": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings test +online_websvc_skip_tls_cert_validation 1",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "qa_testroom latest teamtest latest_lwp"
+                },
+                "description_loc": {
+                    "english": "Prod machine"
+                },
+                "description": "Prod machine"
+            },
+            "14": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings stage",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "qa_testroom latest teamtest latest_lwp"
+                },
+                "description_loc": {
+                    "english": "STGDSN"
+                },
+                "description": "STGDSN"
+            },
+            "15": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings stage_cloud",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "qa_testroom"
+                },
+                "description_loc": {
+                    "english": "CLTST"
+                },
+                "description": "CLTST"
+            },
+            "16": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings stage_external +sys_dump_type 2 +lwp_authorizeToggling 1",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "lightweight_profiler\t"
+                },
+                "description_loc": {
+                    "english": "lightweight_profiler\t"
+                },
+                "description": "lightweight_profiler\t"
+            }
+        }
+    },
+    "depots": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,japanese,portuguese,polish,turkish",
+        "228985": {
+            "name": "VC 2013 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "13699237",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "name": "VC 2015 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29759921",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "name": ".NET 4.5.2 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "70000464",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "770721": {
+            "name": "Code",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "1535495752118588771"
+            },
+            "maxsize": "497497917",
+            "encryptedmanifests": {
+                "hw_test": {
+                    "encrypted_gid_2": "E5731780A04B902720F27AA062A95CFE",
+                    "encrypted_size_2": "B5F9B01E4ADB0B7284C399A4F700A24C"
+                },
+                "k-w-s": {
+                    "encrypted_gid_2": "470E1515939F2A04586D953A8AB9D3F7",
+                    "encrypted_size_2": "7592B6C3F051F70999448DD81B986FA1"
+                },
+                "latest": {
+                    "encrypted_gid_2": "6CB557ACCD75EA08B2042A3B128A1723",
+                    "encrypted_size_2": "77ED602F46917AD5CEA70173C4B452A4"
+                },
+                "lightweight_profiler": {
+                    "encrypted_gid_2": "F32B97A4FD654D502E68FF4B8D7F2110",
+                    "encrypted_size_2": "5FC41D85615822F465CA831175D6DA3C"
+                },
+                "qa_testroom": {
+                    "encrypted_gid_2": "8C6BE010CF252BAE89C4AEE237FA09E8",
+                    "encrypted_size_2": "32F9ECCF21234E194A6380E728E9A489"
+                },
+                "teamtest": {
+                    "encrypted_gid_2": "51BD8ADFE935EF624898255F99EF0D66",
+                    "encrypted_size_2": "843191820A2087A0785F84CEDA491F3F"
+                }
+            }
+        },
+        "770722": {
+            "name": "Assets",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "7715689834016263527"
+            },
+            "maxsize": "36842050038",
+            "encryptedmanifests": {
+                "hw_test": {
+                    "encrypted_gid_2": "FCD1D5B721E6DF30010FD3106E099161",
+                    "encrypted_size_2": "2B112E08B3DE15F3943288EC449431E6"
+                },
+                "k-w-s": {
+                    "encrypted_gid_2": "A7941A1BED4FB8BC7D3B5397AC71079E",
+                    "encrypted_size_2": "FB9B8FFD5397DB30295312A8538E638A"
+                },
+                "latest": {
+                    "encrypted_gid_2": "29AFDE473A064FDA9F91A2BFF7672F8B",
+                    "encrypted_size_2": "4C2DDB194BEEB111F76D344376CA7AB5"
+                },
+                "lightweight_profiler": {
+                    "encrypted_gid_2": "6004EADC99D500DC6E35BFE38993FDE1",
+                    "encrypted_size_2": "406C7D1B920688DAAA95DB21EAC6B91B"
+                },
+                "qa_testroom": {
+                    "encrypted_gid_2": "2AA132D278CC88AA628DE1999BD9F14D",
+                    "encrypted_size_2": "1B0FE3FC4B2EF924B926B42CD9774AD4"
+                },
+                "teamtest": {
+                    "encrypted_gid_2": "9D3303FCB37D37F5E5716C3D7FE7AAE7",
+                    "encrypted_size_2": "1B480D32C26AC71516CFE26CDB0EF781"
+                }
+            }
+        },
+        "770723": {
+            "name": "Localization",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "5101293408956573496"
+            },
+            "maxsize": "154735497",
+            "encryptedmanifests": {
+                "hw_test": {
+                    "encrypted_gid_2": "BFA66836F28B741E2BFF1CFF29815A98",
+                    "encrypted_size_2": "D65835AEE9A375BE6FB460604A813A1E"
+                },
+                "k-w-s": {
+                    "encrypted_gid_2": "4667424A2F988E21C9D9E0B68466B270",
+                    "encrypted_size_2": "12EE3BE3E88DA2E749C1EACE69907EBC"
+                },
+                "latest": {
+                    "encrypted_gid_2": "C97BAB6EC8CC1CF89B79696816C7CB8A",
+                    "encrypted_size_2": "C9D86A214F267E097C1ED8C3EEF79561"
+                },
+                "lightweight_profiler": {
+                    "encrypted_gid_2": "E15EA4CFFCAF1D2F752D07856C5357AA",
+                    "encrypted_size_2": "01FC04A8A8C44CDFA93D92B02FAE6C74"
+                },
+                "qa_testroom": {
+                    "encrypted_gid_2": "78124458D9B2D2E778A28626258FCDE6",
+                    "encrypted_size_2": "000CE833F94DC80D03FE35BA8DA4AB74"
+                },
+                "teamtest": {
+                    "encrypted_gid_2": "794C707AA5899EB46EDEF15C0CE7A9C9",
+                    "encrypted_size_2": "4233DEB7CD0482589A848E48B5E5E814"
+                }
+            }
+        },
+        "770724": {
+            "name": "Editor",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "1633632636785229434"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8341205",
+                "timeupdated": "1646927958"
+            },
+            "current": {
+                "buildid": "8341205",
+                "description": "Current build",
+                "pwdrequired": "1",
+                "timeupdated": "1646898786"
+            },
+            "hw_test": {
+                "buildid": "5613907",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1601465604"
+            },
+            "k-w-s": {
+                "buildid": "7504472",
+                "description": "k-w-s",
+                "pwdrequired": "1",
+                "timeupdated": "1639756138"
+            },
+            "latest": {
+                "buildid": "8358097",
+                "description": "latest uploaded build",
+                "pwdrequired": "1",
+                "timeupdated": "1647050215"
+            },
+            "lightweight_profiler": {
+                "buildid": "8358053",
+                "description": "lightweight_profiler",
+                "pwdrequired": "1",
+                "timeupdated": "1647049429"
+            },
+            "qa_testroom": {
+                "buildid": "8348120",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1646985560"
+            },
+            "teamtest": {
+                "buildid": "8093787",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1643629958"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14204927,
+    "_sha": "0e2a9c70c96eb4929ed5d878291714639ecb272c",
+    "_size": 10182
+}

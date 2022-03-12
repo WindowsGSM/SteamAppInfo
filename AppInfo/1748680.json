@@ -1,0 +1,132 @@
+{
+    "appid": "1748680",
+    "common": {
+        "name": "Fight or Flight Dedicated Server",
+        "type": "Tool",
+        "parent": "775620",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "clienttga": "d19206581811f17579252c41c8d028c4d058bbfb",
+        "clienticon": "2bad936f6630f2a8c6fb690cac03e98d81aeff65",
+        "icon": "6476b34a04cbffb63ddc6fec22fe4d499f86906a",
+        "logo": "d14d93262f4e6574626a8b3ce535d20ec46f0e12",
+        "logo_small": "d14d93262f4e6574626a8b3ce535d20ec46f0e12_thumb",
+        "gameid": "1748680",
+        "exfgls": "1"
+    },
+    "extended": {
+        "gamedir": "Fight or Flight",
+        "serverbrowsername": "Fight or Flight"
+    },
+    "config": {
+        "installdir": "Fight or Flight Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "WindowsNoEditor\\FofGame\\Binaries\\Win64\\FofGameServer.exe",
+                "arguments": "/Game/Maps/Wetlands/Wetlands?Game=DROPZONE?Bots=28?ZombieSpawnRate=2?RankedServer=1?PlayersNeeded=32?PlayersMax=64?AutoShutdown=0?ServerForceStart=180?PlayerLives=3?ServerTimeStart=645?ServerRandomStartTime=1?BotSkill=80 -server -log",
+                "workingdir": "WindowsNoEditor\\FofGame\\Binaries\\Win64\\",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                },
+                "description_loc": {
+                    "english": "Fight or Flight Dedicated Server - DropZone"
+                },
+                "description": "Fight or Flight Dedicated Server - DropZone"
+            },
+            "1": {
+                "executable": "WindowsNoEditor\\FofGame\\Binaries\\Win64\\FofGameServer.exe",
+                "arguments": "/Game/Maps/Wetlands/Wetlands?Game=BATTLEROYALE?Bots=28?ZombieSpawnRate=2?RankedServer=1?PlayersNeeded=32?PlayersMax=64?AutoShutdown=0?ServerForceStart=180?PlayerLives=3?ServerTimeStart=645?ServerRandomStartTime=1?BotSkill=80 -server -log",
+                "workingdir": "WindowsNoEditor\\FofGame\\Binaries\\Win64\\",
+                "type": "option2",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                },
+                "description_loc": {
+                    "english": "Fight or Flight Dedicated Server - Battle Royale"
+                },
+                "description": "Fight or Flight Dedicated Server - Battle Royale"
+            },
+            "2": {
+                "executable": "WindowsNoEditor\\FofGame\\Binaries\\Win64\\FofGameServer.exe",
+                "arguments": "/Game/Maps/Wetlands/Wetlands?Game=TRAINING?Bots=31?PlayersNeeded=32?PlayersMax=64?ServerRandomStartTime=1?AutoShutdown=0 -server -log",
+                "workingdir": "WindowsNoEditor\\FofGame\\Binaries\\Win64\\",
+                "type": "option3",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                },
+                "description_loc": {
+                    "english": "Fight or Flight Dedicated Server - Training"
+                },
+                "description": "Fight or Flight Dedicated Server - Training"
+            }
+        },
+        "uselaunchcommandline": "1"
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1748681": {
+            "name": "Fight or Flight Dedicated Server Content",
+            "manifests": {
+                "public": "932167781690151748"
+            },
+            "maxsize": "10470775359"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7298010",
+                "timeupdated": "1630652245"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "974bde7754abebb203926f1fab20150bbe61c697",
+    "_size": 3764
+}

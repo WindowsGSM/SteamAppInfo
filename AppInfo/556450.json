@@ -1,0 +1,116 @@
+{
+    "appid": "556450",
+    "common": {
+        "name": "The Forest Dedicated Server",
+        "type": "Tool",
+        "parent": "242760",
+        "clienttga": "527ab4478abf14d924f771f8c1ff3ee3b430f774",
+        "clienticon": "e32c68d02e346fe27b0ac7671fc3b5c9ebf031af",
+        "icon": "3cce6bda43309dd6ca378b8367330b902f872ce3",
+        "oslist": "windows",
+        "osarch": "",
+        "logo": "d249fb63d7b82b8b412c4a2ebf070ac90c69fbd5",
+        "logo_small": "d249fb63d7b82b8b412c4a2ebf070ac90c69fbd5_thumb",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "556450"
+    },
+    "extended": {
+        "gamedir": "The Forest",
+        "serverbrowsername": "The Forest"
+    },
+    "config": {
+        "installdir": "TheForestDedicatedServer",
+        "launch": {
+            "0": {
+                "executable": "TheForestDedicatedServer.exe",
+                "type": "server",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "556451": {
+            "name": "TheForestDedicatedServer Content",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "6352551090763174807"
+            },
+            "maxsize": "1697629777",
+            "encryptedmanifests": {
+                "ds_beta_testing": {
+                    "encrypted_gid_2": "A5E6411BF9FF903822E0B4A9833C84AF",
+                    "encrypted_size_2": "478B76AB9452B380BDFB466158F7337A"
+                },
+                "v0.60_branch": {
+                    "encrypted_gid_2": "F926C3F0C669BC4217159F5260AA0C8E",
+                    "encrypted_size_2": "07060B84FE41E3036EEB29DA6409E035"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "3488796",
+                "timeupdated": "1548266964"
+            },
+            "ds_beta_testing": {
+                "buildid": "4123733",
+                "description": "beta",
+                "pwdrequired": "1",
+                "timeupdated": "1566333298"
+            },
+            "ds_test": {
+                "buildid": "3488796",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1548266975"
+            },
+            "v0.60_branch": {
+                "buildid": "1799947",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1495149748"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "aa22076ab6a8284f9459d35a9578d1dff2141539",
+    "_size": 2493
+}

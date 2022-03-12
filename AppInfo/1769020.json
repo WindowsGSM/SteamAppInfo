@@ -1,0 +1,114 @@
+{
+    "appid": "1769020",
+    "common": {
+        "name": "Afterinfection Dedicated Server",
+        "type": "Tool",
+        "parent": "1341210",
+        "releasestate": "released",
+        "logo": "57755a1c6140ab8bd357ef71089f3b5f6e030bac",
+        "logo_small": "57755a1c6140ab8bd357ef71089f3b5f6e030bac_thumb",
+        "icon": "2bb987cc2709cd63229fd775978623315c522fc1",
+        "clienttga": "4eb26b2e2a99eed49f4ef7782d4912231b9346fc",
+        "clienticon": "1563df23d84743412028b0d91b3d8b89987943f2",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "gameid": "1769020"
+    },
+    "config": {
+        "installdir": "AfterinfectionDedicatedServer",
+        "launch": {
+            "0": {
+                "executable": "ServerManagement.exe",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "name": ".NET 4.8 Redis",
+            "config": {
+                "language": ""
+            },
+            "maxsize": "117381405",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1769021": {
+            "name": "Afterinfection Dedicated Server Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "4598390935409393483"
+            },
+            "maxsize": "656720571"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8259279",
+                "timeupdated": "1645625203"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "744ad36eec167933e9a7fc852a0d9b9623c8f5cb",
+    "_size": 2263
+}

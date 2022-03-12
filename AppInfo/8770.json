@@ -1,0 +1,66 @@
+{
+    "appid": "8770",
+    "common": {
+        "name": "RACE On - Demo: Dedicated Server",
+        "type": "Tool",
+        "freeondemand": "1",
+        "gameid": "8770"
+    },
+    "extended": {
+        "developer": "SimBin Studios",
+        "gamedir": "RACE On - Demo Dedicated Server",
+        "homepage": "",
+        "icon": "",
+        "loadallbeforelaunch": "1",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "8761",
+        "serverbrowsername": "",
+        "state": "eStateTool"
+    },
+    "config": {
+        "contenttype": "3",
+        "convertgcfs": "1",
+        "installdir": "RACE On - Demo Dedicated Server",
+        "launch": {
+            "0": {
+                "description": "RACE On - DEMO Dedicated Server",
+                "executable": "RaceOn_Demo_Dedicated_Steam.exe"
+            }
+        }
+    },
+    "depots": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "8761": {
+            "name": "RACE On - DEMO files",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "6451590462232625361"
+            },
+            "maxsize": "638369240",
+            "depotfromapp": "8760"
+        },
+        "1004": {
+            "name": "Steamworks SDK Redist (Win32)",
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "3578600867548439549"
+            },
+            "maxsize": "9662208",
+            "depotfromapp": "1002"
+        },
+        "branches": {
+            "public": {
+                "buildid": "83046"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "8001cdd68432f0b9b50146c1f0dfca580cd97ede",
+    "_size": 1222
+}

@@ -1,0 +1,102 @@
+{
+    "appid": "523390",
+    "common": {
+        "name": "LandTraveller - Dedicated Server",
+        "type": "Tool",
+        "parent": "522130",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "clienticon": "ecbc883a98b9f9f105a6b8e9fabe629bb5a6dd39",
+        "clienttga": "152ea926610231a77df7e5a37c2c278b120dbce0",
+        "icon": "1d7f94c0a16526774443d59d9aa350f599d4dbb9",
+        "linuxclienticon": "ca9112e5edc8da30d898a189b8a4fc4d3cfff39e",
+        "logo": "b4306bba169e29c099de9ad1b2f43340e9eef8f2",
+        "logo_small": "b4306bba169e29c099de9ad1b2f43340e9eef8f2_thumb",
+        "associations": {},
+        "gameid": "523390"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "LandTraveller - Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "landts.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "landts.sh",
+                "type": "default",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "523391": {
+            "name": "LandTraveller Dedicated Server Content",
+            "manifests": {
+                "public": "8825972914369231709",
+                "beta": "3127528040180301909",
+                "previous": "3211131873814743159"
+            },
+            "maxsize": "19442767"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7868313",
+                "timeupdated": "1639258852"
+            },
+            "beta": {
+                "buildid": "8064842",
+                "description": "[BETA] Development branch",
+                "timeupdated": "1642806979"
+            },
+            "previous": {
+                "buildid": "6995619",
+                "description": "[OLD] Previous release",
+                "timeupdated": "1639258823"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "2dd56cc52455f46f4bf1e6f8211c8dd7ac87f30f",
+    "_size": 2169
+}

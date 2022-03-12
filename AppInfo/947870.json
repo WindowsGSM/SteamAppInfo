@@ -1,0 +1,137 @@
+{
+    "appid": "947870",
+    "common": {
+        "name": "Starcross Arena Dedicated Server",
+        "type": "Tool",
+        "parent": "945870",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "logo": "d9ed4a0590292cc9ab59444631ce83e38fdeef9b",
+        "logo_small": "d9ed4a0590292cc9ab59444631ce83e38fdeef9b_thumb",
+        "icon": "0cef9ae62093769a7c19ac039ca5d96612233ef1",
+        "clienticon": "f3b55c04da63eeb46a86328743aa7f62ece957bf",
+        "clienttga": "f555b2784947d6bb6fe04c472f08fb3ce0c84c7b",
+        "releasestate": "released",
+        "osextended": "",
+        "associations": {},
+        "community_hub_visible": "1",
+        "gameid": "947870"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "installdir": "Starcross Arena Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "StarcrossArenaServer.exe",
+                "arguments": "-log",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "StarcrossArenaServer.sh",
+                "arguments": "-log",
+                "type": "server",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "947871": {
+            "name": "Starcross Arena Dedicated Server Content",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9087633825285029226"
+            },
+            "maxsize": "234602821",
+            "encryptedmanifests": {
+                "alpha": {
+                    "encrypted_gid_2": "651368946C26D69909A9549650DAD348",
+                    "encrypted_size_2": "658D3E952233597E15551278FA653323"
+                },
+                "archive01k": {
+                    "encrypted_gid_2": "6988532FBF7B410FC4C5E4A52FD68F9B",
+                    "encrypted_size_2": "9D9516C91D1C58E5AFDEAC1C4EAD3444"
+                }
+            }
+        },
+        "947872": {
+            "name": "Starcross Arena Dedicated Server Linux Depot",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "6416837982817730536"
+            },
+            "maxsize": "332097275",
+            "encryptedmanifests": {
+                "alpha": {
+                    "encrypted_gid_2": "2A07438545A8F68FF47D2C511FBB83AD",
+                    "encrypted_size_2": "D54B9CA90D65B13A006ACFFB4FE97B6E"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "4559579",
+                "timeupdated": "1578687569"
+            },
+            "alpha": {
+                "buildid": "4763707",
+                "description": "Alpha Testing Branch",
+                "pwdrequired": "1",
+                "timeupdated": "1583876621"
+            },
+            "archive01k": {
+                "buildid": "3196563",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1574531201"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "b27b4efb7a4fd2592ab7e26ef147ff47ec4f2f6e",
+    "_size": 2971
+}

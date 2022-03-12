@@ -1,0 +1,430 @@
+{
+    "appid": "739590",
+    "common": {
+        "name": "Eco Server",
+        "type": "Tool",
+        "parent": "382310",
+        "oslist": "windows,macos,linux",
+        "osarch": "",
+        "icon": "3b75d73ea75e65b97163511e06f73f43d5aee3b8",
+        "clienttga": "fa0dd9b49617580535a11d37f267a640b1d6a4a3",
+        "logo": "dfc81262b1d51398f005d9497407571530adca3a",
+        "logo_small": "dfc81262b1d51398f005d9497407571530adca3a_thumb",
+        "clienticon": "596cceded141f555be01df2c53db55a7b441a0da",
+        "clienticns": "e30d3ffc068d12f435266a828807297925a9f9a9",
+        "linuxclienticon": "34e7c04076378cc9235c5f5473cc6e23012a3b1e",
+        "releasestate": "released",
+        "osextended": "macos64",
+        "associations": {},
+        "gameid": "739590",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "Eco Server",
+        "launch": {
+            "0": {
+                "executable": "EcoServer.exe",
+                "type": "server",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "EcoServer",
+                "type": "server",
+                "config": {
+                    "oslist": "macos"
+                }
+            },
+            "2": {
+                "executable": "EcoServer",
+                "type": "server",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            },
+            "3": {
+                "executable": "EcoServerInTerminal.sh",
+                "description": "Launch with Gnome terminal",
+                "type": "none",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            },
+            "4": {
+                "executable": "install.sh",
+                "description": "Install prerequisites",
+                "type": "none",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "name": ".NET 4.7 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "83944258",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "739592": {
+            "name": "Eco Server Win x86 Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": "9168306260092998127",
+                "9.0.5": "4592678150570765112",
+                "9.1.0": "6385109521990606635",
+                "9.1.9": "4344118176219458267",
+                "9.2.4": "6309012539595730501",
+                "9.3.3": "7023092596757740534",
+                "9.3.4": "5689968134731316270",
+                "9.3.5": "5366058756189518429",
+                "9.3.6": "518581662417895919",
+                "9.4.0": "622703831882386376",
+                "9.4.1": "5160708770417726080",
+                "9.4.2": "7430533461699801311",
+                "9.4.3": "1666933668701438341",
+                "9.4.4": "4894867389387560996",
+                "9.4.5": "8655772514538585974",
+                "playtest": "4878199796259189816",
+                "staging": "1564980618431287272"
+            },
+            "maxsize": "239765869",
+            "encryptedmanifests": {
+                "develop": {
+                    "encrypted_gid_2": "F296A5A70F6AD883BF3D6CEEE70C45FF",
+                    "encrypted_size_2": "6DC982955AAF9DC6CA6BE214A06D937B"
+                },
+                "release": {
+                    "encrypted_gid_2": "8E3CAA0E9E5ACD5C653A6EEF8A3C5A7A",
+                    "encrypted_size_2": "B63091F1592A0526F6F92C6D93FC8437"
+                },
+                "steam_china_only": {
+                    "encrypted_gid_2": "64D8C049C2616A28F00E246C21480778",
+                    "encrypted_size_2": "F701E15696178B8BF010746F7C0D7E01"
+                }
+            }
+        },
+        "739593": {
+            "name": "Eco Server Win x64 Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": "4066821611000694902",
+                "9.0.5": "8359194633715880378",
+                "9.1.0": "8262676420735320039",
+                "9.1.9": "1724643282618753215",
+                "9.2.4": "370221925952905091",
+                "9.3.3": "719132017568513234",
+                "9.3.4": "1087550639952401011",
+                "9.3.5": "3321566980653801969",
+                "9.3.6": "6065004814633521313",
+                "9.4.0": "3783225029443218985",
+                "9.4.1": "5747644251341368870",
+                "9.4.2": "943040290776987067",
+                "9.4.3": "5279781481362159066",
+                "9.4.4": "4833581226868026184",
+                "9.4.5": "8283335024032364480",
+                "playtest": "5561368745711804265",
+                "staging": "5048825214344524894"
+            },
+            "maxsize": "454091149",
+            "encryptedmanifests": {
+                "develop": {
+                    "encrypted_gid_2": "89B40F7E5687384D557BF685C2722C2E",
+                    "encrypted_size_2": "0C84AEEC05C44CEF1F61F0A4A4BEC545"
+                },
+                "release": {
+                    "encrypted_gid_2": "18584E65893F3AE4C08548E071EFE0CD",
+                    "encrypted_size_2": "F0EF5251A894611459A607DC7B6AF484"
+                },
+                "steam_china_only": {
+                    "encrypted_gid_2": "73930ADE1476774E4A6445090807068E",
+                    "encrypted_size_2": "C37DDF2DB939A97E246B2952092F0559"
+                }
+            }
+        },
+        "739594": {
+            "name": "Eco Server Mac Content",
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": "6659488493412601151",
+                "9.0.5": "7584827524516635739",
+                "9.1.0": "9157221403373151220",
+                "9.1.9": "8785959644116383163",
+                "9.2.4": "1915692210432550124",
+                "9.3.3": "4054112933125158964",
+                "9.3.4": "1855682877173257231",
+                "9.3.5": "2170338153263843470",
+                "9.3.6": "2901510331223771111",
+                "9.4.0": "928014552566293434",
+                "9.4.1": "8646694419443755659",
+                "9.4.2": "7472473072478954288",
+                "9.4.3": "4660339450765469389",
+                "9.4.4": "2984719722547462802",
+                "9.4.5": "4070414673451850029",
+                "playtest": "5040903602138704782",
+                "staging": "2043703674755740074"
+            },
+            "maxsize": "167935811",
+            "encryptedmanifests": {
+                "develop": {
+                    "encrypted_gid_2": "3436BC2D5C8CEF477470059572FDFE35",
+                    "encrypted_size_2": "071FE908CEFB73723F89A37A4F0240EA"
+                },
+                "release": {
+                    "encrypted_gid_2": "A8AC225E5D4BD2747AB384EEA916030A",
+                    "encrypted_size_2": "381397373097463AE0F21567BEE1C012"
+                },
+                "steam_china_only": {
+                    "encrypted_gid_2": "256804E4B2EC82049D87A651B4C344F3",
+                    "encrypted_size_2": "4120F2F442CC0D73A20390EB9A117CD1"
+                }
+            }
+        },
+        "739595": {
+            "name": "Eco Server Linux Content",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": "2012619016073585381",
+                "9.0.5": "2786998166237741229",
+                "9.1.0": "8406874525529328315",
+                "9.1.9": "8327252791317929079",
+                "9.2.4": "1804993831731563145",
+                "9.3.3": "5341712676340483961",
+                "9.3.4": "7957012736500715006",
+                "9.3.5": "4766185761892290356",
+                "9.3.6": "1577425883359369915",
+                "9.4.0": "580848289116106652",
+                "9.4.1": "4967800513295403173",
+                "9.4.2": "276921317084950104",
+                "9.4.3": "1049864295416566123",
+                "9.4.4": "8438041461735558495",
+                "9.4.5": "4739098359924327968",
+                "playtest": "3317900080373646221",
+                "staging": "3081355779049366072"
+            },
+            "maxsize": "167007802",
+            "encryptedmanifests": {
+                "develop": {
+                    "encrypted_gid_2": "C1001D9A149236F67080E3373F7E970C",
+                    "encrypted_size_2": "AF3C8B3D55E80C8C38912B68EE7DD753"
+                },
+                "release": {
+                    "encrypted_gid_2": "C61912E31E84362B76F55640BDB62C60",
+                    "encrypted_size_2": "638BA13CDEC97F1B28D0F6D9EF6FB24E"
+                },
+                "steam_china_only": {
+                    "encrypted_gid_2": "6E9F81A8FECE62535FEC29D179518F65",
+                    "encrypted_size_2": "C0D8908E4AEFE0FDB493432BC2CF2906"
+                }
+            }
+        },
+        "739591": {
+            "name": "Eco Server Content",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": "8717820652300658035",
+                "8.1.4": "7596054393291409514",
+                "8.2.9": "1603885981770020511",
+                "8.3.3": "1918229904533379704"
+            },
+            "maxsize": "46110001"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8134675",
+                "timeupdated": "1643841197"
+            },
+            "8.1.4": {
+                "buildid": "3758214",
+                "description": "Beta 8.1.4",
+                "timeupdated": "1556082134"
+            },
+            "8.2.9": {
+                "buildid": "4031396",
+                "description": "Beta 8.2.9",
+                "timeupdated": "1563866374"
+            },
+            "8.3.3": {
+                "buildid": "4651433",
+                "description": "Beta 8.3.3",
+                "timeupdated": "1581331314"
+            },
+            "9.0.5": {
+                "buildid": "5671295",
+                "description": "Beta 9.0.5",
+                "timeupdated": "1602581733"
+            },
+            "9.1.0": {
+                "buildid": "5775182",
+                "description": "Beta 9.1.0",
+                "timeupdated": "1604431675"
+            },
+            "9.1.9": {
+                "buildid": "6005319",
+                "description": "Beta 9.1.9",
+                "timeupdated": "1608694818"
+            },
+            "9.2.4": {
+                "buildid": "6185966",
+                "description": "Beta 9.2.4",
+                "timeupdated": "1612407730"
+            },
+            "9.3.3": {
+                "buildid": "6613368",
+                "description": "Beta 9.3.3",
+                "timeupdated": "1619606039"
+            },
+            "9.3.4": {
+                "buildid": "6653215",
+                "description": "Beta 9.3.4",
+                "timeupdated": "1620235785"
+            },
+            "9.3.5": {
+                "buildid": "6759253",
+                "description": "Beta 9.3.5",
+                "timeupdated": "1622009460"
+            },
+            "9.3.6": {
+                "buildid": "7001011",
+                "description": "Beta 9.3.6",
+                "timeupdated": "1625773009"
+            },
+            "9.4.0": {
+                "buildid": "7219854",
+                "description": "Beta 9.4.0",
+                "timeupdated": "1629424535"
+            },
+            "9.4.1": {
+                "buildid": "7244127",
+                "description": "Beta 9.4.1",
+                "timeupdated": "1629844207"
+            },
+            "9.4.2": {
+                "buildid": "7407732",
+                "description": "Beta 9.4.2",
+                "timeupdated": "1632359413"
+            },
+            "9.4.3": {
+                "buildid": "7413136",
+                "description": "Beta 9.4.3",
+                "timeupdated": "1632422354"
+            },
+            "9.4.4": {
+                "buildid": "7915520",
+                "description": "Beta 9.4.4",
+                "timeupdated": "1640027725"
+            },
+            "9.4.5": {
+                "buildid": "7987456",
+                "description": "Beta 9.4.5",
+                "timeupdated": "1641596273"
+            },
+            "9.4.6": {
+                "buildid": "8134674",
+                "description": "Beta 9.4.6",
+                "timeupdated": "1643841190"
+            },
+            "develop": {
+                "buildid": "8358225",
+                "description": "Eco Server Develop Builds",
+                "pwdrequired": "1",
+                "timeupdated": "1647053086"
+            },
+            "playtest": {
+                "buildid": "8318655",
+                "description": "Eco Playtest",
+                "timeupdated": "1646671171"
+            },
+            "release": {
+                "buildid": "8271734",
+                "description": "Eco Server Release Builds",
+                "pwdrequired": "1",
+                "timeupdated": "1645755926"
+            },
+            "staging": {
+                "buildid": "8358511",
+                "description": "Eco Server Staging Builds",
+                "timeupdated": "1647059456"
+            },
+            "steam_china_only": {
+                "buildid": "8345108",
+                "description": "Matches china branch for Eco",
+                "pwdrequired": "1",
+                "timeupdated": "1646890485"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14205634,
+    "_sha": "3ec92e95ddd465e546668d107307edb72f9d7c23",
+    "_size": 10661
+}

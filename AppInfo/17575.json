@@ -1,0 +1,90 @@
+{
+    "appid": "17575",
+    "common": {
+        "name": "Pirates, Vikings, and Knights II Dedicated Server",
+        "type": "Tool",
+        "freeondemand": "1",
+        "oslist": "windows,linux",
+        "gameid": "17575"
+    },
+    "extended": {
+        "developer": "PVKII Team",
+        "gamedir": "pvkii",
+        "gamemanualurl": "http://www.pvkii.com/playerguide/playerguide.html",
+        "homepage": "http://www.pvkii.com",
+        "icon": "",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "17571",
+        "serverbrowsername": "Pirates, Vikings, and Knights II",
+        "state": "eStateTool"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Pirates, Vikings, and Knights II Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "srcds.exe",
+                "arguments": "-steam -game pvkii",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "srcds_run",
+                "arguments": "-steam -game pvkii",
+                "description": "Launch",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "331030": {
+            "name": "Pirates, Vikings, and Knights II Dedicated Server Content",
+            "manifests": {
+                "public": "4719150401700283131"
+            },
+            "maxsize": "2699455001"
+        },
+        "331031": {
+            "name": "Pirates, Vikings, and Knights II Dedicated Server Windows",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "3287400771833359021"
+            },
+            "maxsize": "109650144"
+        },
+        "331032": {
+            "name": "Pirates, Vikings, and Knights II Dedicated Server Linux",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "8309491660205273902"
+            },
+            "maxsize": "110079463"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8330938",
+                "timeupdated": "1646710748"
+            },
+            "beta": {
+                "buildid": "8349040",
+                "description": "beta branch",
+                "pwdrequired": "1",
+                "timeupdated": "1646934324"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14190120,
+    "_sha": "bc93713a465bd8c8fe3d33ac90bc4e8a03ad84c5",
+    "_size": 1863
+}

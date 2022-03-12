@@ -1,0 +1,184 @@
+{
+    "appid": "643090",
+    "common": {
+        "name": "Them's Fightin' Herds Dedicated Server",
+        "type": "Tool",
+        "parent": "574980",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "logo": "36929a7ceec786fed7807b68d022aa9083597c07",
+        "logo_small": "36929a7ceec786fed7807b68d022aa9083597c07_thumb",
+        "icon": "dafbe5b6b50786b3675ba227354ab87e0bdcfc69",
+        "clienticon": "ecf43af5d2336498b14c89260a7429471a61297d",
+        "releasestate": "released",
+        "osextended": "",
+        "associations": {},
+        "gameid": "643090"
+    },
+    "config": {
+        "installdir": "Them's Fightin' Herds Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "LobbyExe.exe",
+                "arguments": "config/Lobby_server.geoproj:0:0:false ",
+                "type": "server",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228984": {
+            "name": "VC 2012 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "13742505",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "643091": {
+            "name": "Them's Fightin' Herds Dedicated Server Content",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": "9108225407209308788"
+            },
+            "maxsize": "669199830",
+            "encryptedmanifests": {
+                "sdk_test": {
+                    "encrypted_gid_2": "9E4FD5F35C7D91E5324A53ED133DF2A2",
+                    "encrypted_size_2": "55006E80D3FD87C7E13E5F12ED76D57A"
+                },
+                "snowday": {
+                    "encrypted_gid_2": "26D85428E826E6F65A6F9E12F1BB5C22",
+                    "encrypted_size_2": "6CEB35BB7DB53DB61900FD40AC5EF3FD"
+                },
+                "staging": {
+                    "encrypted_gid_2": "5ECE06F4CBB375E1EBFA7C4B835E8E9F",
+                    "encrypted_size_2": "446CE1C21FE8883C1F255F1641E3F648"
+                }
+            }
+        },
+        "643092": {
+            "name": "Them's Fightin' Herds Dedicated Server Exe",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": "9179600741198371074"
+            },
+            "maxsize": "21997568",
+            "encryptedmanifests": {
+                "sdk_test": {
+                    "encrypted_gid_2": "E123CDCEAF9072E2F4B7EF02D65B82AC",
+                    "encrypted_size_2": "63028390B91202C4D7F49F7DB51C694B"
+                },
+                "snowday": {
+                    "encrypted_gid_2": "EDA15F894F18A03A6B604C0CF0C0B8CF",
+                    "encrypted_size_2": "45566A475F98898552EF17D18E32F391"
+                },
+                "staging": {
+                    "encrypted_gid_2": "00940C1EE77FBB8AC48D47076C3DF865",
+                    "encrypted_size_2": "0D9392693CBC607FDCBE710D669CDFE9"
+                }
+            }
+        },
+        "643093": {
+            "name": "Them's Fightin' Herds Dedicated Server Elf",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": "2086044856480966542"
+            },
+            "maxsize": "29239903",
+            "encryptedmanifests": {
+                "sdk_test": {
+                    "encrypted_gid_2": "CC71DF13740D5FB4B3C288E98EBA308E",
+                    "encrypted_size_2": "20D913437E48C95E726F0469F42C9DDD"
+                },
+                "snowday": {
+                    "encrypted_gid_2": "7CDF69F807338C5CB92B0D65159C1013",
+                    "encrypted_size_2": "A2A13816E8AF7C30F4BFEAB65C61EF2F"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8135130",
+                "timeupdated": "1643930951"
+            },
+            "sdk_test": {
+                "buildid": "7904137",
+                "description": "sdk updates 2021-12-17",
+                "pwdrequired": "1",
+                "timeupdated": "1639794221"
+            },
+            "snowday": {
+                "buildid": "8217766",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1645047673"
+            },
+            "staging": {
+                "buildid": "8209950",
+                "description": "Prep here before release",
+                "pwdrequired": "1",
+                "timeupdated": "1644967614"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "4c9ec63855621313c1620f355f2ec5c725e8ac89",
+    "_size": 4272
+}

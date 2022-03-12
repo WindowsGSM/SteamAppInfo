@@ -1,0 +1,78 @@
+{
+    "appid": "1418640",
+    "common": {
+        "name": "Dedicated Server",
+        "type": "Tool",
+        "parent": "1403040",
+        "logo": "0d1e3263131b71d552b4ad4603de8025b28a3e39",
+        "logo_small": "0d1e3263131b71d552b4ad4603de8025b28a3e39_thumb",
+        "icon": "305102e54c15018eb7d06d24f1acdde38b7b8743",
+        "clienticon": "a9c8f1a2779ac5ec1d7c3e0ce71a3a6bbc5ced4c",
+        "clienttga": "7b8c4d2308fded24b3878291bad719409c59f30c",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "gameid": "1418640"
+    },
+    "config": {
+        "installdir": "Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "BuildServer/Online.exe",
+                "type": "default"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1418641": {
+            "name": "Dedicated Server Content",
+            "manifests": {
+                "public": "6808286201385075771"
+            },
+            "maxsize": "105141436"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5667230",
+                "timeupdated": "1602425381"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "05d2fd44fe8476feab6bec6314c5d165a57d06d6",
+    "_size": 1555
+}

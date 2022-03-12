@@ -1,0 +1,233 @@
+{
+    "appid": "276060",
+    "common": {
+        "name": "Sven Co-op Dedicated Server",
+        "type": "Tool",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "parent": "225840",
+        "clienticon": "6361d2a6f95216521bafb973d8b654568011f3a3",
+        "clienttga": "b84db730bd1e2b327ed96f1865ebfcb5388c4c8b",
+        "icon": "7f36820f3b964e15defb4bcfc66e750e1aee6228",
+        "clienticns": "77642e9d3340d3a965d725e55979f3b7250d3339",
+        "logo": "e4249ffb9357ac837f12dd84f1b101d59d7820bb",
+        "logo_small": "e4249ffb9357ac837f12dd84f1b101d59d7820bb_thumb",
+        "associations": {},
+        "gameid": "276060",
+        "exfgls": "1"
+    },
+    "extended": {
+        "gamedir": "svencoop",
+        "serverbrowsername": "Sven Co-op",
+        "anti_cheat_support_url": "https://www.easy.ac/r/steam/gamebans/?steamAppId=276060"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Sven Co-op Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "svends.exe",
+                "description": "Launch Game Server",
+                "type": "server",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "svends_run",
+                "description": "Launch Game Server",
+                "type": "server",
+                "config": {
+                    "oslist": "linux"
+                }
+            },
+            "3": {
+                "executable": "svencoop/manual/index.html",
+                "description": "Game Manual",
+                "type": "manual"
+            }
+        },
+        "uselaunchcommandline": "1"
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228983": {
+            "name": "VC 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "19265607",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229001": {
+            "name": ".NET 3.5 Client Profile Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "267964564",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "225841": {
+            "name": "Base content",
+            "manifests": {
+                "public": "120274866409892373"
+            },
+            "maxsize": "2454939996",
+            "encryptedmanifests": {
+                "release_5.12": {
+                    "encrypted_gid_2": "E8EE5EC60AC9CE94D907A5B39252E8AB",
+                    "encrypted_size_2": "AB076F1399B2AFE36E765D6770437737"
+                },
+                "release_candidate": {
+                    "encrypted_gid_2": "60D40CBECE39123B5F6F9899CFF41C86",
+                    "encrypted_size_2": "16775B2D9E30852CC92664AE82D47493"
+                },
+                "release_candidate_community": {
+                    "encrypted_gid_2": "59C1DEE052104371BB51F1B900125CE6",
+                    "encrypted_size_2": "3D505E678D30240BEF7B5E7103D71A04"
+                }
+            },
+            "depotfromapp": "225840"
+        },
+        "276061": {
+            "name": "Windows server binaries",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "8480196553589428899"
+            },
+            "maxsize": "55225646",
+            "encryptedmanifests": {
+                "release_candidate": {
+                    "encrypted_gid_2": "FADFC6DE1361997A325BFAFEBA3A704F",
+                    "encrypted_size_2": "FED9CD2566DC2CAFAADB23D7DF2C0C77"
+                },
+                "release_candidate_community": {
+                    "encrypted_gid_2": "086D78487E92789FE6FD6A95D512EF58",
+                    "encrypted_size_2": "F2D9B4A489E3BCA7D1A49BB2F14155BF"
+                }
+            }
+        },
+        "276062": {
+            "name": "Linux server binaries",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "5267628371016219545"
+            },
+            "maxsize": "98380809",
+            "encryptedmanifests": {
+                "release_candidate": {
+                    "encrypted_gid_2": "AF29E4833E508ADB01F0208FE2293726",
+                    "encrypted_size_2": "001393C4186D1739DD21FE6AE57E56E5"
+                },
+                "release_candidate_community": {
+                    "encrypted_gid_2": "27E31443FD7F9D4A3A41939DCEF42CC0",
+                    "encrypted_size_2": "59BF041E087B1641BA71F9261AD46E14"
+                }
+            }
+        },
+        "276063": {
+            "name": "OSX server binaries",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "7563803785096033014"
+            },
+            "maxsize": "5310825",
+            "encryptedmanifests": {
+                "release_candidate": {
+                    "encrypted_gid_2": "2DB242389D25EE33BDDDA3E7D71C8B35",
+                    "encrypted_size_2": "0CD722B733C52D15925212D47DCE2210"
+                },
+                "release_candidate_community": {
+                    "encrypted_gid_2": "41B4391158EABB2289CBA0BD5E0EA7C3",
+                    "encrypted_size_2": "A54CEF61B48DD797BFA405382CA8E0C2"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "7342110",
+                "timeupdated": "1631361424"
+            },
+            "release_candidate": {
+                "buildid": "7468391",
+                "description": "Release candidate",
+                "pwdrequired": "1",
+                "timeupdated": "1633216433"
+            },
+            "release_candidate_community": {
+                "buildid": "7468391",
+                "description": "Release candidate (community well known)",
+                "pwdrequired": "1",
+                "timeupdated": "1633216445"
+            },
+            "release_candidate_public": {
+                "buildid": "7342110",
+                "description": "Release candidate (public)",
+                "timeupdated": "1631344254"
+            },
+            "release_5.12": {
+                "buildid": "1791238",
+                "description": "Version 5.12",
+                "pwdrequired": "1",
+                "timeupdated": "1634387396"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "082964f6410f39e7c96c0a798d7ded7226700922",
+    "_size": 5599
+}

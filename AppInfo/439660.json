@@ -1,0 +1,158 @@
+{
+    "appid": "439660",
+    "common": {
+        "name": "Tower Unite Dedicated Server",
+        "type": "Tool",
+        "oslist": "windows,linux",
+        "icon": "f29be37c6cbcf486839f109c0ba862828bd59881",
+        "clienticon": "791085e861fdf0c186e99c89355ff6c9369c3bdc",
+        "clienttga": "17c505be53c8b220b761e7eaed4344cafa732572",
+        "logo": "ac6dd14c3af8892e7b04073dbf01b1d12cc102fc",
+        "logo_small": "ac6dd14c3af8892e7b04073dbf01b1d12cc102fc_thumb",
+        "releasestate": "released",
+        "small_capsule": {
+            "english": "capsule_231x87.jpg"
+        },
+        "header_image": {
+            "english": "header.jpg"
+        },
+        "store_asset_mtime": "1591407967",
+        "associations": {},
+        "steam_release_date": "1459286910",
+        "gameid": "439660"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Tower Unite Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "TowerServer.exe",
+                "arguments": "-log",
+                "description": "Start Dedicated Server",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "Tower/Binaries/Linux/TowerServer-Linux-Shipping",
+                "arguments": "-log",
+                "type": "server",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228986": {
+            "name": "VC 2015 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29759921",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "439661": {
+            "name": "Tower Unite Dedicated Server Content",
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "8452605632172209009"
+            },
+            "maxsize": "358121568"
+        },
+        "439662": {
+            "name": "Tower Unite Dedicated Server Depot Windows",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "7223350746219144710"
+            },
+            "maxsize": "1012321502"
+        },
+        "439663": {
+            "name": "Tower Unite Dedicated Server Depot Linux",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "2934531042162446857"
+            },
+            "maxsize": "4324858516",
+            "encryptedmanifests": {
+                "beta": {
+                    "encrypted_gid_2": "58BEE71756851E56FA89FDBF00D9F65A",
+                    "encrypted_size_2": "E7C5669AA60E2A498D6A3F167090D7AE"
+                },
+                "developer": {
+                    "encrypted_gid_2": "79E93F94FFF8CC882FF73D4C71530E6E",
+                    "encrypted_size_2": "C681D4771B9752105D1A4E06EE664D90"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8332552",
+                "timeupdated": "1646783569"
+            },
+            "beta": {
+                "buildid": "4634248",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1580695014"
+            },
+            "developer": {
+                "buildid": "8359528",
+                "description": "Developer Testing",
+                "pwdrequired": "1",
+                "timeupdated": "1647088627"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14207330,
+    "_sha": "baa6f690afa11f80d9c8d2b509643a0f08614c82",
+    "_size": 3392
+}

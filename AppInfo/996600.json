@@ -1,0 +1,77 @@
+{
+    "appid": "996600",
+    "common": {
+        "name": "Heat Dedicated Server",
+        "type": "Tool",
+        "parent": "656240",
+        "oslist": "windows",
+        "osarch": "64",
+        "logo": "d1b27f35b72d70595c6e9feb52ef1b5fb6ff0332",
+        "logo_small": "d1b27f35b72d70595c6e9feb52ef1b5fb6ff0332_thumb",
+        "icon": "d8f93a9a5a429f5bfd10fdb1f6c5017c4273934c",
+        "clienttga": "9609274f7f2f7abeac72c974f8669fb30a484411",
+        "clienticon": "5f9657a7056880f6c4891baf986a191a54584e5f",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "996600"
+    },
+    "extended": {
+        "gamedir": "Heat Dedicated Server",
+        "serverbrowsername": "Heat Dedicated Server"
+    },
+    "config": {
+        "installdir": "Heat Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "Server.exe",
+                "description": "Start a Dedicated Server",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "996601": {
+            "name": "Heat Dedicated Server Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "3685958145895113048"
+            },
+            "maxsize": "11263851440",
+            "encryptedmanifests": {
+                "eac_branch": {
+                    "encrypted_gid_2": "80FDC71550D96AE504501E1C1A0496F0",
+                    "encrypted_size_2": "3AAD9C6CC5B548BDCAFA917B01210E76"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "6929872",
+                "timeupdated": "1624577305"
+            },
+            "developer": {
+                "buildid": "6929872",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1624576052"
+            },
+            "eac_branch": {
+                "buildid": "3455758",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1547164419"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11854679,
+    "_sha": "c34f75a9938a556c693b2f11ccb47fbf2f657e55",
+    "_size": 1656
+}

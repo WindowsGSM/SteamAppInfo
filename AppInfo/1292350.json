@@ -1,0 +1,102 @@
+{
+    "appid": "1292350",
+    "common": {
+        "name": "pla_toon Dedicated Server",
+        "type": "Tool",
+        "parent": "891220",
+        "oslist": "windows",
+        "osarch": "",
+        "osextended": "",
+        "logo": "a13a8cf3c6d88731415bcd7c9247f95e1d8f8404",
+        "logo_small": "a13a8cf3c6d88731415bcd7c9247f95e1d8f8404_thumb",
+        "icon": "d9368224a9315b77298a28da7dde062be7063dc7",
+        "clienticon": "58f6c17a6d8c300eca710a200230af72cbd4d57e",
+        "clienttga": "b1593fdabeb4b59e97ec9ecaa3aaa701549e4caa",
+        "releasestate": "released",
+        "gameid": "1292350",
+        "exfgls": "1"
+    },
+    "extended": {
+        "gamedir": "891220",
+        "serverbrowsername": "pla_toon"
+    },
+    "config": {
+        "installdir": "pla_toon",
+        "launch": {
+            "0": {
+                "executable": "\\pla_toon\\Binaries\\Win64\\pla_toonServer.exe",
+                "description": "Dedicated Server",
+                "type": "none",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1292351": {
+            "name": "DedicatedServer Content",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": "1025834663268622151"
+            },
+            "maxsize": "275904323"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "4896556",
+                "timeupdated": "1586878578"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "e270d5e39f65d53dd84cfcc60298cf2b7690d666",
+    "_size": 2045
+}

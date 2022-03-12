@@ -1,0 +1,138 @@
+{
+    "appid": "412680",
+    "common": {
+        "name": "The Isle Dedicated Server",
+        "type": "Tool",
+        "releasestate": "released",
+        "oslist": "windows,macos,linux",
+        "logo": "a07e3f238fda819658e0662530aeeceb5f54b56d",
+        "logo_small": "a07e3f238fda819658e0662530aeeceb5f54b56d_thumb",
+        "icon": "7ae88c1923dbcdee670769fca9c89cc0e540ab46",
+        "clienttga": "a25c7e5766e615588f7eb45df5d97d67438d6ca4",
+        "clienticon": "dcc409f581316cdb0deb73f8bcc5202d32edaee8",
+        "osarch": "64",
+        "clienticns": "53533f9475efe72df68bb319c5efc5907ff491a3",
+        "linuxclienticon": "3222a9de0598172781a707686044eb194d98e855",
+        "associations": {},
+        "gameid": "412680"
+    },
+    "extended": {
+        "gamedir": "theisle"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "The Isle Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "TheIsleServer.exe",
+                "arguments": "-log",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "TheIsleServer.sh",
+                "arguments": "-log",
+                "type": "default",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "412681": {
+            "name": "The Isle Dedicated Server Content (Windows)",
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "2602016430604302144",
+                "evrima": "1148499287320196104",
+                "promotional": "8450962309860220137"
+            },
+            "maxsize": "2758180976",
+            "encryptedmanifests": {
+                "internal": {
+                    "encrypted_gid_2": "3711E385A4A5C799BA7E01564C86A5C8",
+                    "encrypted_size_2": "F0ED2EA840BF19852590ACD23669E93D"
+                },
+                "mechanic-test": {
+                    "encrypted_gid_2": "13161973F2BFE06915FE3A6D340725B6",
+                    "encrypted_size_2": "AE2209EA235CD4059FE6F345CE55C3DC"
+                },
+                "quality-assurance": {
+                    "encrypted_gid_2": "FDC4F040360C0BA4E1EB417D749005A4",
+                    "encrypted_size_2": "27B4D16D433746F5CC13331994F24ECC"
+                }
+            }
+        },
+        "412682": {
+            "name": "The Isle Dedicated Server (Linux)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "evrima": "3273702919308199116"
+            },
+            "maxsize": "4550647151",
+            "encryptedmanifests": {
+                "internal": {
+                    "encrypted_gid_2": "E8731FBAC79809EF7ADA21E979FEEA40",
+                    "encrypted_size_2": "2950C043CE4AC3E5E0B1AACD49D175D9"
+                },
+                "mechanic-test": {
+                    "encrypted_gid_2": "B49D403E5011CC21D0A098E8D527C6E7",
+                    "encrypted_size_2": "444B56051F6A1DF16AC4B1923091CDDF"
+                }
+            }
+        },
+        "412684": {
+            "name": "The Isle Dedicated Server Depot (Linux)",
+            "config": {
+                "oslist": "linux"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8170223",
+                "timeupdated": "1644385904"
+            },
+            "evrima": {
+                "buildid": "8318487",
+                "description": "evrima servers",
+                "timeupdated": "1646450781"
+            },
+            "internal": {
+                "buildid": "8318487",
+                "description": "Internal Team Branch",
+                "pwdrequired": "1",
+                "timeupdated": "1646450734"
+            },
+            "mechanic-test": {
+                "buildid": "7905825",
+                "description": "Mechanic Test Servers",
+                "pwdrequired": "1",
+                "timeupdated": "1639795382"
+            },
+            "promotional": {
+                "buildid": "3728268",
+                "description": "Promotional and Marketing Branch",
+                "timeupdated": "1556985533"
+            },
+            "quality-assurance": {
+                "buildid": "3728268",
+                "description": "Quality Assurance Branch",
+                "pwdrequired": "1",
+                "timeupdated": "1556985524"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14139063,
+    "_sha": "37868cd173d8abe2fe64abed0d163194a7ffbcb8",
+    "_size": 3365
+}

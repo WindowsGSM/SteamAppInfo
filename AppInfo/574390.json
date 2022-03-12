@@ -1,0 +1,116 @@
+{
+    "appid": "574390",
+    "common": {
+        "name": "Fog of War Dedicated Server",
+        "type": "Tool",
+        "parent": "574080",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "icon": "e273df30b7c63158521002a1ab2e8570f0b29371",
+        "logo": "df787be817930024125c1473484bad4556b631a6",
+        "logo_small": "df787be817930024125c1473484bad4556b631a6_thumb",
+        "clienttga": "c1b298ce36099b3950643519fb622b74840a06a4",
+        "clienticon": "f72c535be686cca61f739291ad71c0c0b8f03312",
+        "releasestate": "released",
+        "associations": {},
+        "community_hub_visible": "1",
+        "gameid": "574390"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "installdir": "Fog of War Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "Battalion_Beta/Binaries/Linux/Battalion_BetaServer_Shipping",
+                "type": "none",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "Battalion_Beta/Binaries/Win64/Battalion_BetaServer_Shipping.exe",
+                "type": "none",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "2": {
+                "executable": "Battalion_Beta/Binaries/Linux/Battalion_BetaServer",
+                "type": "none",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64",
+                    "betakey": "devtest"
+                }
+            },
+            "3": {
+                "executable": "Battalion_Beta/Binaries/Win64/Battalion_BetaServer.exe",
+                "type": "none",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "devtest"
+                }
+            }
+        }
+    },
+    "depots": {
+        "228986": {
+            "name": "VC 2015 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29759921",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "574391": {
+            "name": "Fog of War Dedicated Server Win64",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "3911612608570541444"
+            },
+            "maxsize": "993726104"
+        },
+        "574392": {
+            "name": "Fog of War Dedicated Server Win64/Linux64",
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "1907288967260684431"
+            },
+            "maxsize": "857265786",
+            "encryptedmanifests": {
+                "devtest": {
+                    "encrypted_gid_2": "CB8FD76F683132666E2749DC00BD705C",
+                    "encrypted_size_2": "BC4B01AAC8B9870D9D9304F98FDE4FC4"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "2867246",
+                "timeupdated": "1529138943"
+            },
+            "devtest": {
+                "buildid": "2316837",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1511692592"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "974893e6917da4c3c6b962b35b127c03519d8677",
+    "_size": 2493
+}

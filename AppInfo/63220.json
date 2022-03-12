@@ -1,0 +1,52 @@
+{
+    "appid": "63220",
+    "common": {
+        "name": "Monday Night Combat Dedicated Server",
+        "clienticon": "ceb26ec699a988ba222f069807af57e76f8686e5",
+        "clienttga": "9fa735abad5e911a988e581c88cf03662b701e42",
+        "icon": "21beae8cb4410a5ac7c668c085452e4de21f9c33",
+        "type": "Tool",
+        "freeondemand": "1",
+        "gameid": "63220"
+    },
+    "extended": {
+        "developer": "",
+        "gamedir": "Monday Night Combat Dedicated Server",
+        "homepage": "",
+        "icon": "",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "63221",
+        "serverbrowsername": "",
+        "state": "eStateTool"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Monday Night Combat Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "binaries\\win32\\mncds.bat"
+            }
+        }
+    },
+    "depots": {
+        "63221": {
+            "name": "MNCDS",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "8771265733704534117"
+            },
+            "maxsize": "506068269"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "165752"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "5976cbddd0d7758069e2e78ffbf7773c4308968c",
+    "_size": 984
+}

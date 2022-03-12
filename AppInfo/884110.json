@@ -1,0 +1,109 @@
+{
+    "appid": "884110",
+    "common": {
+        "name": "SCP: Pandemic Dedicated Server",
+        "type": "Tool",
+        "parent": "872670",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "logo": "3d0cf9e8cf56d512929144f59b1db54fe8ce9b3e",
+        "logo_small": "3d0cf9e8cf56d512929144f59b1db54fe8ce9b3e_thumb",
+        "icon": "468e44c0258fb87dc5953d932bd054e814b72084",
+        "clienticon": "b72916c7288eceb8fe7a385bb6a068bc700bab84",
+        "clienttga": "29a850f7271f985753102727458b99c373c31a06",
+        "associations": {},
+        "gameid": "884110"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "installdir": "SCP Pandemic Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "WindowsServer/PandemicServer.exe",
+                "arguments": "-log",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "884111": {
+            "name": "Server Toolkit Content",
+            "manifests": {
+                "public": "1592748490076867050"
+            },
+            "maxsize": "2028779184",
+            "encryptedmanifests": {
+                "debug": {
+                    "encrypted_gid_2": "A9775D2F2914962F89F76AFBF1F60E4C",
+                    "encrypted_size_2": "AC846E65BE96040E626E7572B5805F4E"
+                },
+                "indev": {
+                    "encrypted_gid_2": "19D6ECD2228178011447D3F2D9828443",
+                    "encrypted_size_2": "29D4D74DBC10DC48646C241516E691A8"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8309903",
+                "timeupdated": "1646338593"
+            },
+            "debug": {
+                "buildid": "8187461",
+                "description": "Uh oh",
+                "pwdrequired": "1",
+                "timeupdated": "1644625969"
+            },
+            "indev": {
+                "buildid": "8359370",
+                "description": "Likely unstable builds",
+                "pwdrequired": "1",
+                "timeupdated": "1647083192"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14207075,
+    "_sha": "90abb61f73e856197f2d0cc0d675edd0f2602fd7",
+    "_size": 2332
+}

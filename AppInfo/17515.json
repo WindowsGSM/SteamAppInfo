@@ -1,0 +1,153 @@
+{
+    "appid": "17515",
+    "common": {
+        "name": "Age of Chivalry Dedicated Server",
+        "logo": "e3176ec058428d97a424af5d577bed96c6e92528",
+        "logo_small": "54b737864f70a23ea526e80810e7d083a1c6ba62",
+        "icon": "c13110cfe96f0157c2ebd2e5b57a1aee6895dc95",
+        "clienttga": "6db24f42568f144c3fd9853eb6c8d691347c2d35",
+        "clienticon": "6ea1bb1688d041e29fcc2f14118519dab2913e92",
+        "type": "Tool",
+        "freeondemand": "1",
+        "gameid": "17515"
+    },
+    "extended": {
+        "developer": "Team Chivalry",
+        "gamedir": "Age of Chivalry Dedicated Server",
+        "homepage": "http://www.age-of-chivalry.com",
+        "icon": "",
+        "loadallbeforelaunch": "1",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "17511",
+        "serverbrowsername": "",
+        "state": "eStateTool",
+        "visibleonlywhensubscribed": "1"
+    },
+    "config": {
+        "usemms": "",
+        "contenttype": "3",
+        "installdir": "Age of Chivalry Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "srcds.exe",
+                "arguments": "-steam -ageofchivalry"
+            }
+        }
+    },
+    "depots": {
+        "overridescddb": "1",
+        "208": {
+            "name": "Base Source Shared Sounds",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "6607606726056919811"
+            },
+            "maxsize": "995522479",
+            "depotfromapp": "310"
+        },
+        "207": {
+            "name": "Base Source Shared Models",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "8662237756916905160"
+            },
+            "maxsize": "397557916",
+            "depotfromapp": "310"
+        },
+        "206": {
+            "name": "Base Source Shared Materials",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "3397042702627679991"
+            },
+            "maxsize": "1038409978",
+            "depotfromapp": "310"
+        },
+        "307": {
+            "name": "Source 2007 Shared Sounds",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "4320616745349668692"
+            },
+            "maxsize": "2270328",
+            "depotfromapp": "310"
+        },
+        "306": {
+            "name": "Source 2007 Shared Models",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "7375716330301856215"
+            },
+            "maxsize": "146083290",
+            "depotfromapp": "310"
+        },
+        "305": {
+            "name": "Source 2007 Shared Materials",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "1641700147160657647"
+            },
+            "maxsize": "995098913",
+            "depotfromapp": "310"
+        },
+        "310": {
+            "name": "Source 2007 Dedicated Server Win32",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "4768438366263625173"
+            },
+            "maxsize": "15209193",
+            "depotfromapp": "310"
+        },
+        "311": {
+            "name": "Source 2007 Dedicated Server Linux",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "717814676702689187"
+            },
+            "maxsize": "31415395",
+            "depotfromapp": "310"
+        },
+        "17511": {
+            "name": "age of chivalry content",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "2368255196544065107",
+                "steampipe": "2622008280805019534"
+            },
+            "maxsize": "2849015915",
+            "depotfromapp": "17510"
+        },
+        "1004": {
+            "name": "Steamworks SDK Redist (Win32)",
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "3578600867548439549"
+            },
+            "maxsize": "9662208",
+            "depotfromapp": "1002"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "195543"
+            },
+            "steampipe": {
+                "buildid": "86963",
+                "description": ""
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "39a24a4bd40c10282731c32d60684645cdb30af5",
+    "_size": 3239
+}

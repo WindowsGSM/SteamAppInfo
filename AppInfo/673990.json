@@ -1,0 +1,128 @@
+{
+    "appid": "673990",
+    "common": {
+        "name": "IOSoccer Dedicated Server",
+        "type": "Tool",
+        "parent": "673560",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "osarch": "",
+        "logo": "c9c9891f42cae3d1d635b8eb01eb3763aa19c89b",
+        "logo_small": "c9c9891f42cae3d1d635b8eb01eb3763aa19c89b_thumb",
+        "icon": "8fee12060ccdfa615e9c21bcead22b9f10020bdf",
+        "clienticon": "4a4b58e72ea7e41d5c0479e6d82a57c40ccf8fcb",
+        "clienttga": "fd0633c7e8bb701431ace1eb81d511a0850d76f4",
+        "associations": {},
+        "gameid": "673990",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "IOSoccer Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "srcds.exe",
+                "arguments": "-game iosoccer",
+                "type": "none",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "673991": {
+            "name": "Shared Server Depot",
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": "7381342141540443407",
+                "beta": "8789676379937907383",
+                "develop": "2609268443968732436"
+            },
+            "maxsize": "3640134711"
+        },
+        "673992": {
+            "name": "Windows Server Depot",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "6783917230372989576",
+                "beta": "7799242986031038853",
+                "develop": "6902807843319727321"
+            },
+            "maxsize": "28050064"
+        },
+        "673993": {
+            "name": "Linux Server Depot",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "8882728925929447829",
+                "beta": "3075224732768953091",
+                "develop": "5410719932497692607"
+            },
+            "maxsize": "48597058"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8296088",
+                "timeupdated": "1646167622"
+            },
+            "beta": {
+                "buildid": "7884590",
+                "description": "BETA",
+                "timeupdated": "1640107766"
+            },
+            "develop": {
+                "buildid": "8114824",
+                "description": "branch for internal testing of in-development changes",
+                "timeupdated": "1643623003"
+            },
+            "testing": {
+                "buildid": "8296088",
+                "description": "TESTING",
+                "pwdrequired": "1",
+                "timeupdated": "1646167632"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "3d11ff74d3c1d3ce12175d2953413c472dad4887",
+    "_size": 2680
+}

@@ -1,0 +1,44 @@
+{
+    "appid": "44720",
+    "common": {
+        "name": "RACE 07 Dedicated Server Beta",
+        "type": "Tool",
+        "gameid": "44720"
+    },
+    "extended": {
+        "developer": "SimBin",
+        "gamedir": "RACE07DSBeta",
+        "homepage": "http://www.simbin.se",
+        "icon": "",
+        "loadallbeforelaunch": "1",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "44701",
+        "serverbrowsername": "",
+        "state": "eStateTool"
+    },
+    "config": {
+        "contenttype": "2",
+        "installdir": "RACE07DSBeta",
+        "launch": {
+            "0": {
+                "executable": "RaceDedicatedServer_Steam.exe"
+            }
+        }
+    },
+    "depots": {
+        "44702": {
+            "name": "Race 07 Textures Beta",
+            "systemdefined": "1"
+        },
+        "44701": {
+            "name": "Race 07 Beta Files",
+            "systemdefined": "1"
+        },
+        "overridescddb": "1"
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "cfdceef7779cfeea62ca9649c0ed3096e5e41fe7",
+    "_size": 731
+}

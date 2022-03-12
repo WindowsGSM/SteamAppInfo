@@ -1,0 +1,150 @@
+{
+    "appid": "1012730",
+    "common": {
+        "name": "九劫曲:诅咒之地 Nine Trials Test Server",
+        "type": "Game",
+        "releasestate": "released",
+        "clienttga": "c1abc6f8ad642561b4bf945aed509319aef6fd8b",
+        "clienticon": "c966efcf90898a2f7aa0d7e6c273fb382baf6868",
+        "icon": "4ac8ef43ed9517c2c8b332c1dea98aa522f4db33",
+        "logo": "0a95439f84bff3b82ae5ca70d621471867abfdd2",
+        "logo_small": "0a95439f84bff3b82ae5ca70d621471867abfdd2_thumb",
+        "oslist": "windows",
+        "osarch": "64",
+        "has_adult_content": "1",
+        "metacritic_name": "九劫曲:诅咒之地 NineTrials Test Server",
+        "small_capsule": {
+            "english": "capsule_231x87.jpg"
+        },
+        "header_image": {
+            "english": "header.jpg"
+        },
+        "store_asset_mtime": "1561694007",
+        "associations": {
+            "0": {
+                "type": "developer",
+                "name": "深圳市爱玩游戏科技有限公司"
+            },
+            "1": {
+                "type": "publisher",
+                "name": "深圳市爱玩游戏科技有限公司"
+            },
+            "2": {
+                "type": "franchise",
+                "name": "九劫曲 NINE TRIALS"
+            }
+        },
+        "primary_genre": "1",
+        "genres": {
+            "0": "1",
+            "1": "37",
+            "2": "29"
+        },
+        "category": {
+            "category_36": "1",
+            "category_1": "1",
+            "category_49": "1"
+        },
+        "supported_languages": {
+            "english": {
+                "supported": "true"
+            },
+            "schinese": {
+                "supported": "true"
+            }
+        },
+        "original_release_date": "1548921600",
+        "steam_release_date": "1551446519",
+        "community_hub_visible": "1",
+        "gameid": "1012730",
+        "exfgls": "1",
+        "store_tags": {
+            "0": "113",
+            "1": "19",
+            "2": "128",
+            "3": "176981"
+        },
+        "review_score": "5",
+        "review_percentage": "53"
+    },
+    "extended": {
+        "developer": "深圳市爱玩游戏科技有限公司",
+        "publisher": "深圳市爱玩游戏科技有限公司",
+        "isfreeapp": "1"
+    },
+    "config": {
+        "installdir": "NineTrialsTestServer",
+        "launch": {
+            "0": {
+                "executable": "NineTrials\\Binaries\\Win64\\NineTrials.exe",
+                "arguments": "-ServerIP=120.78.152.44:8990",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "228983": {
+            "name": "VC 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "19265607",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "name": "VC 2015 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29759921",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1012731": {
+            "name": "九劫曲：诅咒之地(NineTrials) DEMO Content",
+            "manifests": {
+                "public": "8698855723001582796"
+            },
+            "maxsize": "12459391100",
+            "encryptedmanifests": {
+                "test": {
+                    "encrypted_gid_2": "6E06FC9979CD2439DD47EB7B103FA14D",
+                    "encrypted_size_2": "E8A9E26E21D0B74B3D6EA8B9EC06A29A"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "4647512",
+                "timeupdated": "1580994642"
+            },
+            "test": {
+                "buildid": "4419250",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1574492207"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "83e551a14b20a50a18170acb3085769ec84a04f5",
+    "_size": 3199
+}

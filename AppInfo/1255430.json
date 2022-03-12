@@ -1,0 +1,57 @@
+{
+    "appid": "1255430",
+    "common": {
+        "name": "Talvisota: Dedicated Server",
+        "type": "Tool",
+        "parent": "1206240",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "clienticon": "0604bfaa948d0c91c80554fd70919ca7afa8beba",
+        "clienttga": "1467166630dfc810eece9f51881fc2c125009f55",
+        "icon": "92e14f604cfebf52049d1456a96bc6e83be7488e",
+        "logo": "177ebf2f065348869dba79412273beead2981fac",
+        "logo_small": "177ebf2f065348869dba79412273beead2981fac_thumb",
+        "gameid": "1255430",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "Rising Storm 2 - Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "Binaries\\Win64\\LaunchWinterWarServer.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1255431": {
+            "name": "Talvisota: Dedicated Server Content",
+            "manifests": {
+                "public": "7212409427395669805"
+            },
+            "maxsize": "6550539899"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6315645",
+                "timeupdated": "1614923997"
+            },
+            "closedtesting_sv": {
+                "buildid": "6315645",
+                "description": "Preview builds before going live",
+                "pwdrequired": "1",
+                "timeupdated": "1614671387"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "ec9175327a697084654eb17c4d1558224bd98b64",
+    "_size": 1241
+}

@@ -1,0 +1,48 @@
+{
+    "appid": "105610",
+    "common": {
+        "name": "Terraria - Dedicated Server",
+        "type": "Tool",
+        "gameid": "105610"
+    },
+    "extended": {
+        "developer": "",
+        "gamedir": "Terraria",
+        "homepage": "",
+        "icon": "",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "105611",
+        "serverbrowsername": "",
+        "state": "eStateTool"
+    },
+    "config": {
+        "launch": {
+            "0": {
+                "executable": "Terraria.exe"
+            }
+        },
+        "contenttype": "3",
+        "installdir": "Terraria"
+    },
+    "depots": {
+        "105611": {
+            "name": "TerrariaServer",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "5695230778795499791"
+            },
+            "maxsize": "833519"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "16696"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "ebea83c4be93c6c5b7b63992db3fee48eaccf83b",
+    "_size": 722
+}

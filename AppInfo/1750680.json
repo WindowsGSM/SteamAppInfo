@@ -1,0 +1,100 @@
+{
+    "appid": "1750680",
+    "common": {
+        "name": "Beryllium Dedicated Server",
+        "type": "Tool",
+        "parent": "1344330",
+        "clienttga": "93020d431728c5f8f3b1b1749ec0980e2ee71175",
+        "clienticon": "98c3049acf74cc547a1974a5473bd23f0894533a",
+        "icon": "40f8a1f5b95c46c2a1e9d0e6d814728dd5f781f9",
+        "logo": "20150914d6472d5dd2f642abce374b1ebf7dd8f9",
+        "logo_small": "20150914d6472d5dd2f642abce374b1ebf7dd8f9_thumb",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "osarch": "",
+        "osextended": "",
+        "gameid": "1750680",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "Beryllium Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "BerylliumServer.exe",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "BerylliumServer.sh",
+                "type": "server",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1750681": {
+            "name": "Beryllium Dedicated Server Content",
+            "manifests": {
+                "public": "4695373594406800625"
+            },
+            "maxsize": "1787505342"
+        },
+        "1750682": {
+            "name": "Beryllium Dedicated Server Depot Linux",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "7172706956880289807"
+            },
+            "maxsize": "369771746"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8042941",
+                "timeupdated": "1642537428"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "94872dd93597019c53f7768defc0b57444180caa",
+    "_size": 2000
+}

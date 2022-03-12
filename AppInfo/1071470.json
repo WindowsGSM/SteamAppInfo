@@ -1,0 +1,78 @@
+{
+    "appid": "1071470",
+    "common": {
+        "name": "Planetes Community Dedicated Server",
+        "type": "Tool",
+        "parent": "610210",
+        "releasestate": "released",
+        "logo": "06251bfef1e3ee55b79d391603af303135a551fc",
+        "logo_small": "06251bfef1e3ee55b79d391603af303135a551fc_thumb",
+        "icon": "2a4c3b2620511a3bd22a18c983250f4a34b94774",
+        "clienticon": "cf42c61fc9f1009570253a424d497396a3e312c7",
+        "clienttga": "a4a745af4ab3792834b011ad9f37cf74a76a0645",
+        "oslist": "",
+        "osarch": "",
+        "associations": {},
+        "gameid": "1071470"
+    },
+    "config": {
+        "installdir": "Planetes Community Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "server.x86",
+                "type": "none"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1071471": {
+            "name": "Planetes Community Dedicated Server Content",
+            "manifests": {
+                "public": "235073968741477457"
+            },
+            "maxsize": "413712015"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3751236",
+                "timeupdated": "1555708360"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "5631830aa6a7d075abbbf541b774aaed6ed1d646",
+    "_size": 1592
+}

@@ -1,0 +1,113 @@
+{
+    "appid": "1303430",
+    "common": {
+        "name": "Gemini: Binary Conflict Dedicated Server",
+        "type": "Tool",
+        "parent": "1293660",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "osextended": "",
+        "logo": "20ca814e33e37cea415a8e1dd0a3430d30cebae4",
+        "logo_small": "20ca814e33e37cea415a8e1dd0a3430d30cebae4_thumb",
+        "icon": "f7b30d01220771aa3fe9a2ee73ff4614123d7d6f",
+        "clienticon": "512678f517fc7dfb841251ca20930a9a584eb03c",
+        "clienttga": "1c6a4ad3050fb2e262470872dbebd3d1a90eb574",
+        "gameid": "1303430",
+        "exfgls": "1"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "installdir": "Gemini Binary Conflict - Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "GeminiServer.exe",
+                "arguments": "fdm_crater -log",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "GeminiServer.sh",
+                "arguments": "fdm_crater -log",
+                "type": "default",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1303431": {
+            "name": "Gemini: Binary Conflict Dedicated Server Windows",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": "1810001762442831668"
+            },
+            "maxsize": "377880764"
+        },
+        "1303432": {
+            "name": "Gemini: Binary Conflict Dedicated Server Linux",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": "8791469961639902742"
+            },
+            "maxsize": "430628979"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8356731",
+                "timeupdated": "1647029680"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14202765,
+    "_sha": "487670aa3ea2aaa90e60332525b74884a3c4ce63",
+    "_size": 2294
+}

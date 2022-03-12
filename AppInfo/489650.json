@@ -1,0 +1,200 @@
+{
+    "appid": "489650",
+    "common": {
+        "name": "Citadel: Forged With Fire Server",
+        "type": "Tool",
+        "parent": "487120",
+        "oslist": "windows,linux",
+        "osarch": "",
+        "logo": "4472b2a7288f5833b035fad75187a03805085dd6",
+        "logo_small": "4472b2a7288f5833b035fad75187a03805085dd6_thumb",
+        "icon": "aea6f12b282589b6517009c63d194a37599fa631",
+        "clienttga": "01a4049bd5cbc75abe0feee92a9b477e383c076f",
+        "clienticon": "a60f16a51628f6d6aa723c18cf21b12ac837a91a",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "489650"
+    },
+    "extended": {
+        "gamedir": "Citadels and Conjurers"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Citadel Server",
+        "launch": {
+            "0": {
+                "executable": "CitadelServer.sh",
+                "type": "default",
+                "config": {
+                    "oslist": "linux"
+                }
+            },
+            "1": {
+                "executable": "CitadelServer.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "489651": {
+            "name": "Citadel Server Content",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "2288691774824190696",
+                "development": "5626598788441062752",
+                "publictest": "7153059263808311659",
+                "release": "8199780248479452860"
+            },
+            "maxsize": "2231569979",
+            "encryptedmanifests": {
+                "ps4release": {
+                    "encrypted_gid_2": "3A089FD759E75FC8F64547928F6384D1",
+                    "encrypted_size_2": "24804F91C80C20D28DA9A19B4511252A"
+                },
+                "ps4release2": {
+                    "encrypted_gid_2": "19963455650C6298EB687CBA2945AA0F",
+                    "encrypted_size_2": "425DB8BB787EFCC1D84BA9025BE279A9"
+                },
+                "ps4server": {
+                    "encrypted_gid_2": "9B00478BE010821D1327497BEAC8E065",
+                    "encrypted_size_2": "A4AE8BDBB3CFB1E3EBD84D7BAF3DF5CE"
+                },
+                "xboxrelease": {
+                    "encrypted_gid_2": "06CA0736806FC6FB007EB5B1799F2BAB",
+                    "encrypted_size_2": "7E09AE43AC51181C9715FCDDED73B771"
+                },
+                "xboxserver": {
+                    "encrypted_gid_2": "50029525B57E5C0CACB2A9EBA55FF31C",
+                    "encrypted_size_2": "286E5977DE8861614521549335135EB3"
+                }
+            }
+        },
+        "489652": {
+            "name": "Citadel Server Linux",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "2319135073756295769",
+                "development": "7880617789906202373",
+                "publictest": "4791710429206853996",
+                "release": "6707812410146511184"
+            },
+            "maxsize": "2416485517",
+            "encryptedmanifests": {
+                "ps4release": {
+                    "encrypted_gid_2": "FEC32742F9FA1FC1F85D11BDF36A0AE7",
+                    "encrypted_size_2": "4C8D2E364A2C7070146BB4364E09E5E9"
+                },
+                "ps4release2": {
+                    "encrypted_gid_2": "1E5DA278E74E5AC7B8881972BC25825A",
+                    "encrypted_size_2": "6674EC9E794C5717CDCC9CD161318305"
+                },
+                "ps4server": {
+                    "encrypted_gid_2": "1C654687CEBC97158ECAC732348D8FAD",
+                    "encrypted_size_2": "D6E0955F69677603B7AE65941F5029D3"
+                },
+                "xboxrelease": {
+                    "encrypted_gid_2": "2C127F994E5A6D460C0B021AB8F48170",
+                    "encrypted_size_2": "8ECEAA71DA91678154E22F17AEA30814"
+                },
+                "xboxserver": {
+                    "encrypted_gid_2": "6B4F5405A91A1E6C83BBAA2BDE6FDD44",
+                    "encrypted_size_2": "C04C709983B79CD33C58F997A55D1F63"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "6394339",
+                "timeupdated": "1615996213"
+            },
+            "development": {
+                "buildid": "7189550",
+                "description": "",
+                "timeupdated": "1628925710"
+            },
+            "ps4release": {
+                "buildid": "6352689",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1615999813"
+            },
+            "ps4release2": {
+                "buildid": "6352689",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1615302743"
+            },
+            "ps4server": {
+                "buildid": "6352689",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1616000139"
+            },
+            "publictest": {
+                "buildid": "2954711",
+                "description": "",
+                "timeupdated": "1531946714"
+            },
+            "release": {
+                "buildid": "7190210",
+                "description": "",
+                "timeupdated": "1628947249"
+            },
+            "xboxrelease": {
+                "buildid": "6352689",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1615302766"
+            },
+            "xboxserver": {
+                "buildid": "6352689",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1616000191"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "994df0bdd0cc0a91916611d59f2ebd4876662761",
+    "_size": 4791
+}

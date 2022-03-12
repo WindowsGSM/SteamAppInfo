@@ -1,0 +1,67 @@
+{
+    "appid": "693060",
+    "common": {
+        "name": "Perpetuum Dedicated Server",
+        "type": "Tool",
+        "parent": "223410",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "64",
+        "logo": "67ebe78dde9ef4b9fea3c88c2998f8e4fd2fa945",
+        "logo_small": "67ebe78dde9ef4b9fea3c88c2998f8e4fd2fa945_thumb",
+        "icon": "e30b6a3ba4aad3c3680cff0d439f54bbbb523ded",
+        "clienticon": "b3260b9f65dacde9917a907fa3a23af0199f85f7",
+        "clienttga": "1203a8508434bb0a897c7d89893f8a09d611a09b",
+        "eulas": {},
+        "associations": {},
+        "gameid": "693060",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "PerpetuumDedicatedServer",
+        "launch": {
+            "0": {
+                "executable": "perpetuumserver_setup.exe",
+                "description": "Install Perpetuum server",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "229006": {
+            "name": ".NET 4.7 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "83944258",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "693061": {
+            "name": "Perpetuum Dedicated Server Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "6685746625290128699"
+            },
+            "maxsize": "563799601"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4281751",
+                "timeupdated": "1570885937"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 12723088,
+    "_sha": "da120bd54b821888006a129386dd0a4146b918b8",
+    "_size": 1367
+}

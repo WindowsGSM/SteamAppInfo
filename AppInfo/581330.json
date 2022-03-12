@@ -1,0 +1,392 @@
+{
+    "appid": "581330",
+    "common": {
+        "name": "Insurgency: Sandstorm Dedicated Server",
+        "type": "Tool",
+        "parent": "581320",
+        "releasestate": "released",
+        "oslist": "linux",
+        "osarch": "",
+        "clienticon": "df54c9719cb2383dbbb29ec6b89b108c9dbe9f22",
+        "clienttga": "8eba259c22e90df29fd2f5f157b4394cd7074a9e",
+        "icon": "018d8f1d991e46846a25dd01cfd5b13b4ddfb26e",
+        "logo": "2d12877271f99129c04ac0cab8625b5abe7768a8",
+        "logo_small": "2d12877271f99129c04ac0cab8625b5abe7768a8_thumb",
+        "associations": {},
+        "gameid": "581330"
+    },
+    "config": {
+        "installdir": "sandstorm_server",
+        "launch": {
+            "0": {
+                "executable": "InsurgencyServer.exe",
+                "type": "none",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228986": {
+            "name": "VC 2015 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29759921",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "581332": {
+            "name": "Insurgency: Sandstorm Dedicated Server Depot - Windows",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "3774276751907502985",
+                "cte_public": "2642126904978568327"
+            },
+            "maxsize": "8833507313",
+            "encryptedmanifests": {
+                "community_test": {
+                    "encrypted_gid_2": "5DB6320D05CD59916991CE370338DA38",
+                    "encrypted_size_2": "4F2EADF0F0560D6DD3B5BDF3E005B301"
+                },
+                "nwi_nightly": {
+                    "encrypted_gid_2": "813884A1944F5DC5D0060323C206CBFA",
+                    "encrypted_size_2": "0F827D919E53655D35D55F0D1CFE7E21"
+                },
+                "ss_cte_1": {
+                    "encrypted_gid_2": "7BFE75F44696D39BD0787F04FC4964DB",
+                    "encrypted_size_2": "00C289E75EA5DCC72D54D51B9161B873"
+                },
+                "ss_cte_2": {
+                    "encrypted_gid_2": "B8E130C6685827928DA116A237CED5E9",
+                    "encrypted_size_2": "65047B128DDE74D9FAE51A5282902C1A"
+                },
+                "ss_cte_3": {
+                    "encrypted_gid_2": "3CE622F3341736830F3D93DA773EFA08",
+                    "encrypted_size_2": "903E71B2012EFB71E7DD41F69A742CD1"
+                },
+                "ss_cte_4": {
+                    "encrypted_gid_2": "EAA75C064298009988E4B48836777F4D",
+                    "encrypted_size_2": "1B9EA6DCC0BF843722C60E39665CBE7F"
+                },
+                "ss_egs_1": {
+                    "encrypted_gid_2": "C75C485D4725884C55AB927B2DD12755",
+                    "encrypted_size_2": "5D2C80C97BF9803F3773602C433C5198"
+                },
+                "ss_evaluation_1": {
+                    "encrypted_gid_2": "4BDD42E0551E7E5B696CD0455E8D953E",
+                    "encrypted_size_2": "156B057B436DFA8570C862C556B2459D"
+                },
+                "ss_external_1": {
+                    "encrypted_gid_2": "91F14DEC41F3E88952D20BAD07155590",
+                    "encrypted_size_2": "125F440A262E1CD87841242E0147E82E"
+                },
+                "ss_external_2": {
+                    "encrypted_gid_2": "D9CF7F4DE3A5ED20E60979401940AE74",
+                    "encrypted_size_2": "9EFDBF4C86E35DCC44F13D72A8E73476"
+                },
+                "ss_external_3": {
+                    "encrypted_gid_2": "28410517D3835583BB7D16780AD31CCD",
+                    "encrypted_size_2": "9FAA295A5C8B671CA4A7D77E13BF4785"
+                },
+                "ss_main_1": {
+                    "encrypted_gid_2": "D604C2275FDFAF1AB4D91409FEC3A245",
+                    "encrypted_size_2": "990FD635FFE96DF87E2DA3770E9523AF"
+                },
+                "ss_main_2": {
+                    "encrypted_gid_2": "2628EAC3175201ABC50AEC17EEEE1941",
+                    "encrypted_size_2": "E12837665EB78B19D72D51CEFEF755C4"
+                },
+                "ss_marketing": {
+                    "encrypted_gid_2": "F831965E53C6B19C56003E4097BEC898",
+                    "encrypted_size_2": "2B0C4D2867D65E3CF6D5E571E7921CBF"
+                },
+                "ss_matchserver_1": {
+                    "encrypted_gid_2": "B69462A2543B352BD5090B7A64016135",
+                    "encrypted_size_2": "73E3BE2B8ACEE0B3AF64357830DA53B2"
+                },
+                "tournament": {
+                    "encrypted_gid_2": "5B3BB1FC2217512B3051663E8F877365",
+                    "encrypted_size_2": "EF28B9D524312AEFA364AD29CFB589FD"
+                },
+                "unstable": {
+                    "encrypted_gid_2": "CB50B1BBB83BB659C33A29E839F21B27",
+                    "encrypted_size_2": "383C08D82D24885068260150FC398C48"
+                },
+                "unstable_shipping": {
+                    "encrypted_gid_2": "4B24FEF33D27D9099CEF0117F2E341F9",
+                    "encrypted_size_2": "C1E7EC326987FCAB1990DF266A12725A"
+                },
+                "unstable_test": {
+                    "encrypted_gid_2": "EEF2C216DC83A6C0864290E98CFBDA13",
+                    "encrypted_size_2": "479236163FD8D262A0A5D70BBC38BBEA"
+                }
+            }
+        },
+        "581333": {
+            "name": "Insurgency: Sandstorm Dedicated Server Depot - Linux",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "5022559348884996776",
+                "cte_public": "1432874454853064234"
+            },
+            "maxsize": "8837200479",
+            "encryptedmanifests": {
+                "community_test": {
+                    "encrypted_gid_2": "D9B39B0369663ED5DFA1C70FBB384020",
+                    "encrypted_size_2": "E6CFD7129EAA9D27A07436CEAEA60576"
+                },
+                "nwi_nightly": {
+                    "encrypted_gid_2": "04CCC15715388220368D71E3D5DD982D",
+                    "encrypted_size_2": "079B396631E26E3B9D19ABD764AD5499"
+                },
+                "ss_cte_1": {
+                    "encrypted_gid_2": "94C48F42B095692A2469C5F2F7A38C32",
+                    "encrypted_size_2": "1490AEC8E9595E76280B00BDD977E474"
+                },
+                "ss_cte_2": {
+                    "encrypted_gid_2": "2905AE3CB686F15945C6A6447EFD7571",
+                    "encrypted_size_2": "DBF8DCFE1C4B4BBC09DEE90086775EFB"
+                },
+                "ss_cte_3": {
+                    "encrypted_gid_2": "0CDE6ED5FE6AECB9FAC12F53C64027C5",
+                    "encrypted_size_2": "7A982D0192DF85836016114DCE1AE308"
+                },
+                "ss_cte_4": {
+                    "encrypted_gid_2": "3DAE6C81F2D964936CE51AF78156CCDB",
+                    "encrypted_size_2": "B4E576D766CE388170B3B3EF00580399"
+                },
+                "ss_egs_1": {
+                    "encrypted_gid_2": "04F743F65EC8F2C6F3B771931EFA5333",
+                    "encrypted_size_2": "B87D1A8879794C9FDA7F14402C1E112B"
+                },
+                "ss_evaluation_1": {
+                    "encrypted_gid_2": "41A757C0CF9E744892755F46B0EF47DF",
+                    "encrypted_size_2": "3F1E255255989717BC4095F9EA0413ED"
+                },
+                "ss_external_1": {
+                    "encrypted_gid_2": "08BB156844830868B82F320B6953DC1B",
+                    "encrypted_size_2": "EBDC8C5B876200D62D1283EBAE50BCC8"
+                },
+                "ss_external_2": {
+                    "encrypted_gid_2": "17871625B42ABAD84EF1F0D6E897E2CE",
+                    "encrypted_size_2": "2D42C396911DF48151621FE46F0E95E0"
+                },
+                "ss_external_3": {
+                    "encrypted_gid_2": "64A3A3E0A1EA37AF1E72BEFF24C8A923",
+                    "encrypted_size_2": "D72EC7F3BD617E9FDA816BF3FA7C4D54"
+                },
+                "ss_main_1": {
+                    "encrypted_gid_2": "02D9AA17E64E1E6827A19A58E08B11C9",
+                    "encrypted_size_2": "3D189CBD8BFDAA825A29A630C0B0671D"
+                },
+                "ss_main_2": {
+                    "encrypted_gid_2": "F2814EF3B7BBE502C53EFDC82298B14D",
+                    "encrypted_size_2": "2066797C8A2E7E1B037992D81B9C83E2"
+                },
+                "ss_marketing": {
+                    "encrypted_gid_2": "32E750142092CA77A0FD2CA623B2EB56",
+                    "encrypted_size_2": "31BBA0A19BE5E53978E09E571205C044"
+                },
+                "ss_matchserver_1": {
+                    "encrypted_gid_2": "40DCEF29B0E3BF5ED09767FC48C5CC09",
+                    "encrypted_size_2": "77C611504D00EECF603B13C72113D69B"
+                },
+                "tournament": {
+                    "encrypted_gid_2": "EF428BB86DF478A070B88DB81B157B53",
+                    "encrypted_size_2": "0E3B5FB433967C7F23A9995F2959514C"
+                },
+                "unstable": {
+                    "encrypted_gid_2": "C61732A402DFA66BC1F6172382D67185",
+                    "encrypted_size_2": "1C86256460E45E6AA66EE202700C6B48"
+                },
+                "unstable_shipping": {
+                    "encrypted_gid_2": "C00DF531D0E341D5EF88251A69567795",
+                    "encrypted_size_2": "455E7A255A37F0884527E1371CFDE365"
+                },
+                "unstable_test": {
+                    "encrypted_gid_2": "B54CA563B743CFD2838B9C81EA64A1CF",
+                    "encrypted_size_2": "1EA23CE4411CFE58E87E1A4007A08508"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8177154",
+                "timeupdated": "1644512565"
+            },
+            "community_test": {
+                "buildid": "8339131",
+                "description": "Community test server",
+                "pwdrequired": "1",
+                "timeupdated": "1646820446"
+            },
+            "cte_public": {
+                "buildid": "6575177",
+                "description": "Unpassworded CTE branch",
+                "timeupdated": "1619194828"
+            },
+            "nwi_nightly": {
+                "buildid": "6063201",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1610338420"
+            },
+            "ss_cte_1": {
+                "buildid": "8100171",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1643317219"
+            },
+            "ss_cte_2": {
+                "buildid": "8352948",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1646989074"
+            },
+            "ss_cte_3": {
+                "buildid": "8352098",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1646976996"
+            },
+            "ss_cte_4": {
+                "buildid": "8120330",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1643932066"
+            },
+            "ss_egs_1": {
+                "buildid": "7583759",
+                "description": "ss_egs_1",
+                "pwdrequired": "1",
+                "timeupdated": "1634928574"
+            },
+            "ss_evaluation_1": {
+                "buildid": "5658497",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1602694407"
+            },
+            "ss_external_1": {
+                "buildid": "8128887",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1643770742"
+            },
+            "ss_external_2": {
+                "buildid": "8352948",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1646989514"
+            },
+            "ss_external_3": {
+                "buildid": "8352098",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1646977255"
+            },
+            "ss_main_1": {
+                "buildid": "8264652",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1645668916"
+            },
+            "ss_main_2": {
+                "buildid": "6714845",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1621300855"
+            },
+            "ss_marketing": {
+                "buildid": "7604769",
+                "description": "ss_marketing",
+                "pwdrequired": "1",
+                "timeupdated": "1635281006"
+            },
+            "ss_matchserver_1": {
+                "buildid": "8336431",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1646780364"
+            },
+            "tournament": {
+                "buildid": "5276803",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1598030658"
+            },
+            "unstable": {
+                "buildid": "7867146",
+                "description": "Latest",
+                "pwdrequired": "1",
+                "timeupdated": "1639221287"
+            },
+            "unstable_shipping": {
+                "buildid": "7463940",
+                "description": "Latest (Shipping)",
+                "pwdrequired": "1",
+                "timeupdated": "1633121475"
+            },
+            "unstable_test": {
+                "buildid": "8316421",
+                "description": "Latest (Test)",
+                "pwdrequired": "1",
+                "timeupdated": "1646419334"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14196602,
+    "_sha": "745c1ea17140ae1055c312281cc38b3cc77da9e8",
+    "_size": 10809
+}

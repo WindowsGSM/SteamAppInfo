@@ -1,0 +1,55 @@
+{
+    "appid": "223250",
+    "common": {
+        "name": "Red Orchestra Linux Dedicated Server",
+        "type": "Tool",
+        "gameid": "223250"
+    },
+    "extended": {
+        "developer": "",
+        "gamedir": "ValveTestApp223250",
+        "homepage": "",
+        "icon": "",
+        "noservers": "0",
+        "sourcegame": "1",
+        "state": "eStateAvailable",
+        "thirdpartycdkey": "1",
+        "visibleonlywhensubscribed": "1"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Red Orchestra Linux Dedicated Server"
+    },
+    "depots": {
+        "1204": {
+            "name": "Red Orchestra Linux Dedicated Server Content",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "2260007545368723570"
+            },
+            "maxsize": "83600166"
+        },
+        "1201": {
+            "name": "RedOrchestraCommon",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "6489912254443979140"
+            },
+            "maxsize": "1117646336",
+            "depotfromapp": "1200"
+        },
+        "overridescddb": "1",
+        "preloadonly": "1",
+        "branches": {
+            "public": {
+                "buildid": "22252"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "e361d63c18cb600b59538e1325622a5421526d48",
+    "_size": 975
+}

@@ -1,0 +1,197 @@
+{
+    "appid": "443050",
+    "common": {
+        "name": "The Ship: Remasted Dedicated Server",
+        "type": "Tool",
+        "oslist": "windows",
+        "logo": "71bbe4e1edb5c1716f6857f83db7d9ebeb52eb91",
+        "logo_small": "71bbe4e1edb5c1716f6857f83db7d9ebeb52eb91_thumb",
+        "icon": "de54185795014585bc27f4649f85f926f7ea63e5",
+        "clienticon": "768ddd4d76129d9b8a125a0d2b5908e5f09475d8",
+        "clienttga": "b342b17e0b5ef2d96ba8c051f5ac6af81c47362e",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "443050"
+    },
+    "extended": {
+        "gamedir": "",
+        "serverbrowsername": "The Ship: Remasted"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "The Ship Remasted Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "TSRDedicated.exe",
+                "arguments": "-batchmode -nographics +serverid TSRDS_1 +servercfg server.cfg -logFile TSRDS_1/tsrds_output.txt",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "443051": {
+            "name": "The Ship: Remasted Dedicated Server Content",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "5468976096493403536"
+            },
+            "maxsize": "1935378518",
+            "encryptedmanifests": {
+                "branch-development": {
+                    "encrypted_gid_2": "FEC3CF979D906EA3C67A0293D215BE05",
+                    "encrypted_size_2": "5CFA36CAAA6035D570F7804AA7316E9D"
+                },
+                "dev-jmk": {
+                    "encrypted_gid_2": "2187F927E09508CCD16345867FADC6D1",
+                    "encrypted_size_2": "2D4914FF4E69FC0989D2FA8AC3BECE63"
+                },
+                "dev-nd": {
+                    "encrypted_gid_2": "5F06E7215798AE0E5C1C2A5652564C04",
+                    "encrypted_size_2": "7496C9F932A6624356745773747780D3"
+                },
+                "development": {
+                    "encrypted_gid_2": "4CF13E94CA37B22EAE431B4D61A6EF5C",
+                    "encrypted_size_2": "972AC0CD187653B148C5D1CD62F04D97"
+                },
+                "external": {
+                    "encrypted_gid_2": "A8F36FBBBEF9E43C14928AB95F941D9C",
+                    "encrypted_size_2": "A75360137732E8E5D50F4AE82AAF6C97"
+                },
+                "internal-qa": {
+                    "encrypted_gid_2": "703EE46F34BBC57EF65436DE11AC009E",
+                    "encrypted_size_2": "4C9E5BAE35B47A8179C7DC748B4E1C4D"
+                },
+                "mainline-development": {
+                    "encrypted_gid_2": "6607C058183AF9E2F2B0F989FD763FF6",
+                    "encrypted_size_2": "D6B3238FE2B4E9312DB2639B24541F92"
+                },
+                "mainline-release": {
+                    "encrypted_gid_2": "1D46D9A7F156740D5BEE286B576032E2",
+                    "encrypted_size_2": "5F0258D74C82F025B67D7ADA65C7ED24"
+                },
+                "release-candidate": {
+                    "encrypted_gid_2": "E3B4DE971C5419C2160DA4F490A00B38",
+                    "encrypted_size_2": "AE0BE98237C90996F491D58DA876E606"
+                },
+                "release-test": {
+                    "encrypted_gid_2": "9DFC0E1E2FC117BD76060C3B03EAA200",
+                    "encrypted_size_2": "B98038C2F6BBD32CE26CDBBE4DC0A825"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "2328371",
+                "timeupdated": "1512050628"
+            },
+            "branch-development": {
+                "buildid": "2328369",
+                "description": "Development builds from a release branch",
+                "pwdrequired": "1",
+                "timeupdated": "1512035336"
+            },
+            "branch-release": {
+                "buildid": "2328371",
+                "description": "Release builds from a release branch",
+                "pwdrequired": "1",
+                "timeupdated": "1512035383"
+            },
+            "dev-jmk": {
+                "buildid": "1060616",
+                "description": "JMK Test",
+                "pwdrequired": "1",
+                "timeupdated": "1461677350"
+            },
+            "dev-nd": {
+                "buildid": "1100008",
+                "description": "ND Test",
+                "pwdrequired": "1",
+                "timeupdated": "1461832254"
+            },
+            "development": {
+                "buildid": "1305513",
+                "description": "Dedicated Server for Development builds",
+                "pwdrequired": "1",
+                "timeupdated": "1472470919"
+            },
+            "external": {
+                "buildid": "1357412",
+                "description": "Dedicated Server Beta",
+                "pwdrequired": "1",
+                "timeupdated": "1475068638"
+            },
+            "internal-qa": {
+                "buildid": "1476388",
+                "description": "Cool QA tests",
+                "pwdrequired": "1",
+                "timeupdated": "1479908107"
+            },
+            "mainline-development": {
+                "buildid": "2303237",
+                "description": "Development builds from the mainline",
+                "pwdrequired": "1",
+                "timeupdated": "1511346878"
+            },
+            "mainline-release": {
+                "buildid": "2312578",
+                "description": "Release builds from the mainline",
+                "pwdrequired": "1",
+                "timeupdated": "1511794733"
+            },
+            "release-candidate": {
+                "buildid": "2321489",
+                "description": "Dedicated Server for Release Candidate builds",
+                "pwdrequired": "1",
+                "timeupdated": "1511870523"
+            },
+            "release-test": {
+                "buildid": "1364341",
+                "description": "Dedicated Server for Release Test builds",
+                "pwdrequired": "1",
+                "timeupdated": "1475143041"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "18e972a4a21aebd26b2a8b9f05bbca879834aef5",
+    "_size": 5196
+}

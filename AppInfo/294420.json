@@ -1,0 +1,272 @@
+{
+    "appid": "294420",
+    "common": {
+        "name": "7 Days to Die Dedicated Server",
+        "type": "Tool",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "logo": "c618d480ef02e41fdbe60e6915f4a3f8c6f9f22c",
+        "logo_small": "c618d480ef02e41fdbe60e6915f4a3f8c6f9f22c_thumb",
+        "icon": "d43a8a02c05cda3848acac7bae6d3f9282a572e2",
+        "clienttga": "6809e01bed7691b587e72f155e33324c4aa324b2",
+        "clienticon": "01840052e8bc61931392423adcd4912262b2ce54",
+        "clienticns": "e4b9ca1d116762305f8d1d64ae6fe1377d50d739",
+        "linuxclienticon": "556952251e634477af16dac7086e81790c09102c",
+        "parent": "251570",
+        "osarch": "64",
+        "osextended": "",
+        "small_capsule": {
+            "english": "capsule_231x87.jpg"
+        },
+        "header_image": {
+            "english": "header.jpg"
+        },
+        "library_assets": {
+            "library_capsule": "en",
+            "library_hero": "en",
+            "library_logo": "en",
+            "logo_position": {
+                "pinned_position": "BottomLeft",
+                "width_pct": "51.05017502917153",
+                "height_pct": "84.5744664815669"
+            }
+        },
+        "store_asset_mtime": "1573841912",
+        "associations": {},
+        "steam_release_date": "1404864000",
+        "gameid": "294420",
+        "review_score": "6",
+        "review_percentage": "77"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "7 Days to Die Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "startdedicated.bat",
+                "description": "Launch",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "228983": {
+            "name": "VC 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "19265607",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
+        "294421": {
+            "name": "7 Days to Die Dedicated Server Windows Content",
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "4037091522893768975",
+                "alpha10.4": "7412646391386825055",
+                "alpha11.6": "6384284037646508346",
+                "alpha12.5": "2620195875532790120",
+                "alpha13.8": "5836883562693916091",
+                "alpha14.7": "4677822636593761235",
+                "alpha15.2": "6230627558933979850",
+                "alpha16.4": "7312976631752592844",
+                "alpha17.4": "1014351179677617302",
+                "alpha18.4": "1987056548212269568",
+                "alpha19.6": "4686149603724346540",
+                "alpha20.0": "1192338431323712073",
+                "alpha20.1": "3366271055219615829",
+                "alpha20.2": "6780412785001941393",
+                "alpha8.8": "6555466999693160687",
+                "alpha9.3": "6472753396271220220"
+            },
+            "maxsize": "12803634292",
+            "encryptedmanifests": {
+                "test": {
+                    "encrypted_gid_2": "2B2A034178604F57AD0BCB68CF1629C4",
+                    "encrypted_size_2": "864994AE9A51B332692B286DD20C33AC"
+                },
+                "testing_branch": {
+                    "encrypted_gid_2": "A1A6A4172683F87E625B2AE1E38E8A24",
+                    "encrypted_size_2": "0F25D7F803FB59A83EEA5384FBA59DA3"
+                },
+                "testing_branch_alt": {
+                    "encrypted_gid_2": "C1C8065ECB22D331886BBC58E0D1E3A9",
+                    "encrypted_size_2": "404B2C0527995A5B42E987A2E75874F8"
+                },
+                "testing_trunk": {
+                    "encrypted_gid_2": "736B55473EE4857C8597129787C40C94",
+                    "encrypted_size_2": "413DDF9C42F30904C05D52E20E5FBB11"
+                }
+            }
+        },
+        "294422": {
+            "name": "7 Days to Die Dedicated Server Linux Depot",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "7255089514478966508",
+                "alpha10.4": "869964754451803329",
+                "alpha11.6": "6322866582767616058",
+                "alpha12.5": "4986361730962654647",
+                "alpha13.8": "7779347169826947318",
+                "alpha14.7": "6623540452959702677",
+                "alpha15.2": "2556346443150106043",
+                "alpha16.4": "2507660789418272148",
+                "alpha17.4": "779748564640465657",
+                "alpha18.4": "712346436815285918",
+                "alpha19.6": "8368733426395777657",
+                "alpha20.0": "8491094488431010654",
+                "alpha20.1": "6255887219184546851",
+                "alpha20.2": "3867999264868164043",
+                "alpha9.3": "771574079178892216"
+            },
+            "maxsize": "12852025913",
+            "encryptedmanifests": {
+                "test": {
+                    "encrypted_gid_2": "EB1D04ABED4C944B7C26DB92F8489E3B",
+                    "encrypted_size_2": "6718A3A8EA9FDBB403887F8656BBEABF"
+                },
+                "testing_branch": {
+                    "encrypted_gid_2": "A5DF6217DF7F2DC6914110800868153D",
+                    "encrypted_size_2": "11D677ACFB194784E7C13C79C7D8288B"
+                },
+                "testing_branch_alt": {
+                    "encrypted_gid_2": "FF596A52F7E0EE577EA7B5A5F2159345",
+                    "encrypted_size_2": "CE600908096AF450F9385CE3A0BF26A1"
+                },
+                "testing_trunk": {
+                    "encrypted_gid_2": "8106FE8D751C7A8B608D9BDD7DFAF359",
+                    "encrypted_size_2": "E82CDB8CBB4735C3C03F3FFEBD85C061"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8246198",
+                "timeupdated": "1645571076"
+            },
+            "alpha10.4": {
+                "buildid": "480993",
+                "description": "Alpha 10.4 Stable"
+            },
+            "alpha11.6": {
+                "buildid": "658147",
+                "description": "Alpha 11.6 Stable"
+            },
+            "alpha12.5": {
+                "buildid": "745252",
+                "description": "Alpha 12.5 Stable"
+            },
+            "alpha13.8": {
+                "buildid": "963565",
+                "description": "Alpha 13.8 Stable",
+                "timeupdated": "1458644185"
+            },
+            "alpha14.7": {
+                "buildid": "1189196",
+                "description": "Alpha 14.7 Stable",
+                "timeupdated": "1466441146"
+            },
+            "alpha15.2": {
+                "buildid": "1642899",
+                "description": "Alpha 15.2 Stable",
+                "timeupdated": "1487759695"
+            },
+            "alpha16.4": {
+                "buildid": "2222523",
+                "description": "Alpha 16.4 Stable",
+                "timeupdated": "1509091368"
+            },
+            "alpha17.4": {
+                "buildid": "3848769",
+                "description": "Alpha 17.4 Stable",
+                "timeupdated": "1561393272"
+            },
+            "alpha18.4": {
+                "buildid": "4714812",
+                "description": "Alpha 18.4 Stable",
+                "timeupdated": "1591274077"
+            },
+            "alpha19.6": {
+                "buildid": "7108526",
+                "description": "Alpha 19.6 Stable",
+                "timeupdated": "1640116416"
+            },
+            "alpha20.0": {
+                "buildid": "7919985",
+                "description": "Alpha 20.0 Stable",
+                "timeupdated": "1643752165"
+            },
+            "alpha20.1": {
+                "buildid": "8094559",
+                "description": "Alpha 20.1 Stable",
+                "timeupdated": "1643751053"
+            },
+            "alpha20.2": {
+                "buildid": "8148950",
+                "description": "Alpha 20.2 Stable",
+                "timeupdated": "1644269405"
+            },
+            "alpha20.3": {
+                "buildid": "8246198",
+                "description": "Alpha 20.3 Stable",
+                "timeupdated": "1645571046"
+            },
+            "alpha8.8": {
+                "buildid": "334790",
+                "description": "Alpha 8.8 Stable"
+            },
+            "alpha9.3": {
+                "buildid": "385244",
+                "description": "Alpha 9.3 Stable"
+            },
+            "test": {
+                "buildid": "7678074",
+                "description": "Stream Emergency",
+                "pwdrequired": "1",
+                "timeupdated": "1636590225"
+            },
+            "testing_branch": {
+                "buildid": "8356473",
+                "description": "Branch version, i.e. fixes for prior release",
+                "pwdrequired": "1",
+                "timeupdated": "1647026067"
+            },
+            "testing_branch_alt": {
+                "buildid": "7993282",
+                "description": "Branch version, alternate build (e.g. Unity version)",
+                "pwdrequired": "1",
+                "timeupdated": "1642003973"
+            },
+            "testing_trunk": {
+                "buildid": "8358495",
+                "description": "Trunk version, latest new feature builds",
+                "pwdrequired": "1",
+                "timeupdated": "1647059160"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14209020,
+    "_sha": "21f0b7baaf6378f6fd3f23c92979d249157e0ead",
+    "_size": 7193
+}

@@ -1,0 +1,136 @@
+{
+    "appid": "1420710",
+    "common": {
+        "name": "Night of the Dead Dedicated Server",
+        "type": "Tool",
+        "parent": "1377380",
+        "logo": "6fc7c46d355e2467f3256b9cfcf7668e2269f21d",
+        "logo_small": "6fc7c46d355e2467f3256b9cfcf7668e2269f21d_thumb",
+        "icon": "eabc19352fa06b87cef3e75245114cf8e3363503",
+        "clienticon": "c750f8c6ab4b905b051da9388e837511ecb08873",
+        "clienttga": "750e8ccbffb50e1a25ed9ecdf95d6826bce6099a",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "gameid": "1420710"
+    },
+    "extended": {
+        "gamedir": "NightOfTheDead",
+        "serverbrowsername": "Night of the Dead"
+    },
+    "config": {
+        "installdir": "Night of the Dead Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "StartServer.bat",
+                "type": "none"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1420711": {
+            "name": "Night of the Dead Dedicated Server Content",
+            "manifests": {
+                "public": "3771050463460587124",
+                "beta_shipping": "8114590562795738887"
+            },
+            "maxsize": "2029000617",
+            "encryptedmanifests": {
+                "alpha_development": {
+                    "encrypted_gid_2": "695CD3B2958F6F1EC26EF4E3108BF25B",
+                    "encrypted_size_2": "78A1A9785A2A3E496FB77CD0923C5DC6"
+                },
+                "pre-alpha_development": {
+                    "encrypted_gid_2": "5EBC013DA1E28FDDF9FA2BC85A07DB28",
+                    "encrypted_size_2": "C7B3D91ED7D402FFFE7F496627C2BF21"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8257638",
+                "timeupdated": "1645663776"
+            },
+            "alpha_development": {
+                "buildid": "8248880",
+                "description": "Alpha development branch",
+                "pwdrequired": "1",
+                "timeupdated": "1645501367"
+            },
+            "alpha_shipping": {
+                "buildid": "8257638",
+                "description": "Alpha shipping branch",
+                "pwdrequired": "1",
+                "timeupdated": "1645603786"
+            },
+            "beta_shipping": {
+                "buildid": "8241534",
+                "description": "Beta shipping branch",
+                "timeupdated": "1645423461"
+            },
+            "pre-alpha_development": {
+                "buildid": "8355253",
+                "description": "Pre-alpha development branch",
+                "pwdrequired": "1",
+                "timeupdated": "1647012857"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14200067,
+    "_sha": "daa7db3c8b19fb5d754ae90c3de76810e6f041bf",
+    "_size": 3077
+}

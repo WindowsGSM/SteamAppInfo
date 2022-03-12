@@ -1,0 +1,226 @@
+{
+    "appid": "1690800",
+    "common": {
+        "name": "Satisfactory Dedicated Server",
+        "type": "Tool",
+        "parent": "526870",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "osextended": "",
+        "clienticon": "b830a7fe1880ee85614322be91d9903078708945",
+        "clienttga": "241bffea0b057c62689441b289bb6fd3a960823d",
+        "icon": "ff894b01499d6f8cfb53bba894b6624bc22cefbb",
+        "logo": "d051096ae8bc6094e4c6e05ecb345a536871563c",
+        "logo_small": "d051096ae8bc6094e4c6e05ecb345a536871563c_thumb",
+        "releasestate": "released",
+        "gameid": "1690800"
+    },
+    "config": {
+        "installdir": "SatisfactoryDedicatedServer",
+        "launch": {
+            "0": {
+                "executable": "FactoryServer.exe",
+                "arguments": "-log -unattended",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "FactoryServer.sh",
+                "type": "default",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "1690801": {
+            "name": "Satisfactory Dedicated Server Content - Windows",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "7742519031234093442",
+                "experimental": "6130893924764917111"
+            },
+            "maxsize": "8862176455",
+            "encryptedmanifests": {
+                "integration-test": {
+                    "encrypted_gid_2": "930CDF3434294AE3B5B93DDD06943EF9",
+                    "encrypted_size_2": "69483DD54FB7E9FC6EE97AD358E1FDE6"
+                },
+                "internal": {
+                    "encrypted_gid_2": "B7691DA2960E656EBEB83289738D4102",
+                    "encrypted_size_2": "86E076E4928D5E81AE86DAB63EC530BD"
+                },
+                "internal2": {
+                    "encrypted_gid_2": "E0B6F41C8515AEC6DFC0783E8CE67CA3",
+                    "encrypted_size_2": "F894164B39CE5013D3B9D2BD9A03F7F3"
+                },
+                "internal3": {
+                    "encrypted_gid_2": "0BC12F4E7B9813B895E99F1FC9A7FE1C",
+                    "encrypted_size_2": "E3D7F71D519FA003BC4E5FAD84CAC216"
+                },
+                "internal4": {
+                    "encrypted_gid_2": "5FFE4AF5486256CAC947DD79B4C04F82",
+                    "encrypted_size_2": "54D320F165077BBE797BDE2AB8653CCB"
+                },
+                "nightly": {
+                    "encrypted_gid_2": "9765C9CABAD00C356B97DD4151E72DA6",
+                    "encrypted_size_2": "CE2F1E027BB1B19E7B3A95183DD8B20F"
+                },
+                "patching": {
+                    "encrypted_gid_2": "4C142191DB302EEE1AF4F76C23431EC4",
+                    "encrypted_size_2": "BD66E1B223AF2C3EAAF83D441DD84845"
+                },
+                "staging": {
+                    "encrypted_gid_2": "D2D559C2DA9521E4A5BFBBC4952F5606",
+                    "encrypted_size_2": "5816BE3489498E19451CAE3DFCD0F2BE"
+                }
+            }
+        },
+        "1690802": {
+            "name": "Satisfactory Dedicated Server Depot - Linux",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "2341403372738162326",
+                "experimental": "5528617013087024007"
+            },
+            "maxsize": "6401278895",
+            "encryptedmanifests": {
+                "integration-test": {
+                    "encrypted_gid_2": "48D55D81FF4FD9A851AC5BC2B38C2198",
+                    "encrypted_size_2": "0C7EBB8DABFF91E604A472470CF9900B"
+                },
+                "internal": {
+                    "encrypted_gid_2": "ACDE7AA3C551948EAD997D86B262B690",
+                    "encrypted_size_2": "30B3F919B2E8C4C8E066C90C979B624A"
+                },
+                "internal2": {
+                    "encrypted_gid_2": "6C553E7847BABBD821A17838826835F2",
+                    "encrypted_size_2": "D8633FCAB8BF3A22B825BAD93536B3C3"
+                },
+                "internal3": {
+                    "encrypted_gid_2": "996AEB343107F60C9594CE5D9EE4CAA3",
+                    "encrypted_size_2": "498976064DDC3BC6D1F1FCBA61514E73"
+                },
+                "internal4": {
+                    "encrypted_gid_2": "045CF413CB9723D2AF862447FE975885",
+                    "encrypted_size_2": "D2EE5C7B934A70C5F26DEFE0E017834C"
+                },
+                "nightly": {
+                    "encrypted_gid_2": "43C45B5D800E69A443E5291A47EDF481",
+                    "encrypted_size_2": "FF626A1B57DB2E503B979A509E9CC304"
+                },
+                "patching": {
+                    "encrypted_gid_2": "B516058CEA330AE47BFE4CC41D201948",
+                    "encrypted_size_2": "2D6BCF7872CBA4E395AE836BA6FD53C8"
+                },
+                "staging": {
+                    "encrypted_gid_2": "25AA401302F72F25B9F8762694D1F1CD",
+                    "encrypted_size_2": "91B2550E530EEF44AFE80B0D4A394525"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8118685",
+                "timeupdated": "1643900208"
+            },
+            "experimental": {
+                "buildid": "8246225",
+                "description": "",
+                "timeupdated": "1645522696"
+            },
+            "integration-test": {
+                "buildid": "7816438",
+                "description": "Branch _dedicated_ for integration testing",
+                "pwdrequired": "1",
+                "timeupdated": "1638456504"
+            },
+            "internal": {
+                "buildid": "8213672",
+                "description": "For in-house testing purposes only",
+                "pwdrequired": "1",
+                "timeupdated": "1645015255"
+            },
+            "internal2": {
+                "buildid": "8157674",
+                "description": "For in-house testing purposes only",
+                "pwdrequired": "1",
+                "timeupdated": "1644233081"
+            },
+            "internal3": {
+                "buildid": "8098096",
+                "description": "For in-house testing purposes only",
+                "pwdrequired": "1",
+                "timeupdated": "1643296007"
+            },
+            "internal4": {
+                "buildid": "8145211",
+                "description": "For in-house testing purposes only",
+                "pwdrequired": "1",
+                "timeupdated": "1643977221"
+            },
+            "nightly": {
+                "buildid": "8350534",
+                "description": "Release builds of the game built every night",
+                "pwdrequired": "1",
+                "timeupdated": "1646952940"
+            },
+            "patching": {
+                "buildid": "8246225",
+                "description": "Branch for patching",
+                "pwdrequired": "1",
+                "timeupdated": "1645466035"
+            },
+            "staging": {
+                "buildid": "8314097",
+                "description": "Shipping builds of the game built when closing into a new patch to experimental or main",
+                "pwdrequired": "1",
+                "timeupdated": "1646395385"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "e5b626a11f1c1a35b79db3438dcaf7d17b1cfee8",
+    "_size": 6046
+}

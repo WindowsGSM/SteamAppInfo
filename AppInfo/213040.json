@@ -1,0 +1,53 @@
+{
+    "appid": "213040",
+    "common": {
+        "name": "ORION: Prelude Dedicated Server",
+        "type": "Tool",
+        "oslist": "",
+        "clienttga": "6552964fe6dc05535d72fa0871a91dcc8d8b6f2e",
+        "icon": "db21c7f8cbb6ef12c05b9d712096e0022d2ee8c8",
+        "gameid": "213040"
+    },
+    "extended": {
+        "developer": "",
+        "gamedir": "DinoBeatdownServer",
+        "homepage": "",
+        "icon": "",
+        "installscript": "Binaries\\Win32\\installscript.vdf",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "213041",
+        "serverbrowsername": "",
+        "state": "eStateTool"
+    },
+    "config": {
+        "launch": {
+            "0": {
+                "executable": "Binaries/Win32/DHGameServer.exe"
+            }
+        },
+        "contenttype": "3",
+        "installdir": "DinoBeatdownServer"
+    },
+    "depots": {
+        "213041": {
+            "name": "DB Server",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "8902071649473034224"
+            },
+            "maxsize": "1327212040"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "1701326",
+                "timeupdated": "1574378788"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "29990a79e67887458dfbb4deaf520327b772285a",
+    "_size": 980
+}

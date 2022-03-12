@@ -1,0 +1,118 @@
+{
+    "appid": "1587690",
+    "common": {
+        "name": "EZ2ON REBOOT : R (Test Server)",
+        "type": "Game",
+        "logo": "05675caf50bd82a756b709f53b2657324f94b87a",
+        "logo_small": "05675caf50bd82a756b709f53b2657324f94b87a_thumb",
+        "icon": "0ca3faa069ce0a1d30b0b817b38d1cdd768169de",
+        "clienttga": "d2583a2388af66b9acc3304ae1fceb0015156717",
+        "clienticon": "88c0e1bbed70c839634902763e2f041899b76d09",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "releasestate": "released",
+        "community_hub_visible": "1",
+        "gameid": "1587690",
+        "store_tags": {
+            "0": "1752",
+            "1": "19",
+            "2": "1621",
+            "3": "1774",
+            "4": "61357",
+            "5": "1625",
+            "6": "1773",
+            "7": "5125",
+            "8": "3871",
+            "9": "3942",
+            "10": "4726",
+            "11": "7250",
+            "12": "599",
+            "13": "4305",
+            "14": "4195",
+            "15": "4085",
+            "16": "597",
+            "17": "1684",
+            "18": "1775",
+            "19": "4166"
+        }
+    },
+    "config": {
+        "installdir": "EZ2ON REBOOT  R (Test Server)",
+        "launch": {
+            "0": {
+                "executable": "EZ2ON.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "name": ".NET 4.5.2 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "70000464",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1587691": {
+            "name": "EZ2ON REBOOT : R (Test Server) Content",
+            "manifests": {
+                "public": "312434952690418905"
+            },
+            "encryptedmanifests": {
+                "factory": {
+                    "encrypted_gid_2": "FB4DC645A3739601C8353911E68CBBFA",
+                    "encrypted_size_2": "3DDBC0CC875552B0CC9CBD1E1E015327"
+                },
+                "valvetest": {
+                    "encrypted_gid_2": "893867E7B33C2E2F7CF213CBBBB35134",
+                    "encrypted_size_2": "4ED1F643088AFC249BD1F770A40A46DF"
+                }
+            }
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "6919161",
+                "timeupdated": "1633636805"
+            },
+            "factory": {
+                "buildid": "8154499",
+                "description": "factory",
+                "pwdrequired": "1",
+                "timeupdated": "1644168826"
+            },
+            "valvetest": {
+                "buildid": "6954348",
+                "description": "test",
+                "pwdrequired": "1",
+                "timeupdated": "1625015405"
+            }
+        }
+    },
+    "ufs": {
+        "quota": "5242880",
+        "maxnumfiles": "200"
+    },
+    "_missing_token": false,
+    "_change_number": 13877881,
+    "_sha": "7f1b19a2163e68194e14a3e84ac9a9080e8c578e",
+    "_size": 2405
+}

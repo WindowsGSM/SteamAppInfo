@@ -1,0 +1,190 @@
+{
+    "appid": "90",
+    "common": {
+        "type": "Tool",
+        "name": "Half-Life Dedicated Server",
+        "oslist": "",
+        "gameid": "90"
+    },
+    "extended": {
+        "checkpkgstate": "1",
+        "developer": "",
+        "gamedir": "ValveTestApp90",
+        "homepage": "",
+        "icon": "",
+        "noservers": "0",
+        "sourcegame": "1",
+        "state": "eStateComingSoonNoPreload",
+        "visibleonlywhensubscribed": "1"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Half-Life",
+        "launch": {
+            "0": {
+                "executable": "hlds.exe",
+                "arguments": "-steam",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1": {
+            "name": "Base Goldsrc Shared Content",
+            "systemdefined": "1",
+            "config": {
+                "language": ""
+            },
+            "maxsize": "429833890",
+            "depotfromapp": "70",
+            "sharedinstall": "2"
+        },
+        "11": {
+            "name": "Counter-Strike Base Content",
+            "systemdefined": "1",
+            "maxsize": "292616113",
+            "depotfromapp": "10",
+            "sharedinstall": "2"
+        },
+        "4": {
+            "name": "Linux dedicated server",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "8690279432129063737"
+            },
+            "maxsize": "25737094"
+        },
+        "5": {
+            "name": "Windows Dedicated Server",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "1292976893473204445"
+            },
+            "maxsize": "12788205"
+        },
+        "71": {
+            "name": "Half-Life Base Content",
+            "systemdefined": "1",
+            "config": {
+                "language": ""
+            },
+            "maxsize": "15302314",
+            "depotfromapp": "70",
+            "sharedinstall": "2"
+        },
+        "81": {
+            "name": "Condition Zero Base Content",
+            "systemdefined": "1",
+            "maxsize": "415387682",
+            "depotfromapp": "80",
+            "sharedinstall": "2",
+            "config": {
+                "mod": "czero"
+            }
+        },
+        "31": {
+            "name": "Day of Defeat Base Content",
+            "systemdefined": "1",
+            "maxsize": "391387184",
+            "depotfromapp": "30",
+            "sharedinstall": "2",
+            "config": {
+                "mod": "dod"
+            }
+        },
+        "21": {
+            "name": "Team Fortress Classic Base Content",
+            "systemdefined": "1",
+            "maxsize": "124989202",
+            "depotfromapp": "20",
+            "sharedinstall": "2",
+            "config": {
+                "mod": "tfc"
+            }
+        },
+        "41": {
+            "name": "Deathmatch Classic Base Content",
+            "systemdefined": "1",
+            "maxsize": "48239254",
+            "depotfromapp": "40",
+            "sharedinstall": "2",
+            "config": {
+                "mod": "dmc"
+            }
+        },
+        "61": {
+            "name": "Ricochet Base Content",
+            "systemdefined": "1",
+            "maxsize": "17605146",
+            "depotfromapp": "60",
+            "sharedinstall": "2",
+            "config": {
+                "mod": "ricochet"
+            }
+        },
+        "51": {
+            "name": "Opposing Force Base Content",
+            "systemdefined": "1",
+            "maxsize": "286265390",
+            "depotfromapp": "50",
+            "sharedinstall": "2",
+            "config": {
+                "mod": "gearbox"
+            }
+        },
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "5433925",
+                "timeupdated": "1597950363"
+            },
+            "beta": {
+                "buildid": "5433925",
+                "description": "",
+                "timeupdated": "1597870506"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "3f1467b652fd42090157533c67bc6a37d65f1949",
+    "_size": 3508
+}

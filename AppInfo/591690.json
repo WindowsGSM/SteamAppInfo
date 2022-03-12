@@ -1,0 +1,76 @@
+{
+    "appid": "591690",
+    "common": {
+        "name": "The Dome Dedicated Servers",
+        "type": "Tool",
+        "parent": "556840",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "64",
+        "icon": "1f09a4f661b2101961c7be2902551ef005f86b45",
+        "logo": "f822f769260e87037df1ef43de7eaf727695a354",
+        "logo_small": "f822f769260e87037df1ef43de7eaf727695a354_thumb",
+        "clienticon": "a234c0a91b519f1aad0f0f2bdf7083c3cb659067",
+        "clienttga": "892170172f3cd27a88ef4ddbca36f31851d84835",
+        "associations": {},
+        "gameid": "591690"
+    },
+    "config": {
+        "installdir": "The Dome Dedicated Servers",
+        "launch": {
+            "0": {
+                "executable": "\\FightBack\\StartServer.bat",
+                "arguments": "-log",
+                "workingdir": "\\FightBack",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "228986": {
+            "name": "VC 2015 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29759921",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "591692": {
+            "name": "The Dome Dedicated Servers",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "4611374554012389357"
+            },
+            "maxsize": "8050797486"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1718783",
+                "timeupdated": "1490666100"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "d75bc191a2911f3b3ff48b32fb142bbc7ec04e52",
+    "_size": 1539
+}

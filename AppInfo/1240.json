@@ -1,0 +1,81 @@
+{
+    "appid": "1240",
+    "common": {
+        "name": "Mare Nostrum Dedicated Server",
+        "clienttga": "4bd10d94817a60b1ed6ae8c025606c6a53f172da",
+        "icon": "1e1f56340d2d98a66a9b357257be8e020fb6061f",
+        "clienticon": "1115cc0990f96131fdbe2db78475f847f7bae850",
+        "logo": "20a8fcbd0b0cf03ef06037c9e6c4e0afcc78986e",
+        "logo_small": "20a8fcbd0b0cf03ef06037c9e6c4e0afcc78986e_thumb",
+        "type": "Tool",
+        "gameid": "1240"
+    },
+    "extended": {
+        "developer": "Sandstorm Productions",
+        "gamedir": "MareNostrumDedicated",
+        "homepage": "http://www.marenostrumgame.com/",
+        "icon": "",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "1241",
+        "serverbrowsername": "",
+        "state": "eStateTool"
+    },
+    "config": {
+        "launch": {
+            "0": {
+                "description": "MareNostrumServer",
+                "executable": "System\\ucc.exe"
+            }
+        },
+        "contenttype": "3",
+        "installdir": "MareNostrumDedicated"
+    },
+    "depots": {
+        "1202": {
+            "name": "RedOrchestraClient",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "4949883742343107584"
+            },
+            "maxsize": "1625991025",
+            "depotfromapp": "1200"
+        },
+        "1201": {
+            "name": "RedOrchestraCommon",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "6489912254443979140"
+            },
+            "maxsize": "1117646336",
+            "depotfromapp": "1200"
+        },
+        "1241": {
+            "name": "MareNostrumServer",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "8298327769126191331"
+            },
+            "maxsize": "180335411"
+        },
+        "1231": {
+            "name": "MareNostrumCommon",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "5587099044393371997"
+            },
+            "maxsize": "612378981",
+            "depotfromapp": "1230"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "52124"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "e447d9a0f06cd35c27f8789d6b3241645a4323e3",
+    "_size": 1687
+}

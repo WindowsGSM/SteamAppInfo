@@ -1,0 +1,92 @@
+{
+    "appid": "582400",
+    "common": {
+        "name": "Alien Swarm: Reactive Drop Dedicated Server",
+        "type": "Tool",
+        "parent": "563560",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "",
+        "icon": "ebb7491e0400dacd15f6d09b4226ca8ee71dc1b7",
+        "logo": "22eb8626af99c447b422df3a28f2b4c395e94576",
+        "logo_small": "22eb8626af99c447b422df3a28f2b4c395e94576_thumb",
+        "clienticon": "b38c50b6c3dea460c3d50f19f65deacee9a63aa9",
+        "clienttga": "020b464639e70c25a8a9024e1101caf17bc26964",
+        "osextended": "",
+        "metacritic_name": "Alien Swarm: Reactive Drop Dedicated Server",
+        "associations": {},
+        "steam_release_date": "1492708020",
+        "gameid": "582400",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "Alien Swarm Reactive Drop",
+        "launch": {
+            "0": {
+                "executable": "srcds.exe",
+                "arguments": "-game reactivedrop",
+                "type": "none"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "563561": {
+            "name": "Alien Swarm: Reactive Drop Content",
+            "maxsize": "4291559664",
+            "depotfromapp": "563560",
+            "sharedinstall": "2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8350903",
+                "timeupdated": "1646964563"
+            },
+            "beta": {
+                "buildid": "8350202",
+                "description": "",
+                "timeupdated": "1646948598"
+            },
+            "bugtest": {
+                "buildid": "8071209",
+                "description": "Used to rolling back the game to previous versions to test bugs.",
+                "timeupdated": "1643017900"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "7051ad492e9000dd1100402d28adab566f76ea5a",
+    "_size": 2019
+}

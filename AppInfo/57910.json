@@ -1,0 +1,132 @@
+{
+    "appid": "57910",
+    "common": {
+        "name": "Duke Nukem Forever Dedicated Server",
+        "clienticon": "22db14856c7483fd1af8e2b900fde0a2b44212a3",
+        "clienttga": "0f1e1b46f86dad58bbded1317953738c92062dca",
+        "icon": "3db4fa63950e54b6d418ccdc95cc34fba11a164a",
+        "type": "Tool",
+        "gameid": "57910"
+    },
+    "extended": {
+        "developer": "",
+        "gamedir": "Duke Nukem Forever Server Launcher",
+        "homepage": "",
+        "icon": "",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "57911",
+        "serverbrowsername": "",
+        "state": "eStateTool"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Duke Nukem Forever",
+        "launch": {
+            "0": {
+                "executable": "System\\ServerLauncher\\DedicatedServerLauncher.exe"
+            }
+        }
+    },
+    "depots": {
+        "57925": {
+            "name": "DNF_DLC03",
+            "config": {
+                "oslist": "windows"
+            },
+            "optional": "1",
+            "systemdefined": "1",
+            "maxsize": "1734790874",
+            "dlcappid": "57925",
+            "depotfromapp": "57900",
+            "sharedinstall": "2"
+        },
+        "57924": {
+            "name": "DNF_DLC02",
+            "config": {
+                "oslist": "windows"
+            },
+            "optional": "1",
+            "systemdefined": "1",
+            "maxsize": "120233822",
+            "dlcappid": "57924",
+            "depotfromapp": "57900",
+            "sharedinstall": "2"
+        },
+        "57923": {
+            "name": "DNF_DLC01",
+            "config": {
+                "oslist": "windows"
+            },
+            "optional": "1",
+            "systemdefined": "1",
+            "maxsize": "212009854",
+            "dlcappid": "57923",
+            "depotfromapp": "57900",
+            "sharedinstall": "2"
+        },
+        "57922": {
+            "name": "Duke's Big Package WW",
+            "config": {
+                "oslist": "windows"
+            },
+            "optional": "1",
+            "systemdefined": "1",
+            "maxsize": "652",
+            "dlcappid": "57922",
+            "depotfromapp": "57900",
+            "sharedinstall": "2"
+        },
+        "57921": {
+            "name": "Duke's Big Package NA",
+            "config": {
+                "oslist": "windows"
+            },
+            "optional": "1",
+            "systemdefined": "1",
+            "maxsize": "650",
+            "dlcappid": "57921",
+            "depotfromapp": "57900",
+            "sharedinstall": "2"
+        },
+        "57902": {
+            "name": "Buckeye Default Content",
+            "config": {
+                "oslist": "windows"
+            },
+            "systemdefined": "1",
+            "maxsize": "6614630148",
+            "depotfromapp": "57900",
+            "sharedinstall": "2"
+        },
+        "57901": {
+            "name": "Buckeye Binaries",
+            "config": {
+                "oslist": "windows"
+            },
+            "optional": "1",
+            "systemdefined": "1",
+            "maxsize": "141310652",
+            "depotfromapp": "57900",
+            "sharedinstall": "2"
+        },
+        "57911": {
+            "name": "DNFServerLauncher",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "8623698278872831503"
+            },
+            "maxsize": "623912"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "52342"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "a2db613e1993908cf1aecf1d465dbf5eab92f9a0",
+    "_size": 2554
+}

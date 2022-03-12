@@ -1,0 +1,154 @@
+{
+    "appid": "1932270",
+    "common": {
+        "name": "Condemned Dedicated Server",
+        "type": "Tool",
+        "parent": "1647090",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "name_localized": {},
+        "clienttga": "580d628497bf3fcc27b085f3bb991645be81ce3c",
+        "icon": "89424985b98d8d02ef8a6d42242f047e28dea460",
+        "logo": "e4a0f62da8031c8bd73ea320ad40f2817099ae8c",
+        "logo_small": "e4a0f62da8031c8bd73ea320ad40f2817099ae8c_thumb",
+        "clienticon": "4b197d09a0754b5caf53557fcc9d9f11bab93cd2",
+        "releasestate": "released",
+        "gameid": "1932270",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "WindowsServer",
+        "launch": {
+            "0": {
+                "executable": "CondemnedServer.exe",
+                "arguments": " -log -SteamServerName=\"My Condemned Server\"",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229001": {
+            "name": ".NET 3.5 Client Profile Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "267964564",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "name": ".NET 4.0 Client Profile Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "43001447",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "name": ".NET 4.8 Redis",
+            "config": {
+                "language": ""
+            },
+            "maxsize": "117381405",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "name": "XNA 4.0 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "7061608",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "name": "PhysX System Software 9.14.0702",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "60039803",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1932271": {
+            "name": "Dedicated Server Content",
+            "manifests": {
+                "public": "7049509098929678507"
+            },
+            "maxsize": "419059527"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8349739",
+                "timeupdated": "1646942645"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "3cb32d65010c4149ca634799c19f4407a0affd4e",
+    "_size": 3097
+}

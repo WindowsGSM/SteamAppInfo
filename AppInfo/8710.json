@@ -1,0 +1,65 @@
+{
+    "appid": "8710",
+    "common": {
+        "name": "STCC - The Game Demo Dedicated Server",
+        "type": "Tool",
+        "freeondemand": "1",
+        "gameid": "8710"
+    },
+    "extended": {
+        "developer": "SimBin Studios",
+        "gamedir": "STCC Demo Dedicated Server",
+        "homepage": "http://game.stcc.se/",
+        "icon": "",
+        "loadallbeforelaunch": "1",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "8701",
+        "serverbrowsername": "",
+        "state": "eStateTool"
+    },
+    "config": {
+        "contenttype": "3",
+        "convertgcfs": "1",
+        "installdir": "STCC Demo Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "STCC_Demo_Dedicated_Steam.exe"
+            }
+        }
+    },
+    "depots": {
+        "overridescddb": "1",
+        "8701": {
+            "name": "STCC Demo Files",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "754530197296991187"
+            },
+            "maxsize": "438399926",
+            "depotfromapp": "8700"
+        },
+        "1004": {
+            "name": "Steamworks SDK Redist (Win32)",
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "3578600867548439549"
+            },
+            "maxsize": "9662208",
+            "depotfromapp": "1002"
+        },
+        "markdlcdepots": "1",
+        "branches": {
+            "public": {
+                "buildid": "82804"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "a98fd51fe97a61b9c9e258c36dec8a72426b0f5a",
+    "_size": 1176
+}

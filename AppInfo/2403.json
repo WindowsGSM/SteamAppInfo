@@ -1,0 +1,87 @@
+{
+    "appid": "2403",
+    "common": {
+        "clienttga": "1c375e076ab5363393c8bbbdc977f43c7dec735b",
+        "icon": "",
+        "logo": "",
+        "logo_small": "",
+        "name": "The Ship Dedicated Server",
+        "type": "Tool",
+        "freeondemand": "1",
+        "gameid": "2403"
+    },
+    "extended": {
+        "developer": "Outerlight",
+        "gamedir": "The Ship Dedicated Server",
+        "homepage": "http://www.theshiponline.com/",
+        "icon": "steam/games/icon_theship",
+        "noservers": "1",
+        "order": "1",
+        "primarycache": "2403",
+        "serverbrowsername": "",
+        "state": "eStateTool"
+    },
+    "config": {
+        "launch": {
+            "0": {
+                "executable": "srcds.exe",
+                "arguments": "-steam"
+            }
+        },
+        "contenttype": "3",
+        "installdir": "The Ship Dedicated Server"
+    },
+    "depots": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "2402": {
+            "name": "The Ship Common",
+            "manifests": {
+                "public": "8303288114589836248"
+            },
+            "maxsize": "1446885673"
+        },
+        "2403": {
+            "name": "The Ship Dedicated Server",
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "8722860073900922258"
+            },
+            "maxsize": "36520107"
+        },
+        "2404": {
+            "name": "The Ship Linux Dedicated Server",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "1873221889569911637"
+            },
+            "maxsize": "55352152"
+        },
+        "1004": {
+            "name": "Steamworks SDK Redist (Win32)",
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "3578600867548439549"
+            },
+            "maxsize": "9662208",
+            "depotfromapp": "1002"
+        },
+        "branches": {
+            "public": {
+                "buildid": "65017"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "7eaa0d5c4364c146ebe7b8ed1b98fc689091723c",
+    "_size": 1606
+}

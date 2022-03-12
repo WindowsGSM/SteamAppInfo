@@ -1,0 +1,200 @@
+{
+    "appid": "1624070",
+    "common": {
+        "name": "ArtemisheaServer",
+        "type": "Tool",
+        "parent": "1555220",
+        "releasestate": "released",
+        "icon": "d7d4f4f8de0183594d522bef36a7411f8183c4a8",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "clienticon": "01e2cd08d40dcd9be38a670252176dcbdd9fe327",
+        "clienttga": "a4d22e8d8ac0270d153e51a27e8310f7b3d44a6d",
+        "logo": "62bba987fa6f918eeac61ed131c042b81b5c103b",
+        "logo_small": "62bba987fa6f918eeac61ed131c042b81b5c103b_thumb",
+        "community_hub_visible": "1",
+        "gameid": "1624070"
+    },
+    "extended": {
+        "gamedir": "artemishea",
+        "serverbrowsername": "artemisheaserver"
+    },
+    "config": {
+        "installdir": "ArtemisheaServer",
+        "launch": {
+            "0": {
+                "executable": "ArtemisheaServer.exe",
+                "type": "none"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228983": {
+            "name": "VC 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "19265607",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "name": ".NET 3.5 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "242743889",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "name": ".NET 4.0 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "50450161",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "name": ".NET 4.8 Redis",
+            "config": {
+                "language": ""
+            },
+            "maxsize": "117381405",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229010": {
+            "name": "XNA 3.0 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "7982688",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "name": "XNA 4.0 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "7061608",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229030": {
+            "name": "PhysX System Software 8.09.04",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "51790718",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "name": "PhysX System Software 9.14.0702",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "60039803",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1624071": {
+            "name": "ArtemisheaServer Content",
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "1178824625425002051"
+            },
+            "maxsize": "4917727637",
+            "encryptedmanifests": {
+                "developmentserver": {
+                    "encrypted_gid_2": "2F5BA573DC3CC757B0DA15E37F8DA128",
+                    "encrypted_size_2": "767825771FD67FDD2DF3CF3AE9A20866"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8152760",
+                "timeupdated": "1644114200"
+            },
+            "developmentserver": {
+                "buildid": "7851790",
+                "description": "PrivateDevServer",
+                "pwdrequired": "1",
+                "timeupdated": "1639012747"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "42ceb993d388e5d62253b98b07a1d0c8c1d1a14c",
+    "_size": 4038
+}

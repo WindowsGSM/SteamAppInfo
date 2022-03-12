@@ -1,0 +1,135 @@
+{
+    "appid": "764940",
+    "common": {
+        "name": "Fear the Night Server",
+        "type": "Tool",
+        "parent": "764920",
+        "releasestate": "released",
+        "clienticon": "388c0db1f430aa5f6a644d34a50fe6f0f3f43d46",
+        "clienttga": "4379e4f8ca2f8a2242d5261054349f7455069106",
+        "icon": "dc2a91711ec39320dc810d0672304b22b4203778",
+        "logo": "4a2e9d7ed6aa0c6ab1115006f318cee4c6382bc2",
+        "logo_small": "4a2e9d7ed6aa0c6ab1115006f318cee4c6382bc2_thumb",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "associations": {},
+        "gameid": "764940"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "installdir": "FearTheNight Server",
+        "launch": {
+            "0": {
+                "executable": "Moonlight\\Binaries\\Win64\\MoonlightServer.exe",
+                "arguments": "Pittsburgh_Overworld -game -server -log",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "764941": {
+            "name": "FearTheNight Server Content",
+            "manifests": {
+                "public": "7913085070455886489"
+            },
+            "maxsize": "1951218992",
+            "encryptedmanifests": {
+                "release": {
+                    "encrypted_gid_2": "6526F5C1C464106601911F8468FCFC17",
+                    "encrypted_size_2": "43862348F8097C985B1CD493FD66EE38"
+                },
+                "staging": {
+                    "encrypted_gid_2": "E12BC4492F7F2F13744904D38C09B0A2",
+                    "encrypted_size_2": "4FCD0DDAD210DF809986F15593077D2C"
+                },
+                "testing": {
+                    "encrypted_gid_2": "049B65866289CEB8C10215569B7F14C9",
+                    "encrypted_size_2": "AA799B7F633D254D3415A58A76C0BD58"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "4038693",
+                "timeupdated": "1563937825"
+            },
+            "internal": {
+                "buildid": "4038693",
+                "description": "Branch for testing builds internally",
+                "pwdrequired": "1",
+                "timeupdated": "1563930672"
+            },
+            "release": {
+                "buildid": "4018298",
+                "description": "Public version test",
+                "pwdrequired": "1",
+                "timeupdated": "1563348273"
+            },
+            "staging": {
+                "buildid": "3453126",
+                "description": "Branch for testing Staging builds internally",
+                "pwdrequired": "1",
+                "timeupdated": "1547517701"
+            },
+            "testing": {
+                "buildid": "3633759",
+                "description": "Branch for engineering to test builds",
+                "pwdrequired": "1",
+                "timeupdated": "1552289129"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "5f6402bf2f8b71a3bccacd59adb9e40319835791",
+    "_size": 3081
+}

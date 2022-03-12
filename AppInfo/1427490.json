@@ -1,0 +1,121 @@
+{
+    "appid": "1427490",
+    "common": {
+        "name": "ExoCorps Dedicated Server",
+        "type": "Tool",
+        "parent": "368040",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "",
+        "osextended": "",
+        "logo": "c42195215c7ca392d0ae3c8596517f05b37d8f50",
+        "logo_small": "c42195215c7ca392d0ae3c8596517f05b37d8f50_thumb",
+        "icon": "99f8e2fdf6da5625718f71815956e29d30a533f0",
+        "clienticon": "3bbf47e30ccc5ab44e1723511846772aabad28d3",
+        "gameid": "1427490"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "installdir": "ExoCorps Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "Binaries/Win32/UDKGameServer-Win32-Shipping.exe",
+                "arguments": "DM-Strata.udk -seekfreeloadingserver",
+                "workingdir": "Binaries/Win32/",
+                "type": "default"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228983": {
+            "name": "VC 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "19265607",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1427491": {
+            "name": "ExoCorps Dedicated Server Content",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": "1921350961317508505"
+            },
+            "maxsize": "1101293809"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8357831",
+                "timeupdated": "1647049060"
+            },
+            "prerelease": {
+                "buildid": "8357831",
+                "description": "Developer use for testing before deploying to default branch",
+                "pwdrequired": "1",
+                "timeupdated": "1647045429"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14204863,
+    "_sha": "547c887d9f0576006318bf52b62b8b56aa1e624b",
+    "_size": 2479
+}

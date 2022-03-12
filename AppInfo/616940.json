@@ -1,0 +1,92 @@
+{
+    "appid": "616940",
+    "common": {
+        "name": "Cobalt WASD Dedicated Server",
+        "type": "Tool",
+        "parent": "590720",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "",
+        "logo": "5de002ba4fbaa9244d917ca636135c0cfd5b3406",
+        "logo_small": "5de002ba4fbaa9244d917ca636135c0cfd5b3406_thumb",
+        "icon": "6d8dafda727834d687f1b28c4cd3ad08f0c14667",
+        "clienticon": "9ee88b48f59765256748d9ba3f66236240d17591",
+        "clienttga": "e1d2db0be5f5a32f68aa4a09e6497a781813adc8",
+        "associations": {},
+        "gameid": "616940",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "Cobalt WASD Dedicated Server",
+        "launch": {
+            "1": {
+                "executable": "cobalt_dedicated.exe",
+                "arguments": "-bundle-dir bundle -mods_forced official/Lithium -host_game -mode js",
+                "type": "server"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "616941": {
+            "name": "Cobalt W.A.S.D. Dedicated Server Content",
+            "manifests": {
+                "public": "1273782636912149618"
+            },
+            "maxsize": "11970269",
+            "encryptedmanifests": {
+                "experimental": {
+                    "encrypted_gid_2": "A92BC8FF729F22E31A3C988E14E0FD4D",
+                    "encrypted_size_2": "FD72992177165D46DC874AC2824D6B65"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "6271855",
+                "timeupdated": "1613905961"
+            },
+            "experimental": {
+                "buildid": "6221911",
+                "description": "testing out balance rework",
+                "pwdrequired": "1",
+                "timeupdated": "1613003676"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "5e5ee8e8a5832f5e31d4ce92ebeddd10b7001ed6",
+    "_size": 2035
+}

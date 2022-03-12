@@ -1,0 +1,38 @@
+{
+    "appid": "324870",
+    "common": {
+        "name": "RS/RO2 Alpha Community Maps - Dedicated Server",
+        "type": "Tool",
+        "releasestate": "released",
+        "oslist": "windows",
+        "associations": {},
+        "gameid": "324870"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Red Orchestra 2"
+    },
+    "depots": {
+        "324871": {
+            "name": "RS/RO2 Alpha Community Maps - Dedicated Server Content",
+            "manifests": {
+                "public": "5575267106901034116"
+            },
+            "maxsize": "342916955"
+        },
+        "branches": {
+            "public": {
+                "buildid": "391321"
+            },
+            "custom_map_beta": {
+                "buildid": "823286",
+                "description": "",
+                "pwdrequired": "1"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11703200,
+    "_sha": "d34c29f87b9675cba17fe2de65ee1ffcb9070766",
+    "_size": 651
+}

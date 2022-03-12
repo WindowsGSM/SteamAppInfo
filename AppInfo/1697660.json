@@ -1,0 +1,102 @@
+{
+    "appid": "1697660",
+    "common": {
+        "name": "Hellbreath Dedicated Server",
+        "type": "Tool",
+        "parent": "826270",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "logo": "76482c51c37a1b35c84d2b30258ec50c25ce642a",
+        "logo_small": "76482c51c37a1b35c84d2b30258ec50c25ce642a_thumb",
+        "icon": "4c07c94a440197a6c0c9eda0bcfa8fcfb6bf837a",
+        "clienttga": "7392ed555c19ca9c5ad0724a5bbd017788bc63e4",
+        "clienticon": "c7d80534e7afe88890b9762b3a5ce045970eaecd",
+        "releasestate": "released",
+        "gameid": "1697660",
+        "exfgls": "1"
+    },
+    "extended": {
+        "gamedir": "Hellbreath",
+        "serverbrowsername": "Hellbreath"
+    },
+    "config": {
+        "installdir": "Hellbreath Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "ServerRun.bat",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "1697661": {
+            "name": "Hellbreath Dedicated Server Content",
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "8684624390527697534"
+            },
+            "maxsize": "354705775"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7590273",
+                "timeupdated": "1635098566"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14193992,
+    "_sha": "bb998db1e670716fee2e7fef741c040e9720d30e",
+    "_size": 2036
+}
