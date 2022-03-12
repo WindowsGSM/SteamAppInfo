@@ -17,7 +17,7 @@ This repository only updates the apps whose `name` contains `server` for game se
     table = '''| AppId | Name | AppInfo Json |\n| - | - | - |\n'''
 
     for app in apps:
-        table += f"| `{app['appid']}` | {app['name']} | [{app['appid']}.json](SteamAppInfo/AppInfo/{app['appid']}.json) |\n"
+        table += f"| `{app['appid']}` | {app['name']} | [{app['appid']}.json](AppInfo/{app['appid']}.json) |\n"
         
     with open('README.md', 'w', encoding='utf-8') as fp:
         fp.write(header + table)
