@@ -1,0 +1,89 @@
+{
+    "appid": "740",
+    "common": {
+        "name": "Counter-Strike Global Offensive - Dedicated Server",
+        "type": "Tool",
+        "oslist": "windows,linux",
+        "gameid": "740"
+    },
+    "extended": {
+        "developer": "",
+        "gamedir": "Counter-Strike Global Offensive Beta Dedicated Server",
+        "homepage": "",
+        "icon": "",
+        "noservers": "0",
+        "primarycache": "740",
+        "sourcegame": "1",
+        "state": "eStateTool",
+        "visibleonlywheninstalled": "1",
+        "visibleonlywhensubscribed": "1"
+    },
+    "config": {
+        "launch": {
+            "0": {
+                "executable": "testapp.exe"
+            }
+        },
+        "contenttype": "3",
+        "installdir": "Counter-Strike Global Offensive Beta - Dedicated Server"
+    },
+    "depots": {
+        "731": {
+            "name": "Counter-Strike Global Offensive Beta Common",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "1410720345318325121",
+                "1.38.1.7": "2927277515116787961"
+            },
+            "maxsize": "29260585118",
+            "encryptedmanifests": {
+                "dprs": {
+                    "encrypted_gid_2": "23D0B308D1CE739A6C3B5F1E61A98757",
+                    "encrypted_size_2": "B93D04CDB9A584556D0EDC4B438C7D01"
+                }
+            }
+        },
+        "740": {
+            "name": "Counter-Strike Global Offensive Beta - Dedicated Server",
+            "systemdefined": "1",
+            "manifests": {
+                "public": "6096758564027320751",
+                "1.38.1.7": "7877984557395576255"
+            },
+            "maxsize": "1963705355",
+            "encryptedmanifests": {
+                "dprs": {
+                    "encrypted_gid_2": "817F51828483D135762BF02B4DC6E9C7",
+                    "encrypted_size_2": "387AE96081B1CB0405089E0D44D3B3F9"
+                }
+            }
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "8297043",
+                "timeupdated": "1646185464"
+            },
+            "1.38.1.7": {
+                "buildid": "8226185",
+                "description": "1.38.1.7",
+                "timeupdated": "1645224062"
+            },
+            "1.38.2.1": {
+                "buildid": "8297043",
+                "description": "1.38.2.1",
+                "timeupdated": "1646781561"
+            },
+            "dprs": {
+                "buildid": "7633487",
+                "description": "",
+                "pwdrequired": "1",
+                "timeupdated": "1635797426"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14170578,
+    "_sha": "b818ecea07341edae2c32437b0d5e4430d33a1ea",
+    "_size": 1937
+}

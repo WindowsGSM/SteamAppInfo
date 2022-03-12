@@ -1,0 +1,36 @@
+name: Steam GetAppInfo
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+  - cron:  '*/5 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    
+    - name: Install dependencies
+      run: |
+        pip3 install -r requirements.txt
+        
+    - name: Run crontab.py
+      run: |
+        python3 crontab.py
+    
+    - name: Push to built branch
+      uses: Automattic/action-commit-to-branch@master
+      with:
+        branch: 'main'
+        commit_message: 'Build main'
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
