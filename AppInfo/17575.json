@@ -48,7 +48,13 @@
             "manifests": {
                 "public": "4719150401700283131"
             },
-            "maxsize": "2699455001"
+            "maxsize": "2699455001",
+            "encryptedmanifests": {
+                "beta": {
+                    "encrypted_gid_2": "E7EF768E9C6A7B6B792961B3C5C197CE",
+                    "encrypted_size_2": "A932C845EE7E81A3B05751A4C08CEE8F"
+                }
+            }
         },
         "331031": {
             "name": "Pirates, Vikings, and Knights II Dedicated Server Windows",
@@ -68,7 +74,13 @@
             "manifests": {
                 "public": "8309491660205273902"
             },
-            "maxsize": "110079463"
+            "maxsize": "110079463",
+            "encryptedmanifests": {
+                "beta": {
+                    "encrypted_gid_2": "0F29DE936833C67D6A61F9904EF9B36E",
+                    "encrypted_size_2": "161C974659FC24A2CD1A85C1FB5E7E0F"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -76,15 +88,15 @@
                 "timeupdated": "1646710748"
             },
             "beta": {
-                "buildid": "8349040",
+                "buildid": "8362579",
                 "description": "beta branch",
                 "pwdrequired": "1",
-                "timeupdated": "1646934324"
+                "timeupdated": "1647188002"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 14190120,
-    "_sha": "bc93713a465bd8c8fe3d33ac90bc4e8a03ad84c5",
-    "_size": 1863
+    "_change_number": 14213547,
+    "_sha": "c5d8b3b9cf6fb6f28a7010cf33918579d5946c74",
+    "_size": 2215
 }
