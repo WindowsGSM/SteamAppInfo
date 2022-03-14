@@ -100,6 +100,10 @@
                     "encrypted_gid_2": "141FDF4B0F50654634D6A2BCA6E57849",
                     "encrypted_size_2": "DEDD995FA78625E7FDA961369608407A"
                 },
+                "staging": {
+                    "encrypted_gid_2": "9354BA2985A8323ADFD3E86AA8C697FA",
+                    "encrypted_size_2": "5EE2CD8D8907EA2E6E9289E2152CAC15"
+                },
                 "temp": {
                     "encrypted_gid_2": "5B821600B044634E0CFE781730BA4C7D",
                     "encrypted_size_2": "B45C57F177618936155008D5CBD63C58"
@@ -136,6 +140,10 @@
                     "encrypted_gid_2": "2503A1C0EBB2CE8BC4C11F0DC34F80A0",
                     "encrypted_size_2": "16A0CEF956BD12365B631252CF7610ED"
                 },
+                "staging": {
+                    "encrypted_gid_2": "92567ADBC365A0547F571147F2917CCE",
+                    "encrypted_size_2": "A1477D5102BF265AC346C44C86B329C8"
+                },
                 "temp": {
                     "encrypted_gid_2": "E1B731A89FBE7ED582221114AEA7BB53",
                     "encrypted_size_2": "DA898C5F16967C3B61353E24DDE06846"
@@ -171,6 +179,10 @@
                 "legacyports": {
                     "encrypted_gid_2": "D7F79FAE4EF2ADC053A19015BB9DF14D",
                     "encrypted_size_2": "002297841B499E19FDFA3F86CF1BB04A"
+                },
+                "staging": {
+                    "encrypted_gid_2": "1953A51EFD33111BB322A279A5B7CD7D",
+                    "encrypted_size_2": "C02532DB343D304245F43EDECC9D0798"
                 },
                 "temp": {
                     "encrypted_gid_2": "61F5F4CA613A88CB8BC2CC896FF0C288",
@@ -343,6 +355,12 @@
                 "pwdrequired": "1",
                 "timeupdated": "1647073801"
             },
+            "staging": {
+                "buildid": "8367239",
+                "description": "Staging Build",
+                "pwdrequired": "1",
+                "timeupdated": "1647266952"
+            },
             "temp": {
                 "buildid": "6879455",
                 "description": "temp",
@@ -352,7 +370,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14206488,
-    "_sha": "c33c5e80eb61650c6cda1c81a6414500120382c7",
-    "_size": 9909
+    "_change_number": 14220785,
+    "_sha": "7ee554b6842bcb100436c7423e3474ac6c5f0481",
+    "_size": 10482
 }
