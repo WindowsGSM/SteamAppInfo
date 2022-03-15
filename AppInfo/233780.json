@@ -104,6 +104,10 @@
                     "encrypted_gid_2": "141FDF4B0F50654634D6A2BCA6E57849",
                     "encrypted_size_2": "DEDD995FA78625E7FDA961369608407A"
                 },
+                "rc": {
+                    "encrypted_gid_2": "20F743E9F3524DEBCF7276CE8985D69C",
+                    "encrypted_size_2": "28CEBD05564D85840FCD94D48187DA80"
+                },
                 "staging": {
                     "encrypted_gid_2": "36B4CF6861FF2BC59F7931A92D8A42DB",
                     "encrypted_size_2": "45E64B2663A082F89718E73B460EAAFE"
@@ -148,6 +152,10 @@
                     "encrypted_gid_2": "2503A1C0EBB2CE8BC4C11F0DC34F80A0",
                     "encrypted_size_2": "16A0CEF956BD12365B631252CF7610ED"
                 },
+                "rc": {
+                    "encrypted_gid_2": "D1D528006E6F30483767A2F44608FB37",
+                    "encrypted_size_2": "2248584546C456357EC951D0600AF75B"
+                },
                 "staging": {
                     "encrypted_gid_2": "B9D99E6428EA7B3D37AC484AD737EAEB",
                     "encrypted_size_2": "2C8762685B92B5F3A4FD3D8CCDEC9AAD"
@@ -191,6 +199,10 @@
                 "legacyports": {
                     "encrypted_gid_2": "D7F79FAE4EF2ADC053A19015BB9DF14D",
                     "encrypted_size_2": "002297841B499E19FDFA3F86CF1BB04A"
+                },
+                "rc": {
+                    "encrypted_gid_2": "295F9CB09196F2FF721B1F1F49BD7051",
+                    "encrypted_size_2": "59137CC867DF2CA3374BAA60103442D2"
                 },
                 "staging": {
                     "encrypted_gid_2": "8ECAD170E8C4D208629F9416C805CE41",
@@ -373,6 +385,12 @@
                 "pwdrequired": "1",
                 "timeupdated": "1647337423"
             },
+            "rc": {
+                "buildid": "8367239",
+                "description": "Release Candidate Build",
+                "pwdrequired": "1",
+                "timeupdated": "1647340384"
+            },
             "staging": {
                 "buildid": "8367239",
                 "description": "Staging Build",
@@ -388,7 +406,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14229097,
-    "_sha": "a9d739924ccb0d722061deb7defc2514058001d4",
-    "_size": 11095
+    "_change_number": 14229535,
+    "_sha": "9756df4447df4a5afb36c1af15dc7524af2e8a6b",
+    "_size": 11658
 }
