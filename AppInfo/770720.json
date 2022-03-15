@@ -230,10 +230,14 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "1535495752118588771"
+                "public": "8641547403672422564"
             },
-            "maxsize": "497497917",
+            "maxsize": "500782837",
             "encryptedmanifests": {
+                "current": {
+                    "encrypted_gid_2": "325E720C14E585F84E22ACED723041C6",
+                    "encrypted_size_2": "29E31B25970F68C5731D1F8AEC2A7F59"
+                },
                 "hw_test": {
                     "encrypted_gid_2": "E5731780A04B902720F27AA062A95CFE",
                     "encrypted_size_2": "B5F9B01E4ADB0B7284C399A4F700A24C"
@@ -250,10 +254,6 @@
                     "encrypted_gid_2": "20AD16116C89EB22F2B87DA8BEBE5CEB",
                     "encrypted_size_2": "B374B8F9DDAD5A53E534E1A9A8F445CC"
                 },
-                "qa_testroom": {
-                    "encrypted_gid_2": "DBAA20DFB44A7A46D8C56766197232CE",
-                    "encrypted_size_2": "886792DC783F2A3FC0C97ECF31C7EBE8"
-                },
                 "teamtest": {
                     "encrypted_gid_2": "51BD8ADFE935EF624898255F99EF0D66",
                     "encrypted_size_2": "843191820A2087A0785F84CEDA491F3F"
@@ -267,10 +267,14 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "7715689834016263527"
+                "public": "2327626331465777829"
             },
-            "maxsize": "36842050038",
+            "maxsize": "36846452875",
             "encryptedmanifests": {
+                "current": {
+                    "encrypted_gid_2": "35FFB5617930FB6A529C70FB49CAA4EF",
+                    "encrypted_size_2": "3F909C542346221E45B96A58A9A39154"
+                },
                 "hw_test": {
                     "encrypted_gid_2": "FCD1D5B721E6DF30010FD3106E099161",
                     "encrypted_size_2": "2B112E08B3DE15F3943288EC449431E6"
@@ -287,10 +291,6 @@
                     "encrypted_gid_2": "80607ABC270E13FD7CD6BF26934B9396",
                     "encrypted_size_2": "73D9F07AE10DEEBCF240F1CC1DD61AE8"
                 },
-                "qa_testroom": {
-                    "encrypted_gid_2": "59D8D13FD8D8A3FC649F03792FD630DE",
-                    "encrypted_size_2": "55F59DADC00A36404BB56213ADEA64F2"
-                },
                 "teamtest": {
                     "encrypted_gid_2": "9D3303FCB37D37F5E5716C3D7FE7AAE7",
                     "encrypted_size_2": "1B480D32C26AC71516CFE26CDB0EF781"
@@ -304,10 +304,14 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "5101293408956573496"
+                "public": "2010840422401723"
             },
-            "maxsize": "154735497",
+            "maxsize": "154753895",
             "encryptedmanifests": {
+                "current": {
+                    "encrypted_gid_2": "77EDB8D71C38D6EB3446B55A946ACE18",
+                    "encrypted_size_2": "06043B16D2686770AEF06318C05927C9"
+                },
                 "hw_test": {
                     "encrypted_gid_2": "BFA66836F28B741E2BFF1CFF29815A98",
                     "encrypted_size_2": "D65835AEE9A375BE6FB460604A813A1E"
@@ -315,18 +319,6 @@
                 "k-w-s": {
                     "encrypted_gid_2": "4667424A2F988E21C9D9E0B68466B270",
                     "encrypted_size_2": "12EE3BE3E88DA2E749C1EACE69907EBC"
-                },
-                "latest": {
-                    "encrypted_gid_2": "C97BAB6EC8CC1CF89B79696816C7CB8A",
-                    "encrypted_size_2": "C9D86A214F267E097C1ED8C3EEF79561"
-                },
-                "lightweight_profiler": {
-                    "encrypted_gid_2": "E15EA4CFFCAF1D2F752D07856C5357AA",
-                    "encrypted_size_2": "01FC04A8A8C44CDFA93D92B02FAE6C74"
-                },
-                "qa_testroom": {
-                    "encrypted_gid_2": "4A8FA3684CB6EC49AEC4F8F7B05B44F6",
-                    "encrypted_size_2": "C6476A04B27E0C0CBFB3ABCBB81AB89F"
                 },
                 "teamtest": {
                     "encrypted_gid_2": "794C707AA5899EB46EDEF15C0CE7A9C9",
@@ -346,8 +338,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "8341205",
-                "timeupdated": "1646927958"
+                "buildid": "8374518",
+                "timeupdated": "1647359535"
             },
             "current": {
                 "buildid": "8341205",
@@ -394,7 +386,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14232123,
-    "_sha": "bd597a9cc3f5fd370958813ddb0c51000f31bf26",
-    "_size": 10182
+    "_change_number": 14232390,
+    "_sha": "580197faaa82ea00bf7838cab93e9dd9e45750c8",
+    "_size": 9865
 }
