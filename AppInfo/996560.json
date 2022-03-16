@@ -96,9 +96,9 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "6972846762417100816"
+                "public": "1100007622865827083"
             },
-            "maxsize": "645794788",
+            "maxsize": "645793164",
             "encryptedmanifests": {
                 "arith1": {
                     "encrypted_gid_2": "BD3FBC3996657D30580317E5C454B5EA",
@@ -139,10 +139,6 @@
                 "mith-test": {
                     "encrypted_gid_2": "DCB9F01B7AA09879C4242754E81FAA73",
                     "encrypted_size_2": "6858EE96E70BB31490DEFF7918621399"
-                },
-                "mr-testing": {
-                    "encrypted_gid_2": "A0259C375378370A55C636DC057F384E",
-                    "encrypted_size_2": "80E14DCC76C5230E99D15B7C3E5D9F04"
                 },
                 "mr-testing-2": {
                     "encrypted_gid_2": "5E23DD957D14DC9BEDE07DC44FC4CEA1",
@@ -185,9 +181,9 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "885707950633623967"
+                "public": "5761692272502823485"
             },
-            "maxsize": "483912112",
+            "maxsize": "483910488",
             "encryptedmanifests": {
                 "arith1": {
                     "encrypted_gid_2": "ED7024A3B8EA10C463DF485DB4D2B1F6",
@@ -229,10 +225,6 @@
                     "encrypted_gid_2": "40771E3C31BBE5CD003167BABEAE608B",
                     "encrypted_size_2": "6AB8303D6731A3520DCFDD9631D06D72"
                 },
-                "mr-testing": {
-                    "encrypted_gid_2": "598C349807BFC371E959A1B581DF7E2A",
-                    "encrypted_size_2": "D62AAA04C97EE8D3B39247616016EE47"
-                },
                 "mr-testing-2": {
                     "encrypted_gid_2": "D8A3FD9F54C45583B8C3ADACFD4A6C3F",
                     "encrypted_size_2": "2CDA0057E25DC65530EA6555D1087CB2"
@@ -269,8 +261,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "8310295",
-                "timeupdated": "1646424410"
+                "buildid": "8383709",
+                "timeupdated": "1647464404"
             },
             "arith1": {
                 "buildid": "7982008",
@@ -332,12 +324,6 @@
                 "pwdrequired": "1",
                 "timeupdated": "1645923715"
             },
-            "mr-testing": {
-                "buildid": "8383709",
-                "description": "Multipurpose merge request testing branch for internal use.\t",
-                "pwdrequired": "1",
-                "timeupdated": "1647447468"
-            },
             "mr-testing-2": {
                 "buildid": "8185902",
                 "description": "Multipurpose merge request testing branch for internal use. (Again!)",
@@ -389,7 +375,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14243694,
-    "_sha": "763c9e8ef432b2b456270e7eef587069e2fb70a3",
-    "_size": 11119
+    "_change_number": 14246180,
+    "_sha": "1dc9d552c0ce340fa51bf54cd92adc5493e84259",
+    "_size": 10636
 }

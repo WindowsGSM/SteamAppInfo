@@ -23,6 +23,38 @@
         "installdir": "GarrysModDS"
     },
     "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
         "overridescddb": "1",
         "markdlcdepots": "0",
         "4021": {
@@ -117,7 +149,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14225084,
-    "_sha": "e273cc0a2abd4ea301084ad8c1c72bf26186f4c1",
-    "_size": 2759
+    "_change_number": 14246185,
+    "_sha": "c1c08c5f3d2367372a26c4c17a0dc17ae8121736",
+    "_size": 3385
 }
