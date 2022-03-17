@@ -29,8 +29,15 @@
                     "oslist": "windows",
                     "osarch": "64"
                 }
+            },
+            "1": {
+                "executable": "Helbreath3dServer.sh Elvine -port=7783",
+                "config": {
+                    "oslist": "linux"
+                }
             }
-        }
+        },
+        "uselaunchcommandline": "1"
     },
     "depots": {
         "1004": {
@@ -96,7 +103,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14193992,
-    "_sha": "bb998db1e670716fee2e7fef741c040e9720d30e",
-    "_size": 2036
+    "_change_number": 14256771,
+    "_sha": "852013c05a25924bf2c646a3c913c6e094556664",
+    "_size": 2190
 }
