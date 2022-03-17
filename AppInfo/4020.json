@@ -62,11 +62,12 @@
             "systemdefined": "1",
             "manifests": {
                 "public": "2571124895181555952",
-                "chromium": "8490159965717592950",
-                "dev": "3103563954844184751",
-                "x86-64": "8490159965717592950"
+                "chromium": "3119160195303267641",
+                "dev": "2436486973262897856",
+                "prerelease": "6018138415004638952",
+                "x86-64": "3119160195303267641"
             },
-            "maxsize": "3709388049",
+            "maxsize": "3709389695",
             "encryptedmanifests": {
                 "addonsystem": {
                     "encrypted_gid_2": "F9ED75E5ED6F1816C04CBDF1E4A63B38",
@@ -82,11 +83,12 @@
             "systemdefined": "1",
             "manifests": {
                 "public": "6041329711616596441",
-                "chromium": "9071681026664604648",
-                "dev": "5738966412889512672",
-                "x86-64": "9071681026664604648"
+                "chromium": "7534617338305123772",
+                "dev": "7675989031380127194",
+                "prerelease": "3387009428065808889",
+                "x86-64": "7534617338305123772"
             },
-            "maxsize": "473890465",
+            "maxsize": "473893025",
             "encryptedmanifests": {
                 "addonsystem": {
                     "encrypted_gid_2": "A7DCC3BFD0D6CA7BE2D21E89E5341406",
@@ -102,11 +104,12 @@
             "systemdefined": "1",
             "manifests": {
                 "public": "7724521649890553552",
-                "chromium": "5383681678108187551",
-                "dev": "8947526184940945579",
-                "x86-64": "5383681678108187551"
+                "chromium": "1364327023205458098",
+                "dev": "2405921977501755542",
+                "prerelease": "3144801868052508770",
+                "x86-64": "1364327023205458098"
             },
-            "maxsize": "291162824",
+            "maxsize": "291171016",
             "encryptedmanifests": {
                 "addonsystem": {
                     "encrypted_gid_2": "DAF615926E256CEF460254E07DA8F58A",
@@ -127,29 +130,29 @@
                 "timeupdated": "1518346461"
             },
             "chromium": {
-                "buildid": "8349101",
+                "buildid": "8393124",
                 "description": "x86-64 but older",
-                "timeupdated": "1646938768"
+                "timeupdated": "1647554594"
             },
             "dev": {
-                "buildid": "8392464",
+                "buildid": "8393234",
                 "description": "Development Branch",
-                "timeupdated": "1647546901"
+                "timeupdated": "1647555647"
             },
             "prerelease": {
-                "buildid": "8349305",
+                "buildid": "8393191",
                 "description": "Pre-Release Branch",
-                "timeupdated": "1646937296"
+                "timeupdated": "1647555253"
             },
             "x86-64": {
-                "buildid": "8349101",
+                "buildid": "8393124",
                 "description": "Testing 64-bit builds",
-                "timeupdated": "1646934907"
+                "timeupdated": "1647554469"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 14257124,
-    "_sha": "796e65a9ba216cc4e37528bcbef9234d07c43916",
-    "_size": 3385
+    "_change_number": 14258278,
+    "_sha": "e6638c4639bc0fef4203e1f2422085d82c9d8183",
+    "_size": 3505
 }
