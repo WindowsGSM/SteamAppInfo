@@ -122,7 +122,13 @@
             "manifests": {
                 "public": "927331590772131092"
             },
-            "maxsize": "203960366"
+            "maxsize": "203960366",
+            "encryptedmanifests": {
+                "buildtest": {
+                    "encrypted_gid_2": "4E60FF67697EA2EE1DFEBC38EC8B949C",
+                    "encrypted_size_2": "B59E80E7C5DD87463CD729DE0682FB38"
+                }
+            }
         },
         "1169373": {
             "name": "Necesse Dedicated Server Windows 64 bit",
@@ -133,7 +139,13 @@
             "manifests": {
                 "public": "4204310944132269407"
             },
-            "maxsize": "220577454"
+            "maxsize": "220577454",
+            "encryptedmanifests": {
+                "buildtest": {
+                    "encrypted_gid_2": "62E16283C8E8FB3435ECCD689ACA0239",
+                    "encrypted_size_2": "5BC2509F4D15EDD9D77472A690740751"
+                }
+            }
         },
         "1169374": {
             "name": "Necesse Dedicated Server MacOS",
@@ -143,7 +155,13 @@
             "manifests": {
                 "public": "6774627052262792089"
             },
-            "maxsize": "229380907"
+            "maxsize": "229380907",
+            "encryptedmanifests": {
+                "buildtest": {
+                    "encrypted_gid_2": "61C2F59F762106ECEF48644B18EF3B0C",
+                    "encrypted_size_2": "897A26F59174ECD26106532842E49F55"
+                }
+            }
         },
         "1169375": {
             "name": "Necesse Dedicated Server Linux",
@@ -153,7 +171,13 @@
             "manifests": {
                 "public": "6940046969655366701"
             },
-            "maxsize": "259522616"
+            "maxsize": "259522616",
+            "encryptedmanifests": {
+                "buildtest": {
+                    "encrypted_gid_2": "60DDE3D679E374A5E9D595DF78FBCFD0",
+                    "encrypted_size_2": "C05F79E28D0A03A907B3AE57E13434EE"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -161,15 +185,15 @@
                 "timeupdated": "1647459562"
             },
             "buildtest": {
-                "buildid": "8383864",
+                "buildid": "8389414",
                 "description": "",
                 "pwdrequired": "1",
-                "timeupdated": "1647448801"
+                "timeupdated": "1647518306"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 14245532,
-    "_sha": "ff0bc0d11f3107e5ea441ed4772943e8f13f4413",
-    "_size": 3788
+    "_change_number": 14252243,
+    "_sha": "6dffe33eeb916d4b4582f98f6d03654bc8164f3c",
+    "_size": 4512
 }
