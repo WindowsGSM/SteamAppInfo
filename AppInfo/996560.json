@@ -96,9 +96,9 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "5079332500583926213"
+                "public": "4527409855920695395"
             },
-            "maxsize": "645796844",
+            "maxsize": "645793164",
             "encryptedmanifests": {
                 "arith1": {
                     "encrypted_gid_2": "BD3FBC3996657D30580317E5C454B5EA",
@@ -140,10 +140,6 @@
                     "encrypted_gid_2": "DCB9F01B7AA09879C4242754E81FAA73",
                     "encrypted_size_2": "6858EE96E70BB31490DEFF7918621399"
                 },
-                "mr-testing": {
-                    "encrypted_gid_2": "008A6F17C2BA46887DBB9E0D3992A669",
-                    "encrypted_size_2": "80E14DCC76C5230E99D15B7C3E5D9F04"
-                },
                 "mr-testing-2": {
                     "encrypted_gid_2": "5E23DD957D14DC9BEDE07DC44FC4CEA1",
                     "encrypted_size_2": "6A58A0C6A4ED2B3CC66B3AFD3EABDFBB"
@@ -171,6 +167,10 @@
                 "tech": {
                     "encrypted_gid_2": "89E667F83EE4CF53601ED2BE0D3AB7AF",
                     "encrypted_size_2": "3E0920D29C82BC02D0D8E54628F20033"
+                },
+                "thomasjosif-test": {
+                    "encrypted_gid_2": "1104B35738E137DF68F0D8663054124D",
+                    "encrypted_size_2": "51D6F900917D37DDB1E8A5D3E85CC2FF"
                 }
             }
         },
@@ -181,9 +181,9 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "5177350573440077163"
+                "public": "2891050781221770734"
             },
-            "maxsize": "483914168",
+            "maxsize": "483910448",
             "encryptedmanifests": {
                 "arith1": {
                     "encrypted_gid_2": "ED7024A3B8EA10C463DF485DB4D2B1F6",
@@ -225,10 +225,6 @@
                     "encrypted_gid_2": "40771E3C31BBE5CD003167BABEAE608B",
                     "encrypted_size_2": "6AB8303D6731A3520DCFDD9631D06D72"
                 },
-                "mr-testing": {
-                    "encrypted_gid_2": "E1D6C6A156E6AA2EB4F7CD7D9C590A91",
-                    "encrypted_size_2": "1BF5E473038BAE7A48C6544B8640B400"
-                },
                 "mr-testing-2": {
                     "encrypted_gid_2": "D8A3FD9F54C45583B8C3ADACFD4A6C3F",
                     "encrypted_size_2": "2CDA0057E25DC65530EA6555D1087CB2"
@@ -256,13 +252,17 @@
                 "tech": {
                     "encrypted_gid_2": "69E478E7DB40E90F6F9FCB871E66D732",
                     "encrypted_size_2": "D5B6E1625023018E091207E8CA279B47"
+                },
+                "thomasjosif-test": {
+                    "encrypted_gid_2": "93F873191C5D516FF4F962775C1C54C8",
+                    "encrypted_size_2": "986BE10426B3B33B7504DCA9A7139A63"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "8399159",
-                "timeupdated": "1647636404"
+                "buildid": "8389068",
+                "timeupdated": "1647640377"
             },
             "arith1": {
                 "buildid": "7982008",
@@ -381,7 +381,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14269349,
-    "_sha": "d82243e36fab6f1fbe1634b69e7103fc198a5209",
-    "_size": 10812
+    "_change_number": 14269435,
+    "_sha": "d68b9438186457d2ba6b5a31a731bc32493ba9b4",
+    "_size": 10824
 }
