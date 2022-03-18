@@ -30,9 +30,9 @@
             "manifests": {
                 "public": "5684749072605419745",
                 "aux01": "5375335380796554516",
-                "staging": "5510406401642315473"
+                "staging": "6055894254034909653"
             },
-            "maxsize": "506282456",
+            "maxsize": "506284128",
             "encryptedmanifests": {
                 "aux01-debug": {
                     "encrypted_gid_2": "406B4B861375E6569BA2FA7E81111613",
@@ -95,8 +95,8 @@
                     "encrypted_size_2": "F15DFACBD0649705008BF69FDCB06DBF"
                 },
                 "staging-debug": {
-                    "encrypted_gid_2": "56E65095448CF4407F0BE884642EBC1A",
-                    "encrypted_size_2": "043A844790E11CF69AA5164A234DB2A6"
+                    "encrypted_gid_2": "E8184CAE24B73383173B9CBDE0A8431C",
+                    "encrypted_size_2": "857E768A2F8100176A255C9FF7B91FDF"
                 },
                 "test": {
                     "encrypted_gid_2": "D7A8AFC61BC9499187247BC80218717A",
@@ -124,9 +124,9 @@
             "manifests": {
                 "public": "6271654237781238562",
                 "aux01": "3086855064831238413",
-                "staging": "420242987834462735"
+                "staging": "5901502897306964430"
             },
-            "maxsize": "550516367",
+            "maxsize": "550518039",
             "encryptedmanifests": {
                 "aux01-debug": {
                     "encrypted_gid_2": "E943A51328A3977EC5B3276018AFBA04",
@@ -497,15 +497,15 @@
                 "timeupdated": "1616491889"
             },
             "staging": {
-                "buildid": "8391240",
+                "buildid": "8394221",
                 "description": "",
-                "timeupdated": "1647535362"
+                "timeupdated": "1647569241"
             },
             "staging-debug": {
-                "buildid": "8391245",
+                "buildid": "8394228",
                 "description": "debug",
                 "pwdrequired": "1",
-                "timeupdated": "1647535427"
+                "timeupdated": "1647569309"
             },
             "test": {
                 "buildid": "8022893",
@@ -534,7 +534,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14255267,
-    "_sha": "0bed5a54de6eb58ac073e5fac432dad36c696bb4",
-    "_size": 16438
+    "_change_number": 14259844,
+    "_sha": "2c488a8040951b205940812285e405fc5c7cc402",
+    "_size": 16439
 }
