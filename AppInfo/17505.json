@@ -71,15 +71,15 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "5289325312449002468",
+                "public": "1156641806936465351",
                 "legacy2.4": "7345369736366925217",
                 "v3.0.9a": "4543002528562670536"
             },
             "maxsize": "100675255",
             "encryptedmanifests": {
-                "quality_assurance": {
-                    "encrypted_gid_2": "35916A9A79D30EABAE9131A3DA23F48B",
-                    "encrypted_size_2": "06F82371EEC664A5E64A08F79CD90409"
+                "eugene": {
+                    "encrypted_gid_2": "5B7FDB873A7EBB202733545E28324DBC",
+                    "encrypted_size_2": "58285ADDF4AF55C687676422A69A997D"
                 }
             }
         },
@@ -89,37 +89,37 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "6272757686987525315",
+                "public": "5122049293740812206",
                 "legacy2.4": "4221706886458780388",
                 "v3.0.9a": "3456975260622561583"
             },
             "maxsize": "91877537",
             "encryptedmanifests": {
-                "quality_assurance": {
-                    "encrypted_gid_2": "BEE577E42B6F415D0467528CDDDFB52C",
-                    "encrypted_size_2": "2D8B57592D936BCCF90D8513A57BC18C"
+                "eugene": {
+                    "encrypted_gid_2": "77801811346CB819B2568C9FB63B81C7",
+                    "encrypted_size_2": "BB0A2AC96C16EBA8E75B55BC5715184C"
                 }
             }
         },
         "686473": {
             "name": "Zombie Panic! Source Dedicated Server Shared Content Dedicated",
             "manifests": {
-                "public": "1677478452159104909",
+                "public": "3928917501903219689",
                 "legacy2.4": "1906675738397121551",
                 "v3.0.9a": "1646989424537902631"
             },
-            "maxsize": "7865328910",
+            "maxsize": "7865507721",
             "encryptedmanifests": {
-                "quality_assurance": {
-                    "encrypted_gid_2": "9F400F5E68E6D45EA924FEA3CE9A072C",
-                    "encrypted_size_2": "2A6AD4AD38BE4F3A7174765F3D9FF89A"
+                "eugene": {
+                    "encrypted_gid_2": "101229A9B45F7F88D444CF4FE8FEAAF5",
+                    "encrypted_size_2": "CC9DAD99AA1761DC5CE9FAE43934CEEC"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "8320045",
-                "timeupdated": "1646499588"
+                "buildid": "8403873",
+                "timeupdated": "1647729792"
             },
             "eugene": {
                 "buildid": "8320045",
@@ -146,7 +146,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14275563,
-    "_sha": "f6e69b85c4ffb29f8aa50040880cd17c4ebab23c",
-    "_size": 3673
+    "_change_number": 14275567,
+    "_sha": "0054a4d2ac5683934b3b4749e37c19a1647d0a3c",
+    "_size": 3640
 }
