@@ -92,6 +92,10 @@
                 "nighly_shack": {
                     "encrypted_gid_2": "590DF450D3680317B9C37E0FE67DA9B6",
                     "encrypted_size_2": "E873A274D24CD16DFB6105C033B00779"
+                },
+                "nighly_shack_arm64": {
+                    "encrypted_gid_2": "7FAC81CF74719A116D32FF8A677E24A6",
+                    "encrypted_size_2": "8E6B43978D2EC4C5BBDEB2653539D0CA"
                 }
             }
         },
@@ -149,6 +153,12 @@
                 "pwdrequired": "1",
                 "timeupdated": "1647898179"
             },
+            "nighly_shack_arm64": {
+                "buildid": "8412473",
+                "description": "nighly builds for shack arm64",
+                "pwdrequired": "1",
+                "timeupdated": "1647899310"
+            },
             "shack": {
                 "buildid": "7915932",
                 "description": "",
@@ -167,7 +177,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14289411,
-    "_sha": "8cfaca98cddd6b5fd4ffec095aaa7b1662a6f293",
-    "_size": 4007
+    "_change_number": 14289552,
+    "_sha": "ac85d96ba164160fec6a39cfaa299b9ac95c6922",
+    "_size": 4328
 }
