@@ -1,0 +1,70 @@
+{
+    "appid": "232290",
+    "common": {
+        "name": "Day of Defeat: Source Dedicated Server",
+        "section_type": "ownersonly",
+        "type": "Tool",
+        "oslist": "windows,linux",
+        "gameid": "232290"
+    },
+    "extended": {
+        "checkpkgstate": "1",
+        "developer": "",
+        "gamedir": "ValveTestApp232290",
+        "homepage": "",
+        "icon": "",
+        "noservers": "0",
+        "sourcegame": "1",
+        "state": "eStateComingSoonNoPreload",
+        "visibleonlywhensubscribed": "1"
+    },
+    "config": {
+        "contenttype": "3",
+        "installdir": "Day of Defeat Source Dedicated Server"
+    },
+    "depots": {
+        "232290": {
+            "name": "DoD:S Dedicated server assets",
+            "manifests": {
+                "public": "7284281828149952980"
+            },
+            "maxsize": "1720774032"
+        },
+        "232295": {
+            "name": "DoD:S Windows server",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9167847065259172248"
+            },
+            "maxsize": "92169920"
+        },
+        "232296": {
+            "name": "DoD:S Linux server",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "3021743196526514137"
+            },
+            "maxsize": "65848919"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "6936591",
+                "timeupdated": "1625257977"
+            },
+            "prerelease": {
+                "buildid": "6936591",
+                "description": "Latest available build",
+                "timeupdated": "1625257971"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 11927323,
+    "_sha": "29e0727fa8600b5ea11eae709b4ba05ec377437b",
+    "_size": 1309
+}

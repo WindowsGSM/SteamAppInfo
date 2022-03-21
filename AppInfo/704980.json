@@ -1,0 +1,102 @@
+{
+    "appid": "704980",
+    "common": {
+        "name": "Master Arena Server",
+        "type": "Tool",
+        "parent": "704020",
+        "oslist": "windows",
+        "osarch": "",
+        "osextended": "",
+        "clienttga": "d31489df79d28dbc8c1bd9489f6b4125eb38d80f",
+        "clienticon": "3ca9de5ba92e1ee147ea98afc90dc5b87049b86e",
+        "icon": "7753e72cad43bb390e078b11cf068a9f3aeec2a3",
+        "logo": "c338e0f4a31a0bf8cbb70bccd1d01d89a6cb8018",
+        "logo_small": "c338e0f4a31a0bf8cbb70bccd1d01d89a6cb8018_thumb",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "704980"
+    },
+    "extended": {
+        "gamedir": "MasterArena"
+    },
+    "config": {
+        "installdir": "Master Arena Server",
+        "launch": {
+            "0": {
+                "executable": "LaunchDedicatedServer01_on_LAN.bat",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "32"
+                }
+            },
+            "1": {
+                "executable": "LaunchDedicatedServer02_on_WAN.bat",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "32"
+                }
+            },
+            "2": {
+                "executable": "LaunchDedicatedServer03_on_WAN.bat",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "32"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
+        "704981": {
+            "name": "Master Arena Server Content",
+            "manifests": {
+                "public": "3829706695361057135"
+            },
+            "maxsize": "790058976"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8402971",
+                "timeupdated": "1647700279"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14273517,
+    "_sha": "86a5283c00ce1171caaf8d7e57c1f5e68598e8eb",
+    "_size": 2035
+}

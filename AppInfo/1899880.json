@@ -1,0 +1,56 @@
+{
+    "appid": "1899880",
+    "common": {
+        "name": "BadlandServerLinux",
+        "type": "Tool",
+        "parent": "1714350",
+        "releasestate": "released",
+        "oslist": "linux",
+        "osarch": "",
+        "osextended": "",
+        "icon": "4c5e67102609858838aeede0ad5d770800e6dbab",
+        "clienticon": "db6ac4c665a72f8ebb20b45734ca41275e2344e4",
+        "clienttga": "8ebbd6b2e2a5a16202eb1b6c8b0d421882d97c04",
+        "gameid": "1899880",
+        "exfgls": "1"
+    },
+    "extended": {
+        "gamedir": "Badlands",
+        "serverbrowsername": "Badlands"
+    },
+    "config": {
+        "installdir": "BadlandsServerLinux",
+        "launch": {
+            "0": {
+                "executable": "./BadlandsServer.sh",
+                "type": "default",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1899881": {
+            "name": "DedicatedServer Content",
+            "config": {
+                "oslist": "linux",
+                "steamdeck": "0"
+            },
+            "manifests": {
+                "public": "2363777557110059553"
+            },
+            "maxsize": "1295546262"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8404366",
+                "timeupdated": "1647742639"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14276696,
+    "_sha": "7606ec24fc74187f56a96a7ec7d515e1ace4d0ea",
+    "_size": 1014
+}

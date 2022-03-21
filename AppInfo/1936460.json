@@ -1,0 +1,51 @@
+{
+    "appid": "1936460",
+    "common": {
+        "name": "TheDark Dedicated Server",
+        "type": "Tool",
+        "parent": "1884970",
+        "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "clienttga": "9e97705c0ca7794d0026885468ad5d872127a5db",
+        "icon": "8886db88dfcd9435b19583c7adee59642bcf75ae",
+        "clienticon": "16e8b6ea6a2e0f29810440bcd357c3f1ab8452d9",
+        "clienticns": "16e8b6ea6a2e0f29810440bcd357c3f1ab8452d9",
+        "linuxclienticon": "16e8b6ea6a2e0f29810440bcd357c3f1ab8452d9",
+        "gameid": "1936460",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "dedicated",
+        "launch": {
+            "0": {
+                "executable": "thedarkserver.exe"
+            }
+        }
+    },
+    "depots": {
+        "1936461": {
+            "name": "dedicated Content",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "steamdeck": "0"
+            },
+            "manifests": {
+                "public": "3588517003451458409"
+            },
+            "maxsize": "643641851"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8375858",
+                "timeupdated": "1647356345"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 14231985,
+    "_sha": "77c84ed1cb74d1bc98d30db6381292ca3a380b29",
+    "_size": 1003
+}
