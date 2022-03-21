@@ -74,7 +74,13 @@
             "manifests": {
                 "public": "228900238534150950"
             },
-            "maxsize": "1382349958"
+            "maxsize": "1382349958",
+            "encryptedmanifests": {
+                "beta": {
+                    "encrypted_gid_2": "9FDE8B8BE4555A190C58E0FF2595BC70",
+                    "encrypted_size_2": "64F98D1DB97AEA0FB987DEE515472C8E"
+                }
+            }
         },
         "203302": {
             "name": "America's Army: Proving Grounds Dedicated Server Windows",
@@ -84,7 +90,13 @@
             "manifests": {
                 "public": "2718704469986543584"
             },
-            "maxsize": "142042533"
+            "maxsize": "142042533",
+            "encryptedmanifests": {
+                "beta": {
+                    "encrypted_gid_2": "E1D33DA73D2C3E26CA31D2365D6A9D8B",
+                    "encrypted_size_2": "19D3DD00566A93B52D2ADF9E1858853B"
+                }
+            }
         },
         "203303": {
             "name": "America's Army: Proving Grounds Dedicated Server Linux",
@@ -95,7 +107,13 @@
             "manifests": {
                 "public": "5122976245272997519"
             },
-            "maxsize": "77117253"
+            "maxsize": "77117253",
+            "encryptedmanifests": {
+                "beta": {
+                    "encrypted_gid_2": "48F958138D04B8B95E4010F51F8A5F00",
+                    "encrypted_size_2": "DB380F945F8506C4197CF127E8BD9CD9"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -103,10 +121,10 @@
                 "timeupdated": "1639486905"
             },
             "beta": {
-                "buildid": "7855978",
+                "buildid": "8410103",
                 "description": "Beta Branch",
                 "pwdrequired": "1",
-                "timeupdated": "1639065135"
+                "timeupdated": "1647872360"
             }
         }
     },
@@ -116,7 +134,7 @@
         "hidecloudui": "0"
     },
     "_missing_token": false,
-    "_change_number": 13415386,
-    "_sha": "bb4e4aa84abed069a286d391017471650e6f1889",
-    "_size": 2417
+    "_change_number": 14285744,
+    "_sha": "699e39bf5da8faf9d142b3c52000f506afbaf83a",
+    "_size": 2945
 }
