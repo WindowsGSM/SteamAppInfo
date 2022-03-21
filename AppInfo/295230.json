@@ -43,12 +43,16 @@
             "name": "Fistfull of Frags Dedicated Server Content",
             "systemdefined": "1",
             "manifests": {
-                "public": "6987822567926387508",
+                "public": "1510045506184093217",
                 "beta": "2032614952952668483",
                 "upcoming": "8392595538748497171"
             },
-            "maxsize": "2888541881",
+            "maxsize": "2880419682",
             "encryptedmanifests": {
+                "ranked": {
+                    "encrypted_gid_2": "E3130C6723CED646018C3BAC44C62CDB",
+                    "encrypted_size_2": "7ECE5060FDFC1F6CEF1CD10B84316F72"
+                },
                 "ranked_30": {
                     "encrypted_gid_2": "21D7B1AA2ADA135D27A4FCBAB0E9FB6A",
                     "encrypted_size_2": "6C9CFB31BBBB1CAA8EE2E48949E6F95E"
@@ -61,12 +65,16 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "1698677889550380421",
+                "public": "2134555888574923342",
                 "beta": "7036406250853843631",
                 "upcoming": "46344604116052244"
             },
             "maxsize": "100091911",
             "encryptedmanifests": {
+                "ranked": {
+                    "encrypted_gid_2": "30D31710F9CE90B6D85D948110CABB90",
+                    "encrypted_size_2": "C0049BDF1C6CB6C9D51796C2942F0803"
+                },
                 "ranked_30": {
                     "encrypted_gid_2": "5047887B4946D2B1DC1DC66A4BF023D4",
                     "encrypted_size_2": "E16987FEFFCAF470A74239B29EC7ADCB"
@@ -79,12 +87,16 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "8222652000947473361",
+                "public": "431136344420251029",
                 "beta": "6165168814692247872",
                 "upcoming": "7728123059837811701"
             },
             "maxsize": "70771347",
             "encryptedmanifests": {
+                "ranked": {
+                    "encrypted_gid_2": "147B0B9EA39E43AF4D543F051EA0C676",
+                    "encrypted_size_2": "31AC172996A60C321040672AFE5A203D"
+                },
                 "ranked_30": {
                     "encrypted_gid_2": "20A585B8903C7DC4CE2CDFB74FF8E201",
                     "encrypted_size_2": "86108CD781C874ADA49FA2ABF428E36F"
@@ -93,8 +105,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "8117335",
-                "timeupdated": "1643629761"
+                "buildid": "8408518",
+                "timeupdated": "1647854339"
             },
             "beta": {
                 "buildid": "1492681",
@@ -121,7 +133,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14278476,
-    "_sha": "62f55b0f0075ef5ccac8c826e64cc494b8e8fc20",
-    "_size": 2843
+    "_change_number": 14283477,
+    "_sha": "3591449500ad4f1ec6b65aca015877d1a9951464",
+    "_size": 3274
 }
