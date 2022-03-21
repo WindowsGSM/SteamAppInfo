@@ -40,6 +40,7 @@
         "uselaunchcommandline": "1"
     },
     "depots": {
+        "hasdepotsindlc": "0",
         "1004": {
             "name": "Steamworks SDK Redist (WIN32)",
             "config": {
@@ -82,7 +83,6 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
-        "hasdepotsindlc": "0",
         "1697661": {
             "name": "Hellbreath Dedicated Server Content",
             "config": {
@@ -95,6 +95,14 @@
             },
             "maxsize": "2213076094"
         },
+        "1697662": {
+            "name": "Repositorio Hellbreath Dedicated Server",
+            "config": {
+                "language": "english",
+                "oslist": "linux",
+                "osarch": "64"
+            }
+        },
         "branches": {
             "public": {
                 "buildid": "8410020",
@@ -103,7 +111,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14285715,
-    "_sha": "c54bf50b8893829d8d0df61c512e5e117b8a8a44",
-    "_size": 2197
+    "_change_number": 14285984,
+    "_sha": "55ada5395bc055dcc049fdb53b3dd7874c780d5c",
+    "_size": 2359
 }
