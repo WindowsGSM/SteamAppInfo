@@ -2,18 +2,14 @@
 Get the latest steam app info json here, automatic updated every 5 minutes.
 
 ## App List
-This repository only updates the apps whose `name` contains `server` for game server management purposes.
+This repository only updates the dedicated server apps for game server management purposes.
 
 | AppId | Name | AppInfo Json |
 | - | - | - |
-| `5` | Dedicated Server | [5.json](AppInfo/5.json) |
 | `90` | Half-Life Dedicated Server | [90.json](AppInfo/90.json) |
 | `205` | Source Dedicated Server | [205.json](AppInfo/205.json) |
-| `210` | Source Dedicated Server | [210.json](AppInfo/210.json) |
 | `310` | Source 2007 Dedicated Server | [310.json](AppInfo/310.json) |
 | `510` | Left 4 Dead Dedicated Server | [510.json](AppInfo/510.json) |
-| `540` | Left 4 Dead Demo Dedicated Server | [540.json](AppInfo/540.json) |
-| `560` | Left 4 Dead 2 Dedicated Server | [560.json](AppInfo/560.json) |
 | `635` | Alien Swarm Dedicated Server | [635.json](AppInfo/635.json) |
 | `740` | Counter-Strike Global Offensive - Dedicated Server | [740.json](AppInfo/740.json) |
 | `1240` | Mare Nostrum Dedicated Server | [1240.json](AppInfo/1240.json) |
@@ -21,12 +17,9 @@ This repository only updates the apps whose `name` contains `server` for game se
 | `1290` | Darkest Hour: Europe '44-'45 Dedicated Server | [1290.json](AppInfo/1290.json) |
 | `2145` | Dark Messiah of Might & Magic Dedicated Server | [2145.json](AppInfo/2145.json) |
 | `2403` | The Ship Dedicated Server | [2403.json](AppInfo/2403.json) |
-| `2413` | The Ship Dedicated Server Beta | [2413.json](AppInfo/2413.json) |
 | `2460` | Bloody Good Time Dedicated Server | [2460.json](AppInfo/2460.json) |
 | `2740` | ThreadSpace: Hyperbol dedicated server | [2740.json](AppInfo/2740.json) |
 | `4020` | Garry's Mod Dedicated Server | [4020.json](AppInfo/4020.json) |
-| `4207` | Race Internal Beta Dedicated Server | [4207.json](AppInfo/4207.json) |
-| `4210` | Race Internal Beta Dedicated Server | [4210.json](AppInfo/4210.json) |
 | `4240` | Race Dedicated Server | [4240.json](AppInfo/4240.json) |
 | `4270` | RACE 07 Demo Dedicated Server | [4270.json](AppInfo/4270.json) |
 | `4940` | Natural Selection 2 Dedicated Server | [4940.json](AppInfo/4940.json) |
@@ -46,7 +39,6 @@ This repository only updates the apps whose `name` contains `server` for game se
 | `17585` | Dystopia Dedicated Server | [17585.json](AppInfo/17585.json) |
 | `17595` | Dystopia Beta Dedicated Server | [17595.json](AppInfo/17595.json) |
 | `17705` | Insurgency Mod Dedicated Server | [17705.json](AppInfo/17705.json) |
-| `17790` | Nuclear Dawn - Dev: Dedicated Server | [17790.json](AppInfo/17790.json) |
 | `18112` | Shattered Horizon Dedicated Server | [18112.json](AppInfo/18112.json) |
 | `25740` | Madballs In...Babo:Invasion Dedicated Server | [25740.json](AppInfo/25740.json) |
 | `31720` | Iron Grip: Warlord Dedicated Server | [31720.json](AppInfo/31720.json) |
@@ -60,9 +52,7 @@ This repository only updates the apps whose `name` contains `server` for game se
 | `41080` | Serious Sam 3 Dedicated Server | [41080.json](AppInfo/41080.json) |
 | `42750` | Call of Duty: Modern Warfare 3 - Dedicated Server | [42750.json](AppInfo/42750.json) |
 | `43210` | The Haunted: Hells Reach Dedicated Server | [43210.json](AppInfo/43210.json) |
-| `44720` | RACE 07 Dedicated Server Beta | [44720.json](AppInfo/44720.json) |
 | `55280` | Homefront Dedicated Server | [55280.json](AppInfo/55280.json) |
-| `55290` | Homefront Dedicated Server [Japanese] | [55290.json](AppInfo/55290.json) |
 | `57910` | Duke Nukem Forever Dedicated Server | [57910.json](AppInfo/57910.json) |
 | `63220` | Monday Night Combat Dedicated Server | [63220.json](AppInfo/63220.json) |
 | `70010` | Dino D-Day - Dedicated Server | [70010.json](AppInfo/70010.json) |
@@ -93,11 +83,11 @@ This repository only updates the apps whose `name` contains `server` for game se
 | `230030` | Painkiller Hell & Damnation Dedicated Server | [230030.json](AppInfo/230030.json) |
 | `232130` | Killing Floor 2 - Dedicated Server | [232130.json](AppInfo/232130.json) |
 | `232250` | Team Fortress 2 Dedicated Server | [232250.json](AppInfo/232250.json) |
+| `232290` | Day of Defeat: Source Dedicated Server | [232290.json](AppInfo/232290.json) |
 | `232330` | Counter-Strike: Source Dedicated Server | [232330.json](AppInfo/232330.json) |
 | `233780` | Arma 3 Server | [233780.json](AppInfo/233780.json) |
 | `237410` | Insurgency Dedicated Server | [237410.json](AppInfo/237410.json) |
 | `238690` | Rising Storm Beta Dedicated Server | [238690.json](AppInfo/238690.json) |
-| `239510` | America's Army: Proving Grounds Beta Dedicated Server | [239510.json](AppInfo/239510.json) |
 | `244310` | Source SDK Base 2013 Dedicated Server | [244310.json](AppInfo/244310.json) |
 | `255470` | Half-Life Deathmatch: Source Dedicated server | [255470.json](AppInfo/255470.json) |
 | `258550` | Rust Dedicated Server | [258550.json](AppInfo/258550.json) |
@@ -125,7 +115,6 @@ This repository only updates the apps whose `name` contains `server` for game se
 | `336400` | PCE Dedicated Server | [336400.json](AppInfo/336400.json) |
 | `338440` | BOMB Dedicated Server | [338440.json](AppInfo/338440.json) |
 | `339010` | Rising World Dedicated Server | [339010.json](AppInfo/339010.json) |
-| `345950` | Down To One Dedicated Server | [345950.json](AppInfo/345950.json) |
 | `346680` | Black Mesa Dedicated Server | [346680.json](AppInfo/346680.json) |
 | `354060` | RaceRoom Dedicated Server | [354060.json](AppInfo/354060.json) |
 | `361580` | Wreckfest Dedicated Server | [361580.json](AppInfo/361580.json) |
@@ -136,7 +125,6 @@ This repository only updates the apps whose `name` contains `server` for game se
 | `382030` | Yargis - Space Melee - Dedicated Server | [382030.json](AppInfo/382030.json) |
 | `382280` | Abatron Dedicated Server | [382280.json](AppInfo/382280.json) |
 | `383410` | Codename CURE Dedicated Server | [383410.json](AppInfo/383410.json) |
-| `384850` | AoF World Online Server with Scripts | [384850.json](AppInfo/384850.json) |
 | `393250` | Savage Resurrection Dedicated Server | [393250.json](AppInfo/393250.json) |
 | `402370` | Wurm Unlimited Dedicated Server | [402370.json](AppInfo/402370.json) |
 | `403240` | Squad Dedicated Server | [403240.json](AppInfo/403240.json) |
@@ -158,25 +146,12 @@ This repository only updates the apps whose `name` contains `server` for game se
 | `447760` | Automobilista - Dedicated Server | [447760.json](AppInfo/447760.json) |
 | `449740` | Alchemist's Awakening Dedicated Server | [449740.json](AppInfo/449740.json) |
 | `450980` | Ultimate Arena FPS - Dedicated Server | [450980.json](AppInfo/450980.json) |
-| `451280` | Founder's Server : Exclusive Access 2 | [451280.json](AppInfo/451280.json) |
-| `451320` | Founder's Server : Exclusive Access 3 | [451320.json](AppInfo/451320.json) |
-| `452430` | Founder's Server : Exclusive Access 1 | [452430.json](AppInfo/452430.json) |
 | `453420` | Formicide Dedicated Server | [453420.json](AppInfo/453420.json) |
 | `460040` | Empires Dedicated Server | [460040.json](AppInfo/460040.json) |
 | `460300` | Ice Lakes Dedicated Server | [460300.json](AppInfo/460300.json) |
 | `460320` | MetaTron Dedicated Server | [460320.json](AppInfo/460320.json) |
 | `460670` | The Lost Island Dedicated Server | [460670.json](AppInfo/460670.json) |
 | `462310` | Day of Infamy Dedicated Server | [462310.json](AppInfo/462310.json) |
-| `463640` | Founder's Server : Exclusive Access 1 ( 50% OFF ) | [463640.json](AppInfo/463640.json) |
-| `463650` | Founder's Server : Exclusive Access 2 ( 50% OFF ) | [463650.json](AppInfo/463650.json) |
-| `472840` | Tree of Savior - Beginner's Pack for NA Servers | [472840.json](AppInfo/472840.json) |
-| `472841` | Tree of Savior - Beginner's Pack for EU Servers | [472841.json](AppInfo/472841.json) |
-| `472860` | Tree of Savior - Beginner's Pack for SEA Servers | [472860.json](AppInfo/472860.json) |
-| `472861` | Tree of Savior - Beginner's Pack for SA Servers | [472861.json](AppInfo/472861.json) |
-| `474800` | Tree of Savior - Veteran's Pack for NA Servers | [474800.json](AppInfo/474800.json) |
-| `474801` | Tree of Savior - Veteran's Pack for SEA Servers | [474801.json](AppInfo/474801.json) |
-| `474802` | Tree of Savior - Veteran's Pack for EU Servers | [474802.json](AppInfo/474802.json) |
-| `474803` | Tree of Savior - Veteran's Pack for SA Servers | [474803.json](AppInfo/474803.json) |
 | `475370` | BrainBread 2 Dedicated Server | [475370.json](AppInfo/475370.json) |
 | `476400` | GROUND BRANCH Dedicated Server | [476400.json](AppInfo/476400.json) |
 | `485250` | The Black Death Dedicated Server | [485250.json](AppInfo/485250.json) |
@@ -197,13 +172,8 @@ This repository only updates the apps whose `name` contains `server` for game se
 | `545990` | Call of Duty: Black Ops III - Unranked Dedicated Server | [545990.json](AppInfo/545990.json) |
 | `548400` | STEAM HAMMER Dedicated server | [548400.json](AppInfo/548400.json) |
 | `549990` | Cobalt Dedicated Server | [549990.json](AppInfo/549990.json) |
-| `550772` | Steam Dev Days: Game Server Hosting | [550772.json](AppInfo/550772.json) |
 | `550790` | Rend Server | [550790.json](AppInfo/550790.json) |
 | `553650` | VIAR Server | [553650.json](AppInfo/553650.json) |
-| `554270` | Tree of Savior - Fresh Start Pack for NA Servers | [554270.json](AppInfo/554270.json) |
-| `554271` | Tree of Savior - Fresh Start Pack for EU Servers | [554271.json](AppInfo/554271.json) |
-| `554272` | Tree of Savior - Fresh Start Pack for SEA Servers | [554272.json](AppInfo/554272.json) |
-| `554273` | Tree of Savior - Fresh Start Pack for SA Servers | [554273.json](AppInfo/554273.json) |
 | `556450` | The Forest Dedicated Server | [556450.json](AppInfo/556450.json) |
 | `557690` | Vengeance: Dedicated Server (OBSOLETE) | [557690.json](AppInfo/557690.json) |
 | `559440` | Sunset Rangers Server | [559440.json](AppInfo/559440.json) |
@@ -238,8 +208,6 @@ This repository only updates the apps whose `name` contains `server` for game se
 | `638100` | Kreedz Climbing Dedicated Server | [638100.json](AppInfo/638100.json) |
 | `638500` | Soldat Dedicated Server | [638500.json](AppInfo/638500.json) |
 | `643090` | Them's Fightin' Herds Dedicated Server | [643090.json](AppInfo/643090.json) |
-| `643450` | Magical Girl Raising Project: Server Down for Maintenance | [643450.json](AppInfo/643450.json) |
-| `649390` | RutonyChat - Restream Server | [649390.json](AppInfo/649390.json) |
 | `660470` | Dedicated Server | [660470.json](AppInfo/660470.json) |
 | `667230` | Capsa Dedicated Server | [667230.json](AppInfo/667230.json) |
 | `668390` | Hanako: Honor & Blade Dedicated Server | [668390.json](AppInfo/668390.json) |
@@ -248,10 +216,6 @@ This repository only updates the apps whose `name` contains `server` for game se
 | `679600` | Pantropy dedicated server | [679600.json](AppInfo/679600.json) |
 | `680020` | Wasteworld Server | [680020.json](AppInfo/680020.json) |
 | `680870` | Airmen Dedicated Server | [680870.json](AppInfo/680870.json) |
-| `682380` | Tree of Savior - Reset Pack for NA Servers | [682380.json](AppInfo/682380.json) |
-| `682390` | Tree of Savior - Reset Pack for EU Servers | [682390.json](AppInfo/682390.json) |
-| `682400` | Tree of Savior - Reset Pack for SEA Servers | [682400.json](AppInfo/682400.json) |
-| `682410` | Tree of Savior - Reset Pack for SA Servers | [682410.json](AppInfo/682410.json) |
 | `685100` | Crafting Dead Dedicated Server | [685100.json](AppInfo/685100.json) |
 | `688930` | City of Ages: Picture Supportive Text MUD (server and client included) | [688930.json](AppInfo/688930.json) |
 | `689410` | BattleBitDedicatedGameServer | [689410.json](AppInfo/689410.json) |
@@ -260,6 +224,7 @@ This repository only updates the apps whose `name` contains `server` for game se
 | `696120` | GearStorm Dedicated Server | [696120.json](AppInfo/696120.json) |
 | `696260` | Tree of Life - Experimental Server | [696260.json](AppInfo/696260.json) |
 | `696640` | Radline + Dedicated Server (obsolete) | [696640.json](AppInfo/696640.json) |
+| `704980` | Master Arena Server | [704980.json](AppInfo/704980.json) |
 | `710560` | Ylands Dedicated Server | [710560.json](AppInfo/710560.json) |
 | `713970` | The Simple Apocalypse Server | [713970.json](AppInfo/713970.json) |
 | `723520` | SCP Project Dedicated Server | [723520.json](AppInfo/723520.json) |
@@ -267,7 +232,6 @@ This repository only updates the apps whose `name` contains `server` for game se
 | `730810` | Allegiance Server | [730810.json](AppInfo/730810.json) |
 | `739120` | BattleRush Dedicated Server | [739120.json](AppInfo/739120.json) |
 | `739590` | Eco Server | [739590.json](AppInfo/739590.json) |
-| `739606` | In Another World With My Smartphone: Nation of Beastmen, and an Observer | [739606.json](AppInfo/739606.json) |
 | `745640` | Gamiflux Server | [745640.json](AppInfo/745640.json) |
 | `746200` | Post Scriptum Dedicated Server | [746200.json](AppInfo/746200.json) |
 | `748090` | Colony Survival Dedicated Server | [748090.json](AppInfo/748090.json) |
@@ -277,17 +241,12 @@ This repository only updates the apps whose `name` contains `server` for game se
 | `762880` | Outpost Zero Dedicated Server | [762880.json](AppInfo/762880.json) |
 | `764860` | Jetball Dedicated Server | [764860.json](AppInfo/764860.json) |
 | `764940` | Fear the Night Server | [764940.json](AppInfo/764940.json) |
-| `768700` | TOS - New Rank Booster for NA Servers | [768700.json](AppInfo/768700.json) |
-| `768701` | TOS - New Rank Booster for EU Servers | [768701.json](AppInfo/768701.json) |
-| `768702` | TOS - New Rank Booster for SEA Servers | [768702.json](AppInfo/768702.json) |
-| `768703` | TOS - New Rank Booster for SA Servers | [768703.json](AppInfo/768703.json) |
 | `770720` | Hunt: Showdown (Test Server) | [770720.json](AppInfo/770720.json) |
 | `774061` | The Prison Game Dedicated Server Tool | [774061.json](AppInfo/774061.json) |
 | `774771` | Original War Server | [774771.json](AppInfo/774771.json) |
 | `774961` | Squad - Public Test Dedicated Server | [774961.json](AppInfo/774961.json) |
 | `777030` | FTR Windows Server | [777030.json](AppInfo/777030.json) |
 | `777180` | Game Server Toolbox | [777180.json](AppInfo/777180.json) |
-| `779350` | TRAFICO - Battle Royale Test Server | [779350.json](AppInfo/779350.json) |
 | `786920` | SCP: Secret Laboratory ServerMod | [786920.json](AppInfo/786920.json) |
 | `801230` | Fog Of War - Free Edition Dedicated Server | [801230.json](AppInfo/801230.json) |
 | `805140` | Battalion 1944 Dedicated Server | [805140.json](AppInfo/805140.json) |
@@ -297,8 +256,6 @@ This repository only updates the apps whose `name` contains `server` for game se
 | `824240` | Unfortunate Spacemen Dedicated Server | [824240.json](AppInfo/824240.json) |
 | `824360` | PixARK Dedicated Server | [824360.json](AppInfo/824360.json) |
 | `839510` | Scrunk Server | [839510.json](AppInfo/839510.json) |
-| `842840` | Granado Espada: NA Server Founder's Pack - Light | [842840.json](AppInfo/842840.json) |
-| `842841` | Granado Espada: NA Server Founder's Pack - Premium | [842841.json](AppInfo/842841.json) |
 | `844410` | Triggered: Assault Dedicated Server | [844410.json](AppInfo/844410.json) |
 | `844650` | Post Scriptum - Beta Dedicated Server | [844650.json](AppInfo/844650.json) |
 | `848490` | Murderous Pursuits Beta Dedicated Server | [848490.json](AppInfo/848490.json) |
@@ -320,7 +277,6 @@ This repository only updates the apps whose `name` contains `server` for game se
 | `920720` | Last Oasis - Dedicated Server | [920720.json](AppInfo/920720.json) |
 | `928530` | Prime & Load: 1776 Dedicated Server | [928530.json](AppInfo/928530.json) |
 | `931580` | Conan Exiles - Testlive Dedicated Server | [931580.json](AppInfo/931580.json) |
-| `939320` | Observer - Soundtrack | [939320.json](AppInfo/939320.json) |
 | `944490` | Vox Machinae Dedicated Server | [944490.json](AppInfo/944490.json) |
 | `947870` | Starcross Arena Dedicated Server | [947870.json](AppInfo/947870.json) |
 | `950080` | BULLETGROUNDS Dedicated Server | [950080.json](AppInfo/950080.json) |
@@ -421,7 +377,6 @@ This repository only updates the apps whose `name` contains `server` for game se
 | `1433120` | STAR WARS™: The Old Republic™ - Public Test Server | [1433120.json](AppInfo/1433120.json) |
 | `1433270` | SCP: Escape Together Dedicated Server | [1433270.json](AppInfo/1433270.json) |
 | `1460560` | Unclear Dedicated Server | [1460560.json](AppInfo/1460560.json) |
-| `1471190` | NARAKA: BLADEPOINT - Test Server Playtest | [1471190.json](AppInfo/1471190.json) |
 | `1475910` | DIY Simulator Dedicated Server | [1475910.json](AppInfo/1475910.json) |
 | `1479670` | Zero-based World Dedicated Server | [1479670.json](AppInfo/1479670.json) |
 | `1480080` | Notruf 112 - 2 Dedicated Server | [1480080.json](AppInfo/1480080.json) |
@@ -433,7 +388,6 @@ This repository only updates the apps whose `name` contains `server` for game se
 | `1549820` | Modiverse Linux Dedicated Server | [1549820.json](AppInfo/1549820.json) |
 | `1573820` | Raptor Territory Dedicated Server | [1573820.json](AppInfo/1573820.json) |
 | `1574860` | Kaboom! Dedicated Server | [1574860.json](AppInfo/1574860.json) |
-| `1575887` | Sniper Ghost Warrior Contracts 2 - Blue Servers Skins | [1575887.json](AppInfo/1575887.json) |
 | `1587690` | EZ2ON REBOOT : R (Test Server) | [1587690.json](AppInfo/1587690.json) |
 | `1602470` | DOOMBRINGER Dedicated Server | [1602470.json](AppInfo/1602470.json) |
 | `1603250` | Cyberless III: Online Server | [1603250.json](AppInfo/1603250.json) |
@@ -454,7 +408,6 @@ This repository only updates the apps whose `name` contains `server` for game se
 | `1717030` | Smerch Battle Arena - Dedicated Server | [1717030.json](AppInfo/1717030.json) |
 | `1722130` | Birthright Dedicated Server | [1722130.json](AppInfo/1722130.json) |
 | `1736750` | KoA Dedicated Server | [1736750.json](AppInfo/1736750.json) |
-| `1738710` | SCP Observer | [1738710.json](AppInfo/1738710.json) |
 | `1738800` | Outworlder Server | [1738800.json](AppInfo/1738800.json) |
 | `1748680` | Fight or Flight Dedicated Server | [1748680.json](AppInfo/1748680.json) |
 | `1750680` | Beryllium Dedicated Server | [1750680.json](AppInfo/1750680.json) |
@@ -465,7 +418,6 @@ This repository only updates the apps whose `name` contains `server` for game se
 | `1801260` | Spawnworks Dedicated Server | [1801260.json](AppInfo/1801260.json) |
 | `1801280` | SCP: CB Multiplayer Dedicated Server | [1801280.json](AppInfo/1801280.json) |
 | `1812770` | Dead Event Dedicated Server | [1812770.json](AppInfo/1812770.json) |
-| `1816360` | Dysterra Playtest Dedicated Server | [1816360.json](AppInfo/1816360.json) |
 | `1821720` | FallenSkyServer | [1821720.json](AppInfo/1821720.json) |
 | `1827320` | Isles of Yore Dedicated Server - Windows | [1827320.json](AppInfo/1827320.json) |
 | `1827330` | Isles of Yore Dedicated Server - Linux | [1827330.json](AppInfo/1827330.json) |
@@ -475,9 +427,12 @@ This repository only updates the apps whose `name` contains `server` for game se
 | `1860400` | Escape from Covid Dedicated Server | [1860400.json](AppInfo/1860400.json) |
 | `1875500` | Treason Dedicated Server | [1875500.json](AppInfo/1875500.json) |
 | `1892930` | s&box server | [1892930.json](AppInfo/1892930.json) |
+| `1899880` | BadlandServerLinux | [1899880.json](AppInfo/1899880.json) |
 | `1899970` | Badlands Dedicated Server | [1899970.json](AppInfo/1899970.json) |
 | `1900210` | LGS Dedicated Server | [1900210.json](AppInfo/1900210.json) |
 | `1911460` | Infinite Progression Dedicated Server | [1911460.json](AppInfo/1911460.json) |
 | `1911970` | OverShoot Battle Race [ Dedicated Server ] | [1911970.json](AppInfo/1911970.json) |
 | `1926100` | RealTennisServer | [1926100.json](AppInfo/1926100.json) |
 | `1932270` | Condemned Dedicated Server | [1932270.json](AppInfo/1932270.json) |
+| `1936460` | TheDark Dedicated Server | [1936460.json](AppInfo/1936460.json) |
+| `1940990` | Ironsight Test Server | [1940990.json](AppInfo/1940990.json) |

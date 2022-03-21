@@ -10,7 +10,7 @@ def main():
 Get the latest steam app info json here, automatic updated every 5 minutes.
 
 ## App List
-This repository only updates the apps whose `name` contains `server` for game server management purposes.
+This repository only updates the dedicated server apps for game server management purposes.
 
 '''
 
