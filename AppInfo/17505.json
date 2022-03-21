@@ -71,19 +71,15 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "1156641806936465351",
+                "public": "795418412640190924",
                 "legacy2.4": "7345369736366925217",
                 "v3.0.9a": "4543002528562670536"
             },
             "maxsize": "100675255",
             "encryptedmanifests": {
                 "eugene": {
-                    "encrypted_gid_2": "5B7FDB873A7EBB202733545E28324DBC",
-                    "encrypted_size_2": "58285ADDF4AF55C687676422A69A997D"
-                },
-                "quality_assurance": {
-                    "encrypted_gid_2": "8F9C64AD4849D3BFF5A5DF246F47E525",
-                    "encrypted_size_2": "5850806B25408CE564ABA883F97AEE6C"
+                    "encrypted_gid_2": "54B55A6FDBCFB8654524D16139C57ED8",
+                    "encrypted_size_2": "DEA4B59892A53E81E7CE92D8E090A78C"
                 }
             }
         },
@@ -93,51 +89,43 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "5122049293740812206",
+                "public": "5915073506692583728",
                 "legacy2.4": "4221706886458780388",
                 "v3.0.9a": "3456975260622561583"
             },
             "maxsize": "91877537",
             "encryptedmanifests": {
                 "eugene": {
-                    "encrypted_gid_2": "77801811346CB819B2568C9FB63B81C7",
-                    "encrypted_size_2": "BB0A2AC96C16EBA8E75B55BC5715184C"
-                },
-                "quality_assurance": {
-                    "encrypted_gid_2": "5B8E1543284EAC377794C1E206693331",
-                    "encrypted_size_2": "E3B980D8BCDA3C4910C31B010AD5B8B3"
+                    "encrypted_gid_2": "428CADDA9491E9B55426C6E85DCA90CA",
+                    "encrypted_size_2": "FFBE6115BE1B993229C4D57877E191E4"
                 }
             }
         },
         "686473": {
             "name": "Zombie Panic! Source Dedicated Server Shared Content Dedicated",
             "manifests": {
-                "public": "3928917501903219689",
+                "public": "548102751751357708",
                 "legacy2.4": "1906675738397121551",
                 "v3.0.9a": "1646989424537902631"
             },
-            "maxsize": "7865507721",
+            "maxsize": "7873601240",
             "encryptedmanifests": {
                 "eugene": {
-                    "encrypted_gid_2": "101229A9B45F7F88D444CF4FE8FEAAF5",
-                    "encrypted_size_2": "CC9DAD99AA1761DC5CE9FAE43934CEEC"
-                },
-                "quality_assurance": {
-                    "encrypted_gid_2": "EFE9C73D4E0D967C4D710DC5A71F1B3E",
-                    "encrypted_size_2": "0042D6558F38D0B8B7EFBDE129E1C5AD"
+                    "encrypted_gid_2": "FE4F9903BFB2A8C59CA2052B4A407951",
+                    "encrypted_size_2": "889AEC9A99969A61247C007AD5E1AE47"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "8403873",
-                "timeupdated": "1647729792"
+                "buildid": "8410682",
+                "timeupdated": "1647891641"
             },
             "eugene": {
-                "buildid": "8320045",
+                "buildid": "8403873",
                 "description": "Hi there! :)",
                 "pwdrequired": "1",
-                "timeupdated": "1647729715"
+                "timeupdated": "1647891614"
             },
             "legacy2.4": {
                 "buildid": "5567065",
@@ -158,7 +146,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14286531,
-    "_sha": "eb3a26f28efb131ab8e6ba2fb6033a01387fa867",
-    "_size": 4105
+    "_change_number": 14288409,
+    "_sha": "b2f7c6eb131b70eeba27a24e8f69119393c563bc",
+    "_size": 3638
 }
