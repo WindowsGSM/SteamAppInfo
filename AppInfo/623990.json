@@ -154,13 +154,17 @@
         "623991": {
             "name": "Tom Clancy's Rainbow Six Siege - Technical Test Server Content",
             "manifests": {
-                "public": "6289063156090704838"
+                "public": "6003670074846804068"
             },
-            "maxsize": "58487658175",
+            "maxsize": "58569815389",
             "encryptedmanifests": {
                 "none": {
                     "encrypted_gid_2": "A65C07D5DA39ABD9190790CCE5DA1C2F",
                     "encrypted_size_2": "AC85D946DF2526D96EFF52D9F4BC44D9"
+                },
+                "pts-a": {
+                    "encrypted_gid_2": "423B8A2E3B89F8787012D0E1D28983E9",
+                    "encrypted_size_2": "B213819BE2A2352A03D410648D67A018"
                 },
                 "pts-stable": {
                     "encrypted_gid_2": "896DDB4794043B9859B13095B24F4EB2",
@@ -178,8 +182,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "8393787",
-                "timeupdated": "1647872343"
+                "buildid": "8417150",
+                "timeupdated": "1647960549"
             },
             "none": {
                 "buildid": "2816154",
@@ -214,7 +218,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14285741,
-    "_sha": "2b719a4e3ab317a2fdb14035fd73016d8d97eef0",
-    "_size": 4956
+    "_change_number": 14296566,
+    "_sha": "7366b13a54798856f6d974bab8ec287fa7369ae8",
+    "_size": 5099
 }
