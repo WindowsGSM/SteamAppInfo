@@ -24,6 +24,7 @@
         "launch": {
             "0": {
                 "executable": "BadlandsServer.exe",
+                "arguments": "-log -unattended",
                 "type": "default",
                 "config": {
                     "oslist": "windows",
@@ -105,7 +106,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14300619,
-    "_sha": "e787aae6d6d295f365e1deafd9cb7350fcdddbcf",
-    "_size": 2171
+    "_change_number": 14300685,
+    "_sha": "051b26c6ed3d0e65c9d8ea3988705a2cc1d778e2",
+    "_size": 2207
 }
