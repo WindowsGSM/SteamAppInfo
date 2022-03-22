@@ -21,7 +21,7 @@
         "serverbrowsername": "Badlands"
     },
     "config": {
-        "installdir": "Badlands Dedicated Server",
+        "installdir": "BadlandsDedicatedServer",
         "launch": {
             "0": {
                 "executable": "BadlandsServer.exe",
@@ -66,26 +66,6 @@
             "maxsize": "65909056",
             "depotfromapp": "1007"
         },
-        "228988": {
-            "name": "VC 2019 Redist",
-            "config": {
-                "oslist": "windows",
-                "language": ""
-            },
-            "maxsize": "29212147",
-            "depotfromapp": "228980",
-            "sharedinstall": "1"
-        },
-        "229033": {
-            "name": "PhysX System Software 9.14.0702",
-            "config": {
-                "oslist": "windows",
-                "language": ""
-            },
-            "maxsize": "60039803",
-            "depotfromapp": "228980",
-            "sharedinstall": "1"
-        },
         "1899971": {
             "name": "Badlands Dedicated Server Windows",
             "config": {
@@ -106,7 +86,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14276694,
-    "_sha": "bb0cd4cd8f87055dfe9f1d75b0746130761183dc",
-    "_size": 2222
+    "_change_number": 14298183,
+    "_sha": "1e59d24b2eb176744bacfcc20eb8e1e75d652082",
+    "_size": 1825
 }
