@@ -79,6 +79,10 @@
                     "encrypted_gid_2": "4D53CF6085310120597893F5579AB7EF",
                     "encrypted_size_2": "F204A16409586168997211FD0CE52A25"
                 },
+                "contact_staging": {
+                    "encrypted_gid_2": "541CF221D829B9BD71FA39244C7A4A09",
+                    "encrypted_size_2": "28F18A43FBC8F22430B55031219C430A"
+                },
                 "gmstaging": {
                     "encrypted_gid_2": "80E5938FAD1B7EE0CC251A04F716FA13",
                     "encrypted_size_2": "C8D5E52615347DDE7F144A68E3BCDA07"
@@ -119,6 +123,10 @@
                     "encrypted_gid_2": "D4495C9CC122859030DCD9558A761FC8",
                     "encrypted_size_2": "1B1E00326CE990392E05B61A432B4BD9"
                 },
+                "contact_staging": {
+                    "encrypted_gid_2": "7C5CE401C226EEACC8200C2A3C94EAFF",
+                    "encrypted_size_2": "D858946D65F5DCA7475B57382768E826"
+                },
                 "gmstaging": {
                     "encrypted_gid_2": "BBC4A156BA5333976D46479CB8F91B47",
                     "encrypted_size_2": "60C29887D1F6148ADD01F5A073B08E97"
@@ -158,6 +166,10 @@
                 "cdlc_internal_server": {
                     "encrypted_gid_2": "DAC1F2AF16C4B6780D3DDB06486C68F9",
                     "encrypted_size_2": "2BE074FD4B8A8BABA32D24F1743DFF6C"
+                },
+                "contact_staging": {
+                    "encrypted_gid_2": "0706D81B70179D2898E904E9881340FC",
+                    "encrypted_size_2": "8AA1DA732C43886986DBBE0DFD4A01EA"
                 },
                 "gmstaging": {
                     "encrypted_gid_2": "1B1D3F53EFD6E028AE5AEA456EE7E9F1",
@@ -319,6 +331,12 @@
                 "description": "Contact Build",
                 "timeupdated": "1647436599"
             },
+            "contact_staging": {
+                "buildid": "8415728",
+                "description": "Contact Staging Build",
+                "pwdrequired": "1",
+                "timeupdated": "1647943511"
+            },
             "creatordlc": {
                 "buildid": "8382643",
                 "description": "Creator DLC Build",
@@ -369,7 +387,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14294154,
-    "_sha": "aaac59add26d5fe63e7f261964d1d2a9d921be88",
-    "_size": 10422
+    "_change_number": 14294343,
+    "_sha": "db4a0a76c8f47db07b163cf9d0f87972ac3c6110",
+    "_size": 11035
 }
