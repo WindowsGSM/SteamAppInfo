@@ -21,7 +21,7 @@
         "installdir": "BadlandsServerLinux",
         "launch": {
             "0": {
-                "executable": "./BadlandsServer.sh",
+                "executable": "BadlandsServer.sh",
                 "type": "default",
                 "config": {
                     "oslist": "linux"
@@ -69,19 +69,19 @@
                 "steamdeck": "0"
             },
             "manifests": {
-                "public": "2363777557110059553"
+                "public": "1776639596255634080"
             },
-            "maxsize": "1295546262"
+            "maxsize": "1295479378"
         },
         "branches": {
             "public": {
-                "buildid": "8404366",
-                "timeupdated": "1647742639"
+                "buildid": "8420772",
+                "timeupdated": "1648002776"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 14299476,
-    "_sha": "fd05a34ffbd646dacd85b591db03f67e0f42ba6c",
-    "_size": 1598
+    "_change_number": 14302280,
+    "_sha": "deaa22def0832264e45fa6aaf3cd7e81ecd15569",
+    "_size": 1596
 }
