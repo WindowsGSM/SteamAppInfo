@@ -35,6 +35,7 @@
         "uselaunchcommandline": "1"
     },
     "depots": {
+        "baselanguages": "english",
         "1004": {
             "name": "Steamworks SDK Redist (WIN32)",
             "config": {
@@ -238,27 +239,34 @@
             "maxsize": "968969539",
             "encryptedmanifests": {
                 "testing": {
-                    "encrypted_gid_2": "009061C418B8450EB1CEE88881CCD606",
-                    "encrypted_size_2": "74131BBD87635D207E4C33A609AC20F0"
+                    "encrypted_gid_2": "C7216868757BD0C9332F8FA4CBC877D4",
+                    "encrypted_size_2": "B07B93B0451E26A6A58977E61FFDB1FE"
                 }
             }
         },
-        "baselanguages": "english",
+        "1664302": {
+            "name": "Animalia QA - Quality Assurance Testing Branch Survival Server",
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
         "branches": {
             "public": {
                 "buildid": "8371375",
                 "timeupdated": "1647302342"
             },
             "testing": {
-                "buildid": "8442541",
+                "buildid": "8447315",
                 "description": "QA - Quality Assurance Testing Branch",
                 "pwdrequired": "1",
-                "timeupdated": "1648264503"
+                "timeupdated": "1648411178"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 14335832,
-    "_sha": "ec1aacb70026f2bc8300684d4b42de556d272cba",
-    "_size": 5277
+    "_change_number": 14345047,
+    "_sha": "8dd0b7d4f74976c79892f20cbbbf37d279fdb783",
+    "_size": 5464
 }
