@@ -33,7 +33,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -44,7 +43,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -54,7 +52,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -65,7 +62,6 @@
             "depotfromapp": "1007"
         },
         "228988": {
-            "name": "VC 2019 Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -75,7 +71,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -85,7 +80,6 @@
             "sharedinstall": "1"
         },
         "229001": {
-            "name": ".NET 3.5 Client Profile Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -95,7 +89,6 @@
             "sharedinstall": "1"
         },
         "229003": {
-            "name": ".NET 4.0 Client Profile Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -105,7 +98,6 @@
             "sharedinstall": "1"
         },
         "229007": {
-            "name": ".NET 4.8 Redis",
             "config": {
                 "language": ""
             },
@@ -114,7 +106,6 @@
             "sharedinstall": "1"
         },
         "229012": {
-            "name": "XNA 4.0 Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -124,7 +115,6 @@
             "sharedinstall": "1"
         },
         "229033": {
-            "name": "PhysX System Software 9.14.0702",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -134,7 +124,6 @@
             "sharedinstall": "1"
         },
         "1932271": {
-            "name": "Dedicated Server Content",
             "manifests": {
                 "public": "5979211383140191248"
             },
@@ -149,6 +138,6 @@
     },
     "_missing_token": false,
     "_change_number": 14293718,
-    "_sha": "d47fb1fee32099cc0ec526a61d8e1a6e9086d618",
-    "_size": 3091
+    "_sha": "1fcde4f67d2511e824313f7f68d91c52a85e7670",
+    "_size": 2668
 }

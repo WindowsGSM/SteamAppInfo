@@ -30,7 +30,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -41,7 +40,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -51,7 +49,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -62,7 +59,6 @@
             "depotfromapp": "1007"
         },
         "1926101": {
-            "name": "RealTennisServer Content",
             "manifests": {
                 "public": "5631485669575185699"
             },
@@ -77,6 +73,6 @@
     },
     "_missing_token": false,
     "_change_number": 14193992,
-    "_sha": "34b01f0646e2df4251b1d30b6f7f4f231f97cbba",
-    "_size": 1608
+    "_sha": "259a020a7f82cfc9bf08f452705f2ca152e2bd4a",
+    "_size": 1439
 }
