@@ -64,7 +64,13 @@
                 "public": "3374029916157979519",
                 "legacy": "8002366436717239143"
             },
-            "maxsize": "143484641"
+            "maxsize": "143484641",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "0F0D3FDEC81408AD577D2BD6CB853FA5",
+                    "encrypted_size_2": "B6EC72A9A8D962A3DAFFF742B2CB0F3A"
+                }
+            }
         },
         "774773": {
             "name": "Original War Server Binary - Windows",
@@ -84,9 +90,9 @@
                 "timeupdated": "1594382421"
             },
             "development": {
-                "buildid": "5264611",
+                "buildid": "8466182",
                 "pwdrequired": "1",
-                "timeupdated": "1594204850"
+                "timeupdated": "1648647078"
             },
             "legacy": {
                 "buildid": "2674939",
@@ -95,7 +101,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14367404,
-    "_sha": "e0c5dae5de0208b3351a3844d04d3156a3942d46",
-    "_size": 2033
+    "_change_number": 14373406,
+    "_sha": "a1c103250669a993ce0540e092f6caa3c14e8f63",
+    "_size": 2216
 }
