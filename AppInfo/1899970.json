@@ -21,14 +21,13 @@
         "serverbrowsername": "Badlands"
     },
     "config": {
-        "installdir": "BadlandsDedicatedServer",
+        "installdir": "BadlandsBetaServer",
         "launch": {
             "0": {
-                "executable": "BadlandsServer.exe",
-                "arguments": "-log -unattended",
+                "executable": "./BadlandsServer.sh",
                 "type": "default",
                 "config": {
-                    "oslist": "windows",
+                    "oslist": "linux",
                     "osarch": "64"
                 }
             }
@@ -87,7 +86,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14397158,
-    "_sha": "5452035e76d4a1ac2439a9dec5b5e6af4526444e",
-    "_size": 1855
+    "_change_number": 14397169,
+    "_sha": "a85302aa90c5f998ffefc72dad1fdcb722e4bd86",
+    "_size": 1813
 }
