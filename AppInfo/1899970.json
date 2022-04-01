@@ -5,8 +5,8 @@
         "type": "Tool",
         "parent": "1714350",
         "releasestate": "released",
-        "oslist": "windows",
-        "osarch": "64",
+        "oslist": "linux",
+        "osarch": "",
         "osextended": "",
         "logo": "91b6ed7a7a5c132cdd52009e47d3ce0ebe258e46",
         "logo_small": "91b6ed7a7a5c132cdd52009e47d3ce0ebe258e46_thumb",
@@ -67,30 +67,10 @@
             "maxsize": "65909056",
             "depotfromapp": "1007"
         },
-        "228988": {
-            "name": "VC 2019 Redist",
-            "config": {
-                "oslist": "windows",
-                "language": ""
-            },
-            "maxsize": "29212147",
-            "depotfromapp": "228980",
-            "sharedinstall": "1"
-        },
-        "228990": {
-            "name": "DirectX Jun 2010 Redist",
-            "config": {
-                "oslist": "windows",
-                "language": ""
-            },
-            "maxsize": "102931551",
-            "depotfromapp": "228980",
-            "sharedinstall": "1"
-        },
         "1899971": {
             "name": "Badlands Dedicated Server Windows",
             "config": {
-                "oslist": "windows",
+                "oslist": "linux",
                 "osarch": "64",
                 "steamdeck": "0"
             },
@@ -107,7 +87,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14333991,
-    "_sha": "6d07c00b8c0abe1afa99d8ab6f9c175a3c0f516a",
-    "_size": 2249
+    "_change_number": 14397158,
+    "_sha": "5452035e76d4a1ac2439a9dec5b5e6af4526444e",
+    "_size": 1855
 }
