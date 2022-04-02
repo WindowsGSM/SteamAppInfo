@@ -1,7 +1,7 @@
 {
     "appid": "1899880",
     "common": {
-        "name": "BadlandServerLinux",
+        "name": "BadlandsDedicatedServer",
         "type": "Tool",
         "parent": "1714350",
         "releasestate": "released",
@@ -19,7 +19,7 @@
         "serverbrowsername": "Badlands"
     },
     "config": {
-        "installdir": "BadlandsServerLinux",
+        "installdir": "BadlandsServer",
         "launch": {
             "0": {
                 "executable": "BadlandsServer.sh",
@@ -89,7 +89,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14400022,
-    "_sha": "36220a7cbe80a32f583e9ccfa412493dbb9b838f",
+    "_change_number": 14405374,
+    "_sha": "705aaf60d06b4881323893b360e74a8f06422aa0",
     "_size": 1766
 }

@@ -1,7 +1,7 @@
 {
     "appid": "1899970",
     "common": {
-        "name": "Badlands Dedicated Server",
+        "name": "BadlandsServerBeta",
         "type": "Tool",
         "parent": "1714350",
         "releasestate": "released",
@@ -21,7 +21,7 @@
         "serverbrowsername": "Badlands"
     },
     "config": {
-        "installdir": "BadlandsBetaServer",
+        "installdir": "BadlandsServerBeta",
         "launch": {
             "0": {
                 "executable": "./BadlandsServer.sh",
@@ -86,7 +86,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14397169,
-    "_sha": "a85302aa90c5f998ffefc72dad1fdcb722e4bd86",
-    "_size": 1813
+    "_change_number": 14405376,
+    "_sha": "6aa50f6a487cd3810f5448431d62566d28c1c49c",
+    "_size": 1806
 }
