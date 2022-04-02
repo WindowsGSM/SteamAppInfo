@@ -234,9 +234,15 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "7347373448710114177"
+                "public": "3516094952210613443"
             },
-            "maxsize": "1001536362"
+            "maxsize": "1001681588",
+            "encryptedmanifests": {
+                "testing": {
+                    "encrypted_gid_2": "BBFF83BCA02CD4BD682C935A9BBBE823",
+                    "encrypted_size_2": "2F4CBCD315C8EA04945F66A37CA6C108"
+                }
+            }
         },
         "1664302": {
             "name": "Animalia QA - Quality Assurance Testing Branch Survival Server",
@@ -248,8 +254,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "8462139",
-                "timeupdated": "1648616447"
+                "buildid": "8484482",
+                "timeupdated": "1648857652"
             },
             "testing": {
                 "buildid": "8462139",
@@ -260,7 +266,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14369617,
-    "_sha": "eeed0cd66ee298a912fbb5eaa4c7e7ebbddb9216",
-    "_size": 5286
+    "_change_number": 14401638,
+    "_sha": "9c8bb3983a4e41c65705d725ff164c8ae824a524",
+    "_size": 5465
 }
