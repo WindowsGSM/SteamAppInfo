@@ -125,15 +125,11 @@
         "460041": {
             "name": "Empires Assets",
             "manifests": {
-                "public": "3466843400294126313",
+                "public": "2187775021912924184",
                 "spike_scripts": "9069717307537596528"
             },
-            "maxsize": "4695234936",
+            "maxsize": "4695241403",
             "encryptedmanifests": {
-                "alpha": {
-                    "encrypted_gid_2": "4BE087F67ED6F58492B1A5D029E524E9",
-                    "encrypted_size_2": "F336B861D359F0FAC8210239D56B215E"
-                },
                 "buildsystem2": {
                     "encrypted_gid_2": "7B51FCB9ED23BFEA7B72A34AC8DDB9D6",
                     "encrypted_size_2": "7CF3865ABB82CF530424DC1E1FDEA3F5"
@@ -176,15 +172,11 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "8917825278963697057",
+                "public": "3922184467334191936",
                 "spike_scripts": "1326409998500457215"
             },
             "maxsize": "51392280",
             "encryptedmanifests": {
-                "alpha": {
-                    "encrypted_gid_2": "8BA1782D2F80A9CC61EBAA4BFCE73B62",
-                    "encrypted_size_2": "BE775B767711CFA9C46651CC029EB7EF"
-                },
                 "buildsystem2": {
                     "encrypted_gid_2": "F3DB28204C1BE33B8CC9247E36736352",
                     "encrypted_size_2": "0B3469B15CC71B4DC2B1595461273AE0"
@@ -205,15 +197,11 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "729257617299848769",
+                "public": "6152255262743088968",
                 "spike_scripts": "1748286824906134920"
             },
             "maxsize": "12732928",
             "encryptedmanifests": {
-                "alpha": {
-                    "encrypted_gid_2": "7FEBC778E9C2D7659C1E4FF04681BC92",
-                    "encrypted_size_2": "4A57677602959C81E975651C0DEC36BA"
-                },
                 "buildsystem2": {
                     "encrypted_gid_2": "A25B1F295337C5F5B001FDA0C51912E5",
                     "encrypted_size_2": "6EFF90B207F4EE4511202F3B6D0843AE"
@@ -230,17 +218,17 @@
         },
         "branches": {
             "public": {
-                "buildid": "8280381",
-                "timeupdated": "1645907461"
+                "buildid": "8487107",
+                "timeupdated": "1648916905"
             },
             "alpha": {
-                "buildid": "8486987",
+                "buildid": "8487107",
                 "pwdrequired": "1",
-                "timeupdated": "1648913480"
+                "timeupdated": "1648916876"
             },
             "beta": {
-                "buildid": "8280381",
-                "timeupdated": "1645903185"
+                "buildid": "8487107",
+                "timeupdated": "1648916380"
             },
             "buildsystem2": {
                 "buildid": "4887874",
@@ -254,10 +242,10 @@
                 "timeupdated": "1488503304"
             },
             "smithys_test_branch": {
-                "buildid": "8280381",
+                "buildid": "8487107",
                 "description": "Test branch for experimental stuff",
                 "pwdrequired": "1",
-                "timeupdated": "1645907405"
+                "timeupdated": "1648916887"
             },
             "spike_scripts": {
                 "buildid": "1529769",
@@ -271,7 +259,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14405629,
-    "_sha": "73334627187ad683c21ab2360d15e7f2c96ec641",
-    "_size": 7160
+    "_change_number": 14405985,
+    "_sha": "742d6a704d91eef31e290dfd7e04943588636af7",
+    "_size": 6732
 }
