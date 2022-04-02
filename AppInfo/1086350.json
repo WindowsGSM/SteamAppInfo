@@ -32,38 +32,6 @@
     },
     "depots": {
         "baselanguages": "english",
-        "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
-            "config": {
-                "oslist": "windows"
-            },
-            "manifests": {
-                "public": "9154949116103824401"
-            },
-            "maxsize": "41926040",
-            "depotfromapp": "1007"
-        },
-        "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
-            "config": {
-                "oslist": "macos"
-            },
-            "manifests": {
-                "public": "2135359612286175146"
-            },
-            "depotfromapp": "1007"
-        },
-        "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
-            "config": {
-                "oslist": "linux"
-            },
-            "manifests": {
-                "public": "779424218233114127"
-            },
-            "maxsize": "65909056",
-            "depotfromapp": "1007"
-        },
         "1086352": {
             "name": "MekaFighters Dedicated Server Depot",
             "config": {
@@ -72,19 +40,19 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "3846556142690735695"
+                "public": "4569784889950900500"
             },
-            "maxsize": "1533440351"
+            "maxsize": "400122547"
         },
         "branches": {
             "public": {
-                "buildid": "6780272",
-                "timeupdated": "1622287935"
+                "buildid": "8485973",
+                "timeupdated": "1648888641"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 14193992,
-    "_sha": "df779b1971caca40ad08dffc85cee17e788a3eb1",
-    "_size": 1874
+    "_change_number": 14403847,
+    "_sha": "c32d2ccd4f5f06045fdda42c76358cee1684a29c",
+    "_size": 1247
 }
