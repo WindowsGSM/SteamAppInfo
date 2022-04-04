@@ -68,9 +68,8 @@
                 "oslist": "windows,linux"
             },
             "manifests": {
-                "public": "7381342141540443407",
-                "beta": "8789676379937907383",
-                "develop": "2609268443968732436"
+                "public": "6845003677903299338",
+                "beta": "8789676379937907383"
             },
             "maxsize": "3640134711"
         },
@@ -80,9 +79,8 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "6783917230372989576",
-                "beta": "7799242986031038853",
-                "develop": "6902807843319727321"
+                "public": "4610515207012573690",
+                "beta": "7799242986031038853"
             },
             "maxsize": "28050064"
         },
@@ -92,16 +90,15 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "8882728925929447829",
-                "beta": "3075224732768953091",
-                "develop": "5410719932497692607"
+                "public": "5225605950803196235",
+                "beta": "3075224732768953091"
             },
-            "maxsize": "48597058"
+            "maxsize": "48597464"
         },
         "branches": {
             "public": {
-                "buildid": "8296088",
-                "timeupdated": "1646167622"
+                "buildid": "8495386",
+                "timeupdated": "1649104166"
             },
             "beta": {
                 "buildid": "7884590",
@@ -109,20 +106,20 @@
                 "timeupdated": "1640107766"
             },
             "develop": {
-                "buildid": "8114824",
+                "buildid": "8495386",
                 "description": "branch for internal testing of in-development changes",
-                "timeupdated": "1643623003"
+                "timeupdated": "1649104184"
             },
             "testing": {
-                "buildid": "8296088",
+                "buildid": "8495386",
                 "description": "TESTING",
                 "pwdrequired": "1",
-                "timeupdated": "1646167632"
+                "timeupdated": "1649104175"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 14193992,
-    "_sha": "3d11ff74d3c1d3ce12175d2953413c472dad4887",
-    "_size": 2680
+    "_change_number": 14421814,
+    "_sha": "dad91d4024e26d702d544150d5d0a8c6271f04f8",
+    "_size": 2569
 }
