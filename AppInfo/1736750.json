@@ -32,7 +32,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -43,7 +42,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -53,7 +51,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -64,7 +61,6 @@
             "depotfromapp": "1007"
         },
         "228988": {
-            "name": "VC 2019 Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -74,7 +70,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -84,7 +79,6 @@
             "sharedinstall": "1"
         },
         "229006": {
-            "name": ".NET 4.7 Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -94,7 +88,6 @@
             "sharedinstall": "1"
         },
         "229007": {
-            "name": ".NET 4.8 Redis",
             "config": {
                 "language": ""
             },
@@ -103,7 +96,6 @@
             "sharedinstall": "1"
         },
         "1736751": {
-            "name": "Dedicated Server Content",
             "config": {
                 "oslist": "windows"
             },
@@ -123,7 +115,6 @@
             }
         },
         "1736752": {
-            "name": "KoA Dedicated Server Depot",
             "config": {
                 "oslist": "windows"
             }
@@ -135,13 +126,11 @@
             },
             "koaserver": {
                 "buildid": "8496907",
-                "description": "Server",
                 "pwdrequired": "1",
                 "timeupdated": "1649119175"
             },
             "testing": {
                 "buildid": "8496907",
-                "description": "Testing Purpose",
                 "pwdrequired": "1",
                 "timeupdated": "1649116846"
             }
@@ -149,6 +138,6 @@
     },
     "_missing_token": false,
     "_change_number": 14423378,
-    "_sha": "ce4214514f56e444ce43a47e92cf028b01bb7471",
-    "_size": 3212
+    "_sha": "77f1d135d362e367f03497a7b093a10c19bf24f5",
+    "_size": 2816
 }

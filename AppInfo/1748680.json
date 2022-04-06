@@ -70,7 +70,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -81,7 +80,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -91,7 +89,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -102,7 +99,6 @@
             "depotfromapp": "1007"
         },
         "228988": {
-            "name": "VC 2019 Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -112,7 +108,6 @@
             "sharedinstall": "1"
         },
         "1748681": {
-            "name": "Fight or Flight Dedicated Server Content",
             "manifests": {
                 "public": "932167781690151748"
             },
@@ -127,6 +122,6 @@
     },
     "_missing_token": false,
     "_change_number": 14193992,
-    "_sha": "974bde7754abebb203926f1fab20150bbe61c697",
-    "_size": 3764
+    "_sha": "1fb8e27a23cc072ddf34e20ee5339499cd7b6948",
+    "_size": 3551
 }

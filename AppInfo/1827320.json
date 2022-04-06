@@ -33,7 +33,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -44,7 +43,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -54,7 +52,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -65,7 +62,6 @@
             "depotfromapp": "1007"
         },
         "1827321": {
-            "name": "Dedicated Server - Windows Content",
             "manifests": {
                 "public": "8038786419468823174"
             },
@@ -85,6 +81,6 @@
     },
     "_missing_token": false,
     "_change_number": 14279778,
-    "_sha": "728b3581d0332ef259df627bf708751ab7d5b110",
-    "_size": 1915
+    "_sha": "f43781106b1d76caded2c8bb0848479637aacf12",
+    "_size": 1736
 }

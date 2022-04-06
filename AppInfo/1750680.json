@@ -38,7 +38,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -49,7 +48,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -59,7 +57,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -70,14 +67,12 @@
             "depotfromapp": "1007"
         },
         "1750681": {
-            "name": "Beryllium Dedicated Server Content",
             "manifests": {
                 "public": "3036695827954520071"
             },
             "maxsize": "379236581"
         },
         "1750682": {
-            "name": "Beryllium Dedicated Server Depot Linux",
             "config": {
                 "oslist": "linux"
             },
@@ -95,6 +90,6 @@
     },
     "_missing_token": false,
     "_change_number": 14353401,
-    "_sha": "323af01bd59cb5040f209b0be2e2aa0cab2fcbb4",
-    "_size": 1999
+    "_sha": "ea9c28e3ed22a0191b1b5553ecfdbd7c89732e94",
+    "_size": 1768
 }

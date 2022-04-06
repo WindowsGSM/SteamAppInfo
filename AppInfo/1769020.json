@@ -29,7 +29,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -40,7 +39,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -50,7 +48,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -61,7 +58,6 @@
             "depotfromapp": "1007"
         },
         "228988": {
-            "name": "VC 2019 Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -71,7 +67,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -81,7 +76,6 @@
             "sharedinstall": "1"
         },
         "229007": {
-            "name": ".NET 4.8 Redis",
             "config": {
                 "language": ""
             },
@@ -90,7 +84,6 @@
             "sharedinstall": "1"
         },
         "1769021": {
-            "name": "Afterinfection Dedicated Server Content",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -109,6 +102,6 @@
     },
     "_missing_token": false,
     "_change_number": 14193992,
-    "_sha": "744ad36eec167933e9a7fc852a0d9b9623c8f5cb",
-    "_size": 2263
+    "_sha": "619726e6520f9cd24f674ca75a929981676505b4",
+    "_size": 1986
 }

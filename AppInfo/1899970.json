@@ -35,7 +35,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -46,7 +45,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -56,7 +54,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -67,7 +64,6 @@
             "depotfromapp": "1007"
         },
         "1899971": {
-            "name": "Badlands Dedicated Server Windows",
             "config": {
                 "oslist": "linux",
                 "osarch": "64",
@@ -87,6 +83,6 @@
     },
     "_missing_token": false,
     "_change_number": 14405376,
-    "_sha": "6aa50f6a487cd3810f5448431d62566d28c1c49c",
-    "_size": 1806
+    "_sha": "dbdf31ba737213ffa590e2f4ebc3c423bfa43ef7",
+    "_size": 1628
 }

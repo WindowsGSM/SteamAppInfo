@@ -34,7 +34,6 @@
     "depots": {
         "baselanguages": "english",
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -45,7 +44,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -55,7 +53,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -66,7 +63,6 @@
             "depotfromapp": "1007"
         },
         "1750891": {
-            "name": "N1LServerTool Content",
             "config": {
                 "language": "english",
                 "oslist": "windows"
@@ -85,6 +81,6 @@
     },
     "_missing_token": false,
     "_change_number": 14193992,
-    "_sha": "25f8229654e105f7118d42237d2dbc4054f52f19",
-    "_size": 1739
+    "_sha": "47e42935000af22bee737f92ff6d53b408dd1317",
+    "_size": 1573
 }

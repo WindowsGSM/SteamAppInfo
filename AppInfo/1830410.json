@@ -32,7 +32,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -43,7 +42,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -53,7 +51,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -64,7 +61,6 @@
             "depotfromapp": "1007"
         },
         "228988": {
-            "name": "VC 2019 Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -74,7 +70,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -84,7 +79,6 @@
             "sharedinstall": "1"
         },
         "1830411": {
-            "name": "Dedicated Server Content",
             "manifests": {
                 "public": "5415446400589236248"
             },
@@ -99,6 +93,6 @@
     },
     "_missing_token": false,
     "_change_number": 14193992,
-    "_sha": "f4cfccdd6083f4394e8f9f8d4a6fbe39f5f74575",
-    "_size": 2086
+    "_sha": "592a6e22d221ec7197e047767ebf7807fe581a7a",
+    "_size": 1852
 }
