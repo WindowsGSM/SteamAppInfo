@@ -101,6 +101,10 @@
             },
             "maxsize": "1917199296",
             "encryptedmanifests": {
+                "communityedition": {
+                    "encrypted_gid_2": "EFF4406EE08CBDAC68595B1E3EA260AF",
+                    "encrypted_size_2": "2E10410A48EB259D89E21EB9657CE4E7"
+                },
                 "ctg_major": {
                     "encrypted_gid_2": "159527A46BBC047E04B2A3732346C588",
                     "encrypted_size_2": "B76E39AB4BC7CFEB4A2054BCA266A026"
@@ -154,6 +158,12 @@
                 "description": "Character Stable",
                 "timeupdated": "1550163386"
             },
+            "communityedition": {
+                "buildid": "8438496",
+                "description": "Community Edition",
+                "pwdrequired": "1",
+                "timeupdated": "1649350055"
+            },
             "ctg_major": {
                 "buildid": "8438496",
                 "description": "Testing Branch: Major",
@@ -192,7 +202,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14329035,
-    "_sha": "a5970d2211c92f9a251dca7ca7e623f679e9ecb2",
-    "_size": 4547
+    "_change_number": 14453146,
+    "_sha": "d17bfc46c3e2c7ccafabcfca6ceac86c14f751b2",
+    "_size": 4852
 }
