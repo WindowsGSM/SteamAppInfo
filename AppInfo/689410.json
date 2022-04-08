@@ -23,13 +23,8 @@
         "anti_cheat_support_url": "https://www.easy.ac/r/steam/gamebans/?steamAppId=689410"
     },
     "config": {
-        "installdir": "BattleBitServer",
-        "launch": {
-            "0": {
-                "executable": "BattleBit.exe",
-                "arguments": "-batchmode -nographics \"-Name=Game Server server\" -Port=29991 -Hz=60 -SaveStats=true -DynamicRooms=true -MaxPlayers=00 -PlayersToStart=00 \"-FirstRoom=\" \"-TemplateRoom=\" \"-DynamicFirstMap=namak\" \"-DynamicFirstGamemode=tiny\" \"-DynamicFirstSize=tiny\" \"-DynamicFixedSize=none\" \"-BeginnerServer=false\" \"-DynamicMaxSize=ultra\" \"-MinRank=0\" \"-MaxRank=0\" \"-RconEnabled=true\" \"-RconPassword=admin\""
-            }
-        }
+        "installdir": "BattleBit Remastered Playtest",
+        "launch": {}
     },
     "depots": {
         "1004": {
@@ -66,33 +61,19 @@
         },
         "1611741": {
             "name": "BattleBit Remastered Playtest Depot",
-            "manifests": {
-                "public": "968675871140920467"
-            },
             "maxsize": "1383957013",
-            "encryptedmanifests": {
-                "server": {
-                    "encrypted_gid_2": "A57D0F20AEDB62C9DA41262556D38736",
-                    "encrypted_size_2": "017F806E9E1A88412983F7FC0535B161"
-                }
-            },
-            "depotfromapp": "1611740"
+            "depotfromapp": "1611740",
+            "sharedinstall": "2"
         },
         "branches": {
             "public": {
                 "buildid": "2513063",
                 "timeupdated": "1518200532"
-            },
-            "server": {
-                "buildid": "8519309",
-                "description": "server",
-                "pwdrequired": "1",
-                "timeupdated": "1649380916"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 14457460,
-    "_sha": "2767a825d1f31c0cd7f290fa724e6df4d00caac6",
-    "_size": 2529
+    "_change_number": 14457856,
+    "_sha": "9e54116368ee22274f5e1e205322bc2924a6d879",
+    "_size": 1714
 }
