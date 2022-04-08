@@ -32,23 +32,67 @@
         }
     },
     "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
         "1611741": {
             "name": "BattleBit Remastered Playtest Depot",
             "manifests": {
                 "public": "968675871140920467"
             },
             "maxsize": "1383957013",
+            "encryptedmanifests": {
+                "server": {
+                    "encrypted_gid_2": "A57D0F20AEDB62C9DA41262556D38736",
+                    "encrypted_size_2": "017F806E9E1A88412983F7FC0535B161"
+                }
+            },
             "depotfromapp": "1611740"
         },
         "branches": {
             "public": {
                 "buildid": "2513063",
                 "timeupdated": "1518200532"
+            },
+            "server": {
+                "buildid": "8519309",
+                "description": "server",
+                "pwdrequired": "1",
+                "timeupdated": "1649380916"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 14434317,
-    "_sha": "2d285ba9059e4cd55b80a24cdf9d45db57c51ae6",
-    "_size": 1595
+    "_change_number": 14457460,
+    "_sha": "2767a825d1f31c0cd7f290fa724e6df4d00caac6",
+    "_size": 2529
 }
