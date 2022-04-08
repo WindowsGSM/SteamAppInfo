@@ -71,17 +71,18 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "2097284702475996363"
+                "public": "2097284702475996363",
+                "experimental": "1362467245296100737"
             },
-            "maxsize": "1390180708",
+            "maxsize": "1816144121",
             "encryptedmanifests": {
                 "development": {
                     "encrypted_gid_2": "524554D474A8B0F233D700AE50723469",
                     "encrypted_size_2": "78FC4542F1E2047D229B86FB24346ED4"
                 },
                 "pre-experimental": {
-                    "encrypted_gid_2": "EA5F9A3D6EBD9A8E7F7A9299950F744A",
-                    "encrypted_size_2": "BDBFB1861214310A55B6289A181DFBF6"
+                    "encrypted_gid_2": "61E8A62F6137D8F1CB9D2E7F7DDB2919",
+                    "encrypted_size_2": "07F5DBF2A6043AE1DF585A0A8FDB32AA"
                 }
             }
         },
@@ -97,20 +98,20 @@
                 "timeupdated": "1637318495"
             },
             "experimental": {
-                "buildid": "8316590",
+                "buildid": "8522110",
                 "description": "for testing",
-                "timeupdated": "1646422212"
+                "timeupdated": "1649434551"
             },
             "pre-experimental": {
-                "buildid": "8522110",
+                "buildid": "8524170",
                 "description": "experimental staging branch",
                 "pwdrequired": "1",
-                "timeupdated": "1649415690"
+                "timeupdated": "1649434610"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 14461267,
-    "_sha": "f9e378466b4076dae231365e551415d14eac1916",
-    "_size": 2577
+    "_change_number": 14464236,
+    "_sha": "62de845065aeaf3a45d51766b1db73c7bedfbc57",
+    "_size": 2619
 }
