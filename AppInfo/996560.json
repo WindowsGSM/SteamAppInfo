@@ -96,9 +96,10 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "4527409855920695395"
+                "public": "4527409855920695395",
+                "public-beta": "7402005105327102617"
             },
-            "maxsize": "645793164",
+            "maxsize": "654053692",
             "encryptedmanifests": {
                 "arith1": {
                     "encrypted_gid_2": "BD3FBC3996657D30580317E5C454B5EA",
@@ -189,9 +190,10 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "2891050781221770734"
+                "public": "2891050781221770734",
+                "public-beta": "7705449238596639859"
             },
-            "maxsize": "483910448",
+            "maxsize": "484867136",
             "encryptedmanifests": {
                 "arith1": {
                     "encrypted_gid_2": "ED7024A3B8EA10C463DF485DB4D2B1F6",
@@ -382,6 +384,11 @@
                 "pwdrequired": "1",
                 "timeupdated": "1644899922"
             },
+            "public-beta": {
+                "buildid": "8524125",
+                "description": "11.2 Public Beta",
+                "timeupdated": "1649440595"
+            },
             "qa-testing": {
                 "buildid": "8232431",
                 "description": "Private beta branch for QA Testing.",
@@ -403,7 +410,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14464324,
-    "_sha": "3badb0e38f252fb6267f12b8110cd84b04dabc73",
-    "_size": 11554
+    "_change_number": 14465151,
+    "_sha": "8727f7c19f29e71d2c6635b187628a28543fc183",
+    "_size": 11758
 }
