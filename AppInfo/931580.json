@@ -30,6 +30,10 @@
                 "branch4test": {
                     "encrypted_gid_2": "037BA62D2D7058A40AF28F12A6C882D4",
                     "encrypted_size_2": "8C5FC5C39335A9DF68531FC921ED15CD"
+                },
+                "cocplaytest": {
+                    "encrypted_gid_2": "33F368D925CADDEDDD8E3ABC97119B3F",
+                    "encrypted_size_2": "F867B80794D126993F41EACE6A54F90A"
                 }
             }
         },
@@ -62,11 +66,17 @@
                 "buildid": "7969272",
                 "pwdrequired": "1",
                 "timeupdated": "1641304523"
+            },
+            "cocplaytest": {
+                "buildid": "8532410",
+                "description": "CoC Playtest",
+                "pwdrequired": "1",
+                "timeupdated": "1649622999"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 14367404,
-    "_sha": "c800e2b1040c626f413bdd00e0c8f248db058544",
-    "_size": 1501
+    "_change_number": 14478071,
+    "_sha": "de52713861de0101c0deedd7657c3fddd8c4ec1d",
+    "_size": 1791
 }
