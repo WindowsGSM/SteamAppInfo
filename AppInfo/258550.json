@@ -30,7 +30,7 @@
             "manifests": {
                 "public": "925128085051694947",
                 "aux01": "687311914708202682",
-                "release": "5078068186779650355",
+                "release": "4636404418752299072",
                 "staging": "4102751021442534768"
             },
             "maxsize": "507296987",
@@ -88,8 +88,8 @@
                     "encrypted_size_2": "8527E491A710A5E528285CB21028B4C3"
                 },
                 "release-debug": {
-                    "encrypted_gid_2": "4DC827136DF1187313C16F369E6CB88E",
-                    "encrypted_size_2": "8672E4F9808BE07E88BAAAD9CACC54B3"
+                    "encrypted_gid_2": "DECD4793F921EEE8ACD1840B01DCE2E3",
+                    "encrypted_size_2": "5DA6927CB05A75879D6A6EA2B992A171"
                 },
                 "softcore-update-feb": {
                     "encrypted_gid_2": "157EB5E71EDBC535E32197D8A80DD12D",
@@ -125,7 +125,7 @@
             "manifests": {
                 "public": "6343250284755778946",
                 "aux01": "5098912634286167155",
-                "release": "7277470119063907241",
+                "release": "4976310921394548234",
                 "staging": "4443915728961697527"
             },
             "maxsize": "553360832",
@@ -311,6 +311,7 @@
             "manifests": {
                 "public": "3611946736103169930",
                 "aux01": "6005976457091855866",
+                "release": "6853233243572681914",
                 "staging": "5221665031237326502"
             },
             "maxsize": "5987189276",
@@ -366,6 +367,10 @@
                 "hdrp-debug": {
                     "encrypted_gid_2": "9D9ECE9C8C6E1982EA608E666883DEA0",
                     "encrypted_size_2": "1B7A89A69F102E5F2153C1FED28F7085"
+                },
+                "release-debug": {
+                    "encrypted_gid_2": "17CD02C60E0915F703E9C866EDEBFA72",
+                    "encrypted_size_2": "C86AD383A0516907F5622E807A0DF0FE"
                 },
                 "softcore-update-feb": {
                     "encrypted_gid_2": "19B595D32674AA1FC4ECC250360E1008",
@@ -472,13 +477,13 @@
                 "timeupdated": "1600881047"
             },
             "release": {
-                "buildid": "8532325",
-                "timeupdated": "1649621038"
+                "buildid": "8532636",
+                "timeupdated": "1649628305"
             },
             "release-debug": {
-                "buildid": "8532330",
+                "buildid": "8532639",
                 "pwdrequired": "1",
-                "timeupdated": "1649621101"
+                "timeupdated": "1649628354"
             },
             "softcore-update-feb": {
                 "buildid": "6424743",
@@ -522,7 +527,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14478187,
-    "_sha": "a50706e9d9d8b867a61810dd9ae08601a82feab7",
-    "_size": 16203
+    "_change_number": 14478535,
+    "_sha": "238da8fc330fbf8dc42ae16698564bf9950980c8",
+    "_size": 16391
 }
