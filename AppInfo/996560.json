@@ -96,8 +96,7 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "4527409855920695395",
-                "public-beta": "7024574701112090720"
+                "public": "7024574701112090720"
             },
             "maxsize": "656727807",
             "encryptedmanifests": {
@@ -124,10 +123,6 @@
                 "deputation": {
                     "encrypted_gid_2": "B6006215DB9E1BAC0CC6D38F505088F5",
                     "encrypted_size_2": "D3CF0A4E7C91316EFC7BBFB84D7D7F55"
-                },
-                "hube-testing": {
-                    "encrypted_gid_2": "7BEFB40B71E0BA81E841D11A91480EB1",
-                    "encrypted_size_2": "8DD7FCC303DC1AC09E81E1EB227923C7"
                 },
                 "killers-test": {
                     "encrypted_gid_2": "AE8689790B021FF35E680016FD9186B4",
@@ -190,8 +185,7 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "2891050781221770734",
-                "public-beta": "6981672770202319928"
+                "public": "6981672770202319928"
             },
             "maxsize": "486964971",
             "encryptedmanifests": {
@@ -218,10 +212,6 @@
                 "deputation": {
                     "encrypted_gid_2": "F330113FC2AB9E534B2DDC0CCD70C29D",
                     "encrypted_size_2": "7D16014E2B52FAFE20FE8EB854FEB8CE"
-                },
-                "hube-testing": {
-                    "encrypted_gid_2": "D709669705FC9CF9DCCE323070B9C797",
-                    "encrypted_size_2": "5CCF58AB36003AC2C59BE705D8ADD02D"
                 },
                 "killers-test": {
                     "encrypted_gid_2": "F81A5D0DE5BABA5DB829F4F7DC6E9A9B",
@@ -279,8 +269,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "8389068",
-                "timeupdated": "1647640377"
+                "buildid": "8538472",
+                "timeupdated": "1649786186"
             },
             "arith1": {
                 "buildid": "7982008",
@@ -384,11 +374,6 @@
                 "pwdrequired": "1",
                 "timeupdated": "1644899922"
             },
-            "public-beta": {
-                "buildid": "8538472",
-                "description": "11.2 Public Beta",
-                "timeupdated": "1649780840"
-            },
             "qa-testing": {
                 "buildid": "8232431",
                 "description": "Private beta branch for QA Testing.",
@@ -410,7 +395,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14497776,
-    "_sha": "3886c40ee207f00f88125aaf9392b72607191451",
-    "_size": 11758
+    "_change_number": 14497897,
+    "_sha": "106df255d74f786c162d83a48c6d32e88168f212",
+    "_size": 11254
 }
