@@ -87,7 +87,13 @@
             "manifests": {
                 "public": "7849843647423513447"
             },
-            "maxsize": "55218578"
+            "maxsize": "55218578",
+            "encryptedmanifests": {
+                "developer": {
+                    "encrypted_gid_2": "680F30C7E361E0718A76A81FC048C566",
+                    "encrypted_size_2": "2167F61556FDB3321A80F6FA1D90E9D0"
+                }
+            }
         },
         "1222652": {
             "name": "Space Impossible Dedicated Server Windows",
@@ -98,7 +104,13 @@
             "manifests": {
                 "public": "3061384432885635950"
             },
-            "maxsize": "82069271"
+            "maxsize": "82069271",
+            "encryptedmanifests": {
+                "developer": {
+                    "encrypted_gid_2": "BEF83A614356643C2760588EF7B7F721",
+                    "encrypted_size_2": "0E0F4BA2EA60743D2F319492D5F00967"
+                }
+            }
         },
         "1222653": {
             "name": "Space Impossible Dedicated Server OSX",
@@ -109,7 +121,13 @@
             "manifests": {
                 "public": "3488312350002627415"
             },
-            "maxsize": "104923617"
+            "maxsize": "104923617",
+            "encryptedmanifests": {
+                "developer": {
+                    "encrypted_gid_2": "8F8D7E85195AB0FEBC3F9655E0A842A8",
+                    "encrypted_size_2": "EC440036902947A0450AA698E3C83581"
+                }
+            }
         },
         "1222654": {
             "name": "Space Impossible Dedicated Server Linux",
@@ -120,7 +138,13 @@
             "manifests": {
                 "public": "1223654401833357127"
             },
-            "maxsize": "98053620"
+            "maxsize": "98053620",
+            "encryptedmanifests": {
+                "developer": {
+                    "encrypted_gid_2": "35D83489016DEE9D8715CEFE6F6F0EA8",
+                    "encrypted_size_2": "86897BC6B77DBC698C15E6DAE8C6A17A"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -128,10 +152,10 @@
                 "timeupdated": "1648495303"
             },
             "developer": {
-                "buildid": "8453350",
+                "buildid": "8552906",
                 "description": "Internal Developer Only",
                 "pwdrequired": "1",
-                "timeupdated": "1648494253"
+                "timeupdated": "1649872900"
             },
             "experimental": {
                 "buildid": "8453350",
@@ -141,7 +165,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14354578,
-    "_sha": "06dd99fd342aae861d158c9fabd4771b86548bec",
-    "_size": 3256
+    "_change_number": 14509116,
+    "_sha": "c779ccc7586e2e4f71a32c77a0dc60a1c0000c45",
+    "_size": 3980
 }
