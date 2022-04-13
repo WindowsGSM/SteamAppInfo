@@ -33,9 +33,39 @@
                 },
                 "description": "Start OverShoot dedicated server"
             }
-        }
+        },
+        "uselaunchcommandline": "1"
     },
     "depots": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "9154949116103824401"
+            },
+            "maxsize": "41926040",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "779424218233114127"
+            },
+            "maxsize": "65909056",
+            "depotfromapp": "1007"
+        },
         "1911971": {
             "manifests": {
                 "public": "7114088841875552811"
@@ -50,7 +80,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14510977,
-    "_sha": "760f91f536753d16875036fe64ca6389c97c4f3e",
-    "_size": 1218
+    "_change_number": 14511039,
+    "_sha": "353fa99b01abb963d72d215dcbf5b0fa59b463e3",
+    "_size": 1743
 }
