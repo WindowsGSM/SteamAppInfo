@@ -95,21 +95,18 @@
                 "alpha20.1": "3366271055219615829",
                 "alpha20.2": "6780412785001941393",
                 "alpha8.8": "6555466999693160687",
-                "alpha9.3": "6472753396271220220"
+                "alpha9.3": "6472753396271220220",
+                "latest_experimental": "4790217046827971168"
             },
             "maxsize": "12803634292",
             "encryptedmanifests": {
-                "latest_experimental": {
-                    "encrypted_gid_2": "564CC0EF1B17D8112D2BC7226D971A9D",
-                    "encrypted_size_2": "27982FACAF47E287B47F1C3A3F92627E"
-                },
                 "test": {
                     "encrypted_gid_2": "2B2A034178604F57AD0BCB68CF1629C4",
                     "encrypted_size_2": "864994AE9A51B332692B286DD20C33AC"
                 },
                 "testing_branch": {
-                    "encrypted_gid_2": "A5F2F12F7B331C2CCE39B998AFED3B75",
-                    "encrypted_size_2": "77FBB335172583CAABB921865B68A446"
+                    "encrypted_gid_2": "AD42F84224706130C9A971C7F462E183",
+                    "encrypted_size_2": "5335AD1912FEF610EDAA9A40FDDCF92A"
                 },
                 "testing_branch_alt": {
                     "encrypted_gid_2": "C1C8065ECB22D331886BBC58E0D1E3A9",
@@ -141,21 +138,18 @@
                 "alpha20.0": "8491094488431010654",
                 "alpha20.1": "6255887219184546851",
                 "alpha20.2": "3867999264868164043",
-                "alpha9.3": "771574079178892216"
+                "alpha9.3": "771574079178892216",
+                "latest_experimental": "6189995574656134775"
             },
             "maxsize": "12852025913",
             "encryptedmanifests": {
-                "latest_experimental": {
-                    "encrypted_gid_2": "9DE668305FB9AB14048051EA3CE471C2",
-                    "encrypted_size_2": "017820DE32E10521E4D4A7BD395C1FC7"
-                },
                 "test": {
                     "encrypted_gid_2": "EB1D04ABED4C944B7C26DB92F8489E3B",
                     "encrypted_size_2": "6718A3A8EA9FDBB403887F8656BBEABF"
                 },
                 "testing_branch": {
-                    "encrypted_gid_2": "A0A52721CC90C128163530E3E451FFE1",
-                    "encrypted_size_2": "5A63DD15208968301CBB8563BBDB58AA"
+                    "encrypted_gid_2": "5229A3989663724C26ADE1746BA910F4",
+                    "encrypted_size_2": "26983CF3BDAA2796F6D2E8EFCDE979CC"
                 },
                 "testing_branch_alt": {
                     "encrypted_gid_2": "FF596A52F7E0EE577EA7B5A5F2159345",
@@ -250,7 +244,6 @@
             "latest_experimental": {
                 "buildid": "8528790",
                 "description": "Unstable build",
-                "pwdrequired": "1",
                 "timeupdated": "1649865712"
             },
             "test": {
@@ -260,10 +253,10 @@
                 "timeupdated": "1636590225"
             },
             "testing_branch": {
-                "buildid": "8552372",
+                "buildid": "8552780",
                 "description": "Branch version, i.e. fixes for prior release",
                 "pwdrequired": "1",
-                "timeupdated": "1649867394"
+                "timeupdated": "1649871657"
             },
             "testing_branch_alt": {
                 "buildid": "7993282",
@@ -280,7 +273,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14508349,
-    "_sha": "d56ca00d20ee01fa3a282b4c822e4cb0c1d21e82",
-    "_size": 7658
+    "_change_number": 14508962,
+    "_sha": "7c45d37d287ec156a1bb89dfa905ca00f9a965ce",
+    "_size": 7419
 }
