@@ -99,6 +99,10 @@
             },
             "maxsize": "12803634292",
             "encryptedmanifests": {
+                "latest_experimental": {
+                    "encrypted_gid_2": "564CC0EF1B17D8112D2BC7226D971A9D",
+                    "encrypted_size_2": "27982FACAF47E287B47F1C3A3F92627E"
+                },
                 "test": {
                     "encrypted_gid_2": "2B2A034178604F57AD0BCB68CF1629C4",
                     "encrypted_size_2": "864994AE9A51B332692B286DD20C33AC"
@@ -141,6 +145,10 @@
             },
             "maxsize": "12852025913",
             "encryptedmanifests": {
+                "latest_experimental": {
+                    "encrypted_gid_2": "9DE668305FB9AB14048051EA3CE471C2",
+                    "encrypted_size_2": "017820DE32E10521E4D4A7BD395C1FC7"
+                },
                 "test": {
                     "encrypted_gid_2": "EB1D04ABED4C944B7C26DB92F8489E3B",
                     "encrypted_size_2": "6718A3A8EA9FDBB403887F8656BBEABF"
@@ -239,6 +247,12 @@
                 "buildid": "385244",
                 "description": "Alpha 9.3 Stable"
             },
+            "latest_experimental": {
+                "buildid": "8528790",
+                "description": "Unstable build",
+                "pwdrequired": "1",
+                "timeupdated": "1649865712"
+            },
             "test": {
                 "buildid": "7678074",
                 "description": "Stream Emergency",
@@ -266,7 +280,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14499846,
-    "_sha": "16135061f207f0e9cc2e5bee463c3ad26d1e6f97",
-    "_size": 7193
+    "_change_number": 14508060,
+    "_sha": "826cade5b78cb5d50d7fe605fc8fb07ea7808642",
+    "_size": 7658
 }
