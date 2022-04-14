@@ -49,10 +49,14 @@
             "name": "Left 4 Dead 2 Dedicated Server Content",
             "systemdefined": "1",
             "manifests": {
-                "public": "5193936581192184173"
+                "public": "3660219525551598223"
             },
             "maxsize": "9597463577",
             "encryptedmanifests": {
+                "beta": {
+                    "encrypted_gid_2": "563D222B50DBFD3B0FA24363E9132F8E",
+                    "encrypted_size_2": "25B2ABC8E9E3529A04B1C407320723ED"
+                },
                 "private_beta": {
                     "encrypted_gid_2": "311D6E73313E2B5DD48C411F55906792",
                     "encrypted_size_2": "4CB891D7CB0AE69F3B4DA4E35FCF6723"
@@ -69,10 +73,14 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "8055386405611162858"
+                "public": "4671443894882890913"
             },
-            "maxsize": "159362153",
+            "maxsize": "159369097",
             "encryptedmanifests": {
+                "beta": {
+                    "encrypted_gid_2": "1B378162C2DC8B5FB254E7CCBD15833C",
+                    "encrypted_size_2": "4ACBCF962B91E433FEFF9E9FED4DD15C"
+                },
                 "private_beta": {
                     "encrypted_gid_2": "8ABCF6D3A1FFE603D0CD647A913A7E74",
                     "encrypted_size_2": "64E33F25EDBDD4BE31FD8400DA4A5AFE"
@@ -89,10 +97,14 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "4291500901568573857"
+                "public": "4626766645801154900"
             },
             "maxsize": "234246304",
             "encryptedmanifests": {
+                "beta": {
+                    "encrypted_gid_2": "2E5F3350842600DE898C0DABD309D946",
+                    "encrypted_size_2": "558BA76462375E7B6775D02C3837D66E"
+                },
                 "private_beta": {
                     "encrypted_gid_2": "738A862D60BC17F8E04BA60EFC9612A6",
                     "encrypted_size_2": "A616DDC17ABDBC81260836B7F3E2B7F4"
@@ -107,8 +119,8 @@
         "preloadonly": "1",
         "branches": {
             "public": {
-                "buildid": "8253595",
-                "timeupdated": "1645638926"
+                "buildid": "8554968",
+                "timeupdated": "1649962504"
             },
             "beta": {
                 "buildid": "8253595",
@@ -130,7 +142,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14367404,
-    "_sha": "63c7d71b37e4c85a84697bc363cd37d02a0c1a9f",
-    "_size": 3110
+    "_change_number": 14521116,
+    "_sha": "fe1a9f20e365e639afdc70ad035684f3a7eae6b3",
+    "_size": 3536
 }
