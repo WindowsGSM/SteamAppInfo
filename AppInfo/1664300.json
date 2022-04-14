@@ -236,7 +236,13 @@
             "manifests": {
                 "public": "7417705425139223601"
             },
-            "maxsize": "1001242278"
+            "maxsize": "1001242278",
+            "encryptedmanifests": {
+                "testing": {
+                    "encrypted_gid_2": "DD79C9235C8C26AA610EE82126CDCC7C",
+                    "encrypted_size_2": "07B5871D7B902CF57F208750DAE61705"
+                }
+            }
         },
         "1664302": {
             "name": "Animalia QA - Quality Assurance Testing Branch Survival Server",
@@ -252,15 +258,15 @@
                 "timeupdated": "1648878670"
             },
             "testing": {
-                "buildid": "8485467",
+                "buildid": "8555186",
                 "description": "QA - Quality Assurance Testing Branch",
                 "pwdrequired": "1",
-                "timeupdated": "1649185847"
+                "timeupdated": "1649902276"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 14432320,
-    "_sha": "6f3e8d200908cd30df3d4299cdac18feb39f3269",
-    "_size": 5286
+    "_change_number": 14512852,
+    "_sha": "671a26b440329825843096e4b295123ac1b95785",
+    "_size": 5465
 }
