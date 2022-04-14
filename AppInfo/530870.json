@@ -77,7 +77,7 @@
         "530871": {
             "name": "Dedicated Server Content",
             "manifests": {
-                "public": "894490318841252648",
+                "public": "5620732264038209011",
                 "alpha10": "4139613444459975471",
                 "alpha11": "7348305962190994729",
                 "alpha12": "2395002668044090563",
@@ -87,34 +87,30 @@
                 "alpha8": "9130500877719341038",
                 "alpha9": "98967298642520364"
             },
-            "maxsize": "12693977211",
+            "maxsize": "12702246137",
             "encryptedmanifests": {
                 "closedalpha": {
                     "encrypted_gid_2": "E25F878A0391315E56D1F445DD0F6918",
                     "encrypted_size_2": "743F13AFC5428CC3F657981A39E9D2D9"
                 },
-                "eleononly": {
-                    "encrypted_gid_2": "2A10FDCE90E6AEE0A87D58AA23A98F21",
-                    "encrypted_size_2": "974C77BF11497F253215C2B99D399F2E"
-                },
                 "eleontest": {
                     "encrypted_gid_2": "9876D0D3D96B3D50908D65592374A997",
                     "encrypted_size_2": "8DBB087E2F058AE78F314722EE2DEE1E"
                 },
+                "experimental": {
+                    "encrypted_gid_2": "76F9783A2595DB1A0E9C4649053B6602",
+                    "encrypted_size_2": "5F8EBDCEAC91141886130F97B557D2B4"
+                },
                 "internal": {
                     "encrypted_gid_2": "E3CF06528364A4168D688A5537C92201",
                     "encrypted_size_2": "AEBA1EE8C0919C5C58B2CB759771FD69"
-                },
-                "steamtest": {
-                    "encrypted_gid_2": "BB4D4DE6DEF1551F1AEBCBB080D04D3F",
-                    "encrypted_size_2": "D223703860A26A2B99B6A375983958A9"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "8348166",
-                "timeupdated": "1647251839"
+                "buildid": "8553894",
+                "timeupdated": "1649925397"
             },
             "alpha10": {
                 "buildid": "4347212",
@@ -195,7 +191,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14510732,
-    "_sha": "5e76d26cd8501848705a190b088c679fea258404",
-    "_size": 4816
+    "_change_number": 14515273,
+    "_sha": "bcdedd0020af4979d82890e98401659efe74b67e",
+    "_size": 4673
 }
