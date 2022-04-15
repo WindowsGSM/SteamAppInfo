@@ -57,8 +57,12 @@
             "maxsize": "1196435611",
             "encryptedmanifests": {
                 "dev-branch": {
-                    "encrypted_gid_2": "15AF4B23335AFE64B0E68DE0BCDB37A2",
-                    "encrypted_size_2": "37D96DA0422001E735618D6B1F65EE85"
+                    "encrypted_gid_2": "526C99BF7BF2C41035B61CC2C0C93867",
+                    "encrypted_size_2": "0A6C922EEB9534BF7B2B68062B6AEC4E"
+                },
+                "public-test-branch": {
+                    "encrypted_gid_2": "7CC399CD5E4B47E5D1A0BDF44FE4BAE6",
+                    "encrypted_size_2": "4D6E057D174D3E9979FDBB86ECCF1E4D"
                 }
             }
         },
@@ -69,21 +73,21 @@
                 "timeupdated": "1649750576"
             },
             "dev-branch": {
-                "buildid": "8550676",
+                "buildid": "8564262",
                 "description": "latest development test branch",
                 "pwdrequired": "1",
-                "timeupdated": "1649852823"
+                "timeupdated": "1650019916"
             },
             "public-test-branch": {
-                "buildid": "8541641",
+                "buildid": "8564262",
                 "description": "public testing on the newest updates",
                 "pwdrequired": "1",
-                "timeupdated": "1649750570"
+                "timeupdated": "1650019922"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 14505910,
-    "_sha": "453ac0259f0c747ead9bf278efd4a6a66db4cd85",
-    "_size": 1916
+    "_change_number": 14527135,
+    "_sha": "3ea403168b85fa1e3616a2923d7b37c998d29ac7",
+    "_size": 2072
 }
