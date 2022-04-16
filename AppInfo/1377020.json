@@ -83,19 +83,25 @@
         "1377021": {
             "name": "Sanctuary Island dedicated server Content",
             "manifests": {
-                "public": "9104584255350458552"
+                "public": "9104584255350458552",
+                "test": "4358902691503720512"
             },
-            "maxsize": "670921910"
+            "maxsize": "825776475"
         },
         "branches": {
             "public": {
                 "buildid": "8521918",
                 "timeupdated": "1649442773"
+            },
+            "test": {
+                "buildid": "8569376",
+                "description": "Testbranch",
+                "timeupdated": "1650121805"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 14465425,
-    "_sha": "9a3387b3c9c17ac8d4656fab2d625c1660f49528",
-    "_size": 2030
+    "_change_number": 14535685,
+    "_sha": "74a0a1a41449c03313e77f6f3ce3420e0413f843",
+    "_size": 2173
 }
