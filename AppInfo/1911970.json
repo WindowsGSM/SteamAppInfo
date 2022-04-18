@@ -32,11 +32,9 @@
                 },
                 "description": "Start OverShoot dedicated server"
             }
-        },
-        "uselaunchcommandline": "1"
+        }
     },
     "depots": {
-        "baselanguages": "english",
         "1004": {
             "config": {
                 "oslist": "windows"
@@ -66,6 +64,15 @@
             "maxsize": "65909056",
             "depotfromapp": "1007"
         },
+        "229007": {
+            "config": {
+                "language": ""
+            },
+            "maxsize": "117381405",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
         "1911971": {
             "config": {
                 "language": "english",
@@ -84,7 +91,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14549572,
-    "_sha": "5928b779dee404000ac505a528e9aa9a6f6fb1a1",
-    "_size": 1806
+    "_change_number": 14549592,
+    "_sha": "3838e68a992eb1cfea48c540d9d13df16c4233d8",
+    "_size": 1914
 }
