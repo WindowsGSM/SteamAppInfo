@@ -13,7 +13,7 @@
         "icon": "491235449fb8c9579d46a3d76be96c2bd7e266af",
         "logo": "cd55c418468548210780bc0148ca17d166563ead",
         "logo_small": "cd55c418468548210780bc0148ca17d166563ead_thumb",
-        "oslist": "",
+        "oslist": "windows",
         "osarch": "",
         "osextended": "",
         "community_hub_visible": "1",
@@ -37,6 +37,7 @@
         "uselaunchcommandline": "1"
     },
     "depots": {
+        "baselanguages": "english",
         "1004": {
             "config": {
                 "oslist": "windows"
@@ -67,12 +68,15 @@
             "depotfromapp": "1007"
         },
         "1911971": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
             "manifests": {
                 "public": "7114088841875552811"
             },
             "maxsize": "3872802"
         },
-        "baselanguages": "english",
         "branches": {
             "public": {
                 "buildid": "8210203",
@@ -81,7 +85,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14545453,
-    "_sha": "32019d34b63119ed11d6105380a284a8d3a282ee",
-    "_size": 1765
+    "_change_number": 14545570,
+    "_sha": "e9eee42bd621bb7ec4fd539c09a62f355ed33db5",
+    "_size": 1844
 }
