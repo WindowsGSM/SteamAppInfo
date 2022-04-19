@@ -25,7 +25,10 @@
             "0": {
                 "executable": "srcds.exe",
                 "arguments": "-game reactivedrop",
-                "type": "none"
+                "type": "server",
+                "config": {
+                    "oslist": "windows"
+                }
             }
         }
     },
@@ -62,6 +65,16 @@
             "maxsize": "65909056",
             "depotfromapp": "1007"
         },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "maxsize": "29212147",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
         "563561": {
             "name": "Alien Swarm: Reactive Drop Content",
             "maxsize": "4291139338",
@@ -80,7 +93,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14549090,
-    "_sha": "687f913879fc95fe760555421e99d2ed6ba4b873",
-    "_size": 1831
+    "_change_number": 14553233,
+    "_sha": "12897a72b8ca8241065e69b89f2ce24168ec4c14",
+    "_size": 2072
 }
