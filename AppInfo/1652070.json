@@ -46,7 +46,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -57,7 +56,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -67,7 +65,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -79,7 +76,6 @@
         },
         "baselanguages": "english",
         "1652071": {
-            "name": "Qanga Dedicated Server Windows",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -96,7 +92,6 @@
             }
         },
         "1652072": {
-            "name": "QANGA Dedicated Server Linux",
             "config": {
                 "oslist": "linux",
                 "osarch": "64"
@@ -119,7 +114,6 @@
             },
             "development": {
                 "buildid": "8405385",
-                "description": "development branch",
                 "pwdrequired": "1",
                 "timeupdated": "1647778359"
             }
@@ -127,6 +121,6 @@
     },
     "_missing_token": false,
     "_change_number": 14557751,
-    "_sha": "1de200b3ee57dce2ece8528206569c7715f12ef1",
-    "_size": 2815
+    "_sha": "68a8558a66378f6cf2a103aae31b2ac32a82b644",
+    "_size": 2558
 }

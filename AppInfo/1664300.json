@@ -37,7 +37,6 @@
     "depots": {
         "baselanguages": "english",
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -48,7 +47,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -58,7 +56,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -69,7 +66,6 @@
             "depotfromapp": "1007"
         },
         "228981": {
-            "name": "VC 2005 Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -79,7 +75,6 @@
             "sharedinstall": "1"
         },
         "228982": {
-            "name": "VC 2008 Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -89,7 +84,6 @@
             "sharedinstall": "1"
         },
         "228983": {
-            "name": "VC 2010 Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -99,7 +93,6 @@
             "sharedinstall": "1"
         },
         "228984": {
-            "name": "VC 2012 Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -109,7 +102,6 @@
             "sharedinstall": "1"
         },
         "228985": {
-            "name": "VC 2013 Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -119,7 +111,6 @@
             "sharedinstall": "1"
         },
         "228988": {
-            "name": "VC 2019 Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -129,7 +120,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -139,7 +129,6 @@
             "sharedinstall": "1"
         },
         "229004": {
-            "name": ".NET 4.5.2 Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -149,7 +138,6 @@
             "sharedinstall": "1"
         },
         "229005": {
-            "name": ".NET 4.6 Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -159,7 +147,6 @@
             "sharedinstall": "1"
         },
         "229006": {
-            "name": ".NET 4.7 Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -169,7 +156,6 @@
             "sharedinstall": "1"
         },
         "229007": {
-            "name": ".NET 4.8 Redis",
             "config": {
                 "language": ""
             },
@@ -178,7 +164,6 @@
             "sharedinstall": "1"
         },
         "229010": {
-            "name": "XNA 3.0 Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -188,7 +173,6 @@
             "sharedinstall": "1"
         },
         "229011": {
-            "name": "XNA 3.1 Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -198,7 +182,6 @@
             "sharedinstall": "1"
         },
         "229012": {
-            "name": "XNA 4.0 Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -208,7 +191,6 @@
             "sharedinstall": "1"
         },
         "229020": {
-            "name": "OpenAL 2.0.7.0 Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -218,7 +200,6 @@
             "sharedinstall": "1"
         },
         "229033": {
-            "name": "PhysX System Software 9.14.0702",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -228,7 +209,6 @@
             "sharedinstall": "1"
         },
         "1664301": {
-            "name": "Servidor Dedicado Animalia Content",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -245,7 +225,6 @@
             }
         },
         "1664302": {
-            "name": "Animalia QA - Quality Assurance Testing Branch Survival Server",
             "config": {
                 "language": "english",
                 "oslist": "windows",
@@ -259,7 +238,6 @@
             },
             "testing": {
                 "buildid": "8562280",
-                "description": "QA - Quality Assurance Testing Branch",
                 "pwdrequired": "1",
                 "timeupdated": "1649988454"
             }
@@ -267,6 +245,6 @@
     },
     "_missing_token": false,
     "_change_number": 14524933,
-    "_sha": "19ab7691c0a68800cab7f923e6464b9c10a5b51b",
-    "_size": 5465
+    "_sha": "b8e21e767921ac99647440d8738ab374a96f9e2f",
+    "_size": 4665
 }

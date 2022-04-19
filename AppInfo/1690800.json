@@ -38,7 +38,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -49,7 +48,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -59,7 +57,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -70,7 +67,6 @@
             "depotfromapp": "1007"
         },
         "1690801": {
-            "name": "Satisfactory Dedicated Server Content - Windows",
             "config": {
                 "oslist": "windows"
             },
@@ -115,7 +111,6 @@
             }
         },
         "1690802": {
-            "name": "Satisfactory Dedicated Server Depot - Linux",
             "config": {
                 "oslist": "linux"
             },
@@ -170,49 +165,41 @@
             },
             "integration-test": {
                 "buildid": "7816438",
-                "description": "Branch _dedicated_ for integration testing",
                 "pwdrequired": "1",
                 "timeupdated": "1638456504"
             },
             "internal": {
                 "buildid": "8213672",
-                "description": "For in-house testing purposes only",
                 "pwdrequired": "1",
                 "timeupdated": "1645015255"
             },
             "internal2": {
                 "buildid": "8157674",
-                "description": "For in-house testing purposes only",
                 "pwdrequired": "1",
                 "timeupdated": "1644233081"
             },
             "internal3": {
                 "buildid": "8098096",
-                "description": "For in-house testing purposes only",
                 "pwdrequired": "1",
                 "timeupdated": "1643296007"
             },
             "internal4": {
                 "buildid": "8145211",
-                "description": "For in-house testing purposes only",
                 "pwdrequired": "1",
                 "timeupdated": "1643977221"
             },
             "nightly": {
                 "buildid": "8585223",
-                "description": "Release builds of the game built every night",
                 "pwdrequired": "1",
                 "timeupdated": "1650403392"
             },
             "patching": {
                 "buildid": "8507802",
-                "description": "Branch for patching",
                 "pwdrequired": "1",
                 "timeupdated": "1649250502"
             },
             "staging": {
                 "buildid": "8381517",
-                "description": "Shipping builds of the game built when closing into a new patch to experimental or main",
                 "pwdrequired": "1",
                 "timeupdated": "1647539475"
             }
@@ -220,6 +207,6 @@
     },
     "_missing_token": false,
     "_change_number": 14561004,
-    "_sha": "8fc5472675b40c203251eea2b609fcec62e73dc7",
-    "_size": 6024
+    "_sha": "2d26d32036f5ae378c99bfd1ef2d40074e95d3f0",
+    "_size": 5271
 }

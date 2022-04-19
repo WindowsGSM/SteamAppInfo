@@ -42,7 +42,6 @@
     "depots": {
         "hasdepotsindlc": "0",
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -53,7 +52,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -63,7 +61,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -74,7 +71,6 @@
             "depotfromapp": "1007"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -84,7 +80,6 @@
             "sharedinstall": "1"
         },
         "1697661": {
-            "name": "Hellbreath Dedicated Server Content",
             "config": {
                 "language": "english",
                 "oslist": "windows",
@@ -96,7 +91,6 @@
             "maxsize": "611869513"
         },
         "1697662": {
-            "name": "Repositorio Hellbreath Dedicated Server",
             "config": {
                 "language": "english",
                 "oslist": "linux"
@@ -115,6 +109,6 @@
     },
     "_missing_token": false,
     "_change_number": 14286703,
-    "_sha": "287df0b1467a70b6ca0fb5ce5da3552381eb861a",
-    "_size": 2427
+    "_sha": "23961e2eecfe4c21d73ddf10db77121d84bb0d54",
+    "_size": 2157
 }

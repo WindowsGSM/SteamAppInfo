@@ -37,7 +37,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -48,7 +47,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -58,7 +56,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -69,7 +66,6 @@
             "depotfromapp": "1007"
         },
         "1670341": {
-            "name": "Craftopia Dedicated Server Content",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -96,7 +92,6 @@
             }
         },
         "1670342": {
-            "name": "Craftopia Dedicated Server Linux",
             "config": {
                 "oslist": "linux",
                 "osarch": "64"
@@ -149,6 +144,6 @@
     },
     "_missing_token": false,
     "_change_number": 14553590,
-    "_sha": "e2a7d029268558b80600f17e3daea73d59d5f9b6",
-    "_size": 3545
+    "_sha": "9885b35c291c0d4bbf14f6ec4218406943077c74",
+    "_size": 3320
 }

@@ -30,7 +30,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -41,7 +40,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -51,7 +49,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -62,7 +59,6 @@
             "depotfromapp": "1007"
         },
         "228988": {
-            "name": "VC 2019 Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -72,7 +68,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -82,7 +77,6 @@
             "sharedinstall": "1"
         },
         "1573821": {
-            "name": "Raptor Territory Dedicated Server Content",
             "manifests": {
                 "public": "6102970022947539024"
             },
@@ -97,6 +91,6 @@
     },
     "_missing_token": false,
     "_change_number": 14535075,
-    "_sha": "01d0c79a9dddca70ca8ff420ef1ab32622052833",
-    "_size": 2057
+    "_sha": "8de5407bab8a8f949537bc3c40876a92f57bb6b4",
+    "_size": 1806
 }

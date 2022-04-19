@@ -29,7 +29,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -40,7 +39,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -50,7 +48,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -61,7 +58,6 @@
             "depotfromapp": "1007"
         },
         "228988": {
-            "name": "VC 2019 Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -71,7 +67,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -81,7 +76,6 @@
             "sharedinstall": "1"
         },
         "229006": {
-            "name": ".NET 4.7 Redist",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -91,7 +85,6 @@
             "sharedinstall": "1"
         },
         "1534711": {
-            "name": "SCP: Breakout Dedicated Server Content",
             "manifests": {
                 "public": "408784379942811388"
             },
@@ -106,6 +99,6 @@
     },
     "_missing_token": false,
     "_change_number": 14193992,
-    "_sha": "8af1c32908f697d852057c86a2dc958f41ff5bfb",
-    "_size": 2190
+    "_sha": "0377470646a742a63194acdea019ac7132ef9c4c",
+    "_size": 1913
 }
