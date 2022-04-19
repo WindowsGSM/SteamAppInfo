@@ -21,10 +21,10 @@
         "icon": "f80d72d4a547d05e5f6e8134ecdde482f76af579",
         "clienticon": "454c29ea41ee342848100a5ce1c33390b7950854",
         "clienttga": "adb8f5b48751d02d5821fc8f4eb5ba752dda8114",
+        "osvrsupport": "1",
         "openvrsupport": "1",
         "othervrsupport": "1",
         "othervrsupport_rift_13": "1",
-        "osvrsupport": "1",
         "metacritic_name": "LoginToShootingRangeInServer00 VR",
         "small_capsule": {
             "english": "capsule_231x87.jpg",
@@ -112,7 +112,7 @@
             },
             "2": {
                 "executable": "Server00.exe",
-                "type": "osvr",
+                "type": "vr",
                 "config": {
                     "oslist": "windows"
                 }
@@ -169,7 +169,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 11703200,
-    "_sha": "c21bccd4832b1e994afbf792afb620de1628fe5f",
-    "_size": 3456
+    "_change_number": 14560071,
+    "_sha": "d6d117f3e5c50cd35f9fdee90a6a580192b5e1ad",
+    "_size": 3454
 }
