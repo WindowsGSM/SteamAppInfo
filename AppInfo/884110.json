@@ -5,7 +5,7 @@
         "type": "Tool",
         "parent": "872670",
         "releasestate": "released",
-        "oslist": "windows",
+        "oslist": "windows,linux",
         "osarch": "64",
         "osextended": "",
         "logo": "3d0cf9e8cf56d512929144f59b1db54fe8ce9b3e",
@@ -30,8 +30,17 @@
                     "oslist": "windows",
                     "osarch": "64"
                 }
+            },
+            "1": {
+                "executable": "WindowsServer/PandemicServer.sh",
+                "type": "server",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
             }
-        }
+        },
+        "uselaunchcommandline": "1"
     },
     "depots": {
         "1004": {
@@ -68,6 +77,9 @@
         },
         "884111": {
             "name": "Server Toolkit Content",
+            "config": {
+                "oslist": "windows"
+            },
             "manifests": {
                 "public": "5782225179937932818"
             },
@@ -78,8 +90,21 @@
                     "encrypted_size_2": "AC846E65BE96040E626E7572B5805F4E"
                 },
                 "indev": {
-                    "encrypted_gid_2": "AF8633F53C7D4D0775F1DD4675ECA7C0",
-                    "encrypted_size_2": "622D17D829CB29006BE1F66A89DD2A25"
+                    "encrypted_gid_2": "64F56D0D9FEA19C65161B6D5D5EF26B6",
+                    "encrypted_size_2": "50F92F41DA8D4420C08C6E6E036A3FD3"
+                }
+            }
+        },
+        "884112": {
+            "name": "SCP: Pandemic Dedicated Server Linux",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {},
+            "encryptedmanifests": {
+                "indev": {
+                    "encrypted_gid_2": "A9C66EE2F416525B9E66359E48ACF9B0",
+                    "encrypted_size_2": "1B470665A928C9082EAFA2A6BC627561"
                 }
             }
         },
@@ -95,15 +120,15 @@
                 "timeupdated": "1644625969"
             },
             "indev": {
-                "buildid": "8571525",
+                "buildid": "8587360",
                 "description": "Likely unstable builds",
                 "pwdrequired": "1",
-                "timeupdated": "1650190278"
+                "timeupdated": "1650433828"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 14539670,
-    "_sha": "18205700d87a5e96b8f5f4366d6112096e5960fe",
-    "_size": 2332
+    "_change_number": 14564267,
+    "_sha": "a139c282e3bdc65fa83f00779b5a181805bcdba8",
+    "_size": 2887
 }
