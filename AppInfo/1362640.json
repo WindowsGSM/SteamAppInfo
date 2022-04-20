@@ -36,9 +36,16 @@
                 "language": ""
             },
             "manifests": {
-                "public": "5152105618092342680"
+                "public": "5152105618092342680",
+                "experimental": "7592746842839145892"
             },
-            "maxsize": "661769472"
+            "maxsize": "692633934",
+            "encryptedmanifests": {
+                "dev_testing": {
+                    "encrypted_gid_2": "2FD393F92795358C6BEA934EB4207ACE",
+                    "encrypted_size_2": "2F7A55F8BCD0EA42925A5012CA64DE16"
+                }
+            }
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,thai,japanese,portuguese,polish,danish,dutch,norwegian,swedish,hungarian,czech,romanian,turkish,brazilian,ukrainian,latam,vietnamese",
         "branches": {
@@ -47,18 +54,18 @@
                 "timeupdated": "1640126816"
             },
             "dev_testing": {
-                "buildid": "7923511",
+                "buildid": "8585635",
                 "pwdrequired": "1",
-                "timeupdated": "1640126801"
+                "timeupdated": "1650473531"
             },
             "experimental": {
-                "buildid": "7923511",
-                "timeupdated": "1640126810"
+                "buildid": "8585635",
+                "timeupdated": "1650473544"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 14367404,
-    "_sha": "cd7dff9f74dd6af3d93726ba1ecba951de6fc4e1",
-    "_size": 1551
+    "_change_number": 14570327,
+    "_sha": "1aa9df5bd6b6dbfa2bf62e6b2be052db1e007c9b",
+    "_size": 1776
 }
