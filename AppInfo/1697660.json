@@ -24,7 +24,8 @@
         "installdir": "Hellbreath Dedicated Server",
         "launch": {
             "0": {
-                "executable": "Helbreath3dServer.exe Aresden -port=7781",
+                "executable": "Helbreath3dServer.exe",
+                "arguments": "Aresden -port=7781",
                 "config": {
                     "oslist": "windows",
                     "osarch": "64"
@@ -108,7 +109,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14584430,
-    "_sha": "4c99aa294a51b712c5ca1a8153dcdfec41fd54cd",
-    "_size": 2184
+    "_change_number": 14584484,
+    "_sha": "73d1715e312163d551193cab8ce4bf3d7fd37022",
+    "_size": 2203
 }
