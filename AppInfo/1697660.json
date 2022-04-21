@@ -4,7 +4,7 @@
         "name": "Hellbreath Dedicated Server",
         "type": "Tool",
         "parent": "826270",
-        "oslist": "windows,linux",
+        "oslist": "windows",
         "osarch": "64",
         "osextended": "",
         "logo": "76482c51c37a1b35c84d2b30258ec50c25ce642a",
@@ -25,7 +25,7 @@
         "launch": {
             "0": {
                 "executable": "Helbreath3dServer.exe",
-                "arguments": "Aresden -port=7781",
+                "arguments": "Aresden -port=7781 -log",
                 "config": {
                     "oslist": "windows",
                     "osarch": "64"
@@ -109,7 +109,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14584484,
-    "_sha": "73d1715e312163d551193cab8ce4bf3d7fd37022",
-    "_size": 2203
+    "_change_number": 14585292,
+    "_sha": "4f6545e31365549fd771d7b344b18056fd3fce95",
+    "_size": 2202
 }
