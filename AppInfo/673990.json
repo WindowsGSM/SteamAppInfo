@@ -69,9 +69,15 @@
             },
             "manifests": {
                 "public": "6845003677903299338",
-                "beta": "8789676379937907383"
+                "beta": "2805412972428823750"
             },
-            "maxsize": "3640134711"
+            "maxsize": "3475837405",
+            "encryptedmanifests": {
+                "testing": {
+                    "encrypted_gid_2": "7FF0A2FCB4E86D28160E1185815082E9",
+                    "encrypted_size_2": "3EB21FD1EC8C91949687DC459350B0A0"
+                }
+            }
         },
         "673992": {
             "name": "Windows Server Depot",
@@ -80,9 +86,15 @@
             },
             "manifests": {
                 "public": "4610515207012573690",
-                "beta": "7799242986031038853"
+                "beta": "7782479627280321193"
             },
-            "maxsize": "28050064"
+            "maxsize": "28050064",
+            "encryptedmanifests": {
+                "testing": {
+                    "encrypted_gid_2": "AC5472E3F9A62FC9B1131ECB348EA17A",
+                    "encrypted_size_2": "3476516E26677C2597687B1284623C17"
+                }
+            }
         },
         "673993": {
             "name": "Linux Server Depot",
@@ -91,9 +103,15 @@
             },
             "manifests": {
                 "public": "5225605950803196235",
-                "beta": "3075224732768953091"
+                "beta": "4888682652434274259"
             },
-            "maxsize": "48597464"
+            "maxsize": "48597622",
+            "encryptedmanifests": {
+                "testing": {
+                    "encrypted_gid_2": "2A7D4D725A68DD0A23A1C3BCBFDD139C",
+                    "encrypted_size_2": "6FDE46008A8AFAD5268D398254C808F0"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -101,9 +119,9 @@
                 "timeupdated": "1649104166"
             },
             "beta": {
-                "buildid": "7884590",
+                "buildid": "8613987",
                 "description": "BETA",
-                "timeupdated": "1640107766"
+                "timeupdated": "1650801967"
             },
             "develop": {
                 "buildid": "8495386",
@@ -111,15 +129,15 @@
                 "timeupdated": "1649104184"
             },
             "testing": {
-                "buildid": "8495386",
+                "buildid": "8613987",
                 "description": "TESTING",
                 "pwdrequired": "1",
-                "timeupdated": "1649104175"
+                "timeupdated": "1650801977"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 14421814,
-    "_sha": "dad91d4024e26d702d544150d5d0a8c6271f04f8",
-    "_size": 2569
+    "_change_number": 14607062,
+    "_sha": "d1f1731bf81127acc92a62e41fc74e9bef42c8da",
+    "_size": 3106
 }
