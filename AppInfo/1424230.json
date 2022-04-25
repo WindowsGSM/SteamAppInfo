@@ -82,6 +82,10 @@
                 "benchmark2": {
                     "encrypted_gid_2": "A8CC4BCE51599BE5B746AD446F7FF1EA",
                     "encrypted_size_2": "FBB76CF605D624BD5D25CCAA42C276F7"
+                },
+                "beta-int": {
+                    "encrypted_gid_2": "5418FA65AAD5DF53607F8E9AC9062CA6",
+                    "encrypted_size_2": "6EF57823B3B6E1D7D0E294F1DFD7151B"
                 }
             }
         },
@@ -105,6 +109,10 @@
                 "benchmark2": {
                     "encrypted_gid_2": "DD31BE7C5CAC93061BCF36DEDBD61C38",
                     "encrypted_size_2": "13E7A84D6B34C45BF0D21498704B85AA"
+                },
+                "beta-int": {
+                    "encrypted_gid_2": "F4BBDB494E920B0AD102C0F6A21566BB",
+                    "encrypted_size_2": "50879CE3A0F79FAA93D91B57FDC63999"
                 }
             }
         },
@@ -128,11 +136,17 @@
             "beta": {
                 "buildid": "8607234",
                 "timeupdated": "1650648594"
+            },
+            "beta-int": {
+                "buildid": "8621510",
+                "description": "internal",
+                "pwdrequired": "1",
+                "timeupdated": "1650921343"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 14616442,
-    "_sha": "2865f4791eb1f32b927b24c6a9e78a1b7149b08e",
-    "_size": 3154
+    "_change_number": 14619594,
+    "_sha": "19d5d7eb552110b087fb6c78bf3e81dc62a7e591",
+    "_size": 3580
 }
