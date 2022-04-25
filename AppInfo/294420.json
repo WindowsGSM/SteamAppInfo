@@ -92,14 +92,17 @@
                 "alpha18.4": "1987056548212269568",
                 "alpha19.6": "4686149603724346540",
                 "alpha20.0": "1192338431323712073",
-                "alpha20.1": "3366271055219615829",
                 "alpha20.2": "6780412785001941393",
                 "alpha8.8": "6555466999693160687",
                 "alpha9.3": "6472753396271220220",
                 "latest_experimental": "2177343354800528570"
             },
-            "maxsize": "12803634292",
+            "maxsize": "12803634290",
             "encryptedmanifests": {
+                "alpha20.4": {
+                    "encrypted_gid_2": "4BA35733C29BD2BC50AA10741CCCCDFD",
+                    "encrypted_size_2": "B297B9647D7194CAC76F70E67748959A"
+                },
                 "test": {
                     "encrypted_gid_2": "2B2A034178604F57AD0BCB68CF1629C4",
                     "encrypted_size_2": "864994AE9A51B332692B286DD20C33AC"
@@ -136,13 +139,16 @@
                 "alpha18.4": "712346436815285918",
                 "alpha19.6": "8368733426395777657",
                 "alpha20.0": "8491094488431010654",
-                "alpha20.1": "6255887219184546851",
                 "alpha20.2": "3867999264868164043",
                 "alpha9.3": "771574079178892216",
                 "latest_experimental": "7450223064053935691"
             },
-            "maxsize": "12852025913",
+            "maxsize": "12852025399",
             "encryptedmanifests": {
+                "alpha20.4": {
+                    "encrypted_gid_2": "269CC3AB2BE63EA32D57AF38A58DDC57",
+                    "encrypted_size_2": "6C08E250DC47162CEE0BAAF372D2AFD6"
+                },
                 "test": {
                     "encrypted_gid_2": "EB1D04ABED4C944B7C26DB92F8489E3B",
                     "encrypted_size_2": "6718A3A8EA9FDBB403887F8656BBEABF"
@@ -218,11 +224,6 @@
                 "description": "Alpha 20.0 Stable",
                 "timeupdated": "1643752165"
             },
-            "alpha20.1": {
-                "buildid": "8094559",
-                "description": "Alpha 20.1 Stable",
-                "timeupdated": "1643751053"
-            },
             "alpha20.2": {
                 "buildid": "8148950",
                 "description": "Alpha 20.2 Stable",
@@ -232,6 +233,12 @@
                 "buildid": "8246198",
                 "description": "Alpha 20.3 Stable",
                 "timeupdated": "1645571046"
+            },
+            "alpha20.4": {
+                "buildid": "8604296",
+                "description": "Alpha 20.4 Stable",
+                "pwdrequired": "1",
+                "timeupdated": "1650903756"
             },
             "alpha8.8": {
                 "buildid": "334790",
@@ -273,7 +280,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14616943,
-    "_sha": "d506c1ef13270f9a7a667e170ef2051637b18c91",
-    "_size": 7419
+    "_change_number": 14617118,
+    "_sha": "a4cca2f8a3ae058785394ae1b42831b0bec1ce8c",
+    "_size": 7658
 }
