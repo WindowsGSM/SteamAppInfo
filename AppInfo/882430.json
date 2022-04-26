@@ -81,8 +81,7 @@
         "228988": {
             "name": "VC 2019 Redist",
             "config": {
-                "oslist": "windows",
-                "language": ""
+                "oslist": "windows"
             },
             "maxsize": "29212147",
             "depotfromapp": "228980",
@@ -91,8 +90,7 @@
         "228990": {
             "name": "DirectX Jun 2010 Redist",
             "config": {
-                "oslist": "windows",
-                "language": ""
+                "oslist": "windows"
             },
             "maxsize": "102931551",
             "depotfromapp": "228980",
@@ -107,8 +105,8 @@
             "maxsize": "982803197",
             "encryptedmanifests": {
                 "tester": {
-                    "encrypted_gid_2": "9ED3EB63B1CC9225EF57CD4DC37B77A3",
-                    "encrypted_size_2": "8792583EFFC9ADAB53184F9D53391929"
+                    "encrypted_gid_2": "475DC55200A7F6624DB893BDE5585275",
+                    "encrypted_size_2": "6333FD4D70C937D94D095F4DA825EE29"
                 }
             }
         },
@@ -123,8 +121,8 @@
             "maxsize": "267324614",
             "encryptedmanifests": {
                 "tester": {
-                    "encrypted_gid_2": "93948B11CEC8851FFDA1B9AC455B3790",
-                    "encrypted_size_2": "B3A0DEBB4CDBD3FAB4BD00043E988A56"
+                    "encrypted_gid_2": "BD5598120E1D16D2230A857267D93F04",
+                    "encrypted_size_2": "D826E4315A9FD070E3385E183D37ADDA"
                 }
             }
         },
@@ -149,15 +147,15 @@
                 "timeupdated": "1647459249"
             },
             "tester": {
-                "buildid": "8621137",
+                "buildid": "8628757",
                 "description": "Tester branch",
                 "pwdrequired": "1",
-                "timeupdated": "1650917064"
+                "timeupdated": "1651005542"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 14619018,
-    "_sha": "51e74eb425216749d7677ac2771432f9a167ad64",
-    "_size": 3705
+    "_change_number": 14632303,
+    "_sha": "334973118b876a608e50f714e172522bc123c490",
+    "_size": 3667
 }
