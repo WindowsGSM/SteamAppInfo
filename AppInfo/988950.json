@@ -100,6 +100,7 @@
             "name": "Journey of Life - Dedicated Server Content",
             "manifests": {
                 "public": "7864919770206583701",
+                "devtest1": "7207021034963688814",
                 "legacy": "8443651178289967592"
             },
             "maxsize": "2088860459"
@@ -109,6 +110,11 @@
                 "buildid": "7243615",
                 "timeupdated": "1629980240"
             },
+            "devtest1": {
+                "buildid": "8627925",
+                "description": "aa",
+                "timeupdated": "1651000302"
+            },
             "legacy": {
                 "buildid": "4805088",
                 "description": "Old server files",
@@ -117,7 +123,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14631332,
-    "_sha": "0c275e03c233856316ea4d12381e615b41102e5d",
-    "_size": 2545
+    "_change_number": 14631357,
+    "_sha": "690392254f7dcc82d3c2681149abb4a57bf8dd13",
+    "_size": 2688
 }
