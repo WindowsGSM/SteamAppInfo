@@ -61,8 +61,7 @@
         "228988": {
             "name": "VC 2019 Redist",
             "config": {
-                "oslist": "windows",
-                "language": ""
+                "oslist": "windows"
             },
             "maxsize": "29212147",
             "depotfromapp": "228980",
@@ -71,8 +70,7 @@
         "228990": {
             "name": "DirectX Jun 2010 Redist",
             "config": {
-                "oslist": "windows",
-                "language": ""
+                "oslist": "windows"
             },
             "maxsize": "102931551",
             "depotfromapp": "228980",
@@ -81,8 +79,7 @@
         "229006": {
             "name": ".NET 4.7 Redist",
             "config": {
-                "oslist": "windows",
-                "language": ""
+                "oslist": "windows"
             },
             "maxsize": "83944258",
             "depotfromapp": "228980",
@@ -145,8 +142,8 @@
                     "encrypted_size_2": "A0CC0C840A1383A1BE8733A6B546C693"
                 },
                 "plugin-api": {
-                    "encrypted_gid_2": "3D91B92DB0C8D48D57544BFE2008C4D0",
-                    "encrypted_size_2": "2A5255725ADB5F491FB8C69D789B2CCA"
+                    "encrypted_gid_2": "99684FDC5A40F2A53FECA0FC1F978810",
+                    "encrypted_size_2": "F83C96885F92F2D4624C13D93A9047C9"
                 },
                 "pognity": {
                     "encrypted_gid_2": "950E325217D8775C942A00E4F209CEF1",
@@ -218,8 +215,8 @@
                     "encrypted_size_2": "36286420E65BD609C304FEE9E6A10528"
                 },
                 "plugin-api": {
-                    "encrypted_gid_2": "C0B69766E988134BEF812C3C6B2EE827",
-                    "encrypted_size_2": "54120B1BD7107602433B180412B27534"
+                    "encrypted_gid_2": "5AB13F27C6051C5B06278772A0CE2EEC",
+                    "encrypted_size_2": "62B0E49BA11BE0765E88C7095F2C9A1A"
                 },
                 "pognity": {
                     "encrypted_gid_2": "538E36C56FDBCE62986FA12C8759EFA7",
@@ -307,10 +304,10 @@
                 "timeupdated": "1650943606"
             },
             "plugin-api": {
-                "buildid": "8621246",
+                "buildid": "8627954",
                 "description": "Plugin API",
                 "pwdrequired": "1",
-                "timeupdated": "1650918199"
+                "timeupdated": "1650996038"
             },
             "pognity": {
                 "buildid": "8203799",
@@ -333,7 +330,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14622380,
-    "_sha": "1603423a8a7988c4361788d6f13987f01f5fea8d",
-    "_size": 9400
+    "_change_number": 14630314,
+    "_sha": "e40653810c0cbff507a2adae627eacf29b2635dd",
+    "_size": 9343
 }
