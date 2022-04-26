@@ -77,8 +77,7 @@
         "228985": {
             "name": "VC 2013 Redist",
             "config": {
-                "oslist": "windows",
-                "language": ""
+                "oslist": "windows"
             },
             "maxsize": "13699237",
             "depotfromapp": "228980",
@@ -87,8 +86,7 @@
         "228988": {
             "name": "VC 2019 Redist",
             "config": {
-                "oslist": "windows",
-                "language": ""
+                "oslist": "windows"
             },
             "maxsize": "29212147",
             "depotfromapp": "228980",
@@ -97,7 +95,7 @@
         "229007": {
             "name": ".NET 4.8 Redis",
             "config": {
-                "language": ""
+                "oslist": "windows"
             },
             "maxsize": "117381405",
             "depotfromapp": "228980",
@@ -270,7 +268,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14616474,
-    "_sha": "db5df921d02f3a558bef93790880be9c1807095b",
-    "_size": 6441
+    "_change_number": 14633474,
+    "_sha": "06deab11677600247cfb05cebf96e7a89d7c0fda",
+    "_size": 6408
 }

@@ -72,8 +72,7 @@
         "228985": {
             "name": "VC 2013 Redist",
             "config": {
-                "oslist": "windows",
-                "language": ""
+                "oslist": "windows"
             },
             "maxsize": "13699237",
             "depotfromapp": "228980",
@@ -82,8 +81,7 @@
         "228986": {
             "name": "VC 2015 Redist",
             "config": {
-                "oslist": "windows",
-                "language": ""
+                "oslist": "windows"
             },
             "maxsize": "29759921",
             "depotfromapp": "228980",
@@ -92,8 +90,7 @@
         "228990": {
             "name": "DirectX Jun 2010 Redist",
             "config": {
-                "oslist": "windows",
-                "language": ""
+                "oslist": "windows"
             },
             "maxsize": "102931551",
             "depotfromapp": "228980",
@@ -140,8 +137,8 @@
                     "encrypted_size_2": "E5EB7577BA9C7848F4FDC52101018454"
                 },
                 "exiles-live": {
-                    "encrypted_gid_2": "0E993D7AE47B2FDF698C67F79315AE06",
-                    "encrypted_size_2": "2B8BBD48BFF9E82D46F8282A706322D4"
+                    "encrypted_gid_2": "25290B4E459008B9931CBC0BDA9675C0",
+                    "encrypted_size_2": "8794834ECF3D2B0C5E585B47CCC2E49F"
                 },
                 "exiles-stable": {
                     "encrypted_gid_2": "2CC453C89DDD9E0F3FE18680ACC47BAA",
@@ -258,10 +255,10 @@
                 "timeupdated": "1650943587"
             },
             "exiles-live": {
-                "buildid": "8621854",
+                "buildid": "8629264",
                 "description": "Nightly builds from exiles-live branch\t",
                 "pwdrequired": "1",
-                "timeupdated": "1650925599"
+                "timeupdated": "1651012029"
             },
             "exiles-stable": {
                 "buildid": "8622009",
@@ -349,7 +346,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14622755,
-    "_sha": "4cdb5699e8e43e7baabe0df7134bc8422a607214",
-    "_size": 9088
+    "_change_number": 14633450,
+    "_sha": "a2eccfb0e183639737a929c9697ec6a14c5e6bbf",
+    "_size": 9031
 }
