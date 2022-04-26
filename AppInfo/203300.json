@@ -72,9 +72,15 @@
             "name": "America's Army: Proving Grounds Dedicated Server Common",
             "systemdefined": "1",
             "manifests": {
-                "public": "4135759663067559450"
+                "public": "505531866401930378"
             },
-            "maxsize": "2215410768"
+            "maxsize": "2215472219",
+            "encryptedmanifests": {
+                "beta": {
+                    "encrypted_gid_2": "7779FE328A625C487A5AD18A17FDF689",
+                    "encrypted_size_2": "6898B915D5E9A97C4EE4F598AA4D87A1"
+                }
+            }
         },
         "203302": {
             "name": "America's Army: Proving Grounds Dedicated Server Windows",
@@ -82,9 +88,15 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "556189103305273561"
+                "public": "8744522094870550459"
             },
-            "maxsize": "142057725"
+            "maxsize": "142060285",
+            "encryptedmanifests": {
+                "beta": {
+                    "encrypted_gid_2": "16E8D1972F826CEE3DAF97503DC88BFF",
+                    "encrypted_size_2": "E9A5B4E2DC18EA629EF5E078EC944D30"
+                }
+            }
         },
         "203303": {
             "name": "America's Army: Proving Grounds Dedicated Server Linux",
@@ -93,14 +105,20 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "7367380196101185921"
+                "public": "7376122490031781516"
             },
-            "maxsize": "77136106"
+            "maxsize": "77148618",
+            "encryptedmanifests": {
+                "beta": {
+                    "encrypted_gid_2": "01F2DC6DB6124C4D2C8E2149542B4574",
+                    "encrypted_size_2": "79E56B99D3A106FC436AF6FEDFC5284B"
+                }
+            }
         },
         "branches": {
             "public": {
-                "buildid": "8516102",
-                "timeupdated": "1649768825"
+                "buildid": "8619732",
+                "timeupdated": "1650979806"
             },
             "beta": {
                 "buildid": "8516102",
@@ -116,7 +134,7 @@
         "hidecloudui": "0"
     },
     "_missing_token": false,
-    "_change_number": 14494672,
-    "_sha": "c8e36192822d2c7d38719d54b8392fd0427331a0",
-    "_size": 2417
+    "_change_number": 14626922,
+    "_sha": "926aada0dc60c1eb7d397748d78b8ad5a4a1594a",
+    "_size": 2945
 }
