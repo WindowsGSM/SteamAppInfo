@@ -120,15 +120,9 @@
                 "osarch": "32"
             },
             "manifests": {
-                "public": "3639142345362669566"
+                "public": "7343173434622010647"
             },
-            "maxsize": "204221540",
-            "encryptedmanifests": {
-                "buildtest": {
-                    "encrypted_gid_2": "47DB1B41F45F6CE513C9355AF11BEB37",
-                    "encrypted_size_2": "326C1CDE01A327E52825467823A92942"
-                }
-            }
+            "maxsize": "204221514"
         },
         "1169373": {
             "name": "Necesse Dedicated Server Windows 64 bit",
@@ -137,15 +131,9 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "8509728619139809601"
+                "public": "6942588253050613896"
             },
-            "maxsize": "220838628",
-            "encryptedmanifests": {
-                "buildtest": {
-                    "encrypted_gid_2": "805A6AA6B8368D3A766C76F010E01F17",
-                    "encrypted_size_2": "18A38BF8BB5810FB933CF22A52334A67"
-                }
-            }
+            "maxsize": "220838602"
         },
         "1169374": {
             "name": "Necesse Dedicated Server MacOS",
@@ -153,15 +141,9 @@
                 "oslist": "macos"
             },
             "manifests": {
-                "public": "3607987151782851008"
+                "public": "1719709864521447464"
             },
-            "maxsize": "229642081",
-            "encryptedmanifests": {
-                "buildtest": {
-                    "encrypted_gid_2": "AF18EE8177526DA23FB5E26D9A8B539C",
-                    "encrypted_size_2": "A1E754512892485CA35F3C586D3485CA"
-                }
-            }
+            "maxsize": "229642055"
         },
         "1169375": {
             "name": "Necesse Dedicated Server Linux",
@@ -169,30 +151,24 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "8123818492772108874"
+                "public": "2908681088722191293"
             },
-            "maxsize": "259783790",
-            "encryptedmanifests": {
-                "buildtest": {
-                    "encrypted_gid_2": "6BF67A282CAF2F1873872FDCB0F8ADF1",
-                    "encrypted_size_2": "89B123069C7E6887EE447EE0A5903022"
-                }
-            }
+            "maxsize": "259783764"
         },
         "branches": {
             "public": {
-                "buildid": "8633213",
-                "timeupdated": "1651060906"
+                "buildid": "8634514",
+                "timeupdated": "1651071952"
             },
             "buildtest": {
-                "buildid": "8634463",
+                "buildid": "8634514",
                 "pwdrequired": "1",
-                "timeupdated": "1651071501"
+                "timeupdated": "1651071814"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 14640999,
-    "_sha": "03ebedf0865f470d854246a9c59a637651335eec",
-    "_size": 4491
+    "_change_number": 14641109,
+    "_sha": "1c7585718cc3106cb8298b6624167f4f8b6cf826",
+    "_size": 3767
 }
