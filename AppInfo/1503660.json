@@ -26,6 +26,7 @@
         }
     },
     "depots": {
+        "baselanguages": "english",
         "1004": {
             "config": {
                 "oslist": "windows"
@@ -55,16 +56,6 @@
             "maxsize": "65909056",
             "depotfromapp": "1007"
         },
-        "1503661": {
-            "config": {
-                "language": "english",
-                "oslist": "windows"
-            },
-            "manifests": {
-                "public": "2116615550498401012"
-            },
-            "maxsize": "952380716"
-        },
         "1503662": {
             "config": {
                 "language": "english",
@@ -75,7 +66,16 @@
             },
             "maxsize": "952391200"
         },
-        "baselanguages": "english",
+        "1503661": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "2116615550498401012"
+            },
+            "maxsize": "952380716"
+        },
         "branches": {
             "public": {
                 "buildid": "8628984",
@@ -84,7 +84,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14635281,
-    "_sha": "0b218a8f34fb4b164e7c8649d859feee5a7ddfb1",
+    "_change_number": 14635569,
+    "_sha": "4f3742c00c23c5bd58a1a593cfb47293eb1d1696",
     "_size": 1691
 }
