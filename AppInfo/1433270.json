@@ -82,9 +82,10 @@
                 "language": ""
             },
             "manifests": {
-                "public": "5108567559426497417"
+                "public": "5108567559426497417",
+                "beta": "4297429993941331839"
             },
-            "maxsize": "1076879745",
+            "maxsize": "1076906633",
             "encryptedmanifests": {
                 "ced-test": {
                     "encrypted_gid_2": "F544A88D51FB2E3D06AFEBE67037BF19",
@@ -108,9 +109,10 @@
                 "language": ""
             },
             "manifests": {
-                "public": "5089175529309339667"
+                "public": "5089175529309339667",
+                "beta": "3572388961630942280"
             },
-            "maxsize": "1020454190",
+            "maxsize": "1020481078",
             "encryptedmanifests": {
                 "ced-test": {
                     "encrypted_gid_2": "3802C98B020A909F5B62E23B382A90E3",
@@ -130,6 +132,11 @@
             "public": {
                 "buildid": "8572485",
                 "timeupdated": "1650219923"
+            },
+            "beta": {
+                "buildid": "8607476",
+                "description": "Public testing beta for SCP: ET",
+                "timeupdated": "1651112870"
             },
             "ced-test": {
                 "buildid": "8615367",
@@ -152,7 +159,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14609732,
-    "_sha": "361a51fb00d7f4eda12a85eee8410060fb163db9",
-    "_size": 3734
+    "_change_number": 14646803,
+    "_sha": "d808d2157a4376023bdce113962487a9ff63c563",
+    "_size": 3932
 }
