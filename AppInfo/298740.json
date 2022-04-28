@@ -104,7 +104,7 @@
         "298741": {
             "name": "Space Engineers Dedicated Server Content",
             "manifests": {
-                "public": "1059567046225075732",
+                "public": "1164475112604973737",
                 "1.178": "802443215314700870",
                 "1.184": "3500096795857531470",
                 "1.185": "2281021287844625855",
@@ -122,6 +122,7 @@
                 "1.197": "5746191176388931827",
                 "1.198": "3127332575255370754",
                 "1.199": "7568682266249456353",
+                "1.200": "1059567046225075732",
                 "dx9-32bit": "1995551932701408037"
             },
             "maxsize": "5536597535",
@@ -134,14 +135,6 @@
                     "encrypted_gid_2": "2D8180D0D2CFF459A2452B69343AC3F1",
                     "encrypted_size_2": "858681A349F46F2DEB08E99F6602F70B"
                 },
-                "stableready": {
-                    "encrypted_gid_2": "9ABD6DB865312C1D33E347832E50F843",
-                    "encrypted_size_2": "A61D4092B525EC9FFFFAE58E02EA34EA"
-                },
-                "steamctg": {
-                    "encrypted_gid_2": "D0939646F5CC130B87D2A8AD73F6845C",
-                    "encrypted_size_2": "5672F6B517FBC0DF57F06A2B252EB9EF"
-                },
                 "test": {
                     "encrypted_gid_2": "D631C4BC098A4745A0E747E8B8FC7D90",
                     "encrypted_size_2": "CE241E9AFB49195A3227720A7A501DDC"
@@ -150,8 +143,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "8347483",
-                "timeupdated": "1647012767"
+                "buildid": "8619577",
+                "timeupdated": "1651166512"
             },
             "1.178": {
                 "buildid": "1701148",
@@ -232,6 +225,11 @@
                 "description": "Heavy Industry",
                 "timeupdated": "1643920858"
             },
+            "1.200": {
+                "buildid": "8347483",
+                "description": "Warfare 2",
+                "timeupdated": "1651166495"
+            },
             "dx9-32bit": {
                 "buildid": "1150726",
                 "description": "compatibility branch for dx9 and 32 bit",
@@ -268,7 +266,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14633474,
-    "_sha": "06deab11677600247cfb05cebf96e7a89d7c0fda",
-    "_size": 6408
+    "_change_number": 14655429,
+    "_sha": "120c048a49969fdb97cdc9c4c06bb2398777cfc2",
+    "_size": 6257
 }
