@@ -78,6 +78,10 @@
             },
             "maxsize": "8687693359",
             "encryptedmanifests": {
+                "commanderthing": {
+                    "encrypted_gid_2": "42D3CA1147A7847DA740D6E4C1E7B0F5",
+                    "encrypted_size_2": "427DB44472AE327BAD9F28204029DB63"
+                },
                 "demo": {
                     "encrypted_gid_2": "E3929FD256CA3F32AB925B8642643A65",
                     "encrypted_size_2": "B4819664A3A77519BB56F2BAB932C237"
@@ -92,6 +96,12 @@
             "public": {
                 "buildid": "8612483",
                 "timeupdated": "1650751711"
+            },
+            "commanderthing": {
+                "buildid": "8648414",
+                "description": "commanderthing",
+                "pwdrequired": "1",
+                "timeupdated": "1651227068"
             },
             "demo": {
                 "buildid": "8294740",
@@ -108,7 +118,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14626905,
-    "_sha": "574953372ec386442b51d5e4236d15115c40a8eb",
-    "_size": 2495
+    "_change_number": 14662833,
+    "_sha": "545bb77f69db4fb0077718fa484843b0b8ee0d98",
+    "_size": 2793
 }
