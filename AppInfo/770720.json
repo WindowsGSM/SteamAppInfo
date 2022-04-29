@@ -226,10 +226,14 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "6480798653631613588"
+                "public": "2587751034203607282"
             },
-            "maxsize": "509243142",
+            "maxsize": "509275933",
             "encryptedmanifests": {
+                "current": {
+                    "encrypted_gid_2": "0B6E199DF5FA174BB81A3F08DE662DF6",
+                    "encrypted_size_2": "E3392CEB59D233BA8311579670C36156"
+                },
                 "hw_test": {
                     "encrypted_gid_2": "E5731780A04B902720F27AA062A95CFE",
                     "encrypted_size_2": "B5F9B01E4ADB0B7284C399A4F700A24C"
@@ -237,10 +241,6 @@
                 "k-w-s": {
                     "encrypted_gid_2": "470E1515939F2A04586D953A8AB9D3F7",
                     "encrypted_size_2": "7592B6C3F051F70999448DD81B986FA1"
-                },
-                "latest": {
-                    "encrypted_gid_2": "070AAD10AE99E24F8DA32370E5995F65",
-                    "encrypted_size_2": "6B6F222AE012EC59FD802E0FBD4FD6F4"
                 },
                 "lightweight_profiler": {
                     "encrypted_gid_2": "E0672135CC41B94B2BEDB279C77A03FC",
@@ -263,10 +263,14 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "3385878120118235388"
+                "public": "5119272203031326132"
             },
-            "maxsize": "36889286147",
+            "maxsize": "37035573424",
             "encryptedmanifests": {
+                "current": {
+                    "encrypted_gid_2": "B7C1FB3250B806076987274803AEBF4A",
+                    "encrypted_size_2": "525F3B6ED702BBEF245A9CC44418E4CB"
+                },
                 "hw_test": {
                     "encrypted_gid_2": "FCD1D5B721E6DF30010FD3106E099161",
                     "encrypted_size_2": "2B112E08B3DE15F3943288EC449431E6"
@@ -274,10 +278,6 @@
                 "k-w-s": {
                     "encrypted_gid_2": "A7941A1BED4FB8BC7D3B5397AC71079E",
                     "encrypted_size_2": "FB9B8FFD5397DB30295312A8538E638A"
-                },
-                "latest": {
-                    "encrypted_gid_2": "F1C2141E01F2AE142935535001DA9846",
-                    "encrypted_size_2": "797D3CDD3FC0B4EAEE9EADCF632F02EB"
                 },
                 "lightweight_profiler": {
                     "encrypted_gid_2": "2996049AB736B56AE6606E24574D52FA",
@@ -334,8 +334,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "8618909",
-                "timeupdated": "1650971799"
+                "buildid": "8650840",
+                "timeupdated": "1651250780"
             },
             "current": {
                 "buildid": "8618909",
@@ -379,7 +379,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14666717,
-    "_sha": "e858de62a0bf09c1bb53827c8e4cde4355f886dd",
-    "_size": 9744
+    "_change_number": 14667195,
+    "_sha": "84143041b86de42cff85d79f6f574fec21640e6b",
+    "_size": 9746
 }
