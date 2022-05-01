@@ -82,22 +82,13 @@
                 "language": ""
             },
             "manifests": {
-                "public": "5108567559426497417",
-                "beta": "4694207035255474422"
+                "public": "3099908899094987268"
             },
-            "maxsize": "1076962865",
+            "maxsize": "1076965625",
             "encryptedmanifests": {
                 "ced-test": {
                     "encrypted_gid_2": "F544A88D51FB2E3D06AFEBE67037BF19",
                     "encrypted_size_2": "35C814B5B4DD069D53F9055459D714C4"
-                },
-                "ci-build": {
-                    "encrypted_gid_2": "3266E966DF794678D6BEBC472ABF5561",
-                    "encrypted_size_2": "F4C851A9C05BEEC08F49CBC424710A85"
-                },
-                "thunder-test": {
-                    "encrypted_gid_2": "699FFF3F9EDF7668BF05CEBCC1218147",
-                    "encrypted_size_2": "ACB6BDE1BB5607B8A7DE37E2BEC1CC4D"
                 }
             }
         },
@@ -109,34 +100,20 @@
                 "language": ""
             },
             "manifests": {
-                "public": "5089175529309339667",
-                "beta": "9053076134521315593"
+                "public": "7107061138494995409"
             },
-            "maxsize": "1020537822",
+            "maxsize": "1020540582",
             "encryptedmanifests": {
                 "ced-test": {
                     "encrypted_gid_2": "3802C98B020A909F5B62E23B382A90E3",
                     "encrypted_size_2": "8FB96B9C3B650F2F51EB72E53C896B60"
-                },
-                "ci-build": {
-                    "encrypted_gid_2": "A9D419C2394E9B7BC49516CB8A72759E",
-                    "encrypted_size_2": "5AF4380253FE01B2E662B08929F21F83"
-                },
-                "thunder-test": {
-                    "encrypted_gid_2": "96927FC2F5F2F00A069AE394C25DEAD3",
-                    "encrypted_size_2": "49628BAF70EC7B917FF009DB797C561A"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "8572485",
-                "timeupdated": "1650219923"
-            },
-            "beta": {
-                "buildid": "8655525",
-                "description": "Public testing beta for SCP: ET",
-                "timeupdated": "1651330888"
+                "buildid": "8659355",
+                "timeupdated": "1651432124"
             },
             "ced-test": {
                 "buildid": "8615367",
@@ -159,7 +136,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14681657,
-    "_sha": "8fd9773ded510a1e57187a017cb9d94b42a9073e",
-    "_size": 3932
+    "_change_number": 14681698,
+    "_sha": "2270f819b140f07e4cf72bee835f0ae4452a31bd",
+    "_size": 3142
 }
