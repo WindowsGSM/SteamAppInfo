@@ -27,7 +27,6 @@
         }
     },
     "depots": {
-        "hasdepotsindlc": "0",
         "1004": {
             "name": "Steamworks SDK Redist (WIN32)",
             "config": {
@@ -60,21 +59,12 @@
             "maxsize": "65909056",
             "depotfromapp": "1007"
         },
-        "228986": {
-            "name": "VC 2015 Redist",
+        "228988": {
+            "name": "VC 2019 Redist",
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "29759921",
-            "depotfromapp": "228980",
-            "sharedinstall": "1"
-        },
-        "228987": {
-            "name": "VC 2017 Redist",
-            "config": {
-                "oslist": "windows"
-            },
-            "maxsize": "29664201",
+            "maxsize": "29212173",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -96,6 +86,7 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
+        "hasdepotsindlc": "0",
         "988951": {
             "name": "Journey of Life - Dedicated Server Content",
             "manifests": {
@@ -123,7 +114,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14719380,
-    "_sha": "7cff3e77a6d9c3672fd29d42b92a5ebad1015d8b",
-    "_size": 2688
+    "_change_number": 14719626,
+    "_sha": "0a994102582a7494624c2baeff0a0acd4942d832",
+    "_size": 2518
 }
