@@ -9,6 +9,30 @@
         "icon": "a3146c62e6e27741847984508296316bae40e548",
         "logo": "577d0304f48423ec13a0d25b2bd55e1a23ba9262",
         "logo_small": "577d0304f48423ec13a0d25b2bd55e1a23ba9262_thumb",
+        "steam_deck_compatibility": {
+            "category": "1",
+            "test_timestamp": "1651104000",
+            "tested_build_id": "8348742",
+            "tests": {
+                "0": {
+                    "display": "2",
+                    "token": "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+                }
+            },
+            "configuration": {
+                "supported_input": "other",
+                "requires_manual_keyboard_invoke": "1",
+                "requires_non_controller_launcher_nav": "0",
+                "primary_player_is_controller_slot_0": "0",
+                "non_deck_display_glyphs": "0",
+                "small_text": "0",
+                "requires_internet_for_setup": "0",
+                "requires_internet_for_singleplayer": "0",
+                "recommended_runtime": "proton-stable",
+                "requires_h264": "0",
+                "gamescope_frame_limiter_not_supported": "0"
+            }
+        },
         "small_capsule": {
             "english": "capsule_231x87.jpg"
         },
@@ -109,7 +133,7 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "29212147",
+            "maxsize": "29212173",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -170,7 +194,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14633474,
-    "_sha": "79624cef7ccd34f51543935098cdce61028aaaae",
-    "_size": 3485
+    "_change_number": 14714971,
+    "_sha": "777de6016f1bbed4ef1df28703f746c22ddec6e1",
+    "_size": 4193
 }
