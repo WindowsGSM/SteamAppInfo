@@ -32,10 +32,11 @@
             "name": "Counter-Strike Global Offensive Beta Common",
             "systemdefined": "1",
             "manifests": {
-                "public": "5272811868550352856",
-                "1.38.2.4": "5627468428652890628"
+                "public": "132782574958211000",
+                "1.38.2.4": "5627468428652890628",
+                "1.38.2.7": "5272811868550352856"
             },
-            "maxsize": "29929493038",
+            "maxsize": "29929495494",
             "encryptedmanifests": {
                 "dprs": {
                     "encrypted_gid_2": "23D0B308D1CE739A6C3B5F1E61A98757",
@@ -47,8 +48,9 @@
             "name": "Counter-Strike Global Offensive Beta - Dedicated Server",
             "systemdefined": "1",
             "manifests": {
-                "public": "5560093206098329797",
-                "1.38.2.4": "3891838008692842301"
+                "public": "1046377808555912838",
+                "1.38.2.4": "3891838008692842301",
+                "1.38.2.7": "5560093206098329797"
             },
             "maxsize": "1963745339",
             "encryptedmanifests": {
@@ -61,8 +63,8 @@
         "overridescddb": "1",
         "branches": {
             "public": {
-                "buildid": "8673184",
-                "timeupdated": "1651624916"
+                "buildid": "8680391",
+                "timeupdated": "1651715136"
             },
             "1.38.2.4": {
                 "buildid": "8461749",
@@ -74,6 +76,11 @@
                 "description": "1.38.2.7",
                 "timeupdated": "1651625473"
             },
+            "1.38.2.8": {
+                "buildid": "8680391",
+                "description": "1.38.2.8",
+                "timeupdated": "1651715448"
+            },
             "dprs": {
                 "buildid": "7633487",
                 "pwdrequired": "1",
@@ -82,7 +89,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14703929,
-    "_sha": "18f02c83aff90fb4636fd98e19bb493acb940352",
-    "_size": 1915
+    "_change_number": 14715831,
+    "_sha": "c914d90fc1cb5b237f413666a583d473f124cd57",
+    "_size": 2101
 }
