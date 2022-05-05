@@ -160,6 +160,10 @@
                     "encrypted_gid_2": "8E4B3C9831FCAF5CE8606B083091602E",
                     "encrypted_size_2": "7B166BEF87DBA342B564710655D5F074"
                 },
+                "pts-b": {
+                    "encrypted_gid_2": "C29063A9156E0BD1FE382CB47DD2ED4E",
+                    "encrypted_size_2": "900A793DDD4526E72E5B64D1F7422AD0"
+                },
                 "pts-stable": {
                     "encrypted_gid_2": "896DDB4794043B9859B13095B24F4EB2",
                     "encrypted_size_2": "E91BD8543510378ACBCACF2624C3BBE7"
@@ -191,6 +195,12 @@
                 "pwdrequired": "1",
                 "timeupdated": "1651709622"
             },
+            "pts-b": {
+                "buildid": "8680393",
+                "description": "Pup pts-b branch",
+                "pwdrequired": "1",
+                "timeupdated": "1651766475"
+            },
             "pts-stable": {
                 "buildid": "3597594",
                 "description": "Deprecated -> Pup pts-stable branch",
@@ -211,7 +221,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14714970,
-    "_sha": "04c40c1130d0df5984b24a26c0563bab7aa0e491",
-    "_size": 4963
+    "_change_number": 14722962,
+    "_sha": "6923c91aab030fe02e70f780d0c82644641f976a",
+    "_size": 5245
 }
