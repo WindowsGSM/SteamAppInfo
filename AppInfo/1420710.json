@@ -83,18 +83,14 @@
         "1420711": {
             "name": "Night of the Dead Dedicated Server Content",
             "manifests": {
-                "public": "4421765432393528545",
+                "public": "432102808595634071",
                 "1.2.4": "3771050463460587124"
             },
-            "maxsize": "2062470762",
+            "maxsize": "2055154577",
             "encryptedmanifests": {
                 "alpha_development": {
                     "encrypted_gid_2": "5DB9221400C03B893182429459848C7A",
                     "encrypted_size_2": "A0378F78B9FF09F7566E4237DDB6AB79"
-                },
-                "alpha_shipping": {
-                    "encrypted_gid_2": "D1C2B71C2DB4BE11873946F01C586AF8",
-                    "encrypted_size_2": "F211AD18D953236A104DA3B9F90E09D0"
                 },
                 "pre-alpha_development": {
                     "encrypted_gid_2": "C1FA82C6A54E66FC4270A354EBB2DC34",
@@ -108,8 +104,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "8646293",
-                "timeupdated": "1651205829"
+                "buildid": "8690084",
+                "timeupdated": "1651830105"
             },
             "1.2.4": {
                 "buildid": "8257638",
@@ -129,9 +125,9 @@
                 "timeupdated": "1651829008"
             },
             "beta_shipping": {
-                "buildid": "8646293",
+                "buildid": "8690084",
                 "description": "Beta shipping branch",
-                "timeupdated": "1651201252"
+                "timeupdated": "1651830086"
             },
             "pre-alpha_development": {
                 "buildid": "8632425",
@@ -148,7 +144,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14730925,
-    "_sha": "0ec5ca094e469cb98b08aba293ccd2ac0cda2b69",
-    "_size": 3657
+    "_change_number": 14731086,
+    "_sha": "cb5f2aa98bc42bbff87bb4577e517aba7980d3ca",
+    "_size": 3504
 }
