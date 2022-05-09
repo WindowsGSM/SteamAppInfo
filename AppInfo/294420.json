@@ -93,7 +93,8 @@
                 "alpha20.2": "6780412785001941393",
                 "alpha20.3": "4037091522893768975",
                 "alpha8.8": "6555466999693160687",
-                "alpha9.3": "6472753396271220220"
+                "alpha9.3": "6472753396271220220",
+                "latest_experimental": "873730188553956764"
             },
             "maxsize": "12803634290",
             "encryptedmanifests": {
@@ -135,7 +136,8 @@
                 "alpha20.0": "8491094488431010654",
                 "alpha20.2": "3867999264868164043",
                 "alpha20.3": "7255089514478966508",
-                "alpha9.3": "771574079178892216"
+                "alpha9.3": "771574079178892216",
+                "latest_experimental": "8340716617723021748"
             },
             "maxsize": "12852025399",
             "encryptedmanifests": {
@@ -237,6 +239,11 @@
                 "buildid": "385244",
                 "description": "Alpha 9.3 Stable"
             },
+            "latest_experimental": {
+                "buildid": "8673178",
+                "description": "Unstable build",
+                "timeupdated": "1652128816"
+            },
             "test": {
                 "buildid": "7678074",
                 "description": "Stream Emergency",
@@ -264,7 +271,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14716585,
-    "_sha": "225ac1d7f51fffca499dd2cc0ace1bfe0fbd093f",
-    "_size": 7155
+    "_change_number": 14759266,
+    "_sha": "1d52a0f48e5d1e7c627276b8fc8c942e2354cd8c",
+    "_size": 7380
 }
