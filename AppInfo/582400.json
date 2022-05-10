@@ -76,7 +76,7 @@
         },
         "563561": {
             "name": "Alien Swarm: Reactive Drop Content",
-            "maxsize": "4288780186",
+            "maxsize": "4288874093",
             "depotfromapp": "563560",
             "sharedinstall": "2"
         },
@@ -84,6 +84,11 @@
             "public": {
                 "buildid": "8350903",
                 "timeupdated": "1646964563"
+            },
+            "beta": {
+                "buildid": "8708203",
+                "description": "More frequent updates to test new features before they're ready. May be unable to play with people not on the beta branch.",
+                "timeupdated": "1652148704"
             },
             "bugtest": {
                 "buildid": "8592440",
@@ -93,7 +98,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14751573,
-    "_sha": "04ce82caba026cae3b5ffb61dac473d4bb876ca7",
-    "_size": 2160
+    "_change_number": 14761416,
+    "_sha": "c8dd66efeaf535288e890c19e7f1c4a6cd13513b",
+    "_size": 2381
 }
