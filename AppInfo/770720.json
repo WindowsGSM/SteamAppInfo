@@ -52,7 +52,8 @@
         "steam_release_date": "1522940400",
         "community_visible_stats": "1",
         "community_hub_visible": "1",
-        "gameid": "770720"
+        "gameid": "770720",
+        "store_tags": {}
     },
     "config": {
         "installdir": "Hunt Showdown (Test Server)",
@@ -249,6 +250,10 @@
                     "encrypted_gid_2": "DB84613EB20A975423D7B38CA53F5253",
                     "encrypted_size_2": "566109D002928659D111C0A25C74FFA5"
                 },
+                "qa_testroom": {
+                    "encrypted_gid_2": "79D6578FA9E6BDC0F2A9459D96A3C4D2",
+                    "encrypted_size_2": "4AA33A97513C3A9AD12E9C5391A6056C"
+                },
                 "teamtest": {
                     "encrypted_gid_2": "9BF8237D7DD6967E939E2B9B16E8F98F",
                     "encrypted_size_2": "681761DFDA41BDEBF5A380790BB56160"
@@ -285,6 +290,10 @@
                 "lightweight_profiler": {
                     "encrypted_gid_2": "2D98FB5B6F999DC3A2807883B933474C",
                     "encrypted_size_2": "3BA01D5E84CBBD5CA2EDEBE0BA93DE59"
+                },
+                "qa_testroom": {
+                    "encrypted_gid_2": "C95FC9A54380EDC89E8164CD1F754CD9",
+                    "encrypted_size_2": "36AAA5407E820A78846EB31112A7342E"
                 },
                 "teamtest": {
                     "encrypted_gid_2": "9D736146902030227A501D02CC42181C",
@@ -366,9 +375,9 @@
                 "timeupdated": "1652201851"
             },
             "qa_testroom": {
-                "buildid": "8707880",
+                "buildid": "8713066",
                 "pwdrequired": "1",
-                "timeupdated": "1652165698"
+                "timeupdated": "1652252592"
             },
             "teamtest": {
                 "buildid": "8374518",
@@ -378,7 +387,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14771658,
-    "_sha": "55fc83aa83952d13c5afad27704ed035a924ffb0",
-    "_size": 9701
+    "_change_number": 14774848,
+    "_sha": "bd38ebcb2ead6bc19fa1d0cb6327ebcf26d2ee31",
+    "_size": 10022
 }
