@@ -77,9 +77,10 @@
         "232131": {
             "name": "Killing Floor 2 - Dedicated Server Depot",
             "manifests": {
-                "public": "4077271959983488915"
+                "public": "4077271959983488915",
+                "preview": "5290786971683218141"
             },
-            "maxsize": "27335800524",
+            "maxsize": "27841982928",
             "encryptedmanifests": {
                 "beta": {
                     "encrypted_gid_2": "6A4226B60EEE1CD187C26C8AA08BE6EE",
@@ -133,6 +134,10 @@
                 "pwdrequired": "1",
                 "timeupdated": "1496158215"
             },
+            "preview": {
+                "buildid": "8680980",
+                "timeupdated": "1652277606"
+            },
             "qa_test": {
                 "buildid": "7480914",
                 "description": "QA Internal",
@@ -147,7 +152,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14716063,
-    "_sha": "277e8ac5725abf9609b583df81335683272d4a5b",
-    "_size": 3314
+    "_change_number": 14778751,
+    "_sha": "86644b907b1abec9007e9d369613fbe1b187e992",
+    "_size": 3431
 }
