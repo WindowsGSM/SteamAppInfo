@@ -68,8 +68,16 @@
             "maxsize": "1436523416",
             "encryptedmanifests": {
                 "developer": {
-                    "encrypted_gid_2": "7DE3EF999516CBF11AE2971C732E90D4",
-                    "encrypted_size_2": "A8D6AB9CF3B6A8934B89A055F312C7A2"
+                    "encrypted_gid_2": "F585462DA4C47D3B8D4A7B0D46333868",
+                    "encrypted_size_2": "4C64FB08BBFAF2B3A852B11D311C3060"
+                },
+                "publicqa": {
+                    "encrypted_gid_2": "5E587F2E24EB08001A2E704484EAB21F",
+                    "encrypted_size_2": "4A040A0E6EEC791683724AA5C126B7C0"
+                },
+                "server": {
+                    "encrypted_gid_2": "B971D2B53DD7099B77E14E312D1A9D68",
+                    "encrypted_size_2": "CAF77C3A751BD5AC105DA50BB26C5256"
                 }
             },
             "depotfromapp": "1611740"
@@ -80,15 +88,27 @@
                 "timeupdated": "1518200532"
             },
             "developer": {
-                "buildid": "8708131",
+                "buildid": "8715850",
                 "description": "developer",
                 "pwdrequired": "1",
-                "timeupdated": "1652147554"
+                "timeupdated": "1652239098"
+            },
+            "publicqa": {
+                "buildid": "8715850",
+                "description": "private",
+                "pwdrequired": "1",
+                "timeupdated": "1652239115"
+            },
+            "server": {
+                "buildid": "8715850",
+                "description": "server",
+                "pwdrequired": "1",
+                "timeupdated": "1652239126"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 14771658,
-    "_sha": "a90bfc4db30f403b65b22c94665f20405ac4d975",
-    "_size": 2085
+    "_change_number": 14784315,
+    "_sha": "2968d22a7a2a95e804ba885eef46ce5bca728150",
+    "_size": 2638
 }
