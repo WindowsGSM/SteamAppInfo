@@ -89,8 +89,12 @@
             "maxsize": "2055154577",
             "encryptedmanifests": {
                 "alpha_development": {
-                    "encrypted_gid_2": "5DB9221400C03B893182429459848C7A",
-                    "encrypted_size_2": "A0378F78B9FF09F7566E4237DDB6AB79"
+                    "encrypted_gid_2": "4FED6BED5CE9A80BD0F2238A6C949A97",
+                    "encrypted_size_2": "C267A35D3B43B327C0A4B3E4A26F87B6"
+                },
+                "alpha_shipping": {
+                    "encrypted_gid_2": "BC8F5C9BB421B4ED79CC45F78AFAFAA9",
+                    "encrypted_size_2": "280F86411DED43D0F67003F0A9A58CAB"
                 },
                 "pre-alpha_development": {
                     "encrypted_gid_2": "C1FA82C6A54E66FC4270A354EBB2DC34",
@@ -113,16 +117,16 @@
                 "timeupdated": "1649984548"
             },
             "alpha_development": {
-                "buildid": "8640786",
+                "buildid": "8730836",
                 "description": "Alpha development branch",
                 "pwdrequired": "1",
-                "timeupdated": "1651140918"
+                "timeupdated": "1652407435"
             },
             "alpha_shipping": {
-                "buildid": "8690084",
+                "buildid": "8731091",
                 "description": "Alpha shipping branch",
                 "pwdrequired": "1",
-                "timeupdated": "1651829008"
+                "timeupdated": "1652410808"
             },
             "beta_shipping": {
                 "buildid": "8690084",
@@ -144,7 +148,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14731086,
-    "_sha": "cb5f2aa98bc42bbff87bb4577e517aba7980d3ca",
-    "_size": 3504
+    "_change_number": 14796876,
+    "_sha": "e0ef37d8d1e05a64908afaeffbe1f5c49d396f2f",
+    "_size": 3656
 }
