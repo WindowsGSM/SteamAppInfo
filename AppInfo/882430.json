@@ -102,7 +102,13 @@
             "manifests": {
                 "public": "3656265299015815670"
             },
-            "maxsize": "970835752"
+            "maxsize": "970835752",
+            "encryptedmanifests": {
+                "tester": {
+                    "encrypted_gid_2": "EFD852F5D60AB9B42FC7CFAF2554C2B2",
+                    "encrypted_size_2": "9B65AD71C6527E8D6991DE550986E9D2"
+                }
+            }
         },
         "882432": {
             "name": "Beasts of Bermuda Dedicated Server Windows",
@@ -135,15 +141,15 @@
                 "timeupdated": "1652722739"
             },
             "tester": {
-                "buildid": "8749172",
+                "buildid": "8749534",
                 "description": "Tester branch",
                 "pwdrequired": "1",
-                "timeupdated": "1652720602"
+                "timeupdated": "1652724142"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 14826858,
-    "_sha": "1216dd68d71210860bc1f2c4b83f32661e553911",
-    "_size": 3311
+    "_change_number": 14827225,
+    "_sha": "89143b3331a2052530f75b15ffb799a79f3ce278",
+    "_size": 3489
 }
