@@ -78,7 +78,7 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "2177343354800528570",
+                "public": "873730188553956764",
                 "alpha10.4": "7412646391386825055",
                 "alpha11.6": "6384284037646508346",
                 "alpha12.5": "2620195875532790120",
@@ -92,17 +92,12 @@
                 "alpha20.0": "1192338431323712073",
                 "alpha20.2": "6780412785001941393",
                 "alpha20.3": "4037091522893768975",
-                "alpha20.5": "873730188553956764",
+                "alpha20.4": "2177343354800528570",
                 "alpha8.8": "6555466999693160687",
-                "alpha9.3": "6472753396271220220",
-                "latest_experimental": "873730188553956764"
+                "alpha9.3": "6472753396271220220"
             },
             "maxsize": "12803634290",
             "encryptedmanifests": {
-                "testing_branch": {
-                    "encrypted_gid_2": "B8E8E2CC39A2F48BC528275693D52A69",
-                    "encrypted_size_2": "6A6405DDEF4EEFE4B0825B66AC895117"
-                },
                 "testing_branch_alt": {
                     "encrypted_gid_2": "C1C8065ECB22D331886BBC58E0D1E3A9",
                     "encrypted_size_2": "404B2C0527995A5B42E987A2E75874F8"
@@ -119,7 +114,7 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "7450223064053935691",
+                "public": "8340716617723021748",
                 "alpha10.4": "869964754451803329",
                 "alpha11.6": "6322866582767616058",
                 "alpha12.5": "4986361730962654647",
@@ -133,16 +128,11 @@
                 "alpha20.0": "8491094488431010654",
                 "alpha20.2": "3867999264868164043",
                 "alpha20.3": "7255089514478966508",
-                "alpha20.5": "8340716617723021748",
-                "alpha9.3": "771574079178892216",
-                "latest_experimental": "8340716617723021748"
+                "alpha20.4": "7450223064053935691",
+                "alpha9.3": "771574079178892216"
             },
             "maxsize": "12852025399",
             "encryptedmanifests": {
-                "testing_branch": {
-                    "encrypted_gid_2": "368DB31F22B2C9C5121435201E715683",
-                    "encrypted_size_2": "CA42888701CA15EF2D5CDAA6A1382909"
-                },
                 "testing_branch_alt": {
                     "encrypted_gid_2": "FF596A52F7E0EE577EA7B5A5F2159345",
                     "encrypted_size_2": "CE600908096AF450F9385CE3A0BF26A1"
@@ -155,8 +145,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "8604296",
-                "timeupdated": "1650920807"
+                "buildid": "8673178",
+                "timeupdated": "1652732694"
             },
             "alpha10.4": {
                 "buildid": "480993",
@@ -264,7 +254,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14826146,
-    "_sha": "a719703ac2246f973334a966bea74215dd3e4f95",
-    "_size": 7156
+    "_change_number": 14828371,
+    "_sha": "15d446e13c2ee041c70e3dcad9838193a474b81a",
+    "_size": 6755
 }
