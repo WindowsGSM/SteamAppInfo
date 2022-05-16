@@ -100,15 +100,9 @@
         "882431": {
             "name": "Beasts of Bermuda Dedicated Server Content",
             "manifests": {
-                "public": "236314605970253023"
+                "public": "6522922823384114528"
             },
-            "maxsize": "970406164",
-            "encryptedmanifests": {
-                "tester": {
-                    "encrypted_gid_2": "71EE1CAD7B9F14322A361FBAE50C8BC6",
-                    "encrypted_size_2": "CBCC7D0C3835452DCC963210C62BCF5F"
-                }
-            }
+            "maxsize": "970784558"
         },
         "882432": {
             "name": "Beasts of Bermuda Dedicated Server Windows",
@@ -116,15 +110,9 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "8009602084851423709"
+                "public": "4098559124983641977"
             },
-            "maxsize": "267701958",
-            "encryptedmanifests": {
-                "tester": {
-                    "encrypted_gid_2": "09FA52150EF181381F107B14616F275B",
-                    "encrypted_size_2": "2EFBE3202AE51F795CCF97085C57AC8A"
-                }
-            }
+            "maxsize": "267734726"
         },
         "882433": {
             "name": "Beasts of Bermuda Dedicated Server Linux",
@@ -137,14 +125,14 @@
         },
         "branches": {
             "public": {
-                "buildid": "8672577",
-                "timeupdated": "1651615331"
+                "buildid": "8745171",
+                "timeupdated": "1652679881"
             },
             "developers": {
-                "buildid": "8672577",
+                "buildid": "8745171",
                 "description": "Developers-only branch",
                 "pwdrequired": "1",
-                "timeupdated": "1651615325"
+                "timeupdated": "1652679873"
             },
             "tester": {
                 "buildid": "8745171",
@@ -155,7 +143,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14820417,
-    "_sha": "68ecc7d58c7e2a0c9480957c7148691edcf1570f",
-    "_size": 3666
+    "_change_number": 14820673,
+    "_sha": "a121455e791698adc0c9158b3dbf7bdf4acdbd21",
+    "_size": 3311
 }
