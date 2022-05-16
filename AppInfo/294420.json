@@ -98,9 +98,9 @@
             },
             "maxsize": "12803634290",
             "encryptedmanifests": {
-                "test": {
-                    "encrypted_gid_2": "2B2A034178604F57AD0BCB68CF1629C4",
-                    "encrypted_size_2": "864994AE9A51B332692B286DD20C33AC"
+                "alpha20.5": {
+                    "encrypted_gid_2": "7D94F672BC57BC2ADA1E8A555F75CC65",
+                    "encrypted_size_2": "0FB30821E0F5CF8BAE088E4B8DDECB60"
                 },
                 "testing_branch": {
                     "encrypted_gid_2": "B8E8E2CC39A2F48BC528275693D52A69",
@@ -141,9 +141,9 @@
             },
             "maxsize": "12852025399",
             "encryptedmanifests": {
-                "test": {
-                    "encrypted_gid_2": "EB1D04ABED4C944B7C26DB92F8489E3B",
-                    "encrypted_size_2": "6718A3A8EA9FDBB403887F8656BBEABF"
+                "alpha20.5": {
+                    "encrypted_gid_2": "96A564833E3E6BF7453CFE4AA8098947",
+                    "encrypted_size_2": "DB6D15102515A3B71E506A479E9DD52B"
                 },
                 "testing_branch": {
                     "encrypted_gid_2": "368DB31F22B2C9C5121435201E715683",
@@ -231,6 +231,12 @@
                 "description": "Alpha 20.4 Stable",
                 "timeupdated": "1650903756"
             },
+            "alpha20.5": {
+                "buildid": "8673178",
+                "description": "Alpha 20.5 Stable",
+                "pwdrequired": "1",
+                "timeupdated": "1652716687"
+            },
             "alpha8.8": {
                 "buildid": "334790",
                 "description": "Alpha 8.8 Stable"
@@ -243,12 +249,6 @@
                 "buildid": "8673178",
                 "description": "Unstable build",
                 "timeupdated": "1652128816"
-            },
-            "test": {
-                "buildid": "7678074",
-                "description": "Stream Emergency",
-                "pwdrequired": "1",
-                "timeupdated": "1636590225"
             },
             "testing_branch": {
                 "buildid": "8673178",
@@ -271,7 +271,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14807558,
-    "_sha": "bb1176865c0f951c6bacc0d4d0cf959d6ca8b850",
-    "_size": 7380
+    "_change_number": 14825960,
+    "_sha": "f619ff409d5945a25431fbb3054a80caed9fc3a7",
+    "_size": 7396
 }
