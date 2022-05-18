@@ -90,6 +90,10 @@
                 "beta-sdk": {
                     "encrypted_gid_2": "ABF3ED7F4F12CE5816369D7D04DDA0DB",
                     "encrypted_size_2": "C500F7832CB8747706FF4F50DC9FC086"
+                },
+                "staging": {
+                    "encrypted_gid_2": "226B36C53F7B29A1560C2607D0E84F93",
+                    "encrypted_size_2": "0812F60FFE7EF4A35D46FA21932641BC"
                 }
             }
         },
@@ -120,6 +124,10 @@
                 "beta-sdk": {
                     "encrypted_gid_2": "6C2DF9F904F66BE1A99D49033847C132",
                     "encrypted_size_2": "A7E039F405A2490517FF0E9E3DD1D05B"
+                },
+                "staging": {
+                    "encrypted_gid_2": "9791B3AEDFE19206B8D29D008B16C76C",
+                    "encrypted_size_2": "F126FCD0780B0C16D80928BF6C65EACE"
                 }
             }
         },
@@ -155,11 +163,17 @@
                 "description": "sdk update",
                 "pwdrequired": "1",
                 "timeupdated": "1652460754"
+            },
+            "staging": {
+                "buildid": "8761305",
+                "description": "Staging Branch",
+                "pwdrequired": "1",
+                "timeupdated": "1652864822"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 14826423,
-    "_sha": "6731aba48c350530bc9b1b5a3fe3b15afe54b4f2",
-    "_size": 3964
+    "_change_number": 14845123,
+    "_sha": "73f529b4b8407fd253dfe67a9ae0633af82a817c",
+    "_size": 4393
 }
