@@ -111,10 +111,10 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "984124551302671382",
+                "public": "3298652111929164333",
                 "squad_experimental": "8431999813157773577"
             },
-            "maxsize": "11106466794",
+            "maxsize": "11116718909",
             "encryptedmanifests": {
                 "alpha-11.2": {
                     "encrypted_gid_2": "286BEB7B9504102C1FBDA04353F6406A",
@@ -144,10 +144,6 @@
                     "encrypted_gid_2": "6A8AEB44CECFFD786068074980C0D67B",
                     "encrypted_size_2": "E61A263BD9D785213EFA1F31F350F015"
                 },
-                "squad_main": {
-                    "encrypted_gid_2": "112FA10CCE6BEA4356D39ACE722BBB96",
-                    "encrypted_size_2": "22FF88398A45C3D73C46972B8888856D"
-                },
                 "squad_release": {
                     "encrypted_gid_2": "7FD1EF25F1B88442FFC2D3549D28E01D",
                     "encrypted_size_2": "3D1E0BBA9F1C0DE11F2D13716FB14329"
@@ -166,10 +162,10 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "8896159585959020054",
+                "public": "2184783851342719604",
                 "squad_experimental": "8090321180619253649"
             },
-            "maxsize": "11150042610",
+            "maxsize": "11161722364",
             "encryptedmanifests": {
                 "alpha-11.2": {
                     "encrypted_gid_2": "1D9EF18C73C4669777A9243F75823C4D",
@@ -198,10 +194,6 @@
                 "server-fixtest": {
                     "encrypted_gid_2": "8101313B3CCB77B2E94C554EC2BF5B8C",
                     "encrypted_size_2": "C25D584502F4CB2A8EE1D833EACF2D3E"
-                },
-                "squad_main": {
-                    "encrypted_gid_2": "87DF0CDA5CB26ECDE8CCD19A0EC6E104",
-                    "encrypted_size_2": "025801C7AF3028BCBAAFC516A62D0AF2"
                 },
                 "squad_release": {
                     "encrypted_gid_2": "75CF9D0C11E72F0CE6385C9DDE69217E",
@@ -246,8 +238,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "8549097",
-                "timeupdated": "1649874969"
+                "buildid": "8751140",
+                "timeupdated": "1652895949"
             },
             "alpha-11.2": {
                 "buildid": "2863387",
@@ -332,7 +324,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14842853,
-    "_sha": "ae18665351fe0de8e92542ee163f5db1d96a06a7",
-    "_size": 8883
+    "_change_number": 14850337,
+    "_sha": "107d34ef4c355746f3efc5e04ca8145cdcb60bf2",
+    "_size": 8588
 }
