@@ -209,21 +209,19 @@
             "name": "CAF DLC Depot",
             "dlcappid": "1123920",
             "manifests": {
-                "public": "8509449628493661206"
+                "public": "9205097207890293247",
+                "performance_hotfix": "8509449628493661206",
+                "squad_tournament": "8509449628493661206"
             },
-            "maxsize": "15654",
+            "maxsize": "5996501456",
             "encryptedmanifests": {
                 "backtracking": {
                     "encrypted_gid_2": "4352485CFEEFA3994253D2144A517482",
                     "encrypted_size_2": "55DE0A23036AFD72FC8AE0F40071D98B"
                 },
-                "squad_experimental": {
-                    "encrypted_gid_2": "113A1D4B85ADF0BF6446030840D38784",
-                    "encrypted_size_2": "380208164EF667F56392B307586BB924"
-                },
-                "squad_main": {
-                    "encrypted_gid_2": "CAA24698EC7532ABA63FFEAC21D70CEE",
-                    "encrypted_size_2": "50C098AED8E1A386827950949E036842"
+                "squad_release": {
+                    "encrypted_gid_2": "6EDA25A524BEF748B8997D93D19343C4",
+                    "encrypted_size_2": "0363CFD8664B5D41F12AB387E6174D64"
                 },
                 "squad_steamfix": {
                     "encrypted_gid_2": "FB14A2F478809EA6AB44F26AB9476FC0",
@@ -320,11 +318,16 @@
                 "description": "OISC Branch",
                 "pwdrequired": "1",
                 "timeupdated": "1572096224"
+            },
+            "performance_hotfix": {
+                "buildid": "8200696",
+                "description": "branch addressing various performance issues",
+                "timeupdated": "1644862338"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 14850337,
-    "_sha": "107d34ef4c355746f3efc5e04ca8145cdcb60bf2",
-    "_size": 8588
+    "_change_number": 14850451,
+    "_sha": "c6ee5091cc1d8a0ca8323099c714e64e17ec6aae",
+    "_size": 8691
 }
