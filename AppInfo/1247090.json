@@ -91,20 +91,24 @@
         "1247091": {
             "name": "Stormworks Dedicated Server Content",
             "manifests": {
-                "public": "3240366675208828294"
+                "public": "5043606230385346254"
             },
-            "maxsize": "940303159",
+            "maxsize": "940953524",
             "encryptedmanifests": {
                 "major-testing": {
                     "encrypted_gid_2": "F333A788B03767237D209BE3527D9427",
                     "encrypted_size_2": "5D595179E434CA837665A5A748B854E2"
+                },
+                "minor-testing": {
+                    "encrypted_gid_2": "4A4F752F12A3242E314E166CAC5E08BF",
+                    "encrypted_size_2": "31EA05E2E6C9A38D07A5778B4B8B5B6D"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "8781593",
-                "timeupdated": "1653080820"
+                "buildid": "8690778",
+                "timeupdated": "1653083699"
             },
             "major-testing": {
                 "buildid": "8770314",
@@ -121,7 +125,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14876760,
-    "_sha": "8697c5b1c1e3d2607a3c834dcca847ec778e1c45",
-    "_size": 2639
+    "_change_number": 14877095,
+    "_sha": "dc29ca2630d27d775c9d249d0150377b6ae68842",
+    "_size": 2790
 }
