@@ -102,7 +102,13 @@
             "manifests": {
                 "public": "6584653758679241571"
             },
-            "maxsize": "970812697"
+            "maxsize": "970812697",
+            "encryptedmanifests": {
+                "tester": {
+                    "encrypted_gid_2": "50E2C18E61BC31F5202F6A216CC7459D",
+                    "encrypted_size_2": "07AE8B26A24CC859EF968A7898B52AB9"
+                }
+            }
         },
         "882432": {
             "name": "Beasts of Bermuda Dedicated Server Windows",
@@ -112,7 +118,13 @@
             "manifests": {
                 "public": "3659981800559451213"
             },
-            "maxsize": "267758790"
+            "maxsize": "267758790",
+            "encryptedmanifests": {
+                "tester": {
+                    "encrypted_gid_2": "DBDC4D9D8BECC850D11353C130F63B8B",
+                    "encrypted_size_2": "F4C549996005D092CBB49F99DA32C536"
+                }
+            }
         },
         "882433": {
             "name": "Beasts of Bermuda Dedicated Server Linux",
@@ -135,15 +147,15 @@
                 "timeupdated": "1652810414"
             },
             "tester": {
-                "buildid": "8756788",
+                "buildid": "8775995",
                 "description": "Tester branch",
                 "pwdrequired": "1",
-                "timeupdated": "1652809565"
+                "timeupdated": "1653022036"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 14838330,
-    "_sha": "78cb475f6bff03d31c9c46a67668b40fb1315cff",
-    "_size": 3311
+    "_change_number": 14867718,
+    "_sha": "a81f6e16668a8a42f09ccbb1d478cefc8e886aa0",
+    "_size": 3667
 }
