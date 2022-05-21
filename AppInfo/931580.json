@@ -31,6 +31,10 @@
                     "encrypted_gid_2": "037BA62D2D7058A40AF28F12A6C882D4",
                     "encrypted_size_2": "8C5FC5C39335A9DF68531FC921ED15CD"
                 },
+                "coc_staging": {
+                    "encrypted_gid_2": "45E4A1EA44E7F75B2D2694D9DF5BAAD0",
+                    "encrypted_size_2": "E386CB870DB6DD23C9049FAA4CAE33B4"
+                },
                 "cocplaytest": {
                     "encrypted_gid_2": "80C26F380F9BC5936BF511296A6C76AE",
                     "encrypted_size_2": "F743ADC4C9516FE02CBA16A257568DF7"
@@ -67,6 +71,12 @@
                 "pwdrequired": "1",
                 "timeupdated": "1641304523"
             },
+            "coc_staging": {
+                "buildid": "8783141",
+                "description": "CoC QA Stabilization",
+                "pwdrequired": "1",
+                "timeupdated": "1653102333"
+            },
             "cocplaytest": {
                 "buildid": "8774548",
                 "description": "CoC Playtest",
@@ -76,7 +86,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14865801,
-    "_sha": "c70fe20db49e25dea65a7e7454e1ca03058a41ba",
-    "_size": 1791
+    "_change_number": 14878832,
+    "_sha": "13704331b5926f3eb6e9e4662154368bf98e8d4c",
+    "_size": 2089
 }
