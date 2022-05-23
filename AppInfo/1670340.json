@@ -81,6 +81,10 @@
                     "encrypted_gid_2": "5958D1E839D7B932F10CC8FB02C8A956",
                     "encrypted_size_2": "248FE1DCB13901656B4A5FB3CADB65AA"
                 },
+                "private_qa": {
+                    "encrypted_gid_2": "E99DA93FA58788F5B6F5E790DA95E017",
+                    "encrypted_size_2": "08C60FD53AFB40AC03BEA77C3BE766E6"
+                },
                 "private_test": {
                     "encrypted_gid_2": "A7DD309C226E53FA2552DADBE796BA9B",
                     "encrypted_size_2": "BC61AAEDC69E2DA64547EBD1F0119382"
@@ -96,7 +100,13 @@
                 "public": "9063929652169574528",
                 "alpha-unstable-edge": "9139767168242332731"
             },
-            "maxsize": "4243963450"
+            "maxsize": "4243963450",
+            "encryptedmanifests": {
+                "private_qa": {
+                    "encrypted_gid_2": "31D23724CA05B341E661DECF2CFF22E1",
+                    "encrypted_size_2": "99B913DFF8D00BA54FF119461A1EED5D"
+                }
+            }
         },
         "workshopdepot": "1670340",
         "branches": {
@@ -120,9 +130,9 @@
                 "timeupdated": "1634884717"
             },
             "private_qa": {
-                "buildid": "8770492",
+                "buildid": "8792024",
                 "pwdrequired": "1",
-                "timeupdated": "1652963549"
+                "timeupdated": "1653309476"
             },
             "private_test": {
                 "buildid": "6991408",
@@ -132,7 +142,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14881164,
-    "_sha": "f0d8c2040e2c9cfbd9932b8bb0f70aca6bca7226",
-    "_size": 2928
+    "_change_number": 14894639,
+    "_sha": "c1a7a05f8c0f30ab8cb575c96d5030548fdd1b31",
+    "_size": 3258
 }
