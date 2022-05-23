@@ -83,18 +83,15 @@
         "1420711": {
             "name": "Night of the Dead Dedicated Server Content",
             "manifests": {
-                "public": "432102808595634071",
-                "1.2.4": "3771050463460587124"
+                "public": "3465809843228946114",
+                "1.2.4": "3771050463460587124",
+                "beta_shipping": "432102808595634071"
             },
-            "maxsize": "2055154577",
+            "maxsize": "2055224245",
             "encryptedmanifests": {
                 "alpha_development": {
                     "encrypted_gid_2": "C1AFAB9DAE8C45B9FFF9B8D385D10D0E",
                     "encrypted_size_2": "6B193110F9D18DD8272C06712DDEC293"
-                },
-                "alpha_shipping": {
-                    "encrypted_gid_2": "76FD2CAF0824AC83FD28A745C634B44A",
-                    "encrypted_size_2": "DE00CDDCCAF89E1505E93D3A7B9867A0"
                 },
                 "pre-alpha_development": {
                     "encrypted_gid_2": "C1FA82C6A54E66FC4270A354EBB2DC34",
@@ -108,8 +105,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "8690084",
-                "timeupdated": "1651830105"
+                "buildid": "8767258",
+                "timeupdated": "1653268517"
             },
             "1.2.4": {
                 "buildid": "8257638",
@@ -148,7 +145,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14856413,
-    "_sha": "ec0658a30903ff912fc868272a5075228f07260a",
-    "_size": 3656
+    "_change_number": 14890244,
+    "_sha": "528cdd123927dfb93984f6922d67a11c4d827a35",
+    "_size": 3547
 }
