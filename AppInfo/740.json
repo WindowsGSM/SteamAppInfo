@@ -32,13 +32,14 @@
             "name": "Counter-Strike Global Offensive Beta Common",
             "systemdefined": "1",
             "manifests": {
-                "public": "6108032244206813318",
+                "public": "7171265687217435324",
                 "1.38.2.4": "5627468428652890628",
                 "1.38.2.7": "5272811868550352856",
                 "1.38.2.8": "132782574958211000",
-                "1.38.2.9": "3534880353993516303"
+                "1.38.2.9": "3534880353993516303",
+                "1.38.3.1": "6108032244206813318"
             },
-            "maxsize": "29932813775",
+            "maxsize": "29950581993",
             "encryptedmanifests": {
                 "dprs": {
                     "encrypted_gid_2": "23D0B308D1CE739A6C3B5F1E61A98757",
@@ -50,11 +51,12 @@
             "name": "Counter-Strike Global Offensive Beta - Dedicated Server",
             "systemdefined": "1",
             "manifests": {
-                "public": "5638262286731628272",
+                "public": "6875690915221711118",
                 "1.38.2.4": "3891838008692842301",
                 "1.38.2.7": "5560093206098329797",
                 "1.38.2.8": "1046377808555912838",
-                "1.38.2.9": "35687481347477437"
+                "1.38.2.9": "35687481347477437",
+                "1.38.3.1": "5638262286731628272"
             },
             "maxsize": "1963745339",
             "encryptedmanifests": {
@@ -67,8 +69,8 @@
         "overridescddb": "1",
         "branches": {
             "public": {
-                "buildid": "8743952",
-                "timeupdated": "1652649763"
+                "buildid": "8795609",
+                "timeupdated": "1653351644"
             },
             "1.38.2.4": {
                 "buildid": "8461749",
@@ -95,6 +97,11 @@
                 "description": "1.38.3.1",
                 "timeupdated": "1652649874"
             },
+            "1.38.3.2": {
+                "buildid": "8795609",
+                "description": "1.38.3.2",
+                "timeupdated": "1653351780"
+            },
             "dprs": {
                 "buildid": "7633487",
                 "pwdrequired": "1",
@@ -103,7 +110,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14818496,
-    "_sha": "f9a3b2586061cbe4fd761a6ba737dd932529bb83",
-    "_size": 2473
+    "_change_number": 14900658,
+    "_sha": "1fd92a7193d2ea8b3a7e4b7e9c7ae878e3b531ae",
+    "_size": 2660
 }
