@@ -32,7 +32,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -43,7 +42,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -53,7 +51,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -64,7 +61,6 @@
             "depotfromapp": "1007"
         },
         "1424231": {
-            "name": "Holdfast: Nations At War - Dedicated Server Content",
             "config": {
                 "oslist": "linux",
                 "osarch": "64",
@@ -90,7 +86,6 @@
             }
         },
         "1424232": {
-            "name": "Holdfast: Nations At War - Dedicated Server Depot Windows",
             "config": {
                 "oslist": "windows",
                 "osarch": "64",
@@ -122,13 +117,11 @@
             },
             "benchmark": {
                 "buildid": "6987347",
-                "description": "benchmark build",
                 "pwdrequired": "1",
                 "timeupdated": "1625586022"
             },
             "benchmark2": {
                 "buildid": "8348125",
-                "description": "benchmark builds v2",
                 "pwdrequired": "1",
                 "timeupdated": "1646925245"
             },
@@ -138,7 +131,6 @@
             },
             "staging": {
                 "buildid": "8792986",
-                "description": "Staging Branch",
                 "pwdrequired": "1",
                 "timeupdated": "1653318133"
             }
@@ -146,6 +138,6 @@
     },
     "_missing_token": false,
     "_change_number": 14896080,
-    "_sha": "dbb5cb58318009382b183c2151704f9f7ae01c6e",
-    "_size": 3540
+    "_sha": "2ed0aa1bf24931caca7c503b6886c4ad91124b32",
+    "_size": 3159
 }

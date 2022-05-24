@@ -49,7 +49,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -60,7 +59,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -70,7 +68,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -81,7 +78,6 @@
             "depotfromapp": "1007"
         },
         "1222651": {
-            "name": "Space Impossible Dedicated Server Game Data",
             "config": {
                 "language": ""
             },
@@ -91,7 +87,6 @@
             "maxsize": "55228060"
         },
         "1222652": {
-            "name": "Space Impossible Dedicated Server Windows",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -102,7 +97,6 @@
             "maxsize": "82187543"
         },
         "1222653": {
-            "name": "Space Impossible Dedicated Server OSX",
             "config": {
                 "oslist": "macos",
                 "language": ""
@@ -113,7 +107,6 @@
             "maxsize": "105398856"
         },
         "1222654": {
-            "name": "Space Impossible Dedicated Server Linux",
             "config": {
                 "oslist": "linux",
                 "language": ""
@@ -130,7 +123,6 @@
             },
             "developer": {
                 "buildid": "8749925",
-                "description": "Internal Developer Only",
                 "pwdrequired": "1",
                 "timeupdated": "1652728447"
             },
@@ -143,6 +135,6 @@
     },
     "_missing_token": false,
     "_change_number": 14827930,
-    "_sha": "1328780a7375bfce79b0414c166882639745a49c",
-    "_size": 3280
+    "_sha": "919a40e269cba5b51724ae47af62a7e4d1f0559f",
+    "_size": 2888
 }

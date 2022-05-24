@@ -36,7 +36,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -47,7 +46,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -57,7 +55,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -68,7 +65,6 @@
             "depotfromapp": "1007"
         },
         "1382421": {
-            "name": "Gameserver Content",
             "manifests": {
                 "public": "930153211048295988"
             },
@@ -83,6 +79,6 @@
     },
     "_missing_token": false,
     "_change_number": 14723591,
-    "_sha": "ab4064c32a2be8da021923381bdf83dd05b195c2",
-    "_size": 1713
+    "_sha": "0167b6a0e5f5f3148237319ebdf7a21a9cee524b",
+    "_size": 1550
 }

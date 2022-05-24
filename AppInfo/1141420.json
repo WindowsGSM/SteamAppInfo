@@ -31,7 +31,6 @@
     },
     "depots": {
         "228988": {
-            "name": "VC 2019 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -40,13 +39,11 @@
             "sharedinstall": "1"
         },
         "1141421": {
-            "name": "RemnantsDedicatedServer Content",
             "config": {
                 "language": ""
             }
         },
         "1141422": {
-            "name": "Remnants Alpha Dedicated Server",
             "config": {
                 "language": ""
             },
@@ -73,13 +70,11 @@
             },
             "dev-branch": {
                 "buildid": "8790532",
-                "description": "latest development test branch",
                 "pwdrequired": "1",
                 "timeupdated": "1653291662"
             },
             "public-test-branch": {
                 "buildid": "8790532",
-                "description": "public testing on the newest updates",
                 "pwdrequired": "1",
                 "timeupdated": "1653291654"
             }
@@ -87,6 +82,6 @@
     },
     "_missing_token": false,
     "_change_number": 14892444,
-    "_sha": "cde065a50a29810943cd50172df2a88fc9ec651d",
-    "_size": 2053
+    "_sha": "8d58f336ac81524b48eef186f8206f136a3d2e28",
+    "_size": 1825
 }

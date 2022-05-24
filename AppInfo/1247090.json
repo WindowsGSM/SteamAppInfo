@@ -39,7 +39,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -50,7 +49,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -60,7 +58,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -71,7 +68,6 @@
             "depotfromapp": "1007"
         },
         "228985": {
-            "name": "VC 2013 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -80,7 +76,6 @@
             "sharedinstall": "1"
         },
         "228988": {
-            "name": "VC 2019 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -89,7 +84,6 @@
             "sharedinstall": "1"
         },
         "1247091": {
-            "name": "Stormworks Dedicated Server Content",
             "manifests": {
                 "public": "8361619496217894145"
             },
@@ -108,13 +102,11 @@
             },
             "major-testing": {
                 "buildid": "8798073",
-                "description": "Testing Major Updates",
                 "pwdrequired": "1",
                 "timeupdated": "1653384360"
             },
             "minor-testing": {
                 "buildid": "8800647",
-                "description": "Testing Minor Updates",
                 "pwdrequired": "1",
                 "timeupdated": "1653409101"
             }
@@ -122,6 +114,6 @@
     },
     "_missing_token": false,
     "_change_number": 14908729,
-    "_sha": "7371388061c0021e8000616ee94a6381ce694713",
-    "_size": 2639
+    "_sha": "b4c9bae16a9f2df83c9f1bb66ba78c3b455b59c0",
+    "_size": 2317
 }

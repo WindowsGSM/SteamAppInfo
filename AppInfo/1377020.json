@@ -30,7 +30,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -41,7 +40,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -51,7 +49,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -62,7 +59,6 @@
             "depotfromapp": "1007"
         },
         "228988": {
-            "name": "VC 2019 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -71,7 +67,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -80,7 +75,6 @@
             "sharedinstall": "1"
         },
         "1377021": {
-            "name": "Sanctuary Island dedicated server Content",
             "manifests": {
                 "public": "9104584255350458552",
                 "test": "2234650660904780723"
@@ -101,6 +95,6 @@
     },
     "_missing_token": false,
     "_change_number": 14909885,
-    "_sha": "5db82090160c9bb51c051a2316e1961d6779e2f6",
-    "_size": 2160
+    "_sha": "c0a5a1a4f4ab8d27770e93928d38a22e1565a259",
+    "_size": 1909
 }

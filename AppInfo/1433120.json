@@ -120,7 +120,6 @@
     },
     "depots": {
         "228982": {
-            "name": "VC 2008 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -129,7 +128,6 @@
             "sharedinstall": "1"
         },
         "228988": {
-            "name": "VC 2019 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -138,7 +136,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -148,7 +145,6 @@
         },
         "baselanguages": "english",
         "1433121": {
-            "name": "PTS Launcher Content",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -159,7 +155,6 @@
             "maxsize": "53652727"
         },
         "1433124": {
-            "name": "PTS English Assets",
             "config": {
                 "language": "english",
                 "oslist": "windows"
@@ -170,7 +165,6 @@
             "maxsize": "11737466989"
         },
         "1433125": {
-            "name": "PTS Client and Shared Assets",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -187,7 +181,6 @@
             },
             "beta": {
                 "buildid": "8468110",
-                "description": "Internal testing",
                 "pwdrequired": "1",
                 "timeupdated": "1648666864"
             }
@@ -195,6 +188,6 @@
     },
     "_missing_token": false,
     "_change_number": 14727983,
-    "_sha": "759d0c9859128acc64497fc10f6af9c47b76e3fa",
-    "_size": 4193
+    "_sha": "8b71af4abcc9b7799c0c5600f503615a53b2a238",
+    "_size": 3954
 }

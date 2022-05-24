@@ -29,7 +29,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -40,7 +39,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -50,7 +48,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -61,7 +58,6 @@
             "depotfromapp": "1007"
         },
         "228987": {
-            "name": "VC 2017 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -70,7 +66,6 @@
             "sharedinstall": "1"
         },
         "1129071": {
-            "name": "Dedicated Server Content",
             "manifests": {
                 "public": "5418351296562121146"
             },
@@ -85,6 +80,6 @@
     },
     "_missing_token": false,
     "_change_number": 14633474,
-    "_sha": "47aee0dfc516080147ff0096ae917b74170a1c17",
-    "_size": 1788
+    "_sha": "f210e31bf6ebe891dda38f5d765d29fd16d11354",
+    "_size": 1591
 }

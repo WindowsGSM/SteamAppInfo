@@ -42,7 +42,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -53,7 +52,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -63,7 +61,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -74,7 +71,6 @@
             "depotfromapp": "1007"
         },
         "228987": {
-            "name": "VC 2017 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -83,7 +79,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -92,7 +87,6 @@
             "sharedinstall": "1"
         },
         "229006": {
-            "name": ".NET 4.7 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -101,7 +95,6 @@
             "sharedinstall": "1"
         },
         "1170681": {
-            "name": "Task Force Elite Dedicated Server Content",
             "config": {
                 "oslist": "windows",
                 "osarch": "64",
@@ -123,7 +116,6 @@
             }
         },
         "1170682": {
-            "name": "Task Force Elite Dedicated Server Linux Depot",
             "config": {
                 "oslist": "linux",
                 "osarch": "64",
@@ -168,6 +160,6 @@
     },
     "_missing_token": false,
     "_change_number": 14723591,
-    "_sha": "14730a29f8cbe2580f2bd7031a8f6d03922841ff",
-    "_size": 3815
+    "_sha": "ad33796d16efc2356ec0907ac73f30aa7d4bf53b",
+    "_size": 3476
 }

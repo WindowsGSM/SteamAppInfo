@@ -36,7 +36,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -47,7 +46,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -57,7 +55,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -68,7 +65,6 @@
             "depotfromapp": "1007"
         },
         "228987": {
-            "name": "VC 2017 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -77,7 +73,6 @@
             "sharedinstall": "1"
         },
         "229005": {
-            "name": ".NET 4.6 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -86,7 +81,6 @@
             "sharedinstall": "1"
         },
         "1189161": {
-            "name": "Re.Poly Server Content",
             "config": {
                 "oslist": "windows",
                 "osarch": "64",
@@ -107,6 +101,6 @@
     },
     "_missing_token": false,
     "_change_number": 14898109,
-    "_sha": "95e9cbf99081792b93110358aa9a2394c3ff659e",
-    "_size": 2216
+    "_sha": "6f5a11f8113d87f47ca0701162a115f178dc0816",
+    "_size": 1992
 }

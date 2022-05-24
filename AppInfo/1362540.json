@@ -38,7 +38,6 @@
     "depots": {
         "baselanguages": "english",
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -49,7 +48,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -59,7 +57,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -70,7 +67,6 @@
             "depotfromapp": "1007"
         },
         "1362541": {
-            "name": "Battle Cry of Freedom - Dedicated Server Content",
             "config": {
                 "oslist": "windows"
             },
@@ -100,19 +96,16 @@
             },
             "commanderthing": {
                 "buildid": "8648414",
-                "description": "commanderthing",
                 "pwdrequired": "1",
                 "timeupdated": "1651227068"
             },
             "demo": {
                 "buildid": "8294740",
-                "description": "Demo",
                 "pwdrequired": "1",
                 "timeupdated": "1646151965"
             },
             "demobeta": {
                 "buildid": "8799604",
-                "description": "bETA OF DEMO",
                 "pwdrequired": "1",
                 "timeupdated": "1653399709"
             }
@@ -120,6 +113,6 @@
     },
     "_missing_token": false,
     "_change_number": 14906656,
-    "_sha": "cb07f4fd42944a93596607a4593fd3934574da9f",
-    "_size": 2818
+    "_sha": "d485915ffdc5a14c211fab752ad92fe92bc2ed13",
+    "_size": 2529
 }

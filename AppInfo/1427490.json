@@ -31,7 +31,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -42,7 +41,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -52,7 +50,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -63,7 +60,6 @@
             "depotfromapp": "1007"
         },
         "228983": {
-            "name": "VC 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -72,7 +68,6 @@
             "sharedinstall": "1"
         },
         "228988": {
-            "name": "VC 2019 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -81,7 +76,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -90,7 +84,6 @@
             "sharedinstall": "1"
         },
         "1427491": {
-            "name": "ExoCorps Dedicated Server Content",
             "config": {
                 "language": ""
             },
@@ -106,7 +99,6 @@
             },
             "prerelease": {
                 "buildid": "8357831",
-                "description": "Developer use for testing before deploying to default branch",
                 "pwdrequired": "1",
                 "timeupdated": "1647045429"
             }
@@ -114,6 +106,6 @@
     },
     "_missing_token": false,
     "_change_number": 14723591,
-    "_sha": "cf2615217e526bb7ebd865555e2a8959b7b59a38",
-    "_size": 2447
+    "_sha": "2c8606fa8b7b839aba60b42bea88589398cf2d25",
+    "_size": 2094
 }

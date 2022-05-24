@@ -44,7 +44,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -55,7 +54,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -65,7 +63,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -76,7 +73,6 @@
             "depotfromapp": "1007"
         },
         "1433271": {
-            "name": "SCP: Escape Together Dedicated Server Content",
             "config": {
                 "oslist": "windows",
                 "osarch": "64",
@@ -102,7 +98,6 @@
             }
         },
         "1433272": {
-            "name": "SCP: Escape Together Dedicated Server Content Linux",
             "config": {
                 "oslist": "linux",
                 "osarch": "64",
@@ -134,19 +129,16 @@
             },
             "ced-test": {
                 "buildid": "8615367",
-                "description": " \tCed's testing branch",
                 "pwdrequired": "1",
                 "timeupdated": "1650838955"
             },
             "ci-build": {
                 "buildid": "8691217",
-                "description": "Builds from CI",
                 "pwdrequired": "1",
                 "timeupdated": "1651840948"
             },
             "thunder-test": {
                 "buildid": "8691217",
-                "description": "Thunder's testing branch",
                 "pwdrequired": "1",
                 "timeupdated": "1651840953"
             }
@@ -154,6 +146,6 @@
     },
     "_missing_token": false,
     "_change_number": 14732656,
-    "_sha": "c3f73af1be1894b7fae49b1263bdcd243af80174",
-    "_size": 3759
+    "_sha": "cae1ba683cdd62dc83bbdbfd5ffee0a90c8f5648",
+    "_size": 3378
 }

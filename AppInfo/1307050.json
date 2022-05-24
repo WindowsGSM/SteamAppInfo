@@ -60,7 +60,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -71,7 +70,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -81,7 +79,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -92,7 +89,6 @@
             "depotfromapp": "1007"
         },
         "1307051": {
-            "name": "SOP dedicated server Windows",
             "config": {
                 "oslist": "windows",
                 "osarch": "64",
@@ -104,7 +100,6 @@
             "maxsize": "217604013"
         },
         "1307052": {
-            "name": "SOP dedicated server Linux",
             "config": {
                 "oslist": "linux",
                 "language": ""
@@ -123,6 +118,6 @@
     },
     "_missing_token": false,
     "_change_number": 14723591,
-    "_sha": "8ab98344e19821bff3fbdbaace7576da877840df",
-    "_size": 2673
+    "_sha": "61a0467f5fa000a29bd0450d875e1da36380cd81",
+    "_size": 2460
 }

@@ -26,7 +26,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -37,7 +36,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -47,7 +45,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -57,9 +54,7 @@
             "maxsize": "65909056",
             "depotfromapp": "1007"
         },
-        "1360241": {
-            "name": "Fisty Cuffs Server Content"
-        },
+        "1360241": {},
         "branches": {
             "public": {
                 "buildid": "8350903",
@@ -69,6 +64,6 @@
     },
     "_missing_token": false,
     "_change_number": 14723591,
-    "_sha": "6e9fd64b4e46dd0a66f271019f7188ef9c99f5ab",
-    "_size": 1513
+    "_sha": "164d80021d09468b24e69076cfba699c70ba660d",
+    "_size": 1342
 }

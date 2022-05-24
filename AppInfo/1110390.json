@@ -58,7 +58,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -69,7 +68,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -79,7 +77,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -90,7 +87,6 @@
             "depotfromapp": "1007"
         },
         "1110391": {
-            "name": "Windows",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -111,7 +107,6 @@
             }
         },
         "1110392": {
-            "name": "Linux",
             "config": {
                 "oslist": "linux",
                 "osarch": "64"
@@ -132,7 +127,6 @@
             }
         },
         "1110393": {
-            "name": "Shared",
             "manifests": {
                 "public": "2421966899929852642",
                 "preview": "5173582609141486406",
@@ -149,7 +143,6 @@
             }
         },
         "1110394": {
-            "name": "Shared_Release",
             "manifests": {
                 "public": "5002266391304071192",
                 "unity-2017.4": "5328516740166862532",
@@ -175,7 +168,6 @@
             },
             "private": {
                 "buildid": "8349941",
-                "description": "Private test branch",
                 "pwdrequired": "1",
                 "timeupdated": "1646945282"
             },
@@ -198,6 +190,6 @@
     },
     "_missing_token": false,
     "_change_number": 14910038,
-    "_sha": "516714deb648b88d91e3be2e21292e4769a7b836",
-    "_size": 4722
+    "_sha": "e022af57fe70a31d717ed2cd57678cb511f27f38",
+    "_size": 4462
 }

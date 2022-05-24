@@ -36,7 +36,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -47,7 +46,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -57,7 +55,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -68,7 +65,6 @@
             "depotfromapp": "1007"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -77,7 +73,6 @@
             "sharedinstall": "1"
         },
         "1292351": {
-            "name": "DedicatedServer Content",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -97,6 +92,6 @@
     },
     "_missing_token": false,
     "_change_number": 14723591,
-    "_sha": "04f571fc601b2b87dbfa43fa51e8fdaa23afcbf6",
-    "_size": 2051
+    "_sha": "50ac0d98061edd79836398ca144aee6347542454",
+    "_size": 1846
 }

@@ -200,7 +200,6 @@
     "depots": {
         "hasdepotsindlc": "1",
         "228988": {
-            "name": "VC 2019 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -209,7 +208,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -218,7 +216,6 @@
             "sharedinstall": "1"
         },
         "1386901": {
-            "name": "Observer: System Redux Content",
             "manifests": {
                 "public": "8851447905049334082"
             },
@@ -235,7 +232,6 @@
             }
         },
         "1386902": {
-            "name": "Observer: System Redux Japan",
             "manifests": {},
             "encryptedmanifests": {
                 "development": {
@@ -251,19 +247,16 @@
             },
             "development": {
                 "buildid": "7436884",
-                "description": "For testing",
                 "pwdrequired": "1",
                 "timeupdated": "1632820013"
             },
             "patchtest": {
                 "buildid": "5846647",
-                "description": "Additional testing branch",
                 "pwdrequired": "1",
                 "timeupdated": "1605690261"
             },
             "pressrelease": {
                 "buildid": "5709461",
-                "description": "Closed Beta",
                 "pwdrequired": "1",
                 "timeupdated": "1603213441"
             }
@@ -285,6 +278,6 @@
     },
     "_missing_token": false,
     "_change_number": 14870165,
-    "_sha": "f7e5a8e4af38615dbd6d908bae504491a8954e32",
-    "_size": 6107
+    "_sha": "2eadc5248b9839a4025ea45d947613c5874c4ae0",
+    "_size": 5843
 }

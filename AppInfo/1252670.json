@@ -57,7 +57,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -68,7 +67,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -78,7 +76,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -89,7 +86,6 @@
             "depotfromapp": "1007"
         },
         "1252671": {
-            "name": "LWDS - Windows",
             "config": {
                 "oslist": "windows",
                 "osarch": "64",
@@ -104,7 +100,6 @@
             "maxsize": "143902790"
         },
         "1252672": {
-            "name": "LWDS - Linux",
             "config": {
                 "oslist": "linux",
                 "osarch": "64",
@@ -119,7 +114,6 @@
             "maxsize": "112422340"
         },
         "1252673": {
-            "name": "LWDS - Mac",
             "config": {
                 "oslist": "macos",
                 "osarch": "64",
@@ -157,6 +151,6 @@
     },
     "_missing_token": false,
     "_change_number": 14193992,
-    "_sha": "3bc3eaea50fc386885128fba580867618c998279",
-    "_size": 3492
+    "_sha": "3d88570cafd520a243b3d590594dc8e867f48b71",
+    "_size": 3283
 }

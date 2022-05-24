@@ -51,7 +51,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -62,7 +61,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -72,7 +70,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -83,7 +80,6 @@
             "depotfromapp": "1007"
         },
         "1375661": {
-            "name": "SCP: Recontainment Dedicated Server Windows",
             "config": {
                 "oslist": "windows"
             },
@@ -93,7 +89,6 @@
             "maxsize": "136640959"
         },
         "1375662": {
-            "name": "SCP: Recontainment Dedicated Server Linux",
             "config": {
                 "oslist": "linux"
             },
@@ -111,6 +106,6 @@
     },
     "_missing_token": false,
     "_change_number": 14723591,
-    "_sha": "0b434f77fb50ab3c97e5045191316ac038da2ef4",
-    "_size": 2401
+    "_sha": "6cec50677c2574e0cf9c9ab10d9dd0ad5e66bdb7",
+    "_size": 2158
 }

@@ -31,7 +31,6 @@
     },
     "depots": {
         "228986": {
-            "name": "VC 2015 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -40,7 +39,6 @@
             "sharedinstall": "1"
         },
         "1180761": {
-            "name": "Risk of Rain 2 Dedicated Server Content",
             "config": {
                 "oslist": "windows",
                 "osarch": "64",
@@ -73,19 +71,16 @@
             },
             "public_test_server": {
                 "buildid": "5439922",
-                "description": "Public Test Server",
                 "pwdrequired": "1",
                 "timeupdated": "1597968292"
             },
             "qa_server": {
                 "buildid": "8796723",
-                "description": "QA_server",
                 "pwdrequired": "1",
                 "timeupdated": "1653367508"
             },
             "qa_server_1.2.0": {
                 "buildid": "8208642",
-                "description": "qa_server_1.2.0",
                 "pwdrequired": "1",
                 "timeupdated": "1645038863"
             }
@@ -93,6 +88,6 @@
     },
     "_missing_token": false,
     "_change_number": 14902243,
-    "_sha": "03b24e2f07f9ff372881357f7104f42ca88889f1",
-    "_size": 2273
+    "_sha": "7cd74348bcfe6e8ece5a51dbac7fd8f47207e4a4",
+    "_size": 2084
 }

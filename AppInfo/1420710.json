@@ -31,7 +31,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -42,7 +41,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -52,7 +50,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -63,7 +60,6 @@
             "depotfromapp": "1007"
         },
         "228988": {
-            "name": "VC 2019 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -72,7 +68,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -81,7 +76,6 @@
             "sharedinstall": "1"
         },
         "1420711": {
-            "name": "Night of the Dead Dedicated Server Content",
             "manifests": {
                 "public": "3465809843228946114",
                 "1.2.4": "3771050463460587124",
@@ -115,13 +109,11 @@
             },
             "alpha_development": {
                 "buildid": "8760409",
-                "description": "Alpha development branch",
                 "pwdrequired": "1",
                 "timeupdated": "1652854301"
             },
             "alpha_shipping": {
                 "buildid": "8767258",
-                "description": "Alpha shipping branch",
                 "pwdrequired": "1",
                 "timeupdated": "1652927932"
             },
@@ -132,13 +124,11 @@
             },
             "pre-alpha_development": {
                 "buildid": "8632425",
-                "description": "Pre-alpha development branch",
                 "pwdrequired": "1",
                 "timeupdated": "1651052762"
             },
             "pre-alpha_eos_development": {
                 "buildid": "8768696",
-                "description": "\tTest Branch For EOS",
                 "pwdrequired": "1",
                 "timeupdated": "1652946250"
             }
@@ -146,6 +136,6 @@
     },
     "_missing_token": false,
     "_change_number": 14890244,
-    "_sha": "528cdd123927dfb93984f6922d67a11c4d827a35",
-    "_size": 3547
+    "_sha": "9cb64d0a563d204a47184dbe8131568d31efb0b8",
+    "_size": 3114
 }
