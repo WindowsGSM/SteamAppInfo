@@ -80,6 +80,10 @@
                 "experimental": {
                     "encrypted_gid_2": "52D25F0509F7AD268BC9ACBE7ADEC920",
                     "encrypted_size_2": "5B227E09DBD84DBAF890A9232FDC0E39"
+                },
+                "internal-test": {
+                    "encrypted_gid_2": "66F8802BFA37A0DB3F488466E45AE3F3",
+                    "encrypted_size_2": "863B7ADF8462DE4A44B218660BE11DF5"
                 }
             }
         },
@@ -96,6 +100,10 @@
                 "experimental": {
                     "encrypted_gid_2": "1D646DE7D00F3E7B6252B1E8FE261C09",
                     "encrypted_size_2": "95499FA3726A30E79F5927D789B2A8E1"
+                },
+                "internal-test": {
+                    "encrypted_gid_2": "2386423C3124229AC5AC19D1B857AB04",
+                    "encrypted_size_2": "0E3F47B4B77A1830860AF7B11145DECC"
                 }
             }
         },
@@ -110,6 +118,12 @@
                 "pwdrequired": "1",
                 "timeupdated": "1652682759"
             },
+            "internal-test": {
+                "buildid": "8804765",
+                "description": "For internal use only",
+                "pwdrequired": "1",
+                "timeupdated": "1653461165"
+            },
             "public-test": {
                 "buildid": "8449485",
                 "description": "Public test version of Valheim. Please backup you save data before using.",
@@ -119,7 +133,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14913864,
-    "_sha": "022dbe13313c42c96c5f19c5f701d204384474e9",
-    "_size": 2737
+    "_change_number": 14914152,
+    "_sha": "46d8afecacefac2af360d4a0b230bb8d724e8468",
+    "_size": 3191
 }
