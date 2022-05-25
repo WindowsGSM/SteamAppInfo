@@ -133,6 +133,10 @@
                     "encrypted_gid_2": "E48D0F758C65838BCF4DBE039264006C",
                     "encrypted_size_2": "707B7F544699E822D159D7B06E90665D"
                 },
+                "plugin-api2": {
+                    "encrypted_gid_2": "B31AF3B69B693E0C7363AB8DD8791DB4",
+                    "encrypted_size_2": "8EF1AE9A8949A1E4EECCF75DCE96BA3C"
+                },
                 "pognity": {
                     "encrypted_gid_2": "A270F64972761624FE6AA8EA6C43A26D",
                     "encrypted_size_2": "B5DA9C657C93D69B26BDA1F7B1373544"
@@ -193,6 +197,10 @@
                 "plugin-api": {
                     "encrypted_gid_2": "0149AACB2502BEF36E808FCA88A84792",
                     "encrypted_size_2": "38D45D420FED52687E4F1A7A2BF6B659"
+                },
+                "plugin-api2": {
+                    "encrypted_gid_2": "215AE9AE2D9878DC6D8F4AB94EFD4849",
+                    "encrypted_size_2": "C7DCE62447D8544C55AD7B4C53582AEF"
                 },
                 "pognity": {
                     "encrypted_gid_2": "86955476345749FA413C199F51DC4701",
@@ -267,6 +275,12 @@
                 "pwdrequired": "1",
                 "timeupdated": "1652366131"
             },
+            "plugin-api2": {
+                "buildid": "8808460",
+                "description": "Plugin API DEV",
+                "pwdrequired": "1",
+                "timeupdated": "1653494609"
+            },
             "pognity": {
                 "buildid": "8740754",
                 "description": "Kognity test branch, now actually working",
@@ -288,7 +302,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14919231,
-    "_sha": "5f074bdc0fe58dbee1d801f6ca851f0509d6edea",
-    "_size": 7968
+    "_change_number": 14919888,
+    "_sha": "762284465ad0de24923caac9528cc6dfdbf4fdb2",
+    "_size": 8409
 }
