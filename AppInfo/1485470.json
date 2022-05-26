@@ -10,6 +10,7 @@
         "logo_small": "06487ccf8d416e2268c6ef37edc0e318da91417c_thumb",
         "clienttga": "1a8fe8e7f84c931379a952cffed000e0d1a07b12",
         "clienticon": "d4c2e200681870cff6b494a0c9fa71916b53c3ae",
+        "app_retired_publisher_request": "1",
         "library_assets": {
             "library_capsule": "en",
             "library_hero": "en",
@@ -37,19 +38,24 @@
     "depots": {
         "1485471": {
             "manifests": {
-                "public": "5867136104388087954"
+                "public": "8958391896510345063"
             },
-            "maxsize": "126766509"
+            "maxsize": "5"
         },
         "branches": {
             "public": {
-                "buildid": "6694089",
-                "timeupdated": "1620907677"
+                "buildid": "8814283",
+                "timeupdated": "1653563752"
+            },
+            "test": {
+                "buildid": "8814283",
+                "pwdrequired": "1",
+                "timeupdated": "1653563746"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 13483601,
-    "_sha": "7bd2c508955c7f310873bfa8ac18f5a249e845b3",
-    "_size": 1188
+    "_change_number": 14929964,
+    "_sha": "280c091fee0f0be3e01913c0962952dc8f819f08",
+    "_size": 1319
 }
