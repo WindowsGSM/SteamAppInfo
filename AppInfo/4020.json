@@ -29,9 +29,9 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "9154949116103824401"
+                "public": "7047544535173110881"
             },
-            "maxsize": "41926040",
+            "maxsize": "42057960",
             "depotfromapp": "1007"
         },
         "1005": {
@@ -50,9 +50,9 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "779424218233114127"
+                "public": "1739087753971514576"
             },
-            "maxsize": "65909056",
+            "maxsize": "66648660",
             "depotfromapp": "1007"
         },
         "overridescddb": "1",
@@ -61,12 +61,12 @@
             "name": "Garry's Mod Dedicated Server Content",
             "systemdefined": "1",
             "manifests": {
-                "public": "6018138415004638952",
-                "chromium": "3119160195303267641",
-                "dev": "356651650216396905",
-                "x86-64": "4244946493171353476"
+                "public": "8724455253204613083",
+                "chromium": "8886127427666926352",
+                "dev": "8526060241129067158",
+                "x86-64": "8886127427666926352"
             },
-            "maxsize": "3709393143",
+            "maxsize": "3709422423",
             "encryptedmanifests": {
                 "addonsystem": {
                     "encrypted_gid_2": "F9ED75E5ED6F1816C04CBDF1E4A63B38",
@@ -81,12 +81,12 @@
             },
             "systemdefined": "1",
             "manifests": {
-                "public": "3387009428065808889",
-                "chromium": "7534617338305123772",
-                "dev": "1143306576225320027",
-                "x86-64": "2659063959089117822"
+                "public": "4396787182808070063",
+                "chromium": "1383870536025521828",
+                "dev": "982432519729664199",
+                "x86-64": "1383870536025521828"
             },
-            "maxsize": "473893025",
+            "maxsize": "455087953",
             "encryptedmanifests": {
                 "addonsystem": {
                     "encrypted_gid_2": "A7DCC3BFD0D6CA7BE2D21E89E5341406",
@@ -101,12 +101,12 @@
             },
             "systemdefined": "1",
             "manifests": {
-                "public": "3144801868052508770",
-                "chromium": "1364327023205458098",
-                "dev": "5917040830639298511",
-                "x86-64": "7549202648989367827"
+                "public": "1059992376067383832",
+                "chromium": "2569816648528682049",
+                "dev": "1537656787754835439",
+                "x86-64": "2569816648528682049"
             },
-            "maxsize": "291187400",
+            "maxsize": "291199784",
             "encryptedmanifests": {
                 "addonsystem": {
                     "encrypted_gid_2": "DAF615926E256CEF460254E07DA8F58A",
@@ -117,8 +117,8 @@
         "workshopdepot": "0",
         "branches": {
             "public": {
-                "buildid": "8393191",
-                "timeupdated": "1647555981"
+                "buildid": "8912326",
+                "timeupdated": "1654872139"
             },
             "addonsystem": {
                 "buildid": "2516155",
@@ -126,29 +126,29 @@
                 "timeupdated": "1518346461"
             },
             "chromium": {
-                "buildid": "8393124",
+                "buildid": "8912286",
                 "description": "x86-64 but older",
-                "timeupdated": "1647554594"
+                "timeupdated": "1654872120"
             },
             "dev": {
-                "buildid": "8643736",
+                "buildid": "8912197",
                 "description": "Development Branch",
-                "timeupdated": "1651167480"
+                "timeupdated": "1654869612"
             },
             "prerelease": {
-                "buildid": "8393191",
+                "buildid": "8912326",
                 "description": "Pre-Release Branch",
-                "timeupdated": "1647555253"
+                "timeupdated": "1654870654"
             },
             "x86-64": {
-                "buildid": "8574885",
+                "buildid": "8912286",
                 "description": "Testing 64-bit builds",
-                "timeupdated": "1650274691"
+                "timeupdated": "1654870344"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 14655585,
-    "_sha": "178a40419b9b8350593ff7b8a6e87ed34f9ddd24",
-    "_size": 3362
+    "_change_number": 15085185,
+    "_sha": "5f5652f75a46ae44e6b9f4776d8e417fe3718506",
+    "_size": 3363
 }

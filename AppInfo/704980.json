@@ -5,7 +5,7 @@
         "type": "Tool",
         "parent": "704020",
         "oslist": "windows",
-        "osarch": "",
+        "osarch": "64",
         "osextended": "",
         "clienttga": "d31489df79d28dbc8c1bd9489f6b4125eb38d80f",
         "clienticon": "3ca9de5ba92e1ee147ea98afc90dc5b87049b86e",
@@ -14,7 +14,9 @@
         "logo_small": "c338e0f4a31a0bf8cbb70bccd1d01d89a6cb8018_thumb",
         "releasestate": "released",
         "associations": {},
-        "gameid": "704980"
+        "community_hub_visible": "1",
+        "gameid": "704980",
+        "exfgls": "1"
     },
     "extended": {
         "gamedir": "MasterArena"
@@ -55,9 +57,9 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "9154949116103824401"
+                "public": "7047544535173110881"
             },
-            "maxsize": "41926040",
+            "maxsize": "42057960",
             "depotfromapp": "1007"
         },
         "1005": {
@@ -76,27 +78,27 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "779424218233114127"
+                "public": "1739087753971514576"
             },
-            "maxsize": "65909056",
+            "maxsize": "66648660",
             "depotfromapp": "1007"
         },
         "704981": {
             "name": "Master Arena Server Content",
             "manifests": {
-                "public": "715093154306686867"
+                "public": "5667312474843094996"
             },
-            "maxsize": "794511244"
+            "maxsize": "962162099"
         },
         "branches": {
             "public": {
-                "buildid": "8515850",
-                "timeupdated": "1649360300"
+                "buildid": "8896978",
+                "timeupdated": "1654704740"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 14454676,
-    "_sha": "f151dcacdec6f80898cdf0420028455b7f13f36a",
-    "_size": 2034
+    "_change_number": 15061220,
+    "_sha": "129e72cac1ff2b9bd9b1c57c9a8170b8c4ac0c9d",
+    "_size": 2085
 }

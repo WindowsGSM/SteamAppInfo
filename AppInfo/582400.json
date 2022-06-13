@@ -39,9 +39,9 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "9154949116103824401"
+                "public": "7047544535173110881"
             },
-            "maxsize": "41926040",
+            "maxsize": "42057960",
             "depotfromapp": "1007"
         },
         "1005": {
@@ -60,40 +60,35 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "779424218233114127"
+                "public": "1739087753971514576"
             },
-            "maxsize": "65909056",
+            "maxsize": "66648660",
             "depotfromapp": "1007"
         },
-        "228988": {
-            "name": "VC 2019 Redist",
+        "228989": {
+            "name": "VC 2022 Redist",
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "29212173",
+            "maxsize": "39042092",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
         "563561": {
             "name": "Alien Swarm: Reactive Drop Content",
-            "maxsize": "4288550110",
+            "maxsize": "4290221842",
             "depotfromapp": "563560",
             "sharedinstall": "2"
         },
         "branches": {
             "public": {
-                "buildid": "8350903",
-                "timeupdated": "1646964563"
-            },
-            "beta": {
-                "buildid": "8817244",
-                "description": "More frequent updates to test new features before they're ready. May be unable to play with people not on the beta branch.",
-                "timeupdated": "1653596045"
+                "buildid": "8869874",
+                "timeupdated": "1654296716"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 14933455,
-    "_sha": "a453fb046ba58fa02eeaa38ab45993ed49120e7f",
-    "_size": 2197
+    "_change_number": 15114663,
+    "_sha": "2f2769d06b07c309340b323b0cd467925ad1c724",
+    "_size": 1977
 }

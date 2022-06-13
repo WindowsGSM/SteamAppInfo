@@ -62,9 +62,9 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "9154949116103824401"
+                "public": "7047544535173110881"
             },
-            "maxsize": "41926040",
+            "maxsize": "42057960",
             "depotfromapp": "1007"
         },
         "1005": {
@@ -81,9 +81,9 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "779424218233114127"
+                "public": "1739087753971514576"
             },
-            "maxsize": "65909056",
+            "maxsize": "66648660",
             "depotfromapp": "1007"
         },
         "1110391": {
@@ -92,11 +92,10 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "3283281044664133949",
-                "preview": "3945324087957125508",
+                "public": "1957359931529362632",
                 "unity-2017.4": "7568905985975118755",
                 "unity-2018": "9065993161126347581",
-                "unity-2020": "4755440838715501434"
+                "unity-2019": "3283281044664133949"
             },
             "maxsize": "1199884611",
             "encryptedmanifests": {
@@ -112,11 +111,10 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "172481565019596423",
-                "preview": "8922130348127930600",
+                "public": "1134282088936762085",
                 "unity-2017.4": "676864980440368611",
                 "unity-2018": "4299994285195357942",
-                "unity-2020": "3349736944787518677"
+                "unity-2019": "172481565019596423"
             },
             "maxsize": "1260475861",
             "encryptedmanifests": {
@@ -128,11 +126,10 @@
         },
         "1110393": {
             "manifests": {
-                "public": "2421966899929852642",
-                "preview": "6247771784644017980",
+                "public": "2433645873857383697",
                 "unity-2017.4": "5514188072839560067",
                 "unity-2018": "8575346071724065576",
-                "unity-2020": "5914259660205351698"
+                "unity-2019": "2421966899929852642"
             },
             "maxsize": "836383564",
             "encryptedmanifests": {
@@ -144,9 +141,10 @@
         },
         "1110394": {
             "manifests": {
-                "public": "5002266391304071192",
+                "public": "3195330915356347056",
                 "unity-2017.4": "5328516740166862532",
-                "unity-2018": "4435653943471569706"
+                "unity-2018": "4435653943471569706",
+                "unity-2019": "5002266391304071192"
             },
             "maxsize": "4591568",
             "encryptedmanifests": {
@@ -158,13 +156,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "8781058",
-                "timeupdated": "1653073668"
+                "buildid": "8914525",
+                "timeupdated": "1654900346"
             },
             "preview": {
-                "buildid": "8819037",
+                "buildid": "8914525",
                 "description": "Public test branch",
-                "timeupdated": "1653618998"
+                "timeupdated": "1654894707"
             },
             "private": {
                 "buildid": "8349941",
@@ -181,15 +179,15 @@
                 "description": "Archived compatibility version 3.20.13.2",
                 "timeupdated": "1605292945"
             },
-            "unity-2020": {
-                "buildid": "8779946",
-                "description": "Unity 2020 LTS",
-                "timeupdated": "1653061774"
+            "unity-2019": {
+                "buildid": "8781058",
+                "description": "Archived compatibility version 3.22.10.1",
+                "timeupdated": "1654268889"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 14936126,
-    "_sha": "c17f1a3805be54a0dc5d0efb3fdcd41ee8b9a51c",
-    "_size": 4462
+    "_change_number": 15089696,
+    "_sha": "6d1626efbbeffd98e3ba6a037e169b3b001c5664",
+    "_size": 4418
 }

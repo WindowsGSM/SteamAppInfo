@@ -34,9 +34,9 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "9154949116103824401"
+                "public": "7047544535173110881"
             },
-            "maxsize": "41926040",
+            "maxsize": "42057960",
             "depotfromapp": "1007"
         },
         "1005": {
@@ -55,60 +55,28 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "779424218233114127"
+                "public": "1739087753971514576"
             },
-            "maxsize": "65909056",
+            "maxsize": "66648660",
             "depotfromapp": "1007"
         },
         "1611741": {
             "name": "BattleBit Remastered Playtest Depot",
             "manifests": {
-                "public": "4246936144811405297"
+                "public": "2218970669997346589"
             },
-            "maxsize": "1437030772",
-            "encryptedmanifests": {
-                "developer": {
-                    "encrypted_gid_2": "5A6F4E1C5110E9AE3080F4D6997C2B8E",
-                    "encrypted_size_2": "515E51EF6438EE24D35DEFF7B05B9003"
-                },
-                "publicqa": {
-                    "encrypted_gid_2": "7D5E15E2A5DC00DF3DBC9AA764F0DB3A",
-                    "encrypted_size_2": "9AE362D1217F959591C0272F527E7B85"
-                },
-                "server": {
-                    "encrypted_gid_2": "58FD993ABE1EB58B3B01BC93B2A877F9",
-                    "encrypted_size_2": "BCFE9632EB4CDAC5308503410EE5AAC4"
-                }
-            },
+            "maxsize": "1439229529",
             "depotfromapp": "1611740"
         },
         "branches": {
             "public": {
                 "buildid": "2513063",
                 "timeupdated": "1518200532"
-            },
-            "developer": {
-                "buildid": "8790392",
-                "description": "developer",
-                "pwdrequired": "1",
-                "timeupdated": "1653289973"
-            },
-            "publicqa": {
-                "buildid": "8783079",
-                "description": "private",
-                "pwdrequired": "1",
-                "timeupdated": "1653101035"
-            },
-            "server": {
-                "buildid": "8790392",
-                "description": "server",
-                "pwdrequired": "1",
-                "timeupdated": "1653289966"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 14911344,
-    "_sha": "f8add1ca15307736c2a14ed0d242b25af5ad22cd",
-    "_size": 2638
+    "_change_number": 15051617,
+    "_sha": "567f28f8c520998615c6c9b0efdce4ae8a583e93",
+    "_size": 1769
 }

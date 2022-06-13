@@ -41,9 +41,9 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "9154949116103824401"
+                "public": "7047544535173110881"
             },
-            "maxsize": "41926040",
+            "maxsize": "42057960",
             "depotfromapp": "1007"
         },
         "1005": {
@@ -62,9 +62,9 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "779424218233114127"
+                "public": "1739087753971514576"
             },
-            "maxsize": "65909056",
+            "maxsize": "66648660",
             "depotfromapp": "1007"
         },
         "228985": {
@@ -108,9 +108,13 @@
                     "encrypted_gid_2": "76833134B8935F231D0EF61686894627",
                     "encrypted_size_2": "90CFA45E09CD1751558029194FE603F6"
                 },
+                "mercuryarts-newbuild": {
+                    "encrypted_gid_2": "37CFBFD255BF576E89280589FCAB5CC6",
+                    "encrypted_size_2": "71C275837009523428B77480F6F8617C"
+                },
                 "newbuild-release": {
-                    "encrypted_gid_2": "CE7687791CD7C95FFC73F0C6026A2E85",
-                    "encrypted_size_2": "16934652B39AE249EBDEFB5BCF403C4C"
+                    "encrypted_gid_2": "81DC09B3581F21AAA2796F022F685071",
+                    "encrypted_size_2": "5E7B5A5BE423893B770CFD3621FFC348"
                 },
                 "oldgame": {
                     "encrypted_gid_2": "E04A3088FA415750B1E6C8981576BFEB",
@@ -140,9 +144,13 @@
                     "encrypted_gid_2": "8623B528342EDAD18CB15685401F0F25",
                     "encrypted_size_2": "303642FD49F18C293229E5D98634BF82"
                 },
+                "mercuryarts-newbuild": {
+                    "encrypted_gid_2": "2DF1442A17B88D1235B0FB954C6D8B00",
+                    "encrypted_size_2": "7A389D4E39E3AF60540D9261C7546476"
+                },
                 "newbuild-release": {
-                    "encrypted_gid_2": "4ED5483C60A9EAE17CC93B94DB2D41CB",
-                    "encrypted_size_2": "E8E84716391911CCD0727C4BF35A3199"
+                    "encrypted_gid_2": "B61A19CDAE78D37F6AFBB23D6C583A75",
+                    "encrypted_size_2": "575DF9B19EA303856EABF17AFAF5147C"
                 },
                 "oldgame": {
                     "encrypted_gid_2": "F6D85B2C9431DF3BB6E58E4A4CC42186",
@@ -169,11 +177,17 @@
                 "pwdrequired": "1",
                 "timeupdated": "1638332370"
             },
+            "mercuryarts-newbuild": {
+                "buildid": "8919415",
+                "description": "Dedicated for Mercury builds",
+                "pwdrequired": "1",
+                "timeupdated": "1655002608"
+            },
             "newbuild-release": {
-                "buildid": "8818529",
+                "buildid": "8927891",
                 "description": "Internal Test Build",
                 "pwdrequired": "1",
-                "timeupdated": "1653611888"
+                "timeupdated": "1655141904"
             },
             "oldgame": {
                 "buildid": "2957919",
@@ -195,7 +209,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14935352,
-    "_sha": "5f2c9559bb5fd622b45274cb0f3a6675a295c93d",
-    "_size": 4648
+    "_change_number": 15112578,
+    "_sha": "2970733e7f40fea0a01e3e37dac6cd3c7524d0f8",
+    "_size": 5131
 }

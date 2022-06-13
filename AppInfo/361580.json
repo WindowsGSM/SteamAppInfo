@@ -43,9 +43,9 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "9154949116103824401"
+                "public": "7047544535173110881"
             },
-            "maxsize": "41926040",
+            "maxsize": "42057960",
             "depotfromapp": "1007"
         },
         "1005": {
@@ -64,17 +64,36 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "779424218233114127"
+                "public": "1739087753971514576"
             },
-            "maxsize": "65909056",
+            "maxsize": "66648660",
             "depotfromapp": "1007"
+        },
+        "228989": {
+            "name": "VC 2022 Redist",
+            "config": {
+                "oslist": "windows"
+            },
+            "maxsize": "39041211",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
         },
         "361581": {
             "name": "Wreckfest Dedicated Server Content",
             "manifests": {
                 "public": "4388237498300550229"
             },
-            "maxsize": "5944041978"
+            "maxsize": "5944041978",
+            "encryptedmanifests": {
+                "bbtest": {
+                    "encrypted_gid_2": "222D3D27F2A397F086266FAFAAF6C19E",
+                    "encrypted_size_2": "FEC91A8E6C10E9B3E691592443F5B6BC"
+                },
+                "qatest": {
+                    "encrypted_gid_2": "D961B5D78F5E9372E07798A257ACD58C",
+                    "encrypted_size_2": "E756742C3719BE6CB30E6D57112D1927"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -82,10 +101,16 @@
                 "timeupdated": "1652347644"
             },
             "bbtest": {
-                "buildid": "8677999",
+                "buildid": "8886617",
                 "description": "dev",
                 "pwdrequired": "1",
-                "timeupdated": "1651682635"
+                "timeupdated": "1654597025"
+            },
+            "qatest": {
+                "buildid": "8886617",
+                "description": "qa test branch",
+                "pwdrequired": "1",
+                "timeupdated": "1654597035"
             }
         }
     },
@@ -96,7 +121,7 @@
         "ignoreexternalfiles": "1"
     },
     "_missing_token": false,
-    "_change_number": 14787887,
-    "_sha": "acdc5c57d15f60d8445a36702fef80f9d47e73ba",
-    "_size": 2073
+    "_change_number": 15045172,
+    "_sha": "b1ce5b63e29ecec58e57fc86e72ba0506a83fed4",
+    "_size": 2704
 }

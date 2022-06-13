@@ -35,9 +35,9 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "9154949116103824401"
+                "public": "7047544535173110881"
             },
-            "maxsize": "41926040",
+            "maxsize": "42057960",
             "depotfromapp": "1007"
         },
         "1005": {
@@ -56,9 +56,9 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "779424218233114127"
+                "public": "1739087753971514576"
             },
-            "maxsize": "65909056",
+            "maxsize": "66648660",
             "depotfromapp": "1007"
         },
         "228984": {
@@ -85,10 +85,18 @@
                 "language": ""
             },
             "manifests": {
-                "public": "9108225407209308788"
+                "public": "7565586680898241698"
             },
-            "maxsize": "669199830",
+            "maxsize": "879765399",
             "encryptedmanifests": {
+                "consoles": {
+                    "encrypted_gid_2": "461C357E030D9C11AF78B7106FF0F72B",
+                    "encrypted_size_2": "EC2F4CA9967FBEF57E0F132ACCC8B4F9"
+                },
+                "historical_internal": {
+                    "encrypted_gid_2": "1DD8402987D9770F2C7EC8D200706B4B",
+                    "encrypted_size_2": "065F960C3F12C9D096A91145BC5B5C4F"
+                },
                 "sdk_test": {
                     "encrypted_gid_2": "9E4FD5F35C7D91E5324A53ED133DF2A2",
                     "encrypted_size_2": "55006E80D3FD87C7E13E5F12ED76D57A"
@@ -98,8 +106,8 @@
                     "encrypted_size_2": "6CEB35BB7DB53DB61900FD40AC5EF3FD"
                 },
                 "staging": {
-                    "encrypted_gid_2": "AA867FBB44896F4D745352701E4C4B0A",
-                    "encrypted_size_2": "4A36DEF16BA2BE2DB0906935CE6BFBEA"
+                    "encrypted_gid_2": "1F1EC9005A35394B41E9F6547FBF9304",
+                    "encrypted_size_2": "972E8E00CB8FFE79774AE53DF6DEA886"
                 }
             }
         },
@@ -110,10 +118,18 @@
                 "language": ""
             },
             "manifests": {
-                "public": "9179600741198371074"
+                "public": "1085749675637240892"
             },
-            "maxsize": "21997568",
+            "maxsize": "22996480",
             "encryptedmanifests": {
+                "consoles": {
+                    "encrypted_gid_2": "9DB7A88F97BE7AF104DA143497AAEA37",
+                    "encrypted_size_2": "171D56CE914921A62718B8F412D09DF8"
+                },
+                "historical_internal": {
+                    "encrypted_gid_2": "43C09248917E71C2B001B610A0AEECEF",
+                    "encrypted_size_2": "8FBCFDFFAE47AC7AB2B053A729F6D686"
+                },
                 "sdk_test": {
                     "encrypted_gid_2": "E123CDCEAF9072E2F4B7EF02D65B82AC",
                     "encrypted_size_2": "63028390B91202C4D7F49F7DB51C694B"
@@ -123,8 +139,8 @@
                     "encrypted_size_2": "45566A475F98898552EF17D18E32F391"
                 },
                 "staging": {
-                    "encrypted_gid_2": "6C46D09BBE8999A84CFFBE45A019604E",
-                    "encrypted_size_2": "D2E7BB800EDB88CA738D04995DA4DBAF"
+                    "encrypted_gid_2": "B88C5BCF0C363952F2AC0D99CD491E6B",
+                    "encrypted_size_2": "5867EE1294B740D47869FB454D5FB496"
                 }
             }
         },
@@ -152,8 +168,20 @@
         },
         "branches": {
             "public": {
+                "buildid": "8919526",
+                "timeupdated": "1655074525"
+            },
+            "consoles": {
+                "buildid": "8629786",
+                "description": "aaa",
+                "pwdrequired": "1",
+                "timeupdated": "1654776950"
+            },
+            "historical_internal": {
                 "buildid": "8135130",
-                "timeupdated": "1643930951"
+                "description": "QA debug branch",
+                "pwdrequired": "1",
+                "timeupdated": "1655151626"
             },
             "sdk_test": {
                 "buildid": "7904137",
@@ -167,15 +195,21 @@
                 "timeupdated": "1645047673"
             },
             "staging": {
-                "buildid": "8629786",
+                "buildid": "8908351",
                 "description": "Prep here before release",
                 "pwdrequired": "1",
-                "timeupdated": "1651020463"
+                "timeupdated": "1654828742"
+            },
+            "staging_alpha": {
+                "buildid": "8919526",
+                "description": "auto-pushed to live for internal testing",
+                "pwdrequired": "1",
+                "timeupdated": "1655006049"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 14634216,
-    "_sha": "8d6ddcc646f8adcc190797575e6617305c1c6480",
-    "_size": 4212
+    "_change_number": 15114735,
+    "_sha": "cf04558a9bb419dfcc045cba5d6eff01360fc050",
+    "_size": 5271
 }

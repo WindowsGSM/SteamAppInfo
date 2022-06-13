@@ -41,9 +41,9 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "9154949116103824401"
+                "public": "7047544535173110881"
             },
-            "maxsize": "41926040",
+            "maxsize": "42057960",
             "depotfromapp": "1007"
         },
         "1005": {
@@ -62,9 +62,9 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "779424218233114127"
+                "public": "1739087753971514576"
             },
-            "maxsize": "65909056",
+            "maxsize": "66648660",
             "depotfromapp": "1007"
         },
         "896661": {
@@ -78,12 +78,16 @@
             "maxsize": "1128991517",
             "encryptedmanifests": {
                 "experimental": {
-                    "encrypted_gid_2": "52D25F0509F7AD268BC9ACBE7ADEC920",
-                    "encrypted_size_2": "5B227E09DBD84DBAF890A9232FDC0E39"
+                    "encrypted_gid_2": "0C43C26F72F10AA5EE3E009019A7BB13",
+                    "encrypted_size_2": "76B892D3D3474AA9A4E5A45B25F8071B"
                 },
                 "internal-test": {
-                    "encrypted_gid_2": "66F8802BFA37A0DB3F488466E45AE3F3",
-                    "encrypted_size_2": "863B7ADF8462DE4A44B218660BE11DF5"
+                    "encrypted_gid_2": "11CD29AF2FD3EFF568EF04ED66F2FF15",
+                    "encrypted_size_2": "8B53A8A410A8E5851430B4D4785889D6"
+                },
+                "public-test": {
+                    "encrypted_gid_2": "C3D9D5994820BA2035A42B6E335192C2",
+                    "encrypted_size_2": "5E874C9D533508ECAC9A27E87C459B60"
                 }
             }
         },
@@ -98,12 +102,16 @@
             "maxsize": "1121450866",
             "encryptedmanifests": {
                 "experimental": {
-                    "encrypted_gid_2": "1D646DE7D00F3E7B6252B1E8FE261C09",
-                    "encrypted_size_2": "95499FA3726A30E79F5927D789B2A8E1"
+                    "encrypted_gid_2": "1C24329EEB60F1EDAFDF7209E4ADC098",
+                    "encrypted_size_2": "8B599E38ED392C0D7554215564A15B42"
                 },
                 "internal-test": {
-                    "encrypted_gid_2": "2386423C3124229AC5AC19D1B857AB04",
-                    "encrypted_size_2": "0E3F47B4B77A1830860AF7B11145DECC"
+                    "encrypted_gid_2": "2461E2A20FB6703F150AA73B6DD36FAD",
+                    "encrypted_size_2": "FBDF777347F502ABCFD2D7F62BC7F10C"
+                },
+                "public-test": {
+                    "encrypted_gid_2": "80DAE33D4903D1D7B21C0E475DF37FFB",
+                    "encrypted_size_2": "196E27B5E79DCFA1DEEE0B726DDBB44F"
                 }
             }
         },
@@ -113,27 +121,27 @@
                 "timeupdated": "1649666670"
             },
             "experimental": {
-                "buildid": "8745538",
+                "buildid": "8913324",
                 "description": "Experimental version of Valheim",
                 "pwdrequired": "1",
-                "timeupdated": "1652682759"
+                "timeupdated": "1654880353"
             },
             "internal-test": {
-                "buildid": "8804765",
+                "buildid": "8833482",
                 "description": "For internal use only",
                 "pwdrequired": "1",
-                "timeupdated": "1653461165"
+                "timeupdated": "1653890050"
             },
             "public-test": {
-                "buildid": "8449485",
+                "buildid": "8866107",
                 "description": "Public test version of Valheim. Please backup you save data before using.",
                 "pwdrequired": "1",
-                "timeupdated": "1649071554"
+                "timeupdated": "1654260289"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 14914152,
-    "_sha": "46d8afecacefac2af360d4a0b230bb8d724e8468",
-    "_size": 3191
+    "_change_number": 15086717,
+    "_sha": "0c7b4a71f58d14d0db7c2850b230f3de77b2dad8",
+    "_size": 3490
 }
