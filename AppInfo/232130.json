@@ -77,15 +77,10 @@
         "232131": {
             "name": "Killing Floor 2 - Dedicated Server Depot",
             "manifests": {
-                "public": "4077271959983488915",
-                "preview": "8224668588093998114"
+                "public": "2537247530955381091"
             },
-            "maxsize": "27862929717",
+            "maxsize": "27863977993",
             "encryptedmanifests": {
-                "beta": {
-                    "encrypted_gid_2": "FE6310B7583F24536D11C5CFE19E2579",
-                    "encrypted_size_2": "177E3FA2D30158D55115BF3A34D1505E"
-                },
                 "lagtest": {
                     "encrypted_gid_2": "A8AA6FBD896AD8EA0E6FA510CE9ECFB3",
                     "encrypted_size_2": "271CBDFDA527FC5A56EB1E6A62C092F1"
@@ -110,8 +105,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "8374932",
-                "timeupdated": "1648561989"
+                "buildid": "8849451",
+                "timeupdated": "1655215367"
             },
             "beta": {
                 "buildid": "8849451",
@@ -134,10 +129,6 @@
                 "pwdrequired": "1",
                 "timeupdated": "1496158215"
             },
-            "preview": {
-                "buildid": "8791359",
-                "timeupdated": "1653400532"
-            },
             "qa_test": {
                 "buildid": "7480914",
                 "description": "QA Internal",
@@ -152,7 +143,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15018477,
-    "_sha": "0045ed8d0251f791ff76658712f50e0e681f7ef8",
-    "_size": 3432
+    "_change_number": 15123037,
+    "_sha": "2a27156eb05100ce0e44726a40608a51580aae33",
+    "_size": 3173
 }
