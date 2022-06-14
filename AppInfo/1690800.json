@@ -72,9 +72,10 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "8617299950765558656"
+                "public": "8617299950765558656",
+                "experimental": "4934920522213552842"
             },
-            "maxsize": "8782429489",
+            "maxsize": "9383884801",
             "encryptedmanifests": {
                 "integration-test": {
                     "encrypted_gid_2": "930CDF3434294AE3B5B93DDD06943EF9",
@@ -115,9 +116,10 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "7363480756701588226"
+                "public": "7363480756701588226",
+                "experimental": "7936949972892205723"
             },
-            "maxsize": "6403156444",
+            "maxsize": "6893462937",
             "encryptedmanifests": {
                 "integration-test": {
                     "encrypted_gid_2": "48D55D81FF4FD9A851AC5BC2B38C2198",
@@ -159,8 +161,8 @@
                 "timeupdated": "1653414057"
             },
             "experimental": {
-                "buildid": "8719350",
-                "timeupdated": "1653414087"
+                "buildid": "8933556",
+                "timeupdated": "1655218907"
             },
             "integration-test": {
                 "buildid": "7816438",
@@ -205,7 +207,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15122965,
-    "_sha": "e2c8e0eeea3043e27dc2d0fb33e438ea4e32ab64",
-    "_size": 5213
+    "_change_number": 15123613,
+    "_sha": "78793401fe4a09cd03572afe1ff803bea31c3256",
+    "_size": 5297
 }
