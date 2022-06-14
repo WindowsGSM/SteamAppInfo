@@ -100,9 +100,13 @@
                     "encrypted_gid_2": "40E02AF9DCA7FF1E3C4EC03BD57A2F2C",
                     "encrypted_size_2": "C1CB1E95892549EE814A916B6C091CAC"
                 },
+                "patching": {
+                    "encrypted_gid_2": "3D93821D9AB6114F4EA97CF52D2B43E8",
+                    "encrypted_size_2": "E2E5271F615D416E27161D24FBC03DA8"
+                },
                 "staging": {
-                    "encrypted_gid_2": "015EABF7A72C0E7CDA5A9A8B21493623",
-                    "encrypted_size_2": "42E4B0C2AFD37FA47374A126228BA028"
+                    "encrypted_gid_2": "C7DA3529F8D226310304C95E1A9A0416",
+                    "encrypted_size_2": "847FFA41DE2A8792CA9310D3795A23A2"
                 }
             }
         },
@@ -139,9 +143,13 @@
                     "encrypted_gid_2": "101A6DD62A01E1BC9C01A6F3D448DFEA",
                     "encrypted_size_2": "585B4D4568C59B0D67EDA344F27DE8B1"
                 },
+                "patching": {
+                    "encrypted_gid_2": "D2251D712D2F692785AACABA546F7397",
+                    "encrypted_size_2": "D64E92F22C44376E386DCB8A4433CC83"
+                },
                 "staging": {
-                    "encrypted_gid_2": "CC577768239D193764115B62F256EE5A",
-                    "encrypted_size_2": "E208ABDE2AC56630DAE85F3A0AFE5CE0"
+                    "encrypted_gid_2": "AE22CEF300B6DB74055DDA467974C070",
+                    "encrypted_size_2": "B2FBFD80033D252C0C2F6F3EECC82609"
                 }
             }
         },
@@ -185,19 +193,19 @@
                 "timeupdated": "1654823063"
             },
             "patching": {
-                "buildid": "8719350",
-                "pwdrequired": "1",
-                "timeupdated": "1652278488"
-            },
-            "staging": {
                 "buildid": "8926579",
                 "pwdrequired": "1",
-                "timeupdated": "1655131653"
+                "timeupdated": "1655209219"
+            },
+            "staging": {
+                "buildid": "8933556",
+                "pwdrequired": "1",
+                "timeupdated": "1655209001"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15110003,
-    "_sha": "5cdb9d25baa6be999f22eec0fcab266e11152738",
-    "_size": 4921
+    "_change_number": 15121999,
+    "_sha": "a2a7256d8221fef2da384c95beca814f3e48b44d",
+    "_size": 5213
 }
