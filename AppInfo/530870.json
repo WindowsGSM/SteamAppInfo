@@ -76,7 +76,7 @@
         "530871": {
             "name": "Dedicated Server Content",
             "manifests": {
-                "public": "5620732264038209011",
+                "public": "5603911577213060869",
                 "alpha10": "4139613444459975471",
                 "alpha11": "7348305962190994729",
                 "alpha12": "2395002668044090563",
@@ -89,28 +89,20 @@
             },
             "maxsize": "14280518900",
             "encryptedmanifests": {
-                "closedalpha": {
-                    "encrypted_gid_2": "239D363C8D8BD75085D6C288974803A1",
-                    "encrypted_size_2": "C4C5C90A5B821B224F74931F6CE6793E"
-                },
-                "eleononly": {
-                    "encrypted_gid_2": "B18BFF62E9F78CA83606797A363A68C8",
-                    "encrypted_size_2": "7BB4B44189E10FAE6E78AD851A117FF2"
-                },
                 "eleontest": {
                     "encrypted_gid_2": "F79D04155AD76B2C2359A1764CCDAE47",
                     "encrypted_size_2": "6D40285F8FDCD6B4E15B079113E14103"
                 },
-                "internal": {
-                    "encrypted_gid_2": "F659A5953343CF82106347894AD2D5AE",
-                    "encrypted_size_2": "4CBDA83F25B3C53D1E013F0A6FCC221B"
+                "steamtest": {
+                    "encrypted_gid_2": "BB4D4DE6DEF1551F1AEBCBB080D04D3F",
+                    "encrypted_size_2": "D223703860A26A2B99B6A375983958A9"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "8553894",
-                "timeupdated": "1649925397"
+                "buildid": "8941088",
+                "timeupdated": "1655302112"
             },
             "alpha10": {
                 "buildid": "4347212",
@@ -190,7 +182,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15133388,
-    "_sha": "557f7322219be2b95f18529af90904f26ed4007d",
-    "_size": 4671
+    "_change_number": 15134764,
+    "_sha": "54bf044b9c81e03df45d29fc88e2ec79da4fc9eb",
+    "_size": 4376
 }
