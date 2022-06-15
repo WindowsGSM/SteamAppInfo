@@ -66,17 +66,39 @@
                 "public": "2157006426192258194"
             },
             "maxsize": "1438830632",
+            "encryptedmanifests": {
+                "developer": {
+                    "encrypted_gid_2": "D9654154C8B1706E71D4AC8D0F9E618F",
+                    "encrypted_size_2": "E5178F5A15A95B163A90DF1E51683534"
+                },
+                "server": {
+                    "encrypted_gid_2": "3EE6B1F674ED9E74D00149D461B94D6C",
+                    "encrypted_size_2": "34D97FFE5E7CCC9009D85CA97770381A"
+                }
+            },
             "depotfromapp": "1611740"
         },
         "branches": {
             "public": {
                 "buildid": "2513063",
                 "timeupdated": "1518200532"
+            },
+            "developer": {
+                "buildid": "8944788",
+                "description": "developer",
+                "pwdrequired": "1",
+                "timeupdated": "1655329882"
+            },
+            "server": {
+                "buildid": "8944788",
+                "description": "server",
+                "pwdrequired": "1",
+                "timeupdated": "1655329890"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15129916,
-    "_sha": "9a4d3ff14bcce6e03c3396313b6829da3ba02361",
-    "_size": 1769
+    "_change_number": 15139269,
+    "_sha": "2465a971706d8dad46ac1664684c5fe87e860d75",
+    "_size": 2360
 }
