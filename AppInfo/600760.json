@@ -23,22 +23,15 @@
         "launch": {
             "0": {
                 "executable": "rocketstation_DedicatedServer.exe",
-                "description": "Dedicated Server with GUI settings",
                 "type": "server",
                 "config": {
                     "oslist": "windows",
                     "osarch": "64"
-                }
-            },
-            "1": {
-                "executable": "rocketstation_DedicatedServer.exe",
-                "arguments": "-batchmode",
-                "description": "Dedicated Server on background",
-                "type": "server",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64"
-                }
+                },
+                "description_loc": {
+                    "english": "Dedicated Server"
+                },
+                "description": "Dedicated Server"
             },
             "2": {
                 "executable": "rocketstation_DedicatedServer.x86_64",
@@ -69,8 +62,7 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "8416718073037768444",
-                "beta": "5411497649659310579",
+                "public": "5411497649659310579",
                 "previous": "5039642620781019932"
             },
             "maxsize": "4273241855"
@@ -82,16 +74,15 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "493239240341064963",
-                "beta": "2497453200897770684",
+                "public": "2497453200897770684",
                 "previous": "1781465093048227754"
             },
             "maxsize": "4393336488"
         },
         "branches": {
             "public": {
-                "buildid": "8939047",
-                "timeupdated": "1655273029"
+                "buildid": "8952659",
+                "timeupdated": "1655426783"
             },
             "beta": {
                 "buildid": "8952659",
@@ -105,7 +96,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15150395,
-    "_sha": "5a38908830bde2813d154ebeea5f0ee0c905c772",
-    "_size": 2434
+    "_change_number": 15151274,
+    "_sha": "0742085f60c1fe07c9f06eaa25abd40c6cf6cab4",
+    "_size": 2174
 }
