@@ -89,6 +89,10 @@
                     "encrypted_gid_2": "222D3D27F2A397F086266FAFAAF6C19E",
                     "encrypted_size_2": "FEC91A8E6C10E9B3E691592443F5B6BC"
                 },
+                "developer": {
+                    "encrypted_gid_2": "2FBB4BE18EBE5029D11D6D67AC05B81E",
+                    "encrypted_size_2": "C29BFA1FA1C008FD2005B5A5D302871D"
+                },
                 "qatest": {
                     "encrypted_gid_2": "D961B5D78F5E9372E07798A257ACD58C",
                     "encrypted_size_2": "E756742C3719BE6CB30E6D57112D1927"
@@ -106,6 +110,12 @@
                 "pwdrequired": "1",
                 "timeupdated": "1654597025"
             },
+            "developer": {
+                "buildid": "8886617",
+                "description": "beta update",
+                "pwdrequired": "1",
+                "timeupdated": "1655453389"
+            },
             "qatest": {
                 "buildid": "8886617",
                 "description": "qa test branch",
@@ -121,7 +131,7 @@
         "ignoreexternalfiles": "1"
     },
     "_missing_token": false,
-    "_change_number": 15150439,
-    "_sha": "f9963eceaf9184ad9fc6420e0f4374ddd7a6f1e3",
-    "_size": 2704
+    "_change_number": 15154223,
+    "_sha": "924354dbc65b6ae89109f9bb6f30c2f2f737d84a",
+    "_size": 2989
 }
