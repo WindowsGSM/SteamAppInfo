@@ -63,20 +63,32 @@
         "1611741": {
             "name": "BattleBit Remastered Playtest Depot",
             "manifests": {
-                "public": "1510462567561114639"
+                "public": "2559598146001950392"
             },
-            "maxsize": "1439280298",
+            "maxsize": "1442722142",
+            "encryptedmanifests": {
+                "developer": {
+                    "encrypted_gid_2": "0649C3F8F77B34635F044E91F2438F14",
+                    "encrypted_size_2": "C1611659B5F94A63A101CA4AD38743EA"
+                }
+            },
             "depotfromapp": "1611740"
         },
         "branches": {
             "public": {
                 "buildid": "2513063",
                 "timeupdated": "1518200532"
+            },
+            "developer": {
+                "buildid": "8974825",
+                "description": "developer",
+                "pwdrequired": "1",
+                "timeupdated": "1655770490"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15150439,
-    "_sha": "6cccc8bb818449920b8133b76fa5eecf742aebbd",
-    "_size": 1769
+    "_change_number": 15195205,
+    "_sha": "39ea6cd4f272e9e13197e5bb0a8cfe5b1e72cf10",
+    "_size": 2086
 }
