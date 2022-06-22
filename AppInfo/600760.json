@@ -66,7 +66,13 @@
                 "beta": "8987332744087212150",
                 "previous": "5039642620781019932"
             },
-            "maxsize": "4273241855"
+            "maxsize": "4273241855",
+            "encryptedmanifests": {
+                "devbranch": {
+                    "encrypted_gid_2": "834FE482341DE6EDD3B3C1D85FF7CA91",
+                    "encrypted_size_2": "27A63B0706C83B5EF1D92E2130CA12AA"
+                }
+            }
         },
         "600762": {
             "name": "Stationeers Dedicated Server(Linux)",
@@ -79,7 +85,13 @@
                 "beta": "3939593608529487686",
                 "previous": "1781465093048227754"
             },
-            "maxsize": "4393336488"
+            "maxsize": "4393336488",
+            "encryptedmanifests": {
+                "devbranch": {
+                    "encrypted_gid_2": "E2C0E2728DF0E693789C67D65208226C",
+                    "encrypted_size_2": "E0F5B6C34AE888D0DB25A40FEECF74E8"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -91,6 +103,12 @@
                 "description": "beta branch",
                 "timeupdated": "1655903812"
             },
+            "devbranch": {
+                "buildid": "8987035",
+                "description": "dev branch for latest testing",
+                "pwdrequired": "1",
+                "timeupdated": "1655911622"
+            },
             "previous": {
                 "buildid": "6903555",
                 "timeupdated": "1626672216"
@@ -98,7 +116,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15201590,
-    "_sha": "771e92d236a858230c900bd1bc49aa9a94981e6b",
-    "_size": 2242
+    "_change_number": 15202877,
+    "_sha": "3b620b3030d46b4c84518b9b74df8d0960223de4",
+    "_size": 2760
 }
