@@ -62,19 +62,37 @@
             "manifests": {
                 "public": "457862242682051079"
             },
-            "maxsize": "98733119"
+            "maxsize": "98733119",
+            "encryptedmanifests": {
+                "qavalidation": {
+                    "encrypted_gid_2": "CEE3BD4E29923FA7DEC43F62DFF060C8",
+                    "encrypted_size_2": "F30690EF34E573F18511D963B7F994C7"
+                }
+            }
         },
         "1836202": {
             "manifests": {
                 "public": "2176417860065415772"
             },
-            "maxsize": "70484682103"
+            "maxsize": "70484682103",
+            "encryptedmanifests": {
+                "qavalidation": {
+                    "encrypted_gid_2": "09ECE3B904724EC497D5D15AC9B071FA",
+                    "encrypted_size_2": "3D6C70C58F086AD10AB00314855920CF"
+                }
+            }
         },
         "1836203": {
             "manifests": {
                 "public": "7749494397971103927"
             },
-            "maxsize": "3078816029"
+            "maxsize": "3078816029",
+            "encryptedmanifests": {
+                "qavalidation": {
+                    "encrypted_gid_2": "F78A73E61A9E26C693F576B0BFC75ADF",
+                    "encrypted_size_2": "D5CDA753206AC09775B09D1D4BE5CC9B"
+                }
+            }
         },
         "1836204": {
             "manifests": {
@@ -94,14 +112,14 @@
                 "timeupdated": "1654113039"
             },
             "qavalidation": {
-                "buildid": "8851883",
+                "buildid": "9001639",
                 "pwdrequired": "1",
-                "timeupdated": "1654093236"
+                "timeupdated": "1656079247"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15129916,
-    "_sha": "352a083a833983b4ccf58f4423069e185f63b691",
-    "_size": 2152
+    "_change_number": 15227498,
+    "_sha": "ec08c8e1d25b17c5054661c7c2b9dc8242ec5d95",
+    "_size": 2704
 }
