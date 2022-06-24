@@ -81,17 +81,13 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "5782225179937932818"
+                "public": "4597463123602570316"
             },
-            "maxsize": "1980230631",
+            "maxsize": "2142556213",
             "encryptedmanifests": {
                 "debug": {
                     "encrypted_gid_2": "A9775D2F2914962F89F76AFBF1F60E4C",
                     "encrypted_size_2": "AC846E65BE96040E626E7572B5805F4E"
-                },
-                "indev": {
-                    "encrypted_gid_2": "28E8E8A2E05BC7117E0135953E877F12",
-                    "encrypted_size_2": "3FCE03A911704345E60D10B0BDB8CC12"
                 }
             }
         },
@@ -100,18 +96,15 @@
             "config": {
                 "oslist": "linux"
             },
-            "manifests": {},
-            "encryptedmanifests": {
-                "indev": {
-                    "encrypted_gid_2": "6705D21CA1000939F8EB2A70B3CA82A6",
-                    "encrypted_size_2": "E5695915762BF72D8F581910C887E16B"
-                }
-            }
+            "manifests": {
+                "public": "1642149473667962595"
+            },
+            "maxsize": "3145308221"
         },
         "branches": {
             "public": {
-                "buildid": "8567216",
-                "timeupdated": "1650063455"
+                "buildid": "8999390",
+                "timeupdated": "1656058492"
             },
             "debug": {
                 "buildid": "8187461",
@@ -128,7 +121,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15223883,
-    "_sha": "0d416f1fcf0cb158bb781a69b0bc59b6f9baca36",
-    "_size": 2888
+    "_change_number": 15224529,
+    "_sha": "01e50719d10ebee2f76d9e49d0ee41b2ea5918c5",
+    "_size": 2631
 }
