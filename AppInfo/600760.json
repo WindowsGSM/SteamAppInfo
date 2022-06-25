@@ -62,17 +62,10 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "8768053496932343910",
-                "beta": "9151332661950404819",
+                "public": "9151332661950404819",
                 "previous": "5039642620781019932"
             },
-            "maxsize": "4273241855",
-            "encryptedmanifests": {
-                "devbranch": {
-                    "encrypted_gid_2": "770C3474509461930F4A13B63BDBC72B",
-                    "encrypted_size_2": "F7B218EE51F1135D90049CB92696BF60"
-                }
-            }
+            "maxsize": "4273241855"
         },
         "600762": {
             "name": "Stationeers Dedicated Server(Linux)",
@@ -81,22 +74,15 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "5227421350431904351",
-                "beta": "4988721180279122172",
+                "public": "4988721180279122172",
                 "previous": "1781465093048227754"
             },
-            "maxsize": "4393336488",
-            "encryptedmanifests": {
-                "devbranch": {
-                    "encrypted_gid_2": "99FB46C2876E4B16782D398A6B87CF2D",
-                    "encrypted_size_2": "E2DDA7B9044FE0D7FA33E2A360A9A5FB"
-                }
-            }
+            "maxsize": "4393336488"
         },
         "branches": {
             "public": {
-                "buildid": "8990723",
-                "timeupdated": "1655959544"
+                "buildid": "9005844",
+                "timeupdated": "1656150763"
             },
             "beta": {
                 "buildid": "9005844",
@@ -116,7 +102,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15234645,
-    "_sha": "e1f8cfb601fb7f5a415b21850a1992c6269fb56c",
-    "_size": 2760
+    "_change_number": 15234665,
+    "_sha": "ad74b8a94ee2066f949e66cdf836acf44dcff0cf",
+    "_size": 2330
 }
