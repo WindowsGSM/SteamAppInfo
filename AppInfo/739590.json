@@ -140,13 +140,17 @@
                 "9.5.1": "4881741499450376886",
                 "9.5.2": "4047576658705528939",
                 "playtest": "5483524320180785313",
-                "staging": "860271806477812439"
+                "staging": "2477735681900039282"
             },
-            "maxsize": "248665754",
+            "maxsize": "248340666",
             "encryptedmanifests": {
                 "develop": {
                     "encrypted_gid_2": "29C8175C7990374256DD9DD6D85B407D",
                     "encrypted_size_2": "B7CF0D3091FC40C798985E5B85444047"
+                },
+                "release": {
+                    "encrypted_gid_2": "067218AD50C9B30EBCB9747FFF0CFE3A",
+                    "encrypted_size_2": "8BE491D8974CEFDBD66125741A750947"
                 },
                 "steam_china_only": {
                     "encrypted_gid_2": "96BCDF63230826BB03A32328DE22D7DC",
@@ -179,13 +183,17 @@
                 "9.5.1": "2541185501723368506",
                 "9.5.2": "1373558928190265978",
                 "playtest": "4365316806427984962",
-                "staging": "2016602655600088299"
+                "staging": "3484034231342677106"
             },
-            "maxsize": "472099216",
+            "maxsize": "471771136",
             "encryptedmanifests": {
                 "develop": {
                     "encrypted_gid_2": "4EA9C4F248C4B416C2BADEEF33CB16FD",
                     "encrypted_size_2": "1E176902EE48A8EF2D6D2F65E54AE92B"
+                },
+                "release": {
+                    "encrypted_gid_2": "8FD5ED1032A38D6C68DE5C26EB032554",
+                    "encrypted_size_2": "9F9E4E3C83A74A1FAF5CD99B0670AA06"
                 },
                 "steam_china_only": {
                     "encrypted_gid_2": "245596E72C423AAF285C31068C766F9B",
@@ -218,13 +226,17 @@
                 "9.5.1": "7759319556009712904",
                 "9.5.2": "8738294229502498911",
                 "playtest": "3287986472526927847",
-                "staging": "7785724341561206638"
+                "staging": "8386472003067132376"
             },
-            "maxsize": "170290472",
+            "maxsize": "169965384",
             "encryptedmanifests": {
                 "develop": {
                     "encrypted_gid_2": "0083D7D1E1BFFE92C9A70EBD8732A93E",
                     "encrypted_size_2": "536D8FEC7303820DCDA8E7FB15DCBA93"
+                },
+                "release": {
+                    "encrypted_gid_2": "4CEFAC26D051195C784362F652655504",
+                    "encrypted_size_2": "5DC6FA16F4769110D56E33A1C13A2739"
                 },
                 "steam_china_only": {
                     "encrypted_gid_2": "726AA91BC4FD4C558AF914AEDFC155D1",
@@ -257,13 +269,17 @@
                 "9.5.1": "7624471853410799051",
                 "9.5.2": "4362661072800030133",
                 "playtest": "4229087345517444578",
-                "staging": "5722129301823272159"
+                "staging": "7432321331492021982"
             },
-            "maxsize": "170254296",
+            "maxsize": "169929208",
             "encryptedmanifests": {
                 "develop": {
                     "encrypted_gid_2": "636C00A234008AF35569E6660BF39A23",
                     "encrypted_size_2": "50D6146CBDF5F27010B55A335DAE69DA"
+                },
+                "release": {
+                    "encrypted_gid_2": "96D783B68B1092DC8CF3510DBE9DDF4B",
+                    "encrypted_size_2": "462698D600126DCAC3C147872535BE22"
                 },
                 "steam_china_only": {
                     "encrypted_gid_2": "06AD69DF58895317475A4A620F43D937",
@@ -396,15 +412,15 @@
                 "timeupdated": "1650953223"
             },
             "release": {
-                "buildid": "8988946",
+                "buildid": "9004934",
                 "description": "Eco Server Release Builds",
                 "pwdrequired": "1",
-                "timeupdated": "1655931746"
+                "timeupdated": "1656124275"
             },
             "staging": {
-                "buildid": "8996370",
+                "buildid": "9004827",
                 "description": "Eco Server Staging Builds",
-                "timeupdated": "1656013519"
+                "timeupdated": "1656122181"
             },
             "steam_china_only": {
                 "buildid": "8838417",
@@ -415,7 +431,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15224680,
-    "_sha": "a803d4549fcbb9ac310d80d8254852026bacd3f8",
-    "_size": 10293
+    "_change_number": 15232815,
+    "_sha": "823156107d2fcb6e0c1b2b82950a17b47118592f",
+    "_size": 10874
 }
