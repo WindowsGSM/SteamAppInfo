@@ -93,15 +93,10 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "7024574701112090720",
-                "public-beta": "9041139426033264575"
+                "public": "9041139426033264575"
             },
             "maxsize": "656747419",
             "encryptedmanifests": {
-                "ava-test": {
-                    "encrypted_gid_2": "77A223E1DC7688237B020C0DD62F77E3",
-                    "encrypted_size_2": "1AF88052DEC59174D05C46D2AA3E39A2"
-                },
                 "beryl-test": {
                     "encrypted_gid_2": "F87BAAC7C41751EF8D673E3DBE2F99D1",
                     "encrypted_size_2": "5C87F6FF76F7C46BB22A7D28BBC1E236"
@@ -121,10 +116,6 @@
                 "mith-test": {
                     "encrypted_gid_2": "FA579A8620259BD0576450772928B29F",
                     "encrypted_size_2": "CBB06CE98C05A62E2799908C979ACEEC"
-                },
-                "mr-testing": {
-                    "encrypted_gid_2": "D478D031CCCA4273F9DEC6F01723B574",
-                    "encrypted_size_2": "C74233B0ADF28D789E7A84785C93105B"
                 },
                 "nightly": {
                     "encrypted_gid_2": "48BAF835F89522477B2A11BE3B908614",
@@ -159,15 +150,10 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "6981672770202319928",
-                "public-beta": "3109779163988148997"
+                "public": "3109779163988148997"
             },
             "maxsize": "486984527",
             "encryptedmanifests": {
-                "ava-test": {
-                    "encrypted_gid_2": "026355C27C97C13788FB8D6A2DE0FB50",
-                    "encrypted_size_2": "29B7BE1658D09EB6A2FA4A6760BCED7E"
-                },
                 "beryl-test": {
                     "encrypted_gid_2": "29194ECCAF97B36E5D6ECF5BB1C2DCB1",
                     "encrypted_size_2": "0F399A8F2FBB1EED14EFF5503E18FAD9"
@@ -187,10 +173,6 @@
                 "mith-test": {
                     "encrypted_gid_2": "277DDABA7A15B46B1808298DE015C7E3",
                     "encrypted_size_2": "7F0E4C477728A77B5F92E9D4BC5904FD"
-                },
-                "mr-testing": {
-                    "encrypted_gid_2": "37B56D1A81E2C1A121E39EB99140ECE5",
-                    "encrypted_size_2": "4C123540A2871B98368924C4CFEC2A34"
                 },
                 "nightly": {
                     "encrypted_gid_2": "F310F8F3D95226777F7A507F3D79F5BA",
@@ -220,8 +202,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "8538472",
-                "timeupdated": "1649786186"
+                "buildid": "8997081",
+                "timeupdated": "1656179456"
             },
             "ava-test": {
                 "buildid": "8997081",
@@ -309,7 +291,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15233100,
-    "_sha": "ead66578821098706fa3550236db32a75dcfcc8b",
-    "_size": 8630
+    "_change_number": 15237036,
+    "_sha": "9e503b845470664c3eb2a4655657f21a27822ce6",
+    "_size": 7960
 }
