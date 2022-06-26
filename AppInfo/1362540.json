@@ -71,9 +71,9 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "9020978770176072330"
+                "public": "3719251906222777831"
             },
-            "maxsize": "9199479000",
+            "maxsize": "9186435946",
             "encryptedmanifests": {
                 "commanderthing": {
                     "encrypted_gid_2": "42D3CA1147A7847DA740D6E4C1E7B0F5",
@@ -82,13 +82,17 @@
                 "demo": {
                     "encrypted_gid_2": "E3929FD256CA3F32AB925B8642643A65",
                     "encrypted_size_2": "B4819664A3A77519BB56F2BAB932C237"
+                },
+                "demobeta": {
+                    "encrypted_gid_2": "91D13BA767D1A3FA0C51426946F66C0B",
+                    "encrypted_size_2": "AE371DBC9480712076C6CF87925FF7CF"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "9002658",
-                "timeupdated": "1656246937"
+                "buildid": "9009492",
+                "timeupdated": "1656252860"
             },
             "commanderthing": {
                 "buildid": "8648414",
@@ -108,7 +112,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15241297,
-    "_sha": "eff5366acf00a4398f442ef29699fa39805103ac",
-    "_size": 2384
+    "_change_number": 15241608,
+    "_sha": "21d12a0897ba1f3a9b29150204891b3afa904b38",
+    "_size": 2530
 }
