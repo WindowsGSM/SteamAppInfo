@@ -47,7 +47,17 @@
             "manifests": {
                 "public": "4840474377929010894"
             },
-            "maxsize": "3759121254"
+            "maxsize": "3759121254",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "3E3959B956D213F8CCCBBD357B2F0CD0",
+                    "encrypted_size_2": "C923075883BBA5FDB1C5CCA097B5D0F1"
+                },
+                "testing": {
+                    "encrypted_gid_2": "8B325AC608BC348BE96F87C5A01F6CC6",
+                    "encrypted_size_2": "2544909E292D9A17E7A259C541756FAA"
+                }
+            }
         },
         "629802": {
             "name": "MORDHAU Dedicated Server Linux",
@@ -58,7 +68,17 @@
             "manifests": {
                 "public": "6760475023639669845"
             },
-            "maxsize": "4995954181"
+            "maxsize": "4995954181",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "F6A79E6C8F78E10AC164A396F806A0CF",
+                    "encrypted_size_2": "3A24FBB1B2CA14571B2A36E817302EC9"
+                },
+                "testing": {
+                    "encrypted_gid_2": "CFE9E6D4872F96B45E2EFE889C9AEF7B",
+                    "encrypted_size_2": "B67395A9A09723ED52AF38FB85A96649"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -66,19 +86,19 @@
                 "timeupdated": "1655996807"
             },
             "development": {
-                "buildid": "8993607",
+                "buildid": "9012832",
                 "pwdrequired": "1",
-                "timeupdated": "1655987450"
+                "timeupdated": "1656321840"
             },
             "testing": {
-                "buildid": "8993607",
+                "buildid": "9012832",
                 "pwdrequired": "1",
-                "timeupdated": "1655987464"
+                "timeupdated": "1656321846"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15214982,
-    "_sha": "2d7efe6a8cf91c6c69fea4d232a546367622b2cd",
-    "_size": 1676
+    "_change_number": 15247351,
+    "_sha": "9bbe949a69a0b42bc37f1b2fdace34c22cc4a55f",
+    "_size": 2332
 }
