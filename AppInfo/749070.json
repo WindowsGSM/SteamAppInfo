@@ -56,7 +56,13 @@
                 "public": "8176212000364113015",
                 "previous_version": "4257197254797683145"
             },
-            "maxsize": "932376344"
+            "maxsize": "932376344",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "A18C018B5DE58E82C5A7053505454F34",
+                    "encrypted_size_2": "1DA982D0CD55B2C3B5FB770A05798B47"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -64,9 +70,9 @@
                 "timeupdated": "1656267428"
             },
             "development": {
-                "buildid": "9010040",
+                "buildid": "9015474",
                 "pwdrequired": "1",
-                "timeupdated": "1656267137"
+                "timeupdated": "1656349515"
             },
             "previous_version": {
                 "buildid": "8389597",
@@ -80,7 +86,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15242669,
-    "_sha": "a34857131694c87b58a7018ec7afd29e80bb0818",
-    "_size": 1766
+    "_change_number": 15251573,
+    "_sha": "61a47c68636bde70d6ca1c90fd2003d682769c10",
+    "_size": 1949
 }
