@@ -117,6 +117,10 @@
                     "encrypted_gid_2": "FB4D08EB2091EB311E40E11756134F68",
                     "encrypted_size_2": "CBB06CE98C05A62E2799908C979ACEEC"
                 },
+                "mr-testing": {
+                    "encrypted_gid_2": "7DEFBF25601DFE4E37D12D91F49A4796",
+                    "encrypted_size_2": "248E1872765F23738DA76FF770491BE0"
+                },
                 "nightly": {
                     "encrypted_gid_2": "502934D14B00C6F077E5E8838FB1AE28",
                     "encrypted_size_2": "B36F5FF7B42B410B396EA0C2DF965946"
@@ -173,6 +177,10 @@
                 "mith-test": {
                     "encrypted_gid_2": "F8283420A31F3ABCA5809C765CB69C8E",
                     "encrypted_size_2": "7F0E4C477728A77B5F92E9D4BC5904FD"
+                },
+                "mr-testing": {
+                    "encrypted_gid_2": "FC8EAF6D5479F2C9508E78E20BFD56E7",
+                    "encrypted_size_2": "11C73C72F5588C2A91BA298E7A106EFF"
                 },
                 "nightly": {
                     "encrypted_gid_2": "A15BE844206A3C7A43783A90F517E0B5",
@@ -242,10 +250,10 @@
                 "timeupdated": "1656280373"
             },
             "mr-testing": {
-                "buildid": "8997081",
+                "buildid": "9016604",
                 "description": "Multipurpose merge request testing branch for internal use.\t",
                 "pwdrequired": "1",
-                "timeupdated": "1656087540"
+                "timeupdated": "1656363329"
             },
             "nightly": {
                 "buildid": "9011443",
@@ -286,7 +294,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15253381,
-    "_sha": "dbd64424368c1041b7b051b27dd457ee5ecd77b6",
-    "_size": 7822
+    "_change_number": 15253540,
+    "_sha": "e550d07bd11b9e65315d4f87f9145962f6becba5",
+    "_size": 8118
 }
