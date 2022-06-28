@@ -119,7 +119,13 @@
             "manifests": {
                 "public": "7967899684183630964"
             },
-            "maxsize": "205330275"
+            "maxsize": "205330275",
+            "encryptedmanifests": {
+                "buildtest": {
+                    "encrypted_gid_2": "1A19FA683A292AE70908261180064526",
+                    "encrypted_size_2": "3D2F8EA48265B5AF2DA3EB6A8F26F947"
+                }
+            }
         },
         "1169373": {
             "config": {
@@ -129,7 +135,13 @@
             "manifests": {
                 "public": "8636122735948568970"
             },
-            "maxsize": "221947363"
+            "maxsize": "221947363",
+            "encryptedmanifests": {
+                "buildtest": {
+                    "encrypted_gid_2": "F69FEEFBAAD1622BDEBAC114F4E64AD2",
+                    "encrypted_size_2": "91911300425AFD84F8D531F8638A6A37"
+                }
+            }
         },
         "1169374": {
             "config": {
@@ -138,7 +150,13 @@
             "manifests": {
                 "public": "8515646035791643022"
             },
-            "maxsize": "230750816"
+            "maxsize": "230750816",
+            "encryptedmanifests": {
+                "buildtest": {
+                    "encrypted_gid_2": "AFA72DABE2CEFDF08D4BB25C17EBB58E",
+                    "encrypted_size_2": "D345D004EC77341BBB1CCFFA920B7871"
+                }
+            }
         },
         "1169375": {
             "config": {
@@ -147,7 +165,13 @@
             "manifests": {
                 "public": "1531768031219025838"
             },
-            "maxsize": "260892521"
+            "maxsize": "260892521",
+            "encryptedmanifests": {
+                "buildtest": {
+                    "encrypted_gid_2": "4A0CD2D01EC2D5532B3A46298B0B5A0A",
+                    "encrypted_size_2": "EF6E784F6C079677D81C089B3BD70010"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -155,14 +179,14 @@
                 "timeupdated": "1656435572"
             },
             "buildtest": {
-                "buildid": "9022585",
+                "buildid": "9023313",
                 "pwdrequired": "1",
-                "timeupdated": "1656434783"
+                "timeupdated": "1656441695"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15262762,
-    "_sha": "41561f26e5fa7d132d77cbcebbbfa8dc863a92be",
-    "_size": 3468
+    "_change_number": 15263761,
+    "_sha": "5f782573c4a341aaf0751802b3eb0cfd63c651ab",
+    "_size": 4192
 }
