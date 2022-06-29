@@ -85,6 +85,10 @@
                     "encrypted_gid_2": "08D3F57D99B67EBA35D3F7A18505FBB8",
                     "encrypted_size_2": "09435B858AEEC75D1E2CCF019B74DBAB"
                 },
+                "private_qa2": {
+                    "encrypted_gid_2": "BEC283719342A137977EBAE1CC93743C",
+                    "encrypted_size_2": "0DDC8AC527072A89DD2D2C77135B06CA"
+                },
                 "private_test": {
                     "encrypted_gid_2": "A7DD309C226E53FA2552DADBE796BA9B",
                     "encrypted_size_2": "BC61AAEDC69E2DA64547EBD1F0119382"
@@ -105,6 +109,10 @@
                 "private_qa": {
                     "encrypted_gid_2": "316F0D97C9CE204684DE5A2B08E0B1A2",
                     "encrypted_size_2": "031D6C6AD8B93238281DBA20B10BEFB5"
+                },
+                "private_qa2": {
+                    "encrypted_gid_2": "2FCC55C5004EBEAD001062401FD3AA7D",
+                    "encrypted_size_2": "669A7399EB9ACC77A50F6085796EF1D2"
                 }
             }
         },
@@ -134,6 +142,11 @@
                 "pwdrequired": "1",
                 "timeupdated": "1656493614"
             },
+            "private_qa2": {
+                "buildid": "9027639",
+                "pwdrequired": "1",
+                "timeupdated": "1656496444"
+            },
             "private_test": {
                 "buildid": "6991408",
                 "pwdrequired": "1",
@@ -142,7 +155,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15269880,
-    "_sha": "2ba40256aedde013e6ec98b0aafcb9123a2fffc9",
-    "_size": 3259
+    "_change_number": 15270251,
+    "_sha": "eedebe9e48c644b2e4ad5c27b47475eeb0888d14",
+    "_size": 3664
 }
