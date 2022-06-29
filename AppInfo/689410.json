@@ -63,13 +63,17 @@
         "1611741": {
             "name": "BattleBit Remastered Playtest Depot",
             "manifests": {
-                "public": "2559598146001950392"
+                "public": "4754027962419531136"
             },
-            "maxsize": "1442722142",
+            "maxsize": "1442252769",
             "encryptedmanifests": {
                 "developer": {
-                    "encrypted_gid_2": "0649C3F8F77B34635F044E91F2438F14",
-                    "encrypted_size_2": "C1611659B5F94A63A101CA4AD38743EA"
+                    "encrypted_gid_2": "80A43BDC0FFB308D85678D1BECB3C681",
+                    "encrypted_size_2": "1E82C1E2BF984B1B7796A20C910A25B7"
+                },
+                "server": {
+                    "encrypted_gid_2": "54AED7D9A8D122E969C65F5C05A92C2F",
+                    "encrypted_size_2": "240500BA04E9DB9B57C8BF6E1CA35BC0"
                 }
             },
             "depotfromapp": "1611740"
@@ -80,15 +84,21 @@
                 "timeupdated": "1518200532"
             },
             "developer": {
-                "buildid": "8974825",
+                "buildid": "9029278",
                 "description": "developer",
                 "pwdrequired": "1",
-                "timeupdated": "1655770490"
+                "timeupdated": "1656509678"
+            },
+            "server": {
+                "buildid": "9029278",
+                "description": "server",
+                "pwdrequired": "1",
+                "timeupdated": "1656509686"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15195205,
-    "_sha": "39ea6cd4f272e9e13197e5bb0a8cfe5b1e72cf10",
-    "_size": 2086
+    "_change_number": 15276917,
+    "_sha": "2729366fc45df10a83fffd42b24d33dcb8851816",
+    "_size": 2360
 }
