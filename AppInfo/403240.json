@@ -111,10 +111,10 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "2277471707161551278",
+                "public": "8226306688803730211",
                 "squad_experimental": "8431999813157773577"
             },
-            "maxsize": "12064365281",
+            "maxsize": "12064335183",
             "encryptedmanifests": {
                 "alpha-11.2": {
                     "encrypted_gid_2": "286BEB7B9504102C1FBDA04353F6406A",
@@ -144,14 +144,6 @@
                     "encrypted_gid_2": "6A8AEB44CECFFD786068074980C0D67B",
                     "encrypted_size_2": "E61A263BD9D785213EFA1F31F350F015"
                 },
-                "squad_main": {
-                    "encrypted_gid_2": "9E5F7BDB6311A44378CC0332E2C7458D",
-                    "encrypted_size_2": "71697B3D75AD7163EB9C476C43734AFA"
-                },
-                "squad_release": {
-                    "encrypted_gid_2": "32FF5882383ED5E659C37C55103ACA8E",
-                    "encrypted_size_2": "A44DC2C5B74F81F8CF285F3FFBC914B4"
-                },
                 "squad_tournament": {
                     "encrypted_gid_2": "95A1E5D49C6BFAA9E757F8FD5B0B277D",
                     "encrypted_size_2": "894D989647FD55CFBEA8B587D38DC117"
@@ -166,10 +158,10 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "8428653703469966572",
+                "public": "2290554902177129",
                 "squad_experimental": "8090321180619253649"
             },
-            "maxsize": "12106172067",
+            "maxsize": "12106148824",
             "encryptedmanifests": {
                 "alpha-11.2": {
                     "encrypted_gid_2": "1D9EF18C73C4669777A9243F75823C4D",
@@ -198,14 +190,6 @@
                 "server-fixtest": {
                     "encrypted_gid_2": "8101313B3CCB77B2E94C554EC2BF5B8C",
                     "encrypted_size_2": "C25D584502F4CB2A8EE1D833EACF2D3E"
-                },
-                "squad_main": {
-                    "encrypted_gid_2": "232340D84B1981C2025F8EA34673C3D4",
-                    "encrypted_size_2": "98DAE5D28670BEE4741BCFEEF0ECA389"
-                },
-                "squad_release": {
-                    "encrypted_gid_2": "ECE962CC167A482FD9C16394329B9560",
-                    "encrypted_size_2": "838C522DE0415336ADAE1C9AD27F36D7"
                 },
                 "squad_tournament": {
                     "encrypted_gid_2": "66CEE2C019376EFEF0B79B73D7901F20",
@@ -238,8 +222,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "8991446",
-                "timeupdated": "1656003608"
+                "buildid": "9037360",
+                "timeupdated": "1656611124"
             },
             "alpha-11.2": {
                 "buildid": "2863387",
@@ -324,7 +308,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15284169,
-    "_sha": "6f09d5dfa4144b1197e75a61cd483dcefd618bc1",
-    "_size": 8581
+    "_change_number": 15286462,
+    "_sha": "a726f30afd7f5e5638e83804e7e4e865e360ed65",
+    "_size": 7980
 }
