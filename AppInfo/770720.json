@@ -52,7 +52,8 @@
         "steam_release_date": "1522940400",
         "community_visible_stats": "1",
         "community_hub_visible": "1",
-        "gameid": "770720"
+        "gameid": "770720",
+        "store_tags": {}
     },
     "config": {
         "installdir": "Hunt Showdown (Test Server)",
@@ -241,13 +242,21 @@
                     "encrypted_gid_2": "470E1515939F2A04586D953A8AB9D3F7",
                     "encrypted_size_2": "7592B6C3F051F70999448DD81B986FA1"
                 },
+                "latest": {
+                    "encrypted_gid_2": "896F8ADDC0BDCF0E699A36E1564B4885",
+                    "encrypted_size_2": "DC5DDE7B5689BE3025732FFC8C4D1B90"
+                },
                 "lightweight_profiler": {
-                    "encrypted_gid_2": "EAA97DCAF04134AC4B5A8F96D2AFEED8",
-                    "encrypted_size_2": "46E7346619BACE29E05E65BCFCAF3928"
+                    "encrypted_gid_2": "D772D8B9A51AE89AB084281F0562823B",
+                    "encrypted_size_2": "32875C94A3B425D43546B6B3D35AF5B9"
                 },
                 "qa_testroom": {
                     "encrypted_gid_2": "2EA0F8984768A674E53BDCEB87738388",
                     "encrypted_size_2": "309F3310FA99ECD6548149257EF329A3"
+                },
+                "qa_testroom_2": {
+                    "encrypted_gid_2": "E1EA73BBCCEA1BE223950153AA8F6797",
+                    "encrypted_size_2": "5BCEF5E1E13422D6FFB8A1F6598E9405"
                 },
                 "teamtest": {
                     "encrypted_gid_2": "ACE3D773D596C2947B2042CC20DC4A16",
@@ -278,9 +287,21 @@
                     "encrypted_gid_2": "A7941A1BED4FB8BC7D3B5397AC71079E",
                     "encrypted_size_2": "FB9B8FFD5397DB30295312A8538E638A"
                 },
+                "latest": {
+                    "encrypted_gid_2": "3A2A86398CAB6271FB9508A25ED4DA1E",
+                    "encrypted_size_2": "EA53C9945C2AA008924DA6E796A32DA6"
+                },
+                "lightweight_profiler": {
+                    "encrypted_gid_2": "3F3ED2D9C6BF5E0B364BEBC17C20504E",
+                    "encrypted_size_2": "EFCE214D54E705C7A6D1EC2D220C1280"
+                },
                 "qa_testroom": {
                     "encrypted_gid_2": "63BCE09669066A09FE8BA3840684C2C0",
                     "encrypted_size_2": "5CFF4A756D2967E1176DA2CFBB4A8793"
+                },
+                "qa_testroom_2": {
+                    "encrypted_gid_2": "447EF89A503B95742373C97EF87C4DC5",
+                    "encrypted_size_2": "16B978C8A6E2038002E7C7264A7EB7C7"
                 },
                 "teamtest": {
                     "encrypted_gid_2": "4F81DD0155EDFD931B6C2FB53179AC1A",
@@ -350,16 +371,16 @@
                 "timeupdated": "1639756138"
             },
             "latest": {
-                "buildid": "9028949",
+                "buildid": "9035581",
                 "description": "latest uploaded build",
                 "pwdrequired": "1",
-                "timeupdated": "1656506307"
+                "timeupdated": "1656581721"
             },
             "lightweight_profiler": {
-                "buildid": "9028850",
+                "buildid": "9035483",
                 "description": "lightweight_profiler",
                 "pwdrequired": "1",
-                "timeupdated": "1656505389"
+                "timeupdated": "1656580883"
             },
             "qa_testroom": {
                 "buildid": "9025210",
@@ -367,9 +388,9 @@
                 "timeupdated": "1656485998"
             },
             "qa_testroom_2": {
-                "buildid": "9028949",
+                "buildid": "9035581",
                 "pwdrequired": "1",
-                "timeupdated": "1656506360"
+                "timeupdated": "1656581923"
             },
             "teamtest": {
                 "buildid": "8997798",
@@ -379,7 +400,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15276917,
-    "_sha": "d38b5540bb3a7144ff90f52a105ebc2f126f7a56",
-    "_size": 9678
+    "_change_number": 15281458,
+    "_sha": "b02eba6375aeb33ec3fc245320d5141d2189317c",
+    "_size": 10449
 }
