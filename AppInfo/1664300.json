@@ -204,6 +204,10 @@
             },
             "maxsize": "848588889",
             "encryptedmanifests": {
+                "developer": {
+                    "encrypted_gid_2": "9B1FC7692A43598A7C523F3F3477EDA4",
+                    "encrypted_size_2": "41CCCFD759F2CE586FE550203FCEDFCF"
+                },
                 "testing": {
                     "encrypted_gid_2": "21EDD89820B11A5BF5475E544E944623",
                     "encrypted_size_2": "003DF0C262E83C8E1ADCE8CB055B4476"
@@ -222,6 +226,11 @@
                 "buildid": "9054493",
                 "timeupdated": "1656904388"
             },
+            "developer": {
+                "buildid": "8688485",
+                "pwdrequired": "1",
+                "timeupdated": "1656911151"
+            },
             "testing": {
                 "buildid": "9050888",
                 "pwdrequired": "1",
@@ -235,7 +244,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15312487,
-    "_sha": "3f0e94030dacb9fe25c86a770943c0efda56b26c",
-    "_size": 4525
+    "_change_number": 15313041,
+    "_sha": "7634b5125c09044334adb7831f3e22d6211b02e6",
+    "_size": 4777
 }
