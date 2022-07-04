@@ -88,6 +88,10 @@
                 "debug": {
                     "encrypted_gid_2": "A9775D2F2914962F89F76AFBF1F60E4C",
                     "encrypted_size_2": "AC846E65BE96040E626E7572B5805F4E"
+                },
+                "indev": {
+                    "encrypted_gid_2": "7853A2B4A63B879B09B3161FB7DC77D1",
+                    "encrypted_size_2": "7AEAC136CF6AA5DD60602F9C3F44D89C"
                 }
             }
         },
@@ -99,7 +103,13 @@
             "manifests": {
                 "public": "2316707339198907928"
             },
-            "maxsize": "3149518784"
+            "maxsize": "3149518784",
+            "encryptedmanifests": {
+                "indev": {
+                    "encrypted_gid_2": "6978DB1799813FC20C54D05D93B0273C",
+                    "encrypted_size_2": "521DA7DF90BDE22B9B9BD815B26AC932"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -113,15 +123,15 @@
                 "timeupdated": "1644625969"
             },
             "indev": {
-                "buildid": "9055944",
+                "buildid": "9056423",
                 "description": "Likely unstable builds",
                 "pwdrequired": "1",
-                "timeupdated": "1656924082"
+                "timeupdated": "1656929980"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15314983,
-    "_sha": "877bde22a7cce3df449cf8db8237fecb4d63dc78",
-    "_size": 2631
+    "_change_number": 15315129,
+    "_sha": "6d7d3d1ab857d1eae884b63eaa2bec3cd1744ee7",
+    "_size": 2951
 }
