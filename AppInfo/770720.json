@@ -250,6 +250,10 @@
                     "encrypted_gid_2": "0A4E39B51E5AB3EFD16ED4D12925FC58",
                     "encrypted_size_2": "7912A593707CE592601DFB63A4F36763"
                 },
+                "playtest_external": {
+                    "encrypted_gid_2": "18DE8DC0C710CED173FF0E579CDCD638",
+                    "encrypted_size_2": "C1A3BB27C5FEFD145850FDE8FAA65C8B"
+                },
                 "qa_testroom": {
                     "encrypted_gid_2": "E5E3E04B669860D917A6849526F1545A",
                     "encrypted_size_2": "6C36E0BBC7EBD9D95F98F3A92AF189BE"
@@ -295,6 +299,10 @@
                     "encrypted_gid_2": "13B132CAE2F67F4F050A449AAF8B8E73",
                     "encrypted_size_2": "89A2E798F466D6E82B73AC3025E6A5B5"
                 },
+                "playtest_external": {
+                    "encrypted_gid_2": "9197FC2F9E384EB0BF8CFBF7BB0428AA",
+                    "encrypted_size_2": "894C8F01B2A4695C36B63F388712823F"
+                },
                 "qa_testroom": {
                     "encrypted_gid_2": "B8474F868B33CFFE064234A803A1F582",
                     "encrypted_size_2": "B3EEF6D17A6746F1E80F52530304441B"
@@ -339,6 +347,10 @@
                 "lightweight_profiler": {
                     "encrypted_gid_2": "1EC9B7BBA209BABB926E69ADA85D6AEC",
                     "encrypted_size_2": "B1A87A31AD8396F9EB5709E99A468681"
+                },
+                "playtest_external": {
+                    "encrypted_gid_2": "53055E1762A043E71C6BFA2F9C0CE98B",
+                    "encrypted_size_2": "FCB7E1D7D946BA3543E1F04BA306AE68"
                 },
                 "qa_testroom": {
                     "encrypted_gid_2": "54D22531D4C0C60E09292932453310C9",
@@ -398,6 +410,12 @@
                 "pwdrequired": "1",
                 "timeupdated": "1657029071"
             },
+            "playtest_external": {
+                "buildid": "9060516",
+                "description": "playtest_external",
+                "pwdrequired": "1",
+                "timeupdated": "1657037922"
+            },
             "qa_testroom": {
                 "buildid": "9064048",
                 "pwdrequired": "1",
@@ -416,7 +434,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15327369,
-    "_sha": "8c7d9311643da2279d42528fc0d8bcf0ba634f5e",
-    "_size": 11051
+    "_change_number": 15328223,
+    "_sha": "e06a5d75acb52bbc944e2a9727f7fdce3bad7d5b",
+    "_size": 11668
 }
