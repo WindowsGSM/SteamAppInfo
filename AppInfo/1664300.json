@@ -200,13 +200,18 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "2169708845694725077"
+                "public": "2169708845694725077",
+                "testpublic": "1350185321582705209"
             },
             "maxsize": "848435391",
             "encryptedmanifests": {
+                "developer": {
+                    "encrypted_gid_2": "A19BDB675B336650386D8C1D40AF9D9F",
+                    "encrypted_size_2": "E6683D3D253CCE6E9FE5A77AE76433AC"
+                },
                 "testing": {
-                    "encrypted_gid_2": "21EDD89820B11A5BF5475E544E944623",
-                    "encrypted_size_2": "003DF0C262E83C8E1ADCE8CB055B4476"
+                    "encrypted_gid_2": "FCAADB45499A6793EB090735BAEB7C19",
+                    "encrypted_size_2": "1C91C2CF0D216272F28CD824D605C405"
                 }
             }
         },
@@ -223,24 +228,24 @@
                 "timeupdated": "1656955746"
             },
             "developer": {
-                "buildid": "9058488",
+                "buildid": "9060257",
                 "pwdrequired": "1",
-                "timeupdated": "1656952892"
+                "timeupdated": "1656983404"
             },
             "testing": {
-                "buildid": "9050888",
+                "buildid": "9060257",
                 "pwdrequired": "1",
-                "timeupdated": "1656793807"
+                "timeupdated": "1656983415"
             },
             "testpublic": {
-                "buildid": "9058488",
+                "buildid": "9060257",
                 "description": "testpublic",
-                "timeupdated": "1656953218"
+                "timeupdated": "1656983429"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15318587,
-    "_sha": "ebad6115b10979fce705449271b1d1751b601bea",
-    "_size": 4630
+    "_change_number": 15321344,
+    "_sha": "1dbf7643b1d29861406a8d4f277d994134b70da3",
+    "_size": 4817
 }
