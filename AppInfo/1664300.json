@@ -200,20 +200,9 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "6094716814238689415",
-                "testpublic": "7775406393996629714"
+                "public": "9195861941363293414"
             },
-            "maxsize": "848308766",
-            "encryptedmanifests": {
-                "developer": {
-                    "encrypted_gid_2": "55CF18FB43858944F94CE7D1EEFD1085",
-                    "encrypted_size_2": "3ED5D581A7256A1BBB9DE95EE92741C0"
-                },
-                "testing": {
-                    "encrypted_gid_2": "626F7DF596B77EC76082FAD9158FD767",
-                    "encrypted_size_2": "B868A54415E6BFAA5185F68113DEF7B4"
-                }
-            }
+            "maxsize": "848302622"
         },
         "1664302": {
             "config": {
@@ -224,28 +213,28 @@
         },
         "branches": {
             "public": {
-                "buildid": "9066730",
-                "timeupdated": "1657058391"
+                "buildid": "9073708",
+                "timeupdated": "1657139380"
             },
             "developer": {
-                "buildid": "9073570",
+                "buildid": "9073708",
                 "pwdrequired": "1",
-                "timeupdated": "1657136911"
+                "timeupdated": "1657138790"
             },
             "testing": {
-                "buildid": "9073570",
+                "buildid": "9073708",
                 "pwdrequired": "1",
-                "timeupdated": "1657136903"
+                "timeupdated": "1657138798"
             },
             "testpublic": {
-                "buildid": "9073570",
+                "buildid": "9073708",
                 "description": "testpublic",
-                "timeupdated": "1657136895"
+                "timeupdated": "1657138777"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15341181,
-    "_sha": "14f6f4afecaa961968f90dc8fe2f061389d169bd",
-    "_size": 4817
+    "_change_number": 15341483,
+    "_sha": "944452c568df34ead5121622f5623b71d48080ba",
+    "_size": 4451
 }
