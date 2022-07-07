@@ -89,8 +89,8 @@
             "maxsize": "14211220468",
             "encryptedmanifests": {
                 "eleononly": {
-                    "encrypted_gid_2": "339AF9F4BAE40CB2FF4B1ED7AEAED5CC",
-                    "encrypted_size_2": "0634E7302F825BF9FCDBF8D6276768DA"
+                    "encrypted_gid_2": "DBB205DD20EB6F79BFCF751CFD75EEEF",
+                    "encrypted_size_2": "1A576D048B1B25C56051835952B8EE87"
                 },
                 "eleontest": {
                     "encrypted_gid_2": "F79D04155AD76B2C2359A1764CCDAE47",
@@ -103,6 +103,10 @@
                 "internal": {
                     "encrypted_gid_2": "9365A1D58FC0B9C7957EA2A9600FB6BB",
                     "encrypted_size_2": "8AA756001D43BFE8C16BAAB55A012C5D"
+                },
+                "steamtest": {
+                    "encrypted_gid_2": "50E2D14B6DA9533D560F417B0108613E",
+                    "encrypted_size_2": "10D86136ADCB1E5AEE704C4207AE18EE"
                 }
             }
         },
@@ -158,10 +162,10 @@
                 "timeupdated": "1656518141"
             },
             "eleononly": {
-                "buildid": "9070755",
+                "buildid": "9078031",
                 "description": "Eleon team branch",
                 "pwdrequired": "1",
-                "timeupdated": "1657107685"
+                "timeupdated": "1657192281"
             },
             "eleontest": {
                 "buildid": "8718435",
@@ -182,15 +186,15 @@
                 "timeupdated": "1657109886"
             },
             "steamtest": {
-                "buildid": "9030175",
+                "buildid": "9078031",
                 "description": "Special Tests",
                 "pwdrequired": "1",
-                "timeupdated": "1656517808"
+                "timeupdated": "1657192588"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15337229,
-    "_sha": "1d4f2f6bff237a9b2a830cb8162cbc1e644d9398",
-    "_size": 4653
+    "_change_number": 15348469,
+    "_sha": "cb85a4e17cb29969663891f1b148b009ce1ee716",
+    "_size": 4800
 }
