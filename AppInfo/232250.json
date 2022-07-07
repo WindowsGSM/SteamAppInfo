@@ -29,9 +29,10 @@
         "232250": {
             "name": "TF2 Dedicated server assets",
             "manifests": {
-                "public": "5494866935743571710"
+                "public": "5494866935743571710",
+                "valve_ds": "1849914177468746913"
             },
-            "maxsize": "9083850524"
+            "maxsize": "9083986346"
         },
         "232255": {
             "name": "TF2 Windows server",
@@ -39,9 +40,10 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "6019710945473329834"
+                "public": "6019710945473329834",
+                "valve_ds": "7473606031587894180"
             },
-            "maxsize": "103213112"
+            "maxsize": "103239352"
         },
         "232256": {
             "name": "TF2 Linux server",
@@ -49,9 +51,10 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "7216127081639525620"
+                "public": "7216127081639525620",
+                "valve_ds": "1814911825751299287"
             },
-            "maxsize": "91139406"
+            "maxsize": "91181702"
         },
         "232257": {
             "name": "TF2 Private DS",
@@ -74,14 +77,14 @@
                 "timeupdated": "1656018905"
             },
             "valve_ds": {
-                "buildid": "8995686",
+                "buildid": "9080699",
                 "description": "The version Valve dedicated servers will sync to",
-                "timeupdated": "1656018859"
+                "timeupdated": "1657233816"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15219266,
-    "_sha": "82df2cf377e0f455a42e2fd4c53b9ece92ea98fb",
-    "_size": 1628
+    "_change_number": 15355129,
+    "_sha": "265af44f3d779fef9dad6595933f163be81e42c9",
+    "_size": 1742
 }
