@@ -28,9 +28,8 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "4698676814204090202",
+                "public": "835106103225451374",
                 "aux01": "7290751183078027094",
-                "release": "835106103225451374",
                 "staging": "982399086553931399"
             },
             "maxsize": "530430139",
@@ -119,9 +118,8 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "2595138876562477802",
+                "public": "4890657235060629123",
                 "aux01": "6987171713773305201",
-                "release": "4890657235060629123",
                 "staging": "5236670355541096874"
             },
             "maxsize": "579531084",
@@ -297,9 +295,8 @@
         "258554": {
             "name": "rust dedicated - common",
             "manifests": {
-                "public": "3869712400318798930",
+                "public": "3455852252386374510",
                 "aux01": "4421990483702193315",
-                "release": "3455852252386374510",
                 "staging": "6737037707718306446"
             },
             "maxsize": "6183999718",
@@ -356,10 +353,6 @@
                     "encrypted_gid_2": "9D9ECE9C8C6E1982EA608E666883DEA0",
                     "encrypted_size_2": "1B7A89A69F102E5F2153C1FED28F7085"
                 },
-                "release-debug": {
-                    "encrypted_gid_2": "C5CCBFFD25F4709F0859701F92E050BB",
-                    "encrypted_size_2": "A0BB3705A37700A3EF7FF6BD1C48AC4A"
-                },
                 "staging-debug": {
                     "encrypted_gid_2": "96DB40FDAA231D0DD3FB87C10889ECEF",
                     "encrypted_size_2": "8211DFA231BFC98F1818A93944372411"
@@ -384,8 +377,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "8988252",
-                "timeupdated": "1655923477"
+                "buildid": "9077199",
+                "timeupdated": "1657215870"
             },
             "aux01": {
                 "buildid": "9067466",
@@ -505,7 +498,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15351488,
-    "_sha": "a28daa026d230f99ccd39d945e63853ef212ce09",
-    "_size": 15611
+    "_change_number": 15352661,
+    "_sha": "6095c35a57b79df5cb841e7085ae5967bf343b99",
+    "_size": 15349
 }
