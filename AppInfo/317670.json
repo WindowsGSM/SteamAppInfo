@@ -69,7 +69,13 @@
             "manifests": {
                 "public": "418184589726443862"
             },
-            "maxsize": "7188990317"
+            "maxsize": "7188990317",
+            "encryptedmanifests": {
+                "devtest": {
+                    "encrypted_gid_2": "E1524EB67156568CDFD00722EFA68C18",
+                    "encrypted_size_2": "A3A776285619F5AEE80673E4EF50798E"
+                }
+            }
         },
         "317674": {
             "name": "No More Room in Hell Dedicated Server Windows Binaries",
@@ -79,7 +85,13 @@
             "manifests": {
                 "public": "2949578043556048729"
             },
-            "maxsize": "14992392"
+            "maxsize": "14992392",
+            "encryptedmanifests": {
+                "devtest": {
+                    "encrypted_gid_2": "C67449622F1DB579EF23DCAC9D274920",
+                    "encrypted_size_2": "08E7D4E84E2C18C2D0E51F66825A818E"
+                }
+            }
         },
         "317675": {
             "name": "No More Room in Hell Dedicated Server Linux Binaries",
@@ -89,7 +101,13 @@
             "manifests": {
                 "public": "5795646826674278406"
             },
-            "maxsize": "66784840"
+            "maxsize": "66784840",
+            "encryptedmanifests": {
+                "devtest": {
+                    "encrypted_gid_2": "E36B78410B4233B9AA2421372CA2D0A0",
+                    "encrypted_size_2": "3622C8E397932E50682D6CD482D13BB6"
+                }
+            }
         },
         "workshopdepot": "317670",
         "branches": {
@@ -98,14 +116,14 @@
                 "timeupdated": "1657058092"
             },
             "devtest": {
-                "buildid": "9065298",
+                "buildid": "9078018",
                 "pwdrequired": "1",
-                "timeupdated": "1657040471"
+                "timeupdated": "1657194616"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15331088,
-    "_sha": "ef5e96b8bd9a9c3dd452ccabe06c7020498594f5",
-    "_size": 2488
+    "_change_number": 15348740,
+    "_sha": "c8a458385dd991487da76591312b9061b94d70c8",
+    "_size": 3025
 }
