@@ -30,6 +30,7 @@
             "manifests": {
                 "public": "835106103225451374",
                 "aux01": "7290751183078027094",
+                "release": "5548362213881343983",
                 "staging": "5012958271469913691"
             },
             "maxsize": "530430139",
@@ -87,8 +88,8 @@
                     "encrypted_size_2": "8527E491A710A5E528285CB21028B4C3"
                 },
                 "release-debug": {
-                    "encrypted_gid_2": "E63C48291DA78A7BCBE9A7BC5FCB6CBF",
-                    "encrypted_size_2": "34F1A135606E4C6AAC6C3E0C2979FF66"
+                    "encrypted_gid_2": "53921DBC9F3C1E0EA3E0C360E50B51FE",
+                    "encrypted_size_2": "6F5A73615950B7533637B51BCFF14EA9"
                 },
                 "staging-debug": {
                     "encrypted_gid_2": "4B170BCAC16E8547BF6164FEC61FA603",
@@ -120,6 +121,7 @@
             "manifests": {
                 "public": "4890657235060629123",
                 "aux01": "6987171713773305201",
+                "release": "104590190833832442",
                 "staging": "3368685807645143972"
             },
             "maxsize": "579531084",
@@ -454,13 +456,13 @@
                 "timeupdated": "1600881047"
             },
             "release": {
-                "buildid": "9077199",
-                "timeupdated": "1657184433"
+                "buildid": "9084600",
+                "timeupdated": "1657269626"
             },
             "release-debug": {
-                "buildid": "9077208",
+                "buildid": "9084604",
                 "pwdrequired": "1",
-                "timeupdated": "1657184514"
+                "timeupdated": "1657269675"
             },
             "staging": {
                 "buildid": "9083893",
@@ -498,7 +500,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15358562,
-    "_sha": "d3ee15139f3134031f587d5c2621d2290550bd48",
-    "_size": 15350
+    "_change_number": 15359694,
+    "_sha": "e887ed1844e69d1bc988ecfe9c41f11f5ca95b6e",
+    "_size": 15423
 }
