@@ -122,6 +122,10 @@
                     "encrypted_gid_2": "D208506726CC7F4794A4874C910585FF",
                     "encrypted_size_2": "0254FFBBCD0CE4EB029040C81B13214B"
                 },
+                "newbuild-release": {
+                    "encrypted_gid_2": "53FDF3BD394B77CD33FA7EAC6B3CA18F",
+                    "encrypted_size_2": "66DA6F29E3E964604E0DD2F1583E536F"
+                },
                 "validation-branch": {
                     "encrypted_gid_2": "0FCA40828580C6F9F40F5B5704D8F7D6",
                     "encrypted_size_2": "E759D0FDB95BB58A4C0F1FC1DA29FE5D"
@@ -151,6 +155,10 @@
                 "mercury": {
                     "encrypted_gid_2": "CD0EADB4A33F05821310E4B9CD0F1C3B",
                     "encrypted_size_2": "AD586655FE6816441C9E78245C25CBFA"
+                },
+                "newbuild-release": {
+                    "encrypted_gid_2": "9490225B1996A1F0040E8232587F74C8",
+                    "encrypted_size_2": "CF15F4477D346D3AFE4AE5513984D973"
                 },
                 "validation-branch": {
                     "encrypted_gid_2": "8402C7F1A2009C79B57673CBB3502A55",
@@ -185,10 +193,10 @@
                 "timeupdated": "1645238117"
             },
             "newbuild-release": {
-                "buildid": "9079876",
+                "buildid": "9087089",
                 "description": "Build for internal tests",
                 "pwdrequired": "1",
-                "timeupdated": "1657209648"
+                "timeupdated": "1657294049"
             },
             "validation-branch": {
                 "buildid": "8361945",
@@ -199,7 +207,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15352462,
-    "_sha": "4520a13831923b27b3470faab458097c448e8ea7",
-    "_size": 4705
+    "_change_number": 15363684,
+    "_sha": "44dbc601801cedf579aed117c2e108dffad1ac3f",
+    "_size": 5013
 }
