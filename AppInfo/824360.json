@@ -69,9 +69,9 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "2037177183270720539"
+                "public": "6970464574589622189"
             },
-            "maxsize": "2586515707",
+            "maxsize": "2585680857",
             "encryptedmanifests": {
                 "171test": {
                     "encrypted_gid_2": "2ED9D75D9722BD242E20742E36C33356",
@@ -89,10 +89,6 @@
                     "encrypted_gid_2": "6C37C86ABAEE8339D16778A5C03AFE8C",
                     "encrypted_size_2": "F850C4A631CD9329A6BCCB754BA0B835"
                 },
-                "dlctest": {
-                    "encrypted_gid_2": "1923E62F9ADB5E99B7AAAE3D909703F2",
-                    "encrypted_size_2": "6BD1BA1EE230379BE6E5DDE61716F0ED"
-                },
                 "fullrelease": {
                     "encrypted_gid_2": "08C0C48C7EFB50D61C135FD44D05E5B0",
                     "encrypted_size_2": "A3A244E35125651ABBC52DAF543ADD1E"
@@ -101,8 +97,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "9012864",
-                "timeupdated": "1656324173"
+                "buildid": "9076665",
+                "timeupdated": "1657262519"
             },
             "171test": {
                 "buildid": "4124601",
@@ -143,7 +139,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15346283,
-    "_sha": "12574ec6217c0a66fc6184cffa0f2669ee60dbb7",
-    "_size": 3497
+    "_change_number": 15358662,
+    "_sha": "14f377ada5305a6d02c0f3c3a084a9565b1aafac",
+    "_size": 3352
 }
