@@ -52,7 +52,8 @@
         "steam_release_date": "1522940400",
         "community_visible_stats": "1",
         "community_hub_visible": "1",
-        "gameid": "770720"
+        "gameid": "770720",
+        "store_tags": {}
     },
     "config": {
         "installdir": "Hunt Showdown (Test Server)",
@@ -253,6 +254,10 @@
                     "encrypted_gid_2": "18DE8DC0C710CED173FF0E579CDCD638",
                     "encrypted_size_2": "C1A3BB27C5FEFD145850FDE8FAA65C8B"
                 },
+                "qa_testroom": {
+                    "encrypted_gid_2": "C6936DAFAFA0D3C6EBF9C1BBF54C95FA",
+                    "encrypted_size_2": "07701C4F507B9478557195070207E0B4"
+                },
                 "qa_testroom_2": {
                     "encrypted_gid_2": "1EE607BDBE0DEDB9E2F0FCBFDC8EC7EE",
                     "encrypted_size_2": "CBEE4CE5144DF58F6B399023391F0EAF"
@@ -298,6 +303,10 @@
                     "encrypted_gid_2": "9197FC2F9E384EB0BF8CFBF7BB0428AA",
                     "encrypted_size_2": "894C8F01B2A4695C36B63F388712823F"
                 },
+                "qa_testroom": {
+                    "encrypted_gid_2": "F266712E81CA011DCF18CB79513F804E",
+                    "encrypted_size_2": "189438318E6D5399D94DF30BAE16E826"
+                },
                 "qa_testroom_2": {
                     "encrypted_gid_2": "04F6F91CC9DE54E4D7DA2F0ED5EC8EA9",
                     "encrypted_size_2": "4FE0EEA98AE25B0D478699C36F21C938"
@@ -338,6 +347,10 @@
                 "lightweight_profiler": {
                     "encrypted_gid_2": "3B8703FB378BD9E3DD428E5D3F6A5813",
                     "encrypted_size_2": "CA8C29AD853C015C4BE8B864BD211F6D"
+                },
+                "qa_testroom": {
+                    "encrypted_gid_2": "24EC6C7AD9808A788C4ADB0D1F3EE1E0",
+                    "encrypted_size_2": "D314ABE34AA7974C3464F30FB5158BD2"
                 },
                 "qa_testroom_2": {
                     "encrypted_gid_2": "84F0A4194E68AA0023F1CA0BD7A83686",
@@ -400,9 +413,9 @@
                 "timeupdated": "1657196876"
             },
             "qa_testroom": {
-                "buildid": "9070216",
+                "buildid": "9078864",
                 "pwdrequired": "1",
-                "timeupdated": "1657104214"
+                "timeupdated": "1657264622"
             },
             "qa_testroom_2": {
                 "buildid": "9078864",
@@ -417,7 +430,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15354882,
-    "_sha": "ef5ada3b8648b848c5e22cea0279c59f1333186f",
-    "_size": 11061
+    "_change_number": 15359009,
+    "_sha": "78b3cd1972657d1e098e00280a7366e2f1ca15e7",
+    "_size": 11531
 }
