@@ -31,6 +31,22 @@
         }
     },
     "depots": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "maxsize": "19265607",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "maxsize": "13699237",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
         "1875501": {
             "manifests": {
                 "public": "482558746444818094"
@@ -45,7 +61,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15365000,
-    "_sha": "cda4ac4a55f324f26056d7287d79cca4b03e3b47",
-    "_size": 1016
+    "_change_number": 15370548,
+    "_sha": "0290c3eb47f9f899789f2df682acd5ea81313b79",
+    "_size": 1300
 }
