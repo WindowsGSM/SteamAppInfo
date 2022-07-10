@@ -77,6 +77,9 @@
             "maxsize": "2662759935"
         },
         "1750681": {
+            "config": {
+                "oslist": "windows"
+            },
             "manifests": {
                 "public": "3036695827954520071"
             },
@@ -86,11 +89,16 @@
             "public": {
                 "buildid": "9095229",
                 "timeupdated": "1657485475"
+            },
+            "beta": {
+                "buildid": "9095285",
+                "pwdrequired": "1",
+                "timeupdated": "1657486403"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15378378,
-    "_sha": "5712d1def20e99f39c730f23d0ef564856427ea2",
-    "_size": 1795
+    "_change_number": 15378428,
+    "_sha": "0d67abdbeb6f9d71f51f61dc587043a6a3504ef6",
+    "_size": 1941
 }
