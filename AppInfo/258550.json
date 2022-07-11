@@ -30,7 +30,7 @@
             "manifests": {
                 "public": "5548362213881343983",
                 "aux01": "7290751183078027094",
-                "release": "2851420936922486155",
+                "release": "4017240977002564447",
                 "staging": "386090812147903231"
             },
             "maxsize": "530430139",
@@ -88,8 +88,8 @@
                     "encrypted_size_2": "8527E491A710A5E528285CB21028B4C3"
                 },
                 "release-debug": {
-                    "encrypted_gid_2": "A7588D23C4BCA991630B6664780D2110",
-                    "encrypted_size_2": "EE6807BC72782FEA1448FB0781CE09B9"
+                    "encrypted_gid_2": "C84DAAACEDC8F7614BF717F805DECF03",
+                    "encrypted_size_2": "B787B4510AFD993D368CC60387AC3439"
                 },
                 "staging-debug": {
                     "encrypted_gid_2": "D256502C4CC005D32D2152716D83AC65",
@@ -121,7 +121,7 @@
             "manifests": {
                 "public": "104590190833832442",
                 "aux01": "6987171713773305201",
-                "release": "7512417377192716152",
+                "release": "9031935942554583112",
                 "staging": "154181219490583499"
             },
             "maxsize": "579531084",
@@ -299,6 +299,7 @@
             "manifests": {
                 "public": "3455852252386374510",
                 "aux01": "4421990483702193315",
+                "release": "3962673735408689180",
                 "staging": "1761246657316096268"
             },
             "maxsize": "6183999718",
@@ -354,6 +355,10 @@
                 "hdrp-debug": {
                     "encrypted_gid_2": "9D9ECE9C8C6E1982EA608E666883DEA0",
                     "encrypted_size_2": "1B7A89A69F102E5F2153C1FED28F7085"
+                },
+                "release-debug": {
+                    "encrypted_gid_2": "9BB652283D39D78493EEE2FA56421716",
+                    "encrypted_size_2": "3D670A6D49CF0ECDE1BC756BD0C0FD88"
                 },
                 "staging-debug": {
                     "encrypted_gid_2": "F2FDC51413F4CC60360770823BA2E0CA",
@@ -456,13 +461,13 @@
                 "timeupdated": "1600881047"
             },
             "release": {
-                "buildid": "9094454",
-                "timeupdated": "1657465111"
+                "buildid": "9097484",
+                "timeupdated": "1657528330"
             },
             "release-debug": {
-                "buildid": "9094458",
+                "buildid": "9097488",
                 "pwdrequired": "1",
-                "timeupdated": "1657465162"
+                "timeupdated": "1657528411"
             },
             "staging": {
                 "buildid": "9095301",
@@ -500,7 +505,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15381230,
-    "_sha": "135c614208f732a7ef53d9ad295bf597874e6036",
-    "_size": 15422
+    "_change_number": 15382086,
+    "_sha": "c32a13dd9c1b895b9efc3aebfe8b7003c51c2b24",
+    "_size": 15610
 }
