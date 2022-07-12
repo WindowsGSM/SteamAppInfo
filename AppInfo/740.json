@@ -32,9 +32,10 @@
             "name": "Counter-Strike Global Offensive Beta Common",
             "systemdefined": "1",
             "manifests": {
-                "public": "5250688487855350275"
+                "public": "1156817551806770995",
+                "1.38.3.6": "5250688487855350275"
             },
-            "maxsize": "30073747668",
+            "maxsize": "30075987192",
             "encryptedmanifests": {
                 "dprs": {
                     "encrypted_gid_2": "23D0B308D1CE739A6C3B5F1E61A98757",
@@ -46,9 +47,10 @@
             "name": "Counter-Strike Global Offensive Beta - Dedicated Server",
             "systemdefined": "1",
             "manifests": {
-                "public": "8361029257902086742"
+                "public": "5410204232111095828",
+                "1.38.3.6": "8361029257902086742"
             },
-            "maxsize": "1971682333",
+            "maxsize": "1971685054",
             "encryptedmanifests": {
                 "dprs": {
                     "encrypted_gid_2": "817F51828483D135762BF02B4DC6E9C7",
@@ -59,8 +61,8 @@
         "overridescddb": "1",
         "branches": {
             "public": {
-                "buildid": "9046609",
-                "timeupdated": "1656711309"
+                "buildid": "9107715",
+                "timeupdated": "1657663923"
             },
             "1.38.3.6": {
                 "buildid": "9046609",
@@ -75,7 +77,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15329513,
-    "_sha": "a0f6f1b94b22b721ec42d607ec607a2b547d7af5",
-    "_size": 1728
+    "_change_number": 15400813,
+    "_sha": "7492db73fc57e0ed74453b945ed5d7f73e718096",
+    "_size": 1804
 }
