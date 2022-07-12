@@ -76,7 +76,7 @@
         "530871": {
             "name": "Dedicated Server Content",
             "manifests": {
-                "public": "7274244101781215974",
+                "public": "302195470528730911",
                 "alpha10": "4139613444459975471",
                 "alpha11": "7348305962190994729",
                 "alpha12": "2395002668044090563",
@@ -86,12 +86,8 @@
                 "alpha8": "9130500877719341038",
                 "alpha9": "98967298642520364"
             },
-            "maxsize": "14211220468",
+            "maxsize": "14211248452",
             "encryptedmanifests": {
-                "closedalpha": {
-                    "encrypted_gid_2": "2111FA179381119EA6FD01B45CD974CC",
-                    "encrypted_size_2": "6D1B8297B8CF1EBAFF3B80D6DD70ED54"
-                },
                 "eleononly": {
                     "encrypted_gid_2": "147D94E54A1E21060DC718C5B972B672",
                     "encrypted_size_2": "03B74CCDBC5D1B0D1C12F1642C2D3198"
@@ -107,17 +103,13 @@
                 "internal": {
                     "encrypted_gid_2": "8BFEB39A603D768DFC8F81C5AE1C7113",
                     "encrypted_size_2": "2A948CF030EAB1D263DE4E56240E07B7"
-                },
-                "steamtest": {
-                    "encrypted_gid_2": "50E2D14B6DA9533D560F417B0108613E",
-                    "encrypted_size_2": "10D86136ADCB1E5AEE704C4207AE18EE"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "9030175",
-                "timeupdated": "1656578116"
+                "buildid": "9078031",
+                "timeupdated": "1657615404"
             },
             "alpha10": {
                 "buildid": "4347212",
@@ -198,7 +190,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15387702,
-    "_sha": "e7d55bac430ed8205874bd51754b303ee78f998d",
-    "_size": 4949
+    "_change_number": 15393559,
+    "_sha": "91474fd190ce41a68e6b018fe3cb16409ccf1bbe",
+    "_size": 4652
 }
