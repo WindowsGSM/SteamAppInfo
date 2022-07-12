@@ -63,21 +63,21 @@
         "1611741": {
             "name": "BattleBit Remastered Playtest Depot",
             "manifests": {
-                "public": "4793810771628579504"
+                "public": "8809682550863934531"
             },
-            "maxsize": "1378234882",
+            "maxsize": "1446034142",
             "encryptedmanifests": {
-                "developer": {
-                    "encrypted_gid_2": "6628787C420BD6A8475B7448BCB2ED5D",
-                    "encrypted_size_2": "A31A7F2246E296DBFFA99A7543875350"
+                "publicqa": {
+                    "encrypted_gid_2": "6C1F882914B58B363767E0E4DB4B1FD1",
+                    "encrypted_size_2": "8A7B0CAAEAA8BAFB381C781614F34DA0"
                 },
                 "server": {
-                    "encrypted_gid_2": "EF8D31016734D61E3CCE20B89EAE66CA",
-                    "encrypted_size_2": "B6D4C34418E2EF89A464907A7E253735"
+                    "encrypted_gid_2": "67CAD087DADE46A7F821F1FBB201BE2C",
+                    "encrypted_size_2": "214D813408673CF372745BC99E0DC0C7"
                 },
                 "staff": {
-                    "encrypted_gid_2": "3A5FAC9DBCD7398ED08E54A325A9615C",
-                    "encrypted_size_2": "0FD85C12CEADEAB8111C52D8DD5B861C"
+                    "encrypted_gid_2": "CD896F29ABA7B5705E502B30E01640A0",
+                    "encrypted_size_2": "F3463454052BBB2C236BB7EF85D67AE1"
                 }
             },
             "depotfromapp": "1611740"
@@ -87,28 +87,28 @@
                 "buildid": "2513063",
                 "timeupdated": "1518200532"
             },
-            "developer": {
-                "buildid": "9081385",
-                "description": "developer",
+            "publicqa": {
+                "buildid": "9091567",
+                "description": "private",
                 "pwdrequired": "1",
-                "timeupdated": "1657226979"
+                "timeupdated": "1657589423"
             },
             "server": {
-                "buildid": "9081385",
+                "buildid": "9091567",
                 "description": "server",
                 "pwdrequired": "1",
-                "timeupdated": "1657227032"
+                "timeupdated": "1657374924"
             },
             "staff": {
-                "buildid": "9081385",
+                "buildid": "9091567",
                 "description": "developer",
                 "pwdrequired": "1",
-                "timeupdated": "1657227045"
+                "timeupdated": "1657374888"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15354882,
-    "_sha": "46dd71b8ebbe81f6722e11e545cfc18f25f49b43",
-    "_size": 2635
+    "_change_number": 15401468,
+    "_sha": "d25d9463b919fc7d8cf1448177aed5673d942a08",
+    "_size": 2631
 }
