@@ -5,8 +5,8 @@
         "type": "Tool",
         "parent": "1714350",
         "releasestate": "released",
-        "oslist": "linux",
-        "osarch": "",
+        "oslist": "windows",
+        "osarch": "64",
         "osextended": "",
         "logo": "91b6ed7a7a5c132cdd52009e47d3ce0ebe258e46",
         "logo_small": "91b6ed7a7a5c132cdd52009e47d3ce0ebe258e46_thumb",
@@ -22,17 +22,19 @@
         "serverbrowsername": "Badlands"
     },
     "config": {
-        "installdir": "BadlandsServerBeta",
+        "installdir": "BadlandsServer",
         "launch": {
             "0": {
-                "executable": "./BadlandsServer.sh",
+                "executable": ".\\BadlandsServer.exe",
+                "arguments": "-log -unattended",
                 "type": "default",
                 "config": {
-                    "oslist": "linux",
+                    "oslist": "windows",
                     "osarch": "64"
                 }
             }
-        }
+        },
+        "uselaunchcommandline": "1"
     },
     "depots": {
         "1004": {
@@ -64,25 +66,41 @@
             "maxsize": "66706004",
             "depotfromapp": "1007"
         },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "maxsize": "29212173",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
         "1899971": {
             "config": {
-                "oslist": "linux",
+                "oslist": "windows",
                 "osarch": "64"
             },
             "manifests": {
-                "public": "3356224367664839750"
+                "public": "5038146580179168804"
             },
-            "maxsize": "1288265192"
+            "maxsize": "1283924089"
         },
         "branches": {
             "public": {
-                "buildid": "8441608",
-                "timeupdated": "1648246033"
+                "buildid": "9110426",
+                "timeupdated": "1657681206"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15150439,
-    "_sha": "59426994d9bdfa56e14fc79b7f78cf7ffd3bd668",
-    "_size": 1633
+    "_change_number": 15402996,
+    "_sha": "6a0cb328d988b95def0f66281c99b83fac61dcc4",
+    "_size": 1990
 }
