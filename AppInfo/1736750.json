@@ -100,7 +100,13 @@
             "manifests": {
                 "public": "1488170966838784035"
             },
-            "maxsize": "1064482410"
+            "maxsize": "1064482410",
+            "encryptedmanifests": {
+                "testing": {
+                    "encrypted_gid_2": "AAF344A92AAFAB8E6E6C5FF6ADC763A7",
+                    "encrypted_size_2": "80DF20A74AB44C6671495B398067EB41"
+                }
+            }
         },
         "1736752": {
             "config": {
@@ -118,14 +124,14 @@
                 "timeupdated": "1658096848"
             },
             "testing": {
-                "buildid": "9138133",
+                "buildid": "9142991",
                 "pwdrequired": "1",
-                "timeupdated": "1658093539"
+                "timeupdated": "1658162538"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15448994,
-    "_sha": "5011828b733640be94bcb76c31275de26697cf4e",
-    "_size": 2468
+    "_change_number": 15456373,
+    "_sha": "fdc82113012194262837c8047cf58fdde8021e81",
+    "_size": 2647
 }
