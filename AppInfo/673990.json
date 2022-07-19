@@ -68,7 +68,8 @@
                 "oslist": "windows,linux"
             },
             "manifests": {
-                "public": "4234163457178347676"
+                "public": "4234163457178347676",
+                "beta": "6056886428685366407"
             },
             "maxsize": "3475848157"
         },
@@ -78,9 +79,10 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "7234940909236053773"
+                "public": "7234940909236053773",
+                "beta": "5213828114770318767"
             },
-            "maxsize": "28052112"
+            "maxsize": "28052624"
         },
         "673993": {
             "name": "Linux Server Depot",
@@ -88,9 +90,10 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "8301557189283563689"
+                "public": "8301557189283563689",
+                "beta": "13559146394416854"
             },
-            "maxsize": "48601814"
+            "maxsize": "48602171"
         },
         "branches": {
             "public": {
@@ -98,9 +101,9 @@
                 "timeupdated": "1653656529"
             },
             "beta": {
-                "buildid": "8822272",
+                "buildid": "9147215",
                 "description": "BETA",
-                "timeupdated": "1653656509"
+                "timeupdated": "1658219078"
             },
             "develop": {
                 "buildid": "8822272",
@@ -116,7 +119,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15150439,
-    "_sha": "1f468cd872cdea085ea7028bbedbcc57923d0cf1",
-    "_size": 2468
+    "_change_number": 15463402,
+    "_sha": "8c884cf540db0f2be06b9834d635c3973d00a5ff",
+    "_size": 2568
 }
