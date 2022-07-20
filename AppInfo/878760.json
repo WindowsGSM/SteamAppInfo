@@ -80,7 +80,13 @@
             "manifests": {
                 "public": "8352513137424541143"
             },
-            "maxsize": "6497096926"
+            "maxsize": "6497096926",
+            "encryptedmanifests": {
+                "pts_latest": {
+                    "encrypted_gid_2": "01FEDC1C0B3B88777289D4A3F1F2D4A0",
+                    "encrypted_size_2": "2464188D496E0AEBEF8E3128E8A6E182"
+                }
+            }
         },
         "baselanguages": "english,german,french,koreana,schinese,russian,japanese,portuguese,polish,latam",
         "branches": {
@@ -89,15 +95,15 @@
                 "timeupdated": "1652205531"
             },
             "pts_latest": {
-                "buildid": "6554221",
+                "buildid": "9158827",
                 "description": "For game team testing before public release",
                 "pwdrequired": "1",
-                "timeupdated": "1658158424"
+                "timeupdated": "1658343953"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15455770,
-    "_sha": "5e0ea8d9d94677bcb7a1413b1eea0a8df9628820",
-    "_size": 2320
+    "_change_number": 15481695,
+    "_sha": "a8b9bd16a84adad1f845c9fab27ea9da59a639d9",
+    "_size": 2502
 }
