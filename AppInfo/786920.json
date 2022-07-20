@@ -97,7 +97,13 @@
                 "public": "3819547460122054",
                 "beta": "2673728390434841930"
             },
-            "maxsize": "699293658"
+            "maxsize": "699293658",
+            "encryptedmanifests": {
+                "alpha": {
+                    "encrypted_gid_2": "3AFD9D200372C287502393C1BFA6023D",
+                    "encrypted_size_2": "7B36D6254DB35FC9B6B9D173A7818122"
+                }
+            }
         },
         "786922": {
             "name": "SCP:SL ServerMod Linux",
@@ -110,7 +116,13 @@
                 "public": "8763699550376029254",
                 "beta": "1629931439422544185"
             },
-            "maxsize": "554152186"
+            "maxsize": "554152186",
+            "encryptedmanifests": {
+                "alpha": {
+                    "encrypted_gid_2": "450EC44C77DAD71C1F7F6016D8183917",
+                    "encrypted_size_2": "314500264BDB10C34B6B8B42A7E4942F"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -118,9 +130,9 @@
                 "timeupdated": "1658159669"
             },
             "alpha": {
-                "buildid": "9142461",
+                "buildid": "9157107",
                 "pwdrequired": "1",
-                "timeupdated": "1658156962"
+                "timeupdated": "1658326877"
             },
             "beta": {
                 "buildid": "9143535",
@@ -129,7 +141,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15457240,
-    "_sha": "7f4a9e7dd1b6efcaccf79fe3478bc62f7287fc39",
-    "_size": 2693
+    "_change_number": 15478595,
+    "_sha": "b974ef7b2a79507b644277eff0930f0acd9b7163",
+    "_size": 3047
 }
