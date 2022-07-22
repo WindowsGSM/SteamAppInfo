@@ -30,18 +30,15 @@
             "manifests": {
                 "public": "365865250952406005",
                 "aux01": "2514464261863239342",
+                "aux02": "2263594566130436875",
                 "release": "6050388252660016882",
                 "staging": "6624236877334837588"
             },
-            "maxsize": "511124227",
+            "maxsize": "534384559",
             "encryptedmanifests": {
                 "aux01-debug": {
                     "encrypted_gid_2": "72EF1FD0E945A4605AF2C903E6D94C33",
                     "encrypted_size_2": "730B078E508C175D834F92F47FA331D8"
-                },
-                "aux02": {
-                    "encrypted_gid_2": "E5B75181B7EA15EE15EB743906C2B869",
-                    "encrypted_size_2": "D755E2D44DA6C74190F567659D99FA79"
                 },
                 "aux02-debug": {
                     "encrypted_gid_2": "F4234CED4363346B759C1211415C76EE",
@@ -121,18 +118,15 @@
             "manifests": {
                 "public": "2789208052260098192",
                 "aux01": "2804633222536574036",
+                "aux02": "1060056578702346337",
                 "release": "5550157789509914787",
                 "staging": "8990904367268391810"
             },
-            "maxsize": "560923236",
+            "maxsize": "584992428",
             "encryptedmanifests": {
                 "aux01-debug": {
                     "encrypted_gid_2": "E943A51328A3977EC5B3276018AFBA04",
                     "encrypted_size_2": "945DF3847CE5BA2037F2FF02BB49B529"
-                },
-                "aux02": {
-                    "encrypted_gid_2": "18A9CC7F2B37E8CC6184D2B677526F6E",
-                    "encrypted_size_2": "4EC4BF636EEA4FE3E4713DF3C75F1DA1"
                 },
                 "aux02-debug": {
                     "encrypted_gid_2": "1399CCF7CB6756AD84ADA15F00E4E7F9",
@@ -212,6 +206,7 @@
             "manifests": {
                 "public": "6797459586901911047",
                 "aux01": "3103918118633768973",
+                "aux02": "28066240681238718",
                 "staging": "899729973444320203"
             },
             "maxsize": "460938568",
@@ -219,10 +214,6 @@
                 "aux01-debug": {
                     "encrypted_gid_2": "FC70A39CB38E5ED5C30863745976858D",
                     "encrypted_size_2": "6A27F3D36B0CFD3A9EC08EE128E27334"
-                },
-                "aux02": {
-                    "encrypted_gid_2": "9BB8E7D137EB3900FB4B096AFFF2BD8F",
-                    "encrypted_size_2": "4AEEE073E1865D8B514D93156FFDAC47"
                 },
                 "aux02-debug": {
                     "encrypted_gid_2": "E0E897919DE9B18F3FA96E4C054B09BA",
@@ -299,6 +290,7 @@
             "manifests": {
                 "public": "3962673735408689180",
                 "aux01": "9115992027107391679",
+                "aux02": "4123979187960921903",
                 "staging": "455398153744260994"
             },
             "maxsize": "6176515252",
@@ -306,10 +298,6 @@
                 "aux01-debug": {
                     "encrypted_gid_2": "614151D95AB646DAE5B572A407DF09E2",
                     "encrypted_size_2": "90982BCCAB56D9EB9D33BA8C6291AFFF"
-                },
-                "aux02": {
-                    "encrypted_gid_2": "59311F7DB81BF42867A00BC38AB8F42F",
-                    "encrypted_size_2": "1E0EB7ED4B06CE6867772AA9AE657138"
                 },
                 "aux02-debug": {
                     "encrypted_gid_2": "A067BED1413B869E8C867A18FEE1B9FC",
@@ -394,7 +382,7 @@
             },
             "aux02": {
                 "buildid": "9163362",
-                "pwdrequired": "1",
+                "description": "Trainyard_Update",
                 "timeupdated": "1658400400"
             },
             "aux02-debug": {
@@ -500,7 +488,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15494953,
-    "_sha": "a10afbcd592ac67283164588b86b26095dd9ffb6",
-    "_size": 15423
+    "_change_number": 15500679,
+    "_sha": "00bbe6eddcc7e3233a0805d9ec3f9cd050bb8bfc",
+    "_size": 15004
 }
