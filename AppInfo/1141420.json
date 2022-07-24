@@ -50,7 +50,17 @@
             "manifests": {
                 "public": "1777108337420820906"
             },
-            "maxsize": "1364047793"
+            "maxsize": "1364047793",
+            "encryptedmanifests": {
+                "dev-branch": {
+                    "encrypted_gid_2": "0D436634C604B67964CE40D2B6D961FD",
+                    "encrypted_size_2": "BAA48E458CF688828CE45BFE68B33CBA"
+                },
+                "public-test-branch": {
+                    "encrypted_gid_2": "54105E11D6121223BF717AB061E04575",
+                    "encrypted_size_2": "AC6D58590A65478FDC2015E18D881171"
+                }
+            }
         },
         "hasdepotsindlc": "1",
         "branches": {
@@ -59,19 +69,19 @@
                 "timeupdated": "1658502137"
             },
             "dev-branch": {
-                "buildid": "9171900",
+                "buildid": "9180190",
                 "pwdrequired": "1",
-                "timeupdated": "1658495768"
+                "timeupdated": "1658668557"
             },
             "public-test-branch": {
-                "buildid": "9171900",
+                "buildid": "9180190",
                 "pwdrequired": "1",
-                "timeupdated": "1658495775"
+                "timeupdated": "1658668562"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15503158,
-    "_sha": "22669743f58883d192c060449544ffbbbe95a5d8",
-    "_size": 1487
+    "_change_number": 15516430,
+    "_sha": "95a0391f71aa8a15c850e1d1f14addb303ffea08",
+    "_size": 1825
 }
