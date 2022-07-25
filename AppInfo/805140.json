@@ -90,6 +90,13 @@
             "name": "BATTALION 1944 Dedicated Server Content (Linux)",
             "config": {
                 "oslist": "linux"
+            },
+            "manifests": {},
+            "encryptedmanifests": {
+                "main_development": {
+                    "encrypted_gid_2": "53AD613B91C72EE6318F886B25279944",
+                    "encrypted_size_2": "A1BF96DDBAB42A80F7ACDB4A1D0FF76A"
+                }
             }
         },
         "branches": {
@@ -98,15 +105,15 @@
                 "timeupdated": "1576065176"
             },
             "main_development": {
-                "buildid": "9185271",
+                "buildid": "9185520",
                 "description": "main_development",
                 "pwdrequired": "1",
-                "timeupdated": "1658755648"
+                "timeupdated": "1658757922"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15524424,
-    "_sha": "ea5e1189ba6075ccece71549e1dcd8959cbde025",
-    "_size": 2358
+    "_change_number": 15524783,
+    "_sha": "394c88198d2bd71b25724d30d6338255aadb53ad",
+    "_size": 2571
 }
