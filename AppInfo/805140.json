@@ -1,17 +1,18 @@
 {
     "appid": "805140",
     "common": {
-        "name": "Battalion 1944 Dedicated Server",
+        "name": "BATTALION 1944 Dedicated Server",
         "type": "Tool",
         "parent": "489940",
         "releasestate": "released",
         "oslist": "windows,linux",
-        "osarch": "",
+        "osarch": "64",
         "logo": "d379d1b3b787addde8d8210f6bd6b0d6bc857d6e",
         "logo_small": "d379d1b3b787addde8d8210f6bd6b0d6bc857d6e_thumb",
         "icon": "e2aad6dcc6ad6ff7e612401c0a6492cc53225001",
         "clienttga": "17ac2d766d5ec788b028445646f95b8d1abff776",
         "clienticon": "6eb4fdf18d486ee767f4f40a556d7fa1c4870c99",
+        "osextended": "",
         "associations": {},
         "gameid": "805140"
     },
@@ -19,15 +20,15 @@
         "installdir": "Battalion 1944 Dedicated Server",
         "launch": {
             "0": {
-                "executable": "Windows/Run.bat",
-                "type": "server",
+                "executable": "BattalionServer.exe",
+                "type": "default",
                 "config": {
                     "oslist": "windows",
                     "osarch": "64"
                 }
             },
             "1": {
-                "executable": "Linux/Run.sh",
+                "executable": "BattalionServer.sh",
                 "type": "server",
                 "config": {
                     "oslist": "linux",
@@ -37,12 +38,53 @@
         }
     },
     "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "5329354416203291021"
+            },
+            "maxsize": "42086632",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "4444585935428744334"
+            },
+            "maxsize": "66706004",
+            "depotfromapp": "1007"
+        },
         "805141": {
-            "name": "Battalion 1944 Dedicated Server Content",
+            "name": "BATTALION 1944 Dedicated Server Content (Windows)",
+            "config": {
+                "oslist": "windows"
+            },
             "manifests": {
                 "public": "175389806278947342"
             },
             "maxsize": "3573135825"
+        },
+        "805142": {
+            "name": "BATTALION 1944 Dedicated Server Content (Linux)",
+            "config": {
+                "oslist": "linux"
+            }
         },
         "branches": {
             "public": {
@@ -52,7 +94,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15522665,
-    "_sha": "f5ffa779980df7498432a226d04a444028fd8cc3",
-    "_size": 1181
+    "_change_number": 15522915,
+    "_sha": "5fcb24579e181cf8d405a0ae384636e815e2b67a",
+    "_size": 2020
 }
