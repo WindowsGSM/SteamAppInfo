@@ -78,7 +78,13 @@
             "manifests": {
                 "public": "175389806278947342"
             },
-            "maxsize": "3573135825"
+            "maxsize": "3573135825",
+            "encryptedmanifests": {
+                "main_development": {
+                    "encrypted_gid_2": "64F87AA74D1B50FE5F7A969D04A3D86D",
+                    "encrypted_size_2": "7F9D97D0C2C82E2CE8A7B72B972D665E"
+                }
+            }
         },
         "805142": {
             "name": "BATTALION 1944 Dedicated Server Content (Linux)",
@@ -90,11 +96,17 @@
             "public": {
                 "buildid": "4481370",
                 "timeupdated": "1576065176"
+            },
+            "main_development": {
+                "buildid": "9184473",
+                "description": "main_development",
+                "pwdrequired": "1",
+                "timeupdated": "1658747228"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15522915,
-    "_sha": "5fcb24579e181cf8d405a0ae384636e815e2b67a",
-    "_size": 2020
+    "_change_number": 15523144,
+    "_sha": "bf9b7ac795aa0e7fa0616b75b7fa87f2af51156c",
+    "_size": 2358
 }
