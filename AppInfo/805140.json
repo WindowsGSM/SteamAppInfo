@@ -23,16 +23,14 @@
                 "executable": "BattalionServer.exe",
                 "type": "default",
                 "config": {
-                    "oslist": "windows",
-                    "osarch": "64"
+                    "oslist": "windows"
                 }
             },
             "1": {
                 "executable": "BattalionServer.sh",
                 "type": "default",
                 "config": {
-                    "oslist": "linux",
-                    "osarch": "64"
+                    "oslist": "linux"
                 }
             }
         }
@@ -96,6 +94,10 @@
                 "main_development": {
                     "encrypted_gid_2": "53AD613B91C72EE6318F886B25279944",
                     "encrypted_size_2": "A1BF96DDBAB42A80F7ACDB4A1D0FF76A"
+                },
+                "main_shipping": {
+                    "encrypted_gid_2": "55019F9E29DB502FE265D803345CA9BA",
+                    "encrypted_size_2": "8E6F7977EC0F880CB49DB98F8A36527B"
                 }
             }
         },
@@ -109,11 +111,17 @@
                 "description": "main_development",
                 "pwdrequired": "1",
                 "timeupdated": "1658757922"
+            },
+            "main_shipping": {
+                "buildid": "9185883",
+                "description": "main_shipping",
+                "pwdrequired": "1",
+                "timeupdated": "1658761696"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15525190,
-    "_sha": "08316b8393f080810eaa88b2273569bdcebcb0f6",
-    "_size": 2572
+    "_change_number": 15525345,
+    "_sha": "1f04dcfc33c2f3a176473eea2c87e9f34763911e",
+    "_size": 2827
 }
