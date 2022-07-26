@@ -80,6 +80,10 @@
                 "experimental_private": {
                     "encrypted_gid_2": "0B266E73B04327587DAB4AAA3A07C6BF",
                     "encrypted_size_2": "3F80C58B371CBB4E397A4459F3BA6A8E"
+                },
+                "samos": {
+                    "encrypted_gid_2": "E1BF367FC59FF55FC167C13238262F94",
+                    "encrypted_size_2": "BBA5DD3E677AC3B523644CC11F6774DD"
                 }
             }
         },
@@ -107,11 +111,16 @@
                 "buildid": "8406050",
                 "description": "Legacy branch for 0.5.0",
                 "timeupdated": "1656616569"
+            },
+            "samos": {
+                "buildid": "9194984",
+                "pwdrequired": "1",
+                "timeupdated": "1658868229"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15539398,
-    "_sha": "132b4b1f042e720955fe8d2c931765da31d0bc16",
-    "_size": 2557
+    "_change_number": 15539936,
+    "_sha": "ec8c81cb353c4e691ef68b3f29e496e38512eb21",
+    "_size": 2801
 }
