@@ -35,24 +35,24 @@
         "354061": {
             "name": "RaceRoom Dedicated Server Content",
             "manifests": {
-                "public": "449385569723759088"
+                "public": "2981533039151246753"
             },
-            "maxsize": "76392544",
+            "maxsize": "76803168",
             "encryptedmanifests": {
+                "livepreview": {
+                    "encrypted_gid_2": "BE04CED95FDB33D0BB7B15BE1FC6458C",
+                    "encrypted_size_2": "E458BFA028202107F3543E621E68DFFA"
+                },
                 "p.i.": {
                     "encrypted_gid_2": "491546EA20041EEE11BAE6B70DFEE896",
                     "encrypted_size_2": "079FC5AEA589112475FFF4313C274A1C"
-                },
-                "staging": {
-                    "encrypted_gid_2": "435FB8003115841C411064C095EB8ADF",
-                    "encrypted_size_2": "D9A31373287B1E28F01C254275E7D606"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "8895172",
-                "timeupdated": "1654702712"
+                "buildid": "9191414",
+                "timeupdated": "1658837766"
             },
             "livepreview": {
                 "buildid": "8895172",
@@ -74,7 +74,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15533804,
-    "_sha": "c4d1d4bcf85004d277dd31662ace1bac7d3e70ef",
-    "_size": 1793
+    "_change_number": 15535227,
+    "_sha": "6f835184feeb27bcd098786e85551f35bf30a2d6",
+    "_size": 1798
 }
