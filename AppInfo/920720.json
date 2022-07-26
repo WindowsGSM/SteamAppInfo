@@ -95,6 +95,10 @@
             },
             "maxsize": "5578332203",
             "encryptedmanifests": {
+                "classic": {
+                    "encrypted_gid_2": "D28263D71C79DD7562B75CDDD91335C3",
+                    "encrypted_size_2": "3796048D8D953A1C566DE1BCCB29116D"
+                },
                 "nightly": {
                     "encrypted_gid_2": "12E976D6FCABA8F48DF6BE0FEA202282",
                     "encrypted_size_2": "56B7279116B7E26C92A1FD0EC89619C5"
@@ -131,6 +135,12 @@
                 "buildid": "8049305",
                 "timeupdated": "1642615531"
             },
+            "classic": {
+                "buildid": "9193020",
+                "description": "Classic S4",
+                "pwdrequired": "1",
+                "timeupdated": "1658844777"
+            },
             "nightly": {
                 "buildid": "9189728",
                 "pwdrequired": "1",
@@ -151,7 +161,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15531343,
-    "_sha": "19cc9636637a6083592af976c4a70010d5dbf9c1",
-    "_size": 3489
+    "_change_number": 15536407,
+    "_sha": "a3328a0b7825e9bca72d657324eaa2f5426488d9",
+    "_size": 3769
 }
