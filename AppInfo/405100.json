@@ -84,7 +84,13 @@
                 "privatetest": "8615606840404614775",
                 "whagwan": "6186249394656305976"
             },
-            "maxsize": "956377460"
+            "maxsize": "956377460",
+            "encryptedmanifests": {
+                "tomtest": {
+                    "encrypted_gid_2": "4488255F4C8F4C01980D57950937F5C1",
+                    "encrypted_size_2": "8C94818821F7B7FD3385F2F1D620D29C"
+                }
+            }
         },
         "405102": {
             "name": "Hurtworld Dedicated Server Linux Depot",
@@ -98,7 +104,13 @@
                 "privatetest": "1886158277074520110",
                 "whagwan": "3544464017689656215"
             },
-            "maxsize": "998859671"
+            "maxsize": "998859671",
+            "encryptedmanifests": {
+                "tomtest": {
+                    "encrypted_gid_2": "E9C0D73BF7664E717BD6099352983A32",
+                    "encrypted_size_2": "79DDFD441D80C28A1F1A329C4EA348A0"
+                }
+            }
         },
         "405103": {
             "name": "Hurtworld Dedicated Server Shared Depot",
@@ -132,6 +144,12 @@
                 "buildid": "4479838",
                 "timeupdated": "1576028935"
             },
+            "tomtest": {
+                "buildid": "9190026",
+                "description": "Tom's testing branch",
+                "pwdrequired": "1",
+                "timeupdated": "1658811683"
+            },
             "whagwan": {
                 "buildid": "3240003",
                 "description": "Test",
@@ -140,7 +158,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15150439,
-    "_sha": "01e3cd1818ae490469119943d32c5029c08dc739",
-    "_size": 3141
+    "_change_number": 15531726,
+    "_sha": "bf765ae5568768606304c9f45e397fed781d29fe",
+    "_size": 3644
 }
