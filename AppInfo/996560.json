@@ -145,6 +145,10 @@
                     "encrypted_gid_2": "6A1211F65E16465750E6D74FAE7E4F72",
                     "encrypted_size_2": "537CDAB8FDAF116222E8BB5D3AC666C1"
                 },
+                "tech": {
+                    "encrypted_gid_2": "D4C13E581D425024DD9ACA1B94B99593",
+                    "encrypted_size_2": "7E6E7C15392B1FECC6E4135D82B46C93"
+                },
                 "thomasjosif-test": {
                     "encrypted_gid_2": "EDF5CD3CF2891C1AD5BF13FA3CA1E419",
                     "encrypted_size_2": "4DA50A6A6EAD407685FA2556F2447D40"
@@ -209,6 +213,10 @@
                 "qa-testing": {
                     "encrypted_gid_2": "7850F7F86C5B54CE2CB914FA724259CA",
                     "encrypted_size_2": "2DD33DC62F13B2680126768E74A9FEE5"
+                },
+                "tech": {
+                    "encrypted_gid_2": "10E41EB8452E0B5B080EF9FA18E474B5",
+                    "encrypted_size_2": "44BF43E46CFA2B65E99707D9552F2CBC"
                 },
                 "thomasjosif-test": {
                     "encrypted_gid_2": "A76EF3FD60B302FCA540866335606E96",
@@ -299,6 +307,12 @@
                 "pwdrequired": "1",
                 "timeupdated": "1651941594"
             },
+            "tech": {
+                "buildid": "9201950",
+                "description": "Technical branch",
+                "pwdrequired": "1",
+                "timeupdated": "1658944310"
+            },
             "thomasjosif-test": {
                 "buildid": "9166018",
                 "description": "I promise this branch won't global ban you",
@@ -308,7 +322,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15542615,
-    "_sha": "4125a54d9bc956d87f301aac72faf96a735c8105",
-    "_size": 8616
+    "_change_number": 15550377,
+    "_sha": "1f7135ab5cbebde16499023c07e62df55c1d27f5",
+    "_size": 9038
 }
