@@ -68,29 +68,21 @@
         },
         "1827331": {
             "manifests": {
-                "public": "4219484927933644598",
+                "public": "698807127298972238",
                 "legacy-0.5.0": "1216317778414128718"
             },
-            "maxsize": "1638907021",
+            "maxsize": "1638854232",
             "encryptedmanifests": {
                 "development": {
                     "encrypted_gid_2": "9C729524BD737AF019BB96B7BDB9326A",
                     "encrypted_size_2": "9A6FEE7A7CA1268A0D993FF2B32A31E3"
-                },
-                "experimental_private": {
-                    "encrypted_gid_2": "0B266E73B04327587DAB4AAA3A07C6BF",
-                    "encrypted_size_2": "3F80C58B371CBB4E397A4459F3BA6A8E"
-                },
-                "samos": {
-                    "encrypted_gid_2": "E1BF367FC59FF55FC167C13238262F94",
-                    "encrypted_size_2": "BBA5DD3E677AC3B523644CC11F6774DD"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "9191616",
-                "timeupdated": "1658832914"
+                "buildid": "9202850",
+                "timeupdated": "1658953425"
             },
             "development": {
                 "buildid": "9202758",
@@ -98,29 +90,24 @@
                 "timeupdated": "1658951522"
             },
             "experimental": {
-                "buildid": "9191616",
+                "buildid": "9202850",
                 "description": "Public experimental branch",
-                "timeupdated": "1658832906"
+                "timeupdated": "1658953498"
             },
             "experimental_private": {
-                "buildid": "9194984",
+                "buildid": "9202850",
                 "pwdrequired": "1",
-                "timeupdated": "1658864216"
+                "timeupdated": "1658952566"
             },
             "legacy-0.5.0": {
                 "buildid": "8406050",
                 "description": "Legacy branch for 0.5.0",
                 "timeupdated": "1656616569"
-            },
-            "samos": {
-                "buildid": "9194984",
-                "pwdrequired": "1",
-                "timeupdated": "1658868229"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15551319,
-    "_sha": "edf9618f6d57cc6d6d87ec5df835a4a4278a410b",
-    "_size": 2801
+    "_change_number": 15551643,
+    "_sha": "d5e3c8587bd17be56569714e16125e763025e37f",
+    "_size": 2398
 }
