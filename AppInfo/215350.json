@@ -27,14 +27,26 @@
             "manifests": {
                 "public": "9033622738747915238"
             },
-            "maxsize": "2262659300"
+            "maxsize": "2262659300",
+            "encryptedmanifests": {
+                "internalbeta": {
+                    "encrypted_gid_2": "FFE8CA49F279E806E10FCF50CA3A61AB",
+                    "encrypted_size_2": "03CDA6D7B677EF81D592696E38AF3FA0"
+                }
+            }
         },
         "1253": {
             "name": "Killing Floor Win32 Content",
             "manifests": {
                 "public": "3588045873416010845"
             },
-            "maxsize": "106304112"
+            "maxsize": "106304112",
+            "encryptedmanifests": {
+                "internalbeta": {
+                    "encrypted_gid_2": "305588757AF42872F10C9E1B2DED68A4",
+                    "encrypted_size_2": "E447B25E6A118086B356B7D1125CC0BB"
+                }
+            }
         },
         "overridescddb": "1",
         "branches": {
@@ -50,7 +62,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14367404,
-    "_sha": "b267e7ea4c441f08fc9ec55dbdcf2869afd6f361",
-    "_size": 1060
+    "_change_number": 15577664,
+    "_sha": "150e15ccd8037102f54e49be33281c481e5f3352",
+    "_size": 1428
 }

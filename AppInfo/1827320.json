@@ -65,9 +65,16 @@
         "1827321": {
             "manifests": {
                 "public": "5470218288448073740",
+                "experimental": "5470218288448073740",
                 "legacy-0.5.0": "8038786419468823174"
             },
-            "maxsize": "1543931686"
+            "maxsize": "1543931686",
+            "encryptedmanifests": {
+                "experimental_private": {
+                    "encrypted_gid_2": "BAAA9A901C1268EE1D4746CEF0F9D63A",
+                    "encrypted_size_2": "33FA64C376674CE44D20C08DCBFA1791"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -92,7 +99,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15551642,
-    "_sha": "06fff17e8443ed743fe2ff440c926c3d88d4ef65",
-    "_size": 2051
+    "_change_number": 15577664,
+    "_sha": "32bb2a5ceaeb32217a6e4e32f5404aa5cbf31956",
+    "_size": 2285
 }

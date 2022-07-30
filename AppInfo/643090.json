@@ -108,6 +108,10 @@
                 "staging": {
                     "encrypted_gid_2": "1F1EC9005A35394B41E9F6547FBF9304",
                     "encrypted_size_2": "972E8E00CB8FFE79774AE53DF6DEA886"
+                },
+                "staging_alpha": {
+                    "encrypted_gid_2": "FF594B5AA00CE1405E4C97153A3B66A1",
+                    "encrypted_size_2": "EFCA786D17A7536BF2A43182B1E95E05"
                 }
             }
         },
@@ -141,6 +145,10 @@
                 "staging": {
                     "encrypted_gid_2": "B88C5BCF0C363952F2AC0D99CD491E6B",
                     "encrypted_size_2": "5867EE1294B740D47869FB454D5FB496"
+                },
+                "staging_alpha": {
+                    "encrypted_gid_2": "128037730417AEB6564968E0D4D66D8C",
+                    "encrypted_size_2": "C59AFB7BD2F00558A7C0FCA6ABAAD519"
                 }
             }
         },
@@ -156,6 +164,14 @@
             },
             "maxsize": "29239903",
             "encryptedmanifests": {
+                "consoles": {
+                    "encrypted_gid_2": "12A2CD5D0C990848FA5B52D4F5928843",
+                    "encrypted_size_2": "EB1B008035BD01A2D0B9AE4AC0260500"
+                },
+                "historical_internal": {
+                    "encrypted_gid_2": "EBF1C8A254682757E570936DCB0F267B",
+                    "encrypted_size_2": "5FD8CB7FB6A07AB11BAF453DFE88376A"
+                },
                 "sdk_test": {
                     "encrypted_gid_2": "CC71DF13740D5FB4B3C288E98EBA308E",
                     "encrypted_size_2": "20D913437E48C95E726F0469F42C9DDD"
@@ -163,6 +179,14 @@
                 "snowday": {
                     "encrypted_gid_2": "7CDF69F807338C5CB92B0D65159C1013",
                     "encrypted_size_2": "A2A13816E8AF7C30F4BFEAB65C61EF2F"
+                },
+                "staging": {
+                    "encrypted_gid_2": "79CB3F7B35255888F3E770FA3AFCE7C6",
+                    "encrypted_size_2": "7A5C2BA437E56E9C31F98CC2A9349A28"
+                },
+                "staging_alpha": {
+                    "encrypted_gid_2": "7D623BD7DF50076E46E9CAC2E69BA570",
+                    "encrypted_size_2": "106C80F49E21E241010A4405962E000F"
                 }
             }
         },
@@ -209,7 +233,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15434780,
-    "_sha": "253490d2669bf6e9f600d07095c875d78ea2d303",
-    "_size": 5271
+    "_change_number": 15577664,
+    "_sha": "5a9189cb7534785e4f3479b3cd7440dd2d86e4ee",
+    "_size": 6172
 }

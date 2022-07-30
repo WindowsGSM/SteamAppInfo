@@ -119,7 +119,13 @@
             "manifests": {
                 "public": "4167413743827899035"
             },
-            "maxsize": "205582594"
+            "maxsize": "205582594",
+            "encryptedmanifests": {
+                "buildtest": {
+                    "encrypted_gid_2": "631025F121ABC89715165E82C994E71C",
+                    "encrypted_size_2": "396237BBE3DBED5E666EF286A25952B4"
+                }
+            }
         },
         "1169373": {
             "config": {
@@ -129,7 +135,13 @@
             "manifests": {
                 "public": "3325434589457135584"
             },
-            "maxsize": "222199682"
+            "maxsize": "222199682",
+            "encryptedmanifests": {
+                "buildtest": {
+                    "encrypted_gid_2": "879EFCDFE5C4A26AF27030050BAD99E7",
+                    "encrypted_size_2": "34AB503C210920FD07D512C002B4F188"
+                }
+            }
         },
         "1169374": {
             "config": {
@@ -138,7 +150,13 @@
             "manifests": {
                 "public": "7986793149790804069"
             },
-            "maxsize": "231003135"
+            "maxsize": "231003135",
+            "encryptedmanifests": {
+                "buildtest": {
+                    "encrypted_gid_2": "E29059E2A6BBFA5A5090F88D12415304",
+                    "encrypted_size_2": "25919CE4A312AC47F3053E500916E0AC"
+                }
+            }
         },
         "1169375": {
             "config": {
@@ -147,7 +165,13 @@
             "manifests": {
                 "public": "6875577542589100997"
             },
-            "maxsize": "261144840"
+            "maxsize": "261144840",
+            "encryptedmanifests": {
+                "buildtest": {
+                    "encrypted_gid_2": "638A66C6B4DF7793C3717376B95F1F4E",
+                    "encrypted_size_2": "7FBB6EC132D4E2C0A672303E33B27581"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -162,7 +186,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15381586,
-    "_sha": "706152556f3733f8fc817b9e01586eb725a016d5",
-    "_size": 3468
+    "_change_number": 15577664,
+    "_sha": "30d45f9fc4575b0df8bbebaa03b2c69240a39691",
+    "_size": 4192
 }

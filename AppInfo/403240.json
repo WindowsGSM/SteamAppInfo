@@ -144,6 +144,14 @@
                     "encrypted_gid_2": "6A8AEB44CECFFD786068074980C0D67B",
                     "encrypted_size_2": "E61A263BD9D785213EFA1F31F350F015"
                 },
+                "squad_main": {
+                    "encrypted_gid_2": "9E5F7BDB6311A44378CC0332E2C7458D",
+                    "encrypted_size_2": "71697B3D75AD7163EB9C476C43734AFA"
+                },
+                "squad_release": {
+                    "encrypted_gid_2": "32FF5882383ED5E659C37C55103ACA8E",
+                    "encrypted_size_2": "A44DC2C5B74F81F8CF285F3FFBC914B4"
+                },
                 "squad_tournament": {
                     "encrypted_gid_2": "95A1E5D49C6BFAA9E757F8FD5B0B277D",
                     "encrypted_size_2": "894D989647FD55CFBEA8B587D38DC117"
@@ -191,6 +199,14 @@
                     "encrypted_gid_2": "8101313B3CCB77B2E94C554EC2BF5B8C",
                     "encrypted_size_2": "C25D584502F4CB2A8EE1D833EACF2D3E"
                 },
+                "squad_main": {
+                    "encrypted_gid_2": "232340D84B1981C2025F8EA34673C3D4",
+                    "encrypted_size_2": "98DAE5D28670BEE4741BCFEEF0ECA389"
+                },
+                "squad_release": {
+                    "encrypted_gid_2": "ECE962CC167A482FD9C16394329B9560",
+                    "encrypted_size_2": "838C522DE0415336ADAE1C9AD27F36D7"
+                },
                 "squad_tournament": {
                     "encrypted_gid_2": "66CEE2C019376EFEF0B79B73D7901F20",
                     "encrypted_size_2": "F05834374A23D8B88042FA4D8B2959F4"
@@ -201,13 +217,27 @@
             "name": "CAF DLC Depot",
             "dlcappid": "1123920",
             "manifests": {
-                "public": "8509449628493661206"
+                "public": "8509449628493661206",
+                "performance_hotfix": "8509449628493661206",
+                "squad_tournament": "8509449628493661206"
             },
             "maxsize": "15654",
             "encryptedmanifests": {
                 "backtracking": {
                     "encrypted_gid_2": "4352485CFEEFA3994253D2144A517482",
                     "encrypted_size_2": "55DE0A23036AFD72FC8AE0F40071D98B"
+                },
+                "squad_experimental": {
+                    "encrypted_gid_2": "6471D0C50007D56B1BBFA5561278928D",
+                    "encrypted_size_2": "38BBC4D408E149FE323CEBD05B018221"
+                },
+                "squad_main": {
+                    "encrypted_gid_2": "81008E04E853900E2BB0278CC970FB0F",
+                    "encrypted_size_2": "3A1A643DC33AEE90B77E396F854BAD52"
+                },
+                "squad_release": {
+                    "encrypted_gid_2": "6EDA25A524BEF748B8997D93D19343C4",
+                    "encrypted_size_2": "0363CFD8664B5D41F12AB387E6174D64"
                 },
                 "squad_steamfix": {
                     "encrypted_gid_2": "FB14A2F478809EA6AB44F26AB9476FC0",
@@ -304,11 +334,16 @@
                 "description": "OISC Branch",
                 "pwdrequired": "1",
                 "timeupdated": "1572096224"
+            },
+            "performance_hotfix": {
+                "buildid": "9034353",
+                "description": "branch addressing various performance issues",
+                "timeupdated": "1658424372"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15286462,
-    "_sha": "a726f30afd7f5e5638e83804e7e4e865e360ed65",
-    "_size": 7980
+    "_change_number": 15577664,
+    "_sha": "5523d6662b179a98dafaa52439fb6f0ded4f0738",
+    "_size": 9284
 }

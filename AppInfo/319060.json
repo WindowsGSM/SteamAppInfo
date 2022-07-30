@@ -74,7 +74,8 @@
             "name": "Lambda Wars Content",
             "systemdefined": "1",
             "manifests": {
-                "public": "3648697680421550019"
+                "public": "3648697680421550019",
+                "dev": "3648697680421550019"
             },
             "maxsize": "5469774194",
             "encryptedmanifests": {
@@ -94,11 +95,16 @@
                 "description": "Go Development",
                 "pwdrequired": "1",
                 "timeupdated": "1605164504"
+            },
+            "dev": {
+                "buildid": "7179292",
+                "description": "Development",
+                "timeupdated": "1628773284"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15150439,
-    "_sha": "4fe11b7a79776312261d431aecf74dcb2446e7de",
-    "_size": 2186
+    "_change_number": 15577664,
+    "_sha": "951a07e6c67aaa8ba3563b2dbb29e891f1d9957d",
+    "_size": 2328
 }

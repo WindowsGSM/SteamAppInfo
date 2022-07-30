@@ -37,13 +37,18 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "2187940409178066969"
+                "public": "2187940409178066969",
+                "live-server-version": "2187940409178066969"
             },
             "maxsize": "2553557103",
             "encryptedmanifests": {
                 "developer-only": {
                     "encrypted_gid_2": "FD78B46962DB74C438570903AEDF67A6",
                     "encrypted_size_2": "AA2061227626DB68D7E607A2310F8FB5"
+                },
+                "test-branch": {
+                    "encrypted_gid_2": "C8674AAB179BB76EFFEF712A5DDA4C2C",
+                    "encrypted_size_2": "3FF0C6C3D72BBAF5D554B1D3E6AC5FC3"
                 }
             }
         },
@@ -91,7 +96,7 @@
         "ignoreexternalfiles": "1"
     },
     "_missing_token": false,
-    "_change_number": 14367404,
-    "_sha": "e1205859e4f0dcb76c84b9b94ae0dc22fb56b338",
-    "_size": 2065
+    "_change_number": 15577664,
+    "_sha": "5d7ed39087178e59d3a7a07844755706906c3b7a",
+    "_size": 2263
 }

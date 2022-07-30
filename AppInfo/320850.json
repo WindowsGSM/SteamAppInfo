@@ -107,7 +107,17 @@
                 "vanilla-1.3.6": "5093086696602286775",
                 "x32-legacy": "1874772539048519406"
             },
-            "maxsize": "1372307141"
+            "maxsize": "1372307141",
+            "encryptedmanifests": {
+                "beta": {
+                    "encrypted_gid_2": "1E825174D50F9BC6B5CBB5D3B8E22DE6",
+                    "encrypted_size_2": "E7D9A74949FEC09F4FA9EAC58BAE9E02"
+                },
+                "public-beta": {
+                    "encrypted_gid_2": "68F6DEC2AD90FCA39B45BA8DE9ABFA76",
+                    "encrypted_size_2": "C84310D483C5F28A0CB3FA995EF3C095"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -143,7 +153,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15150439,
-    "_sha": "5ac1b4664f4a0e44185a5e36845ce74dba13831b",
-    "_size": 3203
+    "_change_number": 15577664,
+    "_sha": "e5f6e094d9c5f3705adb8d9f8bc4bd37b209eda9",
+    "_size": 3528
 }

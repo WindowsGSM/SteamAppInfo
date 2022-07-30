@@ -8,8 +8,7 @@
         "osarch": "",
         "osextended": "macos64",
         "associations": {},
-        "gameid": "258550",
-        "store_tags": {}
+        "gameid": "258550"
     },
     "extended": {
         "gamedir": ""
@@ -207,6 +206,7 @@
                 "public": "6797459586901911047",
                 "aux01": "3103918118633768973",
                 "aux02": "28066240681238718",
+                "release": "6797459586901911047",
                 "staging": "899729973444320203"
             },
             "maxsize": "460938568",
@@ -291,6 +291,7 @@
                 "public": "3962673735408689180",
                 "aux01": "7082471384434828787",
                 "aux02": "8309688737728776896",
+                "release": "3962673735408689180",
                 "staging": "3737290678764897056"
             },
             "maxsize": "6180591672",
@@ -342,6 +343,10 @@
                 "hdrp-debug": {
                     "encrypted_gid_2": "9D9ECE9C8C6E1982EA608E666883DEA0",
                     "encrypted_size_2": "1B7A89A69F102E5F2153C1FED28F7085"
+                },
+                "release-debug": {
+                    "encrypted_gid_2": "9BB652283D39D78493EEE2FA56421716",
+                    "encrypted_size_2": "3D670A6D49CF0ECDE1BC756BD0C0FD88"
                 },
                 "staging-debug": {
                     "encrypted_gid_2": "E75F22C65E5CB9ED3599E39B9F96557A",
@@ -488,7 +493,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15575222,
-    "_sha": "d0fe2dbf544595314577437bfe71f0dc401f108d",
-    "_size": 15004
+    "_change_number": 15577664,
+    "_sha": "b9fdb83063ba5f4bd179c9a1b7ca894decb500ea",
+    "_size": 15206
 }

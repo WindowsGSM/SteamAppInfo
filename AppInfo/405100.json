@@ -79,6 +79,7 @@
             },
             "manifests": {
                 "public": "7239348504016050697",
+                "devtest": "7239348504016050697",
                 "legacy": "9185763667898370055",
                 "oldversion": "456048003566330781",
                 "privatetest": "8615606840404614775",
@@ -99,6 +100,7 @@
             },
             "manifests": {
                 "public": "7147860276082064604",
+                "devtest": "7147860276082064604",
                 "legacy": "6925592058745733688",
                 "oldversion": "6507461316042360070",
                 "privatetest": "1886158277074520110",
@@ -116,11 +118,19 @@
             "name": "Hurtworld Dedicated Server Shared Depot",
             "manifests": {
                 "public": "4737024751331444294",
+                "devtest": "4737024751331444294",
                 "legacy": "8545715084088772803",
+                "oldversion": "4737024751331444294",
                 "privatetest": "7082597167772959456",
                 "whagwan": "1948679995373904297"
             },
-            "maxsize": "3488098176"
+            "maxsize": "3488098176",
+            "encryptedmanifests": {
+                "tomtest": {
+                    "encrypted_gid_2": "C03C008F989FFABD0741D4EDD4FD4EEE",
+                    "encrypted_size_2": "0C70E8227AE7D0259AA0E34631108D29"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -158,7 +168,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15531726,
-    "_sha": "bf765ae5568768606304c9f45e397fed781d29fe",
-    "_size": 3644
+    "_change_number": 15577664,
+    "_sha": "e6c3009bbf2ee972260db83c63126bba87a36d0e",
+    "_size": 3974
 }

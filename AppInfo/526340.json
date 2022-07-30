@@ -76,6 +76,8 @@
             },
             "manifests": {
                 "public": "2474946242308153973",
+                "beta": "2474946242308153973",
+                "experimental": "2474946242308153973",
                 "oldversion1.0.23": "7961305307615314124",
                 "oldversion1.0.26": "6784511348148589275",
                 "oldversion1.0.28": "3110308815677349747",
@@ -97,7 +99,13 @@
                 "oldversion1.6.7": "4463921069298452819",
                 "oldversion1.7.3": "297005032921748297"
             },
-            "maxsize": "30665687"
+            "maxsize": "30665687",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "34A48504358564DAED62EEF5FD93BCD0",
+                    "encrypted_size_2": "BE67990EE2A8D8578977D82F7C3F722E"
+                }
+            }
         },
         "526342": {
             "name": "Voxel Turf Server Depot Win64",
@@ -107,6 +115,8 @@
             },
             "manifests": {
                 "public": "5630789770278749131",
+                "beta": "5630789770278749131",
+                "experimental": "5630789770278749131",
                 "oldversion1.0.23": "7115252530271934394",
                 "oldversion1.0.26": "7384438679782686062",
                 "oldversion1.0.28": "1444091633288953737",
@@ -128,7 +138,13 @@
                 "oldversion1.6.7": "3605641193700494694",
                 "oldversion1.7.3": "2970268966471880750"
             },
-            "maxsize": "35684228"
+            "maxsize": "35684228",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "09A6E70AE160FBE20DAAEEE821060761",
+                    "encrypted_size_2": "EFD52AFAF0D0531191692366331205B6"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -235,7 +251,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15150439,
-    "_sha": "19ef4d56a21e87fd90b09d964aa9eee745e31c0e",
-    "_size": 5977
+    "_change_number": 15577664,
+    "_sha": "efe86dc90b05b0eef7f34b2a86d51e491944b897",
+    "_size": 6495
 }

@@ -79,10 +79,15 @@
             },
             "manifests": {
                 "public": "6357475745899903866",
+                "beta": "6357475745899903866",
                 "spike_scripts": "8105296059077331626"
             },
             "maxsize": "874782351",
             "encryptedmanifests": {
+                "alpha": {
+                    "encrypted_gid_2": "29BF000ADB8602D02DC3B37C882D295D",
+                    "encrypted_size_2": "FAC62A6835F39796EBBECDDED07A80A2"
+                },
                 "buildsystem2": {
                     "encrypted_gid_2": "5C43E6874F76E9B6F250CBCF1E55F487",
                     "encrypted_size_2": "9EC7094131AD398A244ED69DEBE38973"
@@ -108,10 +113,15 @@
             },
             "manifests": {
                 "public": "5273457708971052480",
+                "beta": "5273457708971052480",
                 "spike_scripts": "7597919251411307751"
             },
             "maxsize": "845543801",
             "encryptedmanifests": {
+                "alpha": {
+                    "encrypted_gid_2": "6AEC4FE867C3AAEE867EB311832C7CCC",
+                    "encrypted_size_2": "FAD89CA12D6E31AB1E02B7DA62DDA0AB"
+                },
                 "buildsystem2": {
                     "encrypted_gid_2": "4C514847DEF8C25351835A1DAC4ECC40",
                     "encrypted_size_2": "FFDF15A19790F1451A919B1EADBCA994"
@@ -119,6 +129,10 @@
                 "integration": {
                     "encrypted_gid_2": "163D2E11E5CCDA3ADA6D180DA2C26AA3",
                     "encrypted_size_2": "75FAB142201D437B10855FDCF4CE6A52"
+                },
+                "smithys_test_branch": {
+                    "encrypted_gid_2": "2084E5271C30361166E75CDEEE217E55",
+                    "encrypted_size_2": "3CD6025014BF1EC04E20FDE9459B6639"
                 },
                 "vulcanstorm": {
                     "encrypted_gid_2": "9FEE4F802E5027CC7499339CD4872992",
@@ -130,6 +144,7 @@
             "name": "Empires Assets",
             "manifests": {
                 "public": "1629418251123961712",
+                "beta": "1629418251123961712",
                 "spike_scripts": "9069717307537596528"
             },
             "maxsize": "4695241612",
@@ -160,10 +175,15 @@
             "name": "Empires Scripts",
             "manifests": {
                 "public": "9218890676133482858",
+                "beta": "9218890676133482858",
                 "spike_scripts": "1867167178164905420"
             },
             "maxsize": "1168569",
             "encryptedmanifests": {
+                "alpha": {
+                    "encrypted_gid_2": "C7F7ED5F4F6A57220070ACBD057738D3",
+                    "encrypted_size_2": "EA41114406EC8B966DF69A097786158B"
+                },
                 "buildsystem2": {
                     "encrypted_gid_2": "0E590D4F3561D363F36ADDD3880EB5F9",
                     "encrypted_size_2": "98ED2684CC3903AAB5DD919C08D12DE3"
@@ -171,6 +191,10 @@
                 "integration": {
                     "encrypted_gid_2": "A3498ABFAC58E39DF750E34B8699EDEC",
                     "encrypted_size_2": "B0736912D066CE39F0303F7E7A2F5B70"
+                },
+                "smithys_test_branch": {
+                    "encrypted_gid_2": "2F8C662CF8E0ACE20E28016531176264",
+                    "encrypted_size_2": "9DB007FB7073FDF703CCA33675E58CA9"
                 },
                 "vulcanstorm": {
                     "encrypted_gid_2": "31FAB888CFA531BB7FC78D478B6C8B10",
@@ -185,10 +209,15 @@
             },
             "manifests": {
                 "public": "5940289509161809159",
+                "beta": "5940289509161809159",
                 "spike_scripts": "1326409998500457215"
             },
             "maxsize": "51392280",
             "encryptedmanifests": {
+                "alpha": {
+                    "encrypted_gid_2": "5ED08BF7E174C9C807D1B641D232B1FE",
+                    "encrypted_size_2": "C981B4CB75814C8352CE5CC36B8F6CC4"
+                },
                 "buildsystem2": {
                     "encrypted_gid_2": "F3DB28204C1BE33B8CC9247E36736352",
                     "encrypted_size_2": "0B3469B15CC71B4DC2B1595461273AE0"
@@ -214,10 +243,15 @@
             },
             "manifests": {
                 "public": "3321148082619537840",
+                "beta": "3321148082619537840",
                 "spike_scripts": "1748286824906134920"
             },
             "maxsize": "12732928",
             "encryptedmanifests": {
+                "alpha": {
+                    "encrypted_gid_2": "89B26DD3C7ABB75EE6D890AB272CF232",
+                    "encrypted_size_2": "4A57677602959C81E975651C0DEC36BA"
+                },
                 "buildsystem2": {
                     "encrypted_gid_2": "A25B1F295337C5F5B001FDA0C51912E5",
                     "encrypted_size_2": "6EFF90B207F4EE4511202F3B6D0843AE"
@@ -279,7 +313,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15241644,
-    "_sha": "d24e7221b71d21e3dc30a05429c920479fe1798c",
-    "_size": 7504
+    "_change_number": 15577664,
+    "_sha": "9249e27e6a75de02f29abd2e32d3ca31b8aa2881",
+    "_size": 8737
 }

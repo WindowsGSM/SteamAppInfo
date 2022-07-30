@@ -52,8 +52,7 @@
         "steam_release_date": "1522940400",
         "community_visible_stats": "1",
         "community_hub_visible": "1",
-        "gameid": "770720",
-        "store_tags": {}
+        "gameid": "770720"
     },
     "config": {
         "installdir": "Hunt Showdown (Test Server)",
@@ -243,12 +242,12 @@
                     "encrypted_size_2": "7592B6C3F051F70999448DD81B986FA1"
                 },
                 "latest": {
-                    "encrypted_gid_2": "0A1C5F28D997B0BCC4F2F05B0F4527EF",
-                    "encrypted_size_2": "BBCEDA96DC63C125F7512EFFDAE2E2CD"
+                    "encrypted_gid_2": "F5D87FFCFA1E75583A8B8C0A4B223A7F",
+                    "encrypted_size_2": "CB6704F0443513F14381DD58ABA0411C"
                 },
                 "lightweight_profiler": {
-                    "encrypted_gid_2": "C146DA2E6C33DA72E15D78A331F3C6AF",
-                    "encrypted_size_2": "022489A8A246D538561C6CA97693311F"
+                    "encrypted_gid_2": "768CE348292E777D93EBAE039BAA4DF3",
+                    "encrypted_size_2": "2B59AD3A9DD1A62C5D79E665FD34851E"
                 },
                 "mkt_recording": {
                     "encrypted_gid_2": "3A9BAE17A3FA4E5396494A264519055F",
@@ -296,12 +295,12 @@
                     "encrypted_size_2": "FB9B8FFD5397DB30295312A8538E638A"
                 },
                 "latest": {
-                    "encrypted_gid_2": "55B735B4D158AB1A99D02B7AD8AB9E1D",
-                    "encrypted_size_2": "92E3EFB2B58562FE8116F7CACC0A0583"
+                    "encrypted_gid_2": "F694BE32074B8C0C5F0A6AF18D94D399",
+                    "encrypted_size_2": "8D1190ECFB20B87EA5AF6388C93CB5B9"
                 },
                 "lightweight_profiler": {
-                    "encrypted_gid_2": "057815E30829E55B5FE5DCE291480ADE",
-                    "encrypted_size_2": "27C256824701FC9E92067207C786344D"
+                    "encrypted_gid_2": "64FB7774C86780EF1C789CA6A2BF7CE2",
+                    "encrypted_size_2": "0D1A0AB4A8142B3CC19AE8EEAEA56A9E"
                 },
                 "mkt_recording": {
                     "encrypted_gid_2": "E9DCA57C40E5DCE19DE8A90725C74B52",
@@ -386,6 +385,48 @@
             },
             "manifests": {
                 "public": "1633632636785229434"
+            },
+            "encryptedmanifests": {
+                "current": {
+                    "encrypted_gid_2": "6B79E0632F06FA48440FD6EE2D335D2F",
+                    "encrypted_size_2": "F2BFA34734FC054F15A06024F6174AE7"
+                },
+                "hw_test": {
+                    "encrypted_gid_2": "4E513D4EF47D899CD967095FC25E6C2A",
+                    "encrypted_size_2": "F96A4B8C17AC7F9973F8444774BB8610"
+                },
+                "k-w-s": {
+                    "encrypted_gid_2": "6F3EBC459638F23E743782A8B9387E82",
+                    "encrypted_size_2": "18A5B996B378BEEC80AD36F8BAB251C7"
+                },
+                "latest": {
+                    "encrypted_gid_2": "C091CA544879CC3B65DD35D50ADD0586",
+                    "encrypted_size_2": "8B17FFA7D78F55908B9538F784D3F1F6"
+                },
+                "lightweight_profiler": {
+                    "encrypted_gid_2": "1B14BA5A057DA4A42F73423ABB4595D4",
+                    "encrypted_size_2": "DA9B70B6CD84EE69B2D4D89A0D8806B3"
+                },
+                "mkt_recording": {
+                    "encrypted_gid_2": "0BC6E0A8FDE678D76900999465DE055D",
+                    "encrypted_size_2": "392CC7B0ECEA5A56126445A12A31541F"
+                },
+                "playtest_external": {
+                    "encrypted_gid_2": "C271FA78DA763EA503FE082F560C411A",
+                    "encrypted_size_2": "F29531ADC06F996CD935C114FEE86214"
+                },
+                "qa_testroom": {
+                    "encrypted_gid_2": "F09F7E6BE447D6D4239B8B3D2F5742B0",
+                    "encrypted_size_2": "D5035BBD8FB1259BAF1B79895E6F73FC"
+                },
+                "qa_testroom_2": {
+                    "encrypted_gid_2": "F9A617478A2E7DBC7BDE427361999F77",
+                    "encrypted_size_2": "710CC5677DD8A9052796174425433B94"
+                },
+                "teamtest": {
+                    "encrypted_gid_2": "9E8E7AB44031E0A90CEEB12A477DBF0F",
+                    "encrypted_size_2": "622BBFBBA1FBE38ECF6DB98D4155C053"
+                }
             }
         },
         "branches": {
@@ -411,16 +452,16 @@
                 "timeupdated": "1639756138"
             },
             "latest": {
-                "buildid": "9216051",
+                "buildid": "9219534",
                 "description": "latest uploaded build",
                 "pwdrequired": "1",
-                "timeupdated": "1659101764"
+                "timeupdated": "1659142640"
             },
             "lightweight_profiler": {
-                "buildid": "9216146",
+                "buildid": "9219538",
                 "description": "lightweight_profiler",
                 "pwdrequired": "1",
-                "timeupdated": "1659102638"
+                "timeupdated": "1659142682"
             },
             "mkt_recording": {
                 "buildid": "9102606",
@@ -452,7 +493,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15572191,
-    "_sha": "c1796f59e647d7e2126428998ffe8dd3b4373322",
-    "_size": 12297
+    "_change_number": 15577664,
+    "_sha": "9dbb1b43c4fdc6ecb924bd473112564bc22b8c9f",
+    "_size": 13795
 }

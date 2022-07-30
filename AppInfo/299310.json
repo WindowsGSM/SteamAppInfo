@@ -29,9 +29,21 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "4201954085750104536"
+                "public": "4201954085750104536",
+                "publicbeta": "4201954085750104536",
+                "revo-1.02": "4201954085750104536"
             },
-            "maxsize": "15134176"
+            "maxsize": "15134176",
+            "encryptedmanifests": {
+                "closedbeta": {
+                    "encrypted_gid_2": "C0B42D2894F4B934719FFA0BEE4A99E6",
+                    "encrypted_size_2": "C23ABB2E6DBBACA566EF5D11312225C7"
+                },
+                "developer": {
+                    "encrypted_gid_2": "985ACF2E82564CDA8DD36EDEB4C7AFC3",
+                    "encrypted_size_2": "BA8E75B6676FAC9CE7E2076F2219F9DD"
+                }
+            }
         },
         "227781": {
             "name": "Serious Sam: Revolution Content",
@@ -68,7 +80,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14367404,
-    "_sha": "381acd77c66a2b1230cb9c7d29152325760232bc",
-    "_size": 1429
+    "_change_number": 15577664,
+    "_sha": "1e110c99503f7e2b528a2bfdfd7f8f0964d5a856",
+    "_size": 1837
 }

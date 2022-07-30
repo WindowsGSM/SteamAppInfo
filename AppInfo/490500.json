@@ -78,7 +78,13 @@
             "manifests": {
                 "public": "5998913100435106840"
             },
-            "maxsize": "4355748882"
+            "maxsize": "4355748882",
+            "encryptedmanifests": {
+                "test": {
+                    "encrypted_gid_2": "4DF24B89134CD1C47B25D1249983CBE3",
+                    "encrypted_size_2": "2144D7A416CB8125ACB2306F9A0D8474"
+                }
+            }
         },
         "490502": {
             "name": "Zero G Arena dedicated server Linux content",
@@ -111,7 +117,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15150439,
-    "_sha": "7bcbab640285ae4aebde44dbf736f1f81b68d075",
-    "_size": 2641
+    "_change_number": 15577664,
+    "_sha": "0dc4ddaf8aa94ae344ce45d1bcd68b355f44483e",
+    "_size": 2817
 }

@@ -84,7 +84,13 @@
             "manifests": {
                 "public": "5227011839189358779"
             },
-            "maxsize": "1586536508"
+            "maxsize": "1586536508",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "25886EAF2E56CC6EAA8F72480480479A",
+                    "encrypted_size_2": "7BE7AE5A1552FBAAE6EE3936ACCAACB5"
+                }
+            }
         },
         "1652072": {
             "config": {
@@ -94,7 +100,13 @@
             "manifests": {
                 "public": "5928777615448049456"
             },
-            "maxsize": "1682914261"
+            "maxsize": "1682914261",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "0CFE21443C828EF57F3E5CC02615F43A",
+                    "encrypted_size_2": "306124D16C48348FB95C4E0367F15C32"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -109,7 +121,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15567919,
-    "_sha": "cae3669533f3d1e46e273cf2fedad9fcf8799ea5",
-    "_size": 2221
+    "_change_number": 15577664,
+    "_sha": "86cdbbb2297e115cf9c406fd390ecd6617f5bca9",
+    "_size": 2587
 }

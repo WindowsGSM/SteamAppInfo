@@ -49,6 +49,12 @@
                 "public": "949745137295664055"
             },
             "maxsize": "3140868914",
+            "encryptedmanifests": {
+                "test": {
+                    "encrypted_gid_2": "A9643A11734D705775407F146D8B13C9",
+                    "encrypted_size_2": "971D33E0786596AE8BF44937716478DC"
+                }
+            },
             "depotfromapp": "977050"
         },
         "985051": {
@@ -76,11 +82,17 @@
             "public": {
                 "buildid": "3632040",
                 "timeupdated": "1552190729"
+            },
+            "test": {
+                "buildid": "4196317",
+                "description": "test branch",
+                "pwdrequired": "1",
+                "timeupdated": "1568460131"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 11703200,
-    "_sha": "2e602c3755d0b2ea2cabf2fe6ee7f51c82fb3dca",
-    "_size": 1739
+    "_change_number": 15577664,
+    "_sha": "6b6e7cb0fa3a4d2301bde8fb1faa758f250574c8",
+    "_size": 2048
 }

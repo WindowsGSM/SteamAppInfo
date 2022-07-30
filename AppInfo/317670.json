@@ -52,7 +52,13 @@
             "manifests": {
                 "public": "4768090574655275912"
             },
-            "maxsize": "716123714"
+            "maxsize": "716123714",
+            "encryptedmanifests": {
+                "devtest": {
+                    "encrypted_gid_2": "202B2B76C7EEFBF406DF989C0E86A09A",
+                    "encrypted_size_2": "2F2B13124A759ABDF5B58167E2F63CC0"
+                }
+            }
         },
         "317672": {
             "name": "No More Room in Hell Dedicated Server Content Linux",
@@ -62,14 +68,26 @@
             "manifests": {
                 "public": "5016052174384265910"
             },
-            "maxsize": "684777786"
+            "maxsize": "684777786",
+            "encryptedmanifests": {
+                "devtest": {
+                    "encrypted_gid_2": "278CC746CBFE4DC2651740772CBCF775",
+                    "encrypted_size_2": "9A00FFE4D2DD57E286B1419CB47754A0"
+                }
+            }
         },
         "317673": {
             "name": "No More Room in Hell Dedicated Server Shared Content",
             "manifests": {
                 "public": "6035956015824592290"
             },
-            "maxsize": "7188990147"
+            "maxsize": "7188990147",
+            "encryptedmanifests": {
+                "devtest": {
+                    "encrypted_gid_2": "E1524EB67156568CDFD00722EFA68C18",
+                    "encrypted_size_2": "A3A776285619F5AEE80673E4EF50798E"
+                }
+            }
         },
         "317674": {
             "name": "No More Room in Hell Dedicated Server Windows Binaries",
@@ -79,7 +97,13 @@
             "manifests": {
                 "public": "5711736546155123009"
             },
-            "maxsize": "14992904"
+            "maxsize": "14992904",
+            "encryptedmanifests": {
+                "devtest": {
+                    "encrypted_gid_2": "C67449622F1DB579EF23DCAC9D274920",
+                    "encrypted_size_2": "08E7D4E84E2C18C2D0E51F66825A818E"
+                }
+            }
         },
         "317675": {
             "name": "No More Room in Hell Dedicated Server Linux Binaries",
@@ -89,7 +113,13 @@
             "manifests": {
                 "public": "7179201381983044626"
             },
-            "maxsize": "66784994"
+            "maxsize": "66784994",
+            "encryptedmanifests": {
+                "devtest": {
+                    "encrypted_gid_2": "E36B78410B4233B9AA2421372CA2D0A0",
+                    "encrypted_size_2": "3622C8E397932E50682D6CD482D13BB6"
+                }
+            }
         },
         "workshopdepot": "317670",
         "branches": {
@@ -105,7 +135,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15360519,
-    "_sha": "ab1f8357e8d5ed20098dfb1e00cac3d62b9dee4c",
-    "_size": 2489
+    "_change_number": 15577664,
+    "_sha": "df82f703ad794c056c55ac88ed84af16b2bc8af6",
+    "_size": 3384
 }

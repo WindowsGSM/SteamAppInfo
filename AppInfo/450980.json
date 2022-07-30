@@ -163,9 +163,16 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "8567282029702503548"
+                "public": "8567282029702503548",
+                "publictest": "8567282029702503548"
             },
-            "maxsize": "878414269"
+            "maxsize": "878414269",
+            "encryptedmanifests": {
+                "closedtest": {
+                    "encrypted_gid_2": "029D348A1468A3B52103A70E1E3B02A1",
+                    "encrypted_size_2": "5F70F02E6F4696F0F1F074EBAB5FD562"
+                }
+            }
         },
         "450982": {
             "name": "Ultimate Arena - Dedicated Server Linux",
@@ -173,9 +180,16 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "4676663787469673432"
+                "public": "4676663787469673432",
+                "publictest": "4676663787469673432"
             },
-            "maxsize": "1654070120"
+            "maxsize": "1654070120",
+            "encryptedmanifests": {
+                "closedtest": {
+                    "encrypted_gid_2": "A3386A624CB1151A84F4AE76BA3BFF44",
+                    "encrypted_size_2": "A15569D5302988B55EDBADA54A8357BD"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -196,7 +210,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15150439,
-    "_sha": "03ef50a1d94b9376c70ff1c0c0ae2f04f054acff",
-    "_size": 4335
+    "_change_number": 15577664,
+    "_sha": "441148761993f1c9a327caf0396d494d7a1c8415",
+    "_size": 4779
 }

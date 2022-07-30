@@ -230,6 +230,10 @@
                     "encrypted_gid_2": "7851C5A2C81B1927C9C0BF72E5043150",
                     "encrypted_size_2": "3636F2851E80900517BF69CFA6CAF902"
                 },
+                "gameguide": {
+                    "encrypted_gid_2": "AA2A750878235C9CAF35183CE27295B9",
+                    "encrypted_size_2": "2348869C6A1873805A6CC45D48B444AE"
+                },
                 "test_branch": {
                     "encrypted_gid_2": "8A5EA7D76151D4FAA579D15D6B60410A",
                     "encrypted_size_2": "E56C6B1D93DD20BB74FE4B52961CCCCA"
@@ -261,6 +265,14 @@
                 "bleeding_edge": {
                     "encrypted_gid_2": "A6845055C115440C28726C1B21336A81",
                     "encrypted_size_2": "A15633FF93522E62889E3E6DC5C4B214"
+                },
+                "gameguide": {
+                    "encrypted_gid_2": "6D69BFFF9EF7F1C3970C1AC121854C9C",
+                    "encrypted_size_2": "AA0BCB8830E5CEF2A0B676D4AF7CAC79"
+                },
+                "test_branch": {
+                    "encrypted_gid_2": "4B7EF9262216674EF04FFD70D23B3DD8",
+                    "encrypted_size_2": "125632BAC4BEE907E14F6258AA1D3714"
                 }
             }
         },
@@ -290,6 +302,10 @@
                     "encrypted_gid_2": "574B03338AA65144E5E004E7C762A6A9",
                     "encrypted_size_2": "A15633FF93522E62889E3E6DC5C4B214"
                 },
+                "gameguide": {
+                    "encrypted_gid_2": "0267A56351411792C3342DF6A13BEEBD",
+                    "encrypted_size_2": "05BEBE2850B6AED90EDD698C57698A76"
+                },
                 "test_branch": {
                     "encrypted_gid_2": "99C726D42A3C518E327D54E70AB36FF7",
                     "encrypted_size_2": "D15C078FD07327D9098B91D2F2371BB9"
@@ -302,6 +318,12 @@
                 "public": "2068471580671321008"
             },
             "maxsize": "472438512",
+            "encryptedmanifests": {
+                "gameguide": {
+                    "encrypted_gid_2": "F7A7B49C3DB908EE2345788FD7C47C33",
+                    "encrypted_size_2": "B2F1F647B7953EA9CA2080153CDDD4DB"
+                }
+            },
             "dlcappid": "939320"
         },
         "branches": {
@@ -373,7 +395,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14670399,
-    "_sha": "c54c2602927ef44123fb99633fc003ee7107ef7c",
-    "_size": 8634
+    "_change_number": 15577664,
+    "_sha": "b3993e7e3ec2a8c74fab74f2b21f5fb748ce48ed",
+    "_size": 9405
 }

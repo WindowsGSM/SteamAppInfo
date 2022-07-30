@@ -34,7 +34,13 @@
             "manifests": {
                 "public": "1026174995011000531"
             },
-            "maxsize": "827134688"
+            "maxsize": "827134688",
+            "encryptedmanifests": {
+                "dev": {
+                    "encrypted_gid_2": "87CB5A29C029C08DCD0522F5398B25E6",
+                    "encrypted_size_2": "05132716B316E080A1372D0D8768EA4D"
+                }
+            }
         },
         "overridescddb": "1",
         "preloadonly": "1",
@@ -49,7 +55,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14367404,
-    "_sha": "a85503ac53481a0d174828ec4d90d5d4490a80c4",
-    "_size": 941
+    "_change_number": 15577664,
+    "_sha": "e148517bfdbe643952605fad5b8f37eaec71d855",
+    "_size": 1116
 }

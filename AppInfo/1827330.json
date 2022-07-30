@@ -69,6 +69,7 @@
         "1827331": {
             "manifests": {
                 "public": "698807127298972238",
+                "experimental": "698807127298972238",
                 "legacy-0.5.0": "1216317778414128718"
             },
             "maxsize": "1638854232",
@@ -76,6 +77,10 @@
                 "development": {
                     "encrypted_gid_2": "9C729524BD737AF019BB96B7BDB9326A",
                     "encrypted_size_2": "9A6FEE7A7CA1268A0D993FF2B32A31E3"
+                },
+                "experimental_private": {
+                    "encrypted_gid_2": "6C8805538CE34EA2A334B03BC4B989D6",
+                    "encrypted_size_2": "ABB802EE2E5EB792297B95BA7191BB1D"
                 }
             }
         },
@@ -107,7 +112,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15551643,
-    "_sha": "d5e3c8587bd17be56569714e16125e763025e37f",
-    "_size": 2398
+    "_change_number": 15577664,
+    "_sha": "45d44cc423c8b8fadf1d4e2391208b1dc22bf393",
+    "_size": 2597
 }

@@ -38,14 +38,34 @@
             "manifests": {
                 "public": "5337022869192017930"
             },
-            "maxsize": "13823584639"
+            "maxsize": "13823584639",
+            "encryptedmanifests": {
+                "devbranch": {
+                    "encrypted_gid_2": "929589A5887C39128B3B92E86AB75B9B",
+                    "encrypted_size_2": "44094B730AC9189AA8EBC97B03601BE2"
+                },
+                "nightly": {
+                    "encrypted_gid_2": "7F7631B18C51569708A4F0ACE8FE2128",
+                    "encrypted_size_2": "323BCAB6EBB90D016CABEE148DB59898"
+                }
+            }
         },
         "516862": {
             "name": "Of Kings And Men Dedicated Server Depot (Dev)",
             "manifests": {
                 "public": "922900340253452750"
             },
-            "maxsize": "5953536"
+            "maxsize": "5953536",
+            "encryptedmanifests": {
+                "devbranch": {
+                    "encrypted_gid_2": "DA4B586849AD623A0138CB6E83C91DA3",
+                    "encrypted_size_2": "41470F84A7B74298936FE4DE4F8B8B8A"
+                },
+                "nightly": {
+                    "encrypted_gid_2": "41FD575CC55FF64A5379C3CEDC1D0C8E",
+                    "encrypted_size_2": "B028C66871C4F2EB558E7F72778F361A"
+                }
+            }
         },
         "baselanguages": "english",
         "branches": {
@@ -66,7 +86,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14367404,
-    "_sha": "6b2b5c10c4a197144b63f53fc3a19701c0543ba3",
-    "_size": 1536
+    "_change_number": 15577664,
+    "_sha": "9e58c97503550125fb2b822ad7e070618c65af27",
+    "_size": 2188
 }

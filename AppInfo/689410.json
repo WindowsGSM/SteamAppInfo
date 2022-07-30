@@ -63,20 +63,62 @@
         "1611741": {
             "name": "BattleBit Remastered Playtest Depot",
             "manifests": {
-                "public": "6478390789733051693"
+                "public": "6376527021322742990"
             },
-            "maxsize": "1446967064",
+            "maxsize": "1447344681",
+            "encryptedmanifests": {
+                "developer": {
+                    "encrypted_gid_2": "33BFE762D32A574D8F373914FC428CAB",
+                    "encrypted_size_2": "6B519F6B9A8EA68D215DECD2521D2588"
+                },
+                "publicqa": {
+                    "encrypted_gid_2": "F8987E7451B6BD56FFD429EB9DB0A42D",
+                    "encrypted_size_2": "28B81B9CBF35011428FE5EC23F915E06"
+                },
+                "server": {
+                    "encrypted_gid_2": "048D4A2798A1221E8193DF5F4B54DE3A",
+                    "encrypted_size_2": "8B483D032743155EFF8A3E4EB1662C33"
+                },
+                "staff": {
+                    "encrypted_gid_2": "B7E0EC224E0D2A4210CB82C3D622A2BE",
+                    "encrypted_size_2": "DB4038EBC3329B300A7FBC498AC38E08"
+                }
+            },
             "depotfromapp": "1611740"
         },
         "branches": {
             "public": {
                 "buildid": "2513063",
                 "timeupdated": "1518200532"
+            },
+            "developer": {
+                "buildid": "9219568",
+                "description": "developer",
+                "pwdrequired": "1",
+                "timeupdated": "1659143131"
+            },
+            "publicqa": {
+                "buildid": "9219568",
+                "description": "private",
+                "pwdrequired": "1",
+                "timeupdated": "1659143144"
+            },
+            "server": {
+                "buildid": "9219568",
+                "description": "server",
+                "pwdrequired": "1",
+                "timeupdated": "1659143154"
+            },
+            "staff": {
+                "buildid": "9219568",
+                "description": "developer",
+                "pwdrequired": "1",
+                "timeupdated": "1659143167"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15540914,
-    "_sha": "6b180f55a6fce9b1db39530b76bd2396bbe14c52",
-    "_size": 1769
+    "_change_number": 15577664,
+    "_sha": "66948c2e996e8a45d1a76e2d06f946b8b39cb3b9",
+    "_size": 2914
 }

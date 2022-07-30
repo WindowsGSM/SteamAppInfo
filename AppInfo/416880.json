@@ -78,7 +78,13 @@
             "manifests": {
                 "public": "5226631182675636115"
             },
-            "maxsize": "61213777"
+            "maxsize": "61213777",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "BAF54EB1C653C8F0B3B417431540AA02",
+                    "encrypted_size_2": "87F55607CF1D44196CDCBFBB611604A6"
+                }
+            }
         },
         "416882": {
             "name": "Ballistic Overkill Dedicated Server Linux",
@@ -88,7 +94,13 @@
             "manifests": {
                 "public": "6149405167024505758"
             },
-            "maxsize": "93700030"
+            "maxsize": "93700030",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "1401F93D1112B64A39ABAF669E2E6971",
+                    "encrypted_size_2": "C491952973FC020DB770A37EB25A4994"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -104,7 +116,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15150439,
-    "_sha": "69d9d6311d4f8b7890e7dabd12b574f8a0b9e356",
-    "_size": 2322
+    "_change_number": 15577664,
+    "_sha": "e1b7711033eae6a0fa59c52b6d925c7c1ba017d6",
+    "_size": 2688
 }

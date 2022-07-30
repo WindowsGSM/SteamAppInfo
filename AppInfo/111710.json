@@ -75,7 +75,17 @@
             "manifests": {
                 "public": "3735901233717536875"
             },
-            "maxsize": "1"
+            "maxsize": "1",
+            "encryptedmanifests": {
+                "beta": {
+                    "encrypted_gid_2": "504AB37A274E32E64A3211B9798F8E32",
+                    "encrypted_size_2": "1B544FC39988938F991DACBCD79ADFCD"
+                },
+                "previous": {
+                    "encrypted_gid_2": "F8CC04D24610CA5345EC46AB64BB72FE",
+                    "encrypted_size_2": "648B11DD9EB8CCE22769588D7709E5CA"
+                }
+            }
         },
         "17711": {
             "name": "Nuclear Dawn Content",
@@ -134,7 +144,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15150439,
-    "_sha": "dbada5752522620759116d438a7d621905786f93",
-    "_size": 2843
+    "_change_number": 15577664,
+    "_sha": "05569f3962931321dde9046c88008ea171c30bf7",
+    "_size": 3165
 }

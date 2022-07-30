@@ -320,13 +320,97 @@
                 "public": "2545188719619349744",
                 "uat_experimental": "7844286360282026320"
             },
-            "maxsize": "6005622287",
             "encryptedmanifests": {
+                "hlod_test": {
+                    "encrypted_gid_2": "C61F80B4E4AFEB741542B6098D5696DD",
+                    "encrypted_size_2": "4095C34B589140809F564C4E3814F21B"
+                },
+                "uat_content": {
+                    "encrypted_gid_2": "0505302424EBCA4D12101E235BDEB350",
+                    "encrypted_size_2": "6F4FA7C9A6A84F34C63A61904944DA2A"
+                },
+                "uat_content_pt": {
+                    "encrypted_gid_2": "F632DE1598253ABECF3FD0DC3A77C780",
+                    "encrypted_size_2": "68D81F38EEC3E90AE9D95BDD3D6BE028"
+                },
+                "uat_cpt": {
+                    "encrypted_gid_2": "FA2CE6C96325E0DA129E637D4A80FE59",
+                    "encrypted_size_2": "C5A23EFF99C31936C6A26D2A36153C15"
+                },
+                "uat_crashtest": {
+                    "encrypted_gid_2": "677F729708882195B049814A86DF56E2",
+                    "encrypted_size_2": "BD94C881D1B3AFF558BBDF4732FDFC9C"
+                },
                 "uat_features": {
                     "encrypted_gid_2": "2AEB2FCF4ACE50C7610FE16FAE4883FF",
                     "encrypted_size_2": "1455FB16EE1AB6CC7FC36EED79E69F29"
+                },
+                "uat_featuretest1": {
+                    "encrypted_gid_2": "340EEE3C16B67362A33EF5928AA429FB",
+                    "encrypted_size_2": "41DCC291562C449C49044BF206DF2286"
+                },
+                "uat_featuretest10": {
+                    "encrypted_gid_2": "EB801BE8CE87CFDD0B1CC998188AC112",
+                    "encrypted_size_2": "37868179A18A463D77CECE610C6CC7ED"
+                },
+                "uat_featuretest11": {
+                    "encrypted_gid_2": "9E783C8430CB7ACE52E3A89919802314",
+                    "encrypted_size_2": "B48750793E81C617B21D858D86E064E7"
+                },
+                "uat_featuretest2": {
+                    "encrypted_gid_2": "86972021487FD6E6DC35FDDE97AEE3F2",
+                    "encrypted_size_2": "B417A61A34B3FF1545116CF7F5A80AF1"
+                },
+                "uat_featuretest3": {
+                    "encrypted_gid_2": "4FBAB2AAB78A6F5B695BE6AA7BD8501D",
+                    "encrypted_size_2": "F75CC073713EC63696DC4BACB7BF28A2"
+                },
+                "uat_featuretest4": {
+                    "encrypted_gid_2": "F6E66161283B3DDBC468BEB0831B4F2B",
+                    "encrypted_size_2": "BC6696054FC38DBC713907297C02AC57"
+                },
+                "uat_featuretest5": {
+                    "encrypted_gid_2": "B13D9F13279F5D3B182BC0B637FC8FAE",
+                    "encrypted_size_2": "73876BAF9874667AA8C5363204DED388"
+                },
+                "uat_featuretest6": {
+                    "encrypted_gid_2": "1272678EBA06394D35BA747B711CCC1C",
+                    "encrypted_size_2": "123697C0C29D1787C7F9C33E32CBEFFA"
+                },
+                "uat_featuretest7": {
+                    "encrypted_gid_2": "00172ACFC4FFBF3AEA4A436461AA2EFA",
+                    "encrypted_size_2": "55A55D04A9AEB83296CDDCA8167A81CE"
+                },
+                "uat_featuretest8": {
+                    "encrypted_gid_2": "387F5F94080D27CD2D336B30EB7FB0DD",
+                    "encrypted_size_2": "9808CC299D7814CD1F868CBCE664E86B"
+                },
+                "uat_featuretest9": {
+                    "encrypted_gid_2": "2E05323A150F5DFDB4897312AACF96B5",
+                    "encrypted_size_2": "337D2B09F677377F4BC2BF13B71AFA2E"
+                },
+                "uat_functionality_test": {
+                    "encrypted_gid_2": "B7168BC0E92D232CC4A7ADA31609337F",
+                    "encrypted_size_2": "D0F01D97185EA8F1C93E08542B8F34E0"
+                },
+                "uat_internalpt": {
+                    "encrypted_gid_2": "946B120FC77DF4B19BB43A8902025940",
+                    "encrypted_size_2": "8BE40AC2D409239DDB9BAD57A8AD2664"
+                },
+                "uat_main": {
+                    "encrypted_gid_2": "A346F26486CF0A9F88D880F78D7A7146",
+                    "encrypted_size_2": "C4D69AAE99AA91F1D96542939FC96B1E"
+                },
+                "uat_ppt": {
+                    "encrypted_gid_2": "557EA36B35B1948855C3E80574ED22B5",
+                    "encrypted_size_2": "B63D43CDE05E5E0541C646ACBFACC18B"
+                },
+                "uat_release": {
+                    "encrypted_gid_2": "24D6B51B7372267311E1CD8CC3286466",
+                    "encrypted_size_2": "835D2A2253CD9A16AECC04A520F61A31"
                 }
             },
+            "maxsize": "6005622287",
             "depotfromapp": "774941"
         },
         "branches": {
@@ -472,6 +556,18 @@
                 "pwdrequired": "1",
                 "timeupdated": "1659109827"
             },
+            "hlod_test": {
+                "buildid": "8410387",
+                "description": "testing hlod related stuff",
+                "pwdrequired": "1",
+                "timeupdated": "1647875304"
+            },
+            "uat_internalpt": {
+                "buildid": "8008430",
+                "description": "uat_internalpt (Internal playtesting)",
+                "pwdrequired": "1",
+                "timeupdated": "1642018651"
+            },
             "uat_experimental": {
                 "buildid": "6992347",
                 "description": "uat_experimental (Experimental features public)",
@@ -480,7 +576,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15573436,
-    "_sha": "cad8376f214854ef2355037437ca1274c2de17a9",
-    "_size": 14012
+    "_change_number": 15577664,
+    "_sha": "24d8f015c4de22b32238689ee93e20cb1c0d7172",
+    "_size": 17526
 }

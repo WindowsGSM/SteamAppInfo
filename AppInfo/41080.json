@@ -97,6 +97,7 @@
             "manifests": {
                 "public": "5839909026259046758",
                 "legacyosx": "7220882982092040604",
+                "publicbeta": "5839909026259046758",
                 "safemode": "7220882982092040604"
             },
             "maxsize": "22452118",
@@ -104,6 +105,14 @@
                 "beta": {
                     "encrypted_gid_2": "B8E87FA970966BED0B30DA6165C3F887",
                     "encrypted_size_2": "A0DE187076E1B1546B61ED335FE209B9"
+                },
+                "closedbeta": {
+                    "encrypted_gid_2": "E9DD296E400890D588ECEAA6C28ABBC4",
+                    "encrypted_size_2": "8D6434979A65667CE4884B6707813DC2"
+                },
+                "internal": {
+                    "encrypted_gid_2": "38667A76BE45098900EBC718C8C36A5C",
+                    "encrypted_size_2": "0D778521DD7A8A028FD31379F7D79AA3"
                 }
             }
         },
@@ -116,6 +125,7 @@
             "manifests": {
                 "public": "1517549851102098716",
                 "legacyosx": "7457740292106101545",
+                "publicbeta": "1517549851102098716",
                 "safemode": "7457740292106101545"
             },
             "maxsize": "20240789",
@@ -123,6 +133,14 @@
                 "beta": {
                     "encrypted_gid_2": "7FA0EA245A68C42DEE5DBB40D6FE3232",
                     "encrypted_size_2": "0D8AAFBF57250B3D6CC844AD06823363"
+                },
+                "closedbeta": {
+                    "encrypted_gid_2": "A417DEEEB4CBA9E5992CA98CA4008D7D",
+                    "encrypted_size_2": "7F43BA2F017A3C74BAD67C01E265F7E1"
+                },
+                "internal": {
+                    "encrypted_gid_2": "0E6637C6CDC8F2755F6E2ADAC878D933",
+                    "encrypted_size_2": "3214920EB1012520A974C66639759BA6"
                 }
             }
         },
@@ -135,9 +153,20 @@
             "manifests": {
                 "public": "6611202159868083272",
                 "legacyosx": "5010045415239750343",
+                "publicbeta": "6611202159868083272",
                 "safemode": "5010045415239750343"
             },
-            "maxsize": "45174071"
+            "maxsize": "45174071",
+            "encryptedmanifests": {
+                "closedbeta": {
+                    "encrypted_gid_2": "2EAEFD51601198076495006707DCC447",
+                    "encrypted_size_2": "32AD6E59885639BA159568A129743FFD"
+                },
+                "internal": {
+                    "encrypted_gid_2": "D1852ADAE42510F6525850401679FA4D",
+                    "encrypted_size_2": "95EB5CF980BD359B801A6C0C1EF7DE25"
+                }
+            }
         },
         "overridescddb": "1",
         "branches": {
@@ -176,7 +205,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14367404,
-    "_sha": "d2c48cfce4d12efb442c2cbbddf8289b18cf0da7",
-    "_size": 3701
+    "_change_number": 15577664,
+    "_sha": "d3b251149696d82e6341d88be3de7dce8495d733",
+    "_size": 4737
 }

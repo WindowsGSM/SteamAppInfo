@@ -101,13 +101,18 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "7435694003537861866"
+                "public": "7435694003537861866",
+                "test": "7435694003537861866"
             },
             "maxsize": "1438921901",
             "encryptedmanifests": {
                 "closed_beta": {
                     "encrypted_gid_2": "FE1A545260346C7F6116914D8B4A1579",
                     "encrypted_size_2": "D1A87D1B28734519172379D4AE705035"
+                },
+                "private": {
+                    "encrypted_gid_2": "F4EA3C142763CCAC0C84D829CBC4FCB5",
+                    "encrypted_size_2": "B9D40E82F5224F257ACD77BFA0D6B2B6"
                 }
             }
         },
@@ -136,7 +141,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15354882,
-    "_sha": "a91b88043a58c64f1691d4f9d0767fedca982c20",
-    "_size": 2964
+    "_change_number": 15577664,
+    "_sha": "e919b167072c596b532e3867add46c2126184901",
+    "_size": 3143
 }

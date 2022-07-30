@@ -29,14 +29,26 @@
             "manifests": {
                 "public": "9033622738747915238"
             },
-            "maxsize": "2262659300"
+            "maxsize": "2262659300",
+            "encryptedmanifests": {
+                "internalbeta": {
+                    "encrypted_gid_2": "4D5D71778DDE1B966A4634658AFA90A3",
+                    "encrypted_size_2": "515EC8C7AF54B5FE0A13CA208C8CA1D5"
+                }
+            }
         },
         "1254": {
             "name": "Killing Floor Linux Content",
             "manifests": {
                 "public": "92904673321000717"
             },
-            "maxsize": "117202803"
+            "maxsize": "117202803",
+            "encryptedmanifests": {
+                "internalbeta": {
+                    "encrypted_gid_2": "1BCDE29C903E647DB2A20F65105F1069",
+                    "encrypted_size_2": "48B018C1D183F258F83CBDF6166C2D30"
+                }
+            }
         },
         "overridescddb": "1",
         "branches": {
@@ -52,7 +64,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14367404,
-    "_sha": "319fb05998e72269056fbba5f15e9c397e654c1e",
-    "_size": 1077
+    "_change_number": 15577664,
+    "_sha": "d235be8bf3883f9e87832f3e1869ec73ed4a10a1",
+    "_size": 1445
 }

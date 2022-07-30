@@ -68,6 +68,12 @@
                 "public": "2331363083649090747"
             },
             "maxsize": "2096775398",
+            "encryptedmanifests": {
+                "beta": {
+                    "encrypted_gid_2": "0CF778502988D6164089D82CF1847C89",
+                    "encrypted_size_2": "1AD3CC2B059E3CA975922F0CB63CD862"
+                }
+            },
             "depotfromapp": "17550"
         },
         "1004": {
@@ -83,11 +89,16 @@
         "branches": {
             "public": {
                 "buildid": "123345"
+            },
+            "beta": {
+                "buildid": "57943",
+                "description": "Beta Branch",
+                "pwdrequired": "1"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 11703200,
-    "_sha": "f46a40e81bd480060c645eedc09887b14bdc48b3",
-    "_size": 1780
+    "_change_number": 15577664,
+    "_sha": "617603277d222ede3b86a907f0640731826ddef1",
+    "_size": 2055
 }

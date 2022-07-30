@@ -47,7 +47,17 @@
             "manifests": {
                 "public": "6868036608402770324"
             },
-            "maxsize": "3762525699"
+            "maxsize": "3762525699",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "099BEB226772D8EF0E68DE9BDA2DBC2F",
+                    "encrypted_size_2": "573F267D8FE78C4C0F69A5BD2C5F5406"
+                },
+                "testing": {
+                    "encrypted_gid_2": "24C07191AC1BAB83B4CC12AD813C7C75",
+                    "encrypted_size_2": "55BE216220D29A634BDD99EF8BC07428"
+                }
+            }
         },
         "629802": {
             "name": "MORDHAU Dedicated Server Linux",
@@ -58,7 +68,17 @@
             "manifests": {
                 "public": "1395128079145366619"
             },
-            "maxsize": "4998721835"
+            "maxsize": "4998721835",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "EC6426FDE4E9ACEE72C2ECF4BE6FF71E",
+                    "encrypted_size_2": "16D1BA2BB89B36908F87C76A7BFEFD07"
+                },
+                "testing": {
+                    "encrypted_gid_2": "21EBA090D964C1AB85C32DC131EDF58D",
+                    "encrypted_size_2": "F2BDF6E5A36652F36BA29EBF07751B4D"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -78,7 +98,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15328176,
-    "_sha": "b6a817ab409bf558b08c5999b3d9b8da8b8a7463",
-    "_size": 1676
+    "_change_number": 15577664,
+    "_sha": "46834c846a9971bbb3c498775a00d5199a3c68a5",
+    "_size": 2332
 }

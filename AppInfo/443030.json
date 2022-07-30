@@ -205,7 +205,98 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "3199714172864163068"
+                "public": "3199714172864163068",
+                "testlive": "3199714172864163068"
+            },
+            "encryptedmanifests": {
+                "2testronic": {
+                    "encrypted_gid_2": "10A37CBB447D358DD2A2CADC41EE71CA",
+                    "encrypted_size_2": "839146BB4045418B371A66257840916C"
+                },
+                "3testronic": {
+                    "encrypted_gid_2": "AF46A267984E4CE082450FF5E4CEA9C0",
+                    "encrypted_size_2": "F3A8BDBC7C7A76E4E58FB665CB8E644E"
+                },
+                "4testronic": {
+                    "encrypted_gid_2": "A56A410461AC81089F7DE48A84B20DE6",
+                    "encrypted_size_2": "B1DD2A43CAF01CDA7FD7BC571A5E6B7A"
+                },
+                "autobuildsystem": {
+                    "encrypted_gid_2": "05BB0C51BB455CA8D130D0FB67036EF4",
+                    "encrypted_size_2": "0294234D0F2E3C007733564235E97E6B"
+                },
+                "devqa": {
+                    "encrypted_gid_2": "02B5C82712EEA9D3C4831EC702172EF7",
+                    "encrypted_size_2": "E33EFA21CC4619A5AD2E4474294180F0"
+                },
+                "emergency_fix_live": {
+                    "encrypted_gid_2": "047B5413B94A3194FCCF281C1AA65FF4",
+                    "encrypted_size_2": "B64A581E4981CF1DF5DF809810B529E8"
+                },
+                "exiles-development": {
+                    "encrypted_gid_2": "A10BCBC80895F1CA458DA04DEB180428",
+                    "encrypted_size_2": "8765277497544AEE778FDFEE59CFE642"
+                },
+                "exiles-live": {
+                    "encrypted_gid_2": "B662B27D540B2A4BE004C14F37098E45",
+                    "encrypted_size_2": "8720313639F61055D6202F43C99818C0"
+                },
+                "exiles-stable": {
+                    "encrypted_gid_2": "742416CA8FCEE79E9C4A53DD55856530",
+                    "encrypted_size_2": "EFD422218996DABB37B94457FC5FB05B"
+                },
+                "exiles-test": {
+                    "encrypted_gid_2": "4542EBEA8D9C0FCD6DDE87E06794594C",
+                    "encrypted_size_2": "E40BAAF20794A3F641D7B10825895990"
+                },
+                "exiles-testfeature": {
+                    "encrypted_gid_2": "C387967CC1E83CE8987FF6508885D351",
+                    "encrypted_size_2": "17006D5F5C32995B7C169BB335EFE09B"
+                },
+                "experimental": {
+                    "encrypted_gid_2": "74A1DA505B3666348EE5D0A3D8F6F316",
+                    "encrypted_size_2": "210D94C2AA699F3CBD65DBA279F303C7"
+                },
+                "for_testing": {
+                    "encrypted_gid_2": "C90C6A102AF12F5A62853EFBB14B72E2",
+                    "encrypted_size_2": "6340E5D99F86902C6641AD4FA6B321C4"
+                },
+                "for_testing2": {
+                    "encrypted_gid_2": "8006EE715F9B9DE51F85C6493BFD5A60",
+                    "encrypted_size_2": "3551940853222D4CC52A3790A4203CB6"
+                },
+                "forepic": {
+                    "encrypted_gid_2": "75B0E529208267D4FB36410740AABE62",
+                    "encrypted_size_2": "DD4041B83C76FDE0C9A9A958A9700237"
+                },
+                "internal_playtest": {
+                    "encrypted_gid_2": "36954501F60A650B8609274D8021D8A1",
+                    "encrypted_size_2": "F7F3B44D3332BCBFD92A67382228CC59"
+                },
+                "live_backup1": {
+                    "encrypted_gid_2": "A004676E228A6438EA00BDE10EDDD88C",
+                    "encrypted_size_2": "0816AA3B4859A8F7F351495C60594889"
+                },
+                "live_backup2": {
+                    "encrypted_gid_2": "5286C6B77C5CA9964D07E7E471CA1550",
+                    "encrypted_size_2": "EFDD186B86DE1C1230F2EE417CE3E09A"
+                },
+                "marketing": {
+                    "encrypted_gid_2": "CCAB47F5FDA2E88CC4C931CA6B895637",
+                    "encrypted_size_2": "2406A121245AE9CDAF209A73CCA5A1D9"
+                },
+                "marketing2": {
+                    "encrypted_gid_2": "FF2E7273B7E09AB2143442E28D50F2A5",
+                    "encrypted_size_2": "8E89E30192688283743F937910B9FD76"
+                },
+                "preview": {
+                    "encrypted_gid_2": "BF8143232458EA1FB8F87F590D1DAB62",
+                    "encrypted_size_2": "FF25002A720518CF1BFAA2D3D31ABD6C"
+                },
+                "trials": {
+                    "encrypted_gid_2": "0B2A9114EFDD4BA259321BE6C17245D1",
+                    "encrypted_size_2": "D3F93B71D441302918BF614DF89C93B1"
+                }
             }
         },
         "branches": {
@@ -346,7 +437,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15576931,
-    "_sha": "0b20d89e97054ecd41988c26f1b8f2d0a67e4471",
-    "_size": 9032
+    "_change_number": 15577664,
+    "_sha": "4933fbfc50833bebc8d87d3f57576b97e0b34dfc",
+    "_size": 12394
 }

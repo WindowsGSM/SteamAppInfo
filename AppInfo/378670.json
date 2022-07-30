@@ -86,9 +86,17 @@
             },
             "maxsize": "3883898342",
             "encryptedmanifests": {
+                "beta": {
+                    "encrypted_gid_2": "2FA80B7FB7C7CA28387C4BC964066E52",
+                    "encrypted_size_2": "E0CBEF4A41C9DF725BE9B660708698EC"
+                },
                 "newdefault": {
                     "encrypted_gid_2": "E457E442072E3C71E12E7AB64E1EBED5",
                     "encrypted_size_2": "F4CA513F5CC37362358F76FFBDD28E0D"
+                },
+                "sigdev": {
+                    "encrypted_gid_2": "F0933CD09A11F24E9687D350648DC1F0",
+                    "encrypted_size_2": "C23A6CA864D32C50416AF9BB222AAD41"
                 },
                 "test": {
                     "encrypted_gid_2": "EE97F5493D4A13C208FFC41CF575A11A",
@@ -136,7 +144,7 @@
         "maxnumfiles": "200"
     },
     "_missing_token": false,
-    "_change_number": 15150439,
-    "_sha": "f7734902314b1271609199104990119a04ad2aa5",
-    "_size": 3104
+    "_change_number": 15577664,
+    "_sha": "60d8e9d0411b3a8dc08b149faa3ec2b99892672b",
+    "_size": 3390
 }

@@ -75,7 +75,13 @@
             "manifests": {
                 "public": "1628344975606721851"
             },
-            "maxsize": "1496599304"
+            "maxsize": "1496599304",
+            "encryptedmanifests": {
+                "beta": {
+                    "encrypted_gid_2": "ED45C7F5679D37E5A0EB9B4575A05A66",
+                    "encrypted_size_2": "45685A4FAAB506B4B9279C2AAC5D7450"
+                }
+            }
         },
         "475372": {
             "name": "Windows Content",
@@ -85,7 +91,13 @@
             "manifests": {
                 "public": "7123150939027057773"
             },
-            "maxsize": "93225116"
+            "maxsize": "93225116",
+            "encryptedmanifests": {
+                "beta": {
+                    "encrypted_gid_2": "8A48E234FC76BE3D2EBA8DDAC496452A",
+                    "encrypted_size_2": "7629AA04A723C1E7FD9D06737FAC9B57"
+                }
+            }
         },
         "475373": {
             "name": "Linux Content",
@@ -95,12 +107,24 @@
             "manifests": {
                 "public": "3630596424994101263"
             },
-            "maxsize": "69950326"
+            "maxsize": "69950326",
+            "encryptedmanifests": {
+                "beta": {
+                    "encrypted_gid_2": "7601FB8405CA0EE52682F2E65976086D",
+                    "encrypted_size_2": "3F412F43EEC828B8AF5BA5B257D90E6F"
+                }
+            }
         },
         "475374": {
             "name": "Workshop Content",
             "manifests": {
                 "public": "8691390406380101584"
+            },
+            "encryptedmanifests": {
+                "beta": {
+                    "encrypted_gid_2": "689856C7E71CD89165EE3FD9907ACBA5",
+                    "encrypted_size_2": "73B91C9527FBC05943ECAD1F6486E1A4"
+                }
             }
         },
         "branches": {
@@ -117,7 +141,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15150439,
-    "_sha": "428cbd9f5ec3462491181ad94e465fc9a11259f6",
-    "_size": 2420
+    "_change_number": 15577664,
+    "_sha": "743c1df61207692521773cf202c40e82d1d4ea58",
+    "_size": 3124
 }

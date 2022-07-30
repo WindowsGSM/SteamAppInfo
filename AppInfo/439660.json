@@ -97,7 +97,17 @@
             "manifests": {
                 "public": "8452605632172209009"
             },
-            "maxsize": "358121568"
+            "maxsize": "358121568",
+            "encryptedmanifests": {
+                "beta": {
+                    "encrypted_gid_2": "82EAA59A7E7F14498BE1E728C07BB1B6",
+                    "encrypted_size_2": "19B97BB9F589FF8BCC18D860195FE31B"
+                },
+                "developer": {
+                    "encrypted_gid_2": "5337C422964E03C4DCB73C713E9899CB",
+                    "encrypted_size_2": "B07117E5DECFCB5A34326A49C53DCE5A"
+                }
+            }
         },
         "439662": {
             "name": "Tower Unite Dedicated Server Depot Windows",
@@ -108,7 +118,17 @@
             "manifests": {
                 "public": "7223350746219144710"
             },
-            "maxsize": "1012321502"
+            "maxsize": "1012321502",
+            "encryptedmanifests": {
+                "beta": {
+                    "encrypted_gid_2": "8EAC765EF6773E66ED8188DC0D84B53A",
+                    "encrypted_size_2": "D19CF6F449984E4A61B9DAAEB9A58DDE"
+                },
+                "developer": {
+                    "encrypted_gid_2": "6F9FC61468324AD0D19A18D0D8ADC4E5",
+                    "encrypted_size_2": "DEC3037C2290E29B167036E4044025CD"
+                }
+            }
         },
         "439663": {
             "name": "Tower Unite Dedicated Server Depot Linux",
@@ -124,6 +144,10 @@
                 "beta": {
                     "encrypted_gid_2": "58BEE71756851E56FA89FDBF00D9F65A",
                     "encrypted_size_2": "E7C5669AA60E2A498D6A3F167090D7AE"
+                },
+                "developer": {
+                    "encrypted_gid_2": "0D404A671FC2B26E7B3B2E1786A7773F",
+                    "encrypted_size_2": "8BE564290BDFDC6801660D3BF2ECC342"
                 }
             }
         },
@@ -146,7 +170,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15553373,
-    "_sha": "9f550a7b474e3300f32a179379a964140b1ce065",
-    "_size": 3205
+    "_change_number": 15577664,
+    "_sha": "abc1be3d166fe95545f84050c4be61cc2e13d103",
+    "_size": 3998
 }

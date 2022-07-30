@@ -44,7 +44,17 @@
             "manifests": {
                 "public": "7352364004185608121"
             },
-            "maxsize": "1587091221"
+            "maxsize": "1587091221",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "72C7E4C9E9920DA990BD3488CDD03F6E",
+                    "encrypted_size_2": "8F98341BBBA71BF8D3951C35D6C72CCE"
+                },
+                "test": {
+                    "encrypted_gid_2": "2422CF568A09C58B6C6E348917B876B4",
+                    "encrypted_size_2": "0D4863FEE027420EB222160C6DE441AA"
+                }
+            }
         },
         "823853": {
             "name": "Darco - Reign of Elements - Windows Dedicated Server Depot",
@@ -54,7 +64,17 @@
             "manifests": {
                 "public": "4348326825561265023"
             },
-            "maxsize": "877027821"
+            "maxsize": "877027821",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "6BCD2B15CCDC64D77A8D6304BD0EE372",
+                    "encrypted_size_2": "2C00D45F83C70792F595B6F861360170"
+                },
+                "test": {
+                    "encrypted_gid_2": "19C6DB3384679D9B71C68F4BC38F20A3",
+                    "encrypted_size_2": "CC39B5B75364319FDD10FF85DFB2D314"
+                }
+            }
         },
         "823852": {
             "name": "Darco - Reign of Elements - Dedicated Server Depot"
@@ -79,7 +99,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 11703200,
-    "_sha": "246e9899e58a7de08f4d0feecf8cd9b371c8270f",
-    "_size": 1859
+    "_change_number": 15577664,
+    "_sha": "d0be891ede7b091b6b161f72a5d48cfb07757bc4",
+    "_size": 2509
 }

@@ -77,7 +77,13 @@
             "manifests": {
                 "public": "4472903482789701474"
             },
-            "maxsize": "233098409"
+            "maxsize": "233098409",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "1412902B8247748DAFB7F1D3D42ED257",
+                    "encrypted_size_2": "BDFAB333FEED78459815EF4CBC5BFE1F"
+                }
+            }
         },
         "1026342": {
             "name": "Barotrauma Dedicated Server Linux",
@@ -88,7 +94,13 @@
             "manifests": {
                 "public": "8278259084448076272"
             },
-            "maxsize": "233642951"
+            "maxsize": "233642951",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "850BBD9784B0FA9017474992456EEF80",
+                    "encrypted_size_2": "84B043E031A9990CF5DDEAE5BD187560"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -103,7 +115,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15420347,
-    "_sha": "1af49db4c90efdde54b619c8f3a36f83dbf5e78c",
-    "_size": 2225
+    "_change_number": 15577664,
+    "_sha": "a074af1b5fc910008d7de91f1451d7fedfc50656",
+    "_size": 2591
 }

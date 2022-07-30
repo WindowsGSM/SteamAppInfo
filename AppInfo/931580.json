@@ -53,6 +53,28 @@
             },
             "manifests": {
                 "public": "560819281529291749"
+            },
+            "encryptedmanifests": {
+                "4testlive": {
+                    "encrypted_gid_2": "89C6EDAC7F846729A5891952FA8F3727",
+                    "encrypted_size_2": "E3D32C9ECF139D04D73A91BD7889780F"
+                },
+                "branch4test": {
+                    "encrypted_gid_2": "C4BAF4F3036FF987D7C427AC9182F9A5",
+                    "encrypted_size_2": "932C34F0D1EF1F9C964C7B4115564CCB"
+                },
+                "candidate4testlive": {
+                    "encrypted_gid_2": "260E15F5E24AF25294CDDE932FBD055F",
+                    "encrypted_size_2": "04524542102F3C358FF3FD9B8B29E93E"
+                },
+                "coc_staging": {
+                    "encrypted_gid_2": "D901D028F7D80FD95179F373F63142F5",
+                    "encrypted_size_2": "962661E9EA62DE67F7889726682D148C"
+                },
+                "cocplaytest": {
+                    "encrypted_gid_2": "78D60039F024324D65C3BA79CF554971",
+                    "encrypted_size_2": "AC3328E6DE5858B61CDC8ECFC85F04F7"
+                }
             }
         },
         "branches": {
@@ -90,7 +112,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15536499,
-    "_sha": "6aec1be3e3fe4aac606624375c35e5f7deb0079b",
-    "_size": 2245
+    "_change_number": 15577664,
+    "_sha": "c8741eb63fe56222b602c7c122d059d8c6a36af9",
+    "_size": 3029
 }

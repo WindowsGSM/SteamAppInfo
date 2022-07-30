@@ -101,7 +101,13 @@
             "manifests": {
                 "public": "1196555597648493116"
             },
-            "maxsize": "243166917"
+            "maxsize": "243166917",
+            "encryptedmanifests": {
+                "beta": {
+                    "encrypted_gid_2": "A32F16BC7835F8BA9477DA9617BCB397",
+                    "encrypted_size_2": "27F90FA3E1729F3D5F6D5BC514023DE4"
+                }
+            }
         },
         "881433": {
             "name": "Spoxel Dedicated Server Depot - LINUX",
@@ -111,7 +117,13 @@
             "manifests": {
                 "public": "5212894024194267839"
             },
-            "maxsize": "259899654"
+            "maxsize": "259899654",
+            "encryptedmanifests": {
+                "beta": {
+                    "encrypted_gid_2": "708F7929A9C5A6640661790411C0532C",
+                    "encrypted_size_2": "2F430DDE5287525B53E62ED7346A1718"
+                }
+            }
         },
         "881434": {
             "name": "Spoxel Dedicated Server Depot - WINDOWS",
@@ -121,7 +133,13 @@
             "manifests": {
                 "public": "663291361690767378"
             },
-            "maxsize": "247369742"
+            "maxsize": "247369742",
+            "encryptedmanifests": {
+                "beta": {
+                    "encrypted_gid_2": "19A4A98E2E0333CC2444DF8FC3BB8F90",
+                    "encrypted_size_2": "7241C27F2F014133F901B85DB45E1E3A"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -136,7 +154,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15150439,
-    "_sha": "038c7173d5e2eb907f1a05bf2d987ab585af2d1c",
-    "_size": 2887
+    "_change_number": 15577664,
+    "_sha": "57b3861edbc43bedb96dfb8f1de38b9b3e0045f9",
+    "_size": 3415
 }

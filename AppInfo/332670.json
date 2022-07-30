@@ -61,7 +61,13 @@
             "manifests": {
                 "public": "3453919693304578631"
             },
-            "maxsize": "13785874"
+            "maxsize": "13785874",
+            "encryptedmanifests": {
+                "testing": {
+                    "encrypted_gid_2": "61FCAF9860B33B2A0057CC79729C39F5",
+                    "encrypted_size_2": "6198CE72D0C52B82A9506E7B887E3C1A"
+                }
+            }
         },
         "332672": {
             "name": "Project CARS - Dedicated Server Depot (Linux)",
@@ -71,7 +77,13 @@
             "manifests": {
                 "public": "1138439470607335494"
             },
-            "maxsize": "25190591"
+            "maxsize": "25190591",
+            "encryptedmanifests": {
+                "testing": {
+                    "encrypted_gid_2": "C9E261531B8F62267D73574FD0AFA267",
+                    "encrypted_size_2": "2A3210659D5F90DB0929539B7A7C5E4A"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -87,7 +99,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14633474,
-    "_sha": "998c629f193d645c83e3f788505c40d35b65ff36",
-    "_size": 1957
+    "_change_number": 15577664,
+    "_sha": "10f2ef196cd68772ae8a4e12f1960326615a103a",
+    "_size": 2315
 }

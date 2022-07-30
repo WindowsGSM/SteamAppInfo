@@ -76,7 +76,8 @@
         "4922": {
             "name": "Natural Selection 2 Dedicated Server Content",
             "manifests": {
-                "public": "1302134268719521676"
+                "public": "1302134268719521676",
+                "beta": "1302134268719521676"
             },
             "maxsize": "3426926150",
             "encryptedmanifests": {
@@ -105,8 +106,8 @@
                     "encrypted_size_2": "941F1CD8F7CEE9A5E5B7424A7B90C59F"
                 },
                 "testing": {
-                    "encrypted_gid_2": "3995EEC8908DBE6AE476449432B1C8F7",
-                    "encrypted_size_2": "41B385E2FA1E93CE47B0C2E708267F20"
+                    "encrypted_gid_2": "F3E5FB8714AE43BE89372A762EEC739B",
+                    "encrypted_size_2": "37346530E41B217EC7F2B142AEAFFD51"
                 },
                 "throwback": {
                     "encrypted_gid_2": "340F86A9FAD1E40A2C4D4A9AE594AF79",
@@ -159,10 +160,10 @@
                 "timeupdated": "1575155009"
             },
             "testing": {
-                "buildid": "9211171",
+                "buildid": "9219867",
                 "description": "Testing branch",
                 "pwdrequired": "1",
-                "timeupdated": "1659045147"
+                "timeupdated": "1659148148"
             },
             "throwback": {
                 "buildid": "24990",
@@ -172,7 +173,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15564491,
-    "_sha": "84807c74374f74344449d12ec74f258695a8f1e4",
-    "_size": 4070
+    "_change_number": 15578067,
+    "_sha": "90bea495425c87869767bb620a7ff3fc80e21d86",
+    "_size": 4104
 }

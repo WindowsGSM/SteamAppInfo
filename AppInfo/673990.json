@@ -68,9 +68,17 @@
                 "oslist": "windows,linux"
             },
             "manifests": {
-                "public": "5369618756681663337"
+                "public": "5369618756681663337",
+                "beta": "5369618756681663337",
+                "develop": "5369618756681663337"
             },
-            "maxsize": "3475864877"
+            "maxsize": "3475864877",
+            "encryptedmanifests": {
+                "testing": {
+                    "encrypted_gid_2": "DBAE1F67A8ECCC2A68EB6625C9DFF5E5",
+                    "encrypted_size_2": "C74A918C4A28FCAB5B74094F0D057EB2"
+                }
+            }
         },
         "673992": {
             "name": "Windows Server Depot",
@@ -78,9 +86,17 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "5886683205840857418"
+                "public": "5886683205840857418",
+                "beta": "5886683205840857418",
+                "develop": "5886683205840857418"
             },
-            "maxsize": "28052624"
+            "maxsize": "28052624",
+            "encryptedmanifests": {
+                "testing": {
+                    "encrypted_gid_2": "016822F712C8CB98A73D5AB2C2CC9CB3",
+                    "encrypted_size_2": "21A180EB560C581EEFE973A48597E538"
+                }
+            }
         },
         "673993": {
             "name": "Linux Server Depot",
@@ -88,9 +104,17 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "2290729284015416158"
+                "public": "2290729284015416158",
+                "beta": "2290729284015416158",
+                "develop": "2290729284015416158"
             },
-            "maxsize": "48602171"
+            "maxsize": "48602171",
+            "encryptedmanifests": {
+                "testing": {
+                    "encrypted_gid_2": "C4C9F1EF5B76CD1F194E51622E34663C",
+                    "encrypted_size_2": "3ABAC6EE5BC12C89CE3528F802BCAF27"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -116,7 +140,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15481942,
-    "_sha": "d6cbead7fd637a6dbdbc23885f918d83e0016469",
-    "_size": 2468
+    "_change_number": 15577664,
+    "_sha": "7e9808283a384580c47e9684b64a24e416ef32d6",
+    "_size": 3218
 }
