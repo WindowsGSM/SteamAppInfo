@@ -91,14 +91,11 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "5273099603708864444"
+                "public": "5273099603708864444",
+                "classic": "1066263781797053033"
             },
-            "maxsize": "3122506300",
+            "maxsize": "5578105247",
             "encryptedmanifests": {
-                "classic": {
-                    "encrypted_gid_2": "D28263D71C79DD7562B75CDDD91335C3",
-                    "encrypted_size_2": "3796048D8D953A1C566DE1BCCB29116D"
-                },
                 "nightly": {
                     "encrypted_gid_2": "C645353EF0CCD3906480250AE6B41740",
                     "encrypted_size_2": "353D8EB219193AADF3DE788AF7AE8BDF"
@@ -120,14 +117,11 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "5991713146208061105"
+                "public": "5991713146208061105",
+                "classic": "1229449101651237669"
             },
-            "maxsize": "3247065554",
+            "maxsize": "5929391951",
             "encryptedmanifests": {
-                "classic": {
-                    "encrypted_gid_2": "23D690A59311AC93DD8A9B00A9CF9560",
-                    "encrypted_size_2": "ECA83D63EB1F76C2EFA813DE65FA5BBD"
-                },
                 "nightly": {
                     "encrypted_gid_2": "944DEF33B511BB35D71BC9477965A1D9",
                     "encrypted_size_2": "B936B44A8EAEDB6A9796E98DDEBE8C2E"
@@ -150,7 +144,6 @@
             "classic": {
                 "buildid": "9193201",
                 "description": "Classic S4",
-                "pwdrequired": "1",
                 "timeupdated": "1658846235"
             },
             "nightly": {
@@ -173,7 +166,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15609136,
-    "_sha": "7b83830bde787b5c7a6ca9963a3528a0c3a9f315",
-    "_size": 4208
+    "_change_number": 15609916,
+    "_sha": "5368ed27997a8b731238781f3b05065ef0aaf34f",
+    "_size": 3969
 }
