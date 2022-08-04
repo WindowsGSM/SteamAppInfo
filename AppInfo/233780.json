@@ -108,6 +108,10 @@
                     "encrypted_gid_2": "8BD3AC9779573C2A58A7400BCBD9E1BF",
                     "encrypted_size_2": "0CCD45BDA1EFAA5A7CC1EC7E04C48AEC"
                 },
+                "rc": {
+                    "encrypted_gid_2": "11464D4CD5432B509A24CE4743A40126",
+                    "encrypted_size_2": "C013CE9E56F88F336A176BC217AA9D48"
+                },
                 "staging": {
                     "encrypted_gid_2": "8FC6C9EFF497368C257621483D83B9D3",
                     "encrypted_size_2": "8E0F75766F588527650CB15846EB87EB"
@@ -162,6 +166,10 @@
                     "encrypted_gid_2": "A84E94AB4D08A07F3AACF23C1F29F297",
                     "encrypted_size_2": "7DB55197D8F5F15DC55C725FA847B963"
                 },
+                "rc": {
+                    "encrypted_gid_2": "8C6609CFC673F612D060AAED0052E7C9",
+                    "encrypted_size_2": "CB2F78B29B05E1547BFBB402F434D780"
+                },
                 "staging": {
                     "encrypted_gid_2": "A458929F44F9A8DDE1A2AC6470F32BCD",
                     "encrypted_size_2": "A794AF9AB50E4C7581C40D891DB90689"
@@ -215,6 +223,10 @@
                 "profiling": {
                     "encrypted_gid_2": "86F056073E1058DCA90EB55213C4EDF6",
                     "encrypted_size_2": "158275BA1050BB8C5AFF160EB5CF7DAC"
+                },
+                "rc": {
+                    "encrypted_gid_2": "70563520691E065FF84849CF19187051",
+                    "encrypted_size_2": "590EAA62C76C359508A1CACF816ECA60"
                 },
                 "staging": {
                     "encrypted_gid_2": "C809825B9C268E68AB0EAC37593A3355",
@@ -401,6 +413,12 @@
                 "pwdrequired": "1",
                 "timeupdated": "1658997504"
             },
+            "rc": {
+                "buildid": "9236320",
+                "description": "Release Candidate Build",
+                "pwdrequired": "1",
+                "timeupdated": "1659601887"
+            },
             "staging": {
                 "buildid": "9236320",
                 "description": "Staging Build",
@@ -416,7 +434,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15616732,
-    "_sha": "c8ab155dd9c271663307bc5669256e56cd8949b1",
-    "_size": 12157
+    "_change_number": 15627969,
+    "_sha": "a156f8c774f0a7346c579066bb55d9ace0e1b3ea",
+    "_size": 12720
 }
