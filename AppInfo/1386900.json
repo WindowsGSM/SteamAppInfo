@@ -28,6 +28,46 @@
         "has_adult_content": "1",
         "has_adult_content_sex": "1",
         "has_adult_content_violence": "1",
+        "steam_deck_compatibility": {
+            "category": "3",
+            "test_timestamp": "1659484800",
+            "tested_build_id": "7368691",
+            "tests": {
+                "0": {
+                    "display": "4",
+                    "token": "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+                },
+                "1": {
+                    "display": "4",
+                    "token": "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+                },
+                "2": {
+                    "display": "4",
+                    "token": "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+                },
+                "3": {
+                    "display": "4",
+                    "token": "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+                },
+                "4": {
+                    "display": "1",
+                    "token": "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+                }
+            },
+            "configuration": {
+                "supported_input": "gamepad",
+                "requires_manual_keyboard_invoke": "0",
+                "requires_non_controller_launcher_nav": "0",
+                "primary_player_is_controller_slot_0": "1",
+                "non_deck_display_glyphs": "0",
+                "small_text": "0",
+                "requires_internet_for_setup": "0",
+                "requires_internet_for_singleplayer": "0",
+                "recommended_runtime": "proton-7.0-3",
+                "requires_h264": "1",
+                "gamescope_frame_limiter_not_supported": "0"
+            }
+        },
         "controller_support": "full",
         "small_capsule": {
             "english": "capsule_231x87.jpg"
@@ -281,7 +321,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15577664,
-    "_sha": "b16baf370f681986b081cf46bff325aad5fea1bb",
-    "_size": 5992
+    "_change_number": 15681793,
+    "_sha": "ed069fde62deef4ba6bf2590b086e106aef3071f",
+    "_size": 7195
 }
