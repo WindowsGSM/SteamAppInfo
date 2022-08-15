@@ -30,15 +30,18 @@
         "installdir": "realmpts",
         "launch": {
             "0": {
-                "executable": "Binaries\\Win64\\RealmEAC.exe",
+                "executable": "RealmBootstrapper.exe",
                 "arguments": "-seekfreeloadingpcconsole -pid=703 -steam -anon -homedir=\"paladinsroyale\" -eac_dir \"..\\\\EasyAntiCheat\\\\\"",
                 "workingdir": "Binaries",
-                "description": "Launch Win64",
                 "type": "default",
                 "config": {
                     "oslist": "windows",
                     "osarch": "64"
-                }
+                },
+                "description_loc": {
+                    "english": "Launch Win64"
+                },
+                "description": "Launch Win64"
             }
         },
         "usemms": "1"
@@ -103,7 +106,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15714155,
-    "_sha": "21a364e84e9729c1461fa738631021947243fbf1",
-    "_size": 2502
+    "_change_number": 15733426,
+    "_sha": "578c6c751752870b624c56d42e94f53deece9055",
+    "_size": 2559
 }
