@@ -80,9 +80,10 @@
                 "language": ""
             },
             "manifests": {
-                "public": "1801988305256356546"
+                "public": "1801988305256356546",
+                "test": "4078383036115630427"
             },
-            "maxsize": "394940492"
+            "maxsize": "417340870"
         },
         "1303432": {
             "config": {
@@ -91,19 +92,25 @@
                 "language": ""
             },
             "manifests": {
-                "public": "1530641921358159966"
+                "public": "1530641921358159966",
+                "test": "1367400463584376454"
             },
-            "maxsize": "446594889"
+            "maxsize": "480292688"
         },
         "branches": {
             "public": {
                 "buildid": "8889079",
                 "timeupdated": "1654634213"
+            },
+            "test": {
+                "buildid": "9319522",
+                "description": "development branch for testing purposes",
+                "timeupdated": "1660598848"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15150439,
-    "_sha": "2129074e683c99ef7a57c3b0308dac06d425c83a",
-    "_size": 2067
+    "_change_number": 15736839,
+    "_sha": "ce3c9e63204c88111aaa65bbf8bc9df478ebfb3e",
+    "_size": 2273
 }
