@@ -1,7 +1,7 @@
 {
     "appid": "805140",
     "common": {
-        "name": "BATTALION 1944 Dedicated Server",
+        "name": "BATTALION: Legacy Dedicated Server",
         "type": "Tool",
         "parent": "489940",
         "releasestate": "released",
@@ -10,14 +10,15 @@
         "logo": "d379d1b3b787addde8d8210f6bd6b0d6bc857d6e",
         "logo_small": "d379d1b3b787addde8d8210f6bd6b0d6bc857d6e_thumb",
         "icon": "e2aad6dcc6ad6ff7e612401c0a6492cc53225001",
-        "clienttga": "17ac2d766d5ec788b028445646f95b8d1abff776",
-        "clienticon": "6eb4fdf18d486ee767f4f40a556d7fa1c4870c99",
+        "clienttga": "8e561145cf04b1172e29b911de7b8f4d947e2158",
+        "clienticon": "ed2aac939359fd5e90f4b41ca3b5a5a2c4ebfb57",
         "osextended": "",
         "associations": {},
-        "gameid": "805140"
+        "gameid": "805140",
+        "exfgls": "1"
     },
     "config": {
-        "installdir": "Battalion 1944 Dedicated Server",
+        "installdir": "BattalionServer",
         "launch": {
             "0": {
                 "executable": "BattalionServer.exe",
@@ -69,14 +70,13 @@
             "depotfromapp": "1007"
         },
         "805141": {
-            "name": "BATTALION 1944 Dedicated Server Content (Windows)",
+            "name": "BATTALION: Legacy Dedicated Server Content (Windows)",
             "config": {
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "175389806278947342"
+                "public": "3423305518632986673"
             },
-            "maxsize": "3573135825",
             "encryptedmanifests": {
                 "main_development": {
                     "encrypted_gid_2": "6726E7574FB94D647F1C38DC51B92F3E",
@@ -93,11 +93,13 @@
             }
         },
         "805142": {
-            "name": "BATTALION 1944 Dedicated Server Content (Linux)",
+            "name": "BATTALION: Legacy Dedicated Server Content (Linux)",
             "config": {
                 "oslist": "linux"
             },
-            "manifests": {},
+            "manifests": {
+                "public": "1661124729831542773"
+            },
             "encryptedmanifests": {
                 "main_development": {
                     "encrypted_gid_2": "0236F2DAC1CB20F5F3FBF15BBE16CBD7",
@@ -115,8 +117,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "4481370",
-                "timeupdated": "1576065176"
+                "buildid": "9317129",
+                "timeupdated": "1660666709"
             },
             "main_development": {
                 "buildid": "9251731",
@@ -139,7 +141,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15731963,
-    "_sha": "fd8ed791ff05dfef89804c1c944eb139e837ce40",
-    "_size": 3424
+    "_change_number": 15745562,
+    "_sha": "6a4945602bccf507495d2900db22a1d1307091fc",
+    "_size": 3443
 }
