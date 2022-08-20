@@ -46,35 +46,6 @@
         }
     },
     "depots": {
-        "1004": {
-            "config": {
-                "oslist": "windows"
-            },
-            "manifests": {
-                "public": "5329354416203291021"
-            },
-            "maxsize": "42086632",
-            "depotfromapp": "1007"
-        },
-        "1005": {
-            "config": {
-                "oslist": "macos"
-            },
-            "manifests": {
-                "public": "2135359612286175146"
-            },
-            "depotfromapp": "1007"
-        },
-        "1006": {
-            "config": {
-                "oslist": "linux"
-            },
-            "manifests": {
-                "public": "4444585935428744334"
-            },
-            "maxsize": "66706004",
-            "depotfromapp": "1007"
-        },
         "baselanguages": "english",
         "1652071": {
             "config": {
@@ -82,13 +53,13 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "162356675439457663"
+                "public": "227285869682352586"
             },
-            "maxsize": "1579524725",
+            "maxsize": "1579706371",
             "encryptedmanifests": {
                 "development": {
-                    "encrypted_gid_2": "3BD59B11532302B5C8D1A138458B9180",
-                    "encrypted_size_2": "A2B2092B24E553D5992B020BF72777FB"
+                    "encrypted_gid_2": "5309CB49517ABEE8181D0744F4C1DFD6",
+                    "encrypted_size_2": "0AA971FCE349D77B5AE6936DD3FB191E"
                 }
             }
         },
@@ -98,30 +69,30 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "1762657681931196753"
+                "public": "6173338365916730137"
             },
-            "maxsize": "1676431158",
+            "maxsize": "1676301507",
             "encryptedmanifests": {
                 "development": {
-                    "encrypted_gid_2": "0ECD718031D20DAE00C2F8DD0F754B2D",
-                    "encrypted_size_2": "6CDDC863DD58F28C8D07DDFB6806C32C"
+                    "encrypted_gid_2": "4B086A3304DDE35725161BDA9EE9B10A",
+                    "encrypted_size_2": "62781EBBBA64E302E9FB3EB01D47321E"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "9353670",
-                "timeupdated": "1660997107"
+                "buildid": "9353832",
+                "timeupdated": "1661001233"
             },
             "development": {
-                "buildid": "9353670",
+                "buildid": "9353832",
                 "pwdrequired": "1",
-                "timeupdated": "1660997100"
+                "timeupdated": "1661001227"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15787806,
-    "_sha": "10f9b552a7a2137a128878aa97499313ed788565",
-    "_size": 2586
+    "_change_number": 15788129,
+    "_sha": "7a6a689fe6b44f3d595b6477ff9a7a00fe6bcdd0",
+    "_size": 2090
 }
