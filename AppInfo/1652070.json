@@ -27,7 +27,7 @@
         "launch": {
             "0": {
                 "executable": "QangaServer.exe",
-                "arguments": "-log -login anonymous",
+                "arguments": " /Game/Maps/Universe/L_Persistent_Universe? -server -log -port=10000 -map=L_Persistent_Universe -session=Survival -QueryPort=27015",
                 "type": "default",
                 "config": {
                     "oslist": "windows",
@@ -36,7 +36,7 @@
             },
             "1": {
                 "executable": "QangaServer.sh",
-                "arguments": "-log -login anonymous",
+                "arguments": " /Game/Maps/Universe/L_Persistent_Universe? -server -log -port=10000 -map=L_Persistent_Universe -session=Survival -QueryPort=27015",
                 "type": "default",
                 "config": {
                     "oslist": "linux",
@@ -53,13 +53,13 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "227285869682352586"
+                "public": "6866290274000966340"
             },
-            "maxsize": "1579706371",
+            "maxsize": "1579528812",
             "encryptedmanifests": {
                 "development": {
-                    "encrypted_gid_2": "5309CB49517ABEE8181D0744F4C1DFD6",
-                    "encrypted_size_2": "0AA971FCE349D77B5AE6936DD3FB191E"
+                    "encrypted_gid_2": "BAC474D7551347B621ECE3F7AE510829",
+                    "encrypted_size_2": "72777D8496FD78EAA19BF602DAB7A8AE"
                 }
             }
         },
@@ -69,30 +69,30 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "6173338365916730137"
+                "public": "3636348649354444614"
             },
-            "maxsize": "1676301507",
+            "maxsize": "1676302217",
             "encryptedmanifests": {
                 "development": {
-                    "encrypted_gid_2": "4B086A3304DDE35725161BDA9EE9B10A",
-                    "encrypted_size_2": "62781EBBBA64E302E9FB3EB01D47321E"
+                    "encrypted_gid_2": "190867A0CB17FF6E5D7E7E83EBBCD4F0",
+                    "encrypted_size_2": "EC19465C282E2ECAE555C70E8536001B"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "9353832",
-                "timeupdated": "1661001233"
+                "buildid": "9355443",
+                "timeupdated": "1661045753"
             },
             "development": {
-                "buildid": "9353832",
+                "buildid": "9355443",
                 "pwdrequired": "1",
-                "timeupdated": "1661001227"
+                "timeupdated": "1661045739"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15788129,
-    "_sha": "7a6a689fe6b44f3d595b6477ff9a7a00fe6bcdd0",
-    "_size": 2090
+    "_change_number": 15791285,
+    "_sha": "2b8e4c1bc6a4d115a6c642ba325459148679c40b",
+    "_size": 2309
 }
