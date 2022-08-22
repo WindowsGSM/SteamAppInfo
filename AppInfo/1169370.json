@@ -117,7 +117,8 @@
                 "osarch": "32"
             },
             "manifests": {
-                "public": "4167413743827899035"
+                "public": "4167413743827899035",
+                "v0.21.23": "4167413743827899035"
             },
             "maxsize": "205582594",
             "encryptedmanifests": {
@@ -133,7 +134,8 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "3325434589457135584"
+                "public": "3325434589457135584",
+                "v0.21.23": "3325434589457135584"
             },
             "maxsize": "222199682",
             "encryptedmanifests": {
@@ -148,7 +150,8 @@
                 "oslist": "macos"
             },
             "manifests": {
-                "public": "7986793149790804069"
+                "public": "7986793149790804069",
+                "v0.21.23": "7986793149790804069"
             },
             "maxsize": "231003135",
             "encryptedmanifests": {
@@ -163,7 +166,8 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "6875577542589100997"
+                "public": "6875577542589100997",
+                "v0.21.23": "6875577542589100997"
             },
             "maxsize": "261144840",
             "encryptedmanifests": {
@@ -182,11 +186,16 @@
                 "buildid": "9096792",
                 "pwdrequired": "1",
                 "timeupdated": "1657522245"
+            },
+            "v0.21.23": {
+                "buildid": "9096792",
+                "description": "Older version",
+                "timeupdated": "1661180535"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15577664,
-    "_sha": "30d45f9fc4575b0df8bbebaa03b2c69240a39691",
-    "_size": 4192
+    "_change_number": 15802960,
+    "_sha": "41e3c235b60febcf9c06e9484872d77095abd30e",
+    "_size": 4460
 }
