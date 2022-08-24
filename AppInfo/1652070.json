@@ -27,7 +27,7 @@
         "launch": {
             "0": {
                 "executable": "QangaServer.exe",
-                "arguments": " /Game/Maps/Universe/L_Persistent_Universe? -server -log -port=10000 -map=L_Persistent_Universe -session=Survival -QueryPort=27015",
+                "arguments": " /Game/Maps/Universe/L_Persistent_Universe? -server -log -port=10000 -map=L_Persistent_Universe -sessionName=Survival -QueryPort=27015",
                 "type": "default",
                 "config": {
                     "oslist": "windows",
@@ -36,7 +36,7 @@
             },
             "1": {
                 "executable": "QangaServer.sh",
-                "arguments": " /Game/Maps/Universe/L_Persistent_Universe? -server -log -port=10000 -map=L_Persistent_Universe -session=Survival -QueryPort=27015",
+                "arguments": " /Game/Maps/Universe/L_Persistent_Universe? -server -log -port=10000 -map=L_Persistent_Universe -sessionName=Survival -QueryPort=27015",
                 "type": "default",
                 "config": {
                     "oslist": "linux",
@@ -92,7 +92,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15824831,
-    "_sha": "ce607c7ffc7cde470e1703a616c66d749597abda",
-    "_size": 2309
+    "_change_number": 15824878,
+    "_sha": "9493f3ce4715f3237c10bad83695d4d5b164cf13",
+    "_size": 2317
 }
