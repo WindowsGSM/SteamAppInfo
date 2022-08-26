@@ -100,7 +100,8 @@
                 "language": ""
             },
             "manifests": {
-                "public": "7786707962715044809"
+                "public": "7786707962715044809",
+                "legacy": "7786707962715044809"
             },
             "maxsize": "1384888809",
             "encryptedmanifests": {
@@ -126,7 +127,8 @@
                 "language": ""
             },
             "manifests": {
-                "public": "8856777621851760952"
+                "public": "8856777621851760952",
+                "legacy": "8856777621851760952"
             },
             "maxsize": "2315599264",
             "encryptedmanifests": {
@@ -149,6 +151,11 @@
                 "buildid": "8738769",
                 "timeupdated": "1652509413"
             },
+            "legacy": {
+                "buildid": "8738769",
+                "description": "Early Access UE4 Server",
+                "timeupdated": "1661534247"
+            },
             "nodecraft": {
                 "buildid": "8151858",
                 "description": "Host config testing",
@@ -170,7 +177,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15854823,
-    "_sha": "553f0ef5410af66f241288ef4cd4b5d44e52aeca",
-    "_size": 3961
+    "_change_number": 15855208,
+    "_sha": "379b48c541d55122cb89977cf8173cc6f7d5b9d9",
+    "_size": 4157
 }
