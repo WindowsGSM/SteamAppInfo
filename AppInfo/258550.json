@@ -8,7 +8,8 @@
         "osarch": "",
         "osextended": "macos64",
         "associations": {},
-        "gameid": "258550"
+        "gameid": "258550",
+        "store_tags": {}
     },
     "extended": {
         "gamedir": ""
@@ -31,7 +32,7 @@
                 "aux01": "5697677037111702563",
                 "aux02": "8657509378815883011",
                 "release": "1981283711249526262",
-                "staging": "48267862983753687"
+                "staging": "8904827043708675651"
             },
             "maxsize": "555368851",
             "encryptedmanifests": {
@@ -88,8 +89,8 @@
                     "encrypted_size_2": "1BF1570DCD9A4B16D2B50CCCA2A77357"
                 },
                 "staging-debug": {
-                    "encrypted_gid_2": "D3EA88EBEDE8DDDD54951B193DF428DE",
-                    "encrypted_size_2": "C22AF1854E6F1D59DE0152068422A81F"
+                    "encrypted_gid_2": "50E0CA726D9347DFA0CDABE854BEBB0A",
+                    "encrypted_size_2": "C9021AA48BCBBDF1969C92AC64EE2713"
                 },
                 "test": {
                     "encrypted_gid_2": "9BC8864BF0565599FEC200CEA3A22FEE",
@@ -119,7 +120,7 @@
                 "aux01": "4369047779903712341",
                 "aux02": "5341757430701179619",
                 "release": "7652785060100460861",
-                "staging": "5377306443137150602"
+                "staging": "8645143496732946100"
             },
             "maxsize": "607906832",
             "encryptedmanifests": {
@@ -292,7 +293,7 @@
                 "aux01": "1434772429187972926",
                 "aux02": "2675514998542425105",
                 "release": "7163241170451988118",
-                "staging": "2804849548452296020"
+                "staging": "5481550056167034310"
             },
             "maxsize": "6206859591",
             "encryptedmanifests": {
@@ -349,7 +350,7 @@
                     "encrypted_size_2": "FC8A916C28DC23CB744167152016572B"
                 },
                 "staging-debug": {
-                    "encrypted_gid_2": "34BD6D6A1BB954F9288D3993A2381BF1",
+                    "encrypted_gid_2": "DD9A4880B4810A8EFD58EB2C903A7D70",
                     "encrypted_size_2": "AFFE35BA632A7F4F059E57DEB19B1D89"
                 },
                 "test": {
@@ -458,14 +459,14 @@
                 "timeupdated": "1660577925"
             },
             "staging": {
-                "buildid": "9389842",
-                "timeupdated": "1661463875"
+                "buildid": "9392813",
+                "timeupdated": "1661502098"
             },
             "staging-debug": {
-                "buildid": "9389850",
+                "buildid": "9392822",
                 "description": "debug",
                 "pwdrequired": "1",
-                "timeupdated": "1661463961"
+                "timeupdated": "1661502190"
             },
             "test": {
                 "buildid": "8719029",
@@ -493,7 +494,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15847478,
-    "_sha": "f585190813a7c2ed384d3bd93a00621e4089a2eb",
-    "_size": 15206
+    "_change_number": 15850072,
+    "_sha": "207ea7158ce822b18006527af674ae21ee2c8a30",
+    "_size": 15231
 }
