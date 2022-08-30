@@ -5,11 +5,36 @@
         "type": "Tool",
         "parent": "931180",
         "releasestate": "released",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
         "associations": {},
         "gameid": "931580"
     },
     "config": {
-        "installdir": "Conan Exiles - Testlive Dedicated Server"
+        "installdir": "Conan Exiles - Testlive Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "ConanSandboxServer.exe",
+                "arguments": "-Messaging",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                },
+                "description_loc": {
+                    "english": "Launch Game server"
+                },
+                "description": "Launch Game server"
+            },
+            "1": {
+                "executable": "ConanSandbox\\Binaries\\Linux\\ConanSandboxServer",
+                "type": "server",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        }
     },
     "depots": {
         "931581": {
@@ -112,7 +137,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15876300,
-    "_sha": "20d2dc85bba6dfca7179797dcd861427cf5b5981",
-    "_size": 3029
+    "_change_number": 15887555,
+    "_sha": "d201fed32425e016abab0f6e5b463610dc661693",
+    "_size": 3553
 }
