@@ -36,11 +36,14 @@
                 }
             },
             "1": {
-                "executable": "srcds_linux",
-                "description": "Launch Dedicated Server",
+                "executable": "bin\\srcds_run.sh",
                 "config": {
                     "oslist": "linux"
-                }
+                },
+                "description_loc": {
+                    "english": "Launch Dedicated Server"
+                },
+                "description": "Launch Dedicated Server"
             }
         }
     },
@@ -219,7 +222,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15760205,
-    "_sha": "a57a3e5afa3422afc41867db9a31d4a4b50b26d2",
-    "_size": 5190
+    "_change_number": 15949016,
+    "_sha": "212ddfe75856a2d81737aca4f4dacca0aca44d0b",
+    "_size": 5272
 }
