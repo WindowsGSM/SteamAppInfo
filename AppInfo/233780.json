@@ -84,10 +84,6 @@
                     "encrypted_gid_2": "D8595B762BAD415999853F13C5C62D53",
                     "encrypted_size_2": "B952E6BF302E737E3AA12C48084FF052"
                 },
-                "contact_staging": {
-                    "encrypted_gid_2": "1E91E0D2E6F537C5798B505EDA76F6A4",
-                    "encrypted_size_2": "0157542461EE63054F4974D9000B8274"
-                },
                 "gmstaging": {
                     "encrypted_gid_2": "80E5938FAD1B7EE0CC251A04F716FA13",
                     "encrypted_size_2": "C8D5E52615347DDE7F144A68E3BCDA07"
@@ -108,10 +104,6 @@
                     "encrypted_gid_2": "E90F864839CDA534D112F0EC6C201AA0",
                     "encrypted_size_2": "6B009EF41430479E92F1ACC5E2F77E1C"
                 },
-                "staging": {
-                    "encrypted_gid_2": "5A724EE8EAD36360D886E33D43083648",
-                    "encrypted_size_2": "A51E016AFC802B0CD4494EB0180BD63F"
-                },
                 "temp": {
                     "encrypted_gid_2": "D3BF3B3A1FA801F81E65FAF3FF17F575",
                     "encrypted_size_2": "3AEF6A702DBC990DAF01B8244795D33D"
@@ -124,11 +116,11 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "8412527186944589533",
-                "contact": "8412527186944589533",
+                "public": "1530469002365346804",
+                "contact": "1530469002365346804",
                 "creatordlc": "8412527186944589533"
             },
-            "maxsize": "165173415",
+            "maxsize": "165248679",
             "encryptedmanifests": {
                 "cdlc_internal_server": {
                     "encrypted_gid_2": "D4495C9CC122859030DCD9558A761FC8",
@@ -137,10 +129,6 @@
                 "cdlc_private_beta_server": {
                     "encrypted_gid_2": "995821D1D4F14FCE49040E1241A2F9BD",
                     "encrypted_size_2": "D5ABD7E4BCFB6A1502B6F481A4C02AC3"
-                },
-                "contact_staging": {
-                    "encrypted_gid_2": "AB9CCC509058EA186FC5781F271E2461",
-                    "encrypted_size_2": "15370F92818167C95ED5D38EE906F96F"
                 },
                 "gmstaging": {
                     "encrypted_gid_2": "BBC4A156BA5333976D46479CB8F91B47",
@@ -162,10 +150,6 @@
                     "encrypted_gid_2": "00F688D5D181EDFA67FA0DAB91A36E8F",
                     "encrypted_size_2": "A0553A5C187ACC6328893A237001D9C0"
                 },
-                "staging": {
-                    "encrypted_gid_2": "3E3C87A04F43E72DDF6678E739D6EDFF",
-                    "encrypted_size_2": "B56000A8FE2E8A4159AACA7065286428"
-                },
                 "temp": {
                     "encrypted_gid_2": "81466AEF4596C542C883B4BBA2B0C116",
                     "encrypted_size_2": "716E1C2D055106A31312CF213F6BBD46"
@@ -178,8 +162,8 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "311052754805921876",
-                "contact": "311052754805921876",
+                "public": "4978213135581132866",
+                "contact": "4978213135581132866",
                 "creatordlc": "311052754805921876"
             },
             "maxsize": "151159657",
@@ -191,10 +175,6 @@
                 "cdlc_private_beta_server": {
                     "encrypted_gid_2": "657922A1291DA2119F27B1653EC09583",
                     "encrypted_size_2": "86E6C1B84001BA9B9CD8FEC9E79641E8"
-                },
-                "contact_staging": {
-                    "encrypted_gid_2": "D43A562252137EBD1126BDD1AA474C65",
-                    "encrypted_size_2": "EB3B7D66DA09AADF582B395B13E652DD"
                 },
                 "gmstaging": {
                     "encrypted_gid_2": "1B1D3F53EFD6E028AE5AEA456EE7E9F1",
@@ -215,10 +195,6 @@
                 "profiling": {
                     "encrypted_gid_2": "F70DF950769AE92F2B30628268D12877",
                     "encrypted_size_2": "7BDD3F731F09B4854492C6715D8A79F5"
-                },
-                "staging": {
-                    "encrypted_gid_2": "168804B1AD4A929751C814B0ACE5871E",
-                    "encrypted_size_2": "2F3FDB9BA0C2DF35F5A23B0366CC8C1E"
                 },
                 "temp": {
                     "encrypted_gid_2": "0E104245B3178DCDDF452215D7C4C72E",
@@ -340,8 +316,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "9431551",
-                "timeupdated": "1662454942"
+                "buildid": "9483306",
+                "timeupdated": "1662989289"
             },
             "cdlc_internal_server": {
                 "buildid": "6475122",
@@ -356,15 +332,9 @@
                 "timeupdated": "1662723427"
             },
             "contact": {
-                "buildid": "9431562",
-                "description": "Contact Build",
-                "timeupdated": "1662454955"
-            },
-            "contact_staging": {
                 "buildid": "9483318",
-                "description": "Contact Staging Build",
-                "pwdrequired": "1",
-                "timeupdated": "1662714794"
+                "description": "Contact Build",
+                "timeupdated": "1662989297"
             },
             "creatordlc": {
                 "buildid": "9476675",
@@ -401,12 +371,6 @@
                 "pwdrequired": "1",
                 "timeupdated": "1662457632"
             },
-            "staging": {
-                "buildid": "9483306",
-                "description": "Staging Build",
-                "pwdrequired": "1",
-                "timeupdated": "1662714674"
-            },
             "temp": {
                 "buildid": "8333816",
                 "description": "temp",
@@ -416,7 +380,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15993918,
-    "_sha": "55aa31b7eebdf89d050e3d12d3d0540f9d302654",
-    "_size": 12154
+    "_change_number": 16018083,
+    "_sha": "3c304873edc79f8e964a60c87d70ab54092d61dc",
+    "_size": 10970
 }
