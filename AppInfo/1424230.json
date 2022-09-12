@@ -72,6 +72,10 @@
             },
             "maxsize": "43427280067",
             "encryptedmanifests": {
+                "2.8beta": {
+                    "encrypted_gid_2": "E7F8251DEDA70208FA44E0E5B793ABEC",
+                    "encrypted_size_2": "EE62C71621BFF8350BF7F6D03657D23B"
+                },
                 "benchmark": {
                     "encrypted_gid_2": "47712FED2AD2A6052C22E203918CB556",
                     "encrypted_size_2": "A82CED39DAD872F1B6836F4A68DD24DA"
@@ -79,10 +83,6 @@
                 "benchmark2": {
                     "encrypted_gid_2": "A8CC4BCE51599BE5B746AD446F7FF1EA",
                     "encrypted_size_2": "FBB76CF605D624BD5D25CCAA42C276F7"
-                },
-                "linebattle-beta": {
-                    "encrypted_gid_2": "80D88FAEC8D1DA86DB84422524E539D8",
-                    "encrypted_size_2": "3916351BF818EB16139C5FE377FA699A"
                 },
                 "staging": {
                     "encrypted_gid_2": "C39B5F7DCB2A5AF54B92D728CC419CAE",
@@ -102,6 +102,10 @@
             },
             "maxsize": "43388109569",
             "encryptedmanifests": {
+                "2.8beta": {
+                    "encrypted_gid_2": "4B5A3356719B5B744428C8E7A6F1ABFE",
+                    "encrypted_size_2": "C62E155621F3853425EB5DD6A3F38D55"
+                },
                 "benchmark": {
                     "encrypted_gid_2": "A6772FA308348E496AC5663220FF9CB1",
                     "encrypted_size_2": "269A39E45974991F8D4F23F5C630FF68"
@@ -109,10 +113,6 @@
                 "benchmark2": {
                     "encrypted_gid_2": "DD31BE7C5CAC93061BCF36DEDBD61C38",
                     "encrypted_size_2": "13E7A84D6B34C45BF0D21498704B85AA"
-                },
-                "linebattle-beta": {
-                    "encrypted_gid_2": "6F66E9243C40920E27C0AC6788CB1B5C",
-                    "encrypted_size_2": "252830285A2C6169BF7BE67902908C2B"
                 },
                 "staging": {
                     "encrypted_gid_2": "8C0EFBD691B14F217E610FAA203AC6E7",
@@ -124,6 +124,11 @@
             "public": {
                 "buildid": "9479340",
                 "timeupdated": "1662669845"
+            },
+            "2.8beta": {
+                "buildid": "9487422",
+                "pwdrequired": "1",
+                "timeupdated": "1662998709"
             },
             "benchmark": {
                 "buildid": "6987347",
@@ -139,11 +144,6 @@
                 "buildid": "9479340",
                 "timeupdated": "1662669827"
             },
-            "linebattle-beta": {
-                "buildid": "9479340",
-                "pwdrequired": "1",
-                "timeupdated": "1662669837"
-            },
             "staging": {
                 "buildid": "9487422",
                 "pwdrequired": "1",
@@ -152,7 +152,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15998969,
-    "_sha": "7feac1cf42d73e74951d75cc20f97beb8dc44904",
-    "_size": 3645
+    "_change_number": 16019872,
+    "_sha": "89e41e0acc205d52e877470f7af50d35ae778c90",
+    "_size": 3621
 }
