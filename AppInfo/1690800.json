@@ -105,6 +105,10 @@
                     "encrypted_gid_2": "F8B4EB488E9B0F08F55903E8A5CE962E",
                     "encrypted_size_2": "F92F53CFB9454C6AF9123ECE4198A218"
                 },
+                "patching": {
+                    "encrypted_gid_2": "62726438A1CB128070E67824A4769930",
+                    "encrypted_size_2": "75BC4704F48F94DE156C34961CBD2C64"
+                },
                 "qa-cheats": {
                     "encrypted_gid_2": "A55D450A0488977001B1C842D6729227",
                     "encrypted_size_2": "56D48A4D2F56156F334197978DD85CBC"
@@ -152,6 +156,10 @@
                 "nightly": {
                     "encrypted_gid_2": "280217AFC9D04EA427E50544F7582349",
                     "encrypted_size_2": "E10E5CA01C0ADC1F48DACFA5DF87E239"
+                },
+                "patching": {
+                    "encrypted_gid_2": "C68ADCB5DB08D39E5B78CD8631A7CCE3",
+                    "encrypted_size_2": "1D5C213982684F43E3399BACA07F7CEB"
                 },
                 "qa-cheats": {
                     "encrypted_gid_2": "9FA26B6CF19AF4978C3224AF0B915014",
@@ -207,6 +215,11 @@
                 "pwdrequired": "1",
                 "timeupdated": "1663104760"
             },
+            "patching": {
+                "buildid": "9511477",
+                "pwdrequired": "1",
+                "timeupdated": "1663125058"
+            },
             "qa-cheats": {
                 "buildid": "9282037",
                 "pwdrequired": "1",
@@ -220,7 +233,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16035036,
-    "_sha": "a2ef4fbf9741a37315d11f50bfc43fc6cbfca6f0",
-    "_size": 5698
+    "_change_number": 16037256,
+    "_sha": "8200956e910ff987833e77c2b174415a32918129",
+    "_size": 6094
 }
