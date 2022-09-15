@@ -72,7 +72,8 @@
             "manifests": {
                 "public": "7883692241555098244",
                 "contact": "2442396735584427775",
-                "creatordlc": "7883692241555098244"
+                "creatordlc": "7883692241555098244",
+                "profiling": "7883692241555098244"
             },
             "maxsize": "7466937201",
             "encryptedmanifests": {
@@ -100,10 +101,6 @@
                     "encrypted_gid_2": "141FDF4B0F50654634D6A2BCA6E57849",
                     "encrypted_size_2": "DEDD995FA78625E7FDA961369608407A"
                 },
-                "profiling": {
-                    "encrypted_gid_2": "E90F864839CDA534D112F0EC6C201AA0",
-                    "encrypted_size_2": "6B009EF41430479E92F1ACC5E2F77E1C"
-                },
                 "temp": {
                     "encrypted_gid_2": "D3BF3B3A1FA801F81E65FAF3FF17F575",
                     "encrypted_size_2": "3AEF6A702DBC990DAF01B8244795D33D"
@@ -118,7 +115,8 @@
             "manifests": {
                 "public": "1530469002365346804",
                 "contact": "1530469002365346804",
-                "creatordlc": "8412527186944589533"
+                "creatordlc": "8412527186944589533",
+                "profiling": "1530469002365346804"
             },
             "maxsize": "165248679",
             "encryptedmanifests": {
@@ -146,10 +144,6 @@
                     "encrypted_gid_2": "2503A1C0EBB2CE8BC4C11F0DC34F80A0",
                     "encrypted_size_2": "16A0CEF956BD12365B631252CF7610ED"
                 },
-                "profiling": {
-                    "encrypted_gid_2": "1882942CD4884B37E1421BBFE26F4E88",
-                    "encrypted_size_2": "789BD8CB19FD1C9036D31D06ACFC014A"
-                },
                 "temp": {
                     "encrypted_gid_2": "81466AEF4596C542C883B4BBA2B0C116",
                     "encrypted_size_2": "716E1C2D055106A31312CF213F6BBD46"
@@ -164,7 +158,8 @@
             "manifests": {
                 "public": "4978213135581132866",
                 "contact": "4978213135581132866",
-                "creatordlc": "311052754805921876"
+                "creatordlc": "311052754805921876",
+                "profiling": "4978213135581132866"
             },
             "maxsize": "151159657",
             "encryptedmanifests": {
@@ -192,10 +187,6 @@
                     "encrypted_gid_2": "D7F79FAE4EF2ADC053A19015BB9DF14D",
                     "encrypted_size_2": "002297841B499E19FDFA3F86CF1BB04A"
                 },
-                "profiling": {
-                    "encrypted_gid_2": "C763D5F895DDD9DE253E049F2A95769B",
-                    "encrypted_size_2": "830ED42A4FD27D1444B47605FF2B03DD"
-                },
                 "temp": {
                     "encrypted_gid_2": "0E104245B3178DCDDF452215D7C4C72E",
                     "encrypted_size_2": "B8449EA22450B09076BB44ECC29DAD5C"
@@ -207,26 +198,20 @@
             "config": {
                 "oslist": "windows"
             },
-            "manifests": {},
-            "encryptedmanifests": {
-                "profiling": {
-                    "encrypted_gid_2": "227B916A657AA8C2E27043A191D5B21F",
-                    "encrypted_size_2": "4CF869EE7E50527E0B5C0C1B01044230"
-                }
-            }
+            "manifests": {
+                "profiling": "6003265216514641826"
+            },
+            "maxsize": "159751304"
         },
         "233785": {
             "name": "Arma 3 Server - Profiler - LINUX Depot",
             "config": {
                 "oslist": "linux"
             },
-            "manifests": {},
-            "encryptedmanifests": {
-                "profiling": {
-                    "encrypted_gid_2": "73BA9B87315A5E4B2F287103C32F485D",
-                    "encrypted_size_2": "5A88C2A0296D022BE91628F57822DFE5"
-                }
-            }
+            "manifests": {
+                "profiling": "3790454443077902478"
+            },
+            "maxsize": "232077364"
         },
         "233787": {
             "name": "Arma 3 Server Creator DLC - GM",
@@ -368,7 +353,6 @@
             "profiling": {
                 "buildid": "9499679",
                 "description": "Performance Profiling Build",
-                "pwdrequired": "1",
                 "timeupdated": "1662997594"
             },
             "temp": {
@@ -380,7 +364,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16039783,
-    "_sha": "0b106ea6b6f659a1f2f948e1fa94b4d3aac641ff",
-    "_size": 10970
+    "_change_number": 16053439,
+    "_sha": "4b6825f03599b144fc80aaaa34a35911f1ca028b",
+    "_size": 10391
 }
