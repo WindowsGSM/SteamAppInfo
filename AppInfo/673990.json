@@ -74,6 +74,10 @@
             },
             "maxsize": "3475864877",
             "encryptedmanifests": {
+                "donator": {
+                    "encrypted_gid_2": "DD8EBAF8D80E020DFEC1169312D93E39",
+                    "encrypted_size_2": "10CD7160593B2A5D8E27837A6F6B56D1"
+                },
                 "testing": {
                     "encrypted_gid_2": "DBAE1F67A8ECCC2A68EB6625C9DFF5E5",
                     "encrypted_size_2": "C74A918C4A28FCAB5B74094F0D057EB2"
@@ -92,6 +96,10 @@
             },
             "maxsize": "28052624",
             "encryptedmanifests": {
+                "donator": {
+                    "encrypted_gid_2": "FEA28EF44CC9E26263A245175B25702A",
+                    "encrypted_size_2": "924E93926CBA03EAEB7E5D18F5FA02AC"
+                },
                 "testing": {
                     "encrypted_gid_2": "016822F712C8CB98A73D5AB2C2CC9CB3",
                     "encrypted_size_2": "21A180EB560C581EEFE973A48597E538"
@@ -110,6 +118,10 @@
             },
             "maxsize": "48602171",
             "encryptedmanifests": {
+                "donator": {
+                    "encrypted_gid_2": "2FA7B93F90B8E9C91ED2F797AE7901FC",
+                    "encrypted_size_2": "1626E356A8B0ADF2D6C58359F4D1AF56"
+                },
                 "testing": {
                     "encrypted_gid_2": "C4C9F1EF5B76CD1F194E51622E34663C",
                     "encrypted_size_2": "3ABAC6EE5BC12C89CE3528F802BCAF27"
@@ -131,6 +143,12 @@
                 "description": "branch for internal testing of in-development changes",
                 "timeupdated": "1658346046"
             },
+            "donator": {
+                "buildid": "9464084",
+                "description": "Donator testing branch",
+                "pwdrequired": "1",
+                "timeupdated": "1663418405"
+            },
             "testing": {
                 "buildid": "9159013",
                 "description": "TESTING",
@@ -140,7 +158,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15936824,
-    "_sha": "f0678b2da7ec0c94ffae6b398f949fbcab4eafcc",
-    "_size": 3218
+    "_change_number": 16077039,
+    "_sha": "5456367c96186259895129eeecc63dc8e46802bd",
+    "_size": 3800
 }
