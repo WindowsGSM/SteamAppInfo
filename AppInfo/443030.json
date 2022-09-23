@@ -148,14 +148,6 @@
                     "encrypted_gid_2": "FC81F691FB2CA4261968427274196E2B",
                     "encrypted_size_2": "4E4E0A847228E7ED4CC9F61F9B4B7575"
                 },
-                "live_backup1": {
-                    "encrypted_gid_2": "5AB091A7B3EB29EEDFE693DC6389D9E4",
-                    "encrypted_size_2": "1C90F1F25E0ECD3B7D6530B787BBA8A0"
-                },
-                "live_backup2": {
-                    "encrypted_gid_2": "4F112A05313B3CEDCE0BEED43EFC4928",
-                    "encrypted_size_2": "84E38AA4D64B24E900985D9A843B23AB"
-                },
                 "marketing": {
                     "encrypted_gid_2": "67870C942DEC45B00F3CB6359BB079C2",
                     "encrypted_size_2": "9BAD4D7ADF4735E84EF1F90A1ED473D1"
@@ -191,6 +183,14 @@
                 "rc-retail": {
                     "encrypted_gid_2": "6C177F33AB0CE4870DAC5FFAA13256A7",
                     "encrypted_size_2": "E5731CD6BF57B4D25A77365CA983713A"
+                },
+                "retail_backup1": {
+                    "encrypted_gid_2": "82944F29A37BB2F4D7724631E7DDBC2A",
+                    "encrypted_size_2": "2D925B2F0654CCC95A6DE6BA2F2B730C"
+                },
+                "retail_backup2": {
+                    "encrypted_gid_2": "0DAEFDD9ADE99A60208B947CFE1587D3",
+                    "encrypted_size_2": "B9F5E7CA9A3A0EB321AD491302B67BAE"
                 },
                 "trials": {
                     "encrypted_gid_2": "28CAEC20E7480F2E9B688577B3431709",
@@ -249,14 +249,6 @@
                     "encrypted_gid_2": "36954501F60A650B8609274D8021D8A1",
                     "encrypted_size_2": "F7F3B44D3332BCBFD92A67382228CC59"
                 },
-                "live_backup1": {
-                    "encrypted_gid_2": "A004676E228A6438EA00BDE10EDDD88C",
-                    "encrypted_size_2": "0816AA3B4859A8F7F351495C60594889"
-                },
-                "live_backup2": {
-                    "encrypted_gid_2": "5286C6B77C5CA9964D07E7E471CA1550",
-                    "encrypted_size_2": "EFDD186B86DE1C1230F2EE417CE3E09A"
-                },
                 "marketing": {
                     "encrypted_gid_2": "CCAB47F5FDA2E88CC4C931CA6B895637",
                     "encrypted_size_2": "2406A121245AE9CDAF209A73CCA5A1D9"
@@ -292,6 +284,14 @@
                 "rc-retail": {
                     "encrypted_gid_2": "E5F6D6E9AC6132E469E74929AA9306F4",
                     "encrypted_size_2": "3A39C9B2E484D51A280AFD3EFBBCB75F"
+                },
+                "retail_backup1": {
+                    "encrypted_gid_2": "67D3E29756345E200B39BF68C85A89AB",
+                    "encrypted_size_2": "90F07B566C77E43B2BAD528068A7B95B"
+                },
+                "retail_backup2": {
+                    "encrypted_gid_2": "13AE0C8F6410AB9CF98685C0D61992C8",
+                    "encrypted_size_2": "A700FA11837BA697A7E4B139A988C16E"
                 },
                 "trials": {
                     "encrypted_gid_2": "0B2A9114EFDD4BA259321BE6C17245D1",
@@ -364,16 +364,6 @@
                 "pwdrequired": "1",
                 "timeupdated": "1622119689"
             },
-            "live_backup1": {
-                "buildid": "9503245",
-                "pwdrequired": "1",
-                "timeupdated": "1663760805"
-            },
-            "live_backup2": {
-                "buildid": "9482418",
-                "pwdrequired": "1",
-                "timeupdated": "1663760793"
-            },
             "marketing": {
                 "buildid": "9313912",
                 "pwdrequired": "1",
@@ -426,6 +416,18 @@
                 "pwdrequired": "1",
                 "timeupdated": "1663939802"
             },
+            "retail_backup1": {
+                "buildid": "9503245",
+                "description": "Retail backup 1",
+                "pwdrequired": "1",
+                "timeupdated": "1663942266"
+            },
+            "retail_backup2": {
+                "buildid": "9482418",
+                "description": "Retail backup 2",
+                "pwdrequired": "1",
+                "timeupdated": "1663942334"
+            },
             "testlive": {
                 "buildid": "7966427",
                 "timeupdated": "1641474541"
@@ -438,7 +440,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16142334,
-    "_sha": "3311cb96285a85789339aa7340db047522742845",
-    "_size": 12343
+    "_change_number": 16142853,
+    "_sha": "9dca856e8870fd618c43d60b91f4518b32ff5e13",
+    "_size": 12429
 }
