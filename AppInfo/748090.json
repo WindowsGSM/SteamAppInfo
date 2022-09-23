@@ -122,7 +122,13 @@
                 "0.8.0": "1273113405561466958",
                 "0.8.1": "5066919177897434469"
             },
-            "maxsize": "111998133"
+            "maxsize": "111998133",
+            "encryptedmanifests": {
+                "0.9.0-beta": {
+                    "encrypted_gid_2": "0C6B0E942ABD862AAA447801B3021619",
+                    "encrypted_size_2": "E8660D031F41B5A0BCCA31FBED9037B2"
+                }
+            }
         },
         "748092": {
             "name": "Windows 32-bit",
@@ -154,7 +160,13 @@
                 "0.8.0": "767832241880144898",
                 "0.8.1": "1861536573781408945"
             },
-            "maxsize": "104591998"
+            "maxsize": "104591998",
+            "encryptedmanifests": {
+                "0.9.0-beta": {
+                    "encrypted_gid_2": "027EF01F8707107B9FB9CC9336E48C19",
+                    "encrypted_size_2": "C29AC7A1EF69031CC808654F2182E90F"
+                }
+            }
         },
         "748093": {
             "name": "Linux 64-bit",
@@ -186,7 +198,13 @@
                 "0.8.0": "6668607481491876018",
                 "0.8.1": "9181770153504144778"
             },
-            "maxsize": "122021429"
+            "maxsize": "122021429",
+            "encryptedmanifests": {
+                "0.9.0-beta": {
+                    "encrypted_gid_2": "46B13B0AD9CAD8337F6DF2F15690CD18",
+                    "encrypted_size_2": "33B667A4C0D4E7B439B74637A5B37A29"
+                }
+            }
         },
         "748094": {
             "name": "Linux 32-bit",
@@ -218,7 +236,13 @@
                 "0.8.0": "3630047837779111706",
                 "0.8.1": "3630047837779111706"
             },
-            "maxsize": "108633060"
+            "maxsize": "108633060",
+            "encryptedmanifests": {
+                "0.9.0-beta": {
+                    "encrypted_gid_2": "B83238336F6ADA6BDF3F2ADE072AEBAC",
+                    "encrypted_size_2": "F572C3C6CB6897639495A7DE4D783551"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -310,11 +334,17 @@
                 "buildid": "6310993",
                 "description": "0.8.1",
                 "timeupdated": "1614603630"
+            },
+            "0.9.0-beta": {
+                "buildid": "9580036",
+                "description": " 0.9.0 beta",
+                "pwdrequired": "1",
+                "timeupdated": "1663953790"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15577664,
-    "_sha": "832033fcc5865bf9a9a0e8afda760a3d56ef3d2b",
-    "_size": 7499
+    "_change_number": 16144918,
+    "_sha": "13b9d293e2eb60d581350ffe2a5f15aa804ea830",
+    "_size": 8366
 }
