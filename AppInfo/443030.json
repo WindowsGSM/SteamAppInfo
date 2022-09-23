@@ -108,17 +108,17 @@
             },
             "maxsize": "3744656694",
             "encryptedmanifests": {
-                "2testronic": {
-                    "encrypted_gid_2": "B7FE62115929DAB53AEE55DD91056CFF",
-                    "encrypted_size_2": "4677DAED4517701046C3421FA14E025B"
+                "2coreqa": {
+                    "encrypted_gid_2": "EFDE2D93B0693AA8A29C276B66C6A275",
+                    "encrypted_size_2": "05192CC233A739370F5B33A94717B947"
                 },
-                "3testronic": {
-                    "encrypted_gid_2": "D52D67D2209C339D421ADC39748DD5A1",
-                    "encrypted_size_2": "DE533412305F0FCAB799602A1BBACA44"
+                "3coreqa": {
+                    "encrypted_gid_2": "52C9D7EFF08A6C4860D701B04ADFC796",
+                    "encrypted_size_2": "6BDCD97A869041D9E0C7436819658323"
                 },
-                "4testronic": {
-                    "encrypted_gid_2": "FC536BAA78AF9E9231DFF9ED729B86DC",
-                    "encrypted_size_2": "40E16B10F8A4E733E8AAC36969B0BA04"
+                "4coreqa": {
+                    "encrypted_gid_2": "AF9ACA8A629E58EB97CBB21B42A6AE9A",
+                    "encrypted_size_2": "FA6BCB516852E6DA6CB84717DF0B9DBA"
                 },
                 "autobuildsystem": {
                     "encrypted_gid_2": "C09737EB21DDA6FFC4AE5A70906747A0",
@@ -132,37 +132,13 @@
                     "encrypted_gid_2": "27009A7AFF97134DC154ED66CF65AEA3",
                     "encrypted_size_2": "535FA3579E0767A170818D52FB285517"
                 },
-                "exiles-development": {
-                    "encrypted_gid_2": "BC1879708C72282FA6DFACE187845B08",
-                    "encrypted_size_2": "7786AFB28CA43E15B7FA5DBFAECE6CE8"
-                },
-                "exiles-live": {
-                    "encrypted_gid_2": "F6DADEFAB8E651A0155C157155FCAA52",
-                    "encrypted_size_2": "A9A704AA37C898937ED741A6B07AD922"
-                },
-                "exiles-stable": {
-                    "encrypted_gid_2": "4BE7D97CB07C9885CFD6468B7BBB1D8C",
-                    "encrypted_size_2": "E5C259C26FBAAEA26CD35D43C2CF2D4F"
-                },
-                "exiles-test": {
-                    "encrypted_gid_2": "B164BE19C319CECDF79A61FB6AC17A5E",
-                    "encrypted_size_2": "4C13D601F41EC210E825D9B5E0255C72"
-                },
                 "exiles-testfeature": {
                     "encrypted_gid_2": "90D5D579DE2B5DAA5723026919B69AB0",
                     "encrypted_size_2": "8A99712772BDC687F3D8D74C56408AF6"
                 },
-                "experimental": {
-                    "encrypted_gid_2": "41498C7A4F9371D5FCA9C7C9B0A2F5A9",
-                    "encrypted_size_2": "F2FAC164D91AF19C2367141E8F82F916"
-                },
                 "for_testing": {
                     "encrypted_gid_2": "8EA59749099C3D30A697F66BA185CF0D",
                     "encrypted_size_2": "2655D6DB590D0CDFCDF81F6C5F29AA85"
-                },
-                "for_testing2": {
-                    "encrypted_gid_2": "2F0B3234803D9CAE7A18BDA50B437F5B",
-                    "encrypted_size_2": "FAF040D939EF2117B4A691C74458B883"
                 },
                 "forepic": {
                     "encrypted_gid_2": "344531440AE6F244AE7D14C272293A42",
@@ -188,9 +164,33 @@
                     "encrypted_gid_2": "A1D935EC62CAE52770C934CDA03D3C47",
                     "encrypted_size_2": "833E54B55FD49D4FE197B5D5748CBF13"
                 },
+                "nightly-experimental": {
+                    "encrypted_gid_2": "A40500CC496BD57E4292AE5AC3CAAEF3",
+                    "encrypted_size_2": "46E56C90675E1CBC48DE2693F4110976"
+                },
+                "nightly-live": {
+                    "encrypted_gid_2": "C1B40F3D33668E4E54F18B04CC1690DC",
+                    "encrypted_size_2": "4856E730657227D43B2915EA5E2579CF"
+                },
+                "nightly-stable": {
+                    "encrypted_gid_2": "F8319AB4DA9046E70CE49D41EBDB2AC5",
+                    "encrypted_size_2": "28C4CA66FA5BA5068E3B1F243C58FD1F"
+                },
+                "nightly-test": {
+                    "encrypted_gid_2": "74F9811A2F0688F6D2DE65BD07B4F2B0",
+                    "encrypted_size_2": "FD9CF21EEFAB4BFBFC8CC2246EE340D7"
+                },
+                "nightly-trunk": {
+                    "encrypted_gid_2": "F19494D96E57ADFDC4AAB9195D1E5B3E",
+                    "encrypted_size_2": "2C88E0460D3DD982C0CA00BB58EFDD47"
+                },
                 "preview": {
                     "encrypted_gid_2": "101FFADCE460F61EBA4846C1C51A1FC5",
                     "encrypted_size_2": "332240D842E4978621911A4B83E58807"
+                },
+                "rc-retail": {
+                    "encrypted_gid_2": "6C177F33AB0CE4870DAC5FFAA13256A7",
+                    "encrypted_size_2": "E5731CD6BF57B4D25A77365CA983713A"
                 },
                 "trials": {
                     "encrypted_gid_2": "28CAEC20E7480F2E9B688577B3431709",
@@ -209,17 +209,17 @@
                 "testlive": "3199714172864163068"
             },
             "encryptedmanifests": {
-                "2testronic": {
-                    "encrypted_gid_2": "10A37CBB447D358DD2A2CADC41EE71CA",
-                    "encrypted_size_2": "839146BB4045418B371A66257840916C"
+                "2coreqa": {
+                    "encrypted_gid_2": "A3026952AD40BCDA0191C78714EC4DA5",
+                    "encrypted_size_2": "E40DA340EEDCBA0C234109DBDAB34398"
                 },
-                "3testronic": {
-                    "encrypted_gid_2": "AF46A267984E4CE082450FF5E4CEA9C0",
-                    "encrypted_size_2": "F3A8BDBC7C7A76E4E58FB665CB8E644E"
+                "3coreqa": {
+                    "encrypted_gid_2": "4156DAA96AC0A238E56724A1B90E6A4F",
+                    "encrypted_size_2": "3D9D16BD6D57EEBAE306588744F5B314"
                 },
-                "4testronic": {
-                    "encrypted_gid_2": "A56A410461AC81089F7DE48A84B20DE6",
-                    "encrypted_size_2": "B1DD2A43CAF01CDA7FD7BC571A5E6B7A"
+                "4coreqa": {
+                    "encrypted_gid_2": "7C5F46759F952FFA66BF2B5AA164A01D",
+                    "encrypted_size_2": "F752C0FBBC73E1F4CEAA4259F340EF75"
                 },
                 "autobuildsystem": {
                     "encrypted_gid_2": "05BB0C51BB455CA8D130D0FB67036EF4",
@@ -233,37 +233,13 @@
                     "encrypted_gid_2": "047B5413B94A3194FCCF281C1AA65FF4",
                     "encrypted_size_2": "B64A581E4981CF1DF5DF809810B529E8"
                 },
-                "exiles-development": {
-                    "encrypted_gid_2": "A10BCBC80895F1CA458DA04DEB180428",
-                    "encrypted_size_2": "8765277497544AEE778FDFEE59CFE642"
-                },
-                "exiles-live": {
-                    "encrypted_gid_2": "B662B27D540B2A4BE004C14F37098E45",
-                    "encrypted_size_2": "8720313639F61055D6202F43C99818C0"
-                },
-                "exiles-stable": {
-                    "encrypted_gid_2": "742416CA8FCEE79E9C4A53DD55856530",
-                    "encrypted_size_2": "EFD422218996DABB37B94457FC5FB05B"
-                },
-                "exiles-test": {
-                    "encrypted_gid_2": "4542EBEA8D9C0FCD6DDE87E06794594C",
-                    "encrypted_size_2": "E40BAAF20794A3F641D7B10825895990"
-                },
                 "exiles-testfeature": {
                     "encrypted_gid_2": "C387967CC1E83CE8987FF6508885D351",
                     "encrypted_size_2": "17006D5F5C32995B7C169BB335EFE09B"
                 },
-                "experimental": {
-                    "encrypted_gid_2": "74A1DA505B3666348EE5D0A3D8F6F316",
-                    "encrypted_size_2": "210D94C2AA699F3CBD65DBA279F303C7"
-                },
                 "for_testing": {
                     "encrypted_gid_2": "C90C6A102AF12F5A62853EFBB14B72E2",
                     "encrypted_size_2": "6340E5D99F86902C6641AD4FA6B321C4"
-                },
-                "for_testing2": {
-                    "encrypted_gid_2": "8006EE715F9B9DE51F85C6493BFD5A60",
-                    "encrypted_size_2": "3551940853222D4CC52A3790A4203CB6"
                 },
                 "forepic": {
                     "encrypted_gid_2": "75B0E529208267D4FB36410740AABE62",
@@ -289,9 +265,33 @@
                     "encrypted_gid_2": "FF2E7273B7E09AB2143442E28D50F2A5",
                     "encrypted_size_2": "8E89E30192688283743F937910B9FD76"
                 },
+                "nightly-experimental": {
+                    "encrypted_gid_2": "3DF3697231DDDE1E0DA579E730075CD6",
+                    "encrypted_size_2": "3EA361ED5E4DC100718C5952BFB482E0"
+                },
+                "nightly-live": {
+                    "encrypted_gid_2": "EBF4E1CBE0B15421BB2729F3F19F6C18",
+                    "encrypted_size_2": "06714664A5D7102D3874866646E3972F"
+                },
+                "nightly-stable": {
+                    "encrypted_gid_2": "D42FEC789C597E2C80E33F160A6AB419",
+                    "encrypted_size_2": "FF1C26939FC1CF35BCCEE9184C7C0FE3"
+                },
+                "nightly-test": {
+                    "encrypted_gid_2": "9231D9BDA9454858608C92F8B0AC5CD7",
+                    "encrypted_size_2": "A46E1A52AC503667980A419BBB5C5BF6"
+                },
+                "nightly-trunk": {
+                    "encrypted_gid_2": "5A036B2E1A2D574321F69277D96B9D37",
+                    "encrypted_size_2": "FB0493527D2CF2A33A88036892E37EE6"
+                },
                 "preview": {
                     "encrypted_gid_2": "BF8143232458EA1FB8F87F590D1DAB62",
                     "encrypted_size_2": "FF25002A720518CF1BFAA2D3D31ABD6C"
+                },
+                "rc-retail": {
+                    "encrypted_gid_2": "E5F6D6E9AC6132E469E74929AA9306F4",
+                    "encrypted_size_2": "3A39C9B2E484D51A280AFD3EFBBCB75F"
                 },
                 "trials": {
                     "encrypted_gid_2": "0B2A9114EFDD4BA259321BE6C17245D1",
@@ -304,22 +304,23 @@
                 "buildid": "9544015",
                 "timeupdated": "1663760902"
             },
-            "2testronic": {
+            "2coreqa": {
                 "buildid": "9575621",
-                "description": "For Testronic Team",
+                "description": " Usually trunk build",
                 "pwdrequired": "1",
-                "timeupdated": "1663914441"
+                "timeupdated": "1663939104"
             },
-            "3testronic": {
+            "3coreqa": {
                 "buildid": "9567512",
-                "description": "extra branch",
+                "description": "Extra branch",
                 "pwdrequired": "1",
-                "timeupdated": "1663829200"
+                "timeupdated": "1663939157"
             },
-            "4testronic": {
+            "4coreqa": {
                 "buildid": "9567532",
+                "description": "usually trunk test build",
                 "pwdrequired": "1",
-                "timeupdated": "1663829421"
+                "timeupdated": "1663939223"
             },
             "autobuildsystem": {
                 "buildid": "7921467",
@@ -339,53 +340,17 @@
                 "pwdrequired": "1",
                 "timeupdated": "1622712375"
             },
-            "exiles-development": {
-                "buildid": "9574929",
-                "description": "Nightly builds from exiles-development branch",
-                "pwdrequired": "1",
-                "timeupdated": "1663903974"
-            },
-            "exiles-live": {
-                "buildid": "9573460",
-                "description": "Nightly builds from exiles-live branch\t",
-                "pwdrequired": "1",
-                "timeupdated": "1663885276"
-            },
-            "exiles-stable": {
-                "buildid": "9574898",
-                "description": "Nightly builds from exiles-stable branch",
-                "pwdrequired": "1",
-                "timeupdated": "1663903459"
-            },
-            "exiles-test": {
-                "buildid": "9575290",
-                "description": "Nightly builds from exiles-test branch",
-                "pwdrequired": "1",
-                "timeupdated": "1663909095"
-            },
             "exiles-testfeature": {
                 "buildid": "7392182",
                 "description": "Nightly builds from exiles-testfeature",
                 "pwdrequired": "1",
                 "timeupdated": "1632171895"
             },
-            "experimental": {
-                "buildid": "9573503",
-                "description": "Experiemental Feature Testing",
-                "pwdrequired": "1",
-                "timeupdated": "1663885864"
-            },
             "for_testing": {
                 "buildid": "6747784",
                 "description": "branch moving.",
                 "pwdrequired": "1",
                 "timeupdated": "1622671160"
-            },
-            "for_testing2": {
-                "buildid": "9544015",
-                "description": "branch moving.",
-                "pwdrequired": "1",
-                "timeupdated": "1663585818"
             },
             "forepic": {
                 "buildid": "7659745",
@@ -419,11 +384,47 @@
                 "pwdrequired": "1",
                 "timeupdated": "1617798539"
             },
+            "nightly-experimental": {
+                "buildid": "9573503",
+                "description": "Nightly experimental builds",
+                "pwdrequired": "1",
+                "timeupdated": "1663939880"
+            },
+            "nightly-live": {
+                "buildid": "9573460",
+                "description": "Nightly live builds",
+                "pwdrequired": "1",
+                "timeupdated": "1663939460"
+            },
+            "nightly-stable": {
+                "buildid": "9574898",
+                "description": "Nightly stable builds",
+                "pwdrequired": "1",
+                "timeupdated": "1663939588"
+            },
+            "nightly-test": {
+                "buildid": "9575290",
+                "description": "Nightly test builds",
+                "pwdrequired": "1",
+                "timeupdated": "1663939694"
+            },
+            "nightly-trunk": {
+                "buildid": "9574929",
+                "description": "Nightly trunk builds",
+                "pwdrequired": "1",
+                "timeupdated": "1663939314"
+            },
             "preview": {
                 "buildid": "5691789",
                 "description": "VIP/Partner Previews",
                 "pwdrequired": "1",
                 "timeupdated": "1602848080"
+            },
+            "rc-retail": {
+                "buildid": "9544015",
+                "description": "Preview for launch",
+                "pwdrequired": "1",
+                "timeupdated": "1663939802"
             },
             "testlive": {
                 "buildid": "7966427",
@@ -437,7 +438,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16138312,
-    "_sha": "a8146eb85f85aa2ec6b8e5725293d50c6a376af6",
-    "_size": 12394
+    "_change_number": 16142334,
+    "_sha": "3311cb96285a85789339aa7340db047522742845",
+    "_size": 12343
 }
