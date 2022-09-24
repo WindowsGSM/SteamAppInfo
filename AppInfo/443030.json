@@ -132,9 +132,17 @@
                     "encrypted_gid_2": "27009A7AFF97134DC154ED66CF65AEA3",
                     "encrypted_size_2": "535FA3579E0767A170818D52FB285517"
                 },
+                "exiles-development": {
+                    "encrypted_gid_2": "EADE95096E14BE881E1E8E6335C55BA3",
+                    "encrypted_size_2": "905BC101B3C36845CEF4AE60C2D77FF5"
+                },
                 "exiles-live": {
                     "encrypted_gid_2": "2E4571378D806B8BB70046E3F49944C5",
                     "encrypted_size_2": "39ED43489B142BF2842103B630468CD0"
+                },
+                "exiles-stable": {
+                    "encrypted_gid_2": "F7B552CEA138499F9A4C6EFA27071804",
+                    "encrypted_size_2": "4C7AD8B8AADA9220CBA64D28A58308C9"
                 },
                 "exiles-testfeature": {
                     "encrypted_gid_2": "90D5D579DE2B5DAA5723026919B69AB0",
@@ -241,9 +249,17 @@
                     "encrypted_gid_2": "047B5413B94A3194FCCF281C1AA65FF4",
                     "encrypted_size_2": "B64A581E4981CF1DF5DF809810B529E8"
                 },
+                "exiles-development": {
+                    "encrypted_gid_2": "A10BCBC80895F1CA458DA04DEB180428",
+                    "encrypted_size_2": "8765277497544AEE778FDFEE59CFE642"
+                },
                 "exiles-live": {
                     "encrypted_gid_2": "B662B27D540B2A4BE004C14F37098E45",
                     "encrypted_size_2": "8720313639F61055D6202F43C99818C0"
+                },
+                "exiles-stable": {
+                    "encrypted_gid_2": "742416CA8FCEE79E9C4A53DD55856530",
+                    "encrypted_size_2": "EFD422218996DABB37B94457FC5FB05B"
                 },
                 "exiles-testfeature": {
                     "encrypted_gid_2": "C387967CC1E83CE8987FF6508885D351",
@@ -356,11 +372,23 @@
                 "pwdrequired": "1",
                 "timeupdated": "1622712375"
             },
+            "exiles-development": {
+                "buildid": "9582633",
+                "description": "Nightly builds from exiles-development branch",
+                "pwdrequired": "1",
+                "timeupdated": "1663988813"
+            },
             "exiles-live": {
                 "buildid": "9581626",
                 "description": "Nightly builds from exiles-live branch\t",
                 "pwdrequired": "1",
                 "timeupdated": "1663972076"
+            },
+            "exiles-stable": {
+                "buildid": "9582584",
+                "description": "Nightly builds from exiles-stable branch",
+                "pwdrequired": "1",
+                "timeupdated": "1663987635"
             },
             "exiles-testfeature": {
                 "buildid": "7392182",
@@ -468,7 +496,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16147376,
-    "_sha": "2f914d4c3c523146ce9f1162fec22825ba8583f6",
-    "_size": 13354
+    "_change_number": 16148869,
+    "_sha": "ebce90d48ecb3bc504303fb11b2af9f03ec1c800",
+    "_size": 14320
 }
