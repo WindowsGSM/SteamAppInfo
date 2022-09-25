@@ -120,6 +120,10 @@
                     "encrypted_gid_2": "AF9ACA8A629E58EB97CBB21B42A6AE9A",
                     "encrypted_size_2": "FA6BCB516852E6DA6CB84717DF0B9DBA"
                 },
+                "5coreqa": {
+                    "encrypted_gid_2": "90BB604C0B74368381CCCD76C3C70E4A",
+                    "encrypted_size_2": "46A0F80BA28C4FF41994602DC7F9F45C"
+                },
                 "autobuildsystem": {
                     "encrypted_gid_2": "C09737EB21DDA6FFC4AE5A70906747A0",
                     "encrypted_size_2": "BAA1CCD81DA9A2053F6D3C23ABBF1799"
@@ -241,6 +245,10 @@
                     "encrypted_gid_2": "7C5F46759F952FFA66BF2B5AA164A01D",
                     "encrypted_size_2": "F752C0FBBC73E1F4CEAA4259F340EF75"
                 },
+                "5coreqa": {
+                    "encrypted_gid_2": "4BE8B7D0E7A8B0749E6C122332477703",
+                    "encrypted_size_2": "B828B27F9A0D483C68CA81CA05E2AF0C"
+                },
                 "autobuildsystem": {
                     "encrypted_gid_2": "05BB0C51BB455CA8D130D0FB67036EF4",
                     "encrypted_size_2": "0294234D0F2E3C007733564235E97E6B"
@@ -361,6 +369,12 @@
                 "description": "usually trunk test build",
                 "pwdrequired": "1",
                 "timeupdated": "1663939223"
+            },
+            "5coreqa": {
+                "buildid": "9587881",
+                "description": "Extra test branch",
+                "pwdrequired": "1",
+                "timeupdated": "1664130349"
             },
             "autobuildsystem": {
                 "buildid": "7921467",
@@ -510,7 +524,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16154640,
-    "_sha": "bbe7dc84c270284b8d551267c65809ed8b272f93",
-    "_size": 14785
+    "_change_number": 16158488,
+    "_sha": "a79cd98f38f012bccb14d33a580bc5c3be9c9b4f",
+    "_size": 15217
 }
