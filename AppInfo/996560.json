@@ -113,6 +113,10 @@
                     "encrypted_gid_2": "AF8E9ABA0FF8CD2E73C05DFFB1AA8BAB",
                     "encrypted_size_2": "AC4115770D8CA4270877563FE7268417"
                 },
+                "goop": {
+                    "encrypted_gid_2": "E918C26E733DD9A293AEDCB151624B3C",
+                    "encrypted_size_2": "ED465679B98A2A907F691040FA76AABD"
+                },
                 "hube-testing": {
                     "encrypted_gid_2": "A9BD3F55C827EC944E8CDCCA41A2DEE6",
                     "encrypted_size_2": "9B578808028DA3F89AD30055C9874F46"
@@ -181,6 +185,10 @@
                 "deputation": {
                     "encrypted_gid_2": "23E5E43B6CD8629081C6A301F5E9D89A",
                     "encrypted_size_2": "1D67DB8345E763FA281DAA0BB18A8123"
+                },
+                "goop": {
+                    "encrypted_gid_2": "81029800D9F9E9462744FA13D4ED1AE5",
+                    "encrypted_size_2": "7C6544325AC540574090C47F5725C18C"
                 },
                 "hube-testing": {
                     "encrypted_gid_2": "EAE331F1436F107377E5FFD321D7B0BA",
@@ -253,6 +261,12 @@
                 "pwdrequired": "1",
                 "timeupdated": "1664142633"
             },
+            "goop": {
+                "buildid": "9588167",
+                "description": "PurpleGoop's testing branch",
+                "pwdrequired": "1",
+                "timeupdated": "1664180444"
+            },
             "hube-testing": {
                 "buildid": "9584877",
                 "description": "Hubert's testing branch",
@@ -316,7 +330,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16160739,
-    "_sha": "add48cd7b5ffd09e13aa8df584638c1ddfcf0db6",
-    "_size": 8838
+    "_change_number": 16162390,
+    "_sha": "1f951e40004154d6fc91a4d95c558e817aeb2375",
+    "_size": 9271
 }
