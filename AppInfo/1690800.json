@@ -72,10 +72,10 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "3750044241461888995",
-                "experimental": "3750044241461888995"
+                "public": "3886991416608043820",
+                "experimental": "3886991416608043820"
             },
-            "maxsize": "9496159491",
+            "maxsize": "9496890094",
             "encryptedmanifests": {
                 "integration-test": {
                     "encrypted_gid_2": "930CDF3434294AE3B5B93DDD06943EF9",
@@ -106,8 +106,8 @@
                     "encrypted_size_2": "91D015CD8C28652AE348A09E68BDA324"
                 },
                 "patching": {
-                    "encrypted_gid_2": "0A2434356AA44DD1E08A91E1EFE7EC0F",
-                    "encrypted_size_2": "772B6954897CC670A1CCC69A5AEF3880"
+                    "encrypted_gid_2": "406FB839070A9D1CAD80BECF3B86D8CC",
+                    "encrypted_size_2": "F22449B637E5A3DC59B74F6516AA6EEF"
                 },
                 "qa-cheats": {
                     "encrypted_gid_2": "A55D450A0488977001B1C842D6729227",
@@ -124,10 +124,10 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "1920047686026927344",
-                "experimental": "1920047686026927344"
+                "public": "2319037715441626956",
+                "experimental": "2319037715441626956"
             },
-            "maxsize": "7022376735",
+            "maxsize": "7024351607",
             "encryptedmanifests": {
                 "integration-test": {
                     "encrypted_gid_2": "48D55D81FF4FD9A851AC5BC2B38C2198",
@@ -158,8 +158,8 @@
                     "encrypted_size_2": "BB1D58738E782EC98C9FDF2EB6E7ED71"
                 },
                 "patching": {
-                    "encrypted_gid_2": "145267DD4605EE77186ACC077EEEDA55",
-                    "encrypted_size_2": "6C20E0D0EFB7299F3CA035F952E0C63F"
+                    "encrypted_gid_2": "03CF5A4ADB89CE68932618EE090807B4",
+                    "encrypted_size_2": "7E279FB17702BA72BF0CB3F46BC32901"
                 },
                 "qa-cheats": {
                     "encrypted_gid_2": "9FA26B6CF19AF4978C3224AF0B915014",
@@ -173,12 +173,12 @@
         },
         "branches": {
             "public": {
-                "buildid": "9571008",
-                "timeupdated": "1663870734"
+                "buildid": "9602351",
+                "timeupdated": "1664308569"
             },
             "experimental": {
-                "buildid": "9571008",
-                "timeupdated": "1663870647"
+                "buildid": "9602351",
+                "timeupdated": "1664308552"
             },
             "integration-test": {
                 "buildid": "7816438",
@@ -216,9 +216,9 @@
                 "timeupdated": "1664233891"
             },
             "patching": {
-                "buildid": "9598124",
+                "buildid": "9571008",
                 "pwdrequired": "1",
-                "timeupdated": "1664266413"
+                "timeupdated": "1664308531"
             },
             "qa-cheats": {
                 "buildid": "9282037",
@@ -233,7 +233,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16180663,
-    "_sha": "384cad44f9abdb6f0b0bb4a9d22197c0a553b151",
+    "_change_number": 16181667,
+    "_sha": "f690f658635077cf7214955908e000156856403f",
     "_size": 6095
 }
