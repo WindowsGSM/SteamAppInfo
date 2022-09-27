@@ -73,7 +73,8 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "4197153564380254066"
+                "public": "4197153564380254066",
+                "default_old": "4197153564380254066"
             },
             "maxsize": "1154870571",
             "encryptedmanifests": {
@@ -97,7 +98,8 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "6962724101868234438"
+                "public": "6962724101868234438",
+                "default_old": "6962724101868234438"
             },
             "maxsize": "1116291345",
             "encryptedmanifests": {
@@ -120,6 +122,11 @@
                 "buildid": "9384143",
                 "timeupdated": "1661858997"
             },
+            "default_old": {
+                "buildid": "9384143",
+                "description": "Previous stable",
+                "timeupdated": "1664278005"
+            },
             "experimental": {
                 "buildid": "9592606",
                 "description": "Experimental version of Valheim",
@@ -141,7 +148,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16166044,
-    "_sha": "55565ca0100e290a836eb7e39f13ced34b44ca38",
-    "_size": 3491
+    "_change_number": 16176161,
+    "_sha": "4f10931d0cd6b0c6fa43bc994f2103c70e5066c0",
+    "_size": 3694
 }
