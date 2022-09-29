@@ -28,11 +28,11 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "7825955351863388833",
+                "public": "8951457908719600786",
                 "aux01": "7820939384886478837",
                 "aux02": "2191496392511778412",
                 "release": "8951457908719600786",
-                "staging": "5107731936244358066"
+                "staging": "8454672182372388682"
             },
             "maxsize": "557424547",
             "encryptedmanifests": {
@@ -89,8 +89,8 @@
                     "encrypted_size_2": "04345B49A477EDB28FEBDF59F8990A51"
                 },
                 "staging-debug": {
-                    "encrypted_gid_2": "D7CF4C8834D07897603E7A502F160920",
-                    "encrypted_size_2": "2001BD1FAD2255F6AD36569876909058"
+                    "encrypted_gid_2": "CFA3BCB2C389C6EBA4E23F0C46CC77B2",
+                    "encrypted_size_2": "2CBC86BEC370FC7AC25B85B2C161D004"
                 },
                 "test": {
                     "encrypted_gid_2": "64B65E8319636ECEB29DA2787EB77018",
@@ -116,11 +116,11 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "980140947305798713",
+                "public": "7791141119784557909",
                 "aux01": "1174564299459838660",
                 "aux02": "1883704244777541444",
                 "release": "7791141119784557909",
-                "staging": "471235881295839756"
+                "staging": "239643821305291089"
             },
             "maxsize": "608126956",
             "encryptedmanifests": {
@@ -289,7 +289,7 @@
         "258554": {
             "name": "rust dedicated - common",
             "manifests": {
-                "public": "6532891900645396450",
+                "public": "8380080098928171783",
                 "aux01": "3573478963150239548",
                 "aux02": "5093681370617048515",
                 "release": "8380080098928171783",
@@ -373,8 +373,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "9603592",
-                "timeupdated": "1664357896"
+                "buildid": "9617786",
+                "timeupdated": "1664459383"
             },
             "aux01": {
                 "buildid": "9611917",
@@ -459,14 +459,14 @@
                 "timeupdated": "1664455865"
             },
             "staging": {
-                "buildid": "9617804",
-                "timeupdated": "1664455818"
+                "buildid": "9618196",
+                "timeupdated": "1664459199"
             },
             "staging-debug": {
-                "buildid": "9617823",
+                "buildid": "9618214",
                 "description": "debug",
                 "pwdrequired": "1",
-                "timeupdated": "1664455988"
+                "timeupdated": "1664459329"
             },
             "test": {
                 "buildid": "9440578",
@@ -494,7 +494,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16203653,
-    "_sha": "f5c608ad7e28276fe97b28849112d7d7021af627",
-    "_size": 15229
+    "_change_number": 16204233,
+    "_sha": "b663bab61b3af4fddc6cfeb01f0edf38a9e8b3d2",
+    "_size": 15230
 }
