@@ -40,38 +40,6 @@
         }
     },
     "depots": {
-        "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
-            "config": {
-                "oslist": "windows"
-            },
-            "manifests": {
-                "public": "5329354416203291021"
-            },
-            "maxsize": "42086632",
-            "depotfromapp": "1007"
-        },
-        "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
-            "config": {
-                "oslist": "macos"
-            },
-            "manifests": {
-                "public": "2135359612286175146"
-            },
-            "depotfromapp": "1007"
-        },
-        "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
-            "config": {
-                "oslist": "linux"
-            },
-            "manifests": {
-                "public": "4444585935428744334"
-            },
-            "maxsize": "66706004",
-            "depotfromapp": "1007"
-        },
         "1041862": {
             "name": "HELL'S NEW WORLD Dedicated Server Depot Windows",
             "config": {
@@ -105,7 +73,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16183033,
-    "_sha": "54a6ffe86338f22e6d3e9e9da399299be707540c",
-    "_size": 2332
+    "_change_number": 16235933,
+    "_sha": "aa5e81a8e09ee60c0d60647fc6aa959403099fc3",
+    "_size": 1705
 }
