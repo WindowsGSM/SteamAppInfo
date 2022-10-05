@@ -29,11 +29,11 @@
         "232250": {
             "name": "TF2 Dedicated server assets",
             "manifests": {
-                "public": "6654878619456277820",
-                "prerelease": "6654878619456277820",
-                "valve_ds": "6654878619456277820"
+                "public": "8420620527483619145",
+                "prerelease": "8420620527483619145",
+                "valve_ds": "8420620527483619145"
             },
-            "maxsize": "9103717059"
+            "maxsize": "9414993106"
         },
         "232255": {
             "name": "TF2 Windows server",
@@ -41,9 +41,9 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "4779303905619326968",
-                "prerelease": "4779303905619326968",
-                "valve_ds": "4779303905619326968"
+                "public": "4673482564216075972",
+                "prerelease": "4673482564216075972",
+                "valve_ds": "4673482564216075972"
             },
             "maxsize": "103239752"
         },
@@ -53,9 +53,9 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "6397366021152053820",
-                "prerelease": "6397366021152053820",
-                "valve_ds": "6397366021152053820"
+                "public": "6260807889307917311",
+                "prerelease": "6260807889307917311",
+                "valve_ds": "6260807889307917311"
             },
             "maxsize": "91186294"
         },
@@ -74,22 +74,22 @@
         "overridescddb": "1",
         "branches": {
             "public": {
-                "buildid": "9612643",
-                "timeupdated": "1664406534"
+                "buildid": "9661713",
+                "timeupdated": "1664999978"
             },
             "prerelease": {
-                "buildid": "9612643",
-                "timeupdated": "1664406526"
+                "buildid": "9661713",
+                "timeupdated": "1664999971"
             },
             "valve_ds": {
-                "buildid": "9612643",
+                "buildid": "9661713",
                 "description": "The version Valve dedicated servers will sync to",
-                "timeupdated": "1664406435"
+                "timeupdated": "1664999933"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 16196190,
-    "_sha": "e9b8ff7f1a0b0e488b2a67def7df7b51570561bf",
+    "_change_number": 16273888,
+    "_sha": "e987b73377a798f28811d94e4079525913f52655",
     "_size": 1940
 }
