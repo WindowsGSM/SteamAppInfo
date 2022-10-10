@@ -141,14 +141,6 @@
                     "encrypted_gid_2": "D1774E6D17CF1FFD7F9D5B1B75B03387",
                     "encrypted_size_2": "DCD65ED691428E3F9210311850E77A96"
                 },
-                "plugin-api": {
-                    "encrypted_gid_2": "9D7FE4EB4512EA3C445FA47E6AAA6B77",
-                    "encrypted_size_2": "BC625AE2882A62E8F569DC69A6FDA009"
-                },
-                "plugin-api2": {
-                    "encrypted_gid_2": "B6731CED1B029004CE16A28B5CDF8D82",
-                    "encrypted_size_2": "7C7FB71CB970143ACFFA98F06D3C3723"
-                },
                 "qa-testing": {
                     "encrypted_gid_2": "F8C928B5508EA2B2E6BF077D38B60700",
                     "encrypted_size_2": "6CC55E571C4DC3E683B5010FF1C32BB2"
@@ -217,14 +209,6 @@
                 "nightly": {
                     "encrypted_gid_2": "F5D44E075E5F066D63F81C64E0A7FA48",
                     "encrypted_size_2": "61247E9BC7B49AA4AE7505FEA5E65BDD"
-                },
-                "plugin-api": {
-                    "encrypted_gid_2": "704F1BA6D7B9A88116C1F9295EAFBAC4",
-                    "encrypted_size_2": "7B6EEBCAED7149636E1D19B366BBAB40"
-                },
-                "plugin-api2": {
-                    "encrypted_gid_2": "2A5A5B9ABEC9EBCE9AD2CDAF7B7E2E70",
-                    "encrypted_size_2": "B2DC8FE6323C827F5A5427648FC3E9F7"
                 },
                 "qa-testing": {
                     "encrypted_gid_2": "187DF5D1B9E514238F505DC39818F8E9",
@@ -311,18 +295,6 @@
                 "pwdrequired": "1",
                 "timeupdated": "1665372556"
             },
-            "plugin-api": {
-                "buildid": "9625369",
-                "description": "Plugin API",
-                "pwdrequired": "1",
-                "timeupdated": "1664574545"
-            },
-            "plugin-api2": {
-                "buildid": "9625369",
-                "description": "Plugin API DEV",
-                "pwdrequired": "1",
-                "timeupdated": "1664574560"
-            },
             "qa-testing": {
                 "buildid": "9685627",
                 "description": "Private beta branch for QA Testing.",
@@ -344,7 +316,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16316171,
-    "_sha": "bfa34961a68f0f8f4225be32152e8c9187a682ec",
-    "_size": 9730
+    "_change_number": 16317104,
+    "_sha": "def8a35d3649f3486788af635c4c48ad696e4600",
+    "_size": 8855
 }
