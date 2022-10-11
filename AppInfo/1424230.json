@@ -83,6 +83,10 @@
                 "staging": {
                     "encrypted_gid_2": "2808A59237152DDCE19274164F46A5E6",
                     "encrypted_size_2": "ED89405D0173EB86F4D366BEB1073374"
+                },
+                "testing": {
+                    "encrypted_gid_2": "8142BC27C2774C90C6BB3865D4FA20EB",
+                    "encrypted_size_2": "392B7CD7CB3123DD64C06DFE27E2CF76"
                 }
             }
         },
@@ -109,6 +113,10 @@
                 "staging": {
                     "encrypted_gid_2": "0333E28832E685436796D736CEDB42D9",
                     "encrypted_size_2": "03C5BC79FC585894AD7D6D05221EDBF9"
+                },
+                "testing": {
+                    "encrypted_gid_2": "0C83BB6C1ECC005F23CE3DB0C22A1D50",
+                    "encrypted_size_2": "E9E8E1E356B8E0C7463A3005AAE35B7A"
                 }
             }
         },
@@ -135,11 +143,16 @@
                 "buildid": "9692089",
                 "pwdrequired": "1",
                 "timeupdated": "1665427621"
+            },
+            "testing": {
+                "buildid": "9692089",
+                "pwdrequired": "1",
+                "timeupdated": "1665476155"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 16321297,
-    "_sha": "244dc4102d6a02b87832511cb8e79f5de7626a23",
-    "_size": 3228
+    "_change_number": 16326744,
+    "_sha": "ce78ba0918e4c988775e6e6ee029c53b1c03ab6e",
+    "_size": 3621
 }
