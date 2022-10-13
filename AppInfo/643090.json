@@ -112,6 +112,10 @@
                 "staging_alpha": {
                     "encrypted_gid_2": "DF983F53AAC77CB4348D0D92C3997611",
                     "encrypted_size_2": "A6DA902F57FDEA483918C4C2E23DF66D"
+                },
+                "staging_tx": {
+                    "encrypted_gid_2": "9C42CA5CD11F48F2252F6A7D89C1F6A1",
+                    "encrypted_size_2": "98A54432BF672DE82BF6DB3B7465D94F"
                 }
             }
         },
@@ -149,6 +153,10 @@
                 "staging_alpha": {
                     "encrypted_gid_2": "24D579EE43922C0EDCFD02D264B384D6",
                     "encrypted_size_2": "FA14FB88C07BC9996CF2BA615AB814A0"
+                },
+                "staging_tx": {
+                    "encrypted_gid_2": "6CAC414C7E0BDE9B08D738FDE80872DE",
+                    "encrypted_size_2": "2F5B26CE7DFE44A404DDF160E269736C"
                 }
             }
         },
@@ -187,6 +195,10 @@
                 "staging_alpha": {
                     "encrypted_gid_2": "7D623BD7DF50076E46E9CAC2E69BA570",
                     "encrypted_size_2": "106C80F49E21E241010A4405962E000F"
+                },
+                "staging_tx": {
+                    "encrypted_gid_2": "509A93E174343610BFCD0330D70B0BF8",
+                    "encrypted_size_2": "2E0991F27BFB4DB80F0B7038B4E5A18A"
                 }
             }
         },
@@ -229,11 +241,17 @@
                 "description": "auto-pushed to live for internal testing",
                 "pwdrequired": "1",
                 "timeupdated": "1665617618"
+            },
+            "staging_tx": {
+                "buildid": "9709259",
+                "description": "staging_tx",
+                "pwdrequired": "1",
+                "timeupdated": "1665618854"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 16346947,
-    "_sha": "b1e9b10bb3fdd14bf79d1afeafdbf308acc8b806",
-    "_size": 6172
+    "_change_number": 16347033,
+    "_sha": "bbb0328cef09d05e678127aaf004f84935995ee2",
+    "_size": 6754
 }
