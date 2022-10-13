@@ -98,6 +98,10 @@
                     "encrypted_gid_2": "813884A1944F5DC5D0060323C206CBFA",
                     "encrypted_size_2": "0F827D919E53655D35D55F0D1CFE7E21"
                 },
+                "playthrough": {
+                    "encrypted_gid_2": "0470D7E70D93EB7EAEDB0E3C9D712B8B",
+                    "encrypted_size_2": "1B2DDF8FC3E3D10F2E6F05B68E155FE4"
+                },
                 "ss_cte_1": {
                     "encrypted_gid_2": "B170D8EE86C5E56DA71D4958FA319164",
                     "encrypted_size_2": "B0E4E54C11696A7A2A009846789A08DE"
@@ -186,6 +190,10 @@
                 "nwi_nightly": {
                     "encrypted_gid_2": "04CCC15715388220368D71E3D5DD982D",
                     "encrypted_size_2": "079B396631E26E3B9D19ABD764AD5499"
+                },
+                "playthrough": {
+                    "encrypted_gid_2": "7940DBFEF5B9686E2DD85EB22B864369",
+                    "encrypted_size_2": "A17C60F571B846C6743128AD8BF0328E"
                 },
                 "ss_cte_1": {
                     "encrypted_gid_2": "94114E1F5427AF9F70DEFEE1D5499F2D",
@@ -277,6 +285,12 @@
                 "buildid": "6063201",
                 "pwdrequired": "1",
                 "timeupdated": "1610338420"
+            },
+            "playthrough": {
+                "buildid": "9702001",
+                "description": "playthrough",
+                "pwdrequired": "1",
+                "timeupdated": "1665696501"
             },
             "ss_cte_1": {
                 "buildid": "9499471",
@@ -371,7 +385,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16355383,
-    "_sha": "0d04a2af8793bfc10257674a26eff889d1135c71",
-    "_size": 10485
+    "_change_number": 16359140,
+    "_sha": "2352b589e6bf9ae24645a2535e11315ff75971e0",
+    "_size": 10923
 }
