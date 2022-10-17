@@ -26,6 +26,18 @@
                     "oslist": "linux",
                     "osarch": "64"
                 }
+            },
+            "1": {
+                "executable": "STN_Dedicated_Server.exe",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                },
+                "description_loc": {
+                    "english": "Windows dedicated server for Survive the Nights"
+                },
+                "description": "Windows dedicated server for Survive the Nights"
             }
         }
     },
@@ -83,6 +95,19 @@
                 }
             }
         },
+        "1502302": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {},
+            "encryptedmanifests": {
+                "pre-experimental": {
+                    "encrypted_gid_2": "94F89C73B2C407097BC8048565ED0C55",
+                    "encrypted_size_2": "C45E085F57013752AA1D8B5886613FF9"
+                }
+            }
+        },
         "branches": {
             "public": {
                 "buildid": "9513991",
@@ -99,14 +124,14 @@
                 "timeupdated": "1663333760"
             },
             "pre-experimental": {
-                "buildid": "9513991",
+                "buildid": "9737591",
                 "pwdrequired": "1",
-                "timeupdated": "1663154391"
+                "timeupdated": "1666017749"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 16068252,
-    "_sha": "bf55ab3fb17bc586edbc186ce29a9f415f9b317a",
-    "_size": 2367
+    "_change_number": 16393677,
+    "_sha": "7248ddfeaeea456c20a1d726e441a1b54e033086",
+    "_size": 2987
 }
