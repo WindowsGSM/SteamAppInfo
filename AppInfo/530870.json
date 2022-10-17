@@ -76,7 +76,7 @@
         "530871": {
             "name": "Dedicated Server Content",
             "manifests": {
-                "public": "1965472880399135507",
+                "public": "261467095136417942",
                 "alpha10": "4139613444459975471",
                 "alpha11": "7348305962190994729",
                 "alpha12": "2395002668044090563",
@@ -86,15 +86,15 @@
                 "alpha8": "9130500877719341038",
                 "alpha9": "98967298642520364"
             },
-            "maxsize": "14441539675",
+            "maxsize": "14441555497",
             "encryptedmanifests": {
                 "closedalpha": {
                     "encrypted_gid_2": "3B1431569D60025D48C7122F528BCCD9",
                     "encrypted_size_2": "86D974D8451294FFF8E1FEA180964C24"
                 },
                 "eleononly": {
-                    "encrypted_gid_2": "08D70F22C98E29190B25F79E087C3962",
-                    "encrypted_size_2": "BED96D50E977863AD15876E64661D68F"
+                    "encrypted_gid_2": "7DB80EE6932A64C7C0FE93E8FCDBF86B",
+                    "encrypted_size_2": "941F57A8951EFB19420DE665AC572BE8"
                 },
                 "eleontest": {
                     "encrypted_gid_2": "2761A9C46ED2771F825B3A465EBF4C18",
@@ -105,8 +105,8 @@
                     "encrypted_size_2": "8C1D88D07663A3EB850CA31E961E230E"
                 },
                 "internal": {
-                    "encrypted_gid_2": "E2F336401A5340CFF0184886BEFD779D",
-                    "encrypted_size_2": "CBB4DD3B478B1FED74BDD1D824C7DB9F"
+                    "encrypted_gid_2": "B04DB021E6803BC40B35D12F20A02890",
+                    "encrypted_size_2": "AABD83F49293D8D2917D518400100615"
                 },
                 "steamtest": {
                     "encrypted_gid_2": "6F94DDD621BE288516F2E07F1D7733E6",
@@ -116,8 +116,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "9715022",
-                "timeupdated": "1665737919"
+                "buildid": "9737246",
+                "timeupdated": "1666023778"
             },
             "alpha10": {
                 "buildid": "4347212",
@@ -166,10 +166,10 @@
                 "timeupdated": "1665676513"
             },
             "eleononly": {
-                "buildid": "9737246",
+                "buildid": "9738211",
                 "description": "Eleon team branch",
                 "pwdrequired": "1",
-                "timeupdated": "1666015040"
+                "timeupdated": "1666023135"
             },
             "eleontest": {
                 "buildid": "9723283",
@@ -184,10 +184,10 @@
                 "timeupdated": "1665496638"
             },
             "internal": {
-                "buildid": "9707726",
+                "buildid": "9738211",
                 "description": "For the team only",
                 "pwdrequired": "1",
-                "timeupdated": "1665600803"
+                "timeupdated": "1666023905"
             },
             "steamtest": {
                 "buildid": "9737246",
@@ -198,7 +198,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16393208,
-    "_sha": "b1ef3783aa1bcb9691cf958b04e00a2cde2be0d0",
-    "_size": 4949
+    "_change_number": 16394887,
+    "_sha": "92f84f759e4044f9efcc9e2fb7e5817d262757d5",
+    "_size": 4948
 }
