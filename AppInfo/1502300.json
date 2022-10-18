@@ -4,8 +4,8 @@
         "name": " Survive the Nights Dedicated Server",
         "type": "Tool",
         "parent": "541300",
-        "oslist": "linux",
-        "osarch": "",
+        "oslist": "windows,linux",
+        "osarch": "64",
         "osextended": "",
         "clienttga": "26346d575cdd43c75c8a1de8d91fdc0c0cbe4ff3",
         "clienticon": "38a860f31c625adef7fd808fde2b9ac93cd2371e",
@@ -29,7 +29,7 @@
             },
             "1": {
                 "executable": "STN_Dedicated_Server.exe",
-                "type": "server",
+                "type": "default",
                 "config": {
                     "oslist": "windows",
                     "osarch": "64"
@@ -140,7 +140,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16403092,
-    "_sha": "29d5167add806e45cd3528a2f8d76da34905f6a0",
-    "_size": 3236
+    "_change_number": 16403399,
+    "_sha": "3f2bb2247840369a5a11c63c065032f245c4304f",
+    "_size": 3247
 }
