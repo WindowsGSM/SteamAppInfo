@@ -41,15 +41,16 @@
             },
             "2": {
                 "executable": "STN_Dedicated_Server.bat",
+                "type": "server",
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
                     "betakey": "pre-experimental"
                 },
                 "description_loc": {
-                    "english": "Testing batch launch"
+                    "english": "Testing batch launch 2"
                 },
-                "description": "Testing batch launch"
+                "description": "Testing batch launch 2"
             }
         }
     },
@@ -119,7 +120,7 @@
             "maxsize": "1312611128",
             "encryptedmanifests": {
                 "pre-experimental": {
-                    "encrypted_gid_2": "D165A395297DBEA3619B3038588B2144",
+                    "encrypted_gid_2": "0FB0B70DD694ED33CCC857164AD62A9F",
                     "encrypted_size_2": "BBD1F251589B5A0B8300A3BA3FE80E40"
                 }
             }
@@ -145,14 +146,14 @@
                 "timeupdated": "1666085381"
             },
             "pre-experimental": {
-                "buildid": "9744774",
+                "buildid": "9745021",
                 "pwdrequired": "1",
-                "timeupdated": "1666087617"
+                "timeupdated": "1666089634"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 16403732,
-    "_sha": "d22b1c8b934d96a55a92b17465dc87043344be83",
-    "_size": 3528
+    "_change_number": 16403831,
+    "_sha": "dbb0ed0d80e2085b06bc9af3a21cee6f987a3808",
+    "_size": 3553
 }
