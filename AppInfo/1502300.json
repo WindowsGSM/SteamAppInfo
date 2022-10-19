@@ -29,18 +29,19 @@
             },
             "1": {
                 "executable": "STN_Dedicated_Server.exe",
+                "arguments": "-steamclientlaunch",
                 "type": "server",
                 "config": {
                     "oslist": "windows",
                     "osarch": "64"
                 },
                 "description_loc": {
-                    "english": "Windows dedicated server for Survive the Nights"
+                    "english": "Windows dedicated server for Survive the Nights."
                 },
-                "description": "Windows dedicated server for Survive the Nights"
+                "description": "Windows dedicated server for Survive the Nights."
             },
             "2": {
-                "executable": "STN_Dedicated_Server.bat",
+                "executable": "STN_Dedicated_Server.exe",
                 "type": "server",
                 "config": {
                     "oslist": "windows",
@@ -153,7 +154,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16415497,
-    "_sha": "01aee58910b22c81fa1bb71210b7ee549c8c50eb",
-    "_size": 3553
+    "_change_number": 16415598,
+    "_sha": "65875734c912f4018f4a0dd675f8e78dc9057f79",
+    "_size": 3593
 }
