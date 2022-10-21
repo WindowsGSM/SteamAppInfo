@@ -28,10 +28,10 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "2583569517206115401",
+                "public": "5893691116781216507",
                 "aux01": "7820939384886478837",
                 "aux02": "4364667166813921754",
-                "release": "4279145949339801723",
+                "release": "5959457117074152112",
                 "staging": "3309973924531597734"
             },
             "maxsize": "557424547",
@@ -85,8 +85,8 @@
                     "encrypted_size_2": "8527E491A710A5E528285CB21028B4C3"
                 },
                 "release-debug": {
-                    "encrypted_gid_2": "A4D98940B378469B661F34D81975013F",
-                    "encrypted_size_2": "B8C08B37A07340F510D7858A12C475FD"
+                    "encrypted_gid_2": "37DC4985B9B7DC556CB40A7490845CA3",
+                    "encrypted_size_2": "22A7F839D2469CD6C402659A3BD3B68D"
                 },
                 "staging-debug": {
                     "encrypted_gid_2": "0E153030DCB5DBFEB023771FF8BC470C",
@@ -116,10 +116,10 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "2821420149808930294",
+                "public": "9094144884386469849",
                 "aux01": "1174564299459838660",
                 "aux02": "8943711520301165278",
-                "release": "4903247738100774315",
+                "release": "799994543509982732",
                 "staging": "4186881766304063273"
             },
             "maxsize": "607710164",
@@ -289,10 +289,10 @@
         "258554": {
             "name": "rust dedicated - common",
             "manifests": {
-                "public": "4179887165644339457",
+                "public": "1028378864802886566",
                 "aux01": "3573478963150239548",
                 "aux02": "2478932154897182254",
-                "release": "4424309916668251861",
+                "release": "3002965700355071167",
                 "staging": "3335384341273046376"
             },
             "maxsize": "6456998688",
@@ -346,8 +346,8 @@
                     "encrypted_size_2": "1B7A89A69F102E5F2153C1FED28F7085"
                 },
                 "release-debug": {
-                    "encrypted_gid_2": "AF264F0947D7A17E21072608675F8BE2",
-                    "encrypted_size_2": "8468225751848C6DF874DE276D50FA00"
+                    "encrypted_gid_2": "7DB925C5B2188830AF4555B56218CB24",
+                    "encrypted_size_2": "E9F4BCA4C1E11921C20B771F45F2597B"
                 },
                 "staging-debug": {
                     "encrypted_gid_2": "A94F361EF42B10B8522129439AABAA86",
@@ -373,8 +373,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "9763797",
-                "timeupdated": "1666287264"
+                "buildid": "9767522",
+                "timeupdated": "1666324930"
             },
             "aux01": {
                 "buildid": "9611917",
@@ -450,13 +450,13 @@
                 "timeupdated": "1600881047"
             },
             "release": {
-                "buildid": "9764707",
-                "timeupdated": "1666289463"
+                "buildid": "9767862",
+                "timeupdated": "1666326928"
             },
             "release-debug": {
-                "buildid": "9764716",
+                "buildid": "9767869",
                 "pwdrequired": "1",
-                "timeupdated": "1666289512"
+                "timeupdated": "1666326981"
             },
             "staging": {
                 "buildid": "9766582",
@@ -494,7 +494,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16437207,
-    "_sha": "3d850e5af4dd4e5774fdf2b1e73d85dc35be2e40",
-    "_size": 15231
+    "_change_number": 16439177,
+    "_sha": "fe794284daaf1ea2c29b86ab23d4863c66adf59e",
+    "_size": 15230
 }
