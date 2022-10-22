@@ -37,18 +37,18 @@
             "systemdefined": "1",
             "manifests": {
                 "public": "7352676364520109194",
-                "prerelease": "6398405077055939366",
+                "prerelease": "8211693540591080373",
                 "previous": "9010623618386807462"
             },
-            "maxsize": "10425871396",
+            "maxsize": "10496510951",
             "encryptedmanifests": {
                 "development": {
                     "encrypted_gid_2": "33140EDABBBE26D155150C3E38F51199",
                     "encrypted_size_2": "67379AA9816BC1C6BA98A08AA2DEA91A"
                 },
                 "halloween": {
-                    "encrypted_gid_2": "888FFB4A0B2FA9FA0322F9DDBA19F2D6",
-                    "encrypted_size_2": "C837DAFB6FF81C2379EB1590EEDC5D9F"
+                    "encrypted_gid_2": "688BD5DAA8CD71118154559C6437C867",
+                    "encrypted_size_2": "5588B4AEB70FA3C5975FA7630051E430"
                 }
             },
             "depotfromapp": "1280"
@@ -58,13 +58,17 @@
             "systemdefined": "1",
             "manifests": {
                 "public": "8293391430153669264",
-                "prerelease": "2051380148026700281"
+                "prerelease": "5576530993902596761"
             },
-            "maxsize": "1954542467",
+            "maxsize": "1960583098",
             "encryptedmanifests": {
                 "development": {
                     "encrypted_gid_2": "0D0F8BDC9A2C8A38A66E1335AB7C94C7",
                     "encrypted_size_2": "0266B9C435EC1A46BC8E01E4B240C172"
+                },
+                "halloween": {
+                    "encrypted_gid_2": "E2AEE73F35746B84E4DD42088F4BF28F",
+                    "encrypted_size_2": "5D4CB532F1C596A7C8466CDB6BF40CBD"
                 }
             }
         },
@@ -79,16 +83,16 @@
                 "pwdrequired": "1",
                 "timeupdated": "1640484677"
             },
-            "prerelease": {
-                "buildid": "9488380",
-                "description": " \tPre-release testing branch",
-                "timeupdated": "1662769351"
-            },
             "halloween": {
-                "buildid": "7632620",
+                "buildid": "9778550",
                 "description": "Halloween Pre-Release",
                 "pwdrequired": "1",
-                "timeupdated": "1636369176"
+                "timeupdated": "1666475452"
+            },
+            "prerelease": {
+                "buildid": "9778550",
+                "description": " \tPre-release testing branch",
+                "timeupdated": "1666475613"
             },
             "previous": {
                 "buildid": "7781773",
@@ -98,7 +102,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16390272,
-    "_sha": "cc21e389ed4e3ee520d42c83f4c5ee052ca8ec8c",
-    "_size": 2322
+    "_change_number": 16456346,
+    "_sha": "304f4c598921dd9b6b1c4facd4a033390a17304e",
+    "_size": 2469
 }
