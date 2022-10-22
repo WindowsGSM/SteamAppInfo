@@ -37,18 +37,17 @@
             "systemdefined": "1",
             "manifests": {
                 "public": "7352676364520109194",
-                "prerelease": "8211693540591080373",
                 "previous": "9010623618386807462"
             },
-            "maxsize": "10496510951",
+            "maxsize": "10425871396",
             "encryptedmanifests": {
                 "development": {
                     "encrypted_gid_2": "33140EDABBBE26D155150C3E38F51199",
                     "encrypted_size_2": "67379AA9816BC1C6BA98A08AA2DEA91A"
                 },
-                "halloween": {
-                    "encrypted_gid_2": "688BD5DAA8CD71118154559C6437C867",
-                    "encrypted_size_2": "5588B4AEB70FA3C5975FA7630051E430"
+                "prerelease": {
+                    "encrypted_gid_2": "0BD52774EDBD78EAA8A860269048BDB3",
+                    "encrypted_size_2": "1947032CB276CD1519854BBF74F3E403"
                 }
             },
             "depotfromapp": "1280"
@@ -57,18 +56,17 @@
             "name": "DarkestHourDedicatedServer",
             "systemdefined": "1",
             "manifests": {
-                "public": "8293391430153669264",
-                "prerelease": "5576530993902596761"
+                "public": "8293391430153669264"
             },
-            "maxsize": "1960583098",
+            "maxsize": "1950982003",
             "encryptedmanifests": {
                 "development": {
                     "encrypted_gid_2": "0D0F8BDC9A2C8A38A66E1335AB7C94C7",
                     "encrypted_size_2": "0266B9C435EC1A46BC8E01E4B240C172"
                 },
-                "halloween": {
-                    "encrypted_gid_2": "E2AEE73F35746B84E4DD42088F4BF28F",
-                    "encrypted_size_2": "5D4CB532F1C596A7C8466CDB6BF40CBD"
+                "prerelease": {
+                    "encrypted_gid_2": "D7BC673225A29D85D978CE342E3AD97D",
+                    "encrypted_size_2": "7268FEFA6E8FAE1E23FD8952672AB298"
                 }
             }
         },
@@ -83,15 +81,10 @@
                 "pwdrequired": "1",
                 "timeupdated": "1640484677"
             },
-            "halloween": {
-                "buildid": "9778550",
-                "description": "Halloween Pre-Release",
-                "pwdrequired": "1",
-                "timeupdated": "1666475452"
-            },
             "prerelease": {
                 "buildid": "9778550",
                 "description": " \tPre-release testing branch",
+                "pwdrequired": "1",
                 "timeupdated": "1666475613"
             },
             "previous": {
@@ -102,7 +95,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16456346,
-    "_sha": "304f4c598921dd9b6b1c4facd4a033390a17304e",
-    "_size": 2469
+    "_change_number": 16456374,
+    "_sha": "0cfeba140d9a840e2fe5c161c38cfcfc23919da5",
+    "_size": 2266
 }
