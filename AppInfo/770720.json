@@ -144,7 +144,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom latest teamtest latest_lwp playtest_external mkt_recording"
+                    "betakey": "qa_testroom latest teamtest latest_lwp playtest_external mkt_recording gamesweek"
                 },
                 "description_loc": {
                     "english": "STGDSN"
@@ -234,6 +234,10 @@
                     "encrypted_gid_2": "EBC8FBA1B9D30CF82A9FE07E6473E2D0",
                     "encrypted_size_2": "D30CE5F8029C8EC7744D8613510274CF"
                 },
+                "gamesweek": {
+                    "encrypted_gid_2": "9FFA837D9F3C6D0B0E3DCCF84D26D2C7",
+                    "encrypted_size_2": "7827DD6AA3E43CD4B1B7A68A8958A4BB"
+                },
                 "latest": {
                     "encrypted_gid_2": "108B6FEA0FC0AB258CAC01E64AC32235",
                     "encrypted_size_2": "9304ACBB90EC59E59C6A63D42DEA5CE0"
@@ -278,6 +282,10 @@
                 "current": {
                     "encrypted_gid_2": "45D5F5AF5150C9179178CBCE880A48B1",
                     "encrypted_size_2": "B5DAA0793C9BA09C84D2AE6743947959"
+                },
+                "gamesweek": {
+                    "encrypted_gid_2": "3F2FAC97FF5B630A54B1C9685802EDF1",
+                    "encrypted_size_2": "F0E004D7FFE40AEB159011196A36F2B7"
                 },
                 "latest": {
                     "encrypted_gid_2": "8E47DB3E9BF5CA33E025F7AFE7D9DD00",
@@ -324,6 +332,10 @@
                     "encrypted_gid_2": "0B545C233631E8BC41BDAA94774CEC1C",
                     "encrypted_size_2": "C75C4B3B905B49B1EFB900FD9B6228D6"
                 },
+                "gamesweek": {
+                    "encrypted_gid_2": "F27DC514C108CF1964B312AEEB785772",
+                    "encrypted_size_2": "511409AC7A87E2469D37392332FA9771"
+                },
                 "latest": {
                     "encrypted_gid_2": "73F6ACE3A1084920276B48B1D3515691",
                     "encrypted_size_2": "CB77E44E89E4063E773BE822A801CF1E"
@@ -368,6 +380,10 @@
                     "encrypted_gid_2": "6B79E0632F06FA48440FD6EE2D335D2F",
                     "encrypted_size_2": "F2BFA34734FC054F15A06024F6174AE7"
                 },
+                "gamesweek": {
+                    "encrypted_gid_2": "2E67D38B7BB6317B898815104BDA8AAA",
+                    "encrypted_size_2": "FF92406A9C9841B06D863C625B4B0ADB"
+                },
                 "latest": {
                     "encrypted_gid_2": "C091CA544879CC3B65DD35D50ADD0586",
                     "encrypted_size_2": "8B17FFA7D78F55908B9538F784D3F1F6"
@@ -408,6 +424,12 @@
                 "description": "Current build",
                 "pwdrequired": "1",
                 "timeupdated": "1653918066"
+            },
+            "gamesweek": {
+                "buildid": "9764443",
+                "description": "Paris Games Week",
+                "pwdrequired": "1",
+                "timeupdated": "1666604078"
             },
             "latest": {
                 "buildid": "9775231",
@@ -451,7 +473,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16465727,
-    "_sha": "d3ad2319725728d1eb90da96570ceaec6b4e0bbb",
-    "_size": 12434
+    "_change_number": 16467194,
+    "_sha": "9748d84a8c72719d5d3bec92a446c51c7591e112",
+    "_size": 13175
 }
