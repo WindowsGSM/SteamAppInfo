@@ -87,6 +87,10 @@
                 "staging": {
                     "encrypted_gid_2": "12C57064F4EDAD2599D131870551B13B",
                     "encrypted_size_2": "19C48ECDD0C5CE37EEFD6BC20965C273"
+                },
+                "staging-internal": {
+                    "encrypted_gid_2": "4062C2AD1B2322CE40E4E80EEAABA9FD",
+                    "encrypted_size_2": "8255615E5EAB1BC5F702E502E8888D26"
                 }
             }
         },
@@ -117,6 +121,10 @@
                 "staging": {
                     "encrypted_gid_2": "6D170ACC1B7788FA6DF90FF445F59D67",
                     "encrypted_size_2": "25703F5B32112C16890258EFC6E7D404"
+                },
+                "staging-internal": {
+                    "encrypted_gid_2": "005B266E3BB8AA08878EC649E6328DE5",
+                    "encrypted_size_2": "6187931643C8E8040A8C18E97B766B40"
                 }
             }
         },
@@ -148,11 +156,16 @@
                 "buildid": "9814302",
                 "pwdrequired": "1",
                 "timeupdated": "1666887509"
+            },
+            "staging-internal": {
+                "buildid": "9822208",
+                "pwdrequired": "1",
+                "timeupdated": "1666966306"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 16515017,
-    "_sha": "d947b7cf415879ed9fb6e16e08f96625f5ff4088",
-    "_size": 3630
+    "_change_number": 16527043,
+    "_sha": "bff600922e06bc586918727a129b6e2b63a13747",
+    "_size": 4050
 }
