@@ -138,7 +138,7 @@
                 "description": "Prod machine"
             },
             "14": {
-                "executable": "hunt.exe",
+                "executable": "\\bin\\win_x64/HuntGame.exe",
                 "arguments": "+online_account_client_settings stage",
                 "type": "option1",
                 "config": {
@@ -473,7 +473,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16556981,
-    "_sha": "d9c0ff11c648508ecf83a81b0b30fa151c8afb89",
-    "_size": 13175
+    "_change_number": 16557698,
+    "_sha": "7f5573c96f3b64378754217054ceccc242f3c8a9",
+    "_size": 13194
 }
