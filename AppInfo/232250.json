@@ -33,7 +33,13 @@
                 "prerelease": "8647680540136384681",
                 "valve_ds": "8647680540136384681"
             },
-            "maxsize": "9418475333"
+            "maxsize": "9418475333",
+            "encryptedmanifests": {
+                "vscript_test": {
+                    "encrypted_gid_2": "22FF694A90025573AB43AC531D021102",
+                    "encrypted_size_2": "75AE0322226C285407F9A204620FEB25"
+                }
+            }
         },
         "232255": {
             "name": "TF2 Windows server",
@@ -45,7 +51,13 @@
                 "prerelease": "2601183350631532220",
                 "valve_ds": "2601183350631532220"
             },
-            "maxsize": "103246920"
+            "maxsize": "103246920",
+            "encryptedmanifests": {
+                "vscript_test": {
+                    "encrypted_gid_2": "A0BFD48324040FB06CA76A45F7E26934",
+                    "encrypted_size_2": "65FA647F2232D717235AABE1A4353CA3"
+                }
+            }
         },
         "232256": {
             "name": "TF2 Linux server",
@@ -57,7 +69,13 @@
                 "prerelease": "6009862886977256757",
                 "valve_ds": "6009862886977256757"
             },
-            "maxsize": "91192042"
+            "maxsize": "91192042",
+            "encryptedmanifests": {
+                "vscript_test": {
+                    "encrypted_gid_2": "E4554A8AC565C208D94B84A2FC28732A",
+                    "encrypted_size_2": "DE62E19C45A244547E36D00CEE7234DF"
+                }
+            }
         },
         "232257": {
             "name": "TF2 Private DS",
@@ -69,7 +87,13 @@
                 "prerelease": "4723924205698996072",
                 "valve_ds": "4723924205698996072"
             },
-            "maxsize": "9955"
+            "maxsize": "9955",
+            "encryptedmanifests": {
+                "vscript_test": {
+                    "encrypted_gid_2": "57AF59F2B9FA18BDEB43A24AD357EB26",
+                    "encrypted_size_2": "EC05ACD5C870B1F154FC94AFFF4221B7"
+                }
+            }
         },
         "overridescddb": "1",
         "branches": {
@@ -85,11 +109,17 @@
                 "buildid": "9872053",
                 "description": "The version Valve dedicated servers will sync to",
                 "timeupdated": "1667583876"
+            },
+            "vscript_test": {
+                "buildid": "9873292",
+                "description": "vscript_test",
+                "pwdrequired": "1",
+                "timeupdated": "1667593347"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 16625820,
-    "_sha": "c2051485bf1a267c98777e7cc58f4b3203366c1d",
-    "_size": 1940
+    "_change_number": 16627297,
+    "_sha": "7f3fc0ffb24d551d9437273ea5c13df14a2da186",
+    "_size": 2818
 }
