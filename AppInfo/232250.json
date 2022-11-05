@@ -31,15 +31,10 @@
             "manifests": {
                 "public": "8647680540136384681",
                 "prerelease": "8647680540136384681",
-                "valve_ds": "8647680540136384681"
+                "valve_ds": "8647680540136384681",
+                "vscript_test": "7517908910334523240"
             },
-            "maxsize": "9418475333",
-            "encryptedmanifests": {
-                "vscript_test": {
-                    "encrypted_gid_2": "22FF694A90025573AB43AC531D021102",
-                    "encrypted_size_2": "75AE0322226C285407F9A204620FEB25"
-                }
-            }
+            "maxsize": "9418477236"
         },
         "232255": {
             "name": "TF2 Windows server",
@@ -49,15 +44,10 @@
             "manifests": {
                 "public": "2601183350631532220",
                 "prerelease": "2601183350631532220",
-                "valve_ds": "2601183350631532220"
+                "valve_ds": "2601183350631532220",
+                "vscript_test": "8883389271926214593"
             },
-            "maxsize": "103246920",
-            "encryptedmanifests": {
-                "vscript_test": {
-                    "encrypted_gid_2": "A0BFD48324040FB06CA76A45F7E26934",
-                    "encrypted_size_2": "65FA647F2232D717235AABE1A4353CA3"
-                }
-            }
+            "maxsize": "103845768"
         },
         "232256": {
             "name": "TF2 Linux server",
@@ -67,15 +57,10 @@
             "manifests": {
                 "public": "6009862886977256757",
                 "prerelease": "6009862886977256757",
-                "valve_ds": "6009862886977256757"
+                "valve_ds": "6009862886977256757",
+                "vscript_test": "237547331882723606"
             },
-            "maxsize": "91192042",
-            "encryptedmanifests": {
-                "vscript_test": {
-                    "encrypted_gid_2": "E4554A8AC565C208D94B84A2FC28732A",
-                    "encrypted_size_2": "DE62E19C45A244547E36D00CEE7234DF"
-                }
-            }
+            "maxsize": "91700898"
         },
         "232257": {
             "name": "TF2 Private DS",
@@ -85,15 +70,10 @@
             "manifests": {
                 "public": "4723924205698996072",
                 "prerelease": "4723924205698996072",
-                "valve_ds": "4723924205698996072"
+                "valve_ds": "4723924205698996072",
+                "vscript_test": "4797708003880603728"
             },
-            "maxsize": "9955",
-            "encryptedmanifests": {
-                "vscript_test": {
-                    "encrypted_gid_2": "57AF59F2B9FA18BDEB43A24AD357EB26",
-                    "encrypted_size_2": "EC05ACD5C870B1F154FC94AFFF4221B7"
-                }
-            }
+            "maxsize": "9989"
         },
         "overridescddb": "1",
         "branches": {
@@ -111,15 +91,14 @@
                 "timeupdated": "1667583876"
             },
             "vscript_test": {
-                "buildid": "9873292",
-                "description": "vscript_test",
-                "pwdrequired": "1",
-                "timeupdated": "1667593347"
+                "buildid": "9874758",
+                "description": "VScript beta. Cannot connect to public servers or matchmaking.",
+                "timeupdated": "1667613992"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 16627297,
-    "_sha": "7f3fc0ffb24d551d9437273ea5c13df14a2da186",
-    "_size": 2818
+    "_change_number": 16629784,
+    "_sha": "0c9755d81d609e20329b6eef567efe89ce65eeda",
+    "_size": 2276
 }
