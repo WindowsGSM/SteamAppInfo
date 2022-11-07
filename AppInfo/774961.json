@@ -317,8 +317,7 @@
                 "language": ""
             },
             "manifests": {
-                "public": "2545188719619349744",
-                "uat_experimental": "7844286360282026320"
+                "public": "2545188719619349744"
             },
             "encryptedmanifests": {
                 "hlod_test": {
@@ -340,6 +339,10 @@
                 "uat_crashtest": {
                     "encrypted_gid_2": "677F729708882195B049814A86DF56E2",
                     "encrypted_size_2": "BD94C881D1B3AFF558BBDF4732FDFC9C"
+                },
+                "uat_experimental": {
+                    "encrypted_gid_2": "7073AC6A1F5D3F8FD0099CABE7101F70",
+                    "encrypted_size_2": "C5DEB4226880005568890D715AFA74CB"
                 },
                 "uat_features": {
                     "encrypted_gid_2": "2AEB2FCF4ACE50C7610FE16FAE4883FF",
@@ -410,7 +413,6 @@
                     "encrypted_size_2": "835D2A2253CD9A16AECC04A520F61A31"
                 }
             },
-            "maxsize": "6005622287",
             "depotfromapp": "774941"
         },
         "branches": {
@@ -562,21 +564,22 @@
                 "pwdrequired": "1",
                 "timeupdated": "1647875304"
             },
+            "uat_experimental": {
+                "buildid": "9855771",
+                "description": "uat_experimental (Experimental features public)",
+                "pwdrequired": "1",
+                "timeupdated": "1667859150"
+            },
             "uat_internalpt": {
                 "buildid": "8008430",
                 "description": "uat_internalpt (Internal playtesting)",
                 "pwdrequired": "1",
                 "timeupdated": "1642018651"
-            },
-            "uat_experimental": {
-                "buildid": "6992347",
-                "description": "uat_experimental (Experimental features public)",
-                "timeupdated": "1625762365"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 16651113,
-    "_sha": "64f51310e4f3fb09496d105e283f58a5291d43eb",
-    "_size": 17526
+    "_change_number": 16653458,
+    "_sha": "77d3ca3d7818987a0ae8cc1d654eaf50c00b3684",
+    "_size": 17630
 }
