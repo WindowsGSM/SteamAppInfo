@@ -117,11 +117,12 @@
                 "osarch": "32"
             },
             "manifests": {
-                "public": "444802474913724297",
+                "public": "1335453699187518031",
                 "v0.21.23": "4167413743827899035",
-                "v0.21.24": "3554601484529991233"
+                "v0.21.24": "3554601484529991233",
+                "v0.21.25": "444802474913724297"
             },
-            "maxsize": "206563092",
+            "maxsize": "206769172",
             "encryptedmanifests": {
                 "buildtest": {
                     "encrypted_gid_2": "88D842B34F9749D3B89DD3D8DE41B051",
@@ -135,11 +136,12 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "2951367163859167769",
+                "public": "1793311784725585385",
                 "v0.21.23": "3325434589457135584",
-                "v0.21.24": "3939726406090867347"
+                "v0.21.24": "3939726406090867347",
+                "v0.21.25": "2951367163859167769"
             },
-            "maxsize": "223180180",
+            "maxsize": "223386260",
             "encryptedmanifests": {
                 "buildtest": {
                     "encrypted_gid_2": "8D487BD51BAFCEA357C545DDE60037AD",
@@ -152,11 +154,12 @@
                 "oslist": "macos"
             },
             "manifests": {
-                "public": "8999161610688721746",
+                "public": "1711477454689075028",
                 "v0.21.23": "7986793149790804069",
-                "v0.21.24": "6854413540049105851"
+                "v0.21.24": "6854413540049105851",
+                "v0.21.25": "8999161610688721746"
             },
-            "maxsize": "231983633",
+            "maxsize": "232189713",
             "encryptedmanifests": {
                 "buildtest": {
                     "encrypted_gid_2": "03DB7C84AB3A0FA86B59E9F675035D8B",
@@ -169,11 +172,12 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "4009209568049797977",
+                "public": "4535704784311921629",
                 "v0.21.23": "6875577542589100997",
-                "v0.21.24": "6784832594077909589"
+                "v0.21.24": "6784832594077909589",
+                "v0.21.25": "4009209568049797977"
             },
-            "maxsize": "262125338",
+            "maxsize": "262331418",
             "encryptedmanifests": {
                 "buildtest": {
                     "encrypted_gid_2": "69654A90F9D3489C05C4E0983BDE816A",
@@ -183,8 +187,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "9650343",
-                "timeupdated": "1664910355"
+                "buildid": "9885851",
+                "timeupdated": "1667840873"
             },
             "buildtest": {
                 "buildid": "9885851",
@@ -200,11 +204,16 @@
                 "buildid": "9363222",
                 "description": "Older version",
                 "timeupdated": "1664210610"
+            },
+            "v0.21.25": {
+                "buildid": "9650343",
+                "description": "Older version",
+                "timeupdated": "1667840786"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 16649713,
-    "_sha": "064cbb597be5546ae1b858e872ef9d88a691fa76",
-    "_size": 4727
+    "_change_number": 16650162,
+    "_sha": "edc824e1ca887e07b35023cd74f405b6f58e4f31",
+    "_size": 4995
 }
