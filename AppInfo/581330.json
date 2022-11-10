@@ -154,6 +154,10 @@
                     "encrypted_gid_2": "B69462A2543B352BD5090B7A64016135",
                     "encrypted_size_2": "73E3BE2B8ACEE0B3AF64357830DA53B2"
                 },
+                "streams": {
+                    "encrypted_gid_2": "75EA7B5B5253402417DCB65779F57A87",
+                    "encrypted_size_2": "D87B52FBFBFDBD0AA8F2C62D6F7C63C6"
+                },
                 "tournament": {
                     "encrypted_gid_2": "5B3BB1FC2217512B3051663E8F877365",
                     "encrypted_size_2": "EF28B9D524312AEFA364AD29CFB589FD"
@@ -246,6 +250,10 @@
                 "ss_matchserver_1": {
                     "encrypted_gid_2": "5EF1F384D2A4190D22B1D20C6620132D",
                     "encrypted_size_2": "9D87F48FF137254AE288633847540155"
+                },
+                "streams": {
+                    "encrypted_gid_2": "B60DDAC568467CF25F6E42CDE92596AC",
+                    "encrypted_size_2": "D913E7FEECF82B90EF7BADB30A00CD45"
                 },
                 "tournament": {
                     "encrypted_gid_2": "EF428BB86DF478A070B88DB81B157B53",
@@ -359,6 +367,12 @@
                 "pwdrequired": "1",
                 "timeupdated": "1667565946"
             },
+            "streams": {
+                "buildid": "9857102",
+                "description": "streams",
+                "pwdrequired": "1",
+                "timeupdated": "1668117621"
+            },
             "tournament": {
                 "buildid": "5276803",
                 "pwdrequired": "1",
@@ -385,7 +399,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16682837,
-    "_sha": "e2c3d90c91b85cabe5acd11fdba0e079acdcbecc",
-    "_size": 10923
+    "_change_number": 16692103,
+    "_sha": "a1cf8f781c6b297e8331b27a547708f364da430a",
+    "_size": 11345
 }
