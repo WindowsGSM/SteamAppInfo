@@ -8,7 +8,8 @@
         "osarch": "",
         "osextended": "macos64",
         "associations": {},
-        "gameid": "258550"
+        "gameid": "258550",
+        "store_tags": {}
     },
     "extended": {
         "gamedir": ""
@@ -30,7 +31,7 @@
                 "public": "8180511766467798816",
                 "aux01": "6234549485190740885",
                 "aux02": "4364667166813921754",
-                "release": "8180511766467798816",
+                "release": "2299202837091473989",
                 "staging": "4057973810090603471"
             },
             "maxsize": "557764240",
@@ -84,8 +85,8 @@
                     "encrypted_size_2": "8527E491A710A5E528285CB21028B4C3"
                 },
                 "release-debug": {
-                    "encrypted_gid_2": "BF93DE27D3913772833239CBC9F45766",
-                    "encrypted_size_2": "8C6BD433FE8298BAE080A9EC88588003"
+                    "encrypted_gid_2": "03C17DFC21193013531102E2A183FE6D",
+                    "encrypted_size_2": "F741D98074FB97F01B468FB8E6295AEA"
                 },
                 "staging-debug": {
                     "encrypted_gid_2": "0D698A07637AEC0AD8CA77C9A3AE97A0",
@@ -118,10 +119,10 @@
                 "public": "8894552860488629778",
                 "aux01": "9113393468646443284",
                 "aux02": "8943711520301165278",
-                "release": "8894552860488629778",
+                "release": "6155351790159011207",
                 "staging": "3721906463710556194"
             },
-            "maxsize": "608379712",
+            "maxsize": "608380336",
             "encryptedmanifests": {
                 "aux01-debug": {
                     "encrypted_gid_2": "E943A51328A3977EC5B3276018AFBA04",
@@ -449,13 +450,13 @@
                 "timeupdated": "1600881047"
             },
             "release": {
-                "buildid": "9900059",
-                "timeupdated": "1667989763"
+                "buildid": "9908296",
+                "timeupdated": "1668074833"
             },
             "release-debug": {
-                "buildid": "9900080",
+                "buildid": "9908300",
                 "pwdrequired": "1",
-                "timeupdated": "1667989829"
+                "timeupdated": "1668074883"
             },
             "staging": {
                 "buildid": "9901150",
@@ -493,7 +494,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16679775,
-    "_sha": "99891aa0954d25c2ac847f323c65ac8ed35f8403",
-    "_size": 15208
+    "_change_number": 16684820,
+    "_sha": "69c10af806902ca42b3c9ca449a8c5e09dad7cc7",
+    "_size": 15231
 }
