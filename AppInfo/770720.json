@@ -138,7 +138,7 @@
                 "description": "Prod machine"
             },
             "14": {
-                "executable": "\\bin\\win_x64\\HuntGame.exe",
+                "executable": "hunt.exe",
                 "arguments": "+online_account_client_settings stage +online_account_client_settings blah -online_server cnode1-stgdes-lw-eu.huntshowdown.com -online_server_port 61088",
                 "type": "option1",
                 "config": {
@@ -473,7 +473,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16685090,
-    "_sha": "dd72ced1533a314715375c4c610fabbaadd0f7ed",
-    "_size": 13310
+    "_change_number": 16685236,
+    "_sha": "4f46881365ac49c7235205c7f266cd724b1cef7c",
+    "_size": 13290
 }
