@@ -1,0 +1,113 @@
+{
+    "appid": "2058450",
+    "common": {
+        "name": "Swords 'n Magic and Stuff Dedicated Server",
+        "type": "Tool",
+        "parent": "810040",
+        "releasestate": "released",
+        "icon": "d024b4233bdefc63b50769dbcc3d2e792a2c539f",
+        "clienticon": "f594ec5db60da4f7e45b540af0df8b877c066443",
+        "clienttga": "6012ea81d68607ad0dfc5610e61f17101373c1fd",
+        "oslist": "",
+        "osarch": "",
+        "osextended": "",
+        "associations": {},
+        "community_hub_visible": "1",
+        "gameid": "2058450"
+    },
+    "config": {
+        "installdir": "Swords 'n Magic and Stuff Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "SNMASServer.exe"
+            },
+            "1": {
+                "executable": "SNM2020/Content/Docs/Dedicated-Server-README.txt",
+                "type": "manual",
+                "description_loc": {
+                    "english": "Readme"
+                },
+                "description": "Readme"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "5329354416203291021"
+            },
+            "maxsize": "42086632",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "4444585935428744334"
+            },
+            "maxsize": "66706004",
+            "depotfromapp": "1007"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "maxsize": "29212173",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2058451": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "1228340274796739355"
+            },
+            "maxsize": "1352356031",
+            "encryptedmanifests": {
+                "test": {
+                    "encrypted_gid_2": "27BE105883517E15A8953BF358413E03",
+                    "encrypted_size_2": "EC5AD77D3915C520C10308ADF4223A5B"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "9866543",
+                "timeupdated": "1667532471"
+            },
+            "test": {
+                "buildid": "9866543",
+                "pwdrequired": "1",
+                "timeupdated": "1667525795"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 16617647,
+    "_sha": "6b35e8a4411b49ca411556a8f2c6b9307afb1fa4",
+    "_size": 2185
+}

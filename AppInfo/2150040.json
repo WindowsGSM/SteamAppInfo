@@ -1,0 +1,54 @@
+{
+    "appid": "2150040",
+    "common": {
+        "name": "Dedicated Server",
+        "type": "Tool",
+        "parent": "2009470",
+        "releasestate": "released",
+        "name_localized": {
+            "schinese": "私服搭建工具"
+        },
+        "icon": "b7472c2e86bb214e5d767226dc26b2abd3206615",
+        "clienttga": "acb535d3779bf597f58f50337b38eb175b0010c0",
+        "clienticon": "8e574dd7d47451a2944505092e106df9d09d5d12",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "community_hub_visible": "1",
+        "gameid": "2150040",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "PartyPie.exe",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "2150041": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "2765647714765895997"
+            },
+            "maxsize": "705575655"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9486472",
+                "timeupdated": "1662744789"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 16002587,
+    "_sha": "8ceb14c49ba0558663aea39dcb5775a9ee3b73ae",
+    "_size": 967
+}

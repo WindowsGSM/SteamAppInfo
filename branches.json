@@ -1277,11 +1277,6 @@
             "pwdrequired": "1"
         }
     },
-    "265360": {
-        "public": {
-            "buildid": "583990"
-        }
-    },
     "273530": {
         "public": {
             "buildid": "248417"
@@ -5527,6 +5522,18 @@
             "timeupdated": "1580553266"
         }
     },
+    "869800": {
+        "public": {
+            "buildid": "9918456",
+            "timeupdated": "1668177133"
+        },
+        "prerelease": {
+            "buildid": "9918456",
+            "description": "Upcoming changes",
+            "pwdrequired": "1",
+            "timeupdated": "1668176960"
+        }
+    },
     "878760": {
         "public": {
             "buildid": "9913290",
@@ -5685,6 +5692,44 @@
             "description": "UE5 Version",
             "pwdrequired": "1",
             "timeupdated": "1668361985"
+        }
+    },
+    "906940": {
+        "public": {
+            "buildid": "9659638",
+            "timeupdated": "1664989083"
+        },
+        "development": {
+            "buildid": "9926657",
+            "pwdrequired": "1",
+            "timeupdated": "1668326963"
+        },
+        "pscert": {
+            "buildid": "9747588",
+            "description": "PS Cert",
+            "pwdrequired": "1",
+            "timeupdated": "1666126092"
+        },
+        "psrelease": {
+            "buildid": "9747588",
+            "description": "Playstation Release Server",
+            "timeupdated": "1666126100"
+        },
+        "release": {
+            "buildid": "9747588",
+            "pwdrequired": "1",
+            "timeupdated": "1666113634"
+        },
+        "xboxcert": {
+            "buildid": "9630165",
+            "description": "XBOX Cert",
+            "pwdrequired": "1",
+            "timeupdated": "1664573710"
+        },
+        "xbrelease": {
+            "buildid": "9630165",
+            "description": "Xbox Release Server",
+            "timeupdated": "1664573732"
         }
     },
     "908290": {
@@ -6287,6 +6332,17 @@
             "timeupdated": "1648888641"
         }
     },
+    "1086950": {
+        "public": {
+            "buildid": "9304216",
+            "timeupdated": "1660365718"
+        },
+        "beta": {
+            "buildid": "9901297",
+            "description": "beta server files",
+            "timeupdated": "1668000283"
+        }
+    },
     "1088320": {
         "public": {
             "buildid": "9701215",
@@ -6314,6 +6370,24 @@
             "description": "Latest server build",
             "pwdrequired": "1",
             "timeupdated": "1665532448"
+        }
+    },
+    "1098260": {
+        "public": {
+            "buildid": "9030743",
+            "timeupdated": "1656523629"
+        },
+        "standalone": {
+            "buildid": "9922341",
+            "description": "CV Standalone",
+            "pwdrequired": "1",
+            "timeupdated": "1668226427"
+        },
+        "upcoming": {
+            "buildid": "9928970",
+            "description": "upcoming release",
+            "pwdrequired": "1",
+            "timeupdated": "1668377592"
         }
     },
     "1099850": {
@@ -6941,6 +7015,12 @@
             "timeupdated": "1602425381"
         }
     },
+    "1420480": {
+        "public": {
+            "buildid": "9354099",
+            "timeupdated": "1661008134"
+        }
+    },
     "1420710": {
         "public": {
             "buildid": "8833347",
@@ -7121,17 +7201,6 @@
             "timeupdated": "1667791902"
         }
     },
-    "1485470": {
-        "public": {
-            "buildid": "8814283",
-            "timeupdated": "1653563752"
-        },
-        "test": {
-            "buildid": "8814283",
-            "pwdrequired": "1",
-            "timeupdated": "1653563746"
-        }
-    },
     "1502300": {
         "public": {
             "buildid": "9864613",
@@ -7168,6 +7237,17 @@
         "public": {
             "buildid": "7015504",
             "timeupdated": "1626088487"
+        }
+    },
+    "1541640": {
+        "public": {
+            "buildid": "9782739",
+            "timeupdated": "1666574765"
+        },
+        "beta": {
+            "buildid": "9894152",
+            "pwdrequired": "1",
+            "timeupdated": "1667925967"
         }
     },
     "1549820": {
@@ -7529,6 +7609,17 @@
             "timeupdated": "1645625203"
         }
     },
+    "1797170": {
+        "public": {
+            "buildid": "9302484",
+            "timeupdated": "1660298838"
+        },
+        "shipping": {
+            "buildid": "9302484",
+            "pwdrequired": "1",
+            "timeupdated": "1660295260"
+        }
+    },
     "1801260": {
         "public": {
             "buildid": "8219300",
@@ -7550,6 +7641,28 @@
         "public": {
             "buildid": "7875918",
             "timeupdated": "1639418540"
+        }
+    },
+    "1815810": {
+        "public": {
+            "buildid": "9916432",
+            "timeupdated": "1668171342"
+        },
+        "beta": {
+            "buildid": "9916432",
+            "description": "Next version beta branch",
+            "timeupdated": "1668157966"
+        }
+    },
+    "1816360": {
+        "public": {
+            "buildid": "9413446",
+            "timeupdated": "1661850553"
+        },
+        "releasecandidate": {
+            "buildid": "9442759",
+            "pwdrequired": "1",
+            "timeupdated": "1662146135"
         }
     },
     "1821720": {
@@ -7605,6 +7718,47 @@
             "timeupdated": "1656616569"
         }
     },
+    "1829350": {
+        "public": {
+            "buildid": "9836832",
+            "timeupdated": "1667221200"
+        },
+        "beta": {
+            "buildid": "8677064",
+            "pwdrequired": "1",
+            "timeupdated": "1651674145"
+        },
+        "internal": {
+            "buildid": "9836832",
+            "pwdrequired": "1",
+            "timeupdated": "1667219168"
+        },
+        "partner1": {
+            "buildid": "8296305",
+            "pwdrequired": "1",
+            "timeupdated": "1646174329"
+        },
+        "partner2": {
+            "buildid": "9836820",
+            "pwdrequired": "1",
+            "timeupdated": "1667221242"
+        },
+        "partner2-official": {
+            "buildid": "9836820",
+            "pwdrequired": "1",
+            "timeupdated": "1667381868"
+        },
+        "partner2-test": {
+            "buildid": "9902553",
+            "pwdrequired": "1",
+            "timeupdated": "1668017042"
+        },
+        "private-test-01": {
+            "buildid": "9755553",
+            "pwdrequired": "1",
+            "timeupdated": "1666196445"
+        }
+    },
     "1830410": {
         "public": {
             "buildid": "7830667",
@@ -7622,6 +7776,12 @@
             "timeupdated": "1668101041"
         }
     },
+    "1850780": {
+        "public": {
+            "buildid": "9494955",
+            "timeupdated": "1662933024"
+        }
+    },
     "1853570": {
         "public": {
             "buildid": "9659205",
@@ -7634,10 +7794,99 @@
             "timeupdated": "1640524313"
         }
     },
+    "1863440": {
+        "public": {
+            "buildid": "9917865",
+            "timeupdated": "1668171541"
+        },
+        "community.server.test": {
+            "buildid": "9827894",
+            "pwdrequired": "1",
+            "timeupdated": "1667043919"
+        },
+        "internal.test.a": {
+            "buildid": "9917865",
+            "pwdrequired": "1",
+            "timeupdated": "1668171534"
+        }
+    },
+    "1865350": {
+        "public": {
+            "buildid": "8809028",
+            "timeupdated": "1653499456"
+        }
+    },
+    "1874900": {
+        "public": {
+            "buildid": "9848024",
+            "timeupdated": "1668085471"
+        },
+        "experimental": {
+            "buildid": "9916271",
+            "pwdrequired": "1",
+            "timeupdated": "1668155861"
+        },
+        "internal": {
+            "buildid": "9926858",
+            "pwdrequired": "1",
+            "timeupdated": "1668333515"
+        },
+        "press": {
+            "buildid": "8733946",
+            "pwdrequired": "1",
+            "timeupdated": "1652777354"
+        },
+        "stable": {
+            "buildid": "9848024",
+            "pwdrequired": "1",
+            "timeupdated": "1668069615"
+        },
+        "xb_stable": {
+            "buildid": "9848024",
+            "pwdrequired": "1",
+            "timeupdated": "1668078201"
+        },
+        "xb_submission": {
+            "buildid": "9848024",
+            "pwdrequired": "1",
+            "timeupdated": "1667811217"
+        }
+    },
     "1875500": {
         "public": {
             "buildid": "8024810",
             "timeupdated": "1642206986"
+        }
+    },
+    "1890870": {
+        "public": {
+            "buildid": "9847940",
+            "timeupdated": "1667476847"
+        },
+        "experimental": {
+            "buildid": "9916071",
+            "pwdrequired": "1",
+            "timeupdated": "1668153801"
+        },
+        "internal": {
+            "buildid": "9926804",
+            "pwdrequired": "1",
+            "timeupdated": "1668332077"
+        },
+        "regiment": {
+            "buildid": "9916071",
+            "pwdrequired": "1",
+            "timeupdated": "1668173232"
+        },
+        "stable": {
+            "buildid": "9916071",
+            "pwdrequired": "1",
+            "timeupdated": "1668173240"
+        },
+        "xb_stable": {
+            "buildid": "9579414",
+            "pwdrequired": "1",
+            "timeupdated": "1664185829"
         }
     },
     "1892930": {
@@ -7699,10 +7948,254 @@
             "timeupdated": "1647356345"
         }
     },
+    "1936830": {
+        "public": {
+            "buildid": "9832077",
+            "timeupdated": "1667151052"
+        },
+        "bleeding-edge": {
+            "buildid": "9924139",
+            "description": "Constant and unstable updates",
+            "timeupdated": "1668264380"
+        }
+    },
     "1940990": {
         "public": {
             "buildid": "9898130",
             "timeupdated": "1667968956"
+        }
+    },
+    "1948990": {
+        "public": {
+            "buildid": "9906808",
+            "timeupdated": "1668059172"
+        }
+    },
+    "1951690": {
+        "public": {
+            "buildid": "9317787",
+            "timeupdated": "1660578457"
+        }
+    },
+    "1963720": {
+        "public": {
+            "buildid": "9901983",
+            "timeupdated": "1668073916"
+        },
+        "developer": {
+            "buildid": "9901983",
+            "pwdrequired": "1",
+            "timeupdated": "1668006163"
+        },
+        "testing": {
+            "buildid": "9892334",
+            "pwdrequired": "1",
+            "timeupdated": "1667908796"
+        }
+    },
+    "1964150": {
+        "public": {
+            "buildid": "9765945",
+            "timeupdated": "1666302475"
+        },
+        "beta": {
+            "buildid": "9765945",
+            "description": "beta",
+            "timeupdated": "1666302469"
+        },
+        "debug": {
+            "buildid": "9757148",
+            "description": "debug",
+            "timeupdated": "1666213435"
+        }
+    },
+    "1978540": {
+        "public": {
+            "buildid": "8952688",
+            "timeupdated": "1655420947"
+        }
+    },
+    "1978930": {
+        "public": {
+            "buildid": "9828686",
+            "timeupdated": "1667063137"
+        }
+    },
+    "1984310": {
+        "public": {
+            "buildid": "8660585",
+            "timeupdated": "1651459184"
+        }
+    },
+    "1990390": {
+        "public": {
+            "buildid": "8774125",
+            "timeupdated": "1653000283"
+        }
+    },
+    "1992220": {
+        "public": {
+            "buildid": "8684023",
+            "timeupdated": "1651755507"
+        }
+    },
+    "1999160": {
+        "public": {
+            "buildid": "9825490",
+            "timeupdated": "1667047803"
+        },
+        "development": {
+            "buildid": "9924682",
+            "pwdrequired": "1",
+            "timeupdated": "1668278323"
+        },
+        "integration": {
+            "buildid": "9684762",
+            "pwdrequired": "1",
+            "timeupdated": "1665315945"
+        },
+        "pre-prod": {
+            "buildid": "9684821",
+            "pwdrequired": "1",
+            "timeupdated": "1665317205"
+        }
+    },
+    "2005960": {
+        "public": {
+            "buildid": "8783206",
+            "timeupdated": "1653103697"
+        },
+        "nightly": {
+            "buildid": "9738311",
+            "pwdrequired": "1",
+            "timeupdated": "1666024232"
+        },
+        "preprod": {
+            "buildid": "9047872",
+            "pwdrequired": "1",
+            "timeupdated": "1656717206"
+        }
+    },
+    "2050860": {
+        "public": {
+            "buildid": "9836156",
+            "timeupdated": "1667213617"
+        },
+        "internal_test": {
+            "buildid": "9916425",
+            "pwdrequired": "1",
+            "timeupdated": "1668157654"
+        }
+    },
+    "2058450": {
+        "public": {
+            "buildid": "9866543",
+            "timeupdated": "1667532471"
+        },
+        "test": {
+            "buildid": "9866543",
+            "pwdrequired": "1",
+            "timeupdated": "1667525795"
+        }
+    },
+    "2059840": {
+        "public": {
+            "buildid": "9214490",
+            "timeupdated": "1659174664"
+        }
+    },
+    "2069670": {
+        "public": {
+            "buildid": "9537723",
+            "timeupdated": "1663434750"
+        }
+    },
+    "2070070": {
+        "public": {
+            "buildid": "9923731",
+            "timeupdated": "1668256690"
+        }
+    },
+    "2093570": {
+        "public": {
+            "buildid": "9882572",
+            "timeupdated": "1667804350"
+        },
+        "beta": {
+            "buildid": "9882572",
+            "pwdrequired": "1",
+            "timeupdated": "1667804343"
+        }
+    },
+    "2101160": {
+        "public": {
+            "buildid": "9587473",
+            "timeupdated": "1664121004"
+        }
+    },
+    "2116400": {
+        "public": {
+            "buildid": "9443525",
+            "timeupdated": "1662156177"
+        }
+    },
+    "2131400": {
+        "public": {
+            "buildid": "9757085",
+            "timeupdated": "1666213097"
+        }
+    },
+    "2132500": {
+        "public": {
+            "buildid": "9573934",
+            "timeupdated": "1663892977"
+        },
+        "testing": {
+            "buildid": "9732028",
+            "pwdrequired": "1",
+            "timeupdated": "1665937587"
+        }
+    },
+    "2138530": {
+        "public": {
+            "buildid": "9886679",
+            "timeupdated": "1667846546"
+        }
+    },
+    "2150040": {
+        "public": {
+            "buildid": "9486472",
+            "timeupdated": "1662744789"
+        }
+    },
+    "2160300": {
+        "public": {
+            "buildid": "9587346",
+            "timeupdated": "1664117968"
+        }
+    },
+    "2181210": {
+        "public": {
+            "buildid": "9905547",
+            "timeupdated": "1668043245"
+        }
+    },
+    "2192110": {
+        "public": {
+            "buildid": "9846708",
+            "timeupdated": "1667324572"
+        }
+    },
+    "2192940": {
+        "public": {
+            "buildid": "9876388",
+            "timeupdated": "1667648565"
+        }
+    },
+    "2208380": {
+        "public": {
+            "buildid": "9878893",
+            "timeupdated": "1667716100"
         }
     }
 }

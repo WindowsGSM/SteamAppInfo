@@ -1,0 +1,105 @@
+{
+    "appid": "1541640",
+    "common": {
+        "name": "Cartels Dedicated Server",
+        "type": "Tool",
+        "parent": "1539760",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "logo": "270703409479ada8d25777f9aa9427d1d25a8aa1",
+        "logo_small": "270703409479ada8d25777f9aa9427d1d25a8aa1_thumb",
+        "icon": "05954f10f323f196ab507fdbeab8ce7fc2662519",
+        "clienttga": "86ee5263f11623e8c560d88c736de63af32873a3",
+        "clienticon": "aa78329a1e1c427ab6e69949974be38d3bf8eaa1",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "1541640",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "CartelsDedicatedServer",
+        "launch": {
+            "0": {
+                "executable": "CartelsServer_Core.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "5329354416203291021"
+            },
+            "maxsize": "42086632",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "4444585935428744334"
+            },
+            "maxsize": "66706004",
+            "depotfromapp": "1007"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "maxsize": "29212173",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1541641": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "7947108137105132867"
+            },
+            "maxsize": "2230012582",
+            "encryptedmanifests": {
+                "beta": {
+                    "encrypted_gid_2": "5BB33698A60E104EC886B4F87D54D918",
+                    "encrypted_size_2": "F16632DF2ED9914169F3CEC0D055CCA4"
+                }
+            }
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "9782739",
+                "timeupdated": "1666574765"
+            },
+            "beta": {
+                "buildid": "9894152",
+                "pwdrequired": "1",
+                "timeupdated": "1667925967"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 16663587,
+    "_sha": "1c4bad05251d564977b04b90f327ec7bdbe93569",
+    "_size": 2051
+}

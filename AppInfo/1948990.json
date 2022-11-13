@@ -1,0 +1,53 @@
+{
+    "appid": "1948990",
+    "common": {
+        "name": "Snapshot VR Dedicated Server",
+        "type": "Tool",
+        "parent": "1133580",
+        "oslist": "linux",
+        "osarch": "",
+        "osextended": "",
+        "icon": "bc552d1851c5d70fc19f6a01594cfee4b0876f92",
+        "clienttga": "b3930e702b1c59d84b902385fa16f99c6d6f0bea",
+        "linuxclienticon": "0790938acb6f75e19739acd88c52b55d61cce928",
+        "clienticon": "96451f7f1da71d25382841a004aa0400f22bef48",
+        "clienticns": "615cbbf5cdd3ad8ba5f68201797b06e4ed767d4c",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "1948990"
+    },
+    "config": {
+        "installdir": "Snapshot VR Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "snapshot_server_2.7.5.x86_64",
+                "type": "server",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        },
+        "uselaunchcommandline": "1"
+    },
+    "depots": {
+        "1948991": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "3417229621491065009"
+            },
+            "maxsize": "198300363"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9906808",
+                "timeupdated": "1668059172"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 16682657,
+    "_sha": "c3ce349931a72e60f42e521e049a221c70636404",
+    "_size": 1068
+}

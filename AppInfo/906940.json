@@ -1,0 +1,177 @@
+{
+    "appid": "906940",
+    "common": {
+        "name": "LEAP Server",
+        "type": "Tool",
+        "parent": "906930",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "osarch": "",
+        "osextended": "",
+        "icon": "315768ac9b6adf21174c15697f8d52b07d40cded",
+        "clienttga": "1fcc21b40b02dd028f6a267168663ded99e87b0c",
+        "clienticon": "e1413af1078698ac8c737ab657a4d2e816876f7c",
+        "associations": {},
+        "gameid": "906940"
+    },
+    "config": {
+        "installdir": "ProjectY Server",
+        "launch": {
+            "0": {
+                "executable": "LEAPServer.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "LEAPServer.sh",
+                "type": "default",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "hasdepotsindlc": "1",
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "5329354416203291021"
+            },
+            "maxsize": "42086632",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "4444585935428744334"
+            },
+            "maxsize": "66706004",
+            "depotfromapp": "1007"
+        },
+        "906943": {
+            "name": "L.E.A.P Linux Server Depot",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "8722243814052508914",
+                "psrelease": "1334805677319790303",
+                "xbrelease": "5145068795563608647"
+            },
+            "maxsize": "1164385280",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "E6382D6B423EF485245A90A137477616",
+                    "encrypted_size_2": "E22568072140D58A5BDAB5361B3DD154"
+                },
+                "pscert": {
+                    "encrypted_gid_2": "C6E63A9CFD8F026C7D7B036A1CC49B9D",
+                    "encrypted_size_2": "1A9DF0C50F1DB3E5FDE3D2283103DF8A"
+                },
+                "release": {
+                    "encrypted_gid_2": "AD4B98ACB86A858DA1A57D17704BA5C4",
+                    "encrypted_size_2": "B46D1DA62A6730F58EBA4F160B910649"
+                },
+                "xboxcert": {
+                    "encrypted_gid_2": "C06448E8D27F596F40D063368E1BDA41",
+                    "encrypted_size_2": "EF0BE2F62CCB987E8258CA79E94F8EC3"
+                }
+            }
+        },
+        "906941": {
+            "name": "ProjectY Server Content",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "1455028853614214895",
+                "psrelease": "3272889340405778302",
+                "xbrelease": "4050279398138513219"
+            },
+            "maxsize": "1302681117",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "CB1294AEA0ED41E48CD9431CAF81EBBE",
+                    "encrypted_size_2": "26F7987314304BBE0ED92772EB596341"
+                },
+                "pscert": {
+                    "encrypted_gid_2": "CA4F213E60E0A49DBCBC97B5A31ED547",
+                    "encrypted_size_2": "ECCCA208DEC674EB8A1F49494185F59B"
+                },
+                "release": {
+                    "encrypted_gid_2": "4AE15A0BEDB7E8BD8B4EC480B1B444FA",
+                    "encrypted_size_2": "6DF7BDC9A8CC93BA6E42ED682CB8DC5D"
+                },
+                "xboxcert": {
+                    "encrypted_gid_2": "EE1D0C25E4EE7ACF6728CED28E34B380",
+                    "encrypted_size_2": "5FB8E5C5FE797FB9F006E501134B1A5A"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "9659638",
+                "timeupdated": "1664989083"
+            },
+            "development": {
+                "buildid": "9926657",
+                "pwdrequired": "1",
+                "timeupdated": "1668326963"
+            },
+            "pscert": {
+                "buildid": "9747588",
+                "description": "PS Cert",
+                "pwdrequired": "1",
+                "timeupdated": "1666126092"
+            },
+            "psrelease": {
+                "buildid": "9747588",
+                "description": "Playstation Release Server",
+                "timeupdated": "1666126100"
+            },
+            "release": {
+                "buildid": "9747588",
+                "pwdrequired": "1",
+                "timeupdated": "1666113634"
+            },
+            "xboxcert": {
+                "buildid": "9630165",
+                "description": "XBOX Cert",
+                "pwdrequired": "1",
+                "timeupdated": "1664573710"
+            },
+            "xbrelease": {
+                "buildid": "9630165",
+                "description": "Xbox Release Server",
+                "timeupdated": "1664573732"
+            }
+        }
+    },
+    "ufs": {
+        "quota": "100000000000",
+        "maxnumfiles": "10000"
+    },
+    "_missing_token": false,
+    "_change_number": 16714849,
+    "_sha": "9da6d0d4f2f8fd01077e3320e9044bb2e7f8977e",
+    "_size": 4066
+}

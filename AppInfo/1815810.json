@@ -1,0 +1,115 @@
+{
+    "appid": "1815810",
+    "common": {
+        "name": "Turbo Sliders Unlimited Dedicated Server",
+        "type": "Tool",
+        "parent": "1478340",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "osextended": "",
+        "icon": "1db0d313b596f921d94a0b36f3a4f29679a2ed50",
+        "clienttga": "b0454be713d9eac65cc5f5ae953cc090b5784b8d",
+        "clienticon": "89f7e4cfb428000fdd0fbfc7839e14581959481e",
+        "associations": {},
+        "gameid": "1815810"
+    },
+    "config": {
+        "installdir": "TSUServer",
+        "launch": {
+            "0": {
+                "executable": "TSUs.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                },
+                "description_loc": {
+                    "english": "Launches Turbo Sliders Unlimited Dedicated Server"
+                },
+                "description": "Launches Turbo Sliders Unlimited Dedicated Server"
+            },
+            "1": {
+                "executable": "TSUs.x86_64",
+                "type": "default",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                },
+                "description_loc": {
+                    "english": "Launches Turbo Sliders Unlimited Dedicated Server"
+                },
+                "description": "Launches Turbo Sliders Unlimited Dedicated Server"
+            }
+        },
+        "uselaunchcommandline": "1"
+    },
+    "depots": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "5329354416203291021"
+            },
+            "maxsize": "42086632",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "4444585935428744334"
+            },
+            "maxsize": "66706004",
+            "depotfromapp": "1007"
+        },
+        "1815811": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "6868768065228850435",
+                "beta": "6868768065228850435"
+            },
+            "maxsize": "195671754"
+        },
+        "1815812": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "3333068250210158064",
+                "beta": "3333068250210158064"
+            },
+            "maxsize": "196623211"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9916432",
+                "timeupdated": "1668171342"
+            },
+            "beta": {
+                "buildid": "9916432",
+                "description": "Next version beta branch",
+                "timeupdated": "1668157966"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 16699201,
+    "_sha": "bcd3b30e527801b31c2f0754f5959c2699dc033a",
+    "_size": 2314
+}

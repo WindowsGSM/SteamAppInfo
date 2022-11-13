@@ -1,0 +1,180 @@
+{
+    "appid": "1890870",
+    "common": {
+        "name": "Arma Reforger Experimental Server",
+        "type": "Tool",
+        "parent": "1890860",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "clienticon": "f2e50077e3e4f27253efb584f29bb1455c280d8d",
+        "clienttga": "7542ed7c17b2724ad5b6dc30f70a5c68206d926a",
+        "icon": "c10ea2f8c299f3cc3128282a09469aa258eefa0e",
+        "eulas": {
+            "0": {
+                "id": "1890870_eula_0",
+                "name": "Arma Reforger Experimental Server EULA",
+                "url": "https://store.steampowered.com//eula/1890870_eula_0",
+                "version": "1"
+            }
+        },
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "1890870"
+    },
+    "config": {
+        "installdir": "Arma Reforger Experimental Server",
+        "launch": {
+            "0": {
+                "executable": "docs\\ServerHostingDocs.bat",
+                "config": {
+                    "oslist": "windows"
+                },
+                "description_loc": {
+                    "english": "Server Hosting Docs"
+                },
+                "description": "Server Hosting Docs"
+            }
+        }
+    },
+    "depots": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "maxsize": "29212173",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1890871": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "8841616467048753664"
+            },
+            "maxsize": "2870952514",
+            "encryptedmanifests": {
+                "experimental": {
+                    "encrypted_gid_2": "611BFFA04A75B58ACAFD55836ADFB27C",
+                    "encrypted_size_2": "3BC69929F31BB9F1C21BF58B4EC3158F"
+                },
+                "internal": {
+                    "encrypted_gid_2": "5F45E300B306F53833CE7FE78B59C11F",
+                    "encrypted_size_2": "853EEB744C336365EBECAFC671D26792"
+                },
+                "regiment": {
+                    "encrypted_gid_2": "B72194ED5FCC4C7A25DDA5670D8D5DC8",
+                    "encrypted_size_2": "34633E63353372E8BF6AA50772F88675"
+                },
+                "stable": {
+                    "encrypted_gid_2": "A804186BFE74DC691EA942B84AAD68F5",
+                    "encrypted_size_2": "2C08F1DAA96BCD7CAC7CB382240810DB"
+                },
+                "xb_stable": {
+                    "encrypted_gid_2": "248B4119D4DCF5667B60025D80625E5B",
+                    "encrypted_size_2": "84EBB806C9217271F59845388F6F4455"
+                }
+            }
+        },
+        "1890872": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "6649857176600660682"
+            },
+            "maxsize": "50567936",
+            "encryptedmanifests": {
+                "experimental": {
+                    "encrypted_gid_2": "CAEFC410179D5B9B166D1E0059CC0FC0",
+                    "encrypted_size_2": "3A8325C744750E8CDC39D45E6BF97E28"
+                },
+                "internal": {
+                    "encrypted_gid_2": "1EA3829A5A492D7540EDD48C34BBF463",
+                    "encrypted_size_2": "4E5B1A12823113C121ABFA9C69D71482"
+                },
+                "regiment": {
+                    "encrypted_gid_2": "22F586E68D8678D48FC6B22AAE934741",
+                    "encrypted_size_2": "41D66CD0FA07466B76BE787691D5594C"
+                },
+                "stable": {
+                    "encrypted_gid_2": "A9557BAFAC016F487801C756F5FACAB2",
+                    "encrypted_size_2": "A93A1A661F15DA967B5A0D8FFCD1DE74"
+                },
+                "xb_stable": {
+                    "encrypted_gid_2": "85B133B548A2A2BE7B05087DC03BA9A7",
+                    "encrypted_size_2": "43B0BE2396C9782E298E8FD98BBA0778"
+                }
+            }
+        },
+        "1890873": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "7830005270124566662"
+            },
+            "maxsize": "39863344",
+            "encryptedmanifests": {
+                "experimental": {
+                    "encrypted_gid_2": "1FB3854648745B410A19EC716F85FB7F",
+                    "encrypted_size_2": "D061551538040866CE9FD9222714A697"
+                },
+                "internal": {
+                    "encrypted_gid_2": "586AF306D371A26444617074DFF716C9",
+                    "encrypted_size_2": "014F662E5592F501BF4F1DFD905FCB14"
+                },
+                "regiment": {
+                    "encrypted_gid_2": "08A4C7D786390C08FB62222F44111836",
+                    "encrypted_size_2": "60E4B3085E19F0FD364AA5C9514B3680"
+                },
+                "stable": {
+                    "encrypted_gid_2": "EDD5CA93CFAE6F07E99222D5854ED4F7",
+                    "encrypted_size_2": "8AD978CCB043A6AF4E267F2F3BF55AEF"
+                },
+                "xb_stable": {
+                    "encrypted_gid_2": "5AC7EC1E43FDD47E15A01BF455288EEA",
+                    "encrypted_size_2": "18F36302EA8DFDE78F1322DB77472A7A"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "9847940",
+                "timeupdated": "1667476847"
+            },
+            "experimental": {
+                "buildid": "9916071",
+                "pwdrequired": "1",
+                "timeupdated": "1668153801"
+            },
+            "internal": {
+                "buildid": "9926804",
+                "pwdrequired": "1",
+                "timeupdated": "1668332077"
+            },
+            "regiment": {
+                "buildid": "9916071",
+                "pwdrequired": "1",
+                "timeupdated": "1668173232"
+            },
+            "stable": {
+                "buildid": "9916071",
+                "pwdrequired": "1",
+                "timeupdated": "1668173240"
+            },
+            "xb_stable": {
+                "buildid": "9579414",
+                "pwdrequired": "1",
+                "timeupdated": "1664185829"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 16715120,
+    "_sha": "1aed3af4633ba9fb9f025d24e5f6f62bed8a3ce0",
+    "_size": 4525
+}

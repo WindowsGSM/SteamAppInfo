@@ -1,0 +1,75 @@
+{
+    "appid": "2192940",
+    "common": {
+        "name": "Coronation Dedicated Server",
+        "type": "Tool",
+        "parent": "1649920",
+        "icon": "80fd69572067eedc69ec2aa404741f5af158578e",
+        "clienticon": "b3d22de6944d8b7685f31f6621d047cfc7b07763",
+        "clienttga": "28af24aeb3e6b4f484e068be8d4db8ebb9eb88a3",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "releasestate": "released",
+        "gameid": "2192940",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "Coronation",
+        "launch": {
+            "0": {
+                "executable": "WindowsServer\\GGPServer.exe",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "5329354416203291021"
+            },
+            "maxsize": "42086632",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "4444585935428744334"
+            },
+            "maxsize": "66706004",
+            "depotfromapp": "1007"
+        },
+        "2192941": {
+            "manifests": {
+                "public": "2717452766788984347"
+            },
+            "maxsize": "2083341364"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9876388",
+                "timeupdated": "1667648565"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 16632379,
+    "_sha": "5daa968867da41d64cc7fd81912600ffd6c86739",
+    "_size": 1325
+}

@@ -1,0 +1,85 @@
+{
+    "appid": "2192110",
+    "common": {
+        "name": "Shooter Game Dedicated Server",
+        "type": "Tool",
+        "parent": "2187600",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "icon": "eb1c8aa647333c957106b419ab2f5ce7d6fe8732",
+        "clienttga": "6012ea81d68607ad0dfc5610e61f17101373c1fd",
+        "clienticon": "a99e959d4b89d36e86067b536b3620ae6e63ce07",
+        "releasestate": "released",
+        "gameid": "2192110",
+        "exfgls": "1"
+    },
+    "extended": {
+        "gamedir": "game",
+        "serverbrowsername": "???? Dedicated Servers"
+    },
+    "config": {
+        "installdir": "Shooter Game Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "GameServer.exe"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "5329354416203291021"
+            },
+            "maxsize": "42086632",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "4444585935428744334"
+            },
+            "maxsize": "66706004",
+            "depotfromapp": "1007"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "maxsize": "29212173",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "2192111": {
+            "manifests": {
+                "public": "3017006180557810959"
+            },
+            "maxsize": "343382806"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9846708",
+                "timeupdated": "1667324572"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 16586058,
+    "_sha": "35148d05cc7a1d61478e51439af39669ab26ff9d",
+    "_size": 1538
+}

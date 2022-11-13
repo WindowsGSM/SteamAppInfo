@@ -1,0 +1,114 @@
+{
+    "appid": "1936830",
+    "common": {
+        "name": "nanos world™ Dedicated Server",
+        "type": "Tool",
+        "parent": "1841660",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "osextended": "",
+        "clienttga": "0e6feeaa3fa90f5ce75e1a3b46222cd58bfe4930",
+        "clienticon": "adbbf8d718d34ab305b65e455b35c0b3f81bf9f7",
+        "icon": "8441862a40155a45c19be32d81d20c3161b4f39c",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "1936830",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "nanos-world-server",
+        "launch": {
+            "0": {
+                "executable": "NanosWorldServer.exe",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "NanosWorldServer",
+                "type": "server",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        },
+        "uselaunchcommandline": "1"
+    },
+    "depots": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "5329354416203291021"
+            },
+            "maxsize": "42086632",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "4444585935428744334"
+            },
+            "maxsize": "66706004",
+            "depotfromapp": "1007"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "maxsize": "29212173",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1936831": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "3760122852998167068",
+                "bleeding-edge": "8992182670292670540"
+            },
+            "maxsize": "24452389"
+        },
+        "1936832": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "2347615189447081519",
+                "bleeding-edge": "2700332681279255739"
+            },
+            "maxsize": "30175641"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9832077",
+                "timeupdated": "1667151052"
+            },
+            "bleeding-edge": {
+                "buildid": "9924139",
+                "description": "Constant and unstable updates",
+                "timeupdated": "1668264380"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 16710321,
+    "_sha": "a67b62d7cb83c68aeed7a2a32c39ea658ef3aab3",
+    "_size": 2133
+}

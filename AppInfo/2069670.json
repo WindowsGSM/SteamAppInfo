@@ -1,0 +1,102 @@
+{
+    "appid": "2069670",
+    "common": {
+        "name": "defect dedicated server",
+        "type": "Tool",
+        "parent": "1601160",
+        "icon": "d7909de2a535f2643d4b525280b15b6352fb31f6",
+        "clienttga": "04b2d9c8d756e44d50f42d5951063466d1b598d1",
+        "linuxclienticon": "2f1d8741052d35833ad813ea1bab59095069ac93",
+        "clienticns": "2f1d8741052d35833ad813ea1bab59095069ac93",
+        "clienticon": "55fb737c45e13f85f6d65d14e06806494fb853af",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "osarch": "",
+        "osextended": "",
+        "gameid": "2069670",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "defect dedicated server",
+        "launch": {
+            "0": {
+                "executable": "defect-dedicated-server.exe",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "defect-dedicated-server",
+                "type": "server",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "baselanguages": "english",
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "5329354416203291021"
+            },
+            "maxsize": "42086632",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "4444585935428744334"
+            },
+            "maxsize": "66706004",
+            "depotfromapp": "1007"
+        },
+        "2069671": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "1432266577870869666"
+            },
+            "maxsize": "316843"
+        },
+        "2069672": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "5078600343363911175"
+            },
+            "maxsize": "2137073"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9537723",
+                "timeupdated": "1663434750"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 16078380,
+    "_sha": "ceda8faf7e7d1ca86403fb2a283616665ad10223",
+    "_size": 1909
+}

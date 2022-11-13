@@ -1,0 +1,76 @@
+{
+    "appid": "2116400",
+    "common": {
+        "name": "Bounters Playtest Server",
+        "type": "Tool",
+        "parent": "1955420",
+        "oslist": "windows",
+        "osarch": "",
+        "osextended": "",
+        "icon": "e33574b5535a6dc68f86d97620ffe9137866ef95",
+        "clienttga": "2ae6ac46d00b5516ec6e70d571a9854446a74d36",
+        "clienticon": "9ed40925f18f52201cb76bc100543b299fbfc548",
+        "releasestate": "released",
+        "gameid": "2116400",
+        "exfgls": "1"
+    },
+    "extended": {
+        "gamedir": "Bounters",
+        "serverbrowsername": "Bounters"
+    },
+    "config": {
+        "installdir": "Bounters Playtest Server",
+        "launch": {
+            "0": {
+                "executable": "BountersServer.exe"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "5329354416203291021"
+            },
+            "maxsize": "42086632",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "4444585935428744334"
+            },
+            "maxsize": "66706004",
+            "depotfromapp": "1007"
+        },
+        "2116401": {
+            "manifests": {
+                "public": "7466374465178061311"
+            },
+            "maxsize": "149690493"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9443525",
+                "timeupdated": "1662156177"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 15929583,
+    "_sha": "da3aea097499aa2d6c030aec656bf09dec2c8d96",
+    "_size": 1349
+}

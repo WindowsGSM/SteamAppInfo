@@ -1,0 +1,85 @@
+{
+    "appid": "2093570",
+    "common": {
+        "name": "Lightphobe Dedicated Server",
+        "type": "Tool",
+        "parent": "1218470",
+        "clienticon": "15c1acb7bcf1dc61d5ca6f420c75bc6fe503f807",
+        "clienttga": "18184d24f202b23f8c8f62806fb835e22ef69445",
+        "icon": "db61c9e7b9b7703d1633c8d074704b0dfc0a5d3f",
+        "releasestate": "released",
+        "gameid": "2093570",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "Lightphobe Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "LightphobeGameServer.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "5329354416203291021"
+            },
+            "maxsize": "42086632",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "4444585935428744334"
+            },
+            "maxsize": "66706004",
+            "depotfromapp": "1007"
+        },
+        "2093571": {
+            "manifests": {
+                "public": "5400053627837306253"
+            },
+            "maxsize": "352486355",
+            "encryptedmanifests": {
+                "beta": {
+                    "encrypted_gid_2": "8CA4B5DACCED2018E55A0001646A2309",
+                    "encrypted_size_2": "721B19D8FEE3EF898FCA95219F1CBB9E"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "9882572",
+                "timeupdated": "1667804350"
+            },
+            "beta": {
+                "buildid": "9882572",
+                "pwdrequired": "1",
+                "timeupdated": "1667804343"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 16644339,
+    "_sha": "20297d76b58bed139cb5c93a49c0b28fcebb1ca4",
+    "_size": 1597
+}

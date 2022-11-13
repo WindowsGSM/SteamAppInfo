@@ -1,0 +1,74 @@
+{
+    "appid": "1984310",
+    "common": {
+        "name": "Animal Babysister Fighter Dedicated Server",
+        "type": "Tool",
+        "parent": "1538380",
+        "releasestate": "released",
+        "clienticon": "8817df52496187cef6046967a4f5e920bea6cc06",
+        "clienttga": "f54906c0f8ddcbd12475a54a6d0662dd6312a354",
+        "icon": "08db3cc4b7c49d229d785ac394d9d47d09e48ddd",
+        "oslist": "windows,linux",
+        "osarch": "",
+        "osextended": "",
+        "associations": {},
+        "gameid": "1984310"
+    },
+    "config": {
+        "installdir": "Animal Babysister Fighter Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "AnimalBabySisterServer.exe",
+                "type": "server"
+            }
+        }
+    },
+    "depots": {
+        "baselanguages": "english",
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "5329354416203291021"
+            },
+            "maxsize": "42086632",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "4444585935428744334"
+            },
+            "maxsize": "66706004",
+            "depotfromapp": "1007"
+        },
+        "1984311": {
+            "manifests": {
+                "public": "2714812161949336740"
+            },
+            "maxsize": "210432"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8660585",
+                "timeupdated": "1651459184"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 15150439,
+    "_sha": "e179ae39b7ddacade93b575891d191d43aac1a83",
+    "_size": 1379
+}

@@ -1,8 +1,133 @@
 {
     "appid": "1816360",
-    "public_only": "1",
-    "_missing_token": true,
-    "_change_number": 13303806,
-    "_sha": "2b0743b20a2b1ac5f97b362413b74569433ef179",
-    "_size": 55
+    "common": {
+        "name": "Dysterra Playtest Dedicated Server",
+        "type": "Tool",
+        "parent": "1527890",
+        "releasestate": "released",
+        "logo": "87ef2f137522dd6c48329faf5f024e7bb8e5c2c0",
+        "logo_small": "87ef2f137522dd6c48329faf5f024e7bb8e5c2c0_thumb",
+        "icon": "998c9890f7c192388f57a6b455a6271357aa7b62",
+        "clienttga": "9da89c671ff1eb4ade897cb738059814356c3f9d",
+        "clienticon": "bc7c65f6b2cad5d6613203010d895eef585b6606",
+        "small_capsule": {
+            "english": "capsule_231x87.jpg",
+            "koreana": "capsule_231x87_koreana.jpg"
+        },
+        "header_image": {
+            "english": "header.jpg",
+            "koreana": "header_koreana.jpg"
+        },
+        "library_assets": {
+            "library_capsule": "en,ko",
+            "library_hero": "en",
+            "library_logo": "en,ko",
+            "logo_position": {
+                "pinned_position": "BottomCenter",
+                "width_pct": "100",
+                "height_pct": "57.19016083254494"
+            }
+        },
+        "store_asset_mtime": "1655360664",
+        "associations": {
+            "0": {
+                "type": "developer",
+                "name": "Reality MagiQ"
+            },
+            "1": {
+                "type": "publisher",
+                "name": "Kakao Games"
+            }
+        },
+        "primary_genre": "57",
+        "genres": {
+            "0": "57"
+        },
+        "supported_languages": {
+            "english": {
+                "supported": "true",
+                "full_audio": "true"
+            },
+            "french": {
+                "supported": "true"
+            },
+            "german": {
+                "supported": "true"
+            },
+            "russian": {
+                "supported": "true"
+            },
+            "vietnamese": {
+                "supported": "true"
+            },
+            "latam": {
+                "supported": "true"
+            },
+            "japanese": {
+                "supported": "true"
+            },
+            "schinese": {
+                "supported": "true"
+            },
+            "tchinese": {
+                "supported": "true"
+            },
+            "thai": {
+                "supported": "true"
+            },
+            "brazilian": {
+                "supported": "true"
+            },
+            "koreana": {
+                "supported": "true",
+                "full_audio": "true"
+            }
+        },
+        "steam_release_date": "1661479161",
+        "gameid": "1816360",
+        "exfgls": "1"
+    },
+    "extended": {
+        "developer": "Reality MagiQ",
+        "publisher": "Kakao Games"
+    },
+    "config": {
+        "installdir": "Dysterra Playtest Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "RC/DysterraRC.exe",
+                "arguments": "1562450",
+                "type": "default"
+            }
+        }
+    },
+    "depots": {
+        "1816361": {
+            "manifests": {
+                "public": "2735139370751677576"
+            },
+            "maxsize": "2583216133",
+            "encryptedmanifests": {
+                "releasecandidate": {
+                    "encrypted_gid_2": "7DDA908EE152C3D1D1F5BBA8D8CA2A42",
+                    "encrypted_size_2": "E33D344E7209CBEF0B668B150FA69CF3"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "9413446",
+                "timeupdated": "1661850553"
+            },
+            "releasecandidate": {
+                "buildid": "9442759",
+                "pwdrequired": "1",
+                "timeupdated": "1662146135"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 15928376,
+    "_sha": "bc4c977ca7ff43df5faf666c36b400dcd5a069e3",
+    "_size": 2650
 }

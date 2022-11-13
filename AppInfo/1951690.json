@@ -1,0 +1,49 @@
+{
+    "appid": "1951690",
+    "common": {
+        "name": "Worst World Dedicated Server",
+        "type": "Tool",
+        "parent": "1828660",
+        "releasestate": "released",
+        "icon": "f5f28d65222226c4f1a439bf136d6ede3faa4f88",
+        "clienttga": "384279219295f1f356710132958c3673cfe08e71",
+        "clienticns": "e197d5ad8b4078f15f2d545bc65878e32ab9572c",
+        "linuxclienticon": "bf83c9ebb3f5fc612e2b36360f632886b434a5d7",
+        "clienticon": "1bd5e0cb47deda8316f6343928099699e104786c",
+        "associations": {},
+        "community_hub_visible": "1",
+        "gameid": "1951690",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "Dedicated Server Worst World",
+        "launch": {
+            "0": {
+                "executable": "WorstWorldServer.exe",
+                "arguments": "-server -log",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1951691": {
+            "manifests": {
+                "public": "2949613223592230181"
+            },
+            "maxsize": "488498493"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9317787",
+                "timeupdated": "1660578457"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 15733970,
+    "_sha": "21b81b3070c11124e22a565a8b3c6e2b48d06a74",
+    "_size": 1014
+}

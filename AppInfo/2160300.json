@@ -1,0 +1,54 @@
+{
+    "appid": "2160300",
+    "common": {
+        "name": "Re-Spawn Tournament Dedicated Server",
+        "type": "Tool",
+        "parent": "1590010",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "icon": "f131111ab8262f8548735b44620091c922678a0f",
+        "clienticon": "45205258086888c4e41cc69514b20bd68bf6acc0",
+        "clienttga": "d42f86b8f7ecc390eb0919517f4174c043fabcf4",
+        "clienticns": "de4b024867ea481106d6e0f873ce502e29a3f9df",
+        "linuxclienticon": "64e2256caa34f0238d71519775fe89e0cd2362e6",
+        "releasestate": "released",
+        "gameid": "2160300"
+    },
+    "config": {
+        "installdir": "WindowsServer",
+        "launch": {
+            "0": {
+                "executable": "ReSpawnServer.exe",
+                "arguments": "-log",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        },
+        "uselaunchcommandline": "1"
+    },
+    "depots": {
+        "2160301": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "6306907550989763021"
+            },
+            "maxsize": "716914551"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9587346",
+                "timeupdated": "1664117968"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 16157469,
+    "_sha": "e5eb2ac7cea77c4e83aba8671095a434dfdf341b",
+    "_size": 1075
+}

@@ -1,0 +1,96 @@
+{
+    "appid": "2005960",
+    "common": {
+        "name": "Ghosts of Tabor Dedicated Server",
+        "type": "Tool",
+        "parent": "1957780",
+        "releasestate": "released",
+        "icon": "949f408782c74c52c288a4b5473ab094dd605b3c",
+        "clienttga": "937387635bcf4858ff82e8dc29fcfd8fffdbd70f",
+        "clienticon": "3ee00f77f39c903aba309736b195437dd86d0c70",
+        "associations": {},
+        "gameid": "2005960",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "Ghosts of Tabor Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "GhostsOfTaborServer.exe",
+                "arguments": "-log",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "GhostsOfTaborServer.sh",
+                "arguments": "-log",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "2005961": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "7828031689325599530"
+            },
+            "maxsize": "383217023",
+            "encryptedmanifests": {
+                "nightly": {
+                    "encrypted_gid_2": "42A2A0DED8C239E310D2E6EF705F9867",
+                    "encrypted_size_2": "9CC08F6EEAFD30BAAD2D0F9ECD19C90F"
+                },
+                "preprod": {
+                    "encrypted_gid_2": "EA6899DC302EF4908E7AA7B4722FD8F8",
+                    "encrypted_size_2": "B209CE6C0544B1F95EDF9827C829DAFA"
+                }
+            }
+        },
+        "2005962": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "2397459629178968700"
+            },
+            "maxsize": "282109989",
+            "encryptedmanifests": {
+                "nightly": {
+                    "encrypted_gid_2": "8AE107625AF574CDFCA82C3B86DB6D6E",
+                    "encrypted_size_2": "598C0938E3FD70EBB873A5982AFAF1D1"
+                },
+                "preprod": {
+                    "encrypted_gid_2": "3C6F36ED4215AD4BE735DE00389B5503",
+                    "encrypted_size_2": "1ECD3C4F21A9E4D2FC17EF03711C0D61"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8783206",
+                "timeupdated": "1653103697"
+            },
+            "nightly": {
+                "buildid": "9738311",
+                "pwdrequired": "1",
+                "timeupdated": "1666024232"
+            },
+            "preprod": {
+                "buildid": "9047872",
+                "pwdrequired": "1",
+                "timeupdated": "1656717206"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 16394927,
+    "_sha": "beb1e2e3e4c51334de3addf6aba538f016c16517",
+    "_size": 2064
+}

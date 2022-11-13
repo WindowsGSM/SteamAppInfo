@@ -1,0 +1,99 @@
+{
+    "appid": "2101160",
+    "common": {
+        "name": "Turbo Force Dedicated Server",
+        "type": "Tool",
+        "parent": "2080940",
+        "oslist": "windows,linux",
+        "osarch": "",
+        "osextended": "",
+        "icon": "2e63e97d167ea7e6922c757f3f067aa555ae6708",
+        "clienticon": "1e22b1f650790d625ab4dc7bd68ce692043a6e94",
+        "clienttga": "fb63745b34295d0b6aee822d7c512d381d6c6349",
+        "releasestate": "released",
+        "gameid": "2101160",
+        "exfgls": "1"
+    },
+    "extended": {
+        "gamedir": "turboforce",
+        "serverbrowsername": "Turbo Force"
+    },
+    "config": {
+        "installdir": "Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "Turbo Force.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "TurboForce.x86_64",
+                "type": "default",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "5329354416203291021"
+            },
+            "maxsize": "42086632",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "4444585935428744334"
+            },
+            "maxsize": "66706004",
+            "depotfromapp": "1007"
+        },
+        "2101161": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "2653820413623394182"
+            },
+            "maxsize": "407687447"
+        },
+        "2101162": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "7181277513832874333"
+            },
+            "maxsize": "495575871"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9587473",
+                "timeupdated": "1664121004"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 16157735,
+    "_sha": "a5dde6cac1a9c5783dea47ddfde8d7a690bdb868",
+    "_size": 1747
+}

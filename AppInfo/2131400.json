@@ -1,0 +1,94 @@
+{
+    "appid": "2131400",
+    "common": {
+        "name": "VEIN Dedicated Server",
+        "type": "Tool",
+        "parent": "1857950",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "osextended": "",
+        "icon": "7573f431d9ecd0e9dc21f4406f884b92152508fd",
+        "clienticon": "b5de75f7c5f84027200fdafe0483caaeb80f7dbe",
+        "clienttga": "6012ea81d68607ad0dfc5610e61f17101373c1fd",
+        "gameid": "2131400",
+        "exfgls": "1"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "installdir": "VEIN Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "VeinServer.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                },
+                "description_loc": {
+                    "english": "VEIN Dedicated Server"
+                },
+                "description": "VEIN Dedicated Server"
+            },
+            "1": {
+                "executable": "VeinServer.sh",
+                "type": "default",
+                "config": {
+                    "oslist": "linux"
+                },
+                "description_loc": {
+                    "english": "VEIN Dedicated Server"
+                },
+                "description": "VEIN Dedicated Server"
+            }
+        },
+        "uselaunchcommandline": "1"
+    },
+    "depots": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "maxsize": "39042092",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2131401": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "1124016249182498949"
+            },
+            "maxsize": "1034130569"
+        },
+        "2131402": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "2363433965271646088"
+            },
+            "maxsize": "3595578000"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9757085",
+                "timeupdated": "1666213097"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 16422550,
+    "_sha": "d9b30ec33043c35fba33f207a40f917a401a78af",
+    "_size": 1750
+}

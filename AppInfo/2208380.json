@@ -1,0 +1,96 @@
+{
+    "appid": "2208380",
+    "common": {
+        "name": "DeadPoly Dedicated Server",
+        "type": "Tool",
+        "parent": "1621070",
+        "oslist": "windows",
+        "osarch": "",
+        "osextended": "",
+        "icon": "c9c15464be773e6a9329053fdaf4f1ec35dc61d4",
+        "clienttga": "d36353db48ef9aad5a145c93e5f1d35112c43f6f",
+        "clienticon": "18cb277f14d5eab06be34f846de924e672be48c7",
+        "releasestate": "released",
+        "gameid": "2208380"
+    },
+    "config": {
+        "installdir": "DeadPoly Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "DeadPolyServer.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                },
+                "description_loc": {
+                    "english": "DeadPoly Dedicated Server"
+                },
+                "description": "DeadPoly Dedicated Server"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "5329354416203291021"
+            },
+            "maxsize": "42086632",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "4444585935428744334"
+            },
+            "maxsize": "66706004",
+            "depotfromapp": "1007"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "maxsize": "29212173",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2208381": {
+            "manifests": {
+                "public": "3508757355518045337"
+            },
+            "maxsize": "611011519"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "9878893",
+                "timeupdated": "1667716100"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 16637444,
+    "_sha": "cdb3e020784ff06bb1dbc0ca3517853c5d55b548",
+    "_size": 1770
+}

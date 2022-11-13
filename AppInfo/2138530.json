@@ -1,0 +1,89 @@
+{
+    "appid": "2138530",
+    "common": {
+        "name": "Wrangel Island Playtest - Dedicated Server",
+        "type": "Tool",
+        "parent": "2122570",
+        "icon": "f2e357a891f4face6a8ca55efe38ce8f81c7fabd",
+        "clienttga": "5ed1de88456443c3204c4ae8c9a2e234f754b12d",
+        "clienticon": "52193a6ef7b0fa0a659e2bf895252da017f0a7eb",
+        "releasestate": "released",
+        "gameid": "2138530",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "GameProjectServer.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "5329354416203291021"
+            },
+            "maxsize": "42086632",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "4444585935428744334"
+            },
+            "maxsize": "66706004",
+            "depotfromapp": "1007"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "maxsize": "39042092",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "maxsize": "102931551",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2138531": {
+            "manifests": {
+                "public": "7402646222737590805"
+            },
+            "maxsize": "415225250"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9886679",
+                "timeupdated": "1667846546"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 16651264,
+    "_sha": "96bbc321476d45fb96c32190b1959e0284ec8da4",
+    "_size": 1587
+}

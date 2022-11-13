@@ -1,0 +1,96 @@
+{
+    "appid": "1797170",
+    "common": {
+        "name": "Thunder Tier One Dedicated Server",
+        "type": "Tool",
+        "parent": "377300",
+        "oslist": "linux",
+        "osarch": "",
+        "osextended": "",
+        "clienticns": "585254e9c4d5f47540f2771db3fc0dc189461336",
+        "clienttga": "7d6b2b254fe994bffb9d526b4fe2d847ed65ae96",
+        "icon": "ba71dc830dbbe2d840dd656a4825fa0c65b36b42",
+        "clienticon": "2c7c8f35e376a392eafa057f7446ccc87aefcc51",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "1797170"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "installdir": "TTODS",
+        "launch": {
+            "0": {
+                "executable": "Thunder2305Server.sh",
+                "type": "server",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "5329354416203291021"
+            },
+            "maxsize": "42086632",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "4444585935428744334"
+            },
+            "maxsize": "66706004",
+            "depotfromapp": "1007"
+        },
+        "1797171": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "3053997876690446809"
+            },
+            "maxsize": "2131685461",
+            "encryptedmanifests": {
+                "shipping": {
+                    "encrypted_gid_2": "43C48138441E6AFF5C9A6A76DCB68A38",
+                    "encrypted_size_2": "496F39DA53F8867FE94F9F5F2C8BD387"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "9302484",
+                "timeupdated": "1660298838"
+            },
+            "shipping": {
+                "buildid": "9302484",
+                "pwdrequired": "1",
+                "timeupdated": "1660295260"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 15709188,
+    "_sha": "0ff0dd090ca33b0346590bb95ef4bfff6298aab8",
+    "_size": 1801
+}

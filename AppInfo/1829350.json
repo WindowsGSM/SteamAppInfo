@@ -1,0 +1,138 @@
+{
+    "appid": "1829350",
+    "common": {
+        "name": "V Rising Dedicated Server",
+        "type": "Tool",
+        "parent": "1604030",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "clienttga": "e19a49b84e23e37a47ab988a262c2e78a8bfbb95",
+        "clienticon": "fc695ff131562610f3f853256a2b10b8bbfde717",
+        "icon": "4fd995aacb3d54fe7d50b39824ed55727b897e61",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "1829350"
+    },
+    "config": {
+        "installdir": "VRisingDedicatedServer",
+        "launch": {
+            "1": {
+                "executable": "README.txt",
+                "type": "manual"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "5329354416203291021"
+            },
+            "maxsize": "42086632",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "4444585935428744334"
+            },
+            "maxsize": "66706004",
+            "depotfromapp": "1007"
+        },
+        "1829351": {
+            "manifests": {
+                "public": "8383560159347571747"
+            },
+            "maxsize": "1679638534",
+            "encryptedmanifests": {
+                "beta": {
+                    "encrypted_gid_2": "FDBCE9F87BE92AC550D748A4ADA2247A",
+                    "encrypted_size_2": "6BE33A9373862986A509521BAD04C4BF"
+                },
+                "internal": {
+                    "encrypted_gid_2": "86B7B64C39E1A282EF500243C74766DC",
+                    "encrypted_size_2": "9E62D6146BFE9177964721782644ADEB"
+                },
+                "partner1": {
+                    "encrypted_gid_2": "CCEBFBD01B46ACA37685E701F96A0E4D",
+                    "encrypted_size_2": "8BF82C75A0035E3C2A49DDF75EFEF154"
+                },
+                "partner2": {
+                    "encrypted_gid_2": "AF7E1529932B2D20FFC3C20F7667F6A1",
+                    "encrypted_size_2": "28D3A0092FB04E5062932149043D31C2"
+                },
+                "partner2-official": {
+                    "encrypted_gid_2": "A3CDAC1961B9281A612A864A459F28C2",
+                    "encrypted_size_2": "EFCA1B88C89F6A5ED0AC16C5900540AC"
+                },
+                "partner2-test": {
+                    "encrypted_gid_2": "C4C27D32926FC93C45A290590DA0DACB",
+                    "encrypted_size_2": "EFFB4E3F8E592E513E21999BE27D4E39"
+                },
+                "private-test-01": {
+                    "encrypted_gid_2": "609D95EE9A047F4BA49B201CBB8A8249",
+                    "encrypted_size_2": "DE415C8A4F2261004BFC9167081834B3"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "9836832",
+                "timeupdated": "1667221200"
+            },
+            "beta": {
+                "buildid": "8677064",
+                "pwdrequired": "1",
+                "timeupdated": "1651674145"
+            },
+            "internal": {
+                "buildid": "9836832",
+                "pwdrequired": "1",
+                "timeupdated": "1667219168"
+            },
+            "partner1": {
+                "buildid": "8296305",
+                "pwdrequired": "1",
+                "timeupdated": "1646174329"
+            },
+            "partner2": {
+                "buildid": "9836820",
+                "pwdrequired": "1",
+                "timeupdated": "1667221242"
+            },
+            "partner2-official": {
+                "buildid": "9836820",
+                "pwdrequired": "1",
+                "timeupdated": "1667381868"
+            },
+            "partner2-test": {
+                "buildid": "9902553",
+                "pwdrequired": "1",
+                "timeupdated": "1668017042"
+            },
+            "private-test-01": {
+                "buildid": "9755553",
+                "pwdrequired": "1",
+                "timeupdated": "1666196445"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 16677135,
+    "_sha": "366b79bd61574d77463fabfa6bc88cfdd80326ee",
+    "_size": 3115
+}

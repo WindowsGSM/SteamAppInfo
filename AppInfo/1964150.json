@@ -1,0 +1,87 @@
+{
+    "appid": "1964150",
+    "common": {
+        "name": "Perfect Heist 2 Dedicated Server",
+        "type": "Tool",
+        "parent": "1521580",
+        "oslist": "linux",
+        "osarch": "",
+        "osextended": "",
+        "clienticon": "3428b868e3f27edefef582d3883fe79acccab154",
+        "clienttga": "4221b3e2ade69d7b7e2c9b1f402975d1be0ca1d1",
+        "icon": "6b68b550dedb143fb02c26da68e3e1e78cd4fc88",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "1964150"
+    },
+    "config": {
+        "installdir": "Perfect Heist 2 Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "PerfectHeist2Server",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "5329354416203291021"
+            },
+            "maxsize": "42086632",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "4444585935428744334"
+            },
+            "maxsize": "66706004",
+            "depotfromapp": "1007"
+        },
+        "1964151": {
+            "manifests": {
+                "public": "5929654208781865500",
+                "beta": "5929654208781865500",
+                "debug": "4817629203441448132"
+            },
+            "maxsize": "2232837756"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9765945",
+                "timeupdated": "1666302475"
+            },
+            "beta": {
+                "buildid": "9765945",
+                "description": "beta",
+                "timeupdated": "1666302469"
+            },
+            "debug": {
+                "buildid": "9757148",
+                "description": "debug",
+                "timeupdated": "1666213435"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 16436112,
+    "_sha": "5d27b70b7c99951271756aa561965850860b26d3",
+    "_size": 1623
+}

@@ -1,0 +1,112 @@
+{
+    "appid": "1086950",
+    "common": {
+        "name": "Solace Crafting Dedicated Server",
+        "type": "Tool",
+        "parent": "670260",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "clienticon": "78a72442af3f5440b87d346d7fe161207e58f8f8",
+        "clienttga": "d168307cf3b1d9161c345da5a8f14c6389dae989",
+        "icon": "f2431e900885d0bef5480e857470f0b3f30d3790",
+        "logo": "46aca9fbbc47e2856b16e291edfa453acc59196c",
+        "logo_small": "46aca9fbbc47e2856b16e291edfa453acc59196c_thumb",
+        "osextended": "",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "1086950"
+    },
+    "config": {
+        "installdir": "Solace Crafting Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "Solace Crafting.exe",
+                "type": "none",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "Solace Crafting.x86_64",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "5329354416203291021"
+            },
+            "maxsize": "42086632",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "4444585935428744334"
+            },
+            "maxsize": "66706004",
+            "depotfromapp": "1007"
+        },
+        "1086951": {
+            "name": "Solace Crafting Dedicated Server Win64",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "1510199200061887500",
+                "beta": "2933211251226298880"
+            },
+            "maxsize": "8218540207"
+        },
+        "1086952": {
+            "name": "Solace Crafting Dedicated Server Linux64",
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "1968803127547309922",
+                "beta": "3266713756380819890"
+            },
+            "maxsize": "8344803216"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9304216",
+                "timeupdated": "1660365718"
+            },
+            "beta": {
+                "buildid": "9901297",
+                "description": "beta server files",
+                "timeupdated": "1668000283"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 16674002,
+    "_sha": "9b8401c60837cd7baefe08e21b7248012eca42d2",
+    "_size": 2299
+}

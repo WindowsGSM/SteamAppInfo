@@ -1,0 +1,105 @@
+{
+    "appid": "2050860",
+    "common": {
+        "name": "Mechabellum Test Server",
+        "type": "Beta",
+        "parent": "669330",
+        "name_localized": {
+            "schinese": "钢铁战区 - 测试服务器"
+        },
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "clienticon": "d7e01aa7934564585382dfafbc0c5998ee94b54c",
+        "clienttga": "ddb15460399dba217a5b7dc4b868ee12ad3c46be",
+        "icon": "ce2b666cbb5085fbdc8eabbe200c913318f18d99",
+        "releasestate": "released",
+        "small_capsule": {
+            "english": "capsule_231x87.jpg",
+            "schinese": "capsule_231x87_schinese.jpg"
+        },
+        "header_image": {
+            "english": "header.jpg",
+            "schinese": "header_schinese.jpg"
+        },
+        "library_assets": {
+            "library_capsule": "zh-cn,en",
+            "library_hero": "en,zh-cn",
+            "library_logo": "en,zh-cn",
+            "logo_position": {
+                "pinned_position": "BottomLeft",
+                "width_pct": "48.57656508642914",
+                "height_pct": "89.74115412016147"
+            }
+        },
+        "store_asset_mtime": "1663820490",
+        "associations": {},
+        "steam_release_date": "1655782740",
+        "community_hub_visible": "1",
+        "gameid": "2050860",
+        "exfgls": "1"
+    },
+    "extended": {
+        "betaforappid": "669330"
+    },
+    "config": {
+        "installdir": "Steel Warzone Playtest",
+        "launch": {
+            "0": {
+                "executable": "game.exe",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            }
+        }
+    },
+    "depots": {
+        "2050861": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": "3168216415098929257"
+            },
+            "maxsize": "4550466034",
+            "encryptedmanifests": {
+                "internal_test": {
+                    "encrypted_gid_2": "411857EAD1CC18E5A5AA45EAAFCD97E0",
+                    "encrypted_size_2": "855D7717F6E9C9B4BFD22EDEB4DE88ED"
+                }
+            }
+        },
+        "2050862": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "7116714688479391675"
+            },
+            "encryptedmanifests": {
+                "internal_test": {
+                    "encrypted_gid_2": "72809CBC695B62D6E4C19A3E1B3E353C",
+                    "encrypted_size_2": "E3B33DB708800A8DC702697B11354FED"
+                }
+            }
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "9836156",
+                "timeupdated": "1667213617"
+            },
+            "internal_test": {
+                "buildid": "9916425",
+                "pwdrequired": "1",
+                "timeupdated": "1668157654"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 16697061,
+    "_sha": "ed36de1da7bfce3de9cbc2798a306008497bb2ca",
+    "_size": 2247
+}

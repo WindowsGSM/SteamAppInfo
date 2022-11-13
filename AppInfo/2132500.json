@@ -1,0 +1,90 @@
+{
+    "appid": "2132500",
+    "common": {
+        "name": "LAZ3RZ Dedicated Server",
+        "type": "Tool",
+        "parent": "2107280",
+        "oslist": "linux",
+        "osarch": "",
+        "osextended": "",
+        "icon": "e0ef9903da857031d91bc2ec3f85d00625622a8b",
+        "linuxclienticon": "7416e2a63ed7cbb18c9865104560d43f1331ce80",
+        "clienttga": "1e75ed79faae6da6ac89cb8405f3e08b92e0fbdf",
+        "clienticon": "b3d373394935db3ff6f723a8c76ebddfd3924c40",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "2132500",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "LAZ3RZ Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "LAZ3RZ_ds.x86_64",
+                "type": "server",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "5329354416203291021"
+            },
+            "maxsize": "42086632",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "4444585935428744334"
+            },
+            "maxsize": "66706004",
+            "depotfromapp": "1007"
+        },
+        "2132501": {
+            "manifests": {
+                "public": "6010601989948514388"
+            },
+            "maxsize": "654165219",
+            "encryptedmanifests": {
+                "testing": {
+                    "encrypted_gid_2": "49CC3EA50E48EE484F98113B949AB710",
+                    "encrypted_size_2": "F3CA3A8E5ED207BD1DA39BD6E17B570E"
+                }
+            }
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "9573934",
+                "timeupdated": "1663892977"
+            },
+            "testing": {
+                "buildid": "9732028",
+                "pwdrequired": "1",
+                "timeupdated": "1665937587"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 16384791,
+    "_sha": "ab631df88296831cffd8755ea7f85548b2c1617f",
+    "_size": 1736
+}

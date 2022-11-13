@@ -1,0 +1,139 @@
+{
+    "appid": "1963720",
+    "common": {
+        "name": "Core Keeper Dedicated Server",
+        "type": "Tool",
+        "parent": "1621690",
+        "icon": "5ac0dd5629c376aac018bce19309de956750f60a",
+        "clienttga": "06b1a17e606075f789d5be82da4f2f1383ce8c0b",
+        "clienticon": "61ad6cf2936a000a8f004cef2d4b790e76407538",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "osextended": "",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "1963720"
+    },
+    "config": {
+        "installdir": "Core Keeper Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "Launch.bat",
+                "type": "server",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "launch.sh",
+                "type": "server",
+                "config": {
+                    "oslist": "linux"
+                }
+            },
+            "2": {
+                "executable": "README.txt",
+                "type": "manual",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "3": {
+                "executable": "_readme.sh",
+                "type": "manual",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "5329354416203291021"
+            },
+            "maxsize": "42086632",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "4444585935428744334"
+            },
+            "maxsize": "66706004",
+            "depotfromapp": "1007"
+        },
+        "1963721": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "2135470870321718542"
+            },
+            "maxsize": "172938394",
+            "encryptedmanifests": {
+                "developer": {
+                    "encrypted_gid_2": "6E76F36CF10DCE9D1548AB3DCEF8DE4E",
+                    "encrypted_size_2": "A1B6DB0EBE5E827A6970BC2C6633135C"
+                },
+                "testing": {
+                    "encrypted_gid_2": "D486F739F48CA4E420D331E5A5A7BFD0",
+                    "encrypted_size_2": "C827159ACCB2F8A1FF55FFCF75C9FDF9"
+                }
+            }
+        },
+        "1963722": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "1315821339239681726"
+            },
+            "maxsize": "237049535",
+            "encryptedmanifests": {
+                "developer": {
+                    "encrypted_gid_2": "336334E49B57C928D8D526D7C75B36F8",
+                    "encrypted_size_2": "24821EB75633CE2FA8373DA083C9EC54"
+                },
+                "testing": {
+                    "encrypted_gid_2": "E29CCC6A061E6004892B5F7DDD5BD304",
+                    "encrypted_size_2": "A8BB6058E680CBB0B04A63F07FF3BBD0"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "9901983",
+                "timeupdated": "1668073916"
+            },
+            "developer": {
+                "buildid": "9901983",
+                "pwdrequired": "1",
+                "timeupdated": "1668006163"
+            },
+            "testing": {
+                "buildid": "9892334",
+                "pwdrequired": "1",
+                "timeupdated": "1667908796"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 16687473,
+    "_sha": "59693ecafa951aa965b83c919601e603a3ae7cb6",
+    "_size": 2770
+}

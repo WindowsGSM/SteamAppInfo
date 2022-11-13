@@ -1,0 +1,86 @@
+{
+    "appid": "1978540",
+    "common": {
+        "name": "dedicated servers",
+        "type": "Tool",
+        "parent": "1966610",
+        "releasestate": "released",
+        "icon": "59b3f08fe23ce3712554c860659e843fce8a290c",
+        "clienticon": "578f55da90526098fa28175cb08d28ba92798b58",
+        "clienttga": "ce02918853dc1b9c285d69b3d7f2fbe83f8167ff",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
+        "associations": {},
+        "gameid": "1978540"
+    },
+    "config": {
+        "installdir": "WindowsServer",
+        "launch": {
+            "0": {
+                "executable": "HRS_GAD_P1Server.exe",
+                "arguments": "Arguments",
+                "workingdir": "Working Dir",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "Beta Branch",
+                    "ownsdlc": "Owns DLC ID"
+                },
+                "description_loc": {
+                    "english": "Horror real street"
+                },
+                "description": "Horror real street"
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "5329354416203291021"
+            },
+            "maxsize": "42086632",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "4444585935428744334"
+            },
+            "maxsize": "66706004",
+            "depotfromapp": "1007"
+        },
+        "1978541": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            }
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "8952688",
+                "timeupdated": "1655420947"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 15354882,
+    "_sha": "5d2d93d384ae3bfa2e75af0a0ef8e16cdb213aba",
+    "_size": 1605
+}

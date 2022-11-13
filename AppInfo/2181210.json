@@ -1,0 +1,101 @@
+{
+    "appid": "2181210",
+    "common": {
+        "name": "JBMod Dedicated Server",
+        "type": "Tool",
+        "parent": "2158860",
+        "oslist": "windows,linux",
+        "osarch": "",
+        "osextended": "",
+        "clienticon": "3aaa53b17006aacdafb51236fd9501b1a86d8de7",
+        "clienttga": "d15b36c88028675275d7b4ac71d7b00a411717a4",
+        "icon": "5767cc301311dae20283f9dd39cb3e503f78c313",
+        "releasestate": "released",
+        "gameid": "2181210",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "JBMod Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "srcds.exe",
+                "arguments": "-game jbmod",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "srcds_run",
+                "arguments": "-game jbmod",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "5329354416203291021"
+            },
+            "maxsize": "42086632",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "4444585935428744334"
+            },
+            "maxsize": "66706004",
+            "depotfromapp": "1007"
+        },
+        "2181211": {
+            "manifests": {
+                "public": "6557778081126480513"
+            },
+            "maxsize": "720020312"
+        },
+        "2181212": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "4088025027382350555"
+            },
+            "maxsize": "95198376"
+        },
+        "2181213": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "3850567819068051391"
+            },
+            "maxsize": "73141136"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9905547",
+                "timeupdated": "1668043245"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 16680866,
+    "_sha": "9c721d5b01aa67b951913a0e62e2dde44f66ebe2",
+    "_size": 1775
+}

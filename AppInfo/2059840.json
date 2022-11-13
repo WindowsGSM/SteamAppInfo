@@ -1,0 +1,43 @@
+{
+    "appid": "2059840",
+    "common": {
+        "name": "Dysterra Demo Dedicated Server",
+        "type": "Tool",
+        "parent": "1724820",
+        "clienttga": "9da89c671ff1eb4ade897cb738059814356c3f9d",
+        "clienticon": "bc7c65f6b2cad5d6613203010d895eef585b6606",
+        "icon": "e9bfbfbcb61d4d5f774c947ae7a66687fd044634",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "2059840",
+        "exfgls": "1"
+    },
+    "config": {
+        "installdir": "Dysterra Demo Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "RC/DysterraRC.exe",
+                "arguments": "1724820",
+                "type": "default"
+            }
+        }
+    },
+    "depots": {
+        "2059841": {
+            "manifests": {
+                "public": "6805169627841439676"
+            },
+            "maxsize": "2730577792"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9214490",
+                "timeupdated": "1659174664"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 15847478,
+    "_sha": "a54327f4e62eabde06f8d60c4cdfa2a54b587ea7",
+    "_size": 807
+}

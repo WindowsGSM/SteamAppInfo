@@ -1,0 +1,171 @@
+{
+    "appid": "869800",
+    "common": {
+        "name": "Jabroni Brawl: Episode 3 - Dedicated Server",
+        "type": "Tool",
+        "parent": "869480",
+        "releasestate": "released",
+        "oslist": "windows,linux",
+        "osarch": "",
+        "name_localized": {
+            "russian": "Jabroni Brawl: Episode 3 - Выделенный сервер",
+            "brazilian": "Jabroni Brawl: Episode 3 - Servidor Dedicado",
+            "bulgarian": "Jabroni Brawl: Episode 3 - Специализиран сървър",
+            "portuguese": "Jabroni Brawl: Episode 3 - Servidor Dedicado",
+            "spanish": "Jabroni Brawl: Episode 3 - Servidor Dedicado",
+            "turkish": "Jabroni Brawl: Episode 3 - Adanmış sunucu",
+            "schinese": "傻缺大乱斗：第三章 - 专用服务器",
+            "tchinese": "傻樂大亂鬥：三部曲 - 專用伺服器",
+            "danish": "Jabroni Brawl: Episode 3 - Dedikeret Server"
+        },
+        "clienttga": "89d9eefc7cb121b7f3c49e7965498922c0ec807e",
+        "logo": "ffd7f84daddd27a78c9fc62b78f8423e2afe01c1",
+        "logo_small": "ffd7f84daddd27a78c9fc62b78f8423e2afe01c1_thumb",
+        "icon": "7f8ece8f6ede732e90654de9e2cc95698103a565",
+        "clienticon": "77d525c3ffc23105d358f3b5e6345b9d19585a28",
+        "associations": {},
+        "gameid": "869800",
+        "exfgls": "1"
+    },
+    "extended": {
+        "gamedir": ""
+    },
+    "config": {
+        "installdir": "Jabroni Brawl Episode 3 Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "srcds.exe",
+                "arguments": "-game jbep3 -steam",
+                "type": "server",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "srcds_run.sh",
+                "arguments": "-game jbep3 -steam",
+                "type": "server",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        },
+        "uselaunchcommandline": "1"
+    },
+    "depots": {
+        "1004": {
+            "name": "Steamworks SDK Redist (WIN32)",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "5329354416203291021"
+            },
+            "maxsize": "42086632",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "name": "Steamworks SDK Redist (OSX32)",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "name": "Steamworks SDK Redist (LINUX32)",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "4444585935428744334"
+            },
+            "maxsize": "66706004",
+            "depotfromapp": "1007"
+        },
+        "228985": {
+            "name": "VC 2013 Redist",
+            "config": {
+                "oslist": "windows"
+            },
+            "maxsize": "13699237",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "name": "VC 2019 Redist",
+            "config": {
+                "oslist": "windows"
+            },
+            "maxsize": "29212173",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "869801": {
+            "name": "JBEP3 Server Content",
+            "manifests": {
+                "public": "2915516593277248135"
+            },
+            "maxsize": "6355872693",
+            "encryptedmanifests": {
+                "prerelease": {
+                    "encrypted_gid_2": "5BCDE959020082694856B716F7BFD5EA",
+                    "encrypted_size_2": "27EC2AA0511D84ADCB8CE895C575F5C8"
+                }
+            }
+        },
+        "869802": {
+            "name": "JBEP3 Server Binaries - Windows",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "8408377044009251963"
+            },
+            "maxsize": "73995813",
+            "encryptedmanifests": {
+                "prerelease": {
+                    "encrypted_gid_2": "DEF749D35D4332970CCA2B94A788A559",
+                    "encrypted_size_2": "CB3886E87A2DB3499784409EC666D20E"
+                }
+            }
+        },
+        "869803": {
+            "name": "JBEP3 Server Binaries - Linux",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "2605904633359190744"
+            },
+            "maxsize": "143590054",
+            "encryptedmanifests": {
+                "prerelease": {
+                    "encrypted_gid_2": "8415EF1B5AD89783ECD415440DE5B81E",
+                    "encrypted_size_2": "3FF5C8E1A5087CFBA5C080A447DB414F"
+                }
+            }
+        },
+        "869804": {
+            "name": "JBEP3 Private Server Binaries"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9918456",
+                "timeupdated": "1668177133"
+            },
+            "prerelease": {
+                "buildid": "9918456",
+                "description": "Upcoming changes",
+                "pwdrequired": "1",
+                "timeupdated": "1668176960"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 16712242,
+    "_sha": "6e57ce7562e6dc06abaa0a6d7c6ba543d21427e3",
+    "_size": 4024
+}

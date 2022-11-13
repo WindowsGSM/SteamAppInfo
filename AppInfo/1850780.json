@@ -1,0 +1,98 @@
+{
+    "appid": "1850780",
+    "common": {
+        "name": "Powerjackers Dedicated Server",
+        "type": "Tool",
+        "parent": "1686070",
+        "oslist": "windows,linux",
+        "osarch": "64",
+        "osextended": "",
+        "clienticon": "c8ad47c08b56cf1edc23962a9adb1e407d20943c",
+        "clienttga": "1fd44d6732f3e37de4d40576d9968fb974937335",
+        "icon": "2ea2df3632aeeaa0712edf374f85627748045aae",
+        "linuxclienticon": "5854fa1a577a54526beeccde5940176d0db33096",
+        "releasestate": "released",
+        "associations": {},
+        "gameid": "1850780"
+    },
+    "config": {
+        "installdir": "Powerjackers Dedicated Server",
+        "launch": {
+            "0": {
+                "executable": "PowerjackersServer.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "PowerjackersServer.sh",
+                "type": "default",
+                "config": {
+                    "oslist": "linux"
+                }
+            }
+        }
+    },
+    "depots": {
+        "baselanguages": "english",
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "5329354416203291021"
+            },
+            "maxsize": "42086632",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "4444585935428744334"
+            },
+            "maxsize": "66706004",
+            "depotfromapp": "1007"
+        },
+        "1850781": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "3302356710619399337"
+            },
+            "maxsize": "3992224543"
+        },
+        "1850782": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "7527562634173203083"
+            },
+            "maxsize": "3960933619"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9494955",
+                "timeupdated": "1662933024"
+            }
+        }
+    },
+    "_missing_token": false,
+    "_change_number": 16035692,
+    "_sha": "c8447e5a146d050eb709b6b649a8891f35840520",
+    "_size": 1817
+}
