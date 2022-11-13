@@ -1,8 +1,11 @@
 # SteamAppInfo
 Get the latest steam app info json here, automatic updated every 5 minutes.
 
-## App List
 This repository only updates the dedicated server apps for game server management purposes.
+
+For the dedicated server latest branches, please check [branches.json](branches.json)
+
+## App List
 
 | AppId | Name | AppInfo Json |
 | - | - | - |
@@ -92,7 +95,6 @@ This repository only updates the dedicated server apps for game server managemen
 | `255470` | Half-Life Deathmatch: Source Dedicated server | [255470.json](AppInfo/255470.json) |
 | `258550` | Rust Dedicated Server | [258550.json](AppInfo/258550.json) |
 | `261020` | Takedown: Red Sabre Dedicated Server | [261020.json](AppInfo/261020.json) |
-| `265360` | Kingdoms Rise Dedicated Server | [265360.json](AppInfo/265360.json) |
 | `273530` | Centration Dedicated Server | [273530.json](AppInfo/273530.json) |
 | `276060` | Sven Co-op Dedicated Server | [276060.json](AppInfo/276060.json) |
 | `293030` | Contagion Dedicated Server | [293030.json](AppInfo/293030.json) |
@@ -249,7 +251,7 @@ This repository only updates the dedicated server apps for game server managemen
 | `777180` | Game Server Toolbox | [777180.json](AppInfo/777180.json) |
 | `786920` | SCP: Secret Laboratory ServerMod | [786920.json](AppInfo/786920.json) |
 | `801230` | Fog Of War - Free Edition Dedicated Server | [801230.json](AppInfo/801230.json) |
-| `805140` | Battalion 1944 Dedicated Server | [805140.json](AppInfo/805140.json) |
+| `805140` | BATTALION: Legacy Dedicated Server | [805140.json](AppInfo/805140.json) |
 | `805210` | Undoing Dedicated Server Tool | [805210.json](AppInfo/805210.json) |
 | `817300` | Base Defense Dedicated Server | [817300.json](AppInfo/817300.json) |
 | `823850` | DARCO - Reign of Elements - Dedicated Server | [823850.json](AppInfo/823850.json) |
@@ -260,6 +262,7 @@ This repository only updates the dedicated server apps for game server managemen
 | `844650` | Post Scriptum - Beta Dedicated Server | [844650.json](AppInfo/844650.json) |
 | `848490` | Murderous Pursuits Beta Dedicated Server | [848490.json](AppInfo/848490.json) |
 | `859010` | UniverCity Dedicated Server | [859010.json](AppInfo/859010.json) |
+| `869800` | Jabroni Brawl: Episode 3 - Dedicated Server | [869800.json](AppInfo/869800.json) |
 | `878760` | Realm Royale - Test Server | [878760.json](AppInfo/878760.json) |
 | `881430` | Spoxel Dedicated Server | [881430.json](AppInfo/881430.json) |
 | `881600` | Fasaria World: Ancients of Moons Server | [881600.json](AppInfo/881600.json) |
@@ -270,6 +273,7 @@ This repository only updates the dedicated server apps for game server managemen
 | `896660` | Valheim Dedicated Server | [896660.json](AppInfo/896660.json) |
 | `897590` | Memories of Mars - Dedicated Server | [897590.json](AppInfo/897590.json) |
 | `904710` | The Warhorn Dedicated Server | [904710.json](AppInfo/904710.json) |
+| `906940` | LEAP Server | [906940.json](AppInfo/906940.json) |
 | `908290` | Server Composer | [908290.json](AppInfo/908290.json) |
 | `912290` | Miscreated: Experimental Server | [912290.json](AppInfo/912290.json) |
 | `915070` | Outlaws of the Old West Dedicated Server Tool | [915070.json](AppInfo/915070.json) |
@@ -312,7 +316,9 @@ This repository only updates the dedicated server apps for game server managemen
 | `1075820` | Green Army Men - Dedicated Server | [1075820.json](AppInfo/1075820.json) |
 | `1084900` | Task Force Dedicated Server | [1084900.json](AppInfo/1084900.json) |
 | `1086350` | MekaFighters Dedicated Server | [1086350.json](AppInfo/1086350.json) |
+| `1086950` | Solace Crafting Dedicated Server | [1086950.json](AppInfo/1086950.json) |
 | `1088320` | Day of Dragons - Dedicated Server | [1088320.json](AppInfo/1088320.json) |
+| `1098260` | Creativerse Dedicated Server | [1098260.json](AppInfo/1098260.json) |
 | `1099850` | Karl BOOM Dedicated Server | [1099850.json](AppInfo/1099850.json) |
 | `1101560` | 灵魂筹码欧美服demo测试版 Soul at Stake US/EU Server Testing Demo | [1101560.json](AppInfo/1101560.json) |
 | `1110390` | Unturned Dedicated Server | [1110390.json](AppInfo/1110390.json) |
@@ -368,8 +374,9 @@ This repository only updates the dedicated server apps for game server managemen
 | `1404690` | Paint Royale Dedicated Server | [1404690.json](AppInfo/1404690.json) |
 | `1405890` | Blood Oath: When The Sword Rises dedicated server | [1405890.json](AppInfo/1405890.json) |
 | `1408910` | UGDL Dedicated Server | [1408910.json](AppInfo/1408910.json) |
-| `1413700` | Trick Shot Dedicated Server | [1413700.json](AppInfo/1413700.json) |
+| `1413700` | TrickShot Dedicated Server | [1413700.json](AppInfo/1413700.json) |
 | `1418640` | Dedicated Server | [1418640.json](AppInfo/1418640.json) |
+| `1420480` | TrickShot Demo Dedicated Server | [1420480.json](AppInfo/1420480.json) |
 | `1420710` | Night of the Dead Dedicated Server | [1420710.json](AppInfo/1420710.json) |
 | `1424230` | Holdfast: Nations At War - Dedicated Server | [1424230.json](AppInfo/1424230.json) |
 | `1427490` | ExoCorps Dedicated Server | [1427490.json](AppInfo/1427490.json) |
@@ -381,10 +388,10 @@ This repository only updates the dedicated server apps for game server managemen
 | `1479670` | Zero-based World Dedicated Server | [1479670.json](AppInfo/1479670.json) |
 | `1480080` | Notruf 112 - 2 Dedicated Server | [1480080.json](AppInfo/1480080.json) |
 | `1481590` | Zero-based World Dedicated Server Alpha | [1481590.json](AppInfo/1481590.json) |
-| `1485470` | Monogon: Echoes Dedicated Server | [1485470.json](AppInfo/1485470.json) |
 | `1502300` |  Survive the Nights Dedicated Server | [1502300.json](AppInfo/1502300.json) |
 | `1503660` | Dedicated Server | [1503660.json](AppInfo/1503660.json) |
 | `1534710` | SCP: Breakout Dedicated Server | [1534710.json](AppInfo/1534710.json) |
+| `1541640` | Cartels Dedicated Server | [1541640.json](AppInfo/1541640.json) |
 | `1549820` | Modiverse Linux Dedicated Server | [1549820.json](AppInfo/1549820.json) |
 | `1573820` | Raptor Territory Dedicated Server | [1573820.json](AppInfo/1573820.json) |
 | `1574860` | Kaboom! Dedicated Server | [1574860.json](AppInfo/1574860.json) |
@@ -407,7 +414,7 @@ This repository only updates the dedicated server apps for game server managemen
 | `1697660` | Hellbreath Dedicated Server | [1697660.json](AppInfo/1697660.json) |
 | `1717030` | Smerch Battle Arena - Dedicated Server | [1717030.json](AppInfo/1717030.json) |
 | `1722130` | Birthright Dedicated Server | [1722130.json](AppInfo/1722130.json) |
-| `1736750` | KoA Dedicated Server | [1736750.json](AppInfo/1736750.json) |
+| `1736750` | Kingdom of Atham: Server | [1736750.json](AppInfo/1736750.json) |
 | `1738800` | Outworlder Server | [1738800.json](AppInfo/1738800.json) |
 | `1748680` | Fight or Flight Dedicated Server | [1748680.json](AppInfo/1748680.json) |
 | `1750680` | Beryllium Dedicated Server | [1750680.json](AppInfo/1750680.json) |
@@ -415,24 +422,62 @@ This repository only updates the dedicated server apps for game server managemen
 | `1757500` | Isles of Avalon Dedicated Server | [1757500.json](AppInfo/1757500.json) |
 | `1757540` | Axial Drift Dedicated Server | [1757540.json](AppInfo/1757540.json) |
 | `1769020` | Afterinfection Dedicated Server | [1769020.json](AppInfo/1769020.json) |
+| `1797170` | Thunder Tier One Dedicated Server | [1797170.json](AppInfo/1797170.json) |
 | `1801260` | Spawnworks Dedicated Server | [1801260.json](AppInfo/1801260.json) |
 | `1801280` | SCP: CB Multiplayer Dedicated Server | [1801280.json](AppInfo/1801280.json) |
 | `1812770` | Dead Event Dedicated Server | [1812770.json](AppInfo/1812770.json) |
+| `1815810` | Turbo Sliders Unlimited Dedicated Server | [1815810.json](AppInfo/1815810.json) |
+| `1816360` | Dysterra Playtest Dedicated Server | [1816360.json](AppInfo/1816360.json) |
 | `1821720` | FallenSkyServer | [1821720.json](AppInfo/1821720.json) |
 | `1827320` | Isles of Yore Dedicated Server - Windows | [1827320.json](AppInfo/1827320.json) |
 | `1827330` | Isles of Yore Dedicated Server - Linux | [1827330.json](AppInfo/1827330.json) |
+| `1829350` | V Rising Dedicated Server | [1829350.json](AppInfo/1829350.json) |
 | `1830410` | Dedicated Server | [1830410.json](AppInfo/1830410.json) |
 | `1836200` | Fallout 76 Public Test Server | [1836200.json](AppInfo/1836200.json) |
+| `1850780` | Powerjackers Dedicated Server | [1850780.json](AppInfo/1850780.json) |
 | `1853570` | WTWServerFiles | [1853570.json](AppInfo/1853570.json) |
 | `1860400` | Escape from Covid Dedicated Server | [1860400.json](AppInfo/1860400.json) |
+| `1863440` | Mount & Blade II: Dedicated Server | [1863440.json](AppInfo/1863440.json) |
+| `1865350` | Chunkers Server | [1865350.json](AppInfo/1865350.json) |
+| `1874900` | Arma Reforger Server | [1874900.json](AppInfo/1874900.json) |
 | `1875500` | Treason Dedicated Server | [1875500.json](AppInfo/1875500.json) |
+| `1890870` | Arma Reforger Experimental Server | [1890870.json](AppInfo/1890870.json) |
 | `1892930` | s&box server | [1892930.json](AppInfo/1892930.json) |
-| `1899880` | BadlandServerLinux | [1899880.json](AppInfo/1899880.json) |
-| `1899970` | Badlands Dedicated Server | [1899970.json](AppInfo/1899970.json) |
+| `1899880` | BadlandsDedicatedServer | [1899880.json](AppInfo/1899880.json) |
+| `1899970` | BadlandsServerBeta | [1899970.json](AppInfo/1899970.json) |
 | `1900210` | LGS Dedicated Server | [1900210.json](AppInfo/1900210.json) |
 | `1911460` | Infinite Progression Dedicated Server | [1911460.json](AppInfo/1911460.json) |
 | `1911970` | OverShoot Battle Race [ Dedicated Server ] | [1911970.json](AppInfo/1911970.json) |
 | `1926100` | RealTennisServer | [1926100.json](AppInfo/1926100.json) |
 | `1932270` | Condemned Dedicated Server | [1932270.json](AppInfo/1932270.json) |
 | `1936460` | TheDark Dedicated Server | [1936460.json](AppInfo/1936460.json) |
+| `1936830` | nanos world™ Dedicated Server | [1936830.json](AppInfo/1936830.json) |
 | `1940990` | Ironsight Test Server | [1940990.json](AppInfo/1940990.json) |
+| `1948990` | Snapshot VR Dedicated Server | [1948990.json](AppInfo/1948990.json) |
+| `1951690` | Worst World Dedicated Server | [1951690.json](AppInfo/1951690.json) |
+| `1963720` | Core Keeper Dedicated Server | [1963720.json](AppInfo/1963720.json) |
+| `1964150` | Perfect Heist 2 Dedicated Server | [1964150.json](AppInfo/1964150.json) |
+| `1978540` | dedicated servers | [1978540.json](AppInfo/1978540.json) |
+| `1978930` | Project Speed 2 Dedicated Server | [1978930.json](AppInfo/1978930.json) |
+| `1984310` | Animal Babysister Fighter Dedicated Server | [1984310.json](AppInfo/1984310.json) |
+| `1990390` | Splitgate - Test Server | [1990390.json](AppInfo/1990390.json) |
+| `1992220` | Escape from Polykov - Dedicated Server | [1992220.json](AppInfo/1992220.json) |
+| `1999160` | Reign Of Dwarf Dedicated Server | [1999160.json](AppInfo/1999160.json) |
+| `2005960` | Ghosts of Tabor Dedicated Server | [2005960.json](AppInfo/2005960.json) |
+| `2050860` | Mechabellum Test Server | [2050860.json](AppInfo/2050860.json) |
+| `2058450` | Swords 'n Magic and Stuff Dedicated Server | [2058450.json](AppInfo/2058450.json) |
+| `2059840` | Dysterra Demo Dedicated Server | [2059840.json](AppInfo/2059840.json) |
+| `2069670` | defect dedicated server | [2069670.json](AppInfo/2069670.json) |
+| `2070070` | Zero World Dedicated Server | [2070070.json](AppInfo/2070070.json) |
+| `2093570` | Lightphobe Dedicated Server | [2093570.json](AppInfo/2093570.json) |
+| `2101160` | Turbo Force Dedicated Server | [2101160.json](AppInfo/2101160.json) |
+| `2116400` | Bounters Playtest Server | [2116400.json](AppInfo/2116400.json) |
+| `2131400` | VEIN Dedicated Server | [2131400.json](AppInfo/2131400.json) |
+| `2132500` | LAZ3RZ Dedicated Server | [2132500.json](AppInfo/2132500.json) |
+| `2138530` | Wrangel Island Playtest - Dedicated Server | [2138530.json](AppInfo/2138530.json) |
+| `2150040` | Dedicated Server | [2150040.json](AppInfo/2150040.json) |
+| `2160300` | Re-Spawn Tournament Dedicated Server | [2160300.json](AppInfo/2160300.json) |
+| `2181210` | JBMod Dedicated Server | [2181210.json](AppInfo/2181210.json) |
+| `2192110` | Shooter Game Dedicated Server | [2192110.json](AppInfo/2192110.json) |
+| `2192940` | Coronation Dedicated Server | [2192940.json](AppInfo/2192940.json) |
+| `2208380` | DeadPoly Dedicated Server | [2208380.json](AppInfo/2208380.json) |
