@@ -39,7 +39,6 @@
     },
     "depots": {
         "629801": {
-            "name": "MORDHAU Dedicated Server Windows",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -60,7 +59,6 @@
             }
         },
         "629802": {
-            "name": "MORDHAU Dedicated Server Linux",
             "config": {
                 "oslist": "linux",
                 "osarch": "64"
@@ -87,13 +85,11 @@
             },
             "development": {
                 "buildid": "9821579",
-                "description": "Dev team testing",
                 "pwdrequired": "1",
                 "timeupdated": "1666963736"
             },
             "testing": {
                 "buildid": "9810695",
-                "description": "Used for moderation team testing",
                 "pwdrequired": "1",
                 "timeupdated": "1666858248"
             }
@@ -101,6 +97,6 @@
     },
     "_missing_token": false,
     "_change_number": 16526558,
-    "_sha": "a71142df0b59c50e88af792d71d2b5264c096369",
-    "_size": 2424
+    "_sha": "908c82225f8f1693c2ce23fb77ffcd00a09a94f8",
+    "_size": 2242
 }

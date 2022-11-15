@@ -44,7 +44,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -55,7 +54,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -65,7 +63,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -76,7 +73,6 @@
             "depotfromapp": "1007"
         },
         "228988": {
-            "name": "VC 2019 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -85,7 +81,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -95,7 +90,6 @@
         },
         "baselanguages": "english",
         "928531": {
-            "name": "Prime and Load: 1776 Linux Dedicated Server Depot",
             "config": {
                 "oslist": "linux",
                 "language": ""
@@ -120,7 +114,6 @@
             }
         },
         "928532": {
-            "name": "Prime and Load: 1776 Windows Dedicated Server Depot",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -148,13 +141,11 @@
             },
             "pal_testing": {
                 "buildid": "4966159",
-                "description": "This is the testing branch",
                 "pwdrequired": "1",
                 "timeupdated": "1588266635"
             },
             "release": {
                 "buildid": "5223294",
-                "description": "This is the release branch for Oasis Hosting",
                 "pwdrequired": "1",
                 "timeupdated": "1593265700"
             }
@@ -162,6 +153,6 @@
     },
     "_missing_token": false,
     "_change_number": 15150439,
-    "_sha": "6ac4ef5bf84f8bc2f799b49ed551765199cbdcee",
-    "_size": 3783
+    "_sha": "1ce0a002c26bff9152a91135779a1df16af16da9",
+    "_size": 3345
 }

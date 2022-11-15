@@ -31,7 +31,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -42,7 +41,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -52,7 +50,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -63,7 +60,6 @@
             "depotfromapp": "1007"
         },
         "1006031": {
-            "name": "ATLAS Dedicated Server Content",
             "manifests": {
                 "public": "1047981282628193203",
                 "publictestrealm": "7242285574534009916"
@@ -94,6 +90,6 @@
     },
     "_missing_token": false,
     "_change_number": 16680827,
-    "_sha": "9fb6b919a9ff82fe63c052bb6a24efdf29ab58a1",
-    "_size": 2156
+    "_sha": "920200485e2e722799c680b0634ef210e6551989",
+    "_size": 1981
 }

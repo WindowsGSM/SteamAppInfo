@@ -29,7 +29,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -40,7 +39,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -50,7 +48,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -61,7 +58,6 @@
             "depotfromapp": "1007"
         },
         "774062": {
-            "name": "ThePrisonGame Dedicated Server Content",
             "config": {
                 "oslist": "linux"
             },
@@ -91,19 +87,16 @@
             },
             "alpha": {
                 "buildid": "2583741",
-                "description": "Early Access",
                 "pwdrequired": "1",
                 "timeupdated": "1520434267"
             },
             "beta": {
                 "buildid": "3412102",
-                "description": "Beta Closed Tests",
                 "pwdrequired": "1",
                 "timeupdated": "1545220381"
             },
             "steam": {
                 "buildid": "2418271",
-                "description": "Steam Tests",
                 "pwdrequired": "1",
                 "timeupdated": "1515321328"
             }
@@ -111,6 +104,6 @@
     },
     "_missing_token": false,
     "_change_number": 15150439,
-    "_sha": "a9efeab1f697ba0b69e3f3ba3e2251c8af02809c",
-    "_size": 2568
+    "_sha": "2438532b1aab411465ee8fdb39859d1401403cbe",
+    "_size": 2279
 }

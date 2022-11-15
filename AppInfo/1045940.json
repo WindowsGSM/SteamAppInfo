@@ -44,7 +44,6 @@
     },
     "depots": {
         "228986": {
-            "name": "VC 2015 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -53,7 +52,6 @@
             "sharedinstall": "1"
         },
         "1045941": {
-            "name": "Windows Server Depot",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -71,7 +69,6 @@
             }
         },
         "1045942": {
-            "name": "Linux Server Depot",
             "config": {
                 "oslist": "linux",
                 "language": ""
@@ -96,7 +93,6 @@
             },
             "developer": {
                 "buildid": "9906860",
-                "description": "Developer private test branch",
                 "pwdrequired": "1",
                 "timeupdated": "1668059881"
             },
@@ -109,6 +105,6 @@
     },
     "_missing_token": false,
     "_change_number": 16682732,
-    "_sha": "632c7bc503cea3ba65cf2be766bfcdd29cb86f40",
-    "_size": 2593
+    "_sha": "34aceaf49f3aa98563ae521a51dbae0d196c6f18",
+    "_size": 2448
 }

@@ -38,7 +38,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -49,7 +48,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -59,7 +57,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -70,7 +67,6 @@
             "depotfromapp": "1007"
         },
         "228986": {
-            "name": "VC 2015 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -79,7 +75,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -88,7 +83,6 @@
             "sharedinstall": "1"
         },
         "229000": {
-            "name": ".NET 3.5 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -97,7 +91,6 @@
             "sharedinstall": "1"
         },
         "229006": {
-            "name": ".NET 4.7 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -106,7 +99,6 @@
             "sharedinstall": "1"
         },
         "677101": {
-            "name": "Valnir Rok Dedicated Server Content",
             "config": {
                 "oslist": "linux"
             },
@@ -126,7 +118,6 @@
             }
         },
         "677102": {
-            "name": "Windows Server Depot",
             "config": {
                 "oslist": "windows"
             },
@@ -164,6 +155,6 @@
     },
     "_missing_token": false,
     "_change_number": 15577664,
-    "_sha": "897eb49611e963241dc8e5e377b1652f08e6aab1",
-    "_size": 3596
+    "_sha": "f504776fa29463816acbb29e4f58044fe486f390",
+    "_size": 3259
 }

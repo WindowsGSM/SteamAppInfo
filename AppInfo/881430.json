@@ -49,7 +49,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -60,7 +59,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -70,7 +68,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -81,7 +78,6 @@
             "depotfromapp": "1007"
         },
         "881431": {
-            "name": "Spoxel Dedicated Server Content",
             "manifests": {
                 "public": "5235497082458504308"
             },
@@ -94,7 +90,6 @@
             }
         },
         "881432": {
-            "name": "Spoxel Dedicated Server Depot - OSX",
             "config": {
                 "oslist": "macos"
             },
@@ -110,7 +105,6 @@
             }
         },
         "881433": {
-            "name": "Spoxel Dedicated Server Depot - LINUX",
             "config": {
                 "oslist": "linux"
             },
@@ -126,7 +120,6 @@
             }
         },
         "881434": {
-            "name": "Spoxel Dedicated Server Depot - WINDOWS",
             "config": {
                 "oslist": "windows"
             },
@@ -155,6 +148,6 @@
     },
     "_missing_token": false,
     "_change_number": 15577664,
-    "_sha": "57b3861edbc43bedb96dfb8f1de38b9b3e0045f9",
-    "_size": 3415
+    "_sha": "fd14718b564924fa6a6b33ee4fbb3b9a54441e4e",
+    "_size": 3086
 }

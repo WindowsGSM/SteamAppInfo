@@ -64,7 +64,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -75,7 +74,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -85,7 +83,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -96,7 +93,6 @@
             "depotfromapp": "1007"
         },
         "710561": {
-            "name": "Ylands Dedicated Server Content",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -179,6 +175,6 @@
     },
     "_missing_token": false,
     "_change_number": 16736956,
-    "_sha": "d14404de45980afb7a66e7ce6c3aed4a674e7308",
-    "_size": 4180
+    "_sha": "c1b3c026d97ad87a8700fb430c901f9dc4959b0c",
+    "_size": 4004
 }

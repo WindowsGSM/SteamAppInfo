@@ -61,7 +61,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -72,7 +71,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -82,7 +80,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -93,7 +90,6 @@
             "depotfromapp": "1007"
         },
         "748091": {
-            "name": "Windows 64-bit",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -131,7 +127,6 @@
             }
         },
         "748092": {
-            "name": "Windows 32-bit",
             "config": {
                 "oslist": "windows",
                 "osarch": "32"
@@ -169,7 +164,6 @@
             }
         },
         "748093": {
-            "name": "Linux 64-bit",
             "config": {
                 "oslist": "linux",
                 "osarch": "64"
@@ -207,7 +201,6 @@
             }
         },
         "748094": {
-            "name": "Linux 32-bit",
             "config": {
                 "oslist": "linux",
                 "osarch": "32"
@@ -337,7 +330,6 @@
             },
             "0.9.0-beta": {
                 "buildid": "9932245",
-                "description": " 0.9.0 beta",
                 "pwdrequired": "1",
                 "timeupdated": "1668424688"
             }
@@ -345,6 +337,6 @@
     },
     "_missing_token": false,
     "_change_number": 16724028,
-    "_sha": "8cc5ff0d6b9ec49661df776806e08e34d3691ba2",
-    "_size": 8366
+    "_sha": "e07c56bbadf79ee5209543646435f49d4a13d392",
+    "_size": 8094
 }

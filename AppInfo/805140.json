@@ -41,7 +41,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -52,7 +51,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -62,7 +60,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -73,7 +70,6 @@
             "depotfromapp": "1007"
         },
         "805141": {
-            "name": "BATTALION: Legacy Dedicated Server Content (Windows)",
             "config": {
                 "oslist": "windows"
             },
@@ -97,7 +93,6 @@
             }
         },
         "805142": {
-            "name": "BATTALION: Legacy Dedicated Server Content (Linux)",
             "config": {
                 "oslist": "linux"
             },
@@ -127,19 +122,16 @@
             },
             "main_development": {
                 "buildid": "9251731",
-                "description": "main_development",
                 "pwdrequired": "1",
                 "timeupdated": "1659608255"
             },
             "main_external": {
                 "buildid": "9333212",
-                "description": "main_external",
                 "pwdrequired": "1",
                 "timeupdated": "1660755669"
             },
             "main_shipping": {
                 "buildid": "9735810",
-                "description": "main_shipping",
                 "pwdrequired": "1",
                 "timeupdated": "1666001315"
             }
@@ -147,6 +139,6 @@
     },
     "_missing_token": false,
     "_change_number": 16390965,
-    "_sha": "bc2ceed0a384b675729e4e41ac9647c4270075f3",
-    "_size": 3531
+    "_sha": "a7e378ba030779738e7c233acddaeada8fddc932",
+    "_size": 3162
 }

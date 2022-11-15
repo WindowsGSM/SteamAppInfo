@@ -66,7 +66,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -77,7 +76,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -87,7 +85,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -98,7 +95,6 @@
             "depotfromapp": "1007"
         },
         "228988": {
-            "name": "VC 2019 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -107,7 +103,6 @@
             "sharedinstall": "1"
         },
         "229006": {
-            "name": ".NET 4.7 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -116,7 +111,6 @@
             "sharedinstall": "1"
         },
         "739592": {
-            "name": "Eco Server Win x86 Content",
             "config": {
                 "oslist": "windows",
                 "osarch": "32",
@@ -157,7 +151,6 @@
             }
         },
         "739593": {
-            "name": "Eco Server Win x64 Content",
             "config": {
                 "oslist": "windows",
                 "osarch": "64",
@@ -198,7 +191,6 @@
             }
         },
         "739594": {
-            "name": "Eco Server Mac Content",
             "config": {
                 "oslist": "macos",
                 "osarch": "64",
@@ -239,7 +231,6 @@
             }
         },
         "739595": {
-            "name": "Eco Server Linux Content",
             "config": {
                 "oslist": "linux",
                 "osarch": "64",
@@ -280,7 +271,6 @@
             }
         },
         "739591": {
-            "name": "Eco Server Content",
             "config": {
                 "language": ""
             },
@@ -408,7 +398,6 @@
             },
             "develop": {
                 "buildid": "9915810",
-                "description": "Eco Server Develop Builds",
                 "pwdrequired": "1",
                 "timeupdated": "1668151127"
             },
@@ -419,7 +408,6 @@
             },
             "release": {
                 "buildid": "9903774",
-                "description": "Eco Server Release Builds",
                 "pwdrequired": "1",
                 "timeupdated": "1668022603"
             },
@@ -430,7 +418,6 @@
             },
             "steam_china_only": {
                 "buildid": "9890207",
-                "description": "Matches china branch for Eco",
                 "pwdrequired": "1",
                 "timeupdated": "1667887119"
             }
@@ -438,6 +425,6 @@
     },
     "_missing_token": false,
     "_change_number": 16739416,
-    "_sha": "33d84a2294b2d1c811b4e78671ced3cb9582715b",
-    "_size": 11272
+    "_sha": "6328df2aa8690bfe36a1f98bf68c1ccd1c08f529",
+    "_size": 10754
 }

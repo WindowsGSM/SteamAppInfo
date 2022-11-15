@@ -63,7 +63,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -74,7 +73,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -84,7 +82,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -95,7 +92,6 @@
             "depotfromapp": "1007"
         },
         "228985": {
-            "name": "VC 2013 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -104,7 +100,6 @@
             "sharedinstall": "1"
         },
         "228986": {
-            "name": "VC 2015 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -113,7 +108,6 @@
             "sharedinstall": "1"
         },
         "228987": {
-            "name": "VC 2017 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -122,7 +116,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -131,7 +124,6 @@
             "sharedinstall": "1"
         },
         "229003": {
-            "name": ".NET 4.0 Client Profile Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -140,7 +132,6 @@
             "sharedinstall": "1"
         },
         "538481": {
-            "name": "SURVIVAL Dedicated Server Windows",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -152,7 +143,6 @@
             "maxsize": "616444192"
         },
         "538482": {
-            "name": "SURVIVAL Dedicated Server Linux",
             "config": {
                 "oslist": "linux",
                 "osarch": "64"
@@ -178,6 +168,6 @@
     },
     "_missing_token": false,
     "_change_number": 16379513,
-    "_sha": "c39b715b40dd18dc3544fc84e4d02a0cd07c253f",
-    "_size": 3817
+    "_sha": "d017ca85e8979fdb5354cdc3d6ad2d1b1ba7abad",
+    "_size": 3429
 }

@@ -29,7 +29,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -40,7 +39,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -50,7 +48,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -61,14 +58,12 @@
             "depotfromapp": "1007"
         },
         "680021": {
-            "name": "Wasteworld Server Depot",
             "manifests": {
                 "public": "1764541643659207580"
             },
             "maxsize": "1084825876"
         },
         "658171": {
-            "name": "Knowledge is Power Content",
             "manifests": {
                 "public": "8898699655536222367",
                 "test": "8433715102432096968"
@@ -89,6 +84,6 @@
     },
     "_missing_token": false,
     "_change_number": 15150439,
-    "_sha": "dcc91cdb31875144e1394a564dd5d565059fe816",
-    "_size": 1922
+    "_sha": "13bef418eb7144731b5dfac9e34d303d7f131a1c",
+    "_size": 1714
 }

@@ -28,7 +28,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -39,7 +38,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -49,7 +47,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -60,7 +57,6 @@
             "depotfromapp": "1007"
         },
         "228986": {
-            "name": "VC 2015 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -69,14 +65,12 @@
             "sharedinstall": "1"
         },
         "730811": {
-            "name": "Allegiance Server Content",
             "manifests": {
                 "public": "8517177855387682079"
             },
             "maxsize": "55233202"
         },
         "730812": {
-            "name": "Allegiance Server Executables",
             "manifests": {
                 "public": "4872761845188644453"
             },
@@ -91,6 +85,6 @@
     },
     "_missing_token": false,
     "_change_number": 16412477,
-    "_sha": "617be49e7059140901453024ae26579ef74910af",
-    "_size": 1987
+    "_sha": "e6e5075d16ece511f3e7b5b5a2c695d3fc1d19f0",
+    "_size": 1746
 }

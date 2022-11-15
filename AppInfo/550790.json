@@ -29,7 +29,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -40,7 +39,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -50,7 +48,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -61,7 +58,6 @@
             "depotfromapp": "1007"
         },
         "228986": {
-            "name": "VC 2015 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -70,7 +66,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -79,7 +74,6 @@
             "sharedinstall": "1"
         },
         "550791": {
-            "name": "Rend Internal Dev Server - Windows",
             "config": {
                 "oslist": "windows"
             },
@@ -136,6 +130,6 @@
     },
     "_missing_token": false,
     "_change_number": 15150439,
-    "_sha": "6ea90d5eb61ea2c4623c607b97b318d811ba505b",
-    "_size": 3041
+    "_sha": "4fc0e0ce33d6af7e34db9dcf8678720b42e02960",
+    "_size": 2797
 }

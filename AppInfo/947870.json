@@ -44,7 +44,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -55,7 +54,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -65,7 +63,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -76,7 +73,6 @@
             "depotfromapp": "1007"
         },
         "947871": {
-            "name": "Starcross Arena Dedicated Server Content",
             "config": {
                 "oslist": "windows"
             },
@@ -96,7 +92,6 @@
             }
         },
         "947872": {
-            "name": "Starcross Arena Dedicated Server Linux Depot",
             "config": {
                 "oslist": "linux"
             },
@@ -118,7 +113,6 @@
             },
             "alpha": {
                 "buildid": "4763707",
-                "description": "Alpha Testing Branch",
                 "pwdrequired": "1",
                 "timeupdated": "1583876621"
             },
@@ -131,6 +125,6 @@
     },
     "_missing_token": false,
     "_change_number": 15150439,
-    "_sha": "29412f962b4289cdd1ae107757442b5ed100bb20",
-    "_size": 2950
+    "_sha": "ff52e41ff4d8c1faf3b781f7a995934456d62ba6",
+    "_size": 2665
 }

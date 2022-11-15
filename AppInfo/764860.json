@@ -35,7 +35,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -46,7 +45,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -56,7 +54,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -67,7 +64,6 @@
             "depotfromapp": "1007"
         },
         "228986": {
-            "name": "VC 2015 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -76,7 +72,6 @@
             "sharedinstall": "1"
         },
         "764861": {
-            "name": "Jetball Server Content",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -87,7 +82,6 @@
             "maxsize": "318451874"
         },
         "764862": {
-            "name": "Jetball Linux Server Depot",
             "config": {
                 "oslist": "linux",
                 "osarch": "64"
@@ -106,6 +100,6 @@
     },
     "_missing_token": false,
     "_change_number": 15150439,
-    "_sha": "89a15fa909e090ab7a2c4d609d08c51cb77846cb",
-    "_size": 2255
+    "_sha": "e8d7b69d0d55f51f48f86d6efa1cfebc6479d356",
+    "_size": 2020
 }

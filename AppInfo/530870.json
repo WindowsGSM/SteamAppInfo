@@ -33,7 +33,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -44,7 +43,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -54,7 +52,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -65,7 +62,6 @@
             "depotfromapp": "1007"
         },
         "228988": {
-            "name": "VC 2019 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -74,7 +70,6 @@
             "sharedinstall": "1"
         },
         "530871": {
-            "name": "Dedicated Server Content",
             "manifests": {
                 "public": "3709661122267538722",
                 "alpha10": "4139613444459975471",
@@ -161,37 +156,31 @@
             },
             "closedalpha": {
                 "buildid": "9943978",
-                "description": "Closed Alpha testing",
                 "pwdrequired": "1",
                 "timeupdated": "1668544475"
             },
             "eleononly": {
                 "buildid": "9943978",
-                "description": "Eleon team branch",
                 "pwdrequired": "1",
                 "timeupdated": "1668539364"
             },
             "eleontest": {
                 "buildid": "9744049",
-                "description": "Eleon internal testing",
                 "pwdrequired": "1",
                 "timeupdated": "1666081854"
             },
             "experimental": {
                 "buildid": "9746628",
-                "description": "Experimental branch",
                 "pwdrequired": "1",
                 "timeupdated": "1666106398"
             },
             "internal": {
                 "buildid": "9943978",
-                "description": "For the team only",
                 "pwdrequired": "1",
                 "timeupdated": "1668539878"
             },
             "steamtest": {
                 "buildid": "9855454",
-                "description": "Special Tests",
                 "pwdrequired": "1",
                 "timeupdated": "1667412376"
             }
@@ -199,6 +188,6 @@
     },
     "_missing_token": false,
     "_change_number": 16743699,
-    "_sha": "6043f1289ef525997e2ded275c029868b77b2c73",
-    "_size": 4949
+    "_sha": "9d28c2da22109d1913107b08053ac3c6af2a9748",
+    "_size": 4512
 }

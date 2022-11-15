@@ -40,7 +40,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -51,7 +50,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -61,7 +59,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -72,7 +69,6 @@
             "depotfromapp": "1007"
         },
         "944491": {
-            "name": "Vox Machinae Dedicated Server Content",
             "manifests": {
                 "public": "6215797843193933326",
                 "beta": "1429627011501106236",
@@ -81,7 +77,6 @@
             "maxsize": "52695614"
         },
         "944492": {
-            "name": "Vox Machinae Dedicated Server Linux",
             "config": {
                 "oslist": "linux"
             },
@@ -93,7 +88,6 @@
             "maxsize": "109077078"
         },
         "944494": {
-            "name": "Vox Machinae Dedicated Server Windows",
             "config": {
                 "oslist": "windows"
             },
@@ -123,6 +117,6 @@
     },
     "_missing_token": false,
     "_change_number": 16692922,
-    "_sha": "b073821e8c6a3eca7a2788cf91210aec3049abfe",
-    "_size": 2772
+    "_sha": "a95e36fb4ef8a39da5b6410ce5e3e8493f4540d7",
+    "_size": 2490
 }

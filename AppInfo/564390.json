@@ -43,7 +43,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -54,7 +53,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -64,7 +62,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -75,7 +72,6 @@
             "depotfromapp": "1007"
         },
         "564391": {
-            "name": "SS2017_ServerBin_Windows",
             "config": {
                 "oslist": "windows"
             },
@@ -97,7 +93,6 @@
             }
         },
         "564392": {
-            "name": "SS2017_ServerBin_Linux",
             "config": {
                 "oslist": "linux"
             },
@@ -119,7 +114,6 @@
             }
         },
         "564393": {
-            "name": "SS2017_ServerBin_OSX",
             "config": {
                 "oslist": "macos"
             },
@@ -141,13 +135,11 @@
             }
         },
         "564315": {
-            "name": "SS2017_Common_Shared",
             "maxsize": "622695576",
             "depotfromapp": "564310",
             "sharedinstall": "2"
         },
         "564316": {
-            "name": "SS2017_Common_Windows",
             "config": {
                 "oslist": "windows"
             },
@@ -156,7 +148,6 @@
             "sharedinstall": "2"
         },
         "564317": {
-            "name": "SS2017_Common_Linux",
             "config": {
                 "oslist": "linux"
             },
@@ -165,7 +156,6 @@
             "sharedinstall": "2"
         },
         "564318": {
-            "name": "SS2017_Common_OSX",
             "config": {
                 "oslist": "macos"
             },
@@ -174,35 +164,30 @@
             "sharedinstall": "2"
         },
         "564320": {
-            "name": "SS2017_Content_TFE",
             "dlcappid": "564320",
             "maxsize": "1442210446",
             "depotfromapp": "564310",
             "sharedinstall": "2"
         },
         "564321": {
-            "name": "SS2017_Content_TSE",
             "dlcappid": "564321",
             "maxsize": "2443411138",
             "depotfromapp": "564310",
             "sharedinstall": "2"
         },
         "564322": {
-            "name": "SS2017_Content_LotB",
             "dlcappid": "564322",
             "maxsize": "355177490",
             "depotfromapp": "564310",
             "sharedinstall": "2"
         },
         "564323": {
-            "name": "SS2017_Content_BFE",
             "dlcappid": "564323",
             "maxsize": "3677768100",
             "depotfromapp": "564310",
             "sharedinstall": "2"
         },
         "564324": {
-            "name": "SS2017_Content_JotN",
             "dlcappid": "564324",
             "maxsize": "411864345",
             "depotfromapp": "564310",
@@ -215,13 +200,11 @@
             },
             "closedbeta": {
                 "buildid": "4488978",
-                "description": "For beta testers.",
                 "pwdrequired": "1",
                 "timeupdated": "1576234694"
             },
             "internal": {
                 "buildid": "8212503",
-                "description": "Internal testing",
                 "pwdrequired": "1",
                 "timeupdated": "1645003711"
             },
@@ -237,6 +220,6 @@
     },
     "_missing_token": false,
     "_change_number": 15150439,
-    "_sha": "cb9e1ff25b61dfe8d14769f2e196edd73f45da20",
-    "_size": 5334
+    "_sha": "f1bc6751e491035ccec524294fa94dc961b36227",
+    "_size": 4723
 }

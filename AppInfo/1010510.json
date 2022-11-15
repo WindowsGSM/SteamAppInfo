@@ -38,7 +38,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -49,7 +48,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -59,7 +57,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -70,7 +67,6 @@
             "depotfromapp": "1007"
         },
         "228985": {
-            "name": "VC 2013 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -79,7 +75,6 @@
             "sharedinstall": "1"
         },
         "228987": {
-            "name": "VC 2017 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -88,7 +83,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -97,7 +91,6 @@
             "sharedinstall": "1"
         },
         "1010512": {
-            "name": "DCB Server Depot 64 bit",
             "config": {
                 "osarch": "64"
             },
@@ -107,7 +100,6 @@
             "maxsize": "864614387"
         },
         "1010513": {
-            "name": "DCB Server Depot 32 bit",
             "config": {
                 "osarch": "32"
             },
@@ -125,6 +117,6 @@
     },
     "_missing_token": false,
     "_change_number": 15150439,
-    "_sha": "314fa2b91d46af3fdd05820c01dde091af83b6d7",
-    "_size": 2503
+    "_sha": "c568b81b5467797bfde1c9589a15ad09b36df018",
+    "_size": 2205
 }

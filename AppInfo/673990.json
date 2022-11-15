@@ -31,7 +31,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -42,7 +41,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -52,7 +50,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -63,7 +60,6 @@
             "depotfromapp": "1007"
         },
         "673991": {
-            "name": "Shared Server Depot",
             "config": {
                 "oslist": "windows,linux"
             },
@@ -85,7 +81,6 @@
             }
         },
         "673992": {
-            "name": "Windows Server Depot",
             "config": {
                 "oslist": "windows"
             },
@@ -107,7 +102,6 @@
             }
         },
         "673993": {
-            "name": "Linux Server Depot",
             "config": {
                 "oslist": "linux"
             },
@@ -145,13 +139,11 @@
             },
             "donator": {
                 "buildid": "9555764",
-                "description": "Donator testing branch",
                 "pwdrequired": "1",
                 "timeupdated": "1663706494"
             },
             "testing": {
                 "buildid": "9159013",
-                "description": "TESTING",
                 "pwdrequired": "1",
                 "timeupdated": "1662255290"
             }
@@ -159,6 +151,6 @@
     },
     "_missing_token": false,
     "_change_number": 16719739,
-    "_sha": "5c96bad31265555c28665a07c8bce781824b8a39",
-    "_size": 3800
+    "_sha": "9fbc4ef5016e81fcca36fc7f3a856fc15434a3ba",
+    "_size": 3497
 }

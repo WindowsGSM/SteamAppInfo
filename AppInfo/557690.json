@@ -38,7 +38,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -49,7 +48,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -59,7 +57,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -70,7 +67,6 @@
             "depotfromapp": "1007"
         },
         "557691": {
-            "name": "Vengeance: Dedicated Server Linux 64",
             "config": {
                 "oslist": "linux",
                 "osarch": "64"
@@ -81,7 +77,6 @@
             "maxsize": "1292362485"
         },
         "557692": {
-            "name": "Vengeance: Dedicated Server Windows 64",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -100,6 +95,6 @@
     },
     "_missing_token": false,
     "_change_number": 15150439,
-    "_sha": "fea56335e522daf8fcfe3aec3e985780d5eeafb7",
-    "_size": 2113
+    "_sha": "efbf854a41fb4ac455662531cc2fa071fdd2be47",
+    "_size": 1880
 }

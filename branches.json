@@ -3020,7 +3020,6 @@
         },
         "10261_test": {
             "buildid": "2171227",
-            "description": "for test issue 10261 only",
             "pwdrequired": "1",
             "timeupdated": "1507211377"
         },
@@ -3235,37 +3234,31 @@
         },
         "closedalpha": {
             "buildid": "9943978",
-            "description": "Closed Alpha testing",
             "pwdrequired": "1",
             "timeupdated": "1668544475"
         },
         "eleononly": {
             "buildid": "9943978",
-            "description": "Eleon team branch",
             "pwdrequired": "1",
             "timeupdated": "1668539364"
         },
         "eleontest": {
             "buildid": "9744049",
-            "description": "Eleon internal testing",
             "pwdrequired": "1",
             "timeupdated": "1666081854"
         },
         "experimental": {
             "buildid": "9746628",
-            "description": "Experimental branch",
             "pwdrequired": "1",
             "timeupdated": "1666106398"
         },
         "internal": {
             "buildid": "9943978",
-            "description": "For the team only",
             "pwdrequired": "1",
             "timeupdated": "1668539878"
         },
         "steamtest": {
             "buildid": "9855454",
-            "description": "Special Tests",
             "pwdrequired": "1",
             "timeupdated": "1667412376"
         }
@@ -3340,7 +3333,6 @@
         },
         "beta": {
             "buildid": "4500243",
-            "description": "Dedicated Server Beta",
             "pwdrequired": "1",
             "timeupdated": "1576545018"
         }
@@ -3399,7 +3391,6 @@
         },
         "ds_beta_testing": {
             "buildid": "4123733",
-            "description": "beta",
             "pwdrequired": "1",
             "timeupdated": "1566333298"
         },
@@ -3443,7 +3434,6 @@
         },
         "developer": {
             "buildid": "1774651",
-            "description": "Developer testing changes.",
             "pwdrequired": "1",
             "timeupdated": "1492871138"
         }
@@ -3455,13 +3445,11 @@
         },
         "closedbeta": {
             "buildid": "4488978",
-            "description": "For beta testers.",
             "pwdrequired": "1",
             "timeupdated": "1576234694"
         },
         "internal": {
             "buildid": "8212503",
-            "description": "Internal testing",
             "pwdrequired": "1",
             "timeupdated": "1645003711"
         },
@@ -3546,7 +3534,6 @@
         },
         "internal-testing": {
             "buildid": "8213531",
-            "description": "Internal testing branch",
             "pwdrequired": "1",
             "timeupdated": "1645014789"
         },
@@ -3563,7 +3550,6 @@
         },
         "developer-only": {
             "buildid": "7791313",
-            "description": "Development",
             "pwdrequired": "1",
             "timeupdated": "1638130969"
         },
@@ -3585,25 +3571,21 @@
         },
         "external": {
             "buildid": "1993732",
-            "description": "Denuvo",
             "pwdrequired": "1",
             "timeupdated": "1501234360"
         },
         "external_testing_2": {
             "buildid": "1993732",
-            "description": "Test builds for external QA",
             "pwdrequired": "1",
             "timeupdated": "1501226792"
         },
         "internal_testing": {
             "buildid": "1777533",
-            "description": "Test builds, or pre-release testing",
             "pwdrequired": "1",
             "timeupdated": "1500983932"
         },
         "nightly": {
             "buildid": "1987665",
-            "description": "Latest nightly (unstable)",
             "pwdrequired": "1",
             "timeupdated": "1501055177"
         },
@@ -3614,25 +3596,21 @@
         },
         "se4devbeta": {
             "buildid": "1993732",
-            "description": "Stable build",
             "pwdrequired": "1",
             "timeupdated": "1501234332"
         },
         "alienfx": {
             "buildid": "2024060",
-            "description": "AlienFX testing",
             "pwdrequired": "1",
             "timeupdated": "1502273549"
         },
         "external_testing": {
             "buildid": "1985344",
-            "description": "Test builds for external QA",
             "pwdrequired": "1",
             "timeupdated": "1500983439"
         },
         "internal_testing_2": {
             "buildid": "1955221",
-            "description": "Test builds, or pre-release testing",
             "pwdrequired": "1",
             "timeupdated": "1500377813"
         }
@@ -3655,7 +3633,6 @@
         },
         "community_test": {
             "buildid": "9930641",
-            "description": "Community test server",
             "pwdrequired": "1",
             "timeupdated": "1668404682"
         },
@@ -3671,7 +3648,6 @@
         },
         "playthrough": {
             "buildid": "9883221",
-            "description": "playthrough",
             "pwdrequired": "1",
             "timeupdated": "1667845837"
         },
@@ -3697,7 +3673,6 @@
         },
         "ss_egs_1": {
             "buildid": "7583759",
-            "description": "ss_egs_1",
             "pwdrequired": "1",
             "timeupdated": "1634928574"
         },
@@ -3733,7 +3708,6 @@
         },
         "ss_marketing": {
             "buildid": "8502981",
-            "description": "ss_marketing",
             "pwdrequired": "1",
             "timeupdated": "1649189652"
         },
@@ -3744,7 +3718,6 @@
         },
         "streams": {
             "buildid": "9857102",
-            "description": "streams",
             "pwdrequired": "1",
             "timeupdated": "1668117621"
         },
@@ -3755,19 +3728,16 @@
         },
         "unstable": {
             "buildid": "9159674",
-            "description": "Latest",
             "pwdrequired": "1",
             "timeupdated": "1658354344"
         },
         "unstable_shipping": {
             "buildid": "8142746",
-            "description": "Latest (Shipping)",
             "pwdrequired": "1",
             "timeupdated": "1653580496"
         },
         "unstable_test": {
             "buildid": "8316421",
-            "description": "Latest (Test)",
             "pwdrequired": "1",
             "timeupdated": "1646419334"
         }
@@ -3818,25 +3788,21 @@
         },
         "closedtestingbranch": {
             "buildid": "3344061",
-            "description": "Closed testing build",
             "pwdrequired": "1",
             "timeupdated": "1543337114"
         },
         "experimental": {
             "buildid": "3229618",
-            "description": "Experimental server build",
             "pwdrequired": "1",
             "timeupdated": "1539969490"
         },
         "hellionrp": {
             "buildid": "2591042",
-            "description": "uHostPro",
             "pwdrequired": "1",
             "timeupdated": "1520615875"
         },
         "specialevent": {
             "buildid": "2779147",
-            "description": "specialevent",
             "pwdrequired": "1",
             "timeupdated": "1526481239"
         }
@@ -3853,7 +3819,6 @@
         },
         "devbranch": {
             "buildid": "9437672",
-            "description": "dev branch for latest testing",
             "pwdrequired": "1",
             "timeupdated": "1662093425"
         },
@@ -3875,7 +3840,6 @@
         },
         "devtest": {
             "buildid": "4301265",
-            "description": "StarworkGC's test branch",
             "pwdrequired": "1",
             "timeupdated": "1571406890"
         }
@@ -3899,7 +3863,6 @@
         },
         "experimental": {
             "buildid": "6221911",
-            "description": "testing out balance rework",
             "pwdrequired": "1",
             "timeupdated": "1613003676"
         }
@@ -3950,7 +3913,6 @@
         },
         "autobuilds": {
             "buildid": "5735419",
-            "description": "Automated Server Builds",
             "pwdrequired": "1",
             "timeupdated": "1603672796"
         }
@@ -3989,25 +3951,21 @@
         },
         "nighly": {
             "buildid": "9944914",
-            "description": "nighly builds",
             "pwdrequired": "1",
             "timeupdated": "1668548783"
         },
         "nighly_arm64": {
             "buildid": "8774567",
-            "description": "nighly builds arm64",
             "pwdrequired": "1",
             "timeupdated": "1653004510"
         },
         "nighly_shack": {
             "buildid": "9944833",
-            "description": "nighly builds for shack",
             "pwdrequired": "1",
             "timeupdated": "1668547922"
         },
         "nighly_shack_arm64": {
             "buildid": "8816294",
-            "description": "nighly builds for shack arm64",
             "pwdrequired": "1",
             "timeupdated": "1653585272"
         },
@@ -4032,31 +3990,26 @@
         },
         "none": {
             "buildid": "2816154",
-            "description": "None",
             "pwdrequired": "1",
             "timeupdated": "1527616334"
         },
         "pts-a": {
             "buildid": "9937114",
-            "description": "Pup pts-a branch",
             "pwdrequired": "1",
             "timeupdated": "1668474667"
         },
         "pts-b": {
             "buildid": "8680393",
-            "description": "Pup pts-b branch",
             "pwdrequired": "1",
             "timeupdated": "1651766475"
         },
         "pts-stable": {
             "buildid": "3597594",
-            "description": "Deprecated -> Pup pts-stable branch",
             "pwdrequired": "1",
             "timeupdated": "1551227497"
         },
         "pts_test": {
             "buildid": "5710835",
-            "description": "PTS_TEST",
             "pwdrequired": "1",
             "timeupdated": "1603211983"
         },
@@ -4084,13 +4037,11 @@
         },
         "development": {
             "buildid": "9821579",
-            "description": "Dev team testing",
             "pwdrequired": "1",
             "timeupdated": "1666963736"
         },
         "testing": {
             "buildid": "9810695",
-            "description": "Used for moderation team testing",
             "pwdrequired": "1",
             "timeupdated": "1666858248"
         }
@@ -4102,37 +4053,31 @@
         },
         "closedtest": {
             "buildid": "3158816",
-            "description": "DNL/Dev Builds for testing",
             "pwdrequired": "1",
             "timeupdated": "1538010947"
         },
         "closedtestb": {
             "buildid": "4376452",
-            "description": "B test",
             "pwdrequired": "1",
             "timeupdated": "1573542373"
         },
         "development": {
             "buildid": "4314306",
-            "description": "DNL\\Dev",
             "pwdrequired": "1",
             "timeupdated": "1571811687"
         },
         "marketing": {
             "buildid": "2449676",
-            "description": "marketing-test",
             "pwdrequired": "1",
             "timeupdated": "1516344501"
         },
         "pre-release": {
             "buildid": "2997520",
-            "description": "A pre-release version, only for expansion testing.",
             "pwdrequired": "1",
             "timeupdated": "1533605320"
         },
         "staging": {
             "buildid": "3106354",
-            "description": "DNL/Staging builds",
             "pwdrequired": "1",
             "timeupdated": "1536648671"
         }
@@ -4156,19 +4101,16 @@
         },
         "consoles": {
             "buildid": "8629786",
-            "description": "aaa",
             "pwdrequired": "1",
             "timeupdated": "1654776950"
         },
         "historical_internal": {
             "buildid": "8135130",
-            "description": "QA debug branch",
             "pwdrequired": "1",
             "timeupdated": "1655151626"
         },
         "sdk_test": {
             "buildid": "7904137",
-            "description": "sdk updates 2021-12-17",
             "pwdrequired": "1",
             "timeupdated": "1639794221"
         },
@@ -4179,19 +4121,16 @@
         },
         "staging": {
             "buildid": "9823364",
-            "description": "Prep here before release",
             "pwdrequired": "1",
             "timeupdated": "1666976299"
         },
         "staging_alpha": {
             "buildid": "9833226",
-            "description": "auto-pushed to live for internal testing",
             "pwdrequired": "1",
             "timeupdated": "1667171843"
         },
         "staging_tx": {
             "buildid": "9862659",
-            "description": "staging_tx",
             "pwdrequired": "1",
             "timeupdated": "1667487454"
         }
@@ -4219,13 +4158,11 @@
         },
         "closed_beta": {
             "buildid": "5862820",
-            "description": "Closed test branch",
             "pwdrequired": "1",
             "timeupdated": "1605940442"
         },
         "private": {
             "buildid": "9772687",
-            "description": "Private test branch",
             "pwdrequired": "1",
             "timeupdated": "1666371547"
         },
@@ -4242,7 +4179,6 @@
         },
         "testing_branch": {
             "buildid": "7930526",
-            "description": "Private testing branch",
             "pwdrequired": "1",
             "timeupdated": "1640227843"
         }
@@ -4264,13 +4200,11 @@
         },
         "donator": {
             "buildid": "9555764",
-            "description": "Donator testing branch",
             "pwdrequired": "1",
             "timeupdated": "1663706494"
         },
         "testing": {
             "buildid": "9159013",
-            "description": "TESTING",
             "pwdrequired": "1",
             "timeupdated": "1662255290"
         }
@@ -4342,25 +4276,21 @@
         },
         "developer": {
             "buildid": "9902604",
-            "description": "developer",
             "pwdrequired": "1",
             "timeupdated": "1668011384"
         },
         "publicqa": {
             "buildid": "9876030",
-            "description": "private",
             "pwdrequired": "1",
             "timeupdated": "1667639877"
         },
         "server": {
             "buildid": "9876030",
-            "description": "server",
             "pwdrequired": "1",
             "timeupdated": "1667639913"
         },
         "staff": {
             "buildid": "9876030",
-            "description": "developer",
             "pwdrequired": "1",
             "timeupdated": "1667639920"
         }
@@ -4372,7 +4302,6 @@
         },
         "alex-branch": {
             "buildid": "2981969",
-            "description": "Alex's DS builds",
             "pwdrequired": "1",
             "timeupdated": "1532676966"
         },
@@ -4383,37 +4312,31 @@
         },
         "gill-branch": {
             "buildid": "3135616",
-            "description": "Gill's DS Builds",
             "pwdrequired": "1",
             "timeupdated": "1537349122"
         },
         "jason-branch": {
             "buildid": "2154885",
-            "description": "Jason's ds builds",
             "pwdrequired": "1",
             "timeupdated": "1506591177"
         },
         "jenny-branch": {
             "buildid": "2758059",
-            "description": "Jenny's DS builds",
             "pwdrequired": "1",
             "timeupdated": "1525858720"
         },
         "martin-branch": {
             "buildid": "2774866",
-            "description": "Martin's DS builds",
             "pwdrequired": "1",
             "timeupdated": "1526377381"
         },
         "neil-branch": {
             "buildid": "3354114",
-            "description": "Neil's DS builds",
             "pwdrequired": "1",
             "timeupdated": "1543574576"
         },
         "playtest": {
             "buildid": "3313705",
-            "description": "For playtests",
             "pwdrequired": "1",
             "timeupdated": "1542372356"
         },
@@ -4424,7 +4347,6 @@
         },
         "release-approved": {
             "buildid": "2773020",
-            "description": "The latest build that has been approved for release",
             "pwdrequired": "1",
             "timeupdated": "1526562579"
         },
@@ -4440,13 +4362,11 @@
         },
         "studio-development": {
             "buildid": "3111672",
-            "description": "Dedicated server Dev builds",
             "pwdrequired": "1",
             "timeupdated": "1536677311"
         },
         "studio-release": {
             "buildid": "3111675",
-            "description": "Dedicated Server Release Builds",
             "pwdrequired": "1",
             "timeupdated": "1536677346"
         }
@@ -4469,7 +4389,6 @@
         },
         "development": {
             "buildid": "5912476",
-            "description": "For Development Use Only",
             "pwdrequired": "1",
             "timeupdated": "1606932296"
         }
@@ -4481,7 +4400,6 @@
         },
         "beta": {
             "buildid": "4199649",
-            "description": "Test before update",
             "pwdrequired": "1",
             "timeupdated": "1568631324"
         }
@@ -4558,109 +4476,91 @@
         },
         "astro_ds": {
             "buildid": "5174285",
-            "description": "ds test integration",
             "pwdrequired": "1",
             "timeupdated": "1592332548"
         },
         "astro_rc": {
             "buildid": "9855888",
-            "description": "Latest Release Candidate build",
             "pwdrequired": "1",
             "timeupdated": "1667416205"
         },
         "astro_rc_dev": {
             "buildid": "9435508",
-            "description": "Latest Release Candidate development build",
             "pwdrequired": "1",
             "timeupdated": "1662065899"
         },
         "astrodev_et": {
             "buildid": "6973110",
-            "description": "Dev external test build",
             "pwdrequired": "1",
             "timeupdated": "1625269121"
         },
         "astrodev_profiling": {
             "buildid": "5978708",
-            "description": "dev performance testing",
             "pwdrequired": "1",
             "timeupdated": "1608162001"
         },
         "astromain_dailies": {
             "buildid": "9940056",
-            "description": "Main Dailies",
             "pwdrequired": "1",
             "timeupdated": "1668506448"
         },
         "astromain_incremental": {
             "buildid": "9945125",
-            "description": "Main incremental builds\t",
             "pwdrequired": "1",
             "timeupdated": "1668550938"
         },
         "astromain_su": {
             "buildid": "9940032",
-            "description": "dedicated server testing",
             "pwdrequired": "1",
             "timeupdated": "1668506236"
         },
         "astroneer_beta": {
             "buildid": "9017581",
-            "description": "Closed beta testing",
             "pwdrequired": "1",
             "timeupdated": "1657131278"
         },
         "astrortx_cu": {
             "buildid": "6995950",
-            "description": "RTX shipping",
             "pwdrequired": "1",
             "timeupdated": "1625771349"
         },
         "astrortx_cu_dev": {
             "buildid": "6996172",
-            "description": "RTX non shipping",
             "pwdrequired": "1",
             "timeupdated": "1625771378"
         },
         "astrortx_dailies": {
             "buildid": "9827618",
-            "description": "RTX Dailies",
             "pwdrequired": "1",
             "timeupdated": "1667037223"
         },
         "astrortx_ds": {
             "buildid": "4245868",
-            "description": "ds test integration rtx",
             "pwdrequired": "1",
             "timeupdated": "1570462692"
         },
         "astrortx_et": {
             "buildid": "5406765",
-            "description": "external testing",
             "pwdrequired": "1",
             "timeupdated": "1597525015"
         },
         "astrortx_incremental": {
             "buildid": "9855767",
-            "description": "RTX incremental builds\t",
             "pwdrequired": "1",
             "timeupdated": "1667415106"
         },
         "debug": {
             "buildid": "2409203",
-            "description": "debug",
             "pwdrequired": "1",
             "timeupdated": "1515082662"
         },
         "internal_playtest": {
             "buildid": "8890319",
-            "description": "internal playtest",
             "pwdrequired": "1",
             "timeupdated": "1654632818"
         },
         "qa_sandbox": {
             "buildid": "9434971",
-            "description": "For QA use",
             "pwdrequired": "1",
             "timeupdated": "1667583565"
         }
@@ -4678,7 +4578,6 @@
         },
         "devel": {
             "buildid": "2634490",
-            "description": "Development build",
             "pwdrequired": "1",
             "timeupdated": "1522084151"
         }
@@ -4770,7 +4669,6 @@
         },
         "develop": {
             "buildid": "9915810",
-            "description": "Eco Server Develop Builds",
             "pwdrequired": "1",
             "timeupdated": "1668151127"
         },
@@ -4781,7 +4679,6 @@
         },
         "release": {
             "buildid": "9903774",
-            "description": "Eco Server Release Builds",
             "pwdrequired": "1",
             "timeupdated": "1668022603"
         },
@@ -4792,7 +4689,6 @@
         },
         "steam_china_only": {
             "buildid": "9890207",
-            "description": "Matches china branch for Eco",
             "pwdrequired": "1",
             "timeupdated": "1667887119"
         }
@@ -4815,7 +4711,6 @@
         },
         "421last": {
             "buildid": "8252175",
-            "description": "last 4.21 live build",
             "pwdrequired": "1",
             "timeupdated": "1645620932"
         },
@@ -4825,19 +4720,16 @@
         },
         "mercury": {
             "buildid": "8227247",
-            "description": "mercurydedicated",
             "pwdrequired": "1",
             "timeupdated": "1645238117"
         },
         "newbuild-release": {
             "buildid": "9935504",
-            "description": "Build for internal tests",
             "pwdrequired": "1",
             "timeupdated": "1668455940"
         },
         "validation-branch": {
             "buildid": "9656460",
-            "description": "Validation before public",
             "pwdrequired": "1",
             "timeupdated": "1666709152"
         }
@@ -4935,7 +4827,6 @@
         },
         "0.9.0-beta": {
             "buildid": "9932245",
-            "description": " 0.9.0 beta",
             "pwdrequired": "1",
             "timeupdated": "1668424688"
         }
@@ -4979,13 +4870,11 @@
         },
         "development": {
             "buildid": "4519183",
-            "description": "Development Server",
             "pwdrequired": "1",
             "timeupdated": "1576966982"
         },
         "release": {
             "buildid": "4464718",
-            "description": "Release Server",
             "pwdrequired": "1",
             "timeupdated": "1575596558"
         }
@@ -5003,25 +4892,21 @@
         },
         "internal": {
             "buildid": "4038693",
-            "description": "Branch for testing builds internally",
             "pwdrequired": "1",
             "timeupdated": "1563930672"
         },
         "release": {
             "buildid": "4018298",
-            "description": "Public version test",
             "pwdrequired": "1",
             "timeupdated": "1563348273"
         },
         "staging": {
             "buildid": "3453126",
-            "description": "Branch for testing Staging builds internally",
             "pwdrequired": "1",
             "timeupdated": "1547517701"
         },
         "testing": {
             "buildid": "3633759",
-            "description": "Branch for engineering to test builds",
             "pwdrequired": "1",
             "timeupdated": "1552289129"
         }
@@ -5033,37 +4918,31 @@
         },
         "current": {
             "buildid": "8722750",
-            "description": "Current build",
             "pwdrequired": "1",
             "timeupdated": "1653918066"
         },
         "gamesweek": {
             "buildid": "9762825",
-            "description": "Paris Games Week",
             "pwdrequired": "1",
             "timeupdated": "1667809454"
         },
         "latest": {
             "buildid": "9942956",
-            "description": "latest uploaded build",
             "pwdrequired": "1",
             "timeupdated": "1668530587"
         },
         "lightweight_profiler": {
             "buildid": "9765837",
-            "description": "lightweight_profiler",
             "pwdrequired": "1",
             "timeupdated": "1666301135"
         },
         "mkt_recording": {
             "buildid": "9764443",
-            "description": "mkt_recording",
             "pwdrequired": "1",
             "timeupdated": "1666355640"
         },
         "playtest_external": {
             "buildid": "9914498",
-            "description": "playtest_external",
             "pwdrequired": "1",
             "timeupdated": "1668536357"
         },
@@ -5090,19 +4969,16 @@
         },
         "alpha": {
             "buildid": "2583741",
-            "description": "Early Access",
             "pwdrequired": "1",
             "timeupdated": "1520434267"
         },
         "beta": {
             "buildid": "3412102",
-            "description": "Beta Closed Tests",
             "pwdrequired": "1",
             "timeupdated": "1545220381"
         },
         "steam": {
             "buildid": "2418271",
-            "description": "Steam Tests",
             "pwdrequired": "1",
             "timeupdated": "1515321328"
         }
@@ -5129,157 +5005,131 @@
         },
         "uat_community_hosting": {
             "buildid": "9430722",
-            "description": "Community Hosting for UAT",
             "pwdrequired": "1",
             "timeupdated": "1662022714"
         },
         "uat_content": {
             "buildid": "9935823",
-            "description": "Content stream nightly",
             "pwdrequired": "1",
             "timeupdated": "1668458719"
         },
         "uat_content_pt": {
             "buildid": "9792054",
-            "description": "Content stream playtest",
             "pwdrequired": "1",
             "timeupdated": "1666676159"
         },
         "uat_cpt": {
             "buildid": "9902333",
-            "description": "Branch for Community PlayTest Group Testing",
             "pwdrequired": "1",
             "timeupdated": "1668044769"
         },
         "uat_crashtest": {
             "buildid": "9817487",
-            "description": "Crash test branch",
             "pwdrequired": "1",
             "timeupdated": "1666920015"
         },
         "uat_features": {
             "buildid": "6075329",
-            "description": "Features stream",
             "pwdrequired": "1",
             "timeupdated": "1611010726"
         },
         "uat_features_rc": {
             "buildid": "5206646",
-            "description": "Features stream nightly",
             "pwdrequired": "1",
             "timeupdated": "1592965032"
         },
         "uat_featuretest1": {
             "buildid": "9917174",
-            "description": "Generic feature test branch 1",
             "pwdrequired": "1",
             "timeupdated": "1668468900"
         },
         "uat_featuretest10": {
             "buildid": "9431220",
-            "description": " Generic feature test branch 10",
             "pwdrequired": "1",
             "timeupdated": "1662026157"
         },
         "uat_featuretest11": {
             "buildid": "9942260",
-            "description": " Generic feature test branch 11",
             "pwdrequired": "1",
             "timeupdated": "1668524577"
         },
         "uat_featuretest2": {
             "buildid": "9709078",
-            "description": "Generic feature test branch 2",
             "pwdrequired": "1",
             "timeupdated": "1665675637"
         },
         "uat_featuretest3": {
             "buildid": "9866229",
-            "description": "Generic feature test branch 3",
             "pwdrequired": "1",
             "timeupdated": "1667866201"
         },
         "uat_featuretest4": {
             "buildid": "9725482",
-            "description": "Generic feature test branch 4",
             "pwdrequired": "1",
             "timeupdated": "1667930798"
         },
         "uat_featuretest5": {
             "buildid": "9382597",
-            "description": "Generic feature test branch 5",
             "pwdrequired": "1",
             "timeupdated": "1661387597"
         },
         "uat_featuretest6": {
             "buildid": "9801712",
-            "description": " Generic feature test branch 6",
             "pwdrequired": "1",
             "timeupdated": "1666769602"
         },
         "uat_featuretest7": {
             "buildid": "9856218",
-            "description": " Generic feature test branch 7",
             "pwdrequired": "1",
             "timeupdated": "1667419498"
         },
         "uat_featuretest8": {
             "buildid": "9837693",
-            "description": "Generic feature test branch 8",
             "pwdrequired": "1",
             "timeupdated": "1667225395"
         },
         "uat_featuretest9": {
             "buildid": "9707785",
-            "description": " Generic feature test branch 9",
             "pwdrequired": "1",
             "timeupdated": "1665599642"
         },
         "uat_functionality_test": {
             "buildid": "9856218",
-            "description": "Branch for testing specific functionality",
             "pwdrequired": "1",
             "timeupdated": "1668020595"
         },
         "uat_main": {
             "buildid": "8515669",
-            "description": "Latest MAIN branch builds",
             "pwdrequired": "1",
             "timeupdated": "1649340519"
         },
         "uat_main_rc": {
             "buildid": "5862657",
-            "description": "Main RC",
             "pwdrequired": "1",
             "timeupdated": "1606165095"
         },
         "uat_ppt": {
             "buildid": "8926785",
-            "description": "Branch for Partner Program Members Testing",
             "pwdrequired": "1",
             "timeupdated": "1655158780"
         },
         "uat_release": {
             "buildid": "9942736",
-            "description": "Latest RELEASE branch builds",
             "pwdrequired": "1",
             "timeupdated": "1668528625"
         },
         "hlod_test": {
             "buildid": "8410387",
-            "description": "testing hlod related stuff",
             "pwdrequired": "1",
             "timeupdated": "1647875304"
         },
         "uat_experimental": {
             "buildid": "9855771",
-            "description": "uat_experimental (Experimental features public)",
             "pwdrequired": "1",
             "timeupdated": "1667859150"
         },
         "uat_internalpt": {
             "buildid": "8008430",
-            "description": "uat_internalpt (Internal playtesting)",
             "pwdrequired": "1",
             "timeupdated": "1642018651"
         }
@@ -5332,7 +5182,6 @@
         },
         "devel": {
             "buildid": "2796026",
-            "description": "Development build",
             "pwdrequired": "1",
             "timeupdated": "1526994098"
         }
@@ -5344,19 +5193,16 @@
         },
         "main_development": {
             "buildid": "9251731",
-            "description": "main_development",
             "pwdrequired": "1",
             "timeupdated": "1659608255"
         },
         "main_external": {
             "buildid": "9333212",
-            "description": "main_external",
             "pwdrequired": "1",
             "timeupdated": "1660755669"
         },
         "main_shipping": {
             "buildid": "9735810",
-            "description": "main_shipping",
             "pwdrequired": "1",
             "timeupdated": "1666001315"
         }
@@ -5380,13 +5226,11 @@
         },
         "development": {
             "buildid": "3218705",
-            "description": "Development",
             "pwdrequired": "1",
             "timeupdated": "1539720275"
         },
         "test": {
             "buildid": "3218705",
-            "description": "Testing, pre dev in beta",
             "pwdrequired": "1",
             "timeupdated": "1539720075"
         }
@@ -5398,7 +5242,6 @@
         },
         "beta": {
             "buildid": "8102310",
-            "description": "Internal testing branch",
             "pwdrequired": "1",
             "timeupdated": "1643343505"
         }
@@ -5410,37 +5253,31 @@
         },
         "171test": {
             "buildid": "4124601",
-            "description": "X",
             "pwdrequired": "1",
             "timeupdated": "1588830696"
         },
         "171test_1": {
             "buildid": "4773707",
-            "description": "P",
             "pwdrequired": "1",
             "timeupdated": "1584089511"
         },
         "171test_2": {
             "buildid": "4124601",
-            "description": "S",
             "pwdrequired": "1",
             "timeupdated": "1567155788"
         },
         "chinatest": {
             "buildid": "4046568",
-            "description": "Steam test",
             "pwdrequired": "1",
             "timeupdated": "1564127836"
         },
         "dlctest": {
             "buildid": "9810038",
-            "description": "DLCtest",
             "pwdrequired": "1",
             "timeupdated": "1666852335"
         },
         "fullrelease": {
             "buildid": "4042834",
-            "description": "FullyReleaseTest",
             "pwdrequired": "1",
             "timeupdated": "1564036086"
         }
@@ -5464,43 +5301,36 @@
         },
         "chapter4": {
             "buildid": "9491192",
-            "description": "chapter 4 testing build",
             "pwdrequired": "1",
             "timeupdated": "1662911842"
         },
         "maginot": {
             "buildid": "7800080",
-            "description": "maginot map testing",
             "pwdrequired": "1",
             "timeupdated": "1638332370"
         },
         "mercuryarts": {
             "buildid": "9833110",
-            "description": "Dedicated test server for Mercury",
             "pwdrequired": "1",
             "timeupdated": "1667169235"
         },
         "mercuryarts-newbuild": {
             "buildid": "9727983",
-            "description": "Dedicated for Mercury builds",
             "pwdrequired": "1",
             "timeupdated": "1665832810"
         },
         "newbuild-release": {
             "buildid": "9935644",
-            "description": "Internal Test Build",
             "pwdrequired": "1",
             "timeupdated": "1668457032"
         },
         "oldgame": {
             "buildid": "2957919",
-            "description": "old game",
             "pwdrequired": "1",
             "timeupdated": "1652206134"
         },
         "validation-branch": {
             "buildid": "9510628",
-            "description": "QA Test Build",
             "pwdrequired": "1",
             "timeupdated": "1663139273"
         },
@@ -5529,7 +5359,6 @@
         },
         "prerelease": {
             "buildid": "9944149",
-            "description": "Upcoming changes",
             "pwdrequired": "1",
             "timeupdated": "1668540914"
         }
@@ -5541,7 +5370,6 @@
         },
         "pts_latest": {
             "buildid": "9943618",
-            "description": "For game team testing before public release",
             "pwdrequired": "1",
             "timeupdated": "1668536129"
         }
@@ -5570,15 +5398,13 @@
         },
         "developers": {
             "buildid": "9873559",
-            "description": "Developers-only branch",
             "pwdrequired": "1",
             "timeupdated": "1667598133"
         },
         "tester": {
-            "buildid": "9938328",
-            "description": "Tester branch",
+            "buildid": "9945329",
             "pwdrequired": "1",
-            "timeupdated": "1668487634"
+            "timeupdated": "1668553305"
         }
     },
     "884110": {
@@ -5588,13 +5414,11 @@
         },
         "debug": {
             "buildid": "8187461",
-            "description": "Uh oh",
             "pwdrequired": "1",
             "timeupdated": "1644625969"
         },
         "indev": {
             "buildid": "9933154",
-            "description": "Likely unstable builds",
             "pwdrequired": "1",
             "timeupdated": "1668433113"
         }
@@ -5623,19 +5447,16 @@
         },
         "experimental": {
             "buildid": "9939103",
-            "description": "Experimental version of Valheim",
             "pwdrequired": "1",
             "timeupdated": "1668498811"
         },
         "internal-test": {
             "buildid": "9821514",
-            "description": "For internal use only",
             "pwdrequired": "1",
             "timeupdated": "1666961742"
         },
         "public-test": {
             "buildid": "9792153",
-            "description": "Public test version of Valheim. Please backup you save data before using.",
             "pwdrequired": "1",
             "timeupdated": "1666697686"
         }
@@ -5662,7 +5483,6 @@
         },
         "official": {
             "buildid": "2937113",
-            "description": "Branch for official servers",
             "pwdrequired": "1",
             "timeupdated": "1531324916"
         },
@@ -5673,7 +5493,6 @@
         },
         "private_server": {
             "buildid": "4400344",
-            "description": "test branch for private servers",
             "pwdrequired": "1",
             "timeupdated": "1574079625"
         }
@@ -5689,7 +5508,6 @@
         },
         "experimental": {
             "buildid": "9928120",
-            "description": "UE5 Version",
             "pwdrequired": "1",
             "timeupdated": "1668361985"
         }
@@ -5706,7 +5524,6 @@
         },
         "pscert": {
             "buildid": "9747588",
-            "description": "PS Cert",
             "pwdrequired": "1",
             "timeupdated": "1666126092"
         },
@@ -5722,7 +5539,6 @@
         },
         "xboxcert": {
             "buildid": "9630165",
-            "description": "XBOX Cert",
             "pwdrequired": "1",
             "timeupdated": "1664573710"
         },
@@ -5745,7 +5561,6 @@
         },
         "development": {
             "buildid": "7915345",
-            "description": "Internal dev branch",
             "pwdrequired": "1",
             "timeupdated": "1640025192"
         },
@@ -5789,13 +5604,11 @@
         },
         "profiling": {
             "buildid": "8049305",
-            "description": "Profiling",
             "pwdrequired": "1",
             "timeupdated": "1656941753"
         },
         "staging": {
             "buildid": "9914681",
-            "description": "Preparing the patch",
             "pwdrequired": "1",
             "timeupdated": "1668135897"
         }
@@ -5812,13 +5625,11 @@
         },
         "pal_testing": {
             "buildid": "4966159",
-            "description": "This is the testing branch",
             "pwdrequired": "1",
             "timeupdated": "1588266635"
         },
         "release": {
             "buildid": "5223294",
-            "description": "This is the release branch for Oasis Hosting",
             "pwdrequired": "1",
             "timeupdated": "1593265700"
         }
@@ -5845,13 +5656,11 @@
         },
         "coc_staging": {
             "buildid": "8904759",
-            "description": "CoC QA Stabilization",
             "pwdrequired": "1",
             "timeupdated": "1654786728"
         },
         "cocplaytest": {
             "buildid": "9372102",
-            "description": "CoC Playtest",
             "pwdrequired": "1",
             "timeupdated": "1661441531"
         }
@@ -5879,7 +5688,6 @@
         },
         "alpha": {
             "buildid": "4763707",
-            "description": "Alpha Testing Branch",
             "pwdrequired": "1",
             "timeupdated": "1583876621"
         },
@@ -5947,7 +5755,6 @@
         },
         "test": {
             "buildid": "4196317",
-            "description": "test branch",
             "pwdrequired": "1",
             "timeupdated": "1568460131"
         }
@@ -5975,91 +5782,76 @@
         },
         "arith1": {
             "buildid": "9238467",
-            "description": "Arith QA Branch",
             "pwdrequired": "1",
             "timeupdated": "1659463726"
         },
         "ava-test": {
             "buildid": "9938093",
-            "description": "Ava's testing branch",
             "pwdrequired": "1",
             "timeupdated": "1668485000"
         },
         "beryl-test": {
             "buildid": "9814752",
-            "description": "beryl test branch",
             "pwdrequired": "1",
             "timeupdated": "1666891600"
         },
         "deputation": {
             "buildid": "9847620",
-            "description": "italian lmaoo",
             "pwdrequired": "1",
             "timeupdated": "1667333301"
         },
         "goop": {
             "buildid": "9588167",
-            "description": "PurpleGoop's testing branch",
             "pwdrequired": "1",
             "timeupdated": "1664180444"
         },
         "hube-testing": {
             "buildid": "9943781",
-            "description": "Hubert's testing branch",
             "pwdrequired": "1",
             "timeupdated": "1668541880"
         },
         "killers-test": {
             "buildid": "9923849",
-            "description": "killers test branch",
             "pwdrequired": "1",
             "timeupdated": "1668261203"
         },
         "mith-test": {
             "buildid": "9928932",
-            "description": "Mith's testing branch",
             "pwdrequired": "1",
             "timeupdated": "1668378354"
         },
         "mr-testing": {
             "buildid": "9934905",
-            "description": "Multipurpose merge request testing branch for internal use.\t",
             "pwdrequired": "1",
             "timeupdated": "1668458381"
         },
         "mr-testing-2": {
             "buildid": "9881217",
-            "description": "Multipurpose merge request testing branch for internal use. (Again!)",
             "pwdrequired": "1",
             "timeupdated": "1667779613"
         },
         "nightly": {
             "buildid": "9937920",
-            "description": "Nightly SCP:SL build",
             "pwdrequired": "1",
             "timeupdated": "1668482976"
         },
         "privbeta": {
             "buildid": "9873598",
-            "description": "privbeta server build",
             "pwdrequired": "1",
             "timeupdated": "1667663748"
         },
         "qa-testing": {
             "buildid": "9755836",
-            "description": "Private beta branch for QA Testing.",
             "pwdrequired": "1",
             "timeupdated": "1666207157"
         },
         "tech": {
             "buildid": "9925361",
-            "description": "Technical branch",
             "pwdrequired": "1",
             "timeupdated": "1668294710"
         },
         "thomasjosif-test": {
             "buildid": "9224866",
-            "description": "I promise this branch won't global ban you",
             "pwdrequired": "1",
             "timeupdated": "1659280668"
         }
@@ -6136,13 +5928,11 @@
         },
         "alpha": {
             "buildid": "9880266",
-            "description": "private alpha branch",
             "pwdrequired": "1",
             "timeupdated": "1667756631"
         },
         "beta": {
             "buildid": "4452303",
-            "description": "private beta branch",
             "pwdrequired": "1",
             "timeupdated": "1575325423"
         }
@@ -6193,7 +5983,6 @@
         },
         "developer": {
             "buildid": "9906860",
-            "description": "Developer private test branch",
             "pwdrequired": "1",
             "timeupdated": "1668059881"
         },
@@ -6264,25 +6053,21 @@
         },
         "closed-testing": {
             "buildid": "9422573",
-            "description": "closed testing branch",
             "pwdrequired": "1",
             "timeupdated": "1661954927"
         },
         "internal": {
             "buildid": "9945167",
-            "description": "development branch",
             "pwdrequired": "1",
             "timeupdated": "1668551455"
         },
         "public-testing": {
             "buildid": "7650308",
-            "description": "public testing branch",
             "pwdrequired": "1",
             "timeupdated": "1650300156"
         },
         "release": {
             "buildid": "9801170",
-            "description": "release branch",
             "pwdrequired": "1",
             "timeupdated": "1666764057"
         }
@@ -6355,19 +6140,16 @@
         },
         "nodecraft": {
             "buildid": "8151858",
-            "description": "Host config testing",
             "pwdrequired": "1",
             "timeupdated": "1644089322"
         },
         "test": {
             "buildid": "9588565",
-            "description": "Private test server",
             "pwdrequired": "1",
             "timeupdated": "1664148140"
         },
         "upload": {
             "buildid": "9701215",
-            "description": "Latest server build",
             "pwdrequired": "1",
             "timeupdated": "1665532448"
         }
@@ -6379,13 +6161,11 @@
         },
         "standalone": {
             "buildid": "9922341",
-            "description": "CV Standalone",
             "pwdrequired": "1",
             "timeupdated": "1668226427"
         },
         "upcoming": {
             "buildid": "9943715",
-            "description": "upcoming release",
             "pwdrequired": "1",
             "timeupdated": "1668536915"
         }
@@ -7483,9 +7263,9 @@
             "timeupdated": "1660058541"
         },
         "staging": {
-            "buildid": "9940632",
+            "buildid": "9945331",
             "pwdrequired": "1",
-            "timeupdated": "1668511310"
+            "timeupdated": "1668553308"
         }
     },
     "1697660": {

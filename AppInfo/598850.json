@@ -30,7 +30,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -41,7 +40,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -51,7 +49,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -62,7 +59,6 @@
             "depotfromapp": "1007"
         },
         "228986": {
-            "name": "VC 2015 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -71,7 +67,6 @@
             "sharedinstall": "1"
         },
         "229005": {
-            "name": ".NET 4.6 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -80,7 +75,6 @@
             "sharedinstall": "1"
         },
         "598851": {
-            "name": "Hellion Dedicated Server Content",
             "config": {
                 "oslist": "windows"
             },
@@ -114,25 +108,21 @@
             },
             "closedtestingbranch": {
                 "buildid": "3344061",
-                "description": "Closed testing build",
                 "pwdrequired": "1",
                 "timeupdated": "1543337114"
             },
             "experimental": {
                 "buildid": "3229618",
-                "description": "Experimental server build",
                 "pwdrequired": "1",
                 "timeupdated": "1539969490"
             },
             "hellionrp": {
                 "buildid": "2591042",
-                "description": "uHostPro",
                 "pwdrequired": "1",
                 "timeupdated": "1520615875"
             },
             "specialevent": {
                 "buildid": "2779147",
-                "description": "specialevent",
                 "pwdrequired": "1",
                 "timeupdated": "1526481239"
             }
@@ -140,6 +130,6 @@
     },
     "_missing_token": false,
     "_change_number": 15150439,
-    "_sha": "6f2f50d078d9361cb103bf7bfedba9c22b757c57",
-    "_size": 3270
+    "_sha": "5633363d36b3f430ef801a638b5a2f61caadbccc",
+    "_size": 2883
 }

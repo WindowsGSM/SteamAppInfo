@@ -31,7 +31,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -42,7 +41,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -52,7 +50,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -63,7 +60,6 @@
             "depotfromapp": "1007"
         },
         "824361": {
-            "name": "PixARK Dedicated Server Content",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -106,37 +102,31 @@
             },
             "171test": {
                 "buildid": "4124601",
-                "description": "X",
                 "pwdrequired": "1",
                 "timeupdated": "1588830696"
             },
             "171test_1": {
                 "buildid": "4773707",
-                "description": "P",
                 "pwdrequired": "1",
                 "timeupdated": "1584089511"
             },
             "171test_2": {
                 "buildid": "4124601",
-                "description": "S",
                 "pwdrequired": "1",
                 "timeupdated": "1567155788"
             },
             "chinatest": {
                 "buildid": "4046568",
-                "description": "Steam test",
                 "pwdrequired": "1",
                 "timeupdated": "1564127836"
             },
             "dlctest": {
                 "buildid": "9810038",
-                "description": "DLCtest",
                 "pwdrequired": "1",
                 "timeupdated": "1666852335"
             },
             "fullrelease": {
                 "buildid": "4042834",
-                "description": "FullyReleaseTest",
                 "pwdrequired": "1",
                 "timeupdated": "1564036086"
             }
@@ -144,6 +134,6 @@
     },
     "_missing_token": false,
     "_change_number": 16508000,
-    "_sha": "3adbf2018977197b1d5c0c8820eef5c6eea44da9",
-    "_size": 3497
+    "_sha": "c1eaba7ff6615b5bf2813bc13c9f1d68ccc7dc04",
+    "_size": 3153
 }

@@ -41,7 +41,6 @@
         "baselanguages": "english",
         "hasdepotsindlc": "0",
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -52,7 +51,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -62,7 +60,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -73,7 +70,6 @@
             "depotfromapp": "1007"
         },
         "228985": {
-            "name": "VC 2013 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -82,7 +78,6 @@
             "sharedinstall": "1"
         },
         "228986": {
-            "name": "VC 2015 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -91,7 +86,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -100,7 +94,6 @@
             "sharedinstall": "1"
         },
         "774962": {
-            "name": "Squad - Test Server Dedicated Server Content",
             "config": {
                 "oslist": "windows",
                 "osarch": "64",
@@ -206,7 +199,6 @@
             }
         },
         "774963": {
-            "name": "Squad - Test Server Dedicated Server Depot Linux",
             "config": {
                 "oslist": "linux",
                 "osarch": "64",
@@ -312,7 +304,6 @@
             }
         },
         "774943": {
-            "name": "Squad UAT Test CAF nonDLC",
             "config": {
                 "language": ""
             },
@@ -422,157 +413,131 @@
             },
             "uat_community_hosting": {
                 "buildid": "9430722",
-                "description": "Community Hosting for UAT",
                 "pwdrequired": "1",
                 "timeupdated": "1662022714"
             },
             "uat_content": {
                 "buildid": "9935823",
-                "description": "Content stream nightly",
                 "pwdrequired": "1",
                 "timeupdated": "1668458719"
             },
             "uat_content_pt": {
                 "buildid": "9792054",
-                "description": "Content stream playtest",
                 "pwdrequired": "1",
                 "timeupdated": "1666676159"
             },
             "uat_cpt": {
                 "buildid": "9902333",
-                "description": "Branch for Community PlayTest Group Testing",
                 "pwdrequired": "1",
                 "timeupdated": "1668044769"
             },
             "uat_crashtest": {
                 "buildid": "9817487",
-                "description": "Crash test branch",
                 "pwdrequired": "1",
                 "timeupdated": "1666920015"
             },
             "uat_features": {
                 "buildid": "6075329",
-                "description": "Features stream",
                 "pwdrequired": "1",
                 "timeupdated": "1611010726"
             },
             "uat_features_rc": {
                 "buildid": "5206646",
-                "description": "Features stream nightly",
                 "pwdrequired": "1",
                 "timeupdated": "1592965032"
             },
             "uat_featuretest1": {
                 "buildid": "9917174",
-                "description": "Generic feature test branch 1",
                 "pwdrequired": "1",
                 "timeupdated": "1668468900"
             },
             "uat_featuretest10": {
                 "buildid": "9431220",
-                "description": " Generic feature test branch 10",
                 "pwdrequired": "1",
                 "timeupdated": "1662026157"
             },
             "uat_featuretest11": {
                 "buildid": "9942260",
-                "description": " Generic feature test branch 11",
                 "pwdrequired": "1",
                 "timeupdated": "1668524577"
             },
             "uat_featuretest2": {
                 "buildid": "9709078",
-                "description": "Generic feature test branch 2",
                 "pwdrequired": "1",
                 "timeupdated": "1665675637"
             },
             "uat_featuretest3": {
                 "buildid": "9866229",
-                "description": "Generic feature test branch 3",
                 "pwdrequired": "1",
                 "timeupdated": "1667866201"
             },
             "uat_featuretest4": {
                 "buildid": "9725482",
-                "description": "Generic feature test branch 4",
                 "pwdrequired": "1",
                 "timeupdated": "1667930798"
             },
             "uat_featuretest5": {
                 "buildid": "9382597",
-                "description": "Generic feature test branch 5",
                 "pwdrequired": "1",
                 "timeupdated": "1661387597"
             },
             "uat_featuretest6": {
                 "buildid": "9801712",
-                "description": " Generic feature test branch 6",
                 "pwdrequired": "1",
                 "timeupdated": "1666769602"
             },
             "uat_featuretest7": {
                 "buildid": "9856218",
-                "description": " Generic feature test branch 7",
                 "pwdrequired": "1",
                 "timeupdated": "1667419498"
             },
             "uat_featuretest8": {
                 "buildid": "9837693",
-                "description": "Generic feature test branch 8",
                 "pwdrequired": "1",
                 "timeupdated": "1667225395"
             },
             "uat_featuretest9": {
                 "buildid": "9707785",
-                "description": " Generic feature test branch 9",
                 "pwdrequired": "1",
                 "timeupdated": "1665599642"
             },
             "uat_functionality_test": {
                 "buildid": "9856218",
-                "description": "Branch for testing specific functionality",
                 "pwdrequired": "1",
                 "timeupdated": "1668020595"
             },
             "uat_main": {
                 "buildid": "8515669",
-                "description": "Latest MAIN branch builds",
                 "pwdrequired": "1",
                 "timeupdated": "1649340519"
             },
             "uat_main_rc": {
                 "buildid": "5862657",
-                "description": "Main RC",
                 "pwdrequired": "1",
                 "timeupdated": "1606165095"
             },
             "uat_ppt": {
                 "buildid": "8926785",
-                "description": "Branch for Partner Program Members Testing",
                 "pwdrequired": "1",
                 "timeupdated": "1655158780"
             },
             "uat_release": {
                 "buildid": "9942736",
-                "description": "Latest RELEASE branch builds",
                 "pwdrequired": "1",
                 "timeupdated": "1668528625"
             },
             "hlod_test": {
                 "buildid": "8410387",
-                "description": "testing hlod related stuff",
                 "pwdrequired": "1",
                 "timeupdated": "1647875304"
             },
             "uat_experimental": {
                 "buildid": "9855771",
-                "description": "uat_experimental (Experimental features public)",
                 "pwdrequired": "1",
                 "timeupdated": "1667859150"
             },
             "uat_internalpt": {
                 "buildid": "8008430",
-                "description": "uat_internalpt (Internal playtesting)",
                 "pwdrequired": "1",
                 "timeupdated": "1642018651"
             }
@@ -580,6 +545,6 @@
     },
     "_missing_token": false,
     "_change_number": 16740688,
-    "_sha": "8cfb6b8594bbd6013c1509e87d440fb52bc1bc67",
-    "_size": 17630
+    "_sha": "21302ce2cc02c40ac364852c3b88b779ad089ab3",
+    "_size": 15928
 }

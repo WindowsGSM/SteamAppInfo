@@ -92,7 +92,6 @@
     },
     "depots": {
         "228983": {
-            "name": "VC 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -101,7 +100,6 @@
             "sharedinstall": "1"
         },
         "228984": {
-            "name": "VC 2012 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -110,7 +108,6 @@
             "sharedinstall": "1"
         },
         "228986": {
-            "name": "VC 2015 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -119,7 +116,6 @@
             "sharedinstall": "1"
         },
         "228987": {
-            "name": "VC 2017 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -128,7 +124,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -137,7 +132,6 @@
             "sharedinstall": "1"
         },
         "229004": {
-            "name": ".NET 4.5.2 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -146,7 +140,6 @@
             "sharedinstall": "1"
         },
         "623991": {
-            "name": "Tom Clancy's Rainbow Six Siege - Technical Test Server Content",
             "manifests": {
                 "public": "5503513239220350115"
             },
@@ -185,31 +178,26 @@
             },
             "none": {
                 "buildid": "2816154",
-                "description": "None",
                 "pwdrequired": "1",
                 "timeupdated": "1527616334"
             },
             "pts-a": {
                 "buildid": "9937114",
-                "description": "Pup pts-a branch",
                 "pwdrequired": "1",
                 "timeupdated": "1668474667"
             },
             "pts-b": {
                 "buildid": "8680393",
-                "description": "Pup pts-b branch",
                 "pwdrequired": "1",
                 "timeupdated": "1651766475"
             },
             "pts-stable": {
                 "buildid": "3597594",
-                "description": "Deprecated -> Pup pts-stable branch",
                 "pwdrequired": "1",
                 "timeupdated": "1551227497"
             },
             "pts_test": {
                 "buildid": "5710835",
-                "description": "PTS_TEST",
                 "pwdrequired": "1",
                 "timeupdated": "1603211983"
             },
@@ -222,6 +210,6 @@
     },
     "_missing_token": false,
     "_change_number": 16732438,
-    "_sha": "42417202586b55bbe24b5b605d8764f6e22c7f17",
-    "_size": 5245
+    "_sha": "a080afcb25ae457a5d3ec1370e1393035ba6e048",
+    "_size": 4800
 }

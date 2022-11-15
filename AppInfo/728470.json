@@ -37,7 +37,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -48,7 +47,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -58,7 +56,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -69,7 +66,6 @@
             "depotfromapp": "1007"
         },
         "228986": {
-            "name": "VC 2015 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -78,7 +74,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -87,7 +82,6 @@
             "sharedinstall": "1"
         },
         "728471": {
-            "name": "ASTRONEER Dedicated Server Content",
             "config": {
                 "oslist": "windows"
             },
@@ -177,109 +171,91 @@
             },
             "astro_ds": {
                 "buildid": "5174285",
-                "description": "ds test integration",
                 "pwdrequired": "1",
                 "timeupdated": "1592332548"
             },
             "astro_rc": {
                 "buildid": "9855888",
-                "description": "Latest Release Candidate build",
                 "pwdrequired": "1",
                 "timeupdated": "1667416205"
             },
             "astro_rc_dev": {
                 "buildid": "9435508",
-                "description": "Latest Release Candidate development build",
                 "pwdrequired": "1",
                 "timeupdated": "1662065899"
             },
             "astrodev_et": {
                 "buildid": "6973110",
-                "description": "Dev external test build",
                 "pwdrequired": "1",
                 "timeupdated": "1625269121"
             },
             "astrodev_profiling": {
                 "buildid": "5978708",
-                "description": "dev performance testing",
                 "pwdrequired": "1",
                 "timeupdated": "1608162001"
             },
             "astromain_dailies": {
                 "buildid": "9940056",
-                "description": "Main Dailies",
                 "pwdrequired": "1",
                 "timeupdated": "1668506448"
             },
             "astromain_incremental": {
                 "buildid": "9945125",
-                "description": "Main incremental builds\t",
                 "pwdrequired": "1",
                 "timeupdated": "1668550938"
             },
             "astromain_su": {
                 "buildid": "9940032",
-                "description": "dedicated server testing",
                 "pwdrequired": "1",
                 "timeupdated": "1668506236"
             },
             "astroneer_beta": {
                 "buildid": "9017581",
-                "description": "Closed beta testing",
                 "pwdrequired": "1",
                 "timeupdated": "1657131278"
             },
             "astrortx_cu": {
                 "buildid": "6995950",
-                "description": "RTX shipping",
                 "pwdrequired": "1",
                 "timeupdated": "1625771349"
             },
             "astrortx_cu_dev": {
                 "buildid": "6996172",
-                "description": "RTX non shipping",
                 "pwdrequired": "1",
                 "timeupdated": "1625771378"
             },
             "astrortx_dailies": {
                 "buildid": "9827618",
-                "description": "RTX Dailies",
                 "pwdrequired": "1",
                 "timeupdated": "1667037223"
             },
             "astrortx_ds": {
                 "buildid": "4245868",
-                "description": "ds test integration rtx",
                 "pwdrequired": "1",
                 "timeupdated": "1570462692"
             },
             "astrortx_et": {
                 "buildid": "5406765",
-                "description": "external testing",
                 "pwdrequired": "1",
                 "timeupdated": "1597525015"
             },
             "astrortx_incremental": {
                 "buildid": "9855767",
-                "description": "RTX incremental builds\t",
                 "pwdrequired": "1",
                 "timeupdated": "1667415106"
             },
             "debug": {
                 "buildid": "2409203",
-                "description": "debug",
                 "pwdrequired": "1",
                 "timeupdated": "1515082662"
             },
             "internal_playtest": {
                 "buildid": "8890319",
-                "description": "internal playtest",
                 "pwdrequired": "1",
                 "timeupdated": "1654632818"
             },
             "qa_sandbox": {
                 "buildid": "9434971",
-                "description": "For QA use",
                 "pwdrequired": "1",
                 "timeupdated": "1667583565"
             }
@@ -287,6 +263,6 @@
     },
     "_missing_token": false,
     "_change_number": 16744667,
-    "_sha": "5d33db204aac44a59ddc76ada6b4025d1fd87f7f",
-    "_size": 7647
+    "_sha": "f6752b704282ecf17fd0bfe20d5326afa1203500",
+    "_size": 6658
 }

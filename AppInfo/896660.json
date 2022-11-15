@@ -36,7 +36,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -47,7 +46,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -57,7 +55,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -68,7 +65,6 @@
             "depotfromapp": "1007"
         },
         "896661": {
-            "name": "Valheim dedicated server Linux",
             "config": {
                 "oslist": "linux"
             },
@@ -93,7 +89,6 @@
             }
         },
         "896662": {
-            "name": "Valheim dedicated server Windows",
             "config": {
                 "oslist": "windows"
             },
@@ -129,19 +124,16 @@
             },
             "experimental": {
                 "buildid": "9939103",
-                "description": "Experimental version of Valheim",
                 "pwdrequired": "1",
                 "timeupdated": "1668498811"
             },
             "internal-test": {
                 "buildid": "9821514",
-                "description": "For internal use only",
                 "pwdrequired": "1",
                 "timeupdated": "1666961742"
             },
             "public-test": {
                 "buildid": "9792153",
-                "description": "Public test version of Valheim. Please backup you save data before using.",
                 "pwdrequired": "1",
                 "timeupdated": "1666697686"
             }
@@ -149,6 +141,6 @@
     },
     "_missing_token": false,
     "_change_number": 16735275,
-    "_sha": "c0a4d645f295830c06b976690edfc7525e4b5d10",
-    "_size": 3694
+    "_sha": "8d6b436ce3ababb40f330cea452f43f89898e358",
+    "_size": 3282
 }

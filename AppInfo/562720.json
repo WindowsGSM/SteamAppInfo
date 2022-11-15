@@ -35,7 +35,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -46,7 +45,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -56,7 +54,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -67,7 +64,6 @@
             "depotfromapp": "1007"
         },
         "228986": {
-            "name": "VC 2015 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -76,7 +72,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -85,7 +80,6 @@
             "sharedinstall": "1"
         },
         "562721": {
-            "name": "Neptune: Arena FPS Dedicated server Content",
             "manifests": {
                 "public": "4637139865272700983"
             },
@@ -104,7 +98,6 @@
             },
             "developer": {
                 "buildid": "1774651",
-                "description": "Developer testing changes.",
                 "pwdrequired": "1",
                 "timeupdated": "1492871138"
             }
@@ -112,6 +105,6 @@
     },
     "_missing_token": false,
     "_change_number": 15150439,
-    "_sha": "24b3ffa44a663694570d4d1159a33b75584b88b7",
-    "_size": 2553
+    "_sha": "5becf44c7a5e56071328280fe1428c94ba64571b",
+    "_size": 2252
 }

@@ -44,7 +44,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -55,7 +54,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -65,7 +63,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -76,7 +73,6 @@
             "depotfromapp": "1007"
         },
         "228988": {
-            "name": "VC 2019 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -85,7 +81,6 @@
             "sharedinstall": "1"
         },
         "229006": {
-            "name": ".NET 4.7 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -94,7 +89,6 @@
             "sharedinstall": "1"
         },
         "824244": {
-            "name": "SpacemenServer",
             "config": {
                 "oslist": "windows",
                 "osarch": "64",
@@ -118,7 +112,6 @@
             },
             "beta": {
                 "buildid": "8102310",
-                "description": "Internal testing branch",
                 "pwdrequired": "1",
                 "timeupdated": "1643343505"
             }
@@ -126,6 +119,6 @@
     },
     "_missing_token": false,
     "_change_number": 15577664,
-    "_sha": "02d30985a80cb72c91e6645b46439ec9924999db",
-    "_size": 2739
+    "_sha": "7ba3ffcdf20628951bf782444616c093a6495254",
+    "_size": 2478
 }

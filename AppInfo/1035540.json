@@ -29,7 +29,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -40,7 +39,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -50,7 +48,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -61,7 +58,6 @@
             "depotfromapp": "1007"
         },
         "1035541": {
-            "name": "FSDS Content",
             "config": {
                 "oslist": "windows",
                 "osarch": "64",
@@ -86,6 +82,6 @@
     },
     "_missing_token": false,
     "_change_number": 15150439,
-    "_sha": "e6996648b65dca716f35169bf72a2dddf3864285",
-    "_size": 1744
+    "_sha": "c57dba5355a15797fbd46a4f29bce812a3bd21aa",
+    "_size": 1587
 }

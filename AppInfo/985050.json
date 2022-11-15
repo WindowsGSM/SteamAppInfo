@@ -44,7 +44,6 @@
     },
     "depots": {
         "977051": {
-            "name": "Action Source Content",
             "manifests": {
                 "public": "949745137295664055"
             },
@@ -58,7 +57,6 @@
             "depotfromapp": "977050"
         },
         "985051": {
-            "name": "Action: Source Windows Dedicated Server Base",
             "config": {
                 "oslist": "windows"
             },
@@ -68,7 +66,6 @@
             "maxsize": "715548309"
         },
         "985052": {
-            "name": "Action: Source Linux Dedicated Server Base",
             "config": {
                 "oslist": "linux",
                 "osarch": "64"
@@ -85,7 +82,6 @@
             },
             "test": {
                 "buildid": "4196317",
-                "description": "test branch",
                 "pwdrequired": "1",
                 "timeupdated": "1568460131"
             }
@@ -93,6 +89,6 @@
     },
     "_missing_token": false,
     "_change_number": 15577664,
-    "_sha": "6b6e7cb0fa3a4d2301bde8fb1faa758f250574c8",
-    "_size": 2048
+    "_sha": "9c293d7b078c86f770f6d9928534944f24a0d7ca",
+    "_size": 1866
 }

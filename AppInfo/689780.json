@@ -35,7 +35,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -46,7 +45,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -56,7 +54,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -67,7 +64,6 @@
             "depotfromapp": "1007"
         },
         "689781": {
-            "name": "MBGDS Content",
             "config": {
                 "oslist": "windows"
             },
@@ -141,7 +137,6 @@
             },
             "alex-branch": {
                 "buildid": "2981969",
-                "description": "Alex's DS builds",
                 "pwdrequired": "1",
                 "timeupdated": "1532676966"
             },
@@ -152,37 +147,31 @@
             },
             "gill-branch": {
                 "buildid": "3135616",
-                "description": "Gill's DS Builds",
                 "pwdrequired": "1",
                 "timeupdated": "1537349122"
             },
             "jason-branch": {
                 "buildid": "2154885",
-                "description": "Jason's ds builds",
                 "pwdrequired": "1",
                 "timeupdated": "1506591177"
             },
             "jenny-branch": {
                 "buildid": "2758059",
-                "description": "Jenny's DS builds",
                 "pwdrequired": "1",
                 "timeupdated": "1525858720"
             },
             "martin-branch": {
                 "buildid": "2774866",
-                "description": "Martin's DS builds",
                 "pwdrequired": "1",
                 "timeupdated": "1526377381"
             },
             "neil-branch": {
                 "buildid": "3354114",
-                "description": "Neil's DS builds",
                 "pwdrequired": "1",
                 "timeupdated": "1543574576"
             },
             "playtest": {
                 "buildid": "3313705",
-                "description": "For playtests",
                 "pwdrequired": "1",
                 "timeupdated": "1542372356"
             },
@@ -193,7 +182,6 @@
             },
             "release-approved": {
                 "buildid": "2773020",
-                "description": "The latest build that has been approved for release",
                 "pwdrequired": "1",
                 "timeupdated": "1526562579"
             },
@@ -209,13 +197,11 @@
             },
             "studio-development": {
                 "buildid": "3111672",
-                "description": "Dedicated server Dev builds",
                 "pwdrequired": "1",
                 "timeupdated": "1536677311"
             },
             "studio-release": {
                 "buildid": "3111675",
-                "description": "Dedicated Server Release Builds",
                 "pwdrequired": "1",
                 "timeupdated": "1536677346"
             }
@@ -223,6 +209,6 @@
     },
     "_missing_token": false,
     "_change_number": 15577664,
-    "_sha": "8f191bf042f1b4e6ef11e26bdb2dfff501b06837",
-    "_size": 5974
+    "_sha": "8ae100b1077a56dee10669828886f4f88a79e150",
+    "_size": 5374
 }

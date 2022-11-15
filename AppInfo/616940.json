@@ -28,7 +28,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -39,7 +38,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -49,7 +47,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -60,7 +57,6 @@
             "depotfromapp": "1007"
         },
         "616941": {
-            "name": "Cobalt W.A.S.D. Dedicated Server Content",
             "manifests": {
                 "public": "1273782636912149618"
             },
@@ -79,7 +75,6 @@
             },
             "experimental": {
                 "buildid": "6221911",
-                "description": "testing out balance rework",
                 "pwdrequired": "1",
                 "timeupdated": "1613003676"
             }
@@ -87,6 +82,6 @@
     },
     "_missing_token": false,
     "_change_number": 15150439,
-    "_sha": "7efd6c612a0668156ce99de1311565c5cd678a30",
-    "_size": 2036
+    "_sha": "02803d452870e68dcef981185f62dc318adc3ff8",
+    "_size": 1803
 }

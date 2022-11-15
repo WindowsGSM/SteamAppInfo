@@ -28,7 +28,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -39,7 +38,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -49,7 +47,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -60,7 +57,6 @@
             "depotfromapp": "1007"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -69,7 +65,6 @@
             "sharedinstall": "1"
         },
         "229003": {
-            "name": ".NET 4.0 Client Profile Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -79,7 +74,6 @@
         },
         "hasdepotsindlc": "0",
         "988951": {
-            "name": "Journey of Life - Dedicated Server Content",
             "manifests": {
                 "public": "7864919770206583701",
                 "devtest1": "6430895683223781428",
@@ -106,6 +100,6 @@
     },
     "_missing_token": false,
     "_change_number": 15150439,
-    "_sha": "e3ede4acc20c94a2fa0068e7d5432e82b72baf2d",
-    "_size": 2349
+    "_sha": "014d1524246422df7df6764cf9a658bbca0583e4",
+    "_size": 2081
 }

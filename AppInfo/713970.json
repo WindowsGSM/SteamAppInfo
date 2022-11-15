@@ -39,7 +39,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -50,7 +49,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -60,7 +58,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -71,7 +68,6 @@
             "depotfromapp": "1007"
         },
         "228986": {
-            "name": "VC 2015 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -80,7 +76,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -89,7 +84,6 @@
             "sharedinstall": "1"
         },
         "713971": {
-            "name": "TSA Dedicated Server Linux",
             "config": {
                 "oslist": "linux",
                 "osarch": "64"
@@ -100,7 +94,6 @@
             "maxsize": "843547857"
         },
         "713972": {
-            "name": "TSA Dedicated Server Windows",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -119,6 +112,6 @@
     },
     "_missing_token": false,
     "_change_number": 15150439,
-    "_sha": "c6e9ca90065af7e03763868a1b5d2480ea576f91",
-    "_size": 2422
+    "_sha": "4f47410d916e4099730bf0d76227d807597f4ac8",
+    "_size": 2144
 }

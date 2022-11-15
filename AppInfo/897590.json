@@ -56,7 +56,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -67,7 +66,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -77,7 +75,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -88,7 +85,6 @@
             "depotfromapp": "1007"
         },
         "228985": {
-            "name": "VC 2013 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -97,7 +93,6 @@
             "sharedinstall": "1"
         },
         "228986": {
-            "name": "VC 2015 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -106,7 +101,6 @@
             "sharedinstall": "1"
         },
         "897591": {
-            "name": "Memories of Mars - Dedicated Server Content",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -143,7 +137,6 @@
             }
         },
         "897592": {
-            "name": "Memories of Mars - Dedicated Server - Linux",
             "config": {
                 "oslist": "linux",
                 "osarch": "64"
@@ -202,7 +195,6 @@
             },
             "official": {
                 "buildid": "2937113",
-                "description": "Branch for official servers",
                 "pwdrequired": "1",
                 "timeupdated": "1531324916"
             },
@@ -213,7 +205,6 @@
             },
             "private_server": {
                 "buildid": "4400344",
-                "description": "test branch for private servers",
                 "pwdrequired": "1",
                 "timeupdated": "1574079625"
             }
@@ -221,6 +212,6 @@
     },
     "_missing_token": false,
     "_change_number": 15577664,
-    "_sha": "32e41a2f9b51ae792c708b5a2da49e726745027f",
-    "_size": 5524
+    "_sha": "d93d0ea7c45e1a47384b3ab24f48e22a0603c3e2",
+    "_size": 5121
 }

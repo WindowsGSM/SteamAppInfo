@@ -184,7 +184,6 @@
     "depots": {
         "baselanguages": "english,german,french,italian,spanish,schinese,russian,japanese,portuguese,polish,turkish",
         "228985": {
-            "name": "VC 2013 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -193,7 +192,6 @@
             "sharedinstall": "1"
         },
         "228986": {
-            "name": "VC 2015 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -202,7 +200,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -211,7 +208,6 @@
             "sharedinstall": "1"
         },
         "229004": {
-            "name": ".NET 4.5.2 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -220,7 +216,6 @@
             "sharedinstall": "1"
         },
         "770721": {
-            "name": "Code",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -269,7 +264,6 @@
             }
         },
         "770722": {
-            "name": "Assets",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -318,7 +312,6 @@
             }
         },
         "770723": {
-            "name": "Localization",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -367,7 +360,6 @@
             }
         },
         "770724": {
-            "name": "Editor",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -421,37 +413,31 @@
             },
             "current": {
                 "buildid": "8722750",
-                "description": "Current build",
                 "pwdrequired": "1",
                 "timeupdated": "1653918066"
             },
             "gamesweek": {
                 "buildid": "9762825",
-                "description": "Paris Games Week",
                 "pwdrequired": "1",
                 "timeupdated": "1667809454"
             },
             "latest": {
                 "buildid": "9942956",
-                "description": "latest uploaded build",
                 "pwdrequired": "1",
                 "timeupdated": "1668530587"
             },
             "lightweight_profiler": {
                 "buildid": "9765837",
-                "description": "lightweight_profiler",
                 "pwdrequired": "1",
                 "timeupdated": "1666301135"
             },
             "mkt_recording": {
                 "buildid": "9764443",
-                "description": "mkt_recording",
                 "pwdrequired": "1",
                 "timeupdated": "1666355640"
             },
             "playtest_external": {
                 "buildid": "9914498",
-                "description": "playtest_external",
                 "pwdrequired": "1",
                 "timeupdated": "1668536357"
             },
@@ -474,6 +460,6 @@
     },
     "_missing_token": false,
     "_change_number": 16742328,
-    "_sha": "5a7c3c176ef33681e02b43366514316493cee570",
-    "_size": 13169
+    "_sha": "a0d60deb6d805fdf800ffc706f85fbc9d5ad69d1",
+    "_size": 12729
 }

@@ -179,7 +179,6 @@
     "depots": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,turkish",
         "228986": {
-            "name": "VC 2015 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -188,7 +187,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -197,7 +195,6 @@
             "sharedinstall": "1"
         },
         "229001": {
-            "name": ".NET 3.5 Client Profile Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -206,7 +203,6 @@
             "sharedinstall": "1"
         },
         "514901": {
-            "name": "Observer Content",
             "config": {
                 "oslist": "windows"
             },
@@ -242,7 +238,6 @@
             }
         },
         "514902": {
-            "name": "Observer Depot Linux",
             "config": {
                 "oslist": "linux"
             },
@@ -278,7 +273,6 @@
             }
         },
         "514903": {
-            "name": "Observer Depot Mac",
             "config": {
                 "oslist": "macos"
             },
@@ -314,7 +308,6 @@
             }
         },
         "939320": {
-            "name": "Observer - Soundtrack (939320) Depot",
             "manifests": {
                 "public": "2068471580671321008"
             },
@@ -334,7 +327,6 @@
             },
             "10261_test": {
                 "buildid": "2171227",
-                "description": "for test issue 10261 only",
                 "pwdrequired": "1",
                 "timeupdated": "1507211377"
             },
@@ -397,6 +389,6 @@
     },
     "_missing_token": false,
     "_change_number": 16411360,
-    "_sha": "9276dc8db9fb07e9e4e2ee77b648b637c9e48fa4",
-    "_size": 9434
+    "_sha": "5a0a615cf13cde049b35961a358a6ac4946332eb",
+    "_size": 9132
 }

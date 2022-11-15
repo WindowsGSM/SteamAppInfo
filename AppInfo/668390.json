@@ -37,7 +37,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -48,7 +47,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -58,7 +56,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -69,7 +66,6 @@
             "depotfromapp": "1007"
         },
         "228988": {
-            "name": "VC 2019 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -78,7 +74,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -87,7 +82,6 @@
             "sharedinstall": "1"
         },
         "229007": {
-            "name": ".NET 4.8 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -96,7 +90,6 @@
             "sharedinstall": "1"
         },
         "668391": {
-            "name": "Hanako: Honor & Blade Dedicated Server Content",
             "config": {
                 "oslist": "windows"
             },
@@ -118,7 +111,6 @@
             },
             "testing_branch": {
                 "buildid": "7930526",
-                "description": "Private testing branch",
                 "pwdrequired": "1",
                 "timeupdated": "1640227843"
             }
@@ -126,6 +118,6 @@
     },
     "_missing_token": false,
     "_change_number": 15354882,
-    "_sha": "8d6bb4cb9cfe142524cce331650ac78318a86af4",
-    "_size": 2767
+    "_sha": "f4f055d1bbea8dea1270d21eb67b7b279e51be98",
+    "_size": 2438
 }

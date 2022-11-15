@@ -36,7 +36,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -47,7 +46,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -57,7 +55,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -68,7 +65,6 @@
             "depotfromapp": "1007"
         },
         "228985": {
-            "name": "VC 2013 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -77,7 +73,6 @@
             "sharedinstall": "1"
         },
         "228986": {
-            "name": "VC 2015 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -86,7 +81,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -95,7 +89,6 @@
             "sharedinstall": "1"
         },
         "844651": {
-            "name": "Post Scriptum - Test Server Dedicated Server Content",
             "config": {
                 "oslist": "windows"
             },
@@ -139,7 +132,6 @@
             }
         },
         "844652": {
-            "name": "Post Scriptum - Test Server Dedicated Server Linux Depot",
             "config": {
                 "oslist": "linux"
             },
@@ -189,43 +181,36 @@
             },
             "chapter4": {
                 "buildid": "9491192",
-                "description": "chapter 4 testing build",
                 "pwdrequired": "1",
                 "timeupdated": "1662911842"
             },
             "maginot": {
                 "buildid": "7800080",
-                "description": "maginot map testing",
                 "pwdrequired": "1",
                 "timeupdated": "1638332370"
             },
             "mercuryarts": {
                 "buildid": "9833110",
-                "description": "Dedicated test server for Mercury",
                 "pwdrequired": "1",
                 "timeupdated": "1667169235"
             },
             "mercuryarts-newbuild": {
                 "buildid": "9727983",
-                "description": "Dedicated for Mercury builds",
                 "pwdrequired": "1",
                 "timeupdated": "1665832810"
             },
             "newbuild-release": {
                 "buildid": "9935644",
-                "description": "Internal Test Build",
                 "pwdrequired": "1",
                 "timeupdated": "1668457032"
             },
             "oldgame": {
                 "buildid": "2957919",
-                "description": "old game",
                 "pwdrequired": "1",
                 "timeupdated": "1652206134"
             },
             "validation-branch": {
                 "buildid": "9510628",
-                "description": "QA Test Build",
                 "pwdrequired": "1",
                 "timeupdated": "1663139273"
             },
@@ -238,6 +223,6 @@
     },
     "_missing_token": false,
     "_change_number": 16729990,
-    "_sha": "1f5883d3e94932c3dd0de2a241b218d3a01fbe2d",
-    "_size": 6032
+    "_sha": "11432faa0321f05cffdfdf736fb035ece6678842",
+    "_size": 5375
 }

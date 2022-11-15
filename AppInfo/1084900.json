@@ -40,7 +40,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -51,7 +50,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -61,7 +59,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -72,7 +69,6 @@
             "depotfromapp": "1007"
         },
         "1084901": {
-            "name": "Task Force Windows Dedicated Server",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -83,7 +79,6 @@
             "maxsize": "103341561"
         },
         "1084902": {
-            "name": "Task Force Linux Dedicated Server",
             "config": {
                 "oslist": "linux",
                 "osarch": "64"
@@ -103,6 +98,6 @@
     },
     "_missing_token": false,
     "_change_number": 15882521,
-    "_sha": "39b04622a8b919fe97245e9e3e364e0c4100f3ad",
-    "_size": 2230
+    "_sha": "0a2aeeee25272e5454b68f418c4382f69a30c1f7",
+    "_size": 2003
 }

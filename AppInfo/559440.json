@@ -30,7 +30,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -41,7 +40,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -51,7 +49,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -62,7 +59,6 @@
             "depotfromapp": "1007"
         },
         "228985": {
-            "name": "VC 2013 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -71,7 +67,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -80,7 +75,6 @@
             "sharedinstall": "1"
         },
         "559441": {
-            "name": "Sunset Rangers Server Depot",
             "manifests": {
                 "public": "4828704873388589552",
                 "preview": "3629105873386993369"
@@ -100,6 +94,6 @@
     },
     "_missing_token": false,
     "_change_number": 15150439,
-    "_sha": "66f338a8f497ec7a765b4d96706611a5f52b830c",
-    "_size": 2113
+    "_sha": "e333ed00dc9e52feccf20fe6e4766477e777d74c",
+    "_size": 1876
 }

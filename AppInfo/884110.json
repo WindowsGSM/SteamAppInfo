@@ -44,7 +44,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -55,7 +54,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -65,7 +63,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -76,7 +73,6 @@
             "depotfromapp": "1007"
         },
         "884111": {
-            "name": "Server Toolkit Content",
             "config": {
                 "oslist": "windows"
             },
@@ -96,7 +92,6 @@
             }
         },
         "884112": {
-            "name": "SCP: Pandemic Dedicated Server Linux",
             "config": {
                 "oslist": "linux"
             },
@@ -118,13 +113,11 @@
             },
             "debug": {
                 "buildid": "8187461",
-                "description": "Uh oh",
                 "pwdrequired": "1",
                 "timeupdated": "1644625969"
             },
             "indev": {
                 "buildid": "9933154",
-                "description": "Likely unstable builds",
                 "pwdrequired": "1",
                 "timeupdated": "1668433113"
             }
@@ -132,6 +125,6 @@
     },
     "_missing_token": false,
     "_change_number": 16725822,
-    "_sha": "993d5c722f93130b7efd4294f6347e4a575cbb97",
-    "_size": 2951
+    "_sha": "f922b71218b61f3853e46351a119d4e134ec69fa",
+    "_size": 2663
 }

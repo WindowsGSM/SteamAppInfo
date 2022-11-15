@@ -40,7 +40,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -51,7 +50,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -61,7 +59,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -72,7 +69,6 @@
             "depotfromapp": "1007"
         },
         "228986": {
-            "name": "VC 2015 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -81,7 +77,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -90,7 +85,6 @@
             "sharedinstall": "1"
         },
         "628301": {
-            "name": "Stellar Overload Dedicated Server Content",
             "config": {
                 "oslist": "windows"
             },
@@ -106,7 +100,6 @@
             }
         },
         "628302": {
-            "name": "Stellar Overload Dedicated Server Linux Depot",
             "config": {
                 "oslist": "linux"
             },
@@ -135,6 +128,6 @@
     },
     "_missing_token": false,
     "_change_number": 15150439,
-    "_sha": "0bdbd48998bad999238d71b108b92009ef3f5300",
-    "_size": 2978
+    "_sha": "48d3c1c18dddf1b75ba34602b0820d6c3afbe775",
+    "_size": 2668
 }

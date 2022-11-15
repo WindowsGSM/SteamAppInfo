@@ -38,7 +38,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -49,7 +48,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -59,7 +57,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -70,7 +67,6 @@
             "depotfromapp": "1007"
         },
         "1086951": {
-            "name": "Solace Crafting Dedicated Server Win64",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -82,7 +78,6 @@
             "maxsize": "8218540207"
         },
         "1086952": {
-            "name": "Solace Crafting Dedicated Server Linux64",
             "config": {
                 "oslist": "linux",
                 "osarch": "64"
@@ -107,6 +102,6 @@
     },
     "_missing_token": false,
     "_change_number": 16739135,
-    "_sha": "31ba40879419d29c8e256f94e997732cc6af99ce",
-    "_size": 2298
+    "_sha": "183755570a50c38a135ada8c0ada50b014996a92",
+    "_size": 2061
 }

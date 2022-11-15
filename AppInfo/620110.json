@@ -46,11 +46,8 @@
         }
     },
     "depots": {
-        "620111": {
-            "name": "The Archotek Project Dedicated Server Content (Shared)"
-        },
+        "620111": {},
         "620112": {
-            "name": "The Archotek Project Dedicated Server Depot (Windows)",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -63,14 +60,12 @@
             "maxsize": "4300363441"
         },
         "620113": {
-            "name": "The Archotek Project Dedicated Server Depot (Mac)",
             "config": {
                 "oslist": "macos",
                 "osarch": "64"
             }
         },
         "620114": {
-            "name": "The Archotek Project Dedicated Server Depot (Linux)",
             "config": {
                 "oslist": "linux",
                 "osarch": "64"
@@ -99,6 +94,6 @@
     },
     "_missing_token": false,
     "_change_number": 15577664,
-    "_sha": "7afb00a0d058cbcca21b68a9a1ed623e199788da",
-    "_size": 2265
+    "_sha": "fe1cb8007417c004e3b399cc31f9d17131b38541",
+    "_size": 2002
 }

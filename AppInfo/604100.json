@@ -35,7 +35,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -46,7 +45,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -56,7 +54,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -67,13 +64,11 @@
             "depotfromapp": "1007"
         },
         "604101": {
-            "name": "Rokh Windows Dedicated Server",
             "config": {
                 "oslist": "windows"
             }
         },
         "604102": {
-            "name": "Rokh Linux Dedicated Server Depot",
             "config": {
                 "oslist": "linux"
             }
@@ -87,6 +82,6 @@
     },
     "_missing_token": false,
     "_change_number": 15150439,
-    "_sha": "2028f975a4fd5960495c8fb408eb7214f23df338",
-    "_size": 1830
+    "_sha": "ed4994683cbae1304d956ba65e7df82f26287e54",
+    "_size": 1609
 }

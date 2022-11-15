@@ -37,7 +37,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -48,7 +47,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -58,7 +56,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -69,7 +66,6 @@
             "depotfromapp": "1007"
         },
         "526341": {
-            "name": "Voxel Turf Server Content",
             "config": {
                 "oslist": "linux",
                 "osarch": "64"
@@ -107,7 +103,6 @@
             }
         },
         "526342": {
-            "name": "Voxel Turf Server Depot Win64",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -247,6 +242,6 @@
     },
     "_missing_token": false,
     "_change_number": 16165789,
-    "_sha": "46392f6ec1da49451dc41af938ff4844918e89c6",
-    "_size": 6332
+    "_sha": "537e4626fc4c4e284bf4d750c2443abc4b264b48",
+    "_size": 6119
 }

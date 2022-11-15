@@ -29,7 +29,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -40,7 +39,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -50,7 +48,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -61,7 +58,6 @@
             "depotfromapp": "1007"
         },
         "228986": {
-            "name": "VC 2015 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -70,7 +66,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -80,7 +75,6 @@
         },
         "baselanguages": "english",
         "581332": {
-            "name": "Insurgency: Sandstorm Dedicated Server Depot - Windows",
             "config": {
                 "oslist": "windows"
             },
@@ -177,7 +171,6 @@
             }
         },
         "581333": {
-            "name": "Insurgency: Sandstorm Dedicated Server Depot - Linux",
             "config": {
                 "oslist": "linux"
             },
@@ -280,7 +273,6 @@
             },
             "community_test": {
                 "buildid": "9930641",
-                "description": "Community test server",
                 "pwdrequired": "1",
                 "timeupdated": "1668404682"
             },
@@ -296,7 +288,6 @@
             },
             "playthrough": {
                 "buildid": "9883221",
-                "description": "playthrough",
                 "pwdrequired": "1",
                 "timeupdated": "1667845837"
             },
@@ -322,7 +313,6 @@
             },
             "ss_egs_1": {
                 "buildid": "7583759",
-                "description": "ss_egs_1",
                 "pwdrequired": "1",
                 "timeupdated": "1634928574"
             },
@@ -358,7 +348,6 @@
             },
             "ss_marketing": {
                 "buildid": "8502981",
-                "description": "ss_marketing",
                 "pwdrequired": "1",
                 "timeupdated": "1649189652"
             },
@@ -369,7 +358,6 @@
             },
             "streams": {
                 "buildid": "9857102",
-                "description": "streams",
                 "pwdrequired": "1",
                 "timeupdated": "1668117621"
             },
@@ -380,19 +368,16 @@
             },
             "unstable": {
                 "buildid": "9159674",
-                "description": "Latest",
                 "pwdrequired": "1",
                 "timeupdated": "1658354344"
             },
             "unstable_shipping": {
                 "buildid": "8142746",
-                "description": "Latest (Shipping)",
                 "pwdrequired": "1",
                 "timeupdated": "1653580496"
             },
             "unstable_test": {
                 "buildid": "8316421",
-                "description": "Latest (Test)",
                 "pwdrequired": "1",
                 "timeupdated": "1646419334"
             }
@@ -400,6 +385,6 @@
     },
     "_missing_token": false,
     "_change_number": 16734094,
-    "_sha": "a8fd65d68b83170758e4a7140e360b3419fef29d",
-    "_size": 11345
+    "_sha": "cfa0efbce280f8f77bfe0e2bc267ab1eae279d28",
+    "_size": 10744
 }

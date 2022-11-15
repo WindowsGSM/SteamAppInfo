@@ -32,7 +32,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -43,7 +42,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -53,7 +51,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -64,7 +61,6 @@
             "depotfromapp": "1007"
         },
         "609871": {
-            "name": "Hunt For Gods Dedicated Server Content",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -87,7 +83,6 @@
             },
             "devtest": {
                 "buildid": "4301265",
-                "description": "StarworkGC's test branch",
                 "pwdrequired": "1",
                 "timeupdated": "1571406890"
             }
@@ -95,6 +90,6 @@
     },
     "_missing_token": false,
     "_change_number": 15577664,
-    "_sha": "2927a6d679a9f2953d6f02c959e8f69642fbb9dc",
-    "_size": 2098
+    "_sha": "134859c34ddebbd032b78e77fe9cf38dd0076b7d",
+    "_size": 1869
 }

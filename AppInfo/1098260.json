@@ -57,7 +57,6 @@
         "workshopdepot": "1098260",
         "hasdepotsindlc": "0",
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -68,7 +67,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -78,7 +76,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -89,7 +86,6 @@
             "depotfromapp": "1007"
         },
         "1098262": {
-            "name": "Creativerse Dedicated Server Depot (WIN)",
             "config": {
                 "oslist": "windows"
             },
@@ -108,7 +104,6 @@
             }
         },
         "1098263": {
-            "name": "Creativerse Dedicated Server Depot (OSX)",
             "config": {
                 "oslist": "macos"
             },
@@ -127,7 +122,6 @@
             }
         },
         "1098264": {
-            "name": "Creativerse Dedicated Server Depot (Linux)",
             "config": {
                 "oslist": "linux"
             },
@@ -152,13 +146,11 @@
             },
             "standalone": {
                 "buildid": "9922341",
-                "description": "CV Standalone",
                 "pwdrequired": "1",
                 "timeupdated": "1668226427"
             },
             "upcoming": {
                 "buildid": "9943715",
-                "description": "upcoming release",
                 "pwdrequired": "1",
                 "timeupdated": "1668536915"
             }
@@ -166,6 +158,6 @@
     },
     "_missing_token": false,
     "_change_number": 16742410,
-    "_sha": "b781a318c7797e2909817df8546b659144d4df96",
-    "_size": 3908
+    "_sha": "3252754557a2c662a39808bae4a87b337dc87bb0",
+    "_size": 3540
 }

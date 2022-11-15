@@ -36,7 +36,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -47,7 +46,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -57,7 +55,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -68,7 +65,6 @@
             "depotfromapp": "1007"
         },
         "228987": {
-            "name": "VC 2017 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -77,14 +73,12 @@
             "sharedinstall": "1"
         },
         "859011": {
-            "name": "UniverCity Dedicated Server Content",
             "manifests": {
                 "public": "7249608133304450210"
             },
             "maxsize": "19058306"
         },
         "859012": {
-            "name": "UniverCity Dedicated Server Linux 64bit",
             "config": {
                 "oslist": "linux",
                 "osarch": "64"
@@ -95,7 +89,6 @@
             "maxsize": "7175354"
         },
         "859013": {
-            "name": "UniverCity Dedicated Server Linux 32bit",
             "config": {
                 "oslist": "linux",
                 "osarch": "32"
@@ -106,7 +99,6 @@
             "maxsize": "7079548"
         },
         "859014": {
-            "name": "UniverCity Dedicated Server Windows 64bit",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -117,7 +109,6 @@
             "maxsize": "7975712"
         },
         "859015": {
-            "name": "UniverCity Dedicated Server Windows 32bit",
             "config": {
                 "oslist": "windows",
                 "osarch": "32"
@@ -136,6 +127,6 @@
     },
     "_missing_token": false,
     "_change_number": 15150439,
-    "_sha": "fa3505e1e480fa0278f8cf0f33027c16481657d6",
-    "_size": 2844
+    "_sha": "0fd17526100088700f734dc55d5d038a6e791a7b",
+    "_size": 2420
 }

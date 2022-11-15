@@ -83,7 +83,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -94,7 +93,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -104,7 +102,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -115,7 +112,6 @@
             "depotfromapp": "1007"
         },
         "228981": {
-            "name": "VC 2005 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -124,7 +120,6 @@
             "sharedinstall": "1"
         },
         "228982": {
-            "name": "VC 2008 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -133,7 +128,6 @@
             "sharedinstall": "1"
         },
         "228983": {
-            "name": "VC 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -142,7 +136,6 @@
             "sharedinstall": "1"
         },
         "228984": {
-            "name": "VC 2012 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -151,7 +144,6 @@
             "sharedinstall": "1"
         },
         "228985": {
-            "name": "VC 2013 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -160,7 +152,6 @@
             "sharedinstall": "1"
         },
         "228986": {
-            "name": "VC 2015 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -169,7 +160,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -179,7 +169,6 @@
         },
         "baselanguages": "english",
         "630231": {
-            "name": "DNL Dedicated Server ",
             "manifests": {
                 "public": "1305063167786399795"
             },
@@ -218,37 +207,31 @@
             },
             "closedtest": {
                 "buildid": "3158816",
-                "description": "DNL/Dev Builds for testing",
                 "pwdrequired": "1",
                 "timeupdated": "1538010947"
             },
             "closedtestb": {
                 "buildid": "4376452",
-                "description": "B test",
                 "pwdrequired": "1",
                 "timeupdated": "1573542373"
             },
             "development": {
                 "buildid": "4314306",
-                "description": "DNL\\Dev",
                 "pwdrequired": "1",
                 "timeupdated": "1571811687"
             },
             "marketing": {
                 "buildid": "2449676",
-                "description": "marketing-test",
                 "pwdrequired": "1",
                 "timeupdated": "1516344501"
             },
             "pre-release": {
                 "buildid": "2997520",
-                "description": "A pre-release version, only for expansion testing.",
                 "pwdrequired": "1",
                 "timeupdated": "1533605320"
             },
             "staging": {
                 "buildid": "3106354",
-                "description": "DNL/Staging builds",
                 "pwdrequired": "1",
                 "timeupdated": "1536648671"
             }
@@ -256,6 +239,6 @@
     },
     "_missing_token": false,
     "_change_number": 15577664,
-    "_sha": "97e86214f8f6d4e3a003eacab27a25a2ba13971f",
-    "_size": 5798
+    "_sha": "367728e623e6288fbff22b19cb79c6abd9403345",
+    "_size": 5171
 }

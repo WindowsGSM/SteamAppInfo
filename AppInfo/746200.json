@@ -40,7 +40,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -51,7 +50,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -61,7 +59,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -72,7 +69,6 @@
             "depotfromapp": "1007"
         },
         "228985": {
-            "name": "VC 2013 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -81,7 +77,6 @@
             "sharedinstall": "1"
         },
         "228986": {
-            "name": "VC 2015 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -90,7 +85,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -99,7 +93,6 @@
             "sharedinstall": "1"
         },
         "746201": {
-            "name": "Post Scriptum Dedicated Server Content",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -133,7 +126,6 @@
             }
         },
         "746202": {
-            "name": "Post Scriptum Dedicated Server Depot Linux",
             "config": {
                 "oslist": "linux",
                 "osarch": "64"
@@ -178,7 +170,6 @@
             },
             "421last": {
                 "buildid": "8252175",
-                "description": "last 4.21 live build",
                 "pwdrequired": "1",
                 "timeupdated": "1645620932"
             },
@@ -188,19 +179,16 @@
             },
             "mercury": {
                 "buildid": "8227247",
-                "description": "mercurydedicated",
                 "pwdrequired": "1",
                 "timeupdated": "1645238117"
             },
             "newbuild-release": {
                 "buildid": "9935504",
-                "description": "Build for internal tests",
                 "pwdrequired": "1",
                 "timeupdated": "1668455940"
             },
             "validation-branch": {
                 "buildid": "9656460",
-                "description": "Validation before public",
                 "pwdrequired": "1",
                 "timeupdated": "1666709152"
             }
@@ -208,6 +196,6 @@
     },
     "_missing_token": false,
     "_change_number": 16729716,
-    "_sha": "7313f8a228c46e3a4ab9b97e86f82f7421d59af7",
-    "_size": 5013
+    "_sha": "7f24ca6312b27ee09e11a6c11b4db035023a9a03",
+    "_size": 4509
 }

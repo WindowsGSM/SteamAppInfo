@@ -27,7 +27,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -38,7 +37,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -48,7 +46,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -59,7 +56,6 @@
             "depotfromapp": "1007"
         },
         "774772": {
-            "name": "Original War Server Content",
             "manifests": {
                 "public": "2065692299017001045",
                 "legacy": "8002366436717239143"
@@ -73,13 +69,11 @@
             }
         },
         "774773": {
-            "name": "Original War Server Binary - Windows",
             "config": {
                 "oslist": "windows"
             }
         },
         "774774": {
-            "name": "Original War Server Manager Binary - Windows",
             "config": {
                 "oslist": "windows"
             }
@@ -102,6 +96,6 @@
     },
     "_missing_token": false,
     "_change_number": 15577664,
-    "_sha": "ed6f8953ad51a9156d47318d4412ca2d5a5f2146",
-    "_size": 2217
+    "_sha": "373e31ac61b10b1470960f5c417681cf29785461",
+    "_size": 1937
 }

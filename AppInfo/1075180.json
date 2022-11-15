@@ -30,7 +30,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -41,7 +40,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -51,7 +49,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -62,7 +59,6 @@
             "depotfromapp": "1007"
         },
         "228987": {
-            "name": "VC 2017 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -71,7 +67,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -80,7 +75,6 @@
             "sharedinstall": "1"
         },
         "229006": {
-            "name": ".NET 4.7 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -89,7 +83,6 @@
             "sharedinstall": "1"
         },
         "1075181": {
-            "name": "Beyond Enemy Lines 2 Dedicated Server Content",
             "manifests": {
                 "public": "4244586704636877752"
             },
@@ -104,6 +97,6 @@
     },
     "_missing_token": false,
     "_change_number": 15150439,
-    "_sha": "501575c0920b6e1ed564aa016af512ee32698283",
-    "_size": 2212
+    "_sha": "01c9b158e72a9d4569f8887423a059d2a8bbda7f",
+    "_size": 1928
 }

@@ -48,7 +48,6 @@
         "baselanguages": "english",
         "workshopdepot": "565060",
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -59,7 +58,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -69,7 +67,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -80,7 +77,6 @@
             "depotfromapp": "1007"
         },
         "565061": {
-            "name": "Server Content",
             "manifests": {
                 "public": "7507376451971801475",
                 "0.28.1": "230481021285753536",
@@ -110,7 +106,6 @@
             }
         },
         "565062": {
-            "name": "Avorion Dedicated Server Windows Content",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -144,7 +139,6 @@
             }
         },
         "565063": {
-            "name": "Avorion Dedicated Server Linux Content",
             "config": {
                 "oslist": "linux",
                 "osarch": "64"
@@ -178,7 +172,6 @@
             }
         },
         "565064": {
-            "name": "Avorion Dedicated Server MacOS Content",
             "config": {
                 "oslist": "macos",
                 "osarch": "64"
@@ -283,7 +276,6 @@
             },
             "internal-testing": {
                 "buildid": "8213531",
-                "description": "Internal testing branch",
                 "pwdrequired": "1",
                 "timeupdated": "1645014789"
             },
@@ -300,6 +292,6 @@
     },
     "_missing_token": false,
     "_change_number": 16659496,
-    "_sha": "566d564f68d4c2dd5883a9540050aee7e7e47270",
-    "_size": 7870
+    "_sha": "54064c9a171323baf78453b936250e00b1fb317d",
+    "_size": 7508
 }

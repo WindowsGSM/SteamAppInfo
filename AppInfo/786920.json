@@ -28,7 +28,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -39,7 +38,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -49,7 +47,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -60,7 +57,6 @@
             "depotfromapp": "1007"
         },
         "228988": {
-            "name": "VC 2019 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -69,7 +65,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -78,7 +73,6 @@
             "sharedinstall": "1"
         },
         "229006": {
-            "name": ".NET 4.7 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -87,7 +81,6 @@
             "sharedinstall": "1"
         },
         "786921": {
-            "name": "SCP:SL ServerMod Windows",
             "config": {
                 "oslist": "windows",
                 "osarch": "64",
@@ -106,7 +99,6 @@
             }
         },
         "786922": {
-            "name": "SCP:SL ServerMod Linux",
             "config": {
                 "oslist": "linux",
                 "osarch": "64",
@@ -142,6 +134,6 @@
     },
     "_missing_token": false,
     "_change_number": 15867312,
-    "_sha": "7c21abc8cbf2ff50ad333edd584d4d5f6d4a196f",
-    "_size": 3050
+    "_sha": "b0d5ec5bca7984f20e6c637b3dcea9e7b289a0cd",
+    "_size": 2751
 }

@@ -26,7 +26,6 @@
     },
     "depots": {
         "228984": {
-            "name": "VC 2012 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -35,7 +34,6 @@
             "sharedinstall": "1"
         },
         "228986": {
-            "name": "VC 2015 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -44,7 +42,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -53,7 +50,6 @@
             "sharedinstall": "1"
         },
         "568881": {
-            "name": "Sniper Elite 4 Dedicated Server Content",
             "manifests": {
                 "public": "2439414259156814583",
                 "public_beta": "2439414259156814583"
@@ -83,7 +79,6 @@
             }
         },
         "312661": {
-            "name": "Sniper Elite 4 Base Files",
             "manifests": {
                 "public": "4048799331839916338",
                 "public_beta": "4048799331839916338"
@@ -126,7 +121,6 @@
             "depotfromapp": "312660"
         },
         "474747": {
-            "name": "Sniper Elite 4 MP",
             "manifests": {
                 "public": "9172257210152631323",
                 "public_beta": "9172257210152631323"
@@ -169,7 +163,6 @@
             "depotfromapp": "312660"
         },
         "474741": {
-            "name": "Sniper Elite 4 Common DLC Data",
             "manifests": {
                 "public": "367765852226510888",
                 "public_beta": "367765852226510888"
@@ -212,7 +205,6 @@
             "depotfromapp": "312660"
         },
         "474743": {
-            "name": "Sniper Elite 4 Day 30",
             "manifests": {
                 "public": "711719995978626888",
                 "public_beta": "711719995978626888"
@@ -255,7 +247,6 @@
             "depotfromapp": "312660"
         },
         "474744": {
-            "name": "Sniper Elite 4 Day 60",
             "manifests": {
                 "public": "8096421991192761435",
                 "public_beta": "8096421991192761435"
@@ -298,7 +289,6 @@
             "depotfromapp": "312660"
         },
         "474745": {
-            "name": "Sniper Elite 4 Day 90",
             "manifests": {
                 "public": "1606907339718391772",
                 "public_beta": "1606907339718391772"
@@ -337,7 +327,6 @@
             "depotfromapp": "312660"
         },
         "474746": {
-            "name": "Sniper Elite 4 Day 120",
             "manifests": {
                 "public": "8679890394768222636",
                 "public_beta": "8679890394768222636"
@@ -378,25 +367,21 @@
             },
             "external": {
                 "buildid": "1993732",
-                "description": "Denuvo",
                 "pwdrequired": "1",
                 "timeupdated": "1501234360"
             },
             "external_testing_2": {
                 "buildid": "1993732",
-                "description": "Test builds for external QA",
                 "pwdrequired": "1",
                 "timeupdated": "1501226792"
             },
             "internal_testing": {
                 "buildid": "1777533",
-                "description": "Test builds, or pre-release testing",
                 "pwdrequired": "1",
                 "timeupdated": "1500983932"
             },
             "nightly": {
                 "buildid": "1987665",
-                "description": "Latest nightly (unstable)",
                 "pwdrequired": "1",
                 "timeupdated": "1501055177"
             },
@@ -407,25 +392,21 @@
             },
             "se4devbeta": {
                 "buildid": "1993732",
-                "description": "Stable build",
                 "pwdrequired": "1",
                 "timeupdated": "1501234332"
             },
             "alienfx": {
                 "buildid": "2024060",
-                "description": "AlienFX testing",
                 "pwdrequired": "1",
                 "timeupdated": "1502273549"
             },
             "external_testing": {
                 "buildid": "1985344",
-                "description": "Test builds for external QA",
                 "pwdrequired": "1",
                 "timeupdated": "1500983439"
             },
             "internal_testing_2": {
                 "buildid": "1955221",
-                "description": "Test builds, or pre-release testing",
                 "pwdrequired": "1",
                 "timeupdated": "1500377813"
             }
@@ -433,6 +414,6 @@
     },
     "_missing_token": false,
     "_change_number": 15577664,
-    "_sha": "be3e8b4591e280d95becbcfaf76a1d985f0b5421",
-    "_size": 13364
+    "_sha": "1753d6ddf66aa222c38bf9c105238e0c00f84bdc",
+    "_size": 12605
 }

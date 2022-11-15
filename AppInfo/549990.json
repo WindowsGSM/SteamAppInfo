@@ -36,7 +36,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -47,7 +46,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -57,7 +55,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -68,7 +65,6 @@
             "depotfromapp": "1007"
         },
         "549991": {
-            "name": "Cobalt Dedicated Server Content",
             "manifests": {
                 "public": "2217736840269435757"
             },
@@ -84,6 +80,6 @@
     },
     "_missing_token": false,
     "_change_number": 15150439,
-    "_sha": "5c7d720a86c73e69875532710df2ecd6c289aecd",
-    "_size": 1891
+    "_sha": "df05713707aa453f001f5a5bbc7062b8b1ff1f36",
+    "_size": 1715
 }

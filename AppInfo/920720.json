@@ -35,7 +35,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -46,7 +45,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -56,7 +54,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -67,7 +64,6 @@
             "depotfromapp": "1007"
         },
         "228988": {
-            "name": "VC 2019 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -76,7 +72,6 @@
             "sharedinstall": "1"
         },
         "229006": {
-            "name": ".NET 4.7 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -85,7 +80,6 @@
             "sharedinstall": "1"
         },
         "920721": {
-            "name": "Last Oasis Dedicated Server Windows",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -111,7 +105,6 @@
             }
         },
         "920722": {
-            "name": "Last Oasis Dedicated Server Linux",
             "config": {
                 "oslist": "linux",
                 "osarch": "64"
@@ -153,13 +146,11 @@
             },
             "profiling": {
                 "buildid": "8049305",
-                "description": "Profiling",
                 "pwdrequired": "1",
                 "timeupdated": "1656941753"
             },
             "staging": {
                 "buildid": "9914681",
-                "description": "Preparing the patch",
                 "pwdrequired": "1",
                 "timeupdated": "1668135897"
             }
@@ -167,6 +158,6 @@
     },
     "_missing_token": false,
     "_change_number": 16734038,
-    "_sha": "30c40706abd8a9045b3af2e50a02e92739128acf",
-    "_size": 3969
+    "_sha": "ba059a2f35cb6487442f65cebbf61ce10f3e4162",
+    "_size": 3613
 }

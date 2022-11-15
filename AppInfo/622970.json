@@ -31,7 +31,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -42,7 +41,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -52,7 +50,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -63,7 +60,6 @@
             "depotfromapp": "1007"
         },
         "622971": {
-            "name": "Pavlov VR Dedicated Server Content",
             "config": {
                 "oslist": "linux",
                 "osarch": "64"
@@ -135,25 +131,21 @@
             },
             "nighly": {
                 "buildid": "9944914",
-                "description": "nighly builds",
                 "pwdrequired": "1",
                 "timeupdated": "1668548783"
             },
             "nighly_arm64": {
                 "buildid": "8774567",
-                "description": "nighly builds arm64",
                 "pwdrequired": "1",
                 "timeupdated": "1653004510"
             },
             "nighly_shack": {
                 "buildid": "9944833",
-                "description": "nighly builds for shack",
                 "pwdrequired": "1",
                 "timeupdated": "1668547922"
             },
             "nighly_shack_arm64": {
                 "buildid": "8816294",
-                "description": "nighly builds for shack arm64",
                 "pwdrequired": "1",
                 "timeupdated": "1653585272"
             },
@@ -174,6 +166,6 @@
     },
     "_missing_token": false,
     "_change_number": 16744333,
-    "_sha": "b2e90ec8b1a29b2fab616784aa98a9e372672efd",
-    "_size": 4255
+    "_sha": "8c8d8ef1cd2293cfbfe5ab9a030e3378f3e574cc",
+    "_size": 3904
 }

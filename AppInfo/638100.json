@@ -38,7 +38,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -49,7 +48,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -59,7 +57,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -70,7 +67,6 @@
             "depotfromapp": "1007"
         },
         "228985": {
-            "name": "VC 2013 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -80,21 +76,18 @@
         },
         "baselanguages": "english",
         "638101": {
-            "name": "Kreedz Climbing Dedicated Server Base Content",
             "manifests": {
                 "public": "5115580618077104881"
             },
             "maxsize": "2871630711"
         },
         "638102": {
-            "name": "Kreedz Climbing Dedicated Server Windows Binaries",
             "manifests": {
                 "public": "4695262571636733555"
             },
             "maxsize": "104689002"
         },
         "638103": {
-            "name": "Kreedz Climbing Dedicated Server Steam API",
             "manifests": {
                 "public": "8760645132970177989"
             },
@@ -109,6 +102,6 @@
     },
     "_missing_token": false,
     "_change_number": 16470641,
-    "_sha": "34d55bc2c654d4fecc588ba12b0fa82eda02ab4c",
-    "_size": 2409
+    "_sha": "abe2544e333c05919061e3536a8646168797e122",
+    "_size": 2072
 }

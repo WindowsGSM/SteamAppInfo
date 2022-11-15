@@ -36,7 +36,6 @@
     "depots": {
         "hasdepotsindlc": "1",
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -47,7 +46,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -57,7 +55,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -68,7 +65,6 @@
             "depotfromapp": "1007"
         },
         "906943": {
-            "name": "L.E.A.P Linux Server Depot",
             "config": {
                 "oslist": "linux"
             },
@@ -98,7 +94,6 @@
             }
         },
         "906941": {
-            "name": "ProjectY Server Content",
             "config": {
                 "oslist": "windows"
             },
@@ -139,7 +134,6 @@
             },
             "pscert": {
                 "buildid": "9747588",
-                "description": "PS Cert",
                 "pwdrequired": "1",
                 "timeupdated": "1666126092"
             },
@@ -155,7 +149,6 @@
             },
             "xboxcert": {
                 "buildid": "9630165",
-                "description": "XBOX Cert",
                 "pwdrequired": "1",
                 "timeupdated": "1664573710"
             },
@@ -172,6 +165,6 @@
     },
     "_missing_token": false,
     "_change_number": 16740286,
-    "_sha": "4f102dde219eaeb975dfed53a62049d049a7f668",
-    "_size": 4066
+    "_sha": "e76c45671eb8c54f484c4b7d3dfae356b41a59f8",
+    "_size": 3798
 }

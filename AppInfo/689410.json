@@ -29,7 +29,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -40,7 +39,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -50,7 +48,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -61,7 +58,6 @@
             "depotfromapp": "1007"
         },
         "1611741": {
-            "name": "BattleBit Remastered Playtest Depot",
             "manifests": {
                 "public": "2542221647243411232"
             },
@@ -93,25 +89,21 @@
             },
             "developer": {
                 "buildid": "9902604",
-                "description": "developer",
                 "pwdrequired": "1",
                 "timeupdated": "1668011384"
             },
             "publicqa": {
                 "buildid": "9876030",
-                "description": "private",
                 "pwdrequired": "1",
                 "timeupdated": "1667639877"
             },
             "server": {
                 "buildid": "9876030",
-                "description": "server",
                 "pwdrequired": "1",
                 "timeupdated": "1667639913"
             },
             "staff": {
                 "buildid": "9876030",
-                "description": "developer",
                 "pwdrequired": "1",
                 "timeupdated": "1667639920"
             }
@@ -119,6 +111,6 @@
     },
     "_missing_token": false,
     "_change_number": 16679775,
-    "_sha": "88b0365ec51a155421bbc8fc6f978ecff1658ee0",
-    "_size": 2914
+    "_sha": "5e0edd4bd847cb5501b76bcdf5b38870d1952fc4",
+    "_size": 2615
 }

@@ -37,7 +37,6 @@
     },
     "depots": {
         "823851": {
-            "name": "Darco - Reign of Elements - Linux Dedicated Server Content",
             "config": {
                 "oslist": "linux"
             },
@@ -57,7 +56,6 @@
             }
         },
         "823853": {
-            "name": "Darco - Reign of Elements - Windows Dedicated Server Depot",
             "config": {
                 "oslist": "windows"
             },
@@ -76,9 +74,7 @@
                 }
             }
         },
-        "823852": {
-            "name": "Darco - Reign of Elements - Dedicated Server Depot"
-        },
+        "823852": {},
         "branches": {
             "public": {
                 "buildid": "3218705",
@@ -86,13 +82,11 @@
             },
             "development": {
                 "buildid": "3218705",
-                "description": "Development",
                 "pwdrequired": "1",
                 "timeupdated": "1539720275"
             },
             "test": {
                 "buildid": "3218705",
-                "description": "Testing, pre dev in beta",
                 "pwdrequired": "1",
                 "timeupdated": "1539720075"
             }
@@ -100,6 +94,6 @@
     },
     "_missing_token": false,
     "_change_number": 15577664,
-    "_sha": "d0be891ede7b091b6b161f72a5d48cfb07757bc4",
-    "_size": 2509
+    "_sha": "f1b56601e5d94f266d1eff2f10e7c3313175f99e",
+    "_size": 2222
 }
