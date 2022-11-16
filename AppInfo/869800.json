@@ -100,7 +100,8 @@
         },
         "869801": {
             "manifests": {
-                "public": "2915516593277248135"
+                "public": "2915516593277248135",
+                "upcoming": "1108146664930662248"
             },
             "maxsize": "6355872693",
             "encryptedmanifests": {
@@ -115,7 +116,8 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "8408377044009251963"
+                "public": "8408377044009251963",
+                "upcoming": "3382294107244488457"
             },
             "maxsize": "73995813",
             "encryptedmanifests": {
@@ -130,7 +132,8 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "2605904633359190744"
+                "public": "2605904633359190744",
+                "upcoming": "761371831664605555"
             },
             "maxsize": "143590054",
             "encryptedmanifests": {
@@ -150,11 +153,16 @@
                 "buildid": "9944149",
                 "pwdrequired": "1",
                 "timeupdated": "1668540914"
+            },
+            "upcoming": {
+                "buildid": "9944149",
+                "description": "Upcoming changes",
+                "timeupdated": "1668558568"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 16743200,
-    "_sha": "79ffb06a5215013facf6a01a6f483bec6acf248d",
-    "_size": 3634
+    "_change_number": 16745704,
+    "_sha": "63b50df307784d7d17ae85d530c6579ba105f4a1",
+    "_size": 3866
 }
