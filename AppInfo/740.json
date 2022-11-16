@@ -32,10 +32,11 @@
             "name": "Counter-Strike Global Offensive Beta Common",
             "systemdefined": "1",
             "manifests": {
-                "public": "3517056650044463305",
-                "1.38.4.6": "3517056650044463305"
+                "public": "4779740059493913159",
+                "1.38.4.6": "3517056650044463305",
+                "1.38.4.7": "4779740059493913159"
             },
-            "maxsize": "32604013775",
+            "maxsize": "32624569779",
             "encryptedmanifests": {
                 "dprs": {
                     "encrypted_gid_2": "23D0B308D1CE739A6C3B5F1E61A98757",
@@ -47,8 +48,9 @@
             "name": "Counter-Strike Global Offensive Beta - Dedicated Server",
             "systemdefined": "1",
             "manifests": {
-                "public": "8924316780211813841",
-                "1.38.4.6": "8924316780211813841"
+                "public": "496245555518778344",
+                "1.38.4.6": "8924316780211813841",
+                "1.38.4.7": "496245555518778344"
             },
             "maxsize": "1976783364",
             "encryptedmanifests": {
@@ -61,13 +63,18 @@
         "overridescddb": "1",
         "branches": {
             "public": {
-                "buildid": "9807927",
-                "timeupdated": "1666829544"
+                "buildid": "9945997",
+                "timeupdated": "1668561684"
             },
             "1.38.4.6": {
                 "buildid": "9807927",
                 "description": "1.38.4.6",
                 "timeupdated": "1666829745"
+            },
+            "1.38.4.7": {
+                "buildid": "9945997",
+                "description": "1.38.4.7",
+                "timeupdated": "1668563168"
             },
             "dprs": {
                 "buildid": "7633487",
@@ -77,7 +84,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16505352,
-    "_sha": "6e019f54286bf7f59d88297b58a2e99261e51034",
-    "_size": 1804
+    "_change_number": 16746335,
+    "_sha": "778f44f2dd7e06e0269df7ba81bc14934414bc31",
+    "_size": 1989
 }
