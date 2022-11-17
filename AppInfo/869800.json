@@ -101,6 +101,7 @@
         "869801": {
             "manifests": {
                 "public": "2915516593277248135",
+                "revert": "2915516593277248135",
                 "upcoming": "2455234045593704450"
             },
             "maxsize": "6355872693",
@@ -117,6 +118,7 @@
             },
             "manifests": {
                 "public": "8408377044009251963",
+                "revert": "8408377044009251963",
                 "upcoming": "2138946054395815684"
             },
             "maxsize": "73995813",
@@ -133,6 +135,7 @@
             },
             "manifests": {
                 "public": "2605904633359190744",
+                "revert": "2605904633359190744",
                 "upcoming": "6830686712153646491"
             },
             "maxsize": "143590054",
@@ -154,6 +157,11 @@
                 "pwdrequired": "1",
                 "timeupdated": "1668697958"
             },
+            "revert": {
+                "buildid": "9918456",
+                "description": "Previous patch",
+                "timeupdated": "1668699336"
+            },
             "upcoming": {
                 "buildid": "9959998",
                 "description": "Upcoming changes",
@@ -162,7 +170,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16767833,
-    "_sha": "311585e85be8ef1a9b466b9eb0998afb505c7495",
-    "_size": 3867
+    "_change_number": 16768036,
+    "_sha": "b90dcfa94336ef0312c52f843187feb878728e44",
+    "_size": 4090
 }
