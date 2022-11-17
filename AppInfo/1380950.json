@@ -81,7 +81,8 @@
                 "language": ""
             },
             "manifests": {
-                "public": "2628618082645663181"
+                "public": "2628618082645663181",
+                "sigma": "2628618082645663181"
             },
             "maxsize": "301788891"
         },
@@ -92,7 +93,8 @@
                 "language": ""
             },
             "manifests": {
-                "public": "4102245761988125802"
+                "public": "4102245761988125802",
+                "sigma": "5816938411737372096"
             },
             "maxsize": "312364328"
         },
@@ -100,11 +102,16 @@
             "public": {
                 "buildid": "9182652",
                 "timeupdated": "1658724092"
+            },
+            "sigma": {
+                "buildid": "9955796",
+                "description": "Wave Defense Testing",
+                "timeupdated": "1668659280"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 15520293,
-    "_sha": "6641fa61b01f3c866b25da817d3a8159e68dd580",
-    "_size": 2047
+    "_change_number": 16761686,
+    "_sha": "2b9c9aebfb95252fe99e48dfdf2bdf1edc94e3e8",
+    "_size": 2237
 }
