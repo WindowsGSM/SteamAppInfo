@@ -229,6 +229,10 @@
                     "encrypted_gid_2": "EBC8FBA1B9D30CF82A9FE07E6473E2D0",
                     "encrypted_size_2": "D30CE5F8029C8EC7744D8613510274CF"
                 },
+                "equipment_rework": {
+                    "encrypted_gid_2": "BAC2127E007293E4A1DBEFEC4B61ADCD",
+                    "encrypted_size_2": "2BD8D8D5BB173A5C893FB8043A3DA8F6"
+                },
                 "gamesweek": {
                     "encrypted_gid_2": "3FBCBA89B9F5B79AC53D62B42B5DC7BA",
                     "encrypted_size_2": "62E4E93F3DAB814D9DFF0CCAC144C20D"
@@ -246,8 +250,8 @@
                     "encrypted_size_2": "3C841377D2D383E0952D7B0CD10586E8"
                 },
                 "playtest_external": {
-                    "encrypted_gid_2": "8776B106116EC2895AACA7A582E19139",
-                    "encrypted_size_2": "311A7114D0B3F4F0DC26021989EB019D"
+                    "encrypted_gid_2": "10108ABE6FADCADF908D561FDAE25CB9",
+                    "encrypted_size_2": "69C423A93835D3BBB13F65ADABC91AA6"
                 },
                 "qa_testroom": {
                     "encrypted_gid_2": "5D33FE669F84F77DABDE8D1BA611D083",
@@ -277,6 +281,10 @@
                     "encrypted_gid_2": "45D5F5AF5150C9179178CBCE880A48B1",
                     "encrypted_size_2": "B5DAA0793C9BA09C84D2AE6743947959"
                 },
+                "equipment_rework": {
+                    "encrypted_gid_2": "E840F6A7DF5FB7095A4E587E52A81A92",
+                    "encrypted_size_2": "4F4A162C4243DCA63D9F2ED48296B4C8"
+                },
                 "gamesweek": {
                     "encrypted_gid_2": "353430CA5D358EF45F9719F9B13BC38C",
                     "encrypted_size_2": "C7ECFFDDF3EFB7DA89FEEBE4FD969E73"
@@ -294,8 +302,8 @@
                     "encrypted_size_2": "9D5E54685650A067E086D5EC853F2520"
                 },
                 "playtest_external": {
-                    "encrypted_gid_2": "0929224C455228831B3BCDEDAE1FB71E",
-                    "encrypted_size_2": "21ED41242C1A828929AFD4A0E2E1449E"
+                    "encrypted_gid_2": "CE37982EBBFDECB80B7AE21D303A2D13",
+                    "encrypted_size_2": "D0F02D366E6CEFD15BF26FDC73CF4D76"
                 },
                 "qa_testroom": {
                     "encrypted_gid_2": "E5D7C6539D6B5AF1FE0609E8BE196CB6",
@@ -325,6 +333,10 @@
                     "encrypted_gid_2": "0B545C233631E8BC41BDAA94774CEC1C",
                     "encrypted_size_2": "C75C4B3B905B49B1EFB900FD9B6228D6"
                 },
+                "equipment_rework": {
+                    "encrypted_gid_2": "489F1766DA14C31F924BD1962FDABD1E",
+                    "encrypted_size_2": "33F99605902276AA621E83F63094FFC6"
+                },
                 "gamesweek": {
                     "encrypted_gid_2": "164BFE79F812D82F24A78C7FDE13D468",
                     "encrypted_size_2": "0AF1DE4D68C5BABE3BB256ECBB432B64"
@@ -342,8 +354,8 @@
                     "encrypted_size_2": "FEB0782075F2B9D7DA4D1CE2D66FE75C"
                 },
                 "playtest_external": {
-                    "encrypted_gid_2": "FEEE1A6D25AC6E3388C2CE8DE641D0F4",
-                    "encrypted_size_2": "FE13A73F8F567034EB8253D47502A3A0"
+                    "encrypted_gid_2": "3BBC6F52C4A0F8B3BC751E3C23F5569B",
+                    "encrypted_size_2": "6E00C9805EDB465482AE51DF050EEBAF"
                 },
                 "qa_testroom": {
                     "encrypted_gid_2": "C353AF1A43B419CD218F4987F13F5F43",
@@ -371,6 +383,10 @@
                 "current": {
                     "encrypted_gid_2": "6B79E0632F06FA48440FD6EE2D335D2F",
                     "encrypted_size_2": "F2BFA34734FC054F15A06024F6174AE7"
+                },
+                "equipment_rework": {
+                    "encrypted_gid_2": "5AC09BA7A215967A65A08094AD5BD70D",
+                    "encrypted_size_2": "E89B9A37EDCEA75F64AFE391FA33E75A"
                 },
                 "gamesweek": {
                     "encrypted_gid_2": "2E67D38B7BB6317B898815104BDA8AAA",
@@ -416,6 +432,11 @@
                 "pwdrequired": "1",
                 "timeupdated": "1653918066"
             },
+            "equipment_rework": {
+                "buildid": "9962010",
+                "pwdrequired": "1",
+                "timeupdated": "1668759086"
+            },
             "gamesweek": {
                 "buildid": "9762825",
                 "pwdrequired": "1",
@@ -437,9 +458,9 @@
                 "timeupdated": "1668612647"
             },
             "playtest_external": {
-                "buildid": "9946499",
+                "buildid": "9918764",
                 "pwdrequired": "1",
-                "timeupdated": "1668598419"
+                "timeupdated": "1668758505"
             },
             "qa_testroom": {
                 "buildid": "9964428",
@@ -459,7 +480,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16776451,
-    "_sha": "5923a429945df561171b3b1d4666fb6973e7cb1f",
-    "_size": 12736
+    "_change_number": 16776738,
+    "_sha": "f0a0176f865b9d3211070e251a3d493d6d0d72a6",
+    "_size": 13464
 }
