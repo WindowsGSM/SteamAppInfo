@@ -181,7 +181,7 @@
             },
             "17": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_websvc_skip_tls_cert_validation 1",
+                "arguments": "+online_account_client_settings stage",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -494,7 +494,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16777795,
-    "_sha": "73ccff4377a5456c72c8e5769b25a1b8d95d01cf",
-    "_size": 13824
+    "_change_number": 16778383,
+    "_sha": "0591d5a79f8b2859e1486f4d18b06aa55520c883",
+    "_size": 13820
 }
