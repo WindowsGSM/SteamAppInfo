@@ -181,7 +181,7 @@
             },
             "17": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings rework",
+                "arguments": "+online_account_client_settings rework -online_server capi1-cndev-lw-wc.huntshowdown.com -online_server_port 61088",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -494,7 +494,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16781069,
-    "_sha": "d3677217d5507b8eba2b9a5d9f83236f83390c1e",
-    "_size": 13821
+    "_change_number": 16781649,
+    "_sha": "944836efd85a60caf5756f2f411da10c98956b51",
+    "_size": 13897
 }
