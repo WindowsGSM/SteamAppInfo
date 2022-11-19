@@ -402,6 +402,10 @@
                 "uat_release": {
                     "encrypted_gid_2": "24D6B51B7372267311E1CD8CC3286466",
                     "encrypted_size_2": "835D2A2253CD9A16AECC04A520F61A31"
+                },
+                "uat_tct": {
+                    "encrypted_gid_2": "BF64B3B7075627D467060404E129BFD2",
+                    "encrypted_size_2": "C6E91E0D1AEA9C23025D4964C530A8F7"
                 }
             },
             "depotfromapp": "774941"
@@ -540,11 +544,16 @@
                 "buildid": "8008430",
                 "pwdrequired": "1",
                 "timeupdated": "1642018651"
+            },
+            "uat_tct": {
+                "buildid": "9972875",
+                "pwdrequired": "1",
+                "timeupdated": "1668829411"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 16786935,
-    "_sha": "fc31101a97df4047a0d64d80bd7b95e65a3c1f24",
-    "_size": 15928
+    "_change_number": 16787231,
+    "_sha": "a51f6349890b8eca68e75d82212cd0fcc6c79cff",
+    "_size": 16176
 }
