@@ -77,12 +77,16 @@
                     "encrypted_size_2": "A82CED39DAD872F1B6836F4A68DD24DA"
                 },
                 "benchmark2": {
-                    "encrypted_gid_2": "A8CC4BCE51599BE5B746AD446F7FF1EA",
-                    "encrypted_size_2": "FBB76CF605D624BD5D25CCAA42C276F7"
+                    "encrypted_gid_2": "E4409D89915601F0903E633E3E1AEF24",
+                    "encrypted_size_2": "15A2051B2FF7BD8EBCA26BB859618494"
                 },
                 "benchmark3": {
                     "encrypted_gid_2": "8CA97A360DF690C451614FFFA3780545",
                     "encrypted_size_2": "F04D7E8E21141568B951593E14229F46"
+                },
+                "benchmark4": {
+                    "encrypted_gid_2": "185644685FF1B99A6F14E6DDF36A3357",
+                    "encrypted_size_2": "930C2DFE345804681F54408BD3055130"
                 },
                 "staging": {
                     "encrypted_gid_2": "7A2C69CC252F5D4C7A0D5F8591025076",
@@ -118,6 +122,10 @@
                     "encrypted_gid_2": "DD16F4AE25A55E551D4E035E5592FA10",
                     "encrypted_size_2": "D0C88BC3DD4052FE39A607358FBF7D05"
                 },
+                "benchmark4": {
+                    "encrypted_gid_2": "35BDAD4908A8F605010095E51F6A5496",
+                    "encrypted_size_2": "5565790B457C23D841C5A2EC21B10529"
+                },
                 "staging": {
                     "encrypted_gid_2": "092B3802E4244B3FC52A316BD2CFC6A0",
                     "encrypted_size_2": "3B9FFCB30DE96DD2FFDC6A77B0D65F3F"
@@ -139,14 +147,19 @@
                 "timeupdated": "1625586022"
             },
             "benchmark2": {
-                "buildid": "8348125",
+                "buildid": "10039876",
                 "pwdrequired": "1",
-                "timeupdated": "1646925245"
+                "timeupdated": "1669735870"
             },
             "benchmark3": {
                 "buildid": "9844840",
                 "pwdrequired": "1",
                 "timeupdated": "1667306775"
+            },
+            "benchmark4": {
+                "buildid": "10039875",
+                "pwdrequired": "1",
+                "timeupdated": "1669735862"
             },
             "beta": {
                 "buildid": "9771157",
@@ -165,7 +178,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16887569,
-    "_sha": "b18adf93ab8c8f0651c57b9f9312b13a1db79597",
-    "_size": 4052
+    "_change_number": 16897424,
+    "_sha": "5b7cc763df7523a024abd48a8678b9c3c9b45358",
+    "_size": 4456
 }
