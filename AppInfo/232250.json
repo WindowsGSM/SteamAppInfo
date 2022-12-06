@@ -29,12 +29,12 @@
         "232250": {
             "name": "TF2 Dedicated server assets",
             "manifests": {
-                "public": "6520580935880613774",
-                "prerelease": "6520580935880613774",
-                "valve_ds": "6520580935880613774",
-                "vscript_test": "6520580935880613774"
+                "public": "2942029818904892673",
+                "prerelease": "2942029818904892673",
+                "valve_ds": "2942029818904892673",
+                "vscript_test": "2942029818904892673"
             },
-            "maxsize": "9418867750"
+            "maxsize": "9673854204"
         },
         "232255": {
             "name": "TF2 Windows server",
@@ -42,12 +42,12 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "2209763477353932542",
-                "prerelease": "2209763477353932542",
-                "valve_ds": "2209763477353932542",
-                "vscript_test": "2209763477353932542"
+                "public": "5857935023414504910",
+                "prerelease": "5857935023414504910",
+                "valve_ds": "5857935023414504910",
+                "vscript_test": "5857935023414504910"
             },
-            "maxsize": "104022920"
+            "maxsize": "104024456"
         },
         "232256": {
             "name": "TF2 Linux server",
@@ -55,12 +55,12 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "1668312776568614086",
-                "prerelease": "1668312776568614086",
-                "valve_ds": "1668312776568614086",
-                "vscript_test": "1668312776568614086"
+                "public": "6543845155327712740",
+                "prerelease": "6543845155327712740",
+                "valve_ds": "6543845155327712740",
+                "vscript_test": "6543845155327712740"
             },
-            "maxsize": "92835594"
+            "maxsize": "92840010"
         },
         "232257": {
             "name": "TF2 Private DS",
@@ -78,27 +78,27 @@
         "overridescddb": "1",
         "branches": {
             "public": {
-                "buildid": "10060299",
-                "timeupdated": "1669938852"
+                "buildid": "10084518",
+                "timeupdated": "1670289768"
             },
             "prerelease": {
-                "buildid": "10060299",
-                "timeupdated": "1669938844"
+                "buildid": "10084518",
+                "timeupdated": "1670289753"
             },
             "valve_ds": {
-                "buildid": "10060299",
+                "buildid": "10084518",
                 "description": "The version Valve dedicated servers will sync to",
-                "timeupdated": "1669938651"
+                "timeupdated": "1670289623"
             },
             "vscript_test": {
-                "buildid": "10060299",
+                "buildid": "10084518",
                 "description": "VScript beta. Cannot connect to public servers or matchmaking.",
-                "timeupdated": "1669935489"
+                "timeupdated": "1670289761"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 16929554,
-    "_sha": "27091da91f7a98b24c82bbd521af3b2cc51197d1",
+    "_change_number": 16973340,
+    "_sha": "b8d4b6e69a7a97b45dcc56ea5f5d8cd856c2a6e2",
     "_size": 2281
 }
