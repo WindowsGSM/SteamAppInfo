@@ -104,6 +104,10 @@
                 "release": {
                     "encrypted_gid_2": "80B91575C55261B24F0BB6FC928DD199",
                     "encrypted_size_2": "3E78859591CB19CCD7C537276B276D05"
+                },
+                "release_alt": {
+                    "encrypted_gid_2": "2270CB62A3D799F90A880E9F6F2A62A6",
+                    "encrypted_size_2": "F093A72A0604EE0DE0EF974107FFCE72"
                 }
             }
         },
@@ -131,11 +135,16 @@
                 "buildid": "10109440",
                 "pwdrequired": "1",
                 "timeupdated": "1670538283"
+            },
+            "release_alt": {
+                "buildid": "10108490",
+                "pwdrequired": "1",
+                "timeupdated": "1670539478"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 17024390,
-    "_sha": "d385421eed0aba3e555033745ab58af7a680af91",
-    "_size": 3058
+    "_change_number": 17024518,
+    "_sha": "732e57ab29bfc7e3d7de7de5abe81b0471890c80",
+    "_size": 3315
 }
