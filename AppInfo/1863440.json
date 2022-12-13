@@ -31,7 +31,7 @@
                 "description": "Launch Server"
             },
             "1": {
-                "executable": "dotnet",
+                "executable": "./dotnet",
                 "arguments": "TaleWorlds.Starter.DotNetCore.Linux.dll",
                 "workingdir": "bin/Linux64_Shipping_Server",
                 "config": {
@@ -106,7 +106,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 17068013,
-    "_sha": "ed7a589310688bd8788700d10f069896b9838382",
-    "_size": 2569
+    "_change_number": 17069314,
+    "_sha": "068a741f06caa27da94f5999d72b15762b50db04",
+    "_size": 2571
 }
