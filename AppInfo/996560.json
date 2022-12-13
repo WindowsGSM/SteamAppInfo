@@ -86,9 +86,10 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "2966125571119585131"
+                "public": "2966125571119585131",
+                "public-beta": "1614134228513885599"
             },
-            "maxsize": "656752462",
+            "maxsize": "680820829",
             "encryptedmanifests": {
                 "arith1": {
                     "encrypted_gid_2": "B0B70E5B3E692A86B3A224ABACAE6E5F",
@@ -154,9 +155,10 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "3630470265108135241"
+                "public": "3630470265108135241",
+                "public-beta": "9109720973458723462"
             },
-            "maxsize": "486989270",
+            "maxsize": "512398893",
             "encryptedmanifests": {
                 "arith1": {
                     "encrypted_gid_2": "EB9A6B4BB3C279E994A65B86B1614164",
@@ -276,6 +278,11 @@
                 "pwdrequired": "1",
                 "timeupdated": "1670791813"
             },
+            "public-beta": {
+                "buildid": "10124796",
+                "description": "Public beta for 12.0",
+                "timeupdated": "1670960370"
+            },
             "qa-testing": {
                 "buildid": "9755836",
                 "pwdrequired": "1",
@@ -294,7 +301,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 17071703,
-    "_sha": "c0d129d13d4715d3dca1553a5c75e4ebdb757310",
-    "_size": 7806
+    "_change_number": 17071937,
+    "_sha": "ffde557a89553670f1fbb75ba67ad1802b1c3a1d",
+    "_size": 8015
 }
