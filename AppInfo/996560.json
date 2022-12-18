@@ -87,9 +87,10 @@
             },
             "manifests": {
                 "public": "2966125571119585131",
+                "pluginapi-beta": "6375788622897682883",
                 "public-beta": "1614134228513885599"
             },
-            "maxsize": "680820829",
+            "maxsize": "680838749",
             "encryptedmanifests": {
                 "arith1": {
                     "encrypted_gid_2": "B0B70E5B3E692A86B3A224ABACAE6E5F",
@@ -135,10 +136,6 @@
                     "encrypted_gid_2": "833022B1A1B68365750DA870DC74C0EC",
                     "encrypted_size_2": "44A9DC15F53B1E659B4A57235A0884C4"
                 },
-                "pluginapi-beta": {
-                    "encrypted_gid_2": "FEF20B8AA36646964516E13398A69F2D",
-                    "encrypted_size_2": "D80ADAFA462E6C8CA937F9B26F16BF40"
-                },
                 "qa-testing": {
                     "encrypted_gid_2": "6914CA4A58F165479496B02D522F8446",
                     "encrypted_size_2": "3BAED26293722524359EDA60BC3183C6"
@@ -160,9 +157,10 @@
             },
             "manifests": {
                 "public": "3630470265108135241",
+                "pluginapi-beta": "1037576715336196616",
                 "public-beta": "9109720973458723462"
             },
-            "maxsize": "512398893",
+            "maxsize": "512415749",
             "encryptedmanifests": {
                 "arith1": {
                     "encrypted_gid_2": "EB9A6B4BB3C279E994A65B86B1614164",
@@ -207,10 +205,6 @@
                 "nightly": {
                     "encrypted_gid_2": "80EC8159C4110FEE5E7F76EBA376EA00",
                     "encrypted_size_2": "4677841566BC88663262EE6B6FD0C318"
-                },
-                "pluginapi-beta": {
-                    "encrypted_gid_2": "8423A9AB5F607F6A340C4F7703780BA9",
-                    "encrypted_size_2": "63EB81AD57D9B78FF1E36326DAD3FCEC"
                 },
                 "qa-testing": {
                     "encrypted_gid_2": "1614E6497BC541A490C53542C000B941",
@@ -288,7 +282,7 @@
             },
             "pluginapi-beta": {
                 "buildid": "10170510",
-                "pwdrequired": "1",
+                "description": "Plugin API staging branch",
                 "timeupdated": "1671322561"
             },
             "public-beta": {
@@ -314,7 +308,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 17121579,
-    "_sha": "a2d863657c6fb29ae2f17e51e2b48c983a8446db",
-    "_size": 8445
+    "_change_number": 17123903,
+    "_sha": "cd26fb2b25d5b481d026e4aa5f657b84db3aa449",
+    "_size": 8253
 }
