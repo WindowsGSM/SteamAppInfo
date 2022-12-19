@@ -93,12 +93,12 @@
             },
             "manifests": {
                 "public": "5842543641621055641",
+                "older-version-0.90.0": "9001356186654937824",
                 "older-version-0.90.1": "2781449753208298328",
                 "older-version-0.90.2": "6062332651743403155",
-                "public-previews": "5478473654932474619",
-                "test": "3109894631552963595"
+                "public-previews": "5478473654932474619"
             },
-            "maxsize": "143902790",
+            "maxsize": "107096937",
             "encryptedmanifests": {
                 "older-version-0.90.3": {
                     "encrypted_gid_2": "2A0438EC2CBA507FB5E70D868F1DBC0C",
@@ -114,10 +114,10 @@
             },
             "manifests": {
                 "public": "2077063854713287962",
+                "older-version-0.90.0": "7333620006893949728",
                 "older-version-0.90.1": "6480316553627068289",
                 "older-version-0.90.2": "2742987986905561132",
-                "public-previews": "2976500840688703269",
-                "test": "7333620006893949728"
+                "public-previews": "2976500840688703269"
             },
             "maxsize": "112422340",
             "encryptedmanifests": {
@@ -135,10 +135,10 @@
             },
             "manifests": {
                 "public": "6971713411016983762",
+                "older-version-0.90.0": "638188199948156965",
                 "older-version-0.90.1": "5000997292670357776",
                 "older-version-0.90.2": "672653592197991436",
-                "public-previews": "1053739688371087790",
-                "test": "638188199948156965"
+                "public-previews": "1053739688371087790"
             },
             "maxsize": "107482632",
             "encryptedmanifests": {
@@ -152,6 +152,11 @@
             "public": {
                 "buildid": "7766899",
                 "timeupdated": "1637718577"
+            },
+            "older-version-0.90.0": {
+                "buildid": "7579056",
+                "description": "Version 0.90.0, released 2021-10-22",
+                "timeupdated": "1671490530"
             },
             "older-version-0.90.1": {
                 "buildid": "7630366",
@@ -172,16 +177,11 @@
                 "buildid": "10164778",
                 "description": "Public previews of upcoming LW updates",
                 "timeupdated": "1671489822"
-            },
-            "test": {
-                "buildid": "7587998",
-                "description": "test",
-                "timeupdated": "1635022500"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 17136642,
-    "_sha": "79be3f6edf99f16ff552c6a114b618a416c4ca6e",
-    "_size": 4260
+    "_change_number": 17136718,
+    "_sha": "39098ff0b81400eb3e267497644bab8eeec1f1ac",
+    "_size": 4355
 }
