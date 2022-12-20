@@ -79,8 +79,7 @@
                 "alpha6": "4907152130322703793",
                 "alpha7": "5310005512522126015",
                 "alpha8": "9130500877719341038",
-                "alpha9": "98967298642520364",
-                "experimental": "8597293384050172552"
+                "alpha9": "98967298642520364"
             },
             "maxsize": "15250778413",
             "encryptedmanifests": {
@@ -95,6 +94,10 @@
                 "eleontest": {
                     "encrypted_gid_2": "E1DF74E2B109C3EA11A5E0855EE7659B",
                     "encrypted_size_2": "AF1E33EC6CC21FFCE419C532B0421BD8"
+                },
+                "experimental": {
+                    "encrypted_gid_2": "56DD8D4BA81169802190CF26DC0A2231",
+                    "encrypted_size_2": "3907A52DD4BDD655DCA74E547AFFDF75"
                 },
                 "internal": {
                     "encrypted_gid_2": "E16A6E8E2CF97E1C3E80D3141FE91A74",
@@ -168,7 +171,7 @@
             },
             "experimental": {
                 "buildid": "10176494",
-                "description": "Experimental branch",
+                "pwdrequired": "1",
                 "timeupdated": "1671452581"
             },
             "internal": {
@@ -184,7 +187,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 17141475,
-    "_sha": "4ccbd2835bacd522c814eab4bc0cb81d085065e5",
-    "_size": 4429
+    "_change_number": 17142473,
+    "_sha": "52f71feb8ad2b42ebac892aea8ac60e70902fa52",
+    "_size": 4519
 }
