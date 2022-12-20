@@ -103,10 +103,10 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "8495184688896052974",
+                "public": "6935811057502213924",
                 "testlive": "3413207279564689242"
             },
-            "maxsize": "3893219974",
+            "maxsize": "3771024489",
             "encryptedmanifests": {
                 "2coreqa": {
                     "encrypted_gid_2": "2B810DD1BAF151872863A78E1A7EA77B",
@@ -189,12 +189,12 @@
                     "encrypted_size_2": "039271E395229E686043B9B3A28F5278"
                 },
                 "retail_backup1": {
-                    "encrypted_gid_2": "82944F29A37BB2F4D7724631E7DDBC2A",
-                    "encrypted_size_2": "2D925B2F0654CCC95A6DE6BA2F2B730C"
+                    "encrypted_gid_2": "AB3A783AA191ECF694A0E123162AA371",
+                    "encrypted_size_2": "2CE1BF403ACB5DE91C4F23CA5C2A2AAA"
                 },
                 "retail_backup2": {
-                    "encrypted_gid_2": "0DAEFDD9ADE99A60208B947CFE1587D3",
-                    "encrypted_size_2": "B9F5E7CA9A3A0EB321AD491302B67BAE"
+                    "encrypted_gid_2": "0228ECF063B0EDAEE7F53D3ECEF5EFE2",
+                    "encrypted_size_2": "08D333C7A550C080EF6FE1A40DD3DD74"
                 },
                 "trials": {
                     "encrypted_gid_2": "28CAEC20E7480F2E9B688577B3431709",
@@ -309,8 +309,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "10009826",
-                "timeupdated": "1670316375"
+                "buildid": "10149244",
+                "timeupdated": "1671540326"
             },
             "2coreqa": {
                 "buildid": "9926967",
@@ -431,16 +431,16 @@
                 "timeupdated": "1671053123"
             },
             "retail_backup1": {
-                "buildid": "9503245",
+                "buildid": "10009826",
                 "description": "Retail backup 1",
                 "pwdrequired": "1",
-                "timeupdated": "1663942266"
+                "timeupdated": "1671540717"
             },
             "retail_backup2": {
-                "buildid": "9482418",
+                "buildid": "9503245",
                 "description": "Retail backup 2",
                 "pwdrequired": "1",
-                "timeupdated": "1663942334"
+                "timeupdated": "1671540668"
             },
             "testlive": {
                 "buildid": "7966427",
@@ -454,7 +454,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 17142717,
-    "_sha": "0dceed2dc3b25ec7bf4e55e324d468a088d466b9",
-    "_size": 12869
+    "_change_number": 17142993,
+    "_sha": "fc100d3c54b4f48fe74d4f2f032153550b409088",
+    "_size": 12870
 }
