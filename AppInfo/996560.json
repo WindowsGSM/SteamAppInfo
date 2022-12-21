@@ -136,6 +136,10 @@
                     "encrypted_gid_2": "4AA83942B1C49B79AA7CA371608773E3",
                     "encrypted_size_2": "A5536A4D54FD0A0E3435F69B7FB47307"
                 },
+                "privbeta": {
+                    "encrypted_gid_2": "EEA58B55DD664C843947C48C3BE01D93",
+                    "encrypted_size_2": "78F9DD1DA897BDBFEC652DCB3FB78AFC"
+                },
                 "qa-testing": {
                     "encrypted_gid_2": "6914CA4A58F165479496B02D522F8446",
                     "encrypted_size_2": "3BAED26293722524359EDA60BC3183C6"
@@ -205,6 +209,10 @@
                 "nightly": {
                     "encrypted_gid_2": "9B7DA99ED87DFF98F46822B7B68BC4D4",
                     "encrypted_size_2": "73E02C0365F9DF38DFFD56CFBEF851E9"
+                },
+                "privbeta": {
+                    "encrypted_gid_2": "0239823A874E9B7C69860F5389B05B8F",
+                    "encrypted_size_2": "2EDCA045BD5E16D026E777E6E1184F7A"
                 },
                 "qa-testing": {
                     "encrypted_gid_2": "1614E6497BC541A490C53542C000B941",
@@ -285,6 +293,11 @@
                 "description": "Plugin API staging branch",
                 "timeupdated": "1671563791"
             },
+            "privbeta": {
+                "buildid": "10193503",
+                "pwdrequired": "1",
+                "timeupdated": "1671642776"
+            },
             "public-beta": {
                 "buildid": "10124796",
                 "description": "Public beta for 12.0",
@@ -308,7 +321,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 17157204,
-    "_sha": "d1304a501be833d2a63557095587ff8d39d56438",
-    "_size": 8253
+    "_change_number": 17157512,
+    "_sha": "a4b8c400b55b76226367af3f08000cd9d726916e",
+    "_size": 8650
 }
