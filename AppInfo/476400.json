@@ -114,6 +114,10 @@
             },
             "maxsize": "2220707560",
             "encryptedmanifests": {
+                "communitytest-ds": {
+                    "encrypted_gid_2": "7C07D69E6C7DF64200C7F2EF16852C1E",
+                    "encrypted_size_2": "48F8E087276C0A00EE295257204D64B1"
+                },
                 "devtest": {
                     "encrypted_gid_2": "DE2BCF73764727B73D4F40F50F3E2689",
                     "encrypted_size_2": "F190494E34F6738D7A99AA6362B050DC"
@@ -125,6 +129,12 @@
                 "buildid": "8916466",
                 "timeupdated": "1655406539"
             },
+            "communitytest-ds": {
+                "buildid": "10192916",
+                "description": "Community Test for Dedicated Server",
+                "pwdrequired": "1",
+                "timeupdated": "1671635163"
+            },
             "devtest": {
                 "buildid": "10192916",
                 "description": "Developer testing branch",
@@ -134,7 +144,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 17156114,
-    "_sha": "bd5cf56bb538fbdd5a0d7ffa7ca652cd552423e0",
-    "_size": 2993
+    "_change_number": 17156236,
+    "_sha": "1153d34bab0ea48ae54de345126a7c73a7c26171",
+    "_size": 3317
 }
