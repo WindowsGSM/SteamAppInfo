@@ -21,8 +21,7 @@
         "installdir": "Logic World Dedicated Server",
         "launch": {
             "0": {
-                "executable": "Server.exe",
-                "arguments": "-r .",
+                "executable": "net7.0/Server.exe",
                 "type": "default",
                 "config": {
                     "oslist": "windows",
@@ -30,8 +29,7 @@
                 }
             },
             "1": {
-                "executable": "Server",
-                "arguments": "-r .",
+                "executable": "net7.0/Server",
                 "type": "default",
                 "config": {
                     "oslist": "linux",
@@ -39,18 +37,10 @@
                 }
             },
             "2": {
-                "executable": "Server",
-                "arguments": "-r .",
+                "executable": "net7.0/Server",
                 "type": "default",
                 "config": {
                     "oslist": "macos"
-                }
-            },
-            "3": {
-                "executable": "bin/Server.exe",
-                "type": "default",
-                "config": {
-                    "betakey": "test"
                 }
             }
         }
@@ -92,18 +82,15 @@
                 "language": ""
             },
             "manifests": {
-                "public": "5842543641621055641",
+                "public": "5588733672175018984",
                 "older-version-0.90.0": "9001356186654937824",
                 "older-version-0.90.1": "2781449753208298328",
                 "older-version-0.90.2": "6062332651743403155",
+                "older-version-0.90.3": "5842543641621055641",
                 "public-previews": "1663134401426266502"
             },
-            "maxsize": "107097453",
+            "maxsize": "211576907",
             "encryptedmanifests": {
-                "older-version-0.90.3": {
-                    "encrypted_gid_2": "2A0438EC2CBA507FB5E70D868F1DBC0C",
-                    "encrypted_size_2": "589B10C5F8CA004844E708B44BE18E06"
-                },
                 "private-testing": {
                     "encrypted_gid_2": "E3D063DEA3283CB7870AA5B8E66B36B1",
                     "encrypted_size_2": "5BE89C40913A0E7D94D7CE8604291A93"
@@ -117,18 +104,15 @@
                 "language": ""
             },
             "manifests": {
-                "public": "2077063854713287962",
+                "public": "1279971228749618208",
                 "older-version-0.90.0": "7333620006893949728",
                 "older-version-0.90.1": "6480316553627068289",
                 "older-version-0.90.2": "2742987986905561132",
+                "older-version-0.90.3": "2077063854713287962",
                 "public-previews": "1838950530260720518"
             },
-            "maxsize": "112422340",
+            "maxsize": "214348273",
             "encryptedmanifests": {
-                "older-version-0.90.3": {
-                    "encrypted_gid_2": "030917B979620EFC1BEB10EE67B51464",
-                    "encrypted_size_2": "5C437B4F6FFE950550F127AA3B768DE5"
-                },
                 "private-testing": {
                     "encrypted_gid_2": "09049EFFB8B788722E1B12CD55FBEEAC",
                     "encrypted_size_2": "6C5212C3EAC800D4F1AE696D8FF3D8A4"
@@ -142,18 +126,15 @@
                 "language": ""
             },
             "manifests": {
-                "public": "6971713411016983762",
+                "public": "2851303259498902976",
                 "older-version-0.90.0": "638188199948156965",
                 "older-version-0.90.1": "5000997292670357776",
                 "older-version-0.90.2": "672653592197991436",
+                "older-version-0.90.3": "6971713411016983762",
                 "public-previews": "9045476514548589500"
             },
-            "maxsize": "107483148",
+            "maxsize": "211605259",
             "encryptedmanifests": {
-                "older-version-0.90.3": {
-                    "encrypted_gid_2": "44914B20C1F1FEE34D6A05244CA745D8",
-                    "encrypted_size_2": "4293C8C259BAA69856DCB81B768A051E"
-                },
                 "private-testing": {
                     "encrypted_gid_2": "3022E04732C992A7558633AB44AF25A3",
                     "encrypted_size_2": "AB7D6A03D703251812FB499F4A380C0F"
@@ -162,8 +143,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "7766899",
-                "timeupdated": "1637718577"
+                "buildid": "10188717",
+                "timeupdated": "1671590479"
             },
             "older-version-0.90.0": {
                 "buildid": "7579056",
@@ -182,7 +163,7 @@
             },
             "older-version-0.90.3": {
                 "buildid": "7766899",
-                "pwdrequired": "1",
+                "description": "Version 0.90.3, released 2021-11-23",
                 "timeupdated": "1664448461"
             },
             "private-testing": {
@@ -198,7 +179,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 17150276,
-    "_sha": "70173aa2843c446d12e5d54abada8da800b4bdb7",
-    "_size": 4926
+    "_change_number": 17150637,
+    "_sha": "ffb01ddead1f5851c323f7b15677bc52dc5306a5",
+    "_size": 4464
 }
