@@ -88,9 +88,10 @@
             "manifests": {
                 "public": "2966125571119585131",
                 "pluginapi-beta": "6790434121905209727",
-                "public-beta": "1614134228513885599"
+                "public-beta": "1614134228513885599",
+                "xmas-serverbuild": "8078304434074376156"
             },
-            "maxsize": "680820829",
+            "maxsize": "689338684",
             "encryptedmanifests": {
                 "arith1": {
                     "encrypted_gid_2": "B0B70E5B3E692A86B3A224ABACAE6E5F",
@@ -162,9 +163,10 @@
             "manifests": {
                 "public": "3630470265108135241",
                 "pluginapi-beta": "6171155171899040887",
-                "public-beta": "9109720973458723462"
+                "public-beta": "9109720973458723462",
+                "xmas-serverbuild": "932591041646896266"
             },
-            "maxsize": "512398893",
+            "maxsize": "520748052",
             "encryptedmanifests": {
                 "arith1": {
                     "encrypted_gid_2": "EB9A6B4BB3C279E994A65B86B1614164",
@@ -317,11 +319,16 @@
                 "buildid": "9224866",
                 "pwdrequired": "1",
                 "timeupdated": "1659280668"
+            },
+            "xmas-serverbuild": {
+                "buildid": "10194508",
+                "description": "Christmas-Anniversary build for serverhost early access.",
+                "timeupdated": "1671655743"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 17158946,
-    "_sha": "4b2f27b2d3a77a385ce190d6c540e83d2fb716b4",
-    "_size": 8650
+    "_change_number": 17159481,
+    "_sha": "8f5114a5a56f059764200bad691b37c81604e39b",
+    "_size": 8909
 }
