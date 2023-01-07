@@ -110,29 +110,52 @@
             "manifests": {
                 "public": "2348609935605485660"
             },
-            "maxsize": "406583173"
+            "maxsize": "406583173",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "0D94D05E738D7BE5E53FCF8CBD339A05",
+                    "encrypted_size_2": "91F1AF512F28ECA99174EF90731287E0"
+                }
+            }
         },
         "1978932": {
             "manifests": {
                 "public": "5283894298625652816"
             },
-            "maxsize": "370632"
+            "maxsize": "370632",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "74CE9BD4C9210367A63C9CE7F2835146",
+                    "encrypted_size_2": "BF9896CA8C9EF2E73AF3388E339C359E"
+                }
+            }
         },
         "1978933": {
             "manifests": {
                 "public": "5595913742782035477"
             },
-            "maxsize": "26550432"
+            "maxsize": "26550432",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "EDD4F18F3FD269A2210FEF50F538C62F",
+                    "encrypted_size_2": "2F0FD661921259504ED2B6A1C9D28071"
+                }
+            }
         },
         "branches": {
             "public": {
                 "buildid": "10236377",
                 "timeupdated": "1672714406"
+            },
+            "development": {
+                "buildid": "10275765",
+                "pwdrequired": "1",
+                "timeupdated": "1673125752"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 17251541,
-    "_sha": "555df7cd3cac809fdc6186dfe71c35e322adb939",
-    "_size": 2613
+    "_change_number": 17302874,
+    "_sha": "4eb64ebcf5b52ca5fe6234b94aba9c60d86be256",
+    "_size": 3270
 }
