@@ -50,7 +50,7 @@
         "installdir": "Ironsight_testserver",
         "launch": {
             "0": {
-                "executable": "launcher.exe",
+                "executable": "ironsight.exe",
                 "arguments": "ip=ironsight-staging.koreacentral.cloudapp.azure.com port=28000 use_steam=1 staging",
                 "config": {
                     "oslist": "windows"
@@ -81,19 +81,19 @@
         },
         "1940991": {
             "manifests": {
-                "public": "7551186726069991524"
+                "public": "2615117400501603638"
             },
-            "maxsize": "9450722467"
+            "maxsize": "9454623907"
         },
         "branches": {
             "public": {
-                "buildid": "10294594",
-                "timeupdated": "1673398983"
+                "buildid": "10304180",
+                "timeupdated": "1673500937"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 17340634,
-    "_sha": "fc1240a72b5e3d14d2b6c9f223293b2fb1c81c77",
-    "_size": 2037
+    "_change_number": 17349659,
+    "_sha": "1e144659ad8665f01ff7ffc76c253efc0c568305",
+    "_size": 2038
 }
