@@ -66,10 +66,22 @@
             "depotfromapp": "1007"
         },
         "1003981": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
             "manifests": {
                 "public": "2677378932292333491"
             },
             "maxsize": "2432621631"
+        },
+        "1003982": {
+            "config": {
+                "language": "english",
+                "oslist": "linux",
+                "osarch": "64"
+            }
         },
         "branches": {
             "public": {
@@ -79,7 +91,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16782299,
-    "_sha": "e00a68bf5ee6f14627ee7a70846c6d06ef6933f4",
-    "_size": 1714
+    "_change_number": 17382384,
+    "_sha": "1a98fd8c4ef72ad04283c962ca1e390d048a5ced",
+    "_size": 1914
 }
