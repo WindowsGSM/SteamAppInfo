@@ -195,6 +195,20 @@
                     "english": "equipment_rework"
                 },
                 "description": "equipment_rework"
+            },
+            "18": {
+                "executable": "bin\\win_x64\\HuntGame.exe",
+                "arguments": "+online_account_client_settings stage",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "scripted_tutorial"
+                },
+                "description_loc": {
+                    "english": "scripted_tutorial"
+                },
+                "description": "scripted_tutorial"
             }
         }
     },
@@ -497,7 +511,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 17392422,
-    "_sha": "2f25823387e5638fd9c43ddf578a12efb92dba6f",
-    "_size": 13975
+    "_change_number": 17392743,
+    "_sha": "37765ab11b6d27aec8cf0e25fd95a8777852878a",
+    "_size": 14334
 }
