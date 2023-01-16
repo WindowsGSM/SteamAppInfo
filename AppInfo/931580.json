@@ -1,18 +1,29 @@
 {
     "appid": "931580",
     "common": {
-        "name": "Conan Exiles - Testlive Dedicated Server",
+        "name": "Conan Exiles - Public Beta Dedicated Server",
         "type": "Tool",
         "parent": "931180",
         "releasestate": "released",
         "oslist": "windows",
         "osarch": "64",
         "osextended": "",
+        "icon": "2ead99ecb05ef528b5629993a8a87bc959aa90cd",
+        "clienticon": "b0a68a35e3f0f96819fe93aadc1cf421e40ac64c",
+        "clienttga": "f9d4937ceedb02204ef505a83fbc9b4938d02576",
+        "eulas": {
+            "0": {
+                "id": "931580_eula_0",
+                "name": "Conan Exiles - Public Beta Dedicated Server EULA",
+                "url": "https://store.steampowered.com//eula/931580_eula_0",
+                "version": "1"
+            }
+        },
         "associations": {},
         "gameid": "931580"
     },
     "config": {
-        "installdir": "Conan Exiles - Testlive Dedicated Server",
+        "installdir": "Conan Exiles - Public Beta Dedicated Server",
         "launch": {
             "0": {
                 "executable": "ConanSandboxServer.exe",
@@ -133,7 +144,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16882486,
-    "_sha": "705739f3b74c41c1f40dd66890bcf6a20a5a0371",
-    "_size": 3355
+    "_change_number": 17391151,
+    "_sha": "33635a5fa96867d70743333b046568c1c15d98e0",
+    "_size": 3738
 }
