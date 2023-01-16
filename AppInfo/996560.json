@@ -86,10 +86,10 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "7600213565309050202",
-                "pluginapi-beta": "3146185362930690209"
+                "public": "897295536024131868",
+                "pluginapi-beta": "897295536024131868"
             },
-            "maxsize": "683841199",
+            "maxsize": "683840151",
             "encryptedmanifests": {
                 "beryl-test": {
                     "encrypted_gid_2": "3AC493378A4336A683692947E9835BCF",
@@ -126,6 +126,10 @@
                 "qa-testing": {
                     "encrypted_gid_2": "E8C1ABA724333172EC9D04F82F11BAA4",
                     "encrypted_size_2": "C236789269A9C08ECBA6EDF7A58C354E"
+                },
+                "tech": {
+                    "encrypted_gid_2": "A9DA65101E576E2C82776FF5A08E9CAF",
+                    "encrypted_size_2": "6A8E878B29B48ED16B7AB552CC2CB56E"
                 }
             }
         },
@@ -135,10 +139,10 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "6230214599441074762",
-                "pluginapi-beta": "2561054245804231523"
+                "public": "5867511674084278261",
+                "pluginapi-beta": "5867511674084278261"
             },
-            "maxsize": "515419687",
+            "maxsize": "515420247",
             "encryptedmanifests": {
                 "beryl-test": {
                     "encrypted_gid_2": "727F08D110DA4F160F95A29FA6A78C54",
@@ -175,13 +179,17 @@
                 "qa-testing": {
                     "encrypted_gid_2": "01D8DED9F7EA2E69AEF038B2B4E17632",
                     "encrypted_size_2": "5322CBD1ECEE99190D9E4998FEAA905A"
+                },
+                "tech": {
+                    "encrypted_gid_2": "135A6A907855846394352591CC807C88",
+                    "encrypted_size_2": "F064E2CA14932FDCB2BC525310403472"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "10318607",
-                "timeupdated": "1673806894"
+                "buildid": "10334079",
+                "timeupdated": "1673905065"
             },
             "beryl-test": {
                 "buildid": "10332378",
@@ -224,19 +232,24 @@
                 "timeupdated": "1673839732"
             },
             "pluginapi-beta": {
-                "buildid": "10333857",
+                "buildid": "10334079",
                 "description": "Plugin API staging branch",
-                "timeupdated": "1673893706"
+                "timeupdated": "1673905158"
             },
             "qa-testing": {
                 "buildid": "10334559",
                 "pwdrequired": "1",
                 "timeupdated": "1673901062"
+            },
+            "tech": {
+                "buildid": "10318607",
+                "pwdrequired": "1",
+                "timeupdated": "1673905047"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 17399250,
-    "_sha": "842adb8d2ea74845bda83fa4e8e9ac4c64d77b8a",
-    "_size": 6057
+    "_change_number": 17399417,
+    "_sha": "52b60af301520c4e264a32aa45503fe9e2518f68",
+    "_size": 6440
 }
