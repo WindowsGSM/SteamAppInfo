@@ -4,7 +4,7 @@
         "name": "Right to Rule Dedicated Server",
         "type": "Tool",
         "parent": "1003950",
-        "oslist": "windows",
+        "oslist": "windows,linux",
         "osarch": "64",
         "osextended": "",
         "logo": "5cb187b660edbacb3b76da0f50575b30285ee630",
@@ -83,19 +83,19 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "1039500279109291272"
+                "public": "6098830435442255264"
             },
-            "maxsize": "4889372962"
+            "maxsize": "4358855065"
         },
         "branches": {
             "public": {
-                "buildid": "10324932",
-                "timeupdated": "1673757014"
+                "buildid": "10343451",
+                "timeupdated": "1673993985"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 17382483,
-    "_sha": "eb061f62b31752b4b7b2a63dd3b1ad0459199b59",
-    "_size": 2003
+    "_change_number": 17412486,
+    "_sha": "0a21cd4cf475b88bcc7a4b91310c6f68f0579c9f",
+    "_size": 2009
 }
