@@ -113,8 +113,12 @@
             "maxsize": "406948048",
             "encryptedmanifests": {
                 "development": {
-                    "encrypted_gid_2": "FE33680B070DE757E5A912DDBD4AB0C4",
-                    "encrypted_size_2": "A7CD46B15B81A988B778BA1D27ACCE22"
+                    "encrypted_gid_2": "B90011FA78CD35CFE1D3F17D9C25DA9E",
+                    "encrypted_size_2": "7C73D385C04E3C843C212916BFF6B166"
+                },
+                "steamctg": {
+                    "encrypted_gid_2": "326B843656DBFEC5CE919B3F3AA4D953",
+                    "encrypted_size_2": "8640DC7306105D02EDCDE0E6804A0128"
                 }
             }
         },
@@ -127,6 +131,10 @@
                 "development": {
                     "encrypted_gid_2": "55D98A411C18E75BFE0E2AA15A7802D8",
                     "encrypted_size_2": "D5C4C68E8162CA3DDEAB262CF5824C16"
+                },
+                "steamctg": {
+                    "encrypted_gid_2": "ED7F94B51780598156059E5C48A2AB80",
+                    "encrypted_size_2": "346548A1FA3EFAF27FCC4554B8107F73"
                 }
             }
         },
@@ -139,6 +147,10 @@
                 "development": {
                     "encrypted_gid_2": "F85BE09A6D3902957B80AFDDC642CCC6",
                     "encrypted_size_2": "827B9210D855C85512440BCC95706E65"
+                },
+                "steamctg": {
+                    "encrypted_gid_2": "7A11DEDAAEE054765AD42CAB117513CD",
+                    "encrypted_size_2": "A3C57715D007279180BB9886F4E2E030"
                 }
             }
         },
@@ -148,14 +160,19 @@
                 "timeupdated": "1673296181"
             },
             "development": {
-                "buildid": "10285166",
+                "buildid": "10362817",
                 "pwdrequired": "1",
-                "timeupdated": "1673295679"
+                "timeupdated": "1674179953"
+            },
+            "steamctg": {
+                "buildid": "10362817",
+                "pwdrequired": "1",
+                "timeupdated": "1674179958"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 17319634,
-    "_sha": "3a67a25771b434c7026421c6c0f2c1edebf1e1cd",
-    "_size": 3269
+    "_change_number": 17442052,
+    "_sha": "72539d7ea00b1b2b3217e7282af5f3e075ec483c",
+    "_size": 3812
 }
