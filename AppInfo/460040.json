@@ -41,7 +41,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -52,7 +51,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -62,7 +60,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -73,7 +70,6 @@
             "depotfromapp": "1007"
         },
         "460044": {
-            "name": "Source 2013 Dedicated Server Windows",
             "config": {
                 "oslist": "windows"
             },
@@ -107,7 +103,6 @@
             }
         },
         "460045": {
-            "name": "Source 2013 Dedicated Server Linux",
             "config": {
                 "oslist": "linux"
             },
@@ -141,7 +136,6 @@
             }
         },
         "460041": {
-            "name": "Empires Assets",
             "manifests": {
                 "public": "1314966450441855089",
                 "beta": "1314966450441855089",
@@ -172,7 +166,6 @@
             }
         },
         "460043": {
-            "name": "Empires Scripts",
             "manifests": {
                 "public": "9218890676133482858",
                 "beta": "9218890676133482858",
@@ -203,7 +196,6 @@
             }
         },
         "460046": {
-            "name": "Empires Binaries Linux",
             "config": {
                 "oslist": "linux"
             },
@@ -237,7 +229,6 @@
             }
         },
         "460042": {
-            "name": "Empires Binaries Windows",
             "config": {
                 "oslist": "windows"
             },
@@ -291,13 +282,11 @@
             },
             "integration": {
                 "buildid": "1667369",
-                "description": "Latest Build (for developers)",
                 "pwdrequired": "1",
                 "timeupdated": "1488503304"
             },
             "smithys_test_branch": {
                 "buildid": "9585161",
-                "description": "Test branch for experimental stuff",
                 "pwdrequired": "1",
                 "timeupdated": "1664122647"
             },
@@ -314,6 +303,6 @@
     },
     "_missing_token": false,
     "_change_number": 17466791,
-    "_sha": "a5c55c130803ebc51dd1361a1885f26fa4bc9bb8",
-    "_size": 8738
+    "_sha": "03b07354ec491c39883bda1fef4e4eddeb40664e",
+    "_size": 8271
 }

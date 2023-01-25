@@ -24,7 +24,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -35,7 +34,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -45,7 +43,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -58,7 +55,6 @@
         "overridescddb": "1",
         "markdlcdepots": "0",
         "4021": {
-            "name": "Garry's Mod Dedicated Server Content",
             "systemdefined": "1",
             "manifests": {
                 "public": "8069894634948351867",
@@ -76,7 +72,6 @@
             }
         },
         "4022": {
-            "name": "Garry's Mod Dedicated Server Win32",
             "config": {
                 "oslist": "windows"
             },
@@ -97,7 +92,6 @@
             }
         },
         "4023": {
-            "name": "Garry's Mod Dedicated Server Linux",
             "config": {
                 "oslist": "linux"
             },
@@ -152,6 +146,6 @@
     },
     "_missing_token": false,
     "_change_number": 17503393,
-    "_sha": "185b5bfe210debf72e33afed866d4aebb1d716c9",
-    "_size": 3481
+    "_sha": "e8068d1b0cdb03a70143963744067810e92cd6e5",
+    "_size": 3204
 }

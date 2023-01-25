@@ -40,7 +40,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -51,7 +50,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -61,7 +59,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -72,7 +69,6 @@
             "depotfromapp": "1007"
         },
         "228985": {
-            "name": "VC 2013 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -81,7 +77,6 @@
             "sharedinstall": "1"
         },
         "228986": {
-            "name": "VC 2015 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -90,7 +85,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -99,7 +93,6 @@
             "sharedinstall": "1"
         },
         "462311": {
-            "name": "Day of Infamy Dedicated Server Content",
             "manifests": {
                 "public": "7320390893685177505",
                 "beta": "7320390893685177505",
@@ -125,6 +118,6 @@
     },
     "_missing_token": false,
     "_change_number": 15577664,
-    "_sha": "939d7896d649e800163b734693226825ece8c99e",
-    "_size": 2479
+    "_sha": "763fca31e23bfbc6dc046e8403fdcf3264e52884",
+    "_size": 2203
 }

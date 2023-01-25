@@ -33,7 +33,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -44,7 +43,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -54,7 +52,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -66,7 +63,6 @@
         },
         "overridescddb": "1",
         "17718": {
-            "name": "nuclear dawn DS helper",
             "config": {
                 "oslist": "windows"
             },
@@ -88,14 +84,12 @@
             }
         },
         "17711": {
-            "name": "Nuclear Dawn Content",
             "systemdefined": "1",
             "maxsize": "4633578503",
             "depotfromapp": "17710",
             "sharedinstall": "2"
         },
         "17712": {
-            "name": "Nuclear Dawn Windows Engine",
             "config": {
                 "oslist": "windows"
             },
@@ -105,7 +99,6 @@
             "sharedinstall": "2"
         },
         "111711": {
-            "name": "Nuclear Dawn LinuxDedicated Engine",
             "config": {
                 "oslist": "linux"
             },
@@ -145,6 +138,6 @@
     },
     "_missing_token": false,
     "_change_number": 15577664,
-    "_sha": "05569f3962931321dde9046c88008ea171c30bf7",
-    "_size": 3165
+    "_sha": "feb54be1d2df84737c3f8eec3c288d81bf49f7df",
+    "_size": 2875
 }

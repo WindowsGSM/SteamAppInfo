@@ -42,7 +42,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -53,7 +52,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -63,7 +61,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -74,7 +71,6 @@
             "depotfromapp": "1007"
         },
         "228985": {
-            "name": "VC 2013 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -83,7 +79,6 @@
             "sharedinstall": "1"
         },
         "228986": {
-            "name": "VC 2015 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -92,7 +87,6 @@
             "sharedinstall": "1"
         },
         "393253": {
-            "name": "Savage Resurrection Windows Dedicated Server x64",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -113,7 +107,6 @@
             }
         },
         "393255": {
-            "name": "Savage Resurrection Linux Dedicated Server x64",
             "config": {
                 "oslist": "linux",
                 "osarch": "64"
@@ -140,13 +133,11 @@
             },
             "development": {
                 "buildid": "1284851",
-                "description": "development branch",
                 "pwdrequired": "1",
                 "timeupdated": "1471453401"
             },
             "testing": {
                 "buildid": "1350771",
-                "description": "default test branch",
                 "pwdrequired": "1",
                 "timeupdated": "1474546591"
             }
@@ -154,6 +145,6 @@
     },
     "_missing_token": false,
     "_change_number": 15577664,
-    "_sha": "9c4606aca387665f220ceb0f112878cbecd3f145",
-    "_size": 3563
+    "_sha": "f476540510deaca7653edd6d4326e18a223a6715",
+    "_size": 3173
 }

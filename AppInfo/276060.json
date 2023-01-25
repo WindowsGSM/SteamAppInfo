@@ -51,7 +51,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -62,7 +61,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -72,7 +70,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -83,7 +80,6 @@
             "depotfromapp": "1007"
         },
         "228983": {
-            "name": "VC 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -92,7 +88,6 @@
             "sharedinstall": "1"
         },
         "228988": {
-            "name": "VC 2019 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -101,7 +96,6 @@
             "sharedinstall": "1"
         },
         "229001": {
-            "name": ".NET 3.5 Client Profile Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -112,7 +106,6 @@
         "overridescddb": "1",
         "markdlcdepots": "1",
         "225841": {
-            "name": "Base content",
             "manifests": {
                 "public": "120274866409892373",
                 "release_candidate_public": "120274866409892373"
@@ -131,7 +124,6 @@
             "depotfromapp": "225840"
         },
         "276061": {
-            "name": "Windows server binaries",
             "config": {
                 "oslist": "windows"
             },
@@ -152,7 +144,6 @@
             }
         },
         "276062": {
-            "name": "Linux server binaries",
             "config": {
                 "oslist": "linux"
             },
@@ -173,7 +164,6 @@
             }
         },
         "276063": {
-            "name": "OSX server binaries",
             "config": {
                 "oslist": "macos"
             },
@@ -200,13 +190,11 @@
             },
             "release_candidate": {
                 "buildid": "10234006",
-                "description": "Release candidate",
                 "pwdrequired": "1",
                 "timeupdated": "1672424392"
             },
             "release_candidate_community": {
                 "buildid": "10234006",
-                "description": "Release candidate (community well known)",
                 "pwdrequired": "1",
                 "timeupdated": "1672424404"
             },
@@ -219,6 +207,6 @@
     },
     "_missing_token": false,
     "_change_number": 17230081,
-    "_sha": "cdcf3d72b3d008cef30e5bffb32b2628b3f40851",
-    "_size": 5468
+    "_sha": "e94550d87ab1032b0ea557ef26abd0a2ad03e270",
+    "_size": 5005
 }

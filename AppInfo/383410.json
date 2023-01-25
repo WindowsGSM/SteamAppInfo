@@ -31,7 +31,6 @@
     },
     "depots": {
         "383411": {
-            "name": "Codename CURE Dedicated Server Content",
             "manifests": {
                 "public": "5136093822554650975",
                 "legacy": "5785976641866232207"
@@ -49,7 +48,6 @@
             }
         },
         "383412": {
-            "name": "Codename CURE Dedicated Server Windows Binaries",
             "config": {
                 "oslist": "windows"
             },
@@ -70,7 +68,6 @@
             }
         },
         "383413": {
-            "name": "Codename CURE Dedicated Server Linux Binaries",
             "config": {
                 "oslist": "linux"
             },
@@ -97,13 +94,11 @@
             },
             "development": {
                 "buildid": "8591740",
-                "description": "Dev branch for testing purposes",
                 "pwdrequired": "1",
                 "timeupdated": "1650477365"
             },
             "graveyard": {
                 "buildid": "1242112",
-                "description": "deadend devline",
                 "pwdrequired": "1",
                 "timeupdated": "1470830701"
             },
@@ -116,6 +111,6 @@
     },
     "_missing_token": false,
     "_change_number": 15577664,
-    "_sha": "3b6b30bab7695286ac63b68a78b693a73ef0e7d2",
-    "_size": 3049
+    "_sha": "a39147813b71abd4fda45926deae611e9b327205",
+    "_size": 2787
 }

@@ -29,7 +29,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -40,7 +39,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -50,7 +48,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -61,7 +58,6 @@
             "depotfromapp": "1007"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -70,7 +66,6 @@
             "sharedinstall": "1"
         },
         "41018": {
-            "name": "Retail Exclusive DLC",
             "optional": "1",
             "systemdefined": "1",
             "maxsize": "1219",
@@ -79,7 +74,6 @@
             "sharedinstall": "2"
         },
         "41017": {
-            "name": "Steam Pre-order DLC",
             "optional": "1",
             "systemdefined": "1",
             "maxsize": "656",
@@ -88,7 +82,6 @@
             "sharedinstall": "2"
         },
         "41016": {
-            "name": "DedServerBin",
             "optional": "1",
             "systemdefined": "1",
             "manifests": {
@@ -108,7 +101,6 @@
             }
         },
         "41011": {
-            "name": "Content",
             "systemdefined": "1",
             "maxsize": "2300549299",
             "depotfromapp": "41010",
@@ -122,13 +114,11 @@
             },
             "closedbeta": {
                 "buildid": "2297899",
-                "description": "Testers, IHVs,...",
                 "pwdrequired": "1",
                 "timeupdated": "1511111222"
             },
             "internal": {
                 "buildid": "5821912",
-                "description": "Internal testing",
                 "pwdrequired": "1",
                 "timeupdated": "1605199434"
             },
@@ -145,6 +135,6 @@
     },
     "_missing_token": false,
     "_change_number": 15577664,
-    "_sha": "58aae2de50076e42008c81d3aec63d3b2dd48a03",
-    "_size": 3168
+    "_sha": "e22ef7e50d240df1aad27afab72fbf75d6f03888",
+    "_size": 2809
 }

@@ -40,7 +40,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -51,7 +50,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -61,7 +59,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -72,7 +69,6 @@
             "depotfromapp": "1007"
         },
         "405101": {
-            "name": "Hurtworld Dedicated Server Content",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -94,7 +90,6 @@
             }
         },
         "405102": {
-            "name": "Hurtworld Dedicated Server Linux Depot",
             "config": {
                 "oslist": "linux"
             },
@@ -115,7 +110,6 @@
             }
         },
         "405103": {
-            "name": "Hurtworld Dedicated Server Shared Depot",
             "manifests": {
                 "public": "4737024751331444294",
                 "devtest": "4737024751331444294",
@@ -156,7 +150,6 @@
             },
             "tomtest": {
                 "buildid": "10295456",
-                "description": "Tom's testing branch",
                 "pwdrequired": "1",
                 "timeupdated": "1673409612"
             },
@@ -169,6 +162,6 @@
     },
     "_missing_token": false,
     "_change_number": 17336187,
-    "_sha": "bced342c815b58166ba431c6853b024f20d109d8",
-    "_size": 3975
+    "_sha": "0918d0a37f71c8481cc1e9a115a1e941f50045aa",
+    "_size": 3649
 }

@@ -53,7 +53,6 @@
     },
     "depots": {
         "228983": {
-            "name": "VC 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -62,7 +61,6 @@
             "sharedinstall": "1"
         },
         "228988": {
-            "name": "VC 2019 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -72,7 +70,6 @@
         },
         "overridescddb": "1",
         "294421": {
-            "name": "7 Days to Die Dedicated Server Windows Content",
             "systemdefined": "1",
             "config": {
                 "oslist": "windows"
@@ -123,7 +120,6 @@
             }
         },
         "294422": {
-            "name": "7 Days to Die Dedicated Server Linux Depot",
             "config": {
                 "oslist": "linux"
             },
@@ -263,31 +259,26 @@
             },
             "latest_experimental": {
                 "buildid": "10402001",
-                "description": "Unstable build",
                 "pwdrequired": "1",
                 "timeupdated": "1674669795"
             },
             "testing_branch": {
                 "buildid": "10402001",
-                "description": "Branch version, i.e. fixes for prior release",
                 "pwdrequired": "1",
                 "timeupdated": "1674668671"
             },
             "testing_branch_alt": {
                 "buildid": "9905892",
-                "description": "Branch version, alternate build (e.g. Unity version)",
                 "pwdrequired": "1",
                 "timeupdated": "1668220794"
             },
             "testing_profiling": {
                 "buildid": "10093016",
-                "description": "For profiling purposes only",
                 "pwdrequired": "1",
                 "timeupdated": "1671814396"
             },
             "testing_trunk": {
                 "buildid": "10395914",
-                "description": "Trunk version, latest new feature builds",
                 "pwdrequired": "1",
                 "timeupdated": "1674608094"
             }
@@ -295,6 +286,6 @@
     },
     "_missing_token": false,
     "_change_number": 17504940,
-    "_sha": "e17db56b65283cef2ca6f99d4064838519b89633",
-    "_size": 8149
+    "_sha": "7f181e96ae3cb2052a558a38ff4b23110885f812",
+    "_size": 7690
 }

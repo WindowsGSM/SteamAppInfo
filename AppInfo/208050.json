@@ -29,7 +29,6 @@
     },
     "depots": {
         "228982": {
-            "name": "VC 2008 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -38,21 +37,18 @@
             "sharedinstall": "1"
         },
         "63381": {
-            "name": "Sniper Elite V2 base",
             "systemdefined": "1",
             "maxsize": "90857991",
             "depotfromapp": "63380",
             "sharedinstall": "2"
         },
         "63393": {
-            "name": "Sniper Elite V2 Install Files",
             "systemdefined": "1",
             "maxsize": "1855991",
             "depotfromapp": "63380",
             "sharedinstall": "2"
         },
         "208051": {
-            "name": "Sniper Elite V2 DedServer base",
             "systemdefined": "1",
             "manifests": {
                 "public": "563153054103075786"
@@ -66,7 +62,6 @@
             }
         },
         "63394": {
-            "name": "Sniper Elite V2 DM Maps",
             "systemdefined": "1",
             "maxsize": "1127976334",
             "depotfromapp": "63380",
@@ -85,6 +80,6 @@
     },
     "_missing_token": false,
     "_change_number": 15577664,
-    "_sha": "47faba8c8685d6a5e8530d09b5450630b28f7e13",
-    "_size": 1735
+    "_sha": "2f80bff25149049f55e7740d7bf98649ce507a35",
+    "_size": 1549
 }

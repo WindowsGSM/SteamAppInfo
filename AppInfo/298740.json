@@ -43,7 +43,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -54,7 +53,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -64,7 +62,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -75,7 +72,6 @@
             "depotfromapp": "1007"
         },
         "228985": {
-            "name": "VC 2013 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -84,7 +80,6 @@
             "sharedinstall": "1"
         },
         "228988": {
-            "name": "VC 2019 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -93,7 +88,6 @@
             "sharedinstall": "1"
         },
         "229007": {
-            "name": ".NET 4.8 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -102,7 +96,6 @@
             "sharedinstall": "1"
         },
         "298741": {
-            "name": "Space Engineers Dedicated Server Content",
             "manifests": {
                 "public": "442217557308604676",
                 "1.178": "802443215314700870",
@@ -250,19 +243,16 @@
             },
             "stableready": {
                 "buildid": "10115049",
-                "description": "stable ready",
                 "pwdrequired": "1",
                 "timeupdated": "1670596606"
             },
             "steamctg": {
                 "buildid": "10358948",
-                "description": "CTG branch",
                 "pwdrequired": "1",
                 "timeupdated": "1674143169"
             },
             "test": {
                 "buildid": "7782736",
-                "description": " Branch for general testing",
                 "pwdrequired": "1",
                 "timeupdated": "1637924094"
             }
@@ -270,6 +260,6 @@
     },
     "_missing_token": false,
     "_change_number": 17485393,
-    "_sha": "47933e344ead5a27dc3b34f0d178c499c9277dc9",
-    "_size": 6444
+    "_sha": "0c272f761dfbbd1de20097280c702c30caad30c9",
+    "_size": 6059
 }

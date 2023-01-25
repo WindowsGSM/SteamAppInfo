@@ -67,7 +67,6 @@
         "overridescddb": "1",
         "markdlcdepots": "1",
         "233781": {
-            "name": "Arma 3 Alpha Dedicated Server Content (internal)",
             "systemdefined": "1",
             "manifests": {
                 "public": "8071456829638943073",
@@ -116,7 +115,6 @@
             }
         },
         "233782": {
-            "name": "Arma 3 Alpha Dedicated Server binary Windows (internal)",
             "config": {
                 "oslist": "windows"
             },
@@ -167,7 +165,6 @@
             }
         },
         "233783": {
-            "name": "Arma 3 Alpha Dedicated Server binary Linux (internal)",
             "config": {
                 "oslist": "linux"
             },
@@ -218,7 +215,6 @@
             }
         },
         "233784": {
-            "name": "Arma 3 Server Profiling - WINDOWS Depot",
             "config": {
                 "oslist": "windows"
             },
@@ -228,7 +224,6 @@
             "maxsize": "159820416"
         },
         "233785": {
-            "name": "Arma 3 Server - Profiler - LINUX Depot",
             "config": {
                 "oslist": "linux"
             },
@@ -238,7 +233,6 @@
             "maxsize": "232146932"
         },
         "233787": {
-            "name": "Arma 3 Server Creator DLC - GM",
             "manifests": {
                 "creatordlc": "5132611187809370715"
             },
@@ -259,7 +253,6 @@
             "maxsize": "3485094993"
         },
         "233788": {
-            "name": "Arma 3 Server Prague Project 2",
             "manifests": {},
             "encryptedmanifests": {
                 "cdlc_private_beta_server": {
@@ -269,7 +262,6 @@
             }
         },
         "233789": {
-            "name": "Arma 3 Server Creator DLC - CSLA",
             "manifests": {
                 "creatordlc": "3148544741648802691"
             },
@@ -286,7 +278,6 @@
             "maxsize": "1517167999"
         },
         "233790": {
-            "name": "Arma 3 Server Creator DLC - SOGPF",
             "manifests": {
                 "creatordlc": "7907683864326938845"
             },
@@ -307,7 +298,6 @@
             "maxsize": "4530513023"
         },
         "233791": {
-            "name": "Arma 3 Server Creator DLC - WS",
             "manifests": {
                 "creatordlc": "6698593150889593043"
             },
@@ -330,13 +320,11 @@
             },
             "cdlc_internal_server": {
                 "buildid": "6475122",
-                "description": "For internal CDLC testing",
                 "pwdrequired": "1",
                 "timeupdated": "1617270887"
             },
             "cdlc_private_beta_server": {
                 "buildid": "10104484",
-                "description": "For private CDLC Betas",
                 "pwdrequired": "1",
                 "timeupdated": "1670492167"
             },
@@ -347,7 +335,6 @@
             },
             "contact_staging": {
                 "buildid": "10400859",
-                "description": "Contact Staging Build",
                 "pwdrequired": "1",
                 "timeupdated": "1674660313"
             },
@@ -358,25 +345,21 @@
             },
             "gmstaging": {
                 "buildid": "4481552",
-                "description": "GM staging branch",
                 "pwdrequired": "1",
                 "timeupdated": "1576068786"
             },
             "legacy": {
                 "buildid": "8415593",
-                "description": "Legacy Build (2.08)",
                 "pwdrequired": "1",
                 "timeupdated": "1661253410"
             },
             "legacycontact": {
                 "buildid": "8415728",
-                "description": "Contact Legacy Build (2.08)",
                 "pwdrequired": "1",
                 "timeupdated": "1661253416"
             },
             "legacyports": {
                 "buildid": "2745873",
-                "description": "Legacy Build (1.82 - ports)",
                 "pwdrequired": "1",
                 "timeupdated": "1532420309"
             },
@@ -387,13 +370,11 @@
             },
             "staging": {
                 "buildid": "10400843",
-                "description": "Staging Build",
                 "pwdrequired": "1",
                 "timeupdated": "1674660191"
             },
             "temp": {
                 "buildid": "8333816",
-                "description": "temp",
                 "pwdrequired": "1",
                 "timeupdated": "1647437725"
             }
@@ -401,6 +382,6 @@
     },
     "_missing_token": false,
     "_change_number": 17503050,
-    "_sha": "761d455c07e98a0f497c0552692917ee4364f562",
-    "_size": 11583
+    "_sha": "22267c3baf0dd311fb4e56837d61498d542791ab",
+    "_size": 10682
 }

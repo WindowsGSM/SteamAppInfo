@@ -74,7 +74,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -85,7 +84,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -95,7 +93,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -106,7 +103,6 @@
             "depotfromapp": "1007"
         },
         "339011": {
-            "name": "Rising World Dedicated Server - Java Version",
             "manifests": {
                 "public": "8860498018075835343",
                 "legacy": "8860498018075835343",
@@ -115,7 +111,6 @@
             "maxsize": "35505017"
         },
         "339012": {
-            "name": "Rising World Dedicated Server - New Version Windows",
             "config": {
                 "oslist": "windows"
             },
@@ -125,7 +120,6 @@
             "maxsize": "2613403143"
         },
         "339013": {
-            "name": "Rising World Dedicated Server - New Version Linux",
             "config": {
                 "oslist": "linux"
             },
@@ -153,6 +147,6 @@
     },
     "_missing_token": false,
     "_change_number": 16718230,
-    "_sha": "006ff2b537d9c594f5c52e0c85b3de2a85abe2a5",
-    "_size": 3342
+    "_sha": "3512df8c5f0e564c1c7567a9545070eabd694816",
+    "_size": 3025
 }

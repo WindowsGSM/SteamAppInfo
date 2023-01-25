@@ -29,7 +29,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -40,7 +39,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -50,7 +48,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -61,7 +58,6 @@
             "depotfromapp": "1007"
         },
         "460321": {
-            "name": "MetaTron Dedicated Server Content",
             "manifests": {
                 "public": "6960298785918312956"
             },
@@ -87,6 +83,6 @@
     },
     "_missing_token": false,
     "_change_number": 15577664,
-    "_sha": "b0a29979d0aedff29a152d78e101064b7b17205b",
-    "_size": 1910
+    "_sha": "e56d5d82142fb7d834b3786fc17c97d91cd4ac45",
+    "_size": 1732
 }

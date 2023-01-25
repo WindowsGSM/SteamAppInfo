@@ -24,7 +24,6 @@
     },
     "depots": {
         "229006": {
-            "name": ".NET 4.7 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -33,7 +32,6 @@
             "sharedinstall": "1"
         },
         "354061": {
-            "name": "RaceRoom Dedicated Server Content",
             "manifests": {
                 "public": "8175028162087109394"
             },
@@ -60,13 +58,11 @@
             },
             "livepreview": {
                 "buildid": "10355631",
-                "description": "public config",
                 "pwdrequired": "1",
                 "timeupdated": "1674122720"
             },
             "p.i.": {
                 "buildid": "10105404",
-                "description": "Public Internal",
                 "pwdrequired": "1",
                 "timeupdated": "1670500870"
             },
@@ -79,6 +75,6 @@
     },
     "_missing_token": false,
     "_change_number": 17500011,
-    "_sha": "b9ca23832fb930b1c5e408599861f10349ecf947",
-    "_size": 1947
+    "_sha": "bd3d41e6e4edd62e20963c1969aa8536b1c15c7c",
+    "_size": 1799
 }

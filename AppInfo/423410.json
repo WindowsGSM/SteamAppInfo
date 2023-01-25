@@ -15,7 +15,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -26,7 +25,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -36,7 +34,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -47,7 +44,6 @@
             "depotfromapp": "1007"
         },
         "423411": {
-            "name": "Blackwake Dedicated Server Content",
             "manifests": {
                 "public": "5032640623346278518",
                 "laststable": "1449166235835234137"
@@ -87,6 +83,6 @@
     },
     "_missing_token": false,
     "_change_number": 15150439,
-    "_sha": "e9038b3e744c5baf1a4f32118bf94fb625033722",
-    "_size": 1859
+    "_sha": "7b8e0586fcb9cb2455d8ca1a8636367d3aea99d1",
+    "_size": 1680
 }

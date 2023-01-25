@@ -40,7 +40,6 @@
     "depots": {
         "overridescddb": "1",
         "295231": {
-            "name": "Fistfull of Frags Dedicated Server Content",
             "systemdefined": "1",
             "manifests": {
                 "public": "359795721192435398",
@@ -60,7 +59,6 @@
             }
         },
         "295232": {
-            "name": "win",
             "config": {
                 "oslist": "windows"
             },
@@ -82,7 +80,6 @@
             }
         },
         "295233": {
-            "name": "linux",
             "config": {
                 "oslist": "linux"
             },
@@ -114,13 +111,11 @@
             },
             "ranked": {
                 "buildid": "8117482",
-                "description": "?¿",
                 "pwdrequired": "1",
                 "timeupdated": "1643631772"
             },
             "ranked_30": {
                 "buildid": "7831173",
-                "description": "¿?",
                 "pwdrequired": "1",
                 "timeupdated": "1638720245"
             },
@@ -132,6 +127,6 @@
     },
     "_missing_token": false,
     "_change_number": 17395042,
-    "_sha": "5da190295d658d3a17c8c208b9a4007309f330ea",
-    "_size": 3233
+    "_sha": "8bfeb7d59e08067815f1a801e960c51482940d88",
+    "_size": 3091
 }

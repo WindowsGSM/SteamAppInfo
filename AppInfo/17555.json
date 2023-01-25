@@ -34,35 +34,30 @@
         "overridescddb": "1",
         "markdlcdepots": "1",
         "208": {
-            "name": "Base Source Shared Sounds",
             "systemdefined": "1",
             "maxsize": "995522479",
             "depotfromapp": "205",
             "sharedinstall": "2"
         },
         "207": {
-            "name": "Base Source Shared Models",
             "systemdefined": "1",
             "maxsize": "397557916",
             "depotfromapp": "205",
             "sharedinstall": "2"
         },
         "206": {
-            "name": "Base Source Shared Materials",
             "systemdefined": "1",
             "maxsize": "1038409978",
             "depotfromapp": "205",
             "sharedinstall": "2"
         },
         "205": {
-            "name": "Source Dedicated Server",
             "systemdefined": "1",
             "maxsize": "20223153",
             "depotfromapp": "205",
             "sharedinstall": "2"
         },
         "17551": {
-            "name": "Eternal-Silence content",
             "systemdefined": "1",
             "manifests": {
                 "public": "2331363083649090747"
@@ -77,7 +72,6 @@
             "depotfromapp": "17550"
         },
         "1004": {
-            "name": "Steamworks SDK Redist (Win32)",
             "systemdefined": "1",
             "config": {
                 "oslist": "windows"
@@ -92,13 +86,12 @@
             },
             "beta": {
                 "buildid": "57943",
-                "description": "Beta Branch",
                 "pwdrequired": "1"
             }
         }
     },
     "_missing_token": false,
     "_change_number": 15577664,
-    "_sha": "617603277d222ede3b86a907f0640731826ddef1",
-    "_size": 2055
+    "_sha": "39b0df7a1eb9f43ce0c4b13e3987d33fc2eebb25",
+    "_size": 1785
 }

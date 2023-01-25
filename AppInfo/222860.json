@@ -46,7 +46,6 @@
     },
     "depots": {
         "222861": {
-            "name": "Left 4 Dead 2 Dedicated Server Content",
             "systemdefined": "1",
             "manifests": {
                 "public": "8466593976761562358"
@@ -68,7 +67,6 @@
             }
         },
         "222862": {
-            "name": "Left 4 Dead 2 Win DS Content",
             "config": {
                 "oslist": "windows"
             },
@@ -92,7 +90,6 @@
             }
         },
         "222863": {
-            "name": "Left 4 Dead 2 Linux DS Content",
             "config": {
                 "oslist": "linux"
             },
@@ -129,13 +126,11 @@
             },
             "private_beta": {
                 "buildid": "7103573",
-                "description": "test",
                 "pwdrequired": "1",
                 "timeupdated": "1629474318"
             },
             "private_beta_old": {
                 "buildid": "6260430",
-                "description": "early beta",
                 "pwdrequired": "1",
                 "timeupdated": "1623878637"
             }
@@ -143,6 +138,6 @@
     },
     "_missing_token": false,
     "_change_number": 17482398,
-    "_sha": "5af2239752bbfaece3fd24c05f003cd0ec20144d",
-    "_size": 3536
+    "_sha": "b59ac5f57c1c0d0f3cfff63bfbd382f882e671c6",
+    "_size": 3340
 }

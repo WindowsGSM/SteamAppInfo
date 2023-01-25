@@ -24,7 +24,6 @@
     },
     "depots": {
         "228982": {
-            "name": "VC 2008 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -33,7 +32,6 @@
             "sharedinstall": "1"
         },
         "228983": {
-            "name": "VC 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -42,7 +40,6 @@
             "sharedinstall": "1"
         },
         "228984": {
-            "name": "VC 2012 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -51,7 +48,6 @@
             "sharedinstall": "1"
         },
         "228985": {
-            "name": "VC 2013 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -60,7 +56,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -69,7 +64,6 @@
             "sharedinstall": "1"
         },
         "328951": {
-            "name": "Dedicated Server Binaries Windows x64",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -80,14 +74,12 @@
             "maxsize": "36474771"
         },
         "244932": {
-            "name": "SNOW Content",
             "systemdefined": "1",
             "maxsize": "5687931359",
             "depotfromapp": "244930",
             "sharedinstall": "2"
         },
         "244931": {
-            "name": "Binaries Windows x64",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -97,14 +89,12 @@
             "sharedinstall": "2"
         },
         "244935": {
-            "name": "Levels",
             "systemdefined": "1",
             "maxsize": "3955626609",
             "depotfromapp": "244930",
             "sharedinstall": "2"
         },
         "244934": {
-            "name": "Localization English",
             "config": {
                 "language": "english"
             },
@@ -121,6 +111,6 @@
     },
     "_missing_token": false,
     "_change_number": 14630431,
-    "_sha": "deb65782a70e746b0fcd69f1942256c5b361c5c0",
-    "_size": 2281
+    "_sha": "0303c4df346465d05455539a15608b1c4486e123",
+    "_size": 1967
 }

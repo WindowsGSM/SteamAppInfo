@@ -36,7 +36,6 @@
     "depots": {
         "overridescddb": "1",
         "17581": {
-            "name": "Dystopia Content",
             "systemdefined": "1",
             "manifests": {
                 "public": "7649529834308003280",
@@ -53,7 +52,6 @@
             "depotfromapp": "17580"
         },
         "806640": {
-            "name": "Dystopia Dedicated Server Win32",
             "config": {
                 "oslist": "windows"
             },
@@ -65,7 +63,6 @@
             "maxsize": "21595840"
         },
         "806641": {
-            "name": "Dystopia Dedicated Server Linux32",
             "config": {
                 "oslist": "linux"
             },
@@ -98,6 +95,6 @@
     },
     "_missing_token": false,
     "_change_number": 17358378,
-    "_sha": "306fbbbdcae916faccabfc7e743afed8af456c6e",
-    "_size": 2135
+    "_sha": "80a1106d30f99bb928f333d3cfe27923973a0f29",
+    "_size": 2013
 }

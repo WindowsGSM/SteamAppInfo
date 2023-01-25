@@ -46,7 +46,6 @@
     },
     "depots": {
         "228986": {
-            "name": "VC 2015 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -55,14 +54,12 @@
             "sharedinstall": "1"
         },
         "414571": {
-            "name": "Crea Dedicated Server Content",
             "manifests": {
                 "public": "5690689484414141726"
             },
             "maxsize": "126982038"
         },
         "414572": {
-            "name": "Crea Dedicated Server Win Depot",
             "config": {
                 "oslist": "windows",
                 "osarch": "32"
@@ -73,7 +70,6 @@
             "maxsize": "31615240"
         },
         "414573": {
-            "name": "Crea Dedicated Server OSX Depot",
             "config": {
                 "oslist": "macos"
             },
@@ -83,7 +79,6 @@
             "maxsize": "46562311"
         },
         "414574": {
-            "name": "Crea Dedicated Server Linux Depot",
             "config": {
                 "oslist": "linux"
             },
@@ -93,7 +88,6 @@
             "maxsize": "98214306"
         },
         "414575": {
-            "name": "Crea Dedicated Server Win64 Depot",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -112,6 +106,6 @@
     },
     "_missing_token": false,
     "_change_number": 14633474,
-    "_sha": "ae8dc8f18066c25c3af7dadf3f274c8a4f7d8cff",
-    "_size": 2374
+    "_sha": "398deb6f384dac0ce7ebb8ff09e0520ff7f7e654",
+    "_size": 2119
 }

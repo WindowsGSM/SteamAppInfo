@@ -29,7 +29,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -40,7 +39,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -50,7 +48,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -61,7 +58,6 @@
             "depotfromapp": "1007"
         },
         "228983": {
-            "name": "VC 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -71,7 +67,6 @@
         },
         "baselanguages": "english",
         "475371": {
-            "name": "Shared Content",
             "manifests": {
                 "public": "1628344975606721851"
             },
@@ -84,7 +79,6 @@
             }
         },
         "475372": {
-            "name": "Windows Content",
             "config": {
                 "oslist": "windows"
             },
@@ -100,7 +94,6 @@
             }
         },
         "475373": {
-            "name": "Linux Content",
             "config": {
                 "oslist": "linux"
             },
@@ -116,7 +109,6 @@
             }
         },
         "475374": {
-            "name": "Workshop Content",
             "manifests": {
                 "public": "8691390406380101584"
             },
@@ -134,7 +126,6 @@
             },
             "beta": {
                 "buildid": "8917870",
-                "description": "Beta Branch",
                 "pwdrequired": "1",
                 "timeupdated": "1654961604"
             }
@@ -142,6 +133,6 @@
     },
     "_missing_token": false,
     "_change_number": 15577664,
-    "_sha": "743c1df61207692521773cf202c40e82d1d4ea58",
-    "_size": 3124
+    "_sha": "c5737e1f040bfe5805ab96db2aa751e5b90fcc7d",
+    "_size": 2818
 }

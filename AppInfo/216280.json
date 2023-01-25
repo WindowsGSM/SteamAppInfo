@@ -22,7 +22,6 @@
     },
     "depots": {
         "41078": {
-            "name": "SS3_Common_Linux",
             "systemdefined": "1",
             "manifests": {},
             "encryptedmanifests": {
@@ -37,7 +36,6 @@
             }
         },
         "41083": {
-            "name": "SS3_ServerBin_Linux",
             "systemdefined": "1",
             "manifests": {},
             "encryptedmanifests": {
@@ -52,7 +50,6 @@
             }
         },
         "41084": {
-            "name": "SS3_GameBin_Linux",
             "manifests": {},
             "encryptedmanifests": {
                 "closedbeta": {
@@ -70,18 +67,16 @@
         "branches": {
             "closedbeta": {
                 "buildid": "8180",
-                "description": "Testers, IHVs...",
                 "pwdrequired": "1"
             },
             "internal": {
                 "buildid": "8180",
-                "description": "Internal testing",
                 "pwdrequired": "1"
             }
         }
     },
     "_missing_token": false,
     "_change_number": 11703200,
-    "_sha": "1128fc871a9036e95d4c1849c56fc1cef57c93d4",
-    "_size": 2026
+    "_sha": "35de93d93e78d620c88c40b53ee09e8227a60357",
+    "_size": 1856
 }

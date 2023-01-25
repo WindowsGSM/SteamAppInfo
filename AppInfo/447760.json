@@ -25,7 +25,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -36,7 +35,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -46,7 +44,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -57,7 +54,6 @@
             "depotfromapp": "1007"
         },
         "228983": {
-            "name": "VC 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -66,7 +62,6 @@
             "sharedinstall": "1"
         },
         "447761": {
-            "name": "Automobilista - Dedicated Server Content",
             "manifests": {
                 "public": "4889346991088956299"
             },
@@ -81,6 +76,6 @@
     },
     "_missing_token": false,
     "_change_number": 15150439,
-    "_sha": "525751ba7e6476de4d4afa1fcd6c8f55290497a9",
-    "_size": 1756
+    "_sha": "e5069e3fc42eb3728952e2bf0bc2ba24aee711cb",
+    "_size": 1543
 }

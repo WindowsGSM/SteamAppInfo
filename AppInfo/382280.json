@@ -33,7 +33,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -44,7 +43,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -54,7 +52,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -65,7 +62,6 @@
             "depotfromapp": "1007"
         },
         "228986": {
-            "name": "VC 2015 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -74,7 +70,6 @@
             "sharedinstall": "1"
         },
         "382281": {
-            "name": "Abatron Dedicated Server Content",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -93,6 +88,6 @@
     },
     "_missing_token": false,
     "_change_number": 15150439,
-    "_sha": "252889413160e359cde73f6953623f5258f8753f",
-    "_size": 1965
+    "_sha": "98e6967a92bf51e9414ec5b91735fae9caf5b92d",
+    "_size": 1760
 }

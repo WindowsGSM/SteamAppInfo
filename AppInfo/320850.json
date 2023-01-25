@@ -29,7 +29,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -40,7 +39,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -50,7 +48,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -61,7 +58,6 @@
             "depotfromapp": "1007"
         },
         "228982": {
-            "name": "VC 2008 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -70,7 +66,6 @@
             "sharedinstall": "1"
         },
         "228983": {
-            "name": "VC 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -79,7 +74,6 @@
             "sharedinstall": "1"
         },
         "228985": {
-            "name": "VC 2013 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -88,7 +82,6 @@
             "sharedinstall": "1"
         },
         "228986": {
-            "name": "VC 2015 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -97,7 +90,6 @@
             "sharedinstall": "1"
         },
         "320851": {
-            "name": "LiF:YO Dedicated Server Depot",
             "config": {
                 "oslist": "windows"
             },
@@ -126,7 +118,6 @@
             },
             "beta": {
                 "buildid": "3140803",
-                "description": "pre-release test version",
                 "pwdrequired": "1",
                 "timeupdated": "1537445703"
             },
@@ -136,7 +127,6 @@
             },
             "public-beta": {
                 "buildid": "3140803",
-                "description": "Public beta test of upcoming features",
                 "pwdrequired": "1",
                 "timeupdated": "1537446858"
             },
@@ -154,6 +144,6 @@
     },
     "_missing_token": false,
     "_change_number": 15577664,
-    "_sha": "e5f6e094d9c5f3705adb8d9f8bc4bd37b209eda9",
-    "_size": 3528
+    "_sha": "a4757571913322119fc36dbf42f6dbedacc5b467",
+    "_size": 3137
 }

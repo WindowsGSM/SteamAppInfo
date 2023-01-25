@@ -37,7 +37,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -48,7 +47,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -58,7 +56,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -69,7 +66,6 @@
             "depotfromapp": "1007"
         },
         "228987": {
-            "name": "VC 2017 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -78,7 +74,6 @@
             "sharedinstall": "1"
         },
         "229006": {
-            "name": ".NET 4.7 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -87,7 +82,6 @@
             "sharedinstall": "1"
         },
         "367971": {
-            "name": "Medieval Engineers Dedicated Server Content",
             "manifests": {
                 "public": "4353014925469155315",
                 "0.2.70": "8708066655424873290",
@@ -160,25 +154,21 @@
             },
             "ctg_major": {
                 "buildid": "9643674",
-                "description": "Testing Branch: Major",
                 "pwdrequired": "1",
                 "timeupdated": "1664816492"
             },
             "ctg_weekly": {
                 "buildid": "5588602",
-                "description": "Testing Branch: Weekly",
                 "pwdrequired": "1",
                 "timeupdated": "1600964110"
             },
             "develop": {
                 "buildid": "9643674",
-                "description": "Internal branch",
                 "pwdrequired": "1",
                 "timeupdated": "1664812111"
             },
             "develop_major": {
                 "buildid": "3751261",
-                "description": "Internal branch",
                 "pwdrequired": "1",
                 "timeupdated": "1555615585"
             },
@@ -189,7 +179,6 @@
             },
             "master": {
                 "buildid": "3412282",
-                "description": "Internal branch",
                 "pwdrequired": "1",
                 "timeupdated": "1545223290"
             }
@@ -197,6 +186,6 @@
     },
     "_missing_token": false,
     "_change_number": 16247485,
-    "_sha": "e789569bc23bd68967d2ba839234a31e6ee48dfc",
-    "_size": 4684
+    "_sha": "9355210218e53370c60cc4041eb592f9c5def995",
+    "_size": 4241
 }

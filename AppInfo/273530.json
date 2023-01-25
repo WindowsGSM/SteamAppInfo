@@ -44,7 +44,6 @@
         "overridescddb": "1",
         "markdlcdepots": "1",
         "273531": {
-            "name": "Centration Dedicated Server Content",
             "systemdefined": "1",
             "manifests": {
                 "public": "110411987557802510"
@@ -62,7 +61,6 @@
             }
         },
         "273532": {
-            "name": "Centration Dedicated Server Linux Binary",
             "config": {
                 "oslist": "linux"
             },
@@ -81,7 +79,6 @@
             }
         },
         "273533": {
-            "name": "Centration Dedicated Server Mac Binary",
             "config": {
                 "oslist": "macos"
             },
@@ -101,7 +98,6 @@
             }
         },
         "273534": {
-            "name": "Centration Dedicated Server Windows Binary",
             "config": {
                 "oslist": "windows"
             },
@@ -126,7 +122,6 @@
             },
             "bleeding": {
                 "buildid": "248417",
-                "description": "Latest server updates.",
                 "pwdrequired": "1"
             },
             "nightly": {
@@ -137,6 +132,6 @@
     },
     "_missing_token": false,
     "_change_number": 15577664,
-    "_sha": "7e30a598e98ca9d77224d7c53ba15b714b2eac5a",
-    "_size": 3405
+    "_sha": "54ecf759b34d3cfe940dfb9d95f1b0809acfb72e",
+    "_size": 3150
 }

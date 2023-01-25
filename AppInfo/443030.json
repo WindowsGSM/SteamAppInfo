@@ -38,7 +38,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -49,7 +48,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -59,7 +57,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -70,7 +67,6 @@
             "depotfromapp": "1007"
         },
         "228985": {
-            "name": "VC 2013 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -79,7 +75,6 @@
             "sharedinstall": "1"
         },
         "228986": {
-            "name": "VC 2015 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -88,7 +83,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -97,7 +91,6 @@
             "sharedinstall": "1"
         },
         "443031": {
-            "name": "Conan Exiles Dedicated Server (Windows)",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -203,7 +196,6 @@
             }
         },
         "443032": {
-            "name": "Conan Exiles Dedicated Server (Linux)",
             "config": {
                 "oslist": "linux",
                 "osarch": "64"
@@ -314,67 +306,56 @@
             },
             "2coreqa": {
                 "buildid": "10330281",
-                "description": " Usually trunk build",
                 "pwdrequired": "1",
                 "timeupdated": "1673860139"
             },
             "3coreqa": {
                 "buildid": "10329755",
-                "description": "Extra branch",
                 "pwdrequired": "1",
                 "timeupdated": "1673854126"
             },
             "4coreqa": {
                 "buildid": "10380629",
-                "description": "usually trunk test build",
                 "pwdrequired": "1",
                 "timeupdated": "1674459065"
             },
             "5coreqa": {
                 "buildid": "9966104",
-                "description": "Extra test branch",
                 "pwdrequired": "1",
                 "timeupdated": "1668759229"
             },
             "autobuildsystem": {
                 "buildid": "7921467",
-                "description": "buildsystem submits",
                 "pwdrequired": "1",
                 "timeupdated": "1640098518"
             },
             "devqa": {
                 "buildid": "7973080",
-                "description": "Additional branch available for DevQA",
                 "pwdrequired": "1",
                 "timeupdated": "1641368382"
             },
             "emergency_fix_live": {
                 "buildid": "6805305",
-                "description": "Temp branch to fix live",
                 "pwdrequired": "1",
                 "timeupdated": "1622712375"
             },
             "exiles-testfeature": {
                 "buildid": "7392182",
-                "description": "Nightly builds from exiles-testfeature",
                 "pwdrequired": "1",
                 "timeupdated": "1632171895"
             },
             "for_testing": {
                 "buildid": "6747784",
-                "description": "branch moving.",
                 "pwdrequired": "1",
                 "timeupdated": "1622671160"
             },
             "forepic": {
                 "buildid": "7659745",
-                "description": "for crossplay testing",
                 "pwdrequired": "1",
                 "timeupdated": "1636399510"
             },
             "internal_playtest": {
                 "buildid": "6768332",
-                "description": "Internal Playtesting",
                 "pwdrequired": "1",
                 "timeupdated": "1622119689"
             },
@@ -390,55 +371,46 @@
             },
             "nightly-experimental": {
                 "buildid": "10395525",
-                "description": "Nightly experimental builds",
                 "pwdrequired": "1",
                 "timeupdated": "1674603991"
             },
             "nightly-live": {
                 "buildid": "10387282",
-                "description": "Nightly live builds",
                 "pwdrequired": "1",
                 "timeupdated": "1674516835"
             },
             "nightly-stable": {
                 "buildid": "10387279",
-                "description": "Nightly stable builds",
                 "pwdrequired": "1",
                 "timeupdated": "1674516805"
             },
             "nightly-test": {
                 "buildid": "10362112",
-                "description": "Nightly test builds",
                 "pwdrequired": "1",
                 "timeupdated": "1674172018"
             },
             "nightly-trunk": {
                 "buildid": "10397391",
-                "description": "Nightly trunk builds",
                 "pwdrequired": "1",
                 "timeupdated": "1674625893"
             },
             "preview": {
                 "buildid": "5691789",
-                "description": "VIP/Partner Previews",
                 "pwdrequired": "1",
                 "timeupdated": "1602848080"
             },
             "rc-retail": {
                 "buildid": "10366861",
-                "description": "Preview for launch",
                 "pwdrequired": "1",
                 "timeupdated": "1674219884"
             },
             "retail_backup1": {
                 "buildid": "10009826",
-                "description": "Retail backup 1",
                 "pwdrequired": "1",
                 "timeupdated": "1671540717"
             },
             "retail_backup2": {
                 "buildid": "9503245",
-                "description": "Retail backup 2",
                 "pwdrequired": "1",
                 "timeupdated": "1671540668"
             },
@@ -455,6 +427,6 @@
     },
     "_missing_token": false,
     "_change_number": 17497373,
-    "_sha": "718f7e3b9ad6f55547d32dfe662be16307bc4da7",
-    "_size": 12872
+    "_sha": "2d25fb6750ecbea9f926f85c94b1009149c4fed3",
+    "_size": 11685
 }

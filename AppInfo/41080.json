@@ -45,21 +45,18 @@
     },
     "depots": {
         "41079": {
-            "name": "SS3 CommonCatalog",
             "systemdefined": "1",
             "maxsize": "1781994",
             "depotfromapp": "41070",
             "sharedinstall": "2"
         },
         "41075": {
-            "name": "SS3_Common",
             "systemdefined": "1",
             "maxsize": "5084294636",
             "depotfromapp": "41070",
             "sharedinstall": "2"
         },
         "41076": {
-            "name": "SS3_Common_Windows",
             "config": {
                 "oslist": "windows"
             },
@@ -69,7 +66,6 @@
             "sharedinstall": "2"
         },
         "41077": {
-            "name": "SS3_Common_OSX",
             "config": {
                 "oslist": "macos"
             },
@@ -79,7 +75,6 @@
             "sharedinstall": "2"
         },
         "41078": {
-            "name": "SS3_Common_Linux",
             "config": {
                 "oslist": "linux"
             },
@@ -89,7 +84,6 @@
             "sharedinstall": "2"
         },
         "41081": {
-            "name": "SS3_ServerBin_Windows",
             "config": {
                 "oslist": "windows"
             },
@@ -117,7 +111,6 @@
             }
         },
         "41082": {
-            "name": "SS3_ServerBin_OSX",
             "config": {
                 "oslist": "macos"
             },
@@ -145,7 +138,6 @@
             }
         },
         "41083": {
-            "name": "SS3_ServerBin_Linux",
             "config": {
                 "oslist": "linux"
             },
@@ -180,13 +172,11 @@
             },
             "closedbeta": {
                 "buildid": "1094577",
-                "description": "Testers, IHVs,...",
                 "pwdrequired": "1",
                 "timeupdated": "1461659322"
             },
             "internal": {
                 "buildid": "1094577",
-                "description": "Internal testing",
                 "pwdrequired": "1",
                 "timeupdated": "1461656015"
             },
@@ -206,6 +196,6 @@
     },
     "_missing_token": false,
     "_change_number": 15577664,
-    "_sha": "d3b251149696d82e6341d88be3de7dce8495d733",
-    "_size": 4737
+    "_sha": "8640cf1b8f4b3dd8369e194eac8633cae4330854",
+    "_size": 4416
 }

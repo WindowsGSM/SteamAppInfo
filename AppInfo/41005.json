@@ -33,7 +33,6 @@
     },
     "depots": {
         "41005": {
-            "name": "Serious Sam HD The First Encounter Dedicated Server",
             "systemdefined": "1",
             "manifests": {
                 "public": "6507068623504286823",
@@ -48,14 +47,12 @@
             }
         },
         "41003": {
-            "name": "Serious Sam HD The First Encounter Bin",
             "systemdefined": "1",
             "maxsize": "11919728",
             "depotfromapp": "41000",
             "sharedinstall": "2"
         },
         "41001": {
-            "name": "Serious Sam HD The First Encounter Content",
             "systemdefined": "1",
             "maxsize": "1190435978",
             "depotfromapp": "41000",
@@ -69,7 +66,6 @@
             },
             "internal": {
                 "buildid": "5820851",
-                "description": "Internal testing",
                 "pwdrequired": "1",
                 "timeupdated": "1605186379"
             },
@@ -81,6 +77,6 @@
     },
     "_missing_token": false,
     "_change_number": 15577664,
-    "_sha": "7046b7c4dbfbc991b0d63782f6e1f2d41dda1849",
-    "_size": 2263
+    "_sha": "712e54b63a6cbc1db7c7445ea1dc439156dc57d8",
+    "_size": 2052
 }

@@ -34,7 +34,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -45,7 +44,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -55,7 +53,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -66,7 +63,6 @@
             "depotfromapp": "1007"
         },
         "228983": {
-            "name": "VC 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -75,7 +71,6 @@
             "sharedinstall": "1"
         },
         "232131": {
-            "name": "Killing Floor 2 - Dedicated Server Depot",
             "manifests": {
                 "public": "2839233182683814117"
             },
@@ -114,7 +109,6 @@
             },
             "beta": {
                 "buildid": "10385826",
-                "description": "internal",
                 "pwdrequired": "1",
                 "timeupdated": "1674511661"
             },
@@ -135,7 +129,6 @@
             },
             "qa_test": {
                 "buildid": "9330275",
-                "description": "QA Internal",
                 "pwdrequired": "1",
                 "timeupdated": "1660725334"
             },
@@ -148,6 +141,6 @@
     },
     "_missing_token": false,
     "_change_number": 17480282,
-    "_sha": "73d18ad8f24ca9ddcb657cccb82787959d1f74f0",
-    "_size": 3317
+    "_sha": "9a66f9e6ef74496017f9f9baf3b70c32a5ebe3d8",
+    "_size": 3041
 }

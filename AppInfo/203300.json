@@ -37,7 +37,6 @@
     },
     "depots": {
         "228983": {
-            "name": "VC 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -46,7 +45,6 @@
             "sharedinstall": "1"
         },
         "228984": {
-            "name": "VC 2012 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -55,7 +53,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -66,7 +63,6 @@
         "preloadonly": "1",
         "overridescddb": "1",
         "203301": {
-            "name": "America's Army: Proving Grounds Dedicated Server Common",
             "systemdefined": "1",
             "manifests": {
                 "public": "8293858377451486443"
@@ -74,7 +70,6 @@
             "maxsize": "2215628915"
         },
         "203302": {
-            "name": "America's Army: Proving Grounds Dedicated Server Windows",
             "config": {
                 "oslist": "windows"
             },
@@ -84,7 +79,6 @@
             "maxsize": "142062333"
         },
         "203303": {
-            "name": "America's Army: Proving Grounds Dedicated Server Linux",
             "config": {
                 "oslist": "linux",
                 "osarch": "64"
@@ -108,6 +102,6 @@
     },
     "_missing_token": false,
     "_change_number": 14702045,
-    "_sha": "a2a95cb81eec3e38674f08b729578d0b0d25cf2a",
-    "_size": 2228
+    "_sha": "38a4ce7c8159e5956f21ad3d2da50693cb221fd1",
+    "_size": 1928
 }

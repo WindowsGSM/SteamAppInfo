@@ -33,7 +33,6 @@
     "depots": {
         "overridescddb": "1",
         "1281": {
-            "name": "DarkestHourCommon",
             "systemdefined": "1",
             "manifests": {
                 "public": "5134336626076077938",
@@ -53,7 +52,6 @@
             "depotfromapp": "1280"
         },
         "1291": {
-            "name": "DarkestHourDedicatedServer",
             "systemdefined": "1",
             "manifests": {
                 "public": "6319372794424659977"
@@ -77,13 +75,11 @@
             },
             "development": {
                 "buildid": "7940874",
-                "description": "Development and testing branch",
                 "pwdrequired": "1",
                 "timeupdated": "1640484677"
             },
             "prerelease": {
                 "buildid": "9781123",
-                "description": " \tPre-release testing branch",
                 "pwdrequired": "1",
                 "timeupdated": "1666542531"
             },
@@ -96,6 +92,6 @@
     },
     "_missing_token": false,
     "_change_number": 17458453,
-    "_sha": "570cf556037e93615e6b875d82755d72045f9637",
-    "_size": 2267
+    "_sha": "7b13c8d1616c556d79454ab8b65ff20ccc0bfdac",
+    "_size": 2094
 }

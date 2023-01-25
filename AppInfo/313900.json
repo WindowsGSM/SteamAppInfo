@@ -26,7 +26,6 @@
     "depots": {
         "baselanguages": "english,german,french,swedish",
         "228981": {
-            "name": "VC 2005 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -35,7 +34,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -44,7 +42,6 @@
             "sharedinstall": "1"
         },
         "229032": {
-            "name": "PhysX System Software 9.13.1220",
             "config": {
                 "oslist": "windows"
             },
@@ -53,7 +50,6 @@
             "sharedinstall": "1"
         },
         "313902": {
-            "name": "NS2: Combat Shared Content",
             "manifests": {
                 "public": "131337985844360728"
             },
@@ -66,7 +62,6 @@
             }
         },
         "313901": {
-            "name": "NS2: Combat Windows Dedicated Server Content",
             "config": {
                 "oslist": "windows"
             },
@@ -82,7 +77,6 @@
             }
         },
         "313903": {
-            "name": "NS2: Combat Linux Dedicated Server Content",
             "config": {
                 "oslist": "linux"
             },
@@ -103,13 +97,12 @@
             },
             "playtesting": {
                 "buildid": "505661",
-                "description": "for playtesting",
                 "pwdrequired": "1"
             }
         }
     },
     "_missing_token": false,
     "_change_number": 14633474,
-    "_sha": "217ee37ba384213905564ea184a141e980bf38da",
-    "_size": 2594
+    "_sha": "700eca0a0951e4e707475d5bd4f955a9b5547b50",
+    "_size": 2293
 }

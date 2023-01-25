@@ -31,7 +31,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -42,7 +41,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -52,7 +50,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -63,7 +60,6 @@
             "depotfromapp": "1007"
         },
         "228983": {
-            "name": "VC 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -72,7 +68,6 @@
             "sharedinstall": "1"
         },
         "453421": {
-            "name": "Formicide Dedicated Server Content",
             "config": {
                 "oslist": "windows"
             },
@@ -94,7 +89,6 @@
             },
             "testing": {
                 "buildid": "1908015",
-                "description": "Testing branch",
                 "pwdrequired": "1",
                 "timeupdated": "1498103791"
             }
@@ -102,6 +96,6 @@
     },
     "_missing_token": false,
     "_change_number": 15150439,
-    "_sha": "c935a74b16450e5d4c49fac93462d570f3040833",
-    "_size": 2192
+    "_sha": "dfd92bdc9cb017da548ee373b6828e2cfd8a2e4b",
+    "_size": 1949
 }

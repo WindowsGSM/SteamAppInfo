@@ -48,7 +48,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -59,7 +58,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -69,7 +67,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -80,7 +77,6 @@
             "depotfromapp": "1007"
         },
         "228986": {
-            "name": "VC 2015 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -89,7 +85,6 @@
             "sharedinstall": "1"
         },
         "439661": {
-            "name": "Tower Unite Dedicated Server Content",
             "config": {
                 "osarch": "64",
                 "oslist": "windows"
@@ -110,7 +105,6 @@
             }
         },
         "439662": {
-            "name": "Tower Unite Dedicated Server Depot Windows",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -131,7 +125,6 @@
             }
         },
         "439663": {
-            "name": "Tower Unite Dedicated Server Depot Linux",
             "config": {
                 "oslist": "linux",
                 "osarch": "64"
@@ -163,7 +156,6 @@
             },
             "developer": {
                 "buildid": "10398998",
-                "description": "Developer Testing",
                 "pwdrequired": "1",
                 "timeupdated": "1674643008"
             }
@@ -171,6 +163,6 @@
     },
     "_missing_token": false,
     "_change_number": 17499799,
-    "_sha": "4edb54cca257389e74dfa50550ddf9fff61a4f37",
-    "_size": 4000
+    "_sha": "4d69ccda8d84ea654dc53511b4cbb61b15754e1b",
+    "_size": 3642
 }

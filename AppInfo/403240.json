@@ -45,7 +45,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -56,7 +55,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -66,7 +64,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -77,7 +74,6 @@
             "depotfromapp": "1007"
         },
         "228985": {
-            "name": "VC 2013 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -86,7 +82,6 @@
             "sharedinstall": "1"
         },
         "228986": {
-            "name": "VC 2015 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -95,7 +90,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -104,7 +98,6 @@
             "sharedinstall": "1"
         },
         "403241": {
-            "name": "Squad Dedicated Server Depot Windows",
             "config": {
                 "language": "english",
                 "oslist": "windows",
@@ -159,7 +152,6 @@
             }
         },
         "403242": {
-            "name": "Squad Dedicated Server Depot Linux",
             "config": {
                 "osarch": "64",
                 "language": "english",
@@ -214,7 +206,6 @@
             }
         },
         "1123920": {
-            "name": "CAF DLC Depot",
             "dlcappid": "1123920",
             "manifests": {
                 "public": "8509449628493661206",
@@ -257,7 +248,6 @@
             },
             "alpha-11.2": {
                 "buildid": "2863387",
-                "description": "2018-06-14",
                 "pwdrequired": "1",
                 "timeupdated": "1542031011"
             },
@@ -268,7 +258,6 @@
             },
             "alpha8": {
                 "buildid": "1703017",
-                "description": "Alpha 8.11",
                 "pwdrequired": "1",
                 "timeupdated": "1490030620"
             },
@@ -279,19 +268,16 @@
             },
             "caf_event": {
                 "buildid": "4048602",
-                "description": "CAF event branch",
                 "pwdrequired": "1",
                 "timeupdated": "1564167686"
             },
             "newbuild-release": {
                 "buildid": "4045750",
-                "description": "Latest release build",
                 "pwdrequired": "1",
                 "timeupdated": "1564188085"
             },
             "server-fixtest": {
                 "buildid": "5037090",
-                "description": "freeze test",
                 "pwdrequired": "1",
                 "timeupdated": "1589617756"
             },
@@ -302,25 +288,21 @@
             },
             "squad_main": {
                 "buildid": "10399086",
-                "description": "Squad main builds",
                 "pwdrequired": "1",
                 "timeupdated": "1674643910"
             },
             "squad_release": {
                 "buildid": "10158847",
-                "description": "Latest RELEASE branch builds",
                 "pwdrequired": "1",
                 "timeupdated": "1671153435"
             },
             "squad_tournament": {
                 "buildid": "8276816",
-                "description": "Squad Tournament branch",
                 "pwdrequired": "1",
                 "timeupdated": "1649349928"
             },
             "backtracking": {
                 "buildid": "10383785",
-                "description": "Backtracking builds",
                 "pwdrequired": "1",
                 "timeupdated": "1674492552"
             },
@@ -331,7 +313,6 @@
             },
             "tournament": {
                 "buildid": "4298022",
-                "description": "OISC Branch",
                 "pwdrequired": "1",
                 "timeupdated": "1572096224"
             },
@@ -344,6 +325,6 @@
     },
     "_missing_token": false,
     "_change_number": 17499904,
-    "_sha": "063027f6c6be41699bb33af52e4026baedcd725d",
-    "_size": 9292
+    "_sha": "29b28f2608b8c53ebf21718671b54d2289a9475c",
+    "_size": 8558
 }

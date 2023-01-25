@@ -29,7 +29,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -40,7 +39,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -50,7 +48,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -61,7 +58,6 @@
             "depotfromapp": "1007"
         },
         "228985": {
-            "name": "VC 2013 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -70,7 +66,6 @@
             "sharedinstall": "1"
         },
         "229004": {
-            "name": ".NET 4.5.2 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -79,7 +74,6 @@
             "sharedinstall": "1"
         },
         "378671": {
-            "name": "Savage Lands Dedicated Server Content",
             "manifests": {
                 "public": "3608576727925629061",
                 "legacy": "3057026379976626504"
@@ -111,7 +105,6 @@
             },
             "beta": {
                 "buildid": "2520189",
-                "description": "Builds for Beta Players",
                 "pwdrequired": "1",
                 "timeupdated": "1518561622"
             },
@@ -121,19 +114,16 @@
             },
             "newdefault": {
                 "buildid": "1239414",
-                "description": "Test Default Build 290",
                 "pwdrequired": "1",
                 "timeupdated": "1489021093"
             },
             "sigdev": {
                 "buildid": "2520189",
-                "description": "Builds for Smart Ghost Dev",
                 "pwdrequired": "1",
                 "timeupdated": "1518480298"
             },
             "test": {
                 "buildid": "1416840",
-                "description": "Builds For Testing",
                 "pwdrequired": "1",
                 "timeupdated": "1570153069"
             }
@@ -145,6 +135,6 @@
     },
     "_missing_token": false,
     "_change_number": 15577664,
-    "_sha": "60d8e9d0411b3a8dc08b149faa3ec2b99892672b",
-    "_size": 3390
+    "_sha": "0d937347651871188447c2aead10f2afb1bc06ec",
+    "_size": 2972
 }

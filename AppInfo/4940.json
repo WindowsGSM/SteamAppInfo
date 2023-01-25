@@ -33,7 +33,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -44,7 +43,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -54,7 +52,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -65,7 +62,6 @@
             "depotfromapp": "1007"
         },
         "228988": {
-            "name": "VC 2019 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -74,7 +70,6 @@
             "sharedinstall": "1"
         },
         "4922": {
-            "name": "Natural Selection 2 Dedicated Server Content",
             "manifests": {
                 "public": "3472100231135181017",
                 "beta": "3472100231135181017"
@@ -133,13 +128,11 @@
             },
             "build_253": {
                 "buildid": "64174",
-                "description": "Archived Reinforced (253) Build",
                 "pwdrequired": "1",
                 "timeupdated": "1547731014"
             },
             "build_277": {
                 "buildid": "836716",
-                "description": "Archived Build 277",
                 "pwdrequired": "1",
                 "timeupdated": "1547730967"
             },
@@ -150,7 +143,6 @@
             },
             "experimental": {
                 "buildid": "9581144",
-                "description": "Experimental Branch",
                 "pwdrequired": "1",
                 "timeupdated": "1663965932"
             },
@@ -161,7 +153,6 @@
             },
             "testing": {
                 "buildid": "10226154",
-                "description": "Testing branch",
                 "pwdrequired": "1",
                 "timeupdated": "1672271111"
             },
@@ -174,6 +165,6 @@
     },
     "_missing_token": false,
     "_change_number": 17231933,
-    "_sha": "f93a6024c886562a8ea45f1402477060be6837d3",
-    "_size": 4107
+    "_sha": "2e1faca59409a9838f05734701b2f92840d872f2",
+    "_size": 3720
 }

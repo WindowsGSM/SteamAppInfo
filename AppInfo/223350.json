@@ -69,7 +69,6 @@
     },
     "depots": {
         "228985": {
-            "name": "VC 2013 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -78,7 +77,6 @@
             "sharedinstall": "1"
         },
         "228988": {
-            "name": "VC 2019 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -87,7 +85,6 @@
             "sharedinstall": "1"
         },
         "229004": {
-            "name": ".NET 4.5.2 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -98,7 +95,6 @@
         "preloadonly": "1",
         "overridescddb": "1",
         "223351": {
-            "name": "DayZ Server Content",
             "systemdefined": "1",
             "config": {
                 "language": ""
@@ -180,7 +176,6 @@
             }
         },
         "223352": {
-            "name": "DayZ Linux Server Depot",
             "config": {
                 "oslist": "linux",
                 "osarch": "64",
@@ -215,7 +210,6 @@
             }
         },
         "223353": {
-            "name": "DayZ Windows Server Depot",
             "config": {
                 "oslist": "windows",
                 "osarch": "64",
@@ -379,7 +373,6 @@
             },
             "xb1_internal_exp": {
                 "buildid": "10390989",
-                "description": "Testing branch for Exp",
                 "pwdrequired": "1",
                 "timeupdated": "1674561705"
             },
@@ -403,6 +396,6 @@
     },
     "_missing_token": false,
     "_change_number": 17486855,
-    "_sha": "2af213f873a70ede336eb793780592e523f62934",
-    "_size": 11185
+    "_sha": "1766af2c6e283f28691bd46896f05b8670e978c8",
+    "_size": 10945
 }

@@ -32,7 +32,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -43,7 +42,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -53,7 +51,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -64,7 +61,6 @@
             "depotfromapp": "1007"
         },
         "228983": {
-            "name": "VC 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -75,7 +71,6 @@
             "depotfromapp": "228980"
         },
         "228984": {
-            "name": "VC 2012 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -86,7 +81,6 @@
             "depotfromapp": "228980"
         },
         "228985": {
-            "name": "VC 2013 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -97,7 +91,6 @@
             "depotfromapp": "228980"
         },
         "228986": {
-            "name": "VC 2015 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -108,7 +101,6 @@
             "depotfromapp": "228980"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -119,7 +111,6 @@
             "depotfromapp": "228980"
         },
         "229002": {
-            "name": ".NET 4.0 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -130,7 +121,6 @@
             "depotfromapp": "228980"
         },
         "229003": {
-            "name": ".NET 4.0 Client Profile Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -141,7 +131,6 @@
             "depotfromapp": "228980"
         },
         "229004": {
-            "name": ".NET 4.5.2 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -152,7 +141,6 @@
             "depotfromapp": "228980"
         },
         "229005": {
-            "name": ".NET 4.6 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -163,7 +151,6 @@
             "depotfromapp": "228980"
         },
         "419791": {
-            "name": "Eden Star Dedicated Server Content",
             "manifests": {
                 "public": "4094031142452105056"
             },
@@ -178,6 +165,6 @@
     },
     "_missing_token": false,
     "_change_number": 15150439,
-    "_sha": "82985c4f541afbea16ba42c9bbb7f477d8843964",
-    "_size": 3647
+    "_sha": "2d127620bdacec909994bc6056495ea95205c506",
+    "_size": 3186
 }

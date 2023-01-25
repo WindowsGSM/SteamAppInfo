@@ -38,7 +38,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -49,7 +48,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -59,7 +57,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -70,7 +67,6 @@
             "depotfromapp": "1007"
         },
         "228989": {
-            "name": "VC 2022 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -79,7 +75,6 @@
             "sharedinstall": "1"
         },
         "361581": {
-            "name": "Wreckfest Dedicated Server Content",
             "manifests": {
                 "public": "6625881901566799209"
             },
@@ -106,19 +101,16 @@
             },
             "bbtest": {
                 "buildid": "9062466",
-                "description": "dev",
                 "pwdrequired": "1",
                 "timeupdated": "1657011983"
             },
             "developer": {
                 "buildid": "10366771",
-                "description": "beta update",
                 "pwdrequired": "1",
                 "timeupdated": "1674219897"
             },
             "qatest": {
                 "buildid": "10366771",
-                "description": "qa test branch",
                 "pwdrequired": "1",
                 "timeupdated": "1674219083"
             }
@@ -132,6 +124,6 @@
     },
     "_missing_token": false,
     "_change_number": 17449873,
-    "_sha": "d7dfa7a1af35aa846900f595ab28c3537c27c6cb",
-    "_size": 2992
+    "_sha": "840ecac8372d5dc3b9cac347ae72de9d518238c5",
+    "_size": 2691
 }

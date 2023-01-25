@@ -32,7 +32,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -43,7 +42,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -53,7 +51,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -64,14 +61,12 @@
             "depotfromapp": "1007"
         },
         "319061": {
-            "name": "Lambda Wars Dedicated Server Content",
             "manifests": {
                 "public": "8837973745549879133"
             },
             "maxsize": "231524"
         },
         "270371": {
-            "name": "Lambda Wars Content",
             "systemdefined": "1",
             "manifests": {
                 "public": "3648697680421550019",
@@ -92,7 +87,6 @@
             },
             "lwgo": {
                 "buildid": "5819217",
-                "description": "Go Development",
                 "pwdrequired": "1",
                 "timeupdated": "1605164504"
             },
@@ -105,6 +99,6 @@
     },
     "_missing_token": false,
     "_change_number": 15577664,
-    "_sha": "951a07e6c67aaa8ba3563b2dbb29e891f1d9957d",
-    "_size": 2328
+    "_sha": "05779ec84c78eab9557efdb1517391533eabd642",
+    "_size": 2078
 }

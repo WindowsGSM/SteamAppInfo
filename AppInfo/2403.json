@@ -35,14 +35,12 @@
         "overridescddb": "1",
         "markdlcdepots": "1",
         "2402": {
-            "name": "The Ship Common",
             "manifests": {
                 "public": "8303288114589836248"
             },
             "maxsize": "1446885673"
         },
         "2403": {
-            "name": "The Ship Dedicated Server",
             "systemdefined": "1",
             "config": {
                 "oslist": "windows"
@@ -53,7 +51,6 @@
             "maxsize": "36520107"
         },
         "2404": {
-            "name": "The Ship Linux Dedicated Server",
             "config": {
                 "oslist": "linux"
             },
@@ -63,7 +60,6 @@
             "maxsize": "55352152"
         },
         "1004": {
-            "name": "Steamworks SDK Redist (Win32)",
             "systemdefined": "1",
             "config": {
                 "oslist": "windows"
@@ -82,6 +78,6 @@
     },
     "_missing_token": false,
     "_change_number": 11703200,
-    "_sha": "7eaa0d5c4364c146ebe7b8ed1b98fc689091723c",
-    "_size": 1606
+    "_sha": "a988d6afaef83e5c03e62e594403ec7208895d42",
+    "_size": 1450
 }

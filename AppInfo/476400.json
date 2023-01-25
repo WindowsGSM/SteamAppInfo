@@ -39,7 +39,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -50,7 +49,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -60,7 +58,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -71,7 +68,6 @@
             "depotfromapp": "1007"
         },
         "228986": {
-            "name": "VC 2015 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -80,7 +76,6 @@
             "sharedinstall": "1"
         },
         "228987": {
-            "name": "VC 2017 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -89,7 +84,6 @@
             "sharedinstall": "1"
         },
         "228988": {
-            "name": "VC 2019 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -98,7 +92,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -108,7 +101,6 @@
         },
         "baselanguages": "english",
         "476401": {
-            "name": "Ground Branch Dedicated Server Content",
             "manifests": {
                 "public": "925133732386589956"
             },
@@ -119,8 +111,8 @@
                     "encrypted_size_2": "C98A5E4EDD7E5F9455915044DD679475"
                 },
                 "devtest": {
-                    "encrypted_gid_2": "7EF6A59BF54109465A2C7251E9D5AD5B",
-                    "encrypted_size_2": "A3FF21E37D7CFD75FAA9E7C104693231"
+                    "encrypted_gid_2": "E56C7B4DF1B82282E452BC4060E84228",
+                    "encrypted_size_2": "C838CC2C86E26FCBA64CDE91ECCB15B4"
                 }
             }
         },
@@ -131,20 +123,18 @@
             },
             "communitytest-ds": {
                 "buildid": "10394496",
-                "description": "Community Test for Dedicated Server",
                 "pwdrequired": "1",
                 "timeupdated": "1674593777"
             },
             "devtest": {
-                "buildid": "10397224",
-                "description": "Developer testing branch",
+                "buildid": "10402691",
                 "pwdrequired": "1",
-                "timeupdated": "1674623985"
+                "timeupdated": "1674674806"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 17497142,
-    "_sha": "c91fc4c733aababe61962943c585195eafe58e83",
-    "_size": 3317
+    "_change_number": 17505780,
+    "_sha": "eebc9b428ab373fcded8549442f71954e7b53722",
+    "_size": 2910
 }

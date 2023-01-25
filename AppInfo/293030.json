@@ -41,7 +41,6 @@
     "depots": {
         "overridescddb": "1",
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -52,7 +51,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -62,7 +60,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -73,7 +70,6 @@
             "depotfromapp": "1007"
         },
         "228985": {
-            "name": "VC 2013 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -82,7 +78,6 @@
             "sharedinstall": "1"
         },
         "293031": {
-            "name": "Game Base Content",
             "systemdefined": "1",
             "config": {
                 "language": ""
@@ -103,7 +98,6 @@
             }
         },
         "293032": {
-            "name": "Windows Content",
             "config": {
                 "oslist": "windows",
                 "language": ""
@@ -124,7 +118,6 @@
             }
         },
         "293033": {
-            "name": "Linux Content",
             "config": {
                 "oslist": "linux",
                 "language": ""
@@ -151,7 +144,6 @@
             },
             "developer": {
                 "buildid": "7716160",
-                "description": "Contagion Development Branch",
                 "pwdrequired": "1",
                 "timeupdated": "1636995203"
             },
@@ -164,6 +156,6 @@
     },
     "_missing_token": false,
     "_change_number": 17505186,
-    "_sha": "771269ded9b6ea37da1c1ab6bab3c8d5822c1233",
-    "_size": 3793
+    "_sha": "bffd70482eb6de01f2062eb595401b3564890b09",
+    "_size": 3497
 }

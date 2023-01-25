@@ -48,7 +48,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -59,7 +58,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -69,7 +67,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -80,7 +77,6 @@
             "depotfromapp": "1007"
         },
         "228982": {
-            "name": "VC 2008 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -89,7 +85,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -98,14 +93,12 @@
             "sharedinstall": "1"
         },
         "338441": {
-            "name": "BOMB Dedicated Server Content",
             "manifests": {
                 "public": "8543875461083146407"
             },
             "maxsize": "1369803696"
         },
         "338442": {
-            "name": "BOMB Dedicated Server Depot Windows",
             "config": {
                 "oslist": "windows"
             },
@@ -115,7 +108,6 @@
             "maxsize": "41905939"
         },
         "338443": {
-            "name": "BOMB Dedicated Server Depot Linux",
             "config": {
                 "oslist": "linux"
             },
@@ -132,6 +124,6 @@
     },
     "_missing_token": false,
     "_change_number": 15150439,
-    "_sha": "c81a810f65a1d404e5056b67f38166a98048f440",
-    "_size": 2757
+    "_sha": "7b9f762b8f71a9006c16750aa2739a3f501db40d",
+    "_size": 2422
 }

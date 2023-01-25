@@ -22,7 +22,6 @@
         "overridescddb": "1",
         "markdlcdepots": "1",
         "258551": {
-            "name": "rust dedicated - win64",
             "systemdefined": "1",
             "config": {
                 "oslist": "windows"
@@ -111,7 +110,6 @@
             }
         },
         "258552": {
-            "name": "rust dedicated - linux64",
             "config": {
                 "oslist": "linux"
             },
@@ -199,7 +197,6 @@
             }
         },
         "258553": {
-            "name": "rust dedicated - osx64",
             "config": {
                 "oslist": "macos"
             },
@@ -287,7 +284,6 @@
             }
         },
         "258554": {
-            "name": "rust dedicated - common",
             "manifests": {
                 "public": "3392045754602230407",
                 "aux01": "2085413454625528553",
@@ -408,13 +404,11 @@
             },
             "backport-update": {
                 "buildid": "6684682",
-                "description": "backport-update",
                 "pwdrequired": "1",
                 "timeupdated": "1620805121"
             },
             "contacts-update": {
                 "buildid": "6831531",
-                "description": "contacts-update",
                 "pwdrequired": "1",
                 "timeupdated": "1623158913"
             },
@@ -435,7 +429,6 @@
             },
             "gestures": {
                 "buildid": "6482618",
-                "description": "gestures-update",
                 "pwdrequired": "1",
                 "timeupdated": "1617449973"
             },
@@ -464,7 +457,6 @@
             },
             "staging-debug": {
                 "buildid": "10402465",
-                "description": "debug",
                 "pwdrequired": "1",
                 "timeupdated": "1674672945"
             },
@@ -475,19 +467,16 @@
             },
             "trailer": {
                 "buildid": "9375346",
-                "description": "trailer",
                 "pwdrequired": "1",
                 "timeupdated": "1661319340"
             },
             "workcart-update": {
                 "buildid": "6485636",
-                "description": "workcart-update",
                 "pwdrequired": "1",
                 "timeupdated": "1617450989"
             },
             "wounding-update": {
                 "buildid": "7005562",
-                "description": "wounding-update",
                 "pwdrequired": "1",
                 "timeupdated": "1625838709"
             }
@@ -495,6 +484,6 @@
     },
     "_missing_token": false,
     "_change_number": 17505467,
-    "_sha": "37cd3e8296a4fded0cfe9267e04f2c4e425fade7",
-    "_size": 15242
+    "_sha": "f56079a70a66ba34fec7a3a4692f6b1320c9f8c2",
+    "_size": 14854
 }

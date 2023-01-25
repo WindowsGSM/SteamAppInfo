@@ -44,7 +44,6 @@
     },
     "depots": {
         "412681": {
-            "name": "The Isle Dedicated Server Content (Windows)",
             "config": {
                 "osarch": "64",
                 "oslist": "windows"
@@ -71,7 +70,6 @@
             }
         },
         "412682": {
-            "name": "The Isle Dedicated Server (Linux)",
             "config": {
                 "oslist": "linux"
             },
@@ -91,7 +89,6 @@
             }
         },
         "412684": {
-            "name": "The Isle Dedicated Server Depot (Linux)",
             "config": {
                 "oslist": "linux"
             }
@@ -108,13 +105,11 @@
             },
             "internal": {
                 "buildid": "10210470",
-                "description": "Internal Team Branch",
                 "pwdrequired": "1",
                 "timeupdated": "1671866545"
             },
             "mechanic-test": {
                 "buildid": "10209741",
-                "description": "Mechanic Test Servers",
                 "pwdrequired": "1",
                 "timeupdated": "1671849283"
             },
@@ -125,7 +120,6 @@
             },
             "quality-assurance": {
                 "buildid": "9297282",
-                "description": "Quality Assurance Branch",
                 "pwdrequired": "1",
                 "timeupdated": "1660231168"
             }
@@ -133,6 +127,6 @@
     },
     "_missing_token": false,
     "_change_number": 17186183,
-    "_sha": "11d52b7d007502b991993f60da9d8878ab80fab3",
-    "_size": 3366
+    "_sha": "dca36f0074ba78dc0cfb829962d9d2183adc3a75",
+    "_size": 3078
 }

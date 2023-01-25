@@ -34,7 +34,6 @@
     },
     "depots": {
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -45,7 +44,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -55,7 +53,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -66,7 +63,6 @@
             "depotfromapp": "1007"
         },
         "228984": {
-            "name": "VC 2012 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -75,7 +71,6 @@
             "sharedinstall": "1"
         },
         "228985": {
-            "name": "VC 2013 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -84,7 +79,6 @@
             "sharedinstall": "1"
         },
         "228990": {
-            "name": "DirectX Jun 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -93,7 +87,6 @@
             "sharedinstall": "1"
         },
         "369631": {
-            "name": "Latte Dedicated Server Content",
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
@@ -199,7 +192,6 @@
             }
         },
         "369632": {
-            "name": "Latte Dedicated Server -- Linux",
             "config": {
                 "oslist": "linux"
             },
@@ -302,7 +294,6 @@
             }
         },
         "369633": {
-            "name": "Latte Dedicated Server -- Dev Binaries Depot",
             "config": {
                 "oslist": "windows"
             },
@@ -422,7 +413,6 @@
             },
             "amg_alchemancer": {
                 "buildid": "1713916",
-                "description": "for amg (B1)",
                 "pwdrequired": "1",
                 "timeupdated": "1491492580"
             },
@@ -473,7 +463,6 @@
             },
             "marketing2": {
                 "buildid": "1819616",
-                "description": "for marketing",
                 "pwdrequired": "1",
                 "timeupdated": "1494885394"
             },
@@ -515,6 +504,6 @@
     },
     "_missing_token": false,
     "_change_number": 15577664,
-    "_sha": "58930c46821e9303f78daefbccf4509c2c0609e5",
-    "_size": 15087
+    "_sha": "3b5555a918148ce3068a3c36548b5ebfbc392a70",
+    "_size": 14647
 }

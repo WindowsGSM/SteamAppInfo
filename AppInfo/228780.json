@@ -50,7 +50,6 @@
     "depots": {
         "overridescddb": "1",
         "1004": {
-            "name": "Steamworks SDK Redist (WIN32)",
             "config": {
                 "oslist": "windows"
             },
@@ -61,7 +60,6 @@
             "depotfromapp": "1007"
         },
         "1005": {
-            "name": "Steamworks SDK Redist (OSX32)",
             "config": {
                 "oslist": "macos"
             },
@@ -71,7 +69,6 @@
             "depotfromapp": "1007"
         },
         "1006": {
-            "name": "Steamworks SDK Redist (LINUX32)",
             "config": {
                 "oslist": "linux"
             },
@@ -82,7 +79,6 @@
             "depotfromapp": "1007"
         },
         "228983": {
-            "name": "VC 2010 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -91,7 +87,6 @@
             "sharedinstall": "1"
         },
         "229000": {
-            "name": ".NET 3.5 Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -100,7 +95,6 @@
             "sharedinstall": "1"
         },
         "229001": {
-            "name": ".NET 3.5 Client Profile Redist",
             "config": {
                 "oslist": "windows"
             },
@@ -109,14 +103,12 @@
             "sharedinstall": "1"
         },
         "225601": {
-            "name": "Blade Symphony | Shared Content",
             "systemdefined": "1",
             "maxsize": "6567691637",
             "depotfromapp": "225600",
             "sharedinstall": "2"
         },
         "228781": {
-            "name": "Blade Symphony Dedicated Server Linux",
             "systemdefined": "1",
             "config": {
                 "oslist": "linux"
@@ -143,7 +135,6 @@
             }
         },
         "228782": {
-            "name": "Blade Symphony Dedicated Server Win32",
             "config": {
                 "oslist": "windows"
             },
@@ -170,7 +161,6 @@
             }
         },
         "228783": {
-            "name": "Blade Symphony Dedicated Server Win64",
             "config": {
                 "osarch": "64",
                 "oslist": "windows"
@@ -194,19 +184,16 @@
             },
             "jenkins_builds": {
                 "buildid": "10384546",
-                "description": "Builds from Jenkins",
                 "pwdrequired": "1",
                 "timeupdated": "1674498753"
             },
             "nightly": {
                 "buildid": "1569738",
-                "description": "Bleeding edge development",
                 "pwdrequired": "1",
                 "timeupdated": "1484442007"
             },
             "nightly-prod": {
                 "buildid": "1569740",
-                "description": "nightly, api.blade-symphony.com",
                 "pwdrequired": "1",
                 "timeupdated": "1484442111"
             },
@@ -223,6 +210,6 @@
     },
     "_missing_token": false,
     "_change_number": 17493426,
-    "_sha": "12c40e392cedd0cf31d7e6a8b27783df4d205a74",
-    "_size": 5276
+    "_sha": "62007ab44e4a4baba7b2fb8c9bfc8602854e0c8b",
+    "_size": 4705
 }
