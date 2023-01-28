@@ -23,7 +23,7 @@
         "launch": {
             "0": {
                 "executable": "srcds.exe",
-                "arguments": "-game empires -steam -nobreakpad",
+                "arguments": "-game empires -steam -nobreakpad +r_hunkalloclightmaps 0",
                 "type": "server",
                 "config": {
                     "oslist": "windows"
@@ -31,7 +31,7 @@
             },
             "1": {
                 "executable": "srcds_run",
-                "arguments": "-game empires -steam -nobreakpad",
+                "arguments": "-game empires -steam -nobreakpad +r_hunkalloclightmaps 0",
                 "type": "server",
                 "config": {
                     "oslist": "linux"
@@ -302,7 +302,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 17466791,
-    "_sha": "03b07354ec491c39883bda1fef4e4eddeb40664e",
-    "_size": 8271
+    "_change_number": 17542760,
+    "_sha": "4544371a9be5da92dfa799efb34412dee479239a",
+    "_size": 8319
 }
