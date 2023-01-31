@@ -113,12 +113,12 @@
             "maxsize": "406948048",
             "encryptedmanifests": {
                 "development": {
-                    "encrypted_gid_2": "4E6A86D5176B84163373F1B8D12EE21F",
-                    "encrypted_size_2": "2955F8D78FC502FC732FAC96E9711035"
+                    "encrypted_gid_2": "AB98236C779F1320F141BD26E0751F64",
+                    "encrypted_size_2": "8B23CBCB8C4063BDBA25B9415273223A"
                 },
                 "steamctg": {
-                    "encrypted_gid_2": "E40F1382E012C1E449936CFE728C3495",
-                    "encrypted_size_2": "254F09AE6F4E523A96807A58C3570ECC"
+                    "encrypted_gid_2": "EE11C8DED486BB1AB4DA3777707E8112",
+                    "encrypted_size_2": "1DF16A5528559E75771692F01958EBFE"
                 }
             }
         },
@@ -154,25 +154,59 @@
                 }
             }
         },
+        "1863912": {
+            "manifests": {
+                "public": "4877210203635453298"
+            },
+            "maxsize": "603342",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "7B67DD49ABFEDBA5D4F10A69FC89445A",
+                    "encrypted_size_2": "D5C4C68E8162CA3DDEAB262CF5824C16"
+                },
+                "steamctg": {
+                    "encrypted_gid_2": "F78DB176AEE5AE4332173B71ACF13F60",
+                    "encrypted_size_2": "346548A1FA3EFAF27FCC4554B8107F73"
+                }
+            },
+            "depotfromapp": "1863910"
+        },
+        "1863913": {
+            "manifests": {
+                "public": "4413087061319168432"
+            },
+            "maxsize": "22573216",
+            "encryptedmanifests": {
+                "development": {
+                    "encrypted_gid_2": "C575A98FE621B9C5A783422D65B7DAFF",
+                    "encrypted_size_2": "827B9210D855C85512440BCC95706E65"
+                },
+                "steamctg": {
+                    "encrypted_gid_2": "537675B3E73090D4C72842165B5A68F5",
+                    "encrypted_size_2": "A3C57715D007279180BB9886F4E2E030"
+                }
+            },
+            "depotfromapp": "1863910"
+        },
         "branches": {
             "public": {
                 "buildid": "10285166",
                 "timeupdated": "1673296181"
             },
             "development": {
-                "buildid": "10436416",
+                "buildid": "10439735",
                 "pwdrequired": "1",
-                "timeupdated": "1675106850"
+                "timeupdated": "1675134496"
             },
             "steamctg": {
-                "buildid": "10436416",
+                "buildid": "10439735",
                 "pwdrequired": "1",
-                "timeupdated": "1675106856"
+                "timeupdated": "1675134502"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 17565246,
-    "_sha": "6acbe2cce72f25218fe4f9440847d986a09af47e",
-    "_size": 3812
+    "_change_number": 17565422,
+    "_sha": "3139a0edf37c14613530fd49b0fa5ce05113f05e",
+    "_size": 4738
 }
