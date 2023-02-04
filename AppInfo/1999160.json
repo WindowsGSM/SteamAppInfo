@@ -47,6 +47,10 @@
                     "encrypted_gid_2": "027B89141FC4F87BF3CC7D5505F6FBF3",
                     "encrypted_size_2": "802866EC119AE8548CD05B8CC9075C3F"
                 },
+                "playtest": {
+                    "encrypted_gid_2": "E1FED347DC951F6E62CC49414E0A7441",
+                    "encrypted_size_2": "6D87DDC2A28C407F2C26A6AECBA21E48"
+                },
                 "pre-prod": {
                     "encrypted_gid_2": "E1B2622F5CC75F9B63328A85A01F5ABC",
                     "encrypted_size_2": "4CCF92B5646DEDFCD42A39B1AA529BE2"
@@ -68,6 +72,11 @@
                 "pwdrequired": "1",
                 "timeupdated": "1665315945"
             },
+            "playtest": {
+                "buildid": "10472625",
+                "pwdrequired": "1",
+                "timeupdated": "1675532345"
+            },
             "pre-prod": {
                 "buildid": "9684821",
                 "pwdrequired": "1",
@@ -76,7 +85,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 17616358,
-    "_sha": "a9928d795face1a8e6ae64c1fac0abc5857bd0fe",
-    "_size": 1766
+    "_change_number": 17627301,
+    "_sha": "d08117a11243648f697a08b22da0a46913b56a4e",
+    "_size": 2017
 }
