@@ -99,7 +99,6 @@
             "manifests": {
                 "public": "442217557308604676",
                 "1.178": "802443215314700870",
-                "1.185": "2281021287844625855",
                 "1.186": "7542679167326094555",
                 "1.187": "1380954810324163548",
                 "1.188": "2517780917052194895",
@@ -119,6 +118,10 @@
             },
             "maxsize": "5536597535",
             "encryptedmanifests": {
+                "automatons-beta": {
+                    "encrypted_gid_2": "4234F717743F43CFC3B3FCB8D748D8F1",
+                    "encrypted_size_2": "29AEEDE158CD82BC80C612C477AD26AD"
+                },
                 "playtest": {
                     "encrypted_gid_2": "B1277B5A47FCD1CE1C2F26E9ECD5E070",
                     "encrypted_size_2": "FF0A1FBE5486572D39711D78911B1E6C"
@@ -149,10 +152,6 @@
             "1.178": {
                 "buildid": "1701148",
                 "timeupdated": "1490291640"
-            },
-            "1.185": {
-                "buildid": "2468464",
-                "timeupdated": "1517585428"
             },
             "1.186": {
                 "buildid": "2584366",
@@ -226,6 +225,11 @@
                 "description": "Warfare 2",
                 "timeupdated": "1651166495"
             },
+            "automatons-beta": {
+                "buildid": "10472514",
+                "pwdrequired": "1",
+                "timeupdated": "1675694042"
+            },
             "dx9-32bit": {
                 "buildid": "1150726",
                 "description": "compatibility branch for dx9 and 32 bit",
@@ -259,7 +263,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 17616227,
-    "_sha": "0dd99020fb2f94bf9e50a82ad408959cff6ebd66",
-    "_size": 6060
+    "_change_number": 17643725,
+    "_sha": "86add401f660deb5cb570168133491d58509d024",
+    "_size": 6212
 }
