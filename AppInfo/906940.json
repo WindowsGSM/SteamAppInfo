@@ -83,6 +83,10 @@
                     "encrypted_gid_2": "35FF5951F7371CF3D53E301FF34954DF",
                     "encrypted_size_2": "FD639190A251C5C0CBF48B4B4F6B1ED2"
                 },
+                "publictesting": {
+                    "encrypted_gid_2": "34CA212DF745EE2F370B8FFD43EB0264",
+                    "encrypted_size_2": "2041D62D45DB9D20C27FA43AE99A3D24"
+                },
                 "release": {
                     "encrypted_gid_2": "370D70A990C11B5F0EF3C7113E54702A",
                     "encrypted_size_2": "6FDEBCF2F3C18E1DF8CC660373B4C8AF"
@@ -111,6 +115,10 @@
                 "pscert": {
                     "encrypted_gid_2": "3DB658D2310764F562C00E3CA997ABE2",
                     "encrypted_size_2": "51FF05AE6F5B28A37AD6952ABC81D013"
+                },
+                "publictesting": {
+                    "encrypted_gid_2": "0F1A5F41CFBF970BFFC00670477D93F5",
+                    "encrypted_size_2": "E2E1DF2E46CF3CC00892EB983502EBC5"
                 },
                 "release": {
                     "encrypted_gid_2": "9FD89467AA48E8176E29AB647B4F4966",
@@ -142,6 +150,11 @@
                 "description": "Playstation Release Server",
                 "timeupdated": "1666126100"
             },
+            "publictesting": {
+                "buildid": "10486084",
+                "pwdrequired": "1",
+                "timeupdated": "1675697530"
+            },
             "release": {
                 "buildid": "10343632",
                 "pwdrequired": "1",
@@ -164,7 +177,7 @@
         "maxnumfiles": "10000"
     },
     "_missing_token": false,
-    "_change_number": 17639643,
-    "_sha": "0858a34dc84c51240928aa6f5b2cea4a858e2902",
-    "_size": 3803
+    "_change_number": 17644454,
+    "_sha": "2b38f2a29695ee6b292f877a7e80b0abc0a2d05a",
+    "_size": 4215
 }
