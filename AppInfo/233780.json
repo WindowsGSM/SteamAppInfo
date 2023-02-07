@@ -104,6 +104,10 @@
                     "encrypted_gid_2": "141FDF4B0F50654634D6A2BCA6E57849",
                     "encrypted_size_2": "DEDD995FA78625E7FDA961369608407A"
                 },
+                "rc": {
+                    "encrypted_gid_2": "3B9320C431288F1074A534FF568BB06E",
+                    "encrypted_size_2": "20A18A190007A6969B3D00AA013FEF79"
+                },
                 "staging": {
                     "encrypted_gid_2": "CF54F0A6B2C15358D952A274999A909D",
                     "encrypted_size_2": "4DBD8F02E3D5FD16497BE5E5333AA18F"
@@ -154,6 +158,10 @@
                     "encrypted_gid_2": "2503A1C0EBB2CE8BC4C11F0DC34F80A0",
                     "encrypted_size_2": "16A0CEF956BD12365B631252CF7610ED"
                 },
+                "rc": {
+                    "encrypted_gid_2": "D50CB7169D809765B0B97E7F8C65059B",
+                    "encrypted_size_2": "4A35982EEDBB96AEADE6F58940042275"
+                },
                 "staging": {
                     "encrypted_gid_2": "36D3BC359EF001BDCEC834314E01F0C8",
                     "encrypted_size_2": "F28F884F0DDC43CDC4C10FD87C528493"
@@ -203,6 +211,10 @@
                 "legacyports": {
                     "encrypted_gid_2": "D7F79FAE4EF2ADC053A19015BB9DF14D",
                     "encrypted_size_2": "002297841B499E19FDFA3F86CF1BB04A"
+                },
+                "rc": {
+                    "encrypted_gid_2": "8510EECB3FA85679296E12E6404B8F36",
+                    "encrypted_size_2": "2DD9D2730D04A96C1FD1D69D0DD8CB73"
                 },
                 "staging": {
                     "encrypted_gid_2": "1E79B39B722C3EEE6A308F75B7892B92",
@@ -368,6 +380,11 @@
                 "description": "Performance Profiling Build",
                 "timeupdated": "1674815112"
             },
+            "rc": {
+                "buildid": "10434994",
+                "pwdrequired": "1",
+                "timeupdated": "1675781286"
+            },
             "staging": {
                 "buildid": "10434994",
                 "pwdrequired": "1",
@@ -381,7 +398,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 17558623,
-    "_sha": "5dcfe7cd6cdab2c210a507b69d828a6f712c47c1",
-    "_size": 10682
+    "_change_number": 17658465,
+    "_sha": "03634411a0f7d58948a635af6abbe3cd6362f498",
+    "_size": 11201
 }
