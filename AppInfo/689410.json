@@ -59,29 +59,29 @@
         },
         "1611741": {
             "manifests": {
-                "public": "5302384038648946964"
+                "public": "2350728113051470932"
             },
-            "maxsize": "1659895782",
+            "maxsize": "1651053567",
             "encryptedmanifests": {
                 "community-server": {
-                    "encrypted_gid_2": "E1F5D40420AAB925602E735A16BA177B",
-                    "encrypted_size_2": "5140783F3FA162359828A34913C5DC37"
+                    "encrypted_gid_2": "9CA78410964C9A9D3D0DB703765B7BB2",
+                    "encrypted_size_2": "79547BC2038A15BDE422054124721DEE"
                 },
                 "developer": {
-                    "encrypted_gid_2": "2A1A31EEE0BF0D9E7A0E5B3F7EA82ABC",
-                    "encrypted_size_2": "950A7E512E2612A1D9938F8241624D64"
+                    "encrypted_gid_2": "9DB3D61CA8C1F0A9F2DCF3443AC8D449",
+                    "encrypted_size_2": "558D29FE68A7BEB1D6172794B134482E"
+                },
+                "private": {
+                    "encrypted_gid_2": "D1BD9CEE3140672F55319BE47A8A550C",
+                    "encrypted_size_2": "2A89164E88A188AD282388F9EA63B272"
                 },
                 "server": {
-                    "encrypted_gid_2": "234116F51856B25E3C7D152B639FC65A",
-                    "encrypted_size_2": "246A043BCCD9F620C222833ACA712A28"
+                    "encrypted_gid_2": "D6D14B9339E162E78A6BBC49AF1079DD",
+                    "encrypted_size_2": "593DA89B5D43D06CD8C23FB3ADF3193B"
                 },
                 "staff": {
-                    "encrypted_gid_2": "9B4592B0FC044106C5B3407BBAB93600",
-                    "encrypted_size_2": "AE1D62F0C1FE10C2CF8A00159AEA709B"
-                },
-                "tester": {
-                    "encrypted_gid_2": "0FD3C80D16D3F589F6AA6889CE76BCEC",
-                    "encrypted_size_2": "FB5CF1B913081DBA2D2FDA0E6817477F"
+                    "encrypted_gid_2": "80BD9F6D607B82AFC380A3F162721A15",
+                    "encrypted_size_2": "AFB8232E165DB481DE2A40355BC95FD9"
                 }
             },
             "depotfromapp": "1611740"
@@ -92,34 +92,34 @@
                 "timeupdated": "1518200532"
             },
             "community-server": {
-                "buildid": "10446803",
+                "buildid": "10477245",
                 "pwdrequired": "1",
-                "timeupdated": "1675201186"
+                "timeupdated": "1675493357"
             },
             "developer": {
-                "buildid": "10446803",
+                "buildid": "10477245",
                 "pwdrequired": "1",
-                "timeupdated": "1675201107"
+                "timeupdated": "1675493322"
+            },
+            "private": {
+                "buildid": "10477245",
+                "pwdrequired": "1",
+                "timeupdated": "1675493382"
             },
             "server": {
-                "buildid": "10446803",
+                "buildid": "10477245",
                 "pwdrequired": "1",
-                "timeupdated": "1675201167"
+                "timeupdated": "1675493310"
             },
             "staff": {
-                "buildid": "10446803",
+                "buildid": "10477245",
                 "pwdrequired": "1",
-                "timeupdated": "1675202216"
-            },
-            "tester": {
-                "buildid": "10446803",
-                "pwdrequired": "1",
-                "timeupdated": "1675202229"
+                "timeupdated": "1675493347"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 17577867,
-    "_sha": "a204d7ede4426c082dce35fe7b26588f54cf9956",
-    "_size": 2882
+    "_change_number": 17663914,
+    "_sha": "66c23ba8481d608d10a25e674b2dcdef14800c30",
+    "_size": 2884
 }
