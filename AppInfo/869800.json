@@ -34,8 +34,8 @@
         "installdir": "Jabroni Brawl Episode 3 Dedicated Server",
         "launch": {
             "0": {
-                "executable": "srcds.exe",
-                "arguments": "-game jbep3 -steam",
+                "executable": "bin\\win32\\jbep3.exe",
+                "arguments": "-ds -game jbep3 -steam",
                 "type": "server",
                 "config": {
                     "oslist": "windows"
@@ -170,7 +170,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 17702867,
-    "_sha": "29eabf02edb339c3318c8925fcfec96f1545477e",
-    "_size": 4091
+    "_change_number": 17702883,
+    "_sha": "a36a82064c18e399668c648334dda1aaa7f24381",
+    "_size": 4107
 }
