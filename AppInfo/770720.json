@@ -198,7 +198,7 @@
             },
             "18": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stage",
+                "arguments": "+online_account_client_settings stage +r_d3d11_setResourcePriority  0 ",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -532,7 +532,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 17694458,
-    "_sha": "f086ac08b524b45af1dab4256fbe1a4474ecb074",
-    "_size": 15033
+    "_change_number": 17695835,
+    "_sha": "8464a1b5705f2a7d7519cd4a06bbc808e434b642",
+    "_size": 15068
 }
