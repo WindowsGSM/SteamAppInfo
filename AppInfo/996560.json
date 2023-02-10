@@ -123,6 +123,10 @@
                     "encrypted_gid_2": "961195AFD6618B38EA6AD7704D531AC4",
                     "encrypted_size_2": "25C38690003D6BDB16F41129286C2B67"
                 },
+                "patreon-testing": {
+                    "encrypted_gid_2": "1DA1CEFC2FD9D2D22975FF6D3A6752F8",
+                    "encrypted_size_2": "CC007224AE5C832A11E3904856A2662C"
+                },
                 "qa-testing": {
                     "encrypted_gid_2": "FC8E967B8A28837016A589FADE5061C7",
                     "encrypted_size_2": "55B579956885CB3032302945568A8CAB"
@@ -179,6 +183,10 @@
                 "nightly": {
                     "encrypted_gid_2": "676AEC878DD16D08AC6AAF2FA6DB5F54",
                     "encrypted_size_2": "3AAB20B0C3B60639F3D5BAD5880CD32A"
+                },
+                "patreon-testing": {
+                    "encrypted_gid_2": "1ED9DD3DFAC45A4FC957EABD55EA3EAF",
+                    "encrypted_size_2": "9D52D755855F25932072FF7031AF27F4"
                 },
                 "qa-testing": {
                     "encrypted_gid_2": "8B7A8492DE575CFD544BC18108893C0F",
@@ -239,6 +247,11 @@
                 "pwdrequired": "1",
                 "timeupdated": "1675999731"
             },
+            "patreon-testing": {
+                "buildid": "10525601",
+                "pwdrequired": "1",
+                "timeupdated": "1676050334"
+            },
             "pluginapi-beta": {
                 "buildid": "10412394",
                 "description": "Plugin API staging branch",
@@ -262,7 +275,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 17700537,
-    "_sha": "8da0b77af4364a2bbbf415ce3286bf6c274040b5",
-    "_size": 6863
+    "_change_number": 17701243,
+    "_sha": "d4108806f0deb9a77fe81eaee11e15c85dc7977f",
+    "_size": 7281
 }
