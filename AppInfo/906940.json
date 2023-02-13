@@ -71,9 +71,10 @@
             "manifests": {
                 "public": "3719597229029357028",
                 "psrelease": "1334805677319790303",
+                "publictesting": "5141310423555145597",
                 "xbrelease": "5145068795563608647"
             },
-            "maxsize": "1232459106",
+            "maxsize": "1361797260",
             "encryptedmanifests": {
                 "development": {
                     "encrypted_gid_2": "951FA896350F03A527A103DD4080DB9C",
@@ -82,10 +83,6 @@
                 "pscert": {
                     "encrypted_gid_2": "35FF5951F7371CF3D53E301FF34954DF",
                     "encrypted_size_2": "FD639190A251C5C0CBF48B4B4F6B1ED2"
-                },
-                "publictesting": {
-                    "encrypted_gid_2": "34CA212DF745EE2F370B8FFD43EB0264",
-                    "encrypted_size_2": "2041D62D45DB9D20C27FA43AE99A3D24"
                 },
                 "release": {
                     "encrypted_gid_2": "370D70A990C11B5F0EF3C7113E54702A",
@@ -104,9 +101,10 @@
             "manifests": {
                 "public": "8712613345210290616",
                 "psrelease": "3272889340405778302",
+                "publictesting": "7672130247143580078",
                 "xbrelease": "4050279398138513219"
             },
-            "maxsize": "1373377935",
+            "maxsize": "1404548336",
             "encryptedmanifests": {
                 "development": {
                     "encrypted_gid_2": "01CD2DE046C564BC143F215E1B492F27",
@@ -115,10 +113,6 @@
                 "pscert": {
                     "encrypted_gid_2": "3DB658D2310764F562C00E3CA997ABE2",
                     "encrypted_size_2": "51FF05AE6F5B28A37AD6952ABC81D013"
-                },
-                "publictesting": {
-                    "encrypted_gid_2": "0F1A5F41CFBF970BFFC00670477D93F5",
-                    "encrypted_size_2": "E2E1DF2E46CF3CC00892EB983502EBC5"
                 },
                 "release": {
                     "encrypted_gid_2": "9FD89467AA48E8176E29AB647B4F4966",
@@ -152,7 +146,7 @@
             },
             "publictesting": {
                 "buildid": "10486084",
-                "pwdrequired": "1",
+                "description": "Public Test",
                 "timeupdated": "1675697530"
             },
             "release": {
@@ -177,7 +171,7 @@
         "maxnumfiles": "10000"
     },
     "_missing_token": false,
-    "_change_number": 17720655,
-    "_sha": "73ee13baacf227c333262ce8ed8d7fa6b16242f2",
-    "_size": 4215
+    "_change_number": 17723928,
+    "_sha": "71ae99e9a50170dd0fe002e8ff2f26c8db1682b6",
+    "_size": 4009
 }
