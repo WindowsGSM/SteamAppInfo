@@ -37,17 +37,21 @@
             },
             "maxsize": "77815904",
             "encryptedmanifests": {
+                "esports": {
+                    "encrypted_gid_2": "40124867BCE31DD0272C533199D3DA3A",
+                    "encrypted_size_2": "683C2C152DA17DCCFF8D3AAA95153366"
+                },
                 "livepreview": {
                     "encrypted_gid_2": "EE29BB5E1224249DFAE354C82368363D",
                     "encrypted_size_2": "7EFC7FE61CD527B897C97C480F9429EC"
                 },
                 "p.i.": {
-                    "encrypted_gid_2": "D2B00D9C5CFF63879CDDAC84E8826966",
-                    "encrypted_size_2": "DDB26209D5729DE5E644D7B157C116F0"
+                    "encrypted_gid_2": "DA57DE8C841422FB714BFC281AD989A3",
+                    "encrypted_size_2": "FB33E9FA708A655C98ED39DF53DD0C53"
                 },
                 "staging": {
-                    "encrypted_gid_2": "249DBC3A6E0BF60E36C4730766EC7F76",
-                    "encrypted_size_2": "C3B84DAC5AD351B8BDDF85BE87C040F8"
+                    "encrypted_gid_2": "6D35B31244AAC9D3AAA3BE66A1CB0123",
+                    "encrypted_size_2": "29A27CD3E4C6B15EB1DA711E70B366B3"
                 }
             }
         },
@@ -56,25 +60,30 @@
                 "buildid": "10399147",
                 "timeupdated": "1674732435"
             },
+            "esports": {
+                "buildid": "10540193",
+                "pwdrequired": "1",
+                "timeupdated": "1676297005"
+            },
             "livepreview": {
                 "buildid": "10399147",
                 "pwdrequired": "1",
                 "timeupdated": "1674729351"
             },
             "p.i.": {
-                "buildid": "10105404",
+                "buildid": "10540193",
                 "pwdrequired": "1",
-                "timeupdated": "1670500870"
+                "timeupdated": "1676296971"
             },
             "staging": {
-                "buildid": "10399147",
+                "buildid": "10540193",
                 "pwdrequired": "1",
-                "timeupdated": "1674644516"
+                "timeupdated": "1676296651"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 17513724,
-    "_sha": "d9909670341087bf84953c7c93d7f71693b93016",
-    "_size": 1799
+    "_change_number": 17723670,
+    "_sha": "59945c4c7f2166c76df902b8e017080143d00bbb",
+    "_size": 2048
 }
