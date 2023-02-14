@@ -93,6 +93,10 @@
                 "nighly_shack_arm64": {
                     "encrypted_gid_2": "029B858C9A1C4F82669D148C9A948E1D",
                     "encrypted_size_2": "ACAA9BFC0BE87833D90DCA6B3BC1FD73"
+                },
+                "stable_rc": {
+                    "encrypted_gid_2": "278973E053A5484D31A9D9643B3DD349",
+                    "encrypted_size_2": "00C6627E5588AB859A69AEBC24D073BD"
                 }
             }
         },
@@ -161,11 +165,16 @@
             "shack_docker": {
                 "buildid": "6282543",
                 "timeupdated": "1614724243"
+            },
+            "stable_rc": {
+                "buildid": "10549287",
+                "pwdrequired": "1",
+                "timeupdated": "1676385624"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 17730376,
-    "_sha": "5e1d48d2822f9a58dcbba5288bebdbff6bbb0b86",
-    "_size": 3907
+    "_change_number": 17737551,
+    "_sha": "52ef3ad0a4bd260f687041b2bf1a405c63c1b7ec",
+    "_size": 4160
 }
