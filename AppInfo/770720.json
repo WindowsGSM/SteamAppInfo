@@ -209,6 +209,20 @@
                     "english": "scripted_tutorial"
                 },
                 "description": "scripted_tutorial"
+            },
+            "19": {
+                "executable": "bin\\win_x64\\HuntGame.exe",
+                "arguments": "+online_account_client_settings stage",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "burt_playtest_internal"
+                },
+                "description_loc": {
+                    "english": "burt_playtest_internal"
+                },
+                "description": "burt_playtest_internal"
             }
         }
     },
@@ -256,6 +270,10 @@
             },
             "maxsize": "548877865",
             "encryptedmanifests": {
+                "burt_playtest_internal": {
+                    "encrypted_gid_2": "5A57229D39D3F489E13442636E5FFCBF",
+                    "encrypted_size_2": "C8FE32F7405D547EC9DAC9BB83D4256E"
+                },
                 "current": {
                     "encrypted_gid_2": "A05E0DEB9F10A6ADE1491F1A1B21E22E",
                     "encrypted_size_2": "4CC70E440712AE1B4C57D749C7BE5A47"
@@ -312,6 +330,10 @@
             },
             "maxsize": "45362244679",
             "encryptedmanifests": {
+                "burt_playtest_internal": {
+                    "encrypted_gid_2": "9D5E638E87D25233CDCA5E18B61AEF32",
+                    "encrypted_size_2": "D842DB25C4556B54C18BAF4CA5E48862"
+                },
                 "current": {
                     "encrypted_gid_2": "4A7E8CDC97072A6AB48545FBCB8D58A6",
                     "encrypted_size_2": "DF6BE7EEF52099EFFF62119615CA25A9"
@@ -368,6 +390,10 @@
             },
             "maxsize": "164380602",
             "encryptedmanifests": {
+                "burt_playtest_internal": {
+                    "encrypted_gid_2": "9A98CDE47970F0A674A184F743AB069F",
+                    "encrypted_size_2": "9050E793EF771E43AEA3873897EB356D"
+                },
                 "current": {
                     "encrypted_gid_2": "C34815333A8DA423A544469D9D01B683",
                     "encrypted_size_2": "A719C35A483A87DC4CC3202E9778F468"
@@ -423,6 +449,10 @@
                 "public": "1633632636785229434"
             },
             "encryptedmanifests": {
+                "burt_playtest_internal": {
+                    "encrypted_gid_2": "C24AB576CB41EA51967D794B8F8DCFDF",
+                    "encrypted_size_2": "736E64B739B9EBDDFD22C26809233347"
+                },
                 "current": {
                     "encrypted_gid_2": "6B79E0632F06FA48440FD6EE2D335D2F",
                     "encrypted_size_2": "F2BFA34734FC054F15A06024F6174AE7"
@@ -473,6 +503,11 @@
             "public": {
                 "buildid": "10020383",
                 "timeupdated": "1670235035"
+            },
+            "burt_playtest_internal": {
+                "buildid": "10566458",
+                "pwdrequired": "1",
+                "timeupdated": "1676556476"
             },
             "current": {
                 "buildid": "10520237",
@@ -532,7 +567,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 17763182,
-    "_sha": "aacd59fd5e32dc80a34ad115aea6b1fd59d9d623",
-    "_size": 15097
+    "_change_number": 17764273,
+    "_sha": "9dabf652fd8bf4cbb05fe44aed4ec6f6a4cd0fc5",
+    "_size": 16230
 }
