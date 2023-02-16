@@ -91,6 +91,10 @@
             },
             "maxsize": "683844991",
             "encryptedmanifests": {
+                "arith1": {
+                    "encrypted_gid_2": "D612480373B86432AAEB34B3ABEC6198",
+                    "encrypted_size_2": "C45B3C0378000D54654942728C1C2CDF"
+                },
                 "beryl-test": {
                     "encrypted_gid_2": "FEF33FD77AC0BEDE36AC185562F29463",
                     "encrypted_size_2": "6C72CB0C42BE4832A618AAEE7D44EBE6"
@@ -152,6 +156,10 @@
             },
             "maxsize": "515425087",
             "encryptedmanifests": {
+                "arith1": {
+                    "encrypted_gid_2": "46C27556AFE8B37A3279F9DD4000CBE9",
+                    "encrypted_size_2": "4313FD64ACA725E1353980B2D536F627"
+                },
                 "beryl-test": {
                     "encrypted_gid_2": "7BEE2185AA14B55D0A7D33B582440233",
                     "encrypted_size_2": "6BABBDEECDBEF7C0D5D16ACCB79DAAD0"
@@ -206,6 +214,11 @@
             "public": {
                 "buildid": "10412394",
                 "timeupdated": "1675637847"
+            },
+            "arith1": {
+                "buildid": "10569012",
+                "pwdrequired": "1",
+                "timeupdated": "1676571044"
             },
             "beryl-test": {
                 "buildid": "10525601",
@@ -275,7 +288,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 17758558,
-    "_sha": "bb7ccba94c3c2ec33b21caece71845d45535e84a",
-    "_size": 7281
+    "_change_number": 17767375,
+    "_sha": "335649ad2ff737580bd4282f83c3d1713b559628",
+    "_size": 7672
 }
