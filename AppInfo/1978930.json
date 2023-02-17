@@ -113,8 +113,12 @@
             "maxsize": "406948048",
             "encryptedmanifests": {
                 "development": {
-                    "encrypted_gid_2": "1E41C8A9C7A5B84CDBEED100B5F63CE7",
-                    "encrypted_size_2": "3D8A960E0C6E08231AD74EA4D5E6AF1C"
+                    "encrypted_gid_2": "2640CEE035D2AC97D94C82D47ADD6E7B",
+                    "encrypted_size_2": "58D1F2CB2D0E7F75BBD6CB7F8009F60B"
+                },
+                "steamctg": {
+                    "encrypted_gid_2": "B85310E2D3E2F71A2AFC51D78AFC8C6D",
+                    "encrypted_size_2": "E75A3EACD4A8CA41F357CE25B5988A9D"
                 }
             }
         },
@@ -127,6 +131,10 @@
                 "development": {
                     "encrypted_gid_2": "55D98A411C18E75BFE0E2AA15A7802D8",
                     "encrypted_size_2": "D5C4C68E8162CA3DDEAB262CF5824C16"
+                },
+                "steamctg": {
+                    "encrypted_gid_2": "ED7F94B51780598156059E5C48A2AB80",
+                    "encrypted_size_2": "346548A1FA3EFAF27FCC4554B8107F73"
                 }
             }
         },
@@ -137,8 +145,12 @@
             "maxsize": "22573216",
             "encryptedmanifests": {
                 "development": {
-                    "encrypted_gid_2": "F85BE09A6D3902957B80AFDDC642CCC6",
-                    "encrypted_size_2": "827B9210D855C85512440BCC95706E65"
+                    "encrypted_gid_2": "162CEA2A0BD2E2566A59D0238E249CCA",
+                    "encrypted_size_2": "67905EDE000A1F3296341B8E64DDD6C4"
+                },
+                "steamctg": {
+                    "encrypted_gid_2": "63663302F2D643FE1F118D2283AF714D",
+                    "encrypted_size_2": "1534EDB35BD514747A912B0F864B0E84"
                 }
             }
         },
@@ -148,14 +160,19 @@
                 "timeupdated": "1673296181"
             },
             "development": {
-                "buildid": "10559863",
+                "buildid": "10572008",
                 "pwdrequired": "1",
-                "timeupdated": "1676485086"
+                "timeupdated": "1676600967"
+            },
+            "steamctg": {
+                "buildid": "10572008",
+                "pwdrequired": "1",
+                "timeupdated": "1676600976"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 17753688,
-    "_sha": "8ee9b1c49fdc37aa382baf8d656b9d30ec1d1442",
-    "_size": 3269
+    "_change_number": 17771722,
+    "_sha": "73c2bc3c41d128b04f5fdcbbe7b2f142c23255ce",
+    "_size": 3812
 }
