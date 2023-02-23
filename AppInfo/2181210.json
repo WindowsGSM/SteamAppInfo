@@ -68,7 +68,13 @@
                 "public": "6155374200278857005",
                 "local": "8947774772530151641"
             },
-            "maxsize": "735741277"
+            "maxsize": "735741277",
+            "encryptedmanifests": {
+                "design": {
+                    "encrypted_gid_2": "BD8CD7AC34E834FBE40DA4A8A580C34F",
+                    "encrypted_size_2": "609B06C1DC7446DDA91B63E3609F9C78"
+                }
+            }
         },
         "2181212": {
             "config": {
@@ -78,7 +84,13 @@
                 "public": "4579505017118760211",
                 "local": "297253290235479004"
             },
-            "maxsize": "99785896"
+            "maxsize": "99785896",
+            "encryptedmanifests": {
+                "design": {
+                    "encrypted_gid_2": "975B2CD6BD102B6C1D096A66205B61B4",
+                    "encrypted_size_2": "808A12120F9C00998DDF64F690381580"
+                }
+            }
         },
         "2181213": {
             "config": {
@@ -88,12 +100,23 @@
                 "public": "5666045086648899547",
                 "local": "1718218215059467337"
             },
-            "maxsize": "79608804"
+            "maxsize": "79608804",
+            "encryptedmanifests": {
+                "design": {
+                    "encrypted_gid_2": "0732BD86B543F8F20A47AA83924FFDF4",
+                    "encrypted_size_2": "5A665B92BEE5FFBA368D31E0D88D9F55"
+                }
+            }
         },
         "branches": {
             "public": {
                 "buildid": "10448457",
                 "timeupdated": "1675217908"
+            },
+            "design": {
+                "buildid": "10624873",
+                "pwdrequired": "1",
+                "timeupdated": "1677195586"
             },
             "local": {
                 "buildid": "10624775",
@@ -104,7 +127,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 17851042,
-    "_sha": "7b81b39df357c2b2d9b457e1b4b957bec36c693b",
-    "_size": 2024
+    "_change_number": 17851207,
+    "_sha": "82069550969a6bbaed5c2fb929b614cb5fe99be0",
+    "_size": 2661
 }
