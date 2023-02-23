@@ -65,37 +65,46 @@
         },
         "2181211": {
             "manifests": {
-                "public": "6155374200278857005"
+                "public": "6155374200278857005",
+                "local": "8947774772530151641"
             },
-            "maxsize": "732982024"
+            "maxsize": "735741277"
         },
         "2181212": {
             "config": {
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "4579505017118760211"
+                "public": "4579505017118760211",
+                "local": "297253290235479004"
             },
-            "maxsize": "99782824"
+            "maxsize": "99785896"
         },
         "2181213": {
             "config": {
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "5666045086648899547"
+                "public": "5666045086648899547",
+                "local": "1718218215059467337"
             },
-            "maxsize": "79568639"
+            "maxsize": "79608804"
         },
         "branches": {
             "public": {
                 "buildid": "10448457",
                 "timeupdated": "1675217908"
+            },
+            "local": {
+                "buildid": "10624775",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1677194506"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 17579328,
-    "_sha": "e701e08fe17648e80eda42a16a311f7f93c34bd8",
-    "_size": 1776
+    "_change_number": 17851042,
+    "_sha": "7b81b39df357c2b2d9b457e1b4b957bec36c693b",
+    "_size": 2024
 }
