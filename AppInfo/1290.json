@@ -36,6 +36,7 @@
             "systemdefined": "1",
             "manifests": {
                 "public": "6043627322827661572",
+                "legacy-v6.0.0": "4376981082077672751",
                 "previous": "9010623618386807462"
             },
             "maxsize": "10708711446",
@@ -54,7 +55,8 @@
         "1291": {
             "systemdefined": "1",
             "manifests": {
-                "public": "6319372794424659977"
+                "public": "6319372794424659977",
+                "legacy-v6.0.0": "3431600298929727963"
             },
             "maxsize": "1959962985",
             "encryptedmanifests": {
@@ -78,6 +80,11 @@
                 "pwdrequired": "1",
                 "timeupdated": "1676771456"
             },
+            "legacy-v6.0.0": {
+                "buildid": "1026294",
+                "description": "v6.0.0",
+                "timeupdated": "1677240195"
+            },
             "prerelease": {
                 "buildid": "10628827",
                 "pwdrequired": "1",
@@ -91,7 +98,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 17856811,
-    "_sha": "00e223f13e24b945d2cbd59183cbf8e9453c1360",
-    "_size": 2096
+    "_change_number": 17857245,
+    "_sha": "1c85d17b7f09e52dce37591657b6921413ea4f2b",
+    "_size": 2296
 }
