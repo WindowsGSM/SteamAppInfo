@@ -114,11 +114,14 @@
                 "1.198": "3127332575255370754",
                 "1.199": "7568682266249456353",
                 "1.200": "1059567046225075732",
-                "automatons-beta": "3572435111712836135",
                 "dx9-32bit": "1995551932701408037"
             },
-            "maxsize": "5577189791",
+            "maxsize": "5536597535",
             "encryptedmanifests": {
+                "automatons-beta": {
+                    "encrypted_gid_2": "437D9154CAE2E6D937865F98BC4E6871",
+                    "encrypted_size_2": "E998FB661708C56A0C8C9B07681E5B89"
+                },
                 "playtest": {
                     "encrypted_gid_2": "05DEB7134BE6326B8E6B050503D0D1E9",
                     "encrypted_size_2": "8F45B22FFD0629D8CAA9E06A32CCE2BA"
@@ -224,7 +227,7 @@
             },
             "automatons-beta": {
                 "buildid": "10558353",
-                "description": "Automatons Beta",
+                "pwdrequired": "1",
                 "timeupdated": "1676471139"
             },
             "dx9-32bit": {
@@ -260,7 +263,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 17896401,
-    "_sha": "fabe0aa31ca11c4e13be7c317a41f70b2ea5b04a",
-    "_size": 6118
+    "_change_number": 17930413,
+    "_sha": "9ed127f53c67944714e27d5d2ff45134cb4f62e0",
+    "_size": 6212
 }
