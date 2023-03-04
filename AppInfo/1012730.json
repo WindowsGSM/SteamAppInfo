@@ -15,6 +15,30 @@
             "0": "5"
         },
         "has_adult_content": "1",
+        "steam_deck_compatibility": {
+            "category": "1",
+            "test_timestamp": "1677283200",
+            "tested_build_id": "4647512",
+            "tests": {
+                "0": {
+                    "display": "2",
+                    "token": "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Retired"
+                }
+            },
+            "configuration": {
+                "supported_input": "other",
+                "requires_manual_keyboard_invoke": "0",
+                "requires_non_controller_launcher_nav": "0",
+                "primary_player_is_controller_slot_0": "0",
+                "non_deck_display_glyphs": "0",
+                "small_text": "0",
+                "requires_internet_for_setup": "0",
+                "requires_internet_for_singleplayer": "0",
+                "recommended_runtime": "proton-stable",
+                "requires_h264": "0",
+                "gamescope_frame_limiter_not_supported": "0"
+            }
+        },
         "metacritic_name": "九劫曲:诅咒之地 NineTrials Test Server",
         "small_capsule": {
             "english": "capsule_231x87.jpg"
@@ -139,7 +163,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 17864579,
-    "_sha": "df797782fac052f990c014ccee92d63ee989b9a1",
-    "_size": 3008
+    "_change_number": 17949455,
+    "_sha": "81dae516cb3c85889293b679cad02246e4f4e00e",
+    "_size": 3724
 }
