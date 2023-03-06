@@ -39,9 +39,10 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "2191124856417567802"
+                "public": "2191124856417567802",
+                "experimental": "6080672316563473603"
             },
-            "maxsize": "627318740"
+            "maxsize": "631227936"
         },
         "1639882": {
             "config": {
@@ -50,7 +51,8 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "7817412678970604152"
+                "public": "7817412678970604152",
+                "experimental": "7817412678970604152"
             },
             "maxsize": "579323367"
         },
@@ -58,11 +60,16 @@
             "public": {
                 "buildid": "10574028",
                 "timeupdated": "1676821280"
+            },
+            "experimental": {
+                "buildid": "10701959",
+                "description": "For testing",
+                "timeupdated": "1678116633"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 17795904,
-    "_sha": "7633d2872c062113ef1c211a27afb9513674a099",
-    "_size": 1374
+    "_change_number": 17971245,
+    "_sha": "bbfc8a252f723d9cc8515ace8278996ada9591a4",
+    "_size": 1577
 }
