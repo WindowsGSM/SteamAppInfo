@@ -8,7 +8,8 @@
         "osarch": "",
         "osextended": "macos64",
         "associations": {},
-        "gameid": "258550"
+        "gameid": "258550",
+        "store_tags": {}
     },
     "extended": {
         "gamedir": ""
@@ -30,7 +31,7 @@
                 "aux01": "4603025896357732340",
                 "aux02": "2651333516958225825",
                 "release": "4874719502020858679",
-                "staging": "9135924616419957525"
+                "staging": "6220557093555859470"
             },
             "maxsize": "572115075",
             "encryptedmanifests": {
@@ -87,8 +88,8 @@
                     "encrypted_size_2": "54BCB105EE06D29CAA4B4B4F665B01B5"
                 },
                 "staging-debug": {
-                    "encrypted_gid_2": "0E5682B8644F774E643A91E7DCB26BE5",
-                    "encrypted_size_2": "FC45EFCC332B9B0E045C88BDA58A39B8"
+                    "encrypted_gid_2": "9F878E563F63052FD41182FCF96FCA0B",
+                    "encrypted_size_2": "0E18A331A8C47CA53B631F09986373A9"
                 },
                 "test": {
                     "encrypted_gid_2": "930251441037D8E90A602B95B76C590F",
@@ -117,7 +118,7 @@
                 "aux01": "5019778983039393710",
                 "aux02": "2296749308439610859",
                 "release": "5656114084039755184",
-                "staging": "7053796157904032862"
+                "staging": "6121083939607901800"
             },
             "maxsize": "622872422",
             "encryptedmanifests": {
@@ -451,13 +452,13 @@
                 "timeupdated": "1677255758"
             },
             "staging": {
-                "buildid": "10714403",
-                "timeupdated": "1678229221"
+                "buildid": "10714841",
+                "timeupdated": "1678233458"
             },
             "staging-debug": {
-                "buildid": "10714407",
+                "buildid": "10714848",
                 "pwdrequired": "1",
-                "timeupdated": "1678229275"
+                "timeupdated": "1678233515"
             },
             "test": {
                 "buildid": "10268307",
@@ -482,7 +483,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 17990185,
-    "_sha": "e27fe9b27eb5304cabd9aab04b7da491def3db64",
-    "_size": 14830
+    "_change_number": 17990639,
+    "_sha": "ab4adf30bfc69f608a578c5030a1fbe195a05de5",
+    "_size": 14853
 }
