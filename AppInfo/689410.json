@@ -59,29 +59,39 @@
         },
         "1611741": {
             "manifests": {
-                "public": "6528337997138212365"
+                "public": "7411389809194558485"
             },
-            "maxsize": "1676957552",
+            "maxsize": "1676515228",
             "encryptedmanifests": {
                 "community-server": {
-                    "encrypted_gid_2": "A3516D3E5599D1AC14C4B020E336D651",
-                    "encrypted_size_2": "FA2E4212F1F8ECFFD4B2A1DEFFEDE3BC"
+                    "encrypted_gid_2": "79FD5FC8AEB9FDB6C1E27765BAAA6462",
+                    "encrypted_size_2": "321A3EC42845AAF4310A6679F21C7E9C",
+                    "download": "B6E6C01C8AAD4EF16C91074E70B422A5"
                 },
                 "developer": {
-                    "encrypted_gid_2": "852E65063B428220C43654ED251C4D74",
-                    "encrypted_size_2": "4EB3BDCB59533084E0DBB1ECE6D3FF28"
+                    "encrypted_gid_2": "BA3F263569F80FB47BF964BCC5A34AF1",
+                    "encrypted_size_2": "FB00529CF7B254E019D41BA28CE84B07",
+                    "download": "C4047DDEC5CB57B642B44D7E42B5FE1A"
                 },
                 "private": {
-                    "encrypted_gid_2": "FAF7708B1843ECB4AA221D58E36D0292",
-                    "encrypted_size_2": "0184B2F6F4C56535A6F12BF1E43FC02D"
+                    "encrypted_gid_2": "FBD9E33B294254872DB22A8E678B1F85",
+                    "encrypted_size_2": "CDC6D7FF729B564B7ECE0F269F5825F1",
+                    "download": "FCA56DD5F2EB7BA6DE6A8B04321B4863"
                 },
                 "server": {
-                    "encrypted_gid_2": "49962165F51752AF923DE72852FC635C",
-                    "encrypted_size_2": "AB2255CB84EFD0499317C7F004CD2289"
+                    "encrypted_gid_2": "4C3638FE65CEDC368C08294A01B83270",
+                    "encrypted_size_2": "18907850915F2F1F450BBEE215BF5143",
+                    "download": "8BA5419D6156A7EFFAB27426DB4E7996"
                 },
                 "staff": {
-                    "encrypted_gid_2": "D9D3A796C7330200BF4ABBF870D95620",
-                    "encrypted_size_2": "12D638F1FE9B338557E91B7FEE40D0AA"
+                    "encrypted_gid_2": "BAA98FCAF348B11C8FC9F3200C84CE74",
+                    "encrypted_size_2": "2B84247BFDCAC8DE73F5A6B18954B7C4",
+                    "download": "2EB65095A806777F39D88A06D32117A9"
+                },
+                "trailer": {
+                    "encrypted_gid_2": "9799A1BCD8872D05674CA8A9427283F3",
+                    "encrypted_size_2": "E216495B4F6BF7FFB5F73FBFE92D830B",
+                    "download": "3DA245B047C8D0C63871974AB75F175E"
                 }
             },
             "depotfromapp": "1611740"
@@ -92,34 +102,39 @@
                 "timeupdated": "1518200532"
             },
             "community-server": {
-                "buildid": "10691015",
+                "buildid": "10745308",
                 "pwdrequired": "1",
-                "timeupdated": "1677930166"
+                "timeupdated": "1678744703"
             },
             "developer": {
-                "buildid": "10691015",
+                "buildid": "10769276",
                 "pwdrequired": "1",
-                "timeupdated": "1677930175"
+                "timeupdated": "1678828137"
             },
             "private": {
-                "buildid": "10691015",
+                "buildid": "10745308",
                 "pwdrequired": "1",
-                "timeupdated": "1677930182"
+                "timeupdated": "1678512282"
             },
             "server": {
-                "buildid": "10691015",
+                "buildid": "10769276",
                 "pwdrequired": "1",
-                "timeupdated": "1677930189"
+                "timeupdated": "1678828146"
             },
             "staff": {
-                "buildid": "10691015",
+                "buildid": "10745308",
                 "pwdrequired": "1",
-                "timeupdated": "1677930203"
+                "timeupdated": "1678512296"
+            },
+            "trailer": {
+                "buildid": "10769276",
+                "pwdrequired": "1",
+                "timeupdated": "1678828156"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 17990185,
-    "_sha": "8fc92e9ca5bbd600d758cd0e9b81e0247e256468",
-    "_size": 2884
+    "_change_number": 18076822,
+    "_sha": "93795792a2dacccd57bffd162633d0b1f3e47e31",
+    "_size": 3445
 }
