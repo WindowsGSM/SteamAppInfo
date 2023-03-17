@@ -74,11 +74,11 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "2002365385118788871",
-                "devtest": "2002365385118788871",
+                "public": "5310641131136769452",
+                "devtest": "5310641131136769452",
                 "legacy": "9185763667898370055",
                 "oldversion": "7239348504016050697",
-                "privatetest": "2002365385118788871",
+                "privatetest": "5310641131136769452",
                 "whagwan": "6186249394656305976"
             },
             "maxsize": "956377460",
@@ -95,11 +95,11 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "3458416806386491291",
-                "devtest": "3458416806386491291",
+                "public": "2901604725532908930",
+                "devtest": "2901604725532908930",
                 "legacy": "6925592058745733688",
                 "oldversion": "7147860276082064604",
-                "privatetest": "3458416806386491291",
+                "privatetest": "2901604725532908930",
                 "whagwan": "3544464017689656215"
             },
             "maxsize": "998859671",
@@ -113,14 +113,14 @@
         },
         "405103": {
             "manifests": {
-                "public": "2692445466649954064",
-                "devtest": "2692445466649954064",
+                "public": "269427624681214512",
+                "devtest": "269427624681214512",
                 "legacy": "8545715084088772803",
                 "oldversion": "4737024751331444294",
-                "privatetest": "2692445466649954064",
+                "privatetest": "269427624681214512",
                 "whagwan": "1948679995373904297"
             },
-            "maxsize": "3487640111",
+            "maxsize": "3487640511",
             "encryptedmanifests": {
                 "tomtest": {
                     "encrypted_gid_2": "1D1688CC029C4384220B13F029454929",
@@ -131,13 +131,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "10795780",
-                "timeupdated": "1679068878"
+                "buildid": "10796707",
+                "timeupdated": "1679072287"
             },
             "devtest": {
-                "buildid": "10795780",
+                "buildid": "10796707",
                 "description": "Developer only testing branch",
-                "timeupdated": "1679068847"
+                "timeupdated": "1679072306"
             },
             "legacy": {
                 "buildid": "3060263",
@@ -148,8 +148,8 @@
                 "timeupdated": "1679068810"
             },
             "privatetest": {
-                "buildid": "10795780",
-                "timeupdated": "1679066159"
+                "buildid": "10796707",
+                "timeupdated": "1679072320"
             },
             "tomtest": {
                 "buildid": "10795780",
@@ -164,7 +164,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18117866,
-    "_sha": "48c1383fd840b4ce8639f351e218424e58aad23e",
-    "_size": 3809
+    "_change_number": 18118582,
+    "_sha": "90b7bc752f923efd57ee1258ee2cbf0ee3595029",
+    "_size": 3806
 }
