@@ -32,14 +32,14 @@
                 "description": "Launch Server"
             },
             "1": {
-                "executable": "CreativerseServer.exe",
+                "executable": "CreativerseServer",
                 "type": "default",
                 "config": {
                     "oslist": "macos"
                 }
             },
             "2": {
-                "executable": "CreativerseServer.exe",
+                "executable": "CreativerseServer",
                 "type": "default",
                 "config": {
                     "oslist": "linux",
@@ -165,7 +165,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18148075,
-    "_sha": "72b640473e069752dc19fd4080d4476e8163f7c5",
-    "_size": 3916
+    "_change_number": 18148487,
+    "_sha": "34028915d808df0f92725145a2ce09c4a9886d8f",
+    "_size": 3908
 }
