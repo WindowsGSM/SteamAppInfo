@@ -33,19 +33,15 @@
         },
         "354061": {
             "manifests": {
-                "public": "2720738764004781505"
+                "public": "2720738764004781505",
+                "preview": "5365570688560706058"
             },
-            "maxsize": "77665368",
+            "maxsize": "77668440",
             "encryptedmanifests": {
-                "esports": {
-                    "encrypted_gid_2": "345144EF3C4D4EAC1481AD9F7CD9B511",
-                    "encrypted_size_2": "77DD5DFA2FB522E69D5CCAEAF7F8414C",
-                    "download": "7CF84978191211BC47C24AA2A5CADEFF"
-                },
                 "livepreview": {
-                    "encrypted_gid_2": "6450904DFE581A0412C69265812CC73A",
-                    "encrypted_size_2": "2E06B238A78E52E89B8416592538E619",
-                    "download": "5266B61845FB3E5AFD9DE8B5DA332F8E"
+                    "encrypted_gid_2": "7FF213CEBC5179571610C502CB3A454B",
+                    "encrypted_size_2": "E7213995E9A9DDF9C63D4E1AE503AB4B",
+                    "download": "EEE1D50C59D73EE1872673DB6AEC409E"
                 },
                 "p.i.": {
                     "encrypted_gid_2": "EDEB2E531532CF1BADA3A0431B41B5A6",
@@ -64,20 +60,20 @@
                 "buildid": "10664330",
                 "timeupdated": "1677673723"
             },
-            "esports": {
-                "buildid": "10399147",
-                "pwdrequired": "1",
-                "timeupdated": "1676542542"
-            },
             "livepreview": {
-                "buildid": "10663315",
+                "buildid": "10848351",
                 "pwdrequired": "1",
-                "timeupdated": "1677669063"
+                "timeupdated": "1679664676"
             },
             "p.i.": {
                 "buildid": "10664099",
                 "pwdrequired": "1",
                 "timeupdated": "1677669051"
+            },
+            "preview": {
+                "buildid": "10848351",
+                "description": "early look",
+                "timeupdated": "1679664743"
             },
             "staging": {
                 "buildid": "10848351",
@@ -87,7 +83,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18197899,
-    "_sha": "804cd026ec3a32daef5011e8721c536ca2c2c9df",
-    "_size": 2256
+    "_change_number": 18198017,
+    "_sha": "1a4c45e104e130b24fead7d68f09eab1be73400d",
+    "_size": 2105
 }
