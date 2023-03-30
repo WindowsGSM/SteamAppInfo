@@ -20,7 +20,7 @@
         "installdir": "Snapshot VR Dedicated Server",
         "launch": {
             "0": {
-                "executable": "snapshot_server_2.8.2.x86_64",
+                "executable": "snapshotvr-dedicatedserver.x86_64",
                 "type": "server",
                 "config": {
                     "oslist": "linux"
@@ -35,19 +35,19 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "1378350011758562297"
+                "public": "7457449452409824553"
             },
-            "maxsize": "196926133"
+            "maxsize": "229945112"
         },
         "branches": {
             "public": {
-                "buildid": "10094421",
-                "timeupdated": "1670390419"
+                "buildid": "10889001",
+                "timeupdated": "1680146426"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 16988325,
-    "_sha": "9afb7ccc2355a52006c708da1ac90ab11294e07d",
-    "_size": 1069
+    "_change_number": 18261306,
+    "_sha": "4aed99c75c44e41829ef142b8b07941a45264576",
+    "_size": 1074
 }
