@@ -4,7 +4,7 @@
         "name": "Re-Spawn Tournament Dedicated Server",
         "type": "Tool",
         "parent": "1590010",
-        "oslist": "windows",
+        "oslist": "windows,linux",
         "osarch": "64",
         "osextended": "",
         "icon": "f131111ab8262f8548735b44620091c922678a0f",
@@ -14,6 +14,10 @@
         "linuxclienticon": "64e2256caa34f0238d71519775fe89e0cd2362e6",
         "releasestate": "released",
         "gameid": "2160300"
+    },
+    "extended": {
+        "gamedir": "ReSpawn",
+        "serverbrowsername": "Re-Spawn Tournament"
     },
     "config": {
         "installdir": "WindowsServer",
@@ -30,15 +34,15 @@
         "uselaunchcommandline": "1"
     },
     "depots": {
-        "2160301": {
+        "2160302": {
             "config": {
-                "oslist": "windows",
-                "osarch": "64"
-            },
-            "manifests": {
-                "public": "6306907550989763021"
-            },
-            "maxsize": "716914551"
+                "oslist": "windows"
+            }
+        },
+        "2160303": {
+            "config": {
+                "oslist": "windows,linux"
+            }
         },
         "branches": {
             "public": {
@@ -48,7 +52,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16157469,
-    "_sha": "e5eb2ac7cea77c4e83aba8671095a434dfdf341b",
-    "_size": 1075
+    "_change_number": 18291558,
+    "_sha": "61af7be1af668116ed2d5083cd5cf360e0f75d2e",
+    "_size": 1133
 }
