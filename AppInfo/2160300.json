@@ -84,16 +84,18 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "4642891312525713751"
+                "public": "4642891312525713751",
+                "developer": "4642891312525713751"
             },
             "maxsize": "1157063975"
         },
         "2160303": {
             "config": {
-                "oslist": "windows,linux"
+                "oslist": "linux"
             },
             "manifests": {
-                "public": "9099413578916985830"
+                "public": "9099413578916985830",
+                "developer": "9099413578916985830"
             },
             "maxsize": "1044849343"
         },
@@ -101,11 +103,16 @@
             "public": {
                 "buildid": "10907928",
                 "timeupdated": "1680331862"
+            },
+            "developer": {
+                "buildid": "10908082",
+                "description": "Public developer branch",
+                "timeupdated": "1680335300"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 18292057,
-    "_sha": "97494ef6e8f1e3f28903bb631b706b9b80f45ddc",
-    "_size": 2164
+    "_change_number": 18292196,
+    "_sha": "fc2caf7fd80b0fb6163e47fab14ae180c74c3eae",
+    "_size": 2362
 }
