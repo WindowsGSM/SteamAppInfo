@@ -13,6 +13,14 @@
         "clienticns": "de4b024867ea481106d6e0f873ce502e29a3f9df",
         "linuxclienticon": "64e2256caa34f0238d71519775fe89e0cd2362e6",
         "releasestate": "released",
+        "eulas": {
+            "0": {
+                "id": "2160300_eula_0",
+                "name": "Re-Spawn Tournament Dedicated Server EULA",
+                "url": "https://store.steampowered.com//eula/2160300_eula_0",
+                "version": "1"
+            }
+        },
         "gameid": "2160300"
     },
     "extended": {
@@ -20,13 +28,21 @@
         "serverbrowsername": "Re-Spawn Tournament"
     },
     "config": {
-        "installdir": "WindowsServer",
+        "installdir": "ReSpawnServer",
         "launch": {
             "0": {
                 "executable": "ReSpawnServer.exe",
-                "arguments": "-log",
+                "arguments": "-server -log",
                 "config": {
                     "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "ReSpawn.sh",
+                "arguments": "-server -log",
+                "config": {
+                    "oslist": "linux",
                     "osarch": "64"
                 }
             }
@@ -34,6 +50,35 @@
         "uselaunchcommandline": "1"
     },
     "depots": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": "5329354416203291021"
+            },
+            "maxsize": "42086632",
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": "2135359612286175146"
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": "4444585935428744334"
+            },
+            "maxsize": "66706004",
+            "depotfromapp": "1007"
+        },
         "2160302": {
             "config": {
                 "oslist": "windows"
@@ -60,7 +105,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18292029,
-    "_sha": "544aaee612a752f39cdbaefe21b73cefb25bad36",
-    "_size": 1310
+    "_change_number": 18292057,
+    "_sha": "97494ef6e8f1e3f28903bb631b706b9b80f45ddc",
+    "_size": 2164
 }
