@@ -37,22 +37,30 @@
         "2160302": {
             "config": {
                 "oslist": "windows"
-            }
+            },
+            "manifests": {
+                "public": "4642891312525713751"
+            },
+            "maxsize": "1157063975"
         },
         "2160303": {
             "config": {
                 "oslist": "windows,linux"
-            }
+            },
+            "manifests": {
+                "public": "9099413578916985830"
+            },
+            "maxsize": "1044849343"
         },
         "branches": {
             "public": {
-                "buildid": "9587346",
-                "timeupdated": "1664117968"
+                "buildid": "10907928",
+                "timeupdated": "1680331862"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 18291558,
-    "_sha": "61af7be1af668116ed2d5083cd5cf360e0f75d2e",
-    "_size": 1133
+    "_change_number": 18291942,
+    "_sha": "544aaee612a752f39cdbaefe21b73cefb25bad36",
+    "_size": 1310
 }
