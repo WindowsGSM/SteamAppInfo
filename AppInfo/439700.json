@@ -10,6 +10,30 @@
         "oslist": "windows",
         "logo": "f77deaee709ef0b7b59f00c67e019804bb5138c7",
         "logo_small": "f77deaee709ef0b7b59f00c67e019804bb5138c7_thumb",
+        "steam_deck_compatibility": {
+            "category": "1",
+            "test_timestamp": "1680048000",
+            "tested_build_id": "439700",
+            "tests": {
+                "0": {
+                    "display": "2",
+                    "token": "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Retired"
+                }
+            },
+            "configuration": {
+                "supported_input": "other",
+                "requires_manual_keyboard_invoke": "0",
+                "requires_non_controller_launcher_nav": "0",
+                "primary_player_is_controller_slot_0": "0",
+                "non_deck_display_glyphs": "0",
+                "small_text": "0",
+                "requires_internet_for_setup": "0",
+                "requires_internet_for_singleplayer": "0",
+                "recommended_runtime": "proton-stable",
+                "requires_h264": "0",
+                "gamescope_frame_limiter_not_supported": "0"
+            }
+        },
         "metacritic_name": "Z1 Battle Royale Test Server",
         "small_capsule": {
             "english": "capsule_231x87.jpg"
@@ -155,7 +179,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18076822,
-    "_sha": "126affde486ac2dbca7abaea0f09fc119bfa3d9c",
-    "_size": 3563
+    "_change_number": 18330752,
+    "_sha": "e4b2e305885d79f9936a65456e029e109fcc63d9",
+    "_size": 4278
 }
