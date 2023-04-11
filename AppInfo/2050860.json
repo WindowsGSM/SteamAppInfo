@@ -51,7 +51,7 @@
         "installdir": "Mechabellum Playtest",
         "launch": {
             "0": {
-                "executable": "game.exe",
+                "executable": "Mechabellum.exe",
                 "config": {
                     "oslist": "windows",
                     "osarch": "64"
@@ -66,14 +66,14 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "4720804348693634890"
+                "public": "4702266556620291851"
             },
-            "maxsize": "5597555102",
+            "maxsize": "5678638451",
             "encryptedmanifests": {
                 "internal_test": {
-                    "encrypted_gid_2": "60F53DA2056C7E29C6BB0C290580B0D6",
-                    "encrypted_size_2": "092BA22132CF9F0E43856B866F87F1F9",
-                    "download": "4636F8B77E82E9882A035B3047C7C2D8"
+                    "encrypted_gid_2": "DB2538F97398C13FF3BA95B9CF5EC057",
+                    "encrypted_size_2": "13E1E31BE9378F898AC264A46B74C785",
+                    "download": "10B53301B4DD6BC3D8A276130472F626"
                 }
             }
         },
@@ -95,18 +95,18 @@
         "baselanguages": "",
         "branches": {
             "public": {
-                "buildid": "10848136",
-                "timeupdated": "1679662629"
+                "buildid": "10974777",
+                "timeupdated": "1681202037"
             },
             "internal_test": {
-                "buildid": "10974429",
+                "buildid": "10974777",
                 "pwdrequired": "1",
-                "timeupdated": "1681198291"
+                "timeupdated": "1681202148"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 18397201,
-    "_sha": "075ca3c6386949dd8e0ed4ababf4c5808ccbe2ac",
-    "_size": 2415
+    "_change_number": 18397833,
+    "_sha": "09c0ad568c0a123c2bd49cd4d10f3c68af25f303",
+    "_size": 2422
 }
