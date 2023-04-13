@@ -8,28 +8,20 @@
         "oslist": "windows",
         "osarch": "64",
         "osextended": "",
-        "icon": "4cce30c4530d8d88d1a381ea4608f186efbab68b",
+        "icon": "3404394a012d824749eb614ba12c65d0d5764e6e",
         "logo": "b2ed5d00f04cf3db036d9dea9e5941f32d2315d0",
         "logo_small": "b2ed5d00f04cf3db036d9dea9e5941f32d2315d0_thumb",
-        "clienticon": "e3c6d9400059755e4c827a113a46d5a5b6f1a0ec",
-        "clienttga": "9bf209ae9feac6fdc4ce7daa1028d90256a154e3",
+        "clienticon": "70ca4466e9d428764ab4ebf6c8a3bdf31e3b508d",
+        "clienttga": "401bb554c1f8313c54c4890c12a3f497d9dbcc66",
         "associations": {},
         "gameid": "1141420"
     },
     "config": {
-        "installdir": "Remnants Dedicated Server",
-        "launch": {
-            "0": {
-                "executable": "RemnantsServer.exe",
-                "type": "server",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64"
-                }
-            }
-        }
+        "installdir": "Rem Survival Dedicated Server",
+        "launch": {}
     },
     "depots": {
+        "hasdepotsindlc": "1",
         "228988": {
             "config": {
                 "oslist": "windows"
@@ -38,52 +30,52 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
-        "1141421": {
+        "228989": {
             "config": {
-                "language": ""
-            }
+                "oslist": "windows"
+            },
+            "maxsize": "39042092",
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
         },
+        "1141421": {},
         "1141422": {
-            "config": {
-                "language": ""
-            },
             "manifests": {
-                "public": "995149003684335673"
+                "public": "866660822097610865"
             },
-            "maxsize": "1528552613",
+            "maxsize": "1528531989",
             "encryptedmanifests": {
                 "dev-branch": {
-                    "encrypted_gid_2": "D8A5E5BAC8CF7C442F8C22B473760F13",
-                    "encrypted_size_2": "B9DD89F3BF7F51ADB10420DEE963494C",
-                    "download": "3CE0006C06371333513515B2A8E324E8"
+                    "encrypted_gid_2": "EFC9016B4DCA366F2365299909727595",
+                    "encrypted_size_2": "D206F28E1C01B70B7FFDD088237C0BB0",
+                    "download": "E3DFADF12CF68CB774DEF8A9C6277699"
                 },
                 "public-test-branch": {
-                    "encrypted_gid_2": "0AFF04A933FA37A9A6211C36DB158B5D",
-                    "encrypted_size_2": "CB08C6312EAA1B7130BE4BACF29E9204",
-                    "download": "AF1C3C89415C9AE714D25BA440823F0C"
+                    "encrypted_gid_2": "09D98D35081642E056563872CDF083F0",
+                    "encrypted_size_2": "ADDA6764E650E68120CAB99D4D14774F",
+                    "download": "A1F425A582B6A0A29DB296830B8BE89F"
                 }
             }
         },
-        "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "10993859",
-                "timeupdated": "1681387422"
+                "buildid": "10995550",
+                "timeupdated": "1681396484"
             },
             "dev-branch": {
-                "buildid": "10993859",
+                "buildid": "10995550",
                 "pwdrequired": "1",
-                "timeupdated": "1681387406"
+                "timeupdated": "1681396470"
             },
             "public-test-branch": {
-                "buildid": "10993859",
+                "buildid": "10995550",
                 "pwdrequired": "1",
-                "timeupdated": "1681387414"
+                "timeupdated": "1681396477"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 18428223,
-    "_sha": "7878c7fb68490d5c76625ecabfc61a0389251b76",
-    "_size": 1935
+    "_change_number": 18430359,
+    "_sha": "971bff4c588e7039245905e83168b46b5395c5a2",
+    "_size": 1852
 }
