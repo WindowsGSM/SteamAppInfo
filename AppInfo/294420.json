@@ -97,6 +97,11 @@
             },
             "maxsize": "12803634290",
             "encryptedmanifests": {
+                "alpha20.7": {
+                    "encrypted_gid_2": "8AEA610EC62388B04333B96CC7983733",
+                    "encrypted_size_2": "1BF514A7307D804E771FE59273F43C0A",
+                    "download": "2E245012BC7989DEAEC5250C4205DAAD"
+                },
                 "testing_branch": {
                     "encrypted_gid_2": "014391F447D5D80613FC6D4EF608C9F5",
                     "encrypted_size_2": "C451FDF4BECCEE7EC04322065E3FFB52",
@@ -145,6 +150,11 @@
             },
             "maxsize": "12852025399",
             "encryptedmanifests": {
+                "alpha20.7": {
+                    "encrypted_gid_2": "41BAFDCA3E4010F1F5BB71FC531AC9AA",
+                    "encrypted_size_2": "683CF3254546D9F7728709D64E0F4B70",
+                    "download": "6904EEC364BABA784962120E9721AFA9"
+                },
                 "testing_branch": {
                     "encrypted_gid_2": "2DFB2468E10286AC76F6042136E390E5",
                     "encrypted_size_2": "B2A536C14C7E003AFDC10C4A6B45E28B",
@@ -249,6 +259,11 @@
                 "description": "Alpha 20.6 Stalbe",
                 "timeupdated": "1660670201"
             },
+            "alpha20.7": {
+                "buildid": "10740013",
+                "pwdrequired": "1",
+                "timeupdated": "1681834192"
+            },
             "alpha8.8": {
                 "buildid": "334790",
                 "description": "Alpha 8.8 Stable"
@@ -280,7 +295,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18476450,
-    "_sha": "388418514506ff5be1a7dce6b258916a770354e4",
-    "_size": 7677
+    "_change_number": 18485556,
+    "_sha": "bf01b25e28060c345f79ac7e1d83acb2a3614e59",
+    "_size": 8181
 }
