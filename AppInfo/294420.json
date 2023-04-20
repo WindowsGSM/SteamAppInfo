@@ -75,7 +75,7 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "4301754831930402096",
+                "public": "5284229167883309498",
                 "alpha10.4": "7412646391386825055",
                 "alpha11.6": "6384284037646508346",
                 "alpha12.5": "2620195875532790120",
@@ -92,16 +92,12 @@
                 "alpha20.4": "2177343354800528570",
                 "alpha20.5": "873730188553956764",
                 "alpha20.6": "4301754831930402096",
+                "alpha20.7": "5284229167883309498",
                 "alpha8.8": "6555466999693160687",
                 "alpha9.3": "6472753396271220220"
             },
             "maxsize": "12803634290",
             "encryptedmanifests": {
-                "alpha20.7": {
-                    "encrypted_gid_2": "8AEA610EC62388B04333B96CC7983733",
-                    "encrypted_size_2": "1BF514A7307D804E771FE59273F43C0A",
-                    "download": "2E245012BC7989DEAEC5250C4205DAAD"
-                },
                 "testing_branch": {
                     "encrypted_gid_2": "014391F447D5D80613FC6D4EF608C9F5",
                     "encrypted_size_2": "C451FDF4BECCEE7EC04322065E3FFB52",
@@ -129,7 +125,7 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "5719205947052582383",
+                "public": "4716968955855516282",
                 "alpha10.4": "869964754451803329",
                 "alpha11.6": "6322866582767616058",
                 "alpha12.5": "4986361730962654647",
@@ -146,15 +142,11 @@
                 "alpha20.4": "7450223064053935691",
                 "alpha20.5": "8340716617723021748",
                 "alpha20.6": "5719205947052582383",
+                "alpha20.7": "4716968955855516282",
                 "alpha9.3": "771574079178892216"
             },
             "maxsize": "12852025399",
             "encryptedmanifests": {
-                "alpha20.7": {
-                    "encrypted_gid_2": "41BAFDCA3E4010F1F5BB71FC531AC9AA",
-                    "encrypted_size_2": "683CF3254546D9F7728709D64E0F4B70",
-                    "download": "6904EEC364BABA784962120E9721AFA9"
-                },
                 "testing_branch": {
                     "encrypted_gid_2": "2DFB2468E10286AC76F6042136E390E5",
                     "encrypted_size_2": "B2A536C14C7E003AFDC10C4A6B45E28B",
@@ -179,8 +171,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "9269710",
-                "timeupdated": "1660671582"
+                "buildid": "10740013",
+                "timeupdated": "1682011361"
             },
             "alpha10.4": {
                 "buildid": "480993",
@@ -261,7 +253,7 @@
             },
             "alpha20.7": {
                 "buildid": "10740013",
-                "pwdrequired": "1",
+                "description": "Alpha 20.7 Stable",
                 "timeupdated": "1681834192"
             },
             "alpha8.8": {
@@ -295,7 +287,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18504249,
-    "_sha": "cccc0c2b782e4b4aded3ca1fb287c85798a07d5a",
-    "_size": 8181
+    "_change_number": 18515014,
+    "_sha": "39ab7344a695a56266777183acca492535ef0bef",
+    "_size": 7878
 }
