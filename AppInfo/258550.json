@@ -8,7 +8,8 @@
         "osarch": "",
         "osextended": "macos64",
         "associations": {},
-        "gameid": "258550"
+        "gameid": "258550",
+        "store_tags": {}
     },
     "extended": {
         "gamedir": ""
@@ -28,7 +29,7 @@
             "manifests": {
                 "public": "4821073389522013056",
                 "aux01": "4603025896357732340",
-                "aux02": "1795100104245183011",
+                "aux02": "4306498074837384781",
                 "debug": "4659143531843289076",
                 "oxide": "8461454175340227840",
                 "release": "4821073389522013056",
@@ -42,9 +43,9 @@
                     "download": "108EA74263D0C0A5549D7124627F36F1"
                 },
                 "aux02-debug": {
-                    "encrypted_gid_2": "A826E3DB6E4BD87D2BEAEB0248F2B4B6",
+                    "encrypted_gid_2": "24F1F370FF7F687E045616389B15C052",
                     "encrypted_size_2": "45DC7E21895E5FD1A6A398CA35A28A20",
-                    "download": "78AC5BC57AA14057D580AD1AE9E304FF"
+                    "download": "BDB1231190D77AA0F97F195197BF3798"
                 },
                 "aux03": {
                     "encrypted_gid_2": "6F11B2A35B6C9EFA9F57AFA90B70308C",
@@ -125,7 +126,7 @@
             "manifests": {
                 "public": "8395385609201263968",
                 "aux01": "5019778983039393710",
-                "aux02": "6289568440433184710",
+                "aux02": "7388521754227241398",
                 "debug": "8305401038939912362",
                 "oxide": "2987340460417055944",
                 "release": "8395385609201263968",
@@ -422,14 +423,14 @@
                 "timeupdated": "1677215048"
             },
             "aux02": {
-                "buildid": "11042654",
+                "buildid": "11047865",
                 "description": "Up and coming",
-                "timeupdated": "1681925763"
+                "timeupdated": "1681980367"
             },
             "aux02-debug": {
-                "buildid": "11042676",
+                "buildid": "11047889",
                 "pwdrequired": "1",
-                "timeupdated": "1681925899"
+                "timeupdated": "1681980498"
             },
             "aux03": {
                 "buildid": "8389229",
@@ -522,7 +523,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18503729,
-    "_sha": "6c634ea32f1ddbee2a15649ce650390d15dd36fd",
-    "_size": 17271
+    "_change_number": 18508640,
+    "_sha": "f8e41cd765b3459257d477bd6a3bde159196ffd6",
+    "_size": 17294
 }
