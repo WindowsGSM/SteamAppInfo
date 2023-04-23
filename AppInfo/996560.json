@@ -21,7 +21,19 @@
         "launch": {
             "0": {
                 "executable": "LocalAdmin.exe",
-                "type": "server"
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
+            },
+            "1": {
+                "executable": "LocalAdmin",
+                "type": "server",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
             }
         }
     },
@@ -329,7 +341,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18541725,
-    "_sha": "6194b07c1cb9450bb7c42e9b71125e2399758072",
-    "_size": 9522
+    "_change_number": 18542162,
+    "_sha": "aedc144c1358b650b642877018b47b680cf5cfd1",
+    "_size": 9729
 }
