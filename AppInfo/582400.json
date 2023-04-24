@@ -75,7 +75,7 @@
             "sharedinstall": "1"
         },
         "563561": {
-            "maxsize": "5727039497",
+            "maxsize": "5727041365",
             "depotfromapp": "563560",
             "sharedinstall": "2"
         },
@@ -88,11 +88,16 @@
                 "buildid": "11062847",
                 "description": "More frequent updates to test new features before they're ready. May be unable to play with people not on the beta branch.",
                 "timeupdated": "1682106907"
+            },
+            "releasecandidate": {
+                "buildid": "11078717",
+                "description": "The planned code for the next non-beta version of the game. When a release is scheduled, this branch is equivalent to the beta branch, but with some features that are currently in development turned off.",
+                "timeupdated": "1682356828"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 18530938,
-    "_sha": "a511f4c48b98b485d71454e050f999bcd8f96302",
-    "_size": 2163
+    "_change_number": 18556843,
+    "_sha": "2ed33acf763051c959badb89935d51f0fadbf19c",
+    "_size": 2478
 }
