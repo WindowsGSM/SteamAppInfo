@@ -67,20 +67,34 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "4193406274939434213",
-                "canary": "7230217449332455945"
-            },
-            "maxsize": "3761128853"
+                "public": {
+                    "gid": "4193406274939434213",
+                    "size": "963068012",
+                    "download": "662158656"
+                },
+                "canary": {
+                    "gid": "7230217449332455945",
+                    "size": "3761128853",
+                    "download": "1407588016"
+                }
+            }
         },
         "2131402": {
             "config": {
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "3978063856624130298",
-                "canary": "6789023496166487124"
-            },
-            "maxsize": "3847835899"
+                "public": {
+                    "gid": "3978063856624130298",
+                    "size": "3687353398",
+                    "download": "1001153552"
+                },
+                "canary": {
+                    "gid": "6789023496166487124",
+                    "size": "3847835899",
+                    "download": "1124513984"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -95,7 +109,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18377571,
-    "_sha": "31bb58121f29e49cb9d11d42907fdef170b279e5",
-    "_size": 1947
+    "_change_number": 18573881,
+    "_sha": "a4d9b7fcee333f28288ab14ff49cc53ec238c546",
+    "_size": 2207
 }

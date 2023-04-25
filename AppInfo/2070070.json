@@ -81,9 +81,12 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "8304831606050440134"
-            },
-            "maxsize": "778476048"
+                "public": {
+                    "gid": "8304831606050440134",
+                    "size": "778476048",
+                    "download": "576532128"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -93,7 +96,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18559027,
-    "_sha": "68a1071fbb7c1c0118aaa4e9d5f7dd2645563120",
-    "_size": 1895
+    "_change_number": 18573881,
+    "_sha": "d4d60cf2f42536032fea0608b0ca812437848469",
+    "_size": 1946
 }
