@@ -69,12 +69,12 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "6844603128892324732",
-                "psrelease": "6844603128892324732",
-                "publictesting": "6844603128892324732",
-                "xbrelease": "6844603128892324732"
+                "public": "4458629049598242343",
+                "psrelease": "4458629049598242343",
+                "publictesting": "4458629049598242343",
+                "xbrelease": "4458629049598242343"
             },
-            "maxsize": "1166646322",
+            "maxsize": "1166647080",
             "encryptedmanifests": {
                 "development": {
                     "encrypted_gid_2": "C3974C762B9846489F4BB8809C111F17",
@@ -87,9 +87,9 @@
                     "download": "98343B7A25358D8122D7595CECDEB3D4"
                 },
                 "release": {
-                    "encrypted_gid_2": "6243B92345AAA900229336752905D2B1",
-                    "encrypted_size_2": "B298D82BF368347CF8C8DE88D46CE99B",
-                    "download": "B93737D9F16F7E13C9433A2ED6554742"
+                    "encrypted_gid_2": "CA6F484FA354EB49838E367A83603B7F",
+                    "encrypted_size_2": "BD5719CA542FEBC383FF19CBEDC0F3E3",
+                    "download": "5FE035CB775955E2A01D11C10F1295C1"
                 },
                 "xboxcert": {
                     "encrypted_gid_2": "ACCBA4AC8D66C13B3A0E24773873E8AA",
@@ -103,12 +103,12 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "4752655771101633900",
-                "psrelease": "4752655771101633900",
-                "publictesting": "4752655771101633900",
-                "xbrelease": "4752655771101633900"
+                "public": "5062813203486389318",
+                "psrelease": "5062813203486389318",
+                "publictesting": "5062813203486389318",
+                "xbrelease": "5062813203486389318"
             },
-            "maxsize": "1305585493",
+            "maxsize": "1305591125",
             "encryptedmanifests": {
                 "development": {
                     "encrypted_gid_2": "7366AA1DE95DF23434031308910C2BE1",
@@ -121,9 +121,9 @@
                     "download": "A40C2DD4D20B0D94C7770F5DE183E5D7"
                 },
                 "release": {
-                    "encrypted_gid_2": "328625B0B98C26CA22222201D71FFDE5",
-                    "encrypted_size_2": "A8FBA783EAF2D702FA451E45DD7C70D0",
-                    "download": "87D5B2785C840F7005CBF031730D5664"
+                    "encrypted_gid_2": "404F9831A3E9EFE6886EA50A7F44DC6B",
+                    "encrypted_size_2": "ECD4AEA7DD9D3F1031BC59E66F75D3E8",
+                    "download": "D3862546E2B809E262241F0709FEF0FF"
                 },
                 "xboxcert": {
                     "encrypted_gid_2": "367641B77961AF89767AFBE4D5DBFBF7",
@@ -134,8 +134,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "11011529",
-                "timeupdated": "1682351157"
+                "buildid": "11100189",
+                "timeupdated": "1682555478"
             },
             "development": {
                 "buildid": "11092811",
@@ -148,19 +148,19 @@
                 "timeupdated": "1681572899"
             },
             "psrelease": {
-                "buildid": "11011529",
+                "buildid": "11100189",
                 "description": "Playstation Release Server",
-                "timeupdated": "1682351077"
+                "timeupdated": "1682555560"
             },
             "publictesting": {
-                "buildid": "11011529",
+                "buildid": "11100189",
                 "description": "Public Test",
-                "timeupdated": "1681572915"
+                "timeupdated": "1682555584"
             },
             "release": {
-                "buildid": "11099107",
+                "buildid": "11100189",
                 "pwdrequired": "1",
-                "timeupdated": "1682544275"
+                "timeupdated": "1682555386"
             },
             "xboxcert": {
                 "buildid": "11011529",
@@ -168,9 +168,9 @@
                 "timeupdated": "1681572908"
             },
             "xbrelease": {
-                "buildid": "11011529",
+                "buildid": "11100189",
                 "description": "Xbox Release Server",
-                "timeupdated": "1682351085"
+                "timeupdated": "1682555570"
             }
         }
     },
@@ -179,7 +179,7 @@
         "maxnumfiles": "10000"
     },
     "_missing_token": false,
-    "_change_number": 18587645,
-    "_sha": "6ae427439fd499bb8179c269ddf3903791cafce4",
+    "_change_number": 18589089,
+    "_sha": "c1619314ba063869e36f13f20c3bf83dd00f1c39",
     "_size": 4427
 }
