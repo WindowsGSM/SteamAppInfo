@@ -66,9 +66,12 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "6770959571913424555"
-            },
-            "maxsize": "1820453746"
+                "public": {
+                    "gid": "6770959571913424555",
+                    "size": "1820453746",
+                    "download": "397301280"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -78,7 +81,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "ca7729a96b6b8c4f665b6394340e63cc07517926",
-    "_size": 1587
+    "_change_number": 18653924,
+    "_sha": "393a8e903afe1c6c9cc4e84226b06884f5c560d9",
+    "_size": 1638
 }

@@ -71,18 +71,24 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "2318523373649984787"
-            },
-            "maxsize": "4009386981"
+                "public": {
+                    "gid": "2318523373649984787",
+                    "size": "4009386981",
+                    "download": "1145394272"
+                }
+            }
         },
         "1850782": {
             "config": {
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "4459184024718859783"
-            },
-            "maxsize": "3977561919"
+                "public": {
+                    "gid": "4459184024718859783",
+                    "size": "3977561919",
+                    "download": "1105333264"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -92,7 +98,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "40f7bca9c4a2137795e0790a55f3df876974cd0b",
-    "_size": 1818
+    "_change_number": 18653924,
+    "_sha": "1bf7fc1138e4e887c83770742df1e9f7e41ade0c",
+    "_size": 1922
 }

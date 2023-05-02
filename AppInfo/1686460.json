@@ -82,20 +82,34 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "2641917535491684214",
-                "bleeding-edge": "2641917535491684214"
-            },
-            "maxsize": "22900868"
+                "public": {
+                    "gid": "2641917535491684214",
+                    "size": "22900868",
+                    "download": "4870176"
+                },
+                "bleeding-edge": {
+                    "gid": "2641917535491684214",
+                    "size": "22900868",
+                    "download": "4870176"
+                }
+            }
         },
         "1686462": {
             "config": {
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "7693466013813755201",
-                "bleeding-edge": "7693466013813755201"
-            },
-            "maxsize": "28442733"
+                "public": {
+                    "gid": "7693466013813755201",
+                    "size": "28442733",
+                    "download": "7014688"
+                },
+                "bleeding-edge": {
+                    "gid": "7693466013813755201",
+                    "size": "28442733",
+                    "download": "7014688"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -110,7 +124,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "c0ee8c153cc40a52877012fee110da2dcc946915",
-    "_size": 2252
+    "_change_number": 18653924,
+    "_sha": "dc4b2a10e5fb906eed8f7306e5cd343c43fbe241",
+    "_size": 2498
 }

@@ -98,18 +98,21 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "4223657777355371232"
+                "public": {
+                    "gid": "4223657777355371232",
+                    "size": "923646658",
+                    "download": "816422512"
+                }
             },
-            "maxsize": "923646658",
             "encryptedmanifests": {
                 "koaserver": {
-                    "encrypted_gid_2": "59E47E761A48DA7C214207116D00BEF2",
-                    "encrypted_size_2": "4C2D3FAA8B66F0056762508B6192EBA3",
+                    "gid": "59E47E761A48DA7C214207116D00BEF2",
+                    "size": "4C2D3FAA8B66F0056762508B6192EBA3",
                     "download": "3F6668FB672F2E40A1253070C773A1AF"
                 },
                 "testing": {
-                    "encrypted_gid_2": "BD38E9B0D04A660775E51B65486ADAB1",
-                    "encrypted_size_2": "3DB982DE0E51190100A07642B93A5419",
+                    "gid": "BD38E9B0D04A660775E51B65486ADAB1",
+                    "size": "3DB982DE0E51190100A07642B93A5419",
                     "download": "62E8F934DFB0FC31D23B36470D8D8C73"
                 }
             }
@@ -137,7 +140,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18650643,
-    "_sha": "c34609e62cbb8f9b8e01ab993a279ed7e7b6708f",
-    "_size": 2904
+    "_change_number": 18653924,
+    "_sha": "980818b699d1c3858f2ea8caba4153823a677ed0",
+    "_size": 2907
 }

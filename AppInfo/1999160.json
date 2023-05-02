@@ -35,28 +35,31 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "2004101406545296628"
+                "public": {
+                    "gid": "2004101406545296628",
+                    "size": "2059441017",
+                    "download": "1115025808"
+                }
             },
-            "maxsize": "2059441017",
             "encryptedmanifests": {
                 "development": {
-                    "encrypted_gid_2": "369B668DD53121876B50956F7ABAFA5E",
-                    "encrypted_size_2": "EB45BE97DF40332E4265F605719FB32E",
+                    "gid": "369B668DD53121876B50956F7ABAFA5E",
+                    "size": "EB45BE97DF40332E4265F605719FB32E",
                     "download": "301547402B2121F68CC0375BBE85AEB7"
                 },
                 "integration": {
-                    "encrypted_gid_2": "027B89141FC4F87BF3CC7D5505F6FBF3",
-                    "encrypted_size_2": "802866EC119AE8548CD05B8CC9075C3F",
+                    "gid": "027B89141FC4F87BF3CC7D5505F6FBF3",
+                    "size": "802866EC119AE8548CD05B8CC9075C3F",
                     "download": "5DBFF270E8AB91203B59E60615274C42"
                 },
                 "playtest": {
-                    "encrypted_gid_2": "40B15776916B791839153831AC3F3AA2",
-                    "encrypted_size_2": "99AE16B85D8511D84271B8547D6DB1ED",
+                    "gid": "40B15776916B791839153831AC3F3AA2",
+                    "size": "99AE16B85D8511D84271B8547D6DB1ED",
                     "download": "F39B89E1471060244D07CF3A76552384"
                 },
                 "pre-prod": {
-                    "encrypted_gid_2": "E1B2622F5CC75F9B63328A85A01F5ABC",
-                    "encrypted_size_2": "4CCF92B5646DEDFCD42A39B1AA529BE2",
+                    "gid": "E1B2622F5CC75F9B63328A85A01F5ABC",
+                    "size": "4CCF92B5646DEDFCD42A39B1AA529BE2",
                     "download": "EF60378BE46C204A1A5AC133A0966353"
                 }
             }
@@ -89,7 +92,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18638409,
-    "_sha": "c2b010f95bed37b8d0c6a50980835a2b71e76ae0",
-    "_size": 2225
+    "_change_number": 18653924,
+    "_sha": "b41bfc35b48672f7866f72323f40566799521f73",
+    "_size": 2181
 }

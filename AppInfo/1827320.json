@@ -64,14 +64,21 @@
         },
         "1827321": {
             "manifests": {
-                "public": "5049860965721486828",
-                "experimental": "5049860965721486828"
+                "public": {
+                    "gid": "5049860965721486828",
+                    "size": "1200044528",
+                    "download": "999857712"
+                },
+                "experimental": {
+                    "gid": "5049860965721486828",
+                    "size": "1200044528",
+                    "download": "999857712"
+                }
             },
-            "maxsize": "1200044528",
             "encryptedmanifests": {
                 "experimental_private": {
-                    "encrypted_gid_2": "8B1B808B50639174A07D8C9E936F1B2A",
-                    "encrypted_size_2": "AF42678510821BB24680975AB9349A78",
+                    "gid": "8B1B808B50639174A07D8C9E936F1B2A",
+                    "size": "AF42678510821BB24680975AB9349A78",
                     "download": "0F16481772805B1246CA22873D982EE8"
                 }
             }
@@ -94,7 +101,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "6f7004e096162e6ff224aa195a9066727567b0cd",
-    "_size": 2168
+    "_change_number": 18653924,
+    "_sha": "4fe96efca43aced7a6554e1adfced5b13b9d5e3e",
+    "_size": 2273
 }

@@ -53,13 +53,16 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "7679267895580254004"
+                "public": {
+                    "gid": "7679267895580254004",
+                    "size": "2453206119",
+                    "download": "1865047136"
+                }
             },
-            "maxsize": "2453206119",
             "encryptedmanifests": {
                 "development": {
-                    "encrypted_gid_2": "49ECA1E70DC2514D35536B3DF1F5BE3B",
-                    "encrypted_size_2": "20A8B7730CF92B867DB4624179561A7D",
+                    "gid": "49ECA1E70DC2514D35536B3DF1F5BE3B",
+                    "size": "20A8B7730CF92B867DB4624179561A7D",
                     "download": "22036BB435A8EA04DAB2D86C04D58FAB"
                 }
             }
@@ -70,13 +73,16 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "1840972994266005234"
+                "public": {
+                    "gid": "1840972994266005234",
+                    "size": "2550665715",
+                    "download": "1815810976"
+                }
             },
-            "maxsize": "2550665715",
             "encryptedmanifests": {
                 "development": {
-                    "encrypted_gid_2": "0E058F4E27851F2DBC102C0285DAF561",
-                    "encrypted_size_2": "46BBBEFE500167B7FF1D23394A8DE9AA",
+                    "gid": "0E058F4E27851F2DBC102C0285DAF561",
+                    "size": "46BBBEFE500167B7FF1D23394A8DE9AA",
                     "download": "4256B62D5941C488DBBF65CB7A33ADC8"
                 }
             }
@@ -94,7 +100,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18641361,
-    "_sha": "b216ae15e3b17c9b3306dea4273b713d4a8fb597",
-    "_size": 2423
+    "_change_number": 18653924,
+    "_sha": "4d216f6cbb3df60cd9b4cfaa821733db3c5443ad",
+    "_size": 2479
 }

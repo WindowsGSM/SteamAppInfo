@@ -103,13 +103,16 @@
     "depots": {
         "1816361": {
             "manifests": {
-                "public": "2735139370751677576"
+                "public": {
+                    "gid": "2735139370751677576",
+                    "size": "2583216133",
+                    "download": "805412576"
+                }
             },
-            "maxsize": "2583216133",
             "encryptedmanifests": {
                 "releasecandidate": {
-                    "encrypted_gid_2": "7DDA908EE152C3D1D1F5BBA8D8CA2A42",
-                    "encrypted_size_2": "E33D344E7209CBEF0B668B150FA69CF3",
+                    "gid": "7DDA908EE152C3D1D1F5BBA8D8CA2A42",
+                    "size": "E33D344E7209CBEF0B668B150FA69CF3",
                     "download": "58FCFBB12DC57B824C9437113C272847"
                 }
             }
@@ -127,7 +130,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18076822,
-    "_sha": "e038b75dbb97b75af4e3c12b4e59e8d69e7a6f92",
-    "_size": 2686
+    "_change_number": 18653924,
+    "_sha": "8ff431ec9a7e81eb0a68f189cc990fd7bcd7d8c5",
+    "_size": 2713
 }

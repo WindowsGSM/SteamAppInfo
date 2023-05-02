@@ -86,9 +86,12 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "7320973175625655630"
-            },
-            "maxsize": "1882055538"
+                "public": {
+                    "gid": "7320973175625655630",
+                    "size": "1882055538",
+                    "download": "428375680"
+                }
+            }
         },
         "1697662": {
             "config": {
@@ -97,9 +100,12 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "1371361291630557581"
-            },
-            "maxsize": "4248112687"
+                "public": {
+                    "gid": "1371361291630557581",
+                    "size": "4248112687",
+                    "download": "759090976"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -109,7 +115,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "39b61e8b8e98af10a8eccc0c8546a0637e59966e",
-    "_size": 2168
+    "_change_number": 18653924,
+    "_sha": "1e8db7ebd51c456a80cb3da30e7ade5ec121c51c",
+    "_size": 2270
 }
