@@ -8,7 +8,8 @@
         "osarch": "",
         "osextended": "macos64",
         "associations": {},
-        "gameid": "258550"
+        "gameid": "258550",
+        "store_tags": {}
     },
     "extended": {
         "gamedir": ""
@@ -32,7 +33,7 @@
                 "debug": "4659143531843289076",
                 "oxide": "8461454175340227840",
                 "release": "4821073389522013056",
-                "staging": "5037661502253273465"
+                "staging": "4212990891459817145"
             },
             "maxsize": "699015222",
             "encryptedmanifests": {
@@ -97,9 +98,9 @@
                     "download": "CB1689AC528D33759092E2A9EA8CBA52"
                 },
                 "staging-debug": {
-                    "encrypted_gid_2": "8BF3D98ADBB80062087B10B2CEF121CF",
-                    "encrypted_size_2": "8F59E4F59A258FB54DF7144D25E2165D",
-                    "download": "8708CA3208DCFC1407310AD22066C6FB"
+                    "encrypted_gid_2": "10245DA8878F2208EE0B053B60225707",
+                    "encrypted_size_2": "A00FF18C816623EA9A094C90C6654FCF",
+                    "download": "284A9BE84C4AEBD99AC11B6E3177916C"
                 },
                 "test": {
                     "encrypted_gid_2": "930251441037D8E90A602B95B76C590F",
@@ -129,7 +130,7 @@
                 "debug": "8305401038939912362",
                 "oxide": "2987340460417055944",
                 "release": "8395385609201263968",
-                "staging": "7210798862061576749"
+                "staging": "7566056800247996578"
             },
             "maxsize": "747361462",
             "encryptedmanifests": {
@@ -320,7 +321,7 @@
                 "debug": "3211617500553592904",
                 "oxide": "3211617500553592904",
                 "release": "8160568658388574202",
-                "staging": "5636784829831428982"
+                "staging": "53342766412631943"
             },
             "maxsize": "6596127908",
             "encryptedmanifests": {
@@ -385,9 +386,9 @@
                     "download": "033ABEE66CA99E4500B6BF623A588635"
                 },
                 "staging-debug": {
-                    "encrypted_gid_2": "EEE3348E456FE1022827A12C05AF8384",
-                    "encrypted_size_2": "7D08A96FAE65C91ABE955EEBAAD5419D",
-                    "download": "7E4C63B899BA3FA9DFCA9EBB7CE269C6"
+                    "encrypted_gid_2": "54A67387F81FE3D1D5DC9D454C71F059",
+                    "encrypted_size_2": "28406962793E848ADAFBCCAFA7D7062F",
+                    "download": "585D7E0555BF799A884B3869D528C73B"
                 },
                 "test": {
                     "encrypted_gid_2": "76D7FB39A810FE670727B5DA6E52C35F",
@@ -496,13 +497,13 @@
                 "timeupdated": "1681825465"
             },
             "staging": {
-                "buildid": "11138028",
-                "timeupdated": "1683036143"
+                "buildid": "11144836",
+                "timeupdated": "1683108282"
             },
             "staging-debug": {
-                "buildid": "11138045",
+                "buildid": "11144853",
                 "pwdrequired": "1",
-                "timeupdated": "1683036250"
+                "timeupdated": "1683108385"
             },
             "test": {
                 "buildid": "10268307",
@@ -522,7 +523,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18653924,
-    "_sha": "428a7d52914c35201a4fc3086815f1b1d0a309e6",
-    "_size": 17272
+    "_change_number": 18659466,
+    "_sha": "7f545bdfd20f836e8d6de62853b0ddcb1bc63f52",
+    "_size": 17293
 }
