@@ -87,6 +87,11 @@
                     "encrypted_gid_2": "A187DA5A9F7E22EB50A2494C12A21A25",
                     "encrypted_size_2": "963949284B854A0E769F993477CB0171",
                     "download": "A4A1CB40E8AC4443826510666D81C906"
+                },
+                "ci-build": {
+                    "encrypted_gid_2": "A50CE852CF4B2CAF7EC488519490BF84",
+                    "encrypted_size_2": "A6A077377DE9A952F5A8236AA79A9195",
+                    "download": "DEAD029E9BADC8C6842EC1C961740F73"
                 }
             }
         },
@@ -105,6 +110,11 @@
                     "encrypted_gid_2": "EA5665D0DD0694FF30760452B35CE74E",
                     "encrypted_size_2": "23A447110315EB93D550D19486651D7B",
                     "download": "AC4F54976FDAD725B7CF39172244A00F"
+                },
+                "ci-build": {
+                    "encrypted_gid_2": "C15573AAEE869DEDE82A78EB272F1F52",
+                    "encrypted_size_2": "B95F09511C9985D1A96B7B75771CBE12",
+                    "download": "F9ACF16AF6CF4AEF0906E21CA2F1947D"
                 }
             }
         },
@@ -114,14 +124,19 @@
                 "timeupdated": "1667568018"
             },
             "ced-test": {
-                "buildid": "11109578",
+                "buildid": "11173269",
                 "pwdrequired": "1",
-                "timeupdated": "1682637761"
+                "timeupdated": "1683422354"
+            },
+            "ci-build": {
+                "buildid": "11173269",
+                "pwdrequired": "1",
+                "timeupdated": "1683422351"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "a64b769ea3911d1f5f179cd6ab4012b7c9f18e54",
-    "_size": 2680
+    "_change_number": 18704697,
+    "_sha": "100ff99010db3f6dcead4f669d6ef77581282c20",
+    "_size": 3181
 }
