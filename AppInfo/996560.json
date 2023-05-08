@@ -91,9 +91,10 @@
             },
             "manifests": {
                 "public": "3445036804950868429",
+                "early-server-build": "7597950695259436670",
                 "pluginapi-beta": "3445036804950868429"
             },
-            "maxsize": "683844991",
+            "maxsize": "718164618",
             "encryptedmanifests": {
                 "arith1": {
                     "encrypted_gid_2": "FFD5D7D10B66941425CE4BD385F4208C",
@@ -169,9 +170,10 @@
             },
             "manifests": {
                 "public": "5598113662055478302",
+                "early-server-build": "1597279330333019073",
                 "pluginapi-beta": "5598113662055478302"
             },
-            "maxsize": "515425087",
+            "maxsize": "547467392",
             "encryptedmanifests": {
                 "arith1": {
                     "encrypted_gid_2": "EF8FED90FF59C91702F0A92EEC759167",
@@ -265,6 +267,11 @@
                 "pwdrequired": "1",
                 "timeupdated": "1683128781"
             },
+            "early-server-build": {
+                "buildid": "11132119",
+                "description": "Access to server builds before clients release",
+                "timeupdated": "1683571935"
+            },
             "hube-testing": {
                 "buildid": "11181861",
                 "pwdrequired": "1",
@@ -318,7 +325,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18719828,
-    "_sha": "f74304e16b13c0181f9ff879791a80d0cdbcc6bb",
-    "_size": 9085
+    "_change_number": 18720286,
+    "_sha": "518ee85223cc096238f88cd64c3a3bf368b804b5",
+    "_size": 9341
 }
