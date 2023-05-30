@@ -15,6 +15,9 @@ def main():
     branches = {}
 
     for app_id in app_ids:
+        if 'depots' not in infos[app_id]:
+            continue
+
         branches[app_id] = infos[app_id]['depots']['branches']
 
         with open(f'AppInfo/{app_id}.json', 'w', encoding='utf-8') as fp:
