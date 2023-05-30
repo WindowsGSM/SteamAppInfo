@@ -45,13 +45,16 @@
         "markdlcdepots": "1",
         "331030": {
             "manifests": {
-                "public": "7275773499264676126"
+                "public": {
+                    "gid": "7275773499264676126",
+                    "size": "5004621853",
+                    "download": "2681286080"
+                }
             },
-            "maxsize": "5004621853",
             "encryptedmanifests": {
                 "beta": {
-                    "encrypted_gid_2": "E5F2F3C1BBF4672ED26BB919C3C70E40",
-                    "encrypted_size_2": "DC7E2AFAE80477177B660D33D5364E79",
+                    "gid": "E5F2F3C1BBF4672ED26BB919C3C70E40",
+                    "size": "DC7E2AFAE80477177B660D33D5364E79",
                     "download": "F81A7335408186258F8AB8AFDA4572FD"
                 }
             }
@@ -61,13 +64,16 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "3721988028250229174"
+                "public": {
+                    "gid": "3721988028250229174",
+                    "size": "114357904",
+                    "download": "39676240"
+                }
             },
-            "maxsize": "114357904",
             "encryptedmanifests": {
                 "beta": {
-                    "encrypted_gid_2": "B22F2BACA0639114722888E0AD3EFDA9",
-                    "encrypted_size_2": "688F8BFEA06DB46ADD30B06DF4A3BB4E",
+                    "gid": "B22F2BACA0639114722888E0AD3EFDA9",
+                    "size": "688F8BFEA06DB46ADD30B06DF4A3BB4E",
                     "download": "47D14808BA4D46E3ED0C3339B8AA49BD"
                 }
             }
@@ -77,13 +83,16 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "7293701131299162013"
+                "public": {
+                    "gid": "7293701131299162013",
+                    "size": "103188867",
+                    "download": "27887088"
+                }
             },
-            "maxsize": "103188867",
             "encryptedmanifests": {
                 "beta": {
-                    "encrypted_gid_2": "9CA142A3F9CBEE2E522349CF598C3675",
-                    "encrypted_size_2": "A87F2280F66B47F338B7A5FC06492E9C",
+                    "gid": "9CA142A3F9CBEE2E522349CF598C3675",
+                    "size": "A87F2280F66B47F338B7A5FC06492E9C",
                     "download": "898EDF91A6848510CFC10ACACEA59C2C"
                 }
             }
@@ -101,7 +110,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18076822,
-    "_sha": "1c636126065a8fe9eee14fa055103c098f636cb0",
-    "_size": 2304
+    "_change_number": 18987327,
+    "_sha": "e67377431404d4776f776df51ae39a95f55a49be",
+    "_size": 2384
 }

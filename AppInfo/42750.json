@@ -42,20 +42,22 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "7373987358",
             "depotfromapp": "42690",
             "sharedinstall": "2"
         },
         "42751": {
             "systemdefined": "1",
             "manifests": {
-                "public": "9089183337461621316"
+                "public": {
+                    "gid": "9089183337461621316",
+                    "size": "5982326",
+                    "download": "1672272"
+                }
             },
-            "maxsize": "5982326",
             "encryptedmanifests": {
                 "beta": {
-                    "encrypted_gid_2": "9CABC539689AF6454CFBDB40367A07AA",
-                    "encrypted_size_2": "E3E3FA9C82E0AFBA09043D0B87161276",
+                    "gid": "9CABC539689AF6454CFBDB40367A07AA",
+                    "size": "E3E3FA9C82E0AFBA09043D0B87161276",
                     "download": "5615BAE79B14358071CBE87005CA7B6E"
                 }
             }
@@ -65,7 +67,6 @@
                 "language": "english",
                 "oslist": "windows"
             },
-            "maxsize": "7724536563",
             "depotfromapp": "42690",
             "sharedinstall": "2"
         },
@@ -74,7 +75,6 @@
                 "language": "spanish",
                 "oslist": "windows"
             },
-            "maxsize": "7950391875",
             "depotfromapp": "42690",
             "sharedinstall": "2"
         },
@@ -83,7 +83,6 @@
                 "language": "german",
                 "oslist": "windows"
             },
-            "maxsize": "8014331652",
             "depotfromapp": "42690",
             "sharedinstall": "2"
         },
@@ -92,7 +91,6 @@
                 "language": "french",
                 "oslist": "windows"
             },
-            "maxsize": "7972402575",
             "depotfromapp": "42690",
             "sharedinstall": "2"
         },
@@ -101,7 +99,6 @@
                 "language": "italian",
                 "oslist": "windows"
             },
-            "maxsize": "8012829876",
             "depotfromapp": "42690",
             "sharedinstall": "2"
         },
@@ -110,7 +107,6 @@
                 "language": "russian",
                 "oslist": "windows"
             },
-            "maxsize": "8100213777",
             "depotfromapp": "42690",
             "sharedinstall": "2"
         },
@@ -119,7 +115,6 @@
                 "language": "japanese",
                 "oslist": "windows"
             },
-            "maxsize": "7861354059",
             "depotfromapp": "42690",
             "sharedinstall": "2"
         },
@@ -128,7 +123,6 @@
                 "language": "polish",
                 "oslist": "windows"
             },
-            "maxsize": "7724011501",
             "depotfromapp": "42690",
             "sharedinstall": "2"
         },
@@ -147,7 +141,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18076822,
-    "_sha": "afd06b8d3b98be243c172e2c85fffe13b3cc25e5",
-    "_size": 3281
+    "_change_number": 18987327,
+    "_sha": "17e1d20e5b9bd32c67d8af47ba4b3dbc8d8843b3",
+    "_size": 3063
 }

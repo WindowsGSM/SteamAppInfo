@@ -36,23 +36,28 @@
     "depots": {
         "502": {
             "systemdefined": "1",
-            "maxsize": "3840027063",
             "depotfromapp": "500",
             "sharedinstall": "2"
         },
         "501": {
             "systemdefined": "1",
-            "maxsize": "302264448",
             "depotfromapp": "500",
             "sharedinstall": "2"
         },
         "511": {
             "systemdefined": "1",
             "manifests": {
-                "public": "6592105419075378706",
-                "steampipe": "6592105419075378706"
-            },
-            "maxsize": "18159577"
+                "public": {
+                    "gid": "6592105419075378706",
+                    "size": "18159577",
+                    "download": "0"
+                },
+                "steampipe": {
+                    "gid": "6592105419075378706",
+                    "size": "18159577",
+                    "download": "0"
+                }
+            }
         },
         "overridescddb": "1",
         "branches": {
@@ -65,7 +70,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15577664,
-    "_sha": "9daff8060f248b517a00894d25a0a49707f48c7c",
-    "_size": 1406
+    "_change_number": 18987327,
+    "_sha": "643c8fd27a6cad1c4c2df75736f1d3bc26e0bce1",
+    "_size": 1464
 }

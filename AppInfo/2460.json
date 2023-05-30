@@ -31,17 +31,23 @@
         "2452": {
             "systemdefined": "1",
             "manifests": {
-                "public": "5726217717789289915"
+                "public": {
+                    "gid": "5726217717789289915",
+                    "size": "1279247053",
+                    "download": "0"
+                }
             },
-            "maxsize": "1279247053",
             "depotfromapp": "2450"
         },
         "2453": {
             "systemdefined": "1",
             "manifests": {
-                "public": "6238851782732503747"
-            },
-            "maxsize": "101950591"
+                "public": {
+                    "gid": "6238851782732503747",
+                    "size": "101950591",
+                    "download": "0"
+                }
+            }
         },
         "1004": {
             "systemdefined": "1",
@@ -49,9 +55,12 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "3578600867548439549"
+                "public": {
+                    "gid": "3578600867548439549",
+                    "size": "9662208",
+                    "download": "0"
+                }
             },
-            "maxsize": "9662208",
             "depotfromapp": "1002"
         },
         "markdlcdepots": "1",
@@ -62,7 +71,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 11703200,
-    "_sha": "5256e960e85da0d75e698c3bcedac0b891c03744",
-    "_size": 1202
+    "_change_number": 18987327,
+    "_sha": "49de4e683ebededb4f4568314cf8f86672e6c5b2",
+    "_size": 1331
 }

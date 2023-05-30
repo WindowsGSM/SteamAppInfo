@@ -38,9 +38,12 @@
         "33903": {
             "systemdefined": "1",
             "manifests": {
-                "public": "3351938618893546895"
-            },
-            "maxsize": "9388754"
+                "public": {
+                    "gid": "3351938618893546895",
+                    "size": "9388754",
+                    "download": "0"
+                }
+            }
         },
         "overridescddb": "1",
         "branches": {
@@ -50,7 +53,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 11703200,
-    "_sha": "ff093a975abefdb0b7e3e47f1d12f1c3ccfa3c4e",
-    "_size": 1222
+    "_change_number": 18987327,
+    "_sha": "3a2d37cd973839fc934034305e8ba352f6e36356",
+    "_size": 1265
 }

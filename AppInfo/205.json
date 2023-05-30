@@ -38,30 +38,42 @@
         "208": {
             "systemdefined": "1",
             "manifests": {
-                "public": "3149153229693629388"
-            },
-            "maxsize": "995522479"
+                "public": {
+                    "gid": "3149153229693629388",
+                    "size": "995522479",
+                    "download": "0"
+                }
+            }
         },
         "207": {
             "systemdefined": "1",
             "manifests": {
-                "public": "1025719905895126023"
-            },
-            "maxsize": "397557916"
+                "public": {
+                    "gid": "1025719905895126023",
+                    "size": "397557916",
+                    "download": "0"
+                }
+            }
         },
         "206": {
             "systemdefined": "1",
             "manifests": {
-                "public": "8460749637658605693"
-            },
-            "maxsize": "1038409978"
+                "public": {
+                    "gid": "8460749637658605693",
+                    "size": "1038409978",
+                    "download": "0"
+                }
+            }
         },
         "205": {
             "systemdefined": "1",
             "manifests": {
-                "public": "29462157349265252"
-            },
-            "maxsize": "20223153"
+                "public": {
+                    "gid": "29462157349265252",
+                    "size": "20223153",
+                    "download": "0"
+                }
+            }
         },
         "1004": {
             "systemdefined": "1",
@@ -69,9 +81,12 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "3578600867548439549"
+                "public": {
+                    "gid": "3578600867548439549",
+                    "size": "9662208",
+                    "download": "0"
+                }
             },
-            "maxsize": "9662208",
             "depotfromapp": "1002"
         },
         "branches": {
@@ -81,7 +96,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 11703200,
-    "_sha": "a583da7f826fc7bdbc15edd3af62529bdce0ba36",
-    "_size": 1568
+    "_change_number": 18987327,
+    "_sha": "486f0296b1de144646f5bce441449d862ae62966",
+    "_size": 1783
 }

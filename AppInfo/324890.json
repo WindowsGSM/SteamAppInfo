@@ -15,13 +15,16 @@
     "depots": {
         "324891": {
             "manifests": {
-                "public": "4109414443725175279"
+                "public": {
+                    "gid": "4109414443725175279",
+                    "size": "713641817",
+                    "download": "611154160"
+                }
             },
-            "maxsize": "713641817",
             "encryptedmanifests": {
                 "custom_map_beta": {
-                    "encrypted_gid_2": "057948C9E491F03B3F062D24C46EDEB5",
-                    "encrypted_size_2": "2EE89E3B50E38C9F8ED522E5FEBD1FE2",
+                    "gid": "057948C9E491F03B3F062D24C46EDEB5",
+                    "size": "2EE89E3B50E38C9F8ED522E5FEBD1FE2",
                     "download": "A7C2B722E08521B20BD4FDDE8576B182"
                 }
             }
@@ -37,7 +40,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18076822,
-    "_sha": "0b95f380682a78e8d28faa7cd321dcc6130e8132",
-    "_size": 799
+    "_change_number": 18987327,
+    "_sha": "fa746c2cbcc843da093422dc130d387b989c9a75",
+    "_size": 826
 }

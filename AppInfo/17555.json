@@ -35,38 +35,37 @@
         "markdlcdepots": "1",
         "208": {
             "systemdefined": "1",
-            "maxsize": "995522479",
             "depotfromapp": "205",
             "sharedinstall": "2"
         },
         "207": {
             "systemdefined": "1",
-            "maxsize": "397557916",
             "depotfromapp": "205",
             "sharedinstall": "2"
         },
         "206": {
             "systemdefined": "1",
-            "maxsize": "1038409978",
             "depotfromapp": "205",
             "sharedinstall": "2"
         },
         "205": {
             "systemdefined": "1",
-            "maxsize": "20223153",
             "depotfromapp": "205",
             "sharedinstall": "2"
         },
         "17551": {
             "systemdefined": "1",
             "manifests": {
-                "public": "2331363083649090747"
+                "public": {
+                    "gid": "2331363083649090747",
+                    "size": "2096775398",
+                    "download": "0"
+                }
             },
-            "maxsize": "2096775398",
             "encryptedmanifests": {
                 "beta": {
-                    "encrypted_gid_2": "0CF778502988D6164089D82CF1847C89",
-                    "encrypted_size_2": "1AD3CC2B059E3CA975922F0CB63CD862",
+                    "gid": "0CF778502988D6164089D82CF1847C89",
+                    "size": "1AD3CC2B059E3CA975922F0CB63CD862",
                     "download": "A4AEFAE760C088A752F2B36203C285CD"
                 }
             },
@@ -77,14 +76,10 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "9662208",
             "depotfromapp": "205",
             "sharedinstall": "2"
         },
         "branches": {
-            "public": {
-                "buildid": "123345"
-            },
             "beta": {
                 "buildid": "57943",
                 "pwdrequired": "1"
@@ -92,7 +87,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18076822,
-    "_sha": "64e044daa31be384b389917171b601388ce7a05d",
-    "_size": 1837
+    "_change_number": 18987327,
+    "_sha": "0271ff31e7deee9b21504757541c884218a431ff",
+    "_size": 1682
 }

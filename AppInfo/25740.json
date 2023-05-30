@@ -30,9 +30,12 @@
         "25741": {
             "systemdefined": "1",
             "manifests": {
-                "public": "2364987203259591575"
-            },
-            "maxsize": "368014344"
+                "public": {
+                    "gid": "2364987203259591575",
+                    "size": "368014344",
+                    "download": "0"
+                }
+            }
         },
         "overridescddb": "1",
         "branches": {
@@ -42,7 +45,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 11703200,
-    "_sha": "30647dc115fc85e0607c5a5d4bdc98eb56dc0b89",
-    "_size": 834
+    "_change_number": 18987327,
+    "_sha": "79f445cbf1776900efeff51ccff607fc97a551ce",
+    "_size": 877
 }

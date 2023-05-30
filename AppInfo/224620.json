@@ -29,13 +29,16 @@
         "224621": {
             "systemdefined": "1",
             "manifests": {
-                "public": "6120726648104713761"
+                "public": {
+                    "gid": "6120726648104713761",
+                    "size": "560341546",
+                    "download": "0"
+                }
             },
-            "maxsize": "560341546",
             "encryptedmanifests": {
                 "beta": {
-                    "encrypted_gid_2": "E2163CE240B5DBE4294739ACA0AB2FF4",
-                    "encrypted_size_2": "C13A90D721315EEF52EC62C4B2DAC4C1",
+                    "gid": "E2163CE240B5DBE4294739ACA0AB2FF4",
+                    "size": "C13A90D721315EEF52EC62C4B2DAC4C1",
                     "download": "8C1C5DB8D897559878D4BCB7BF9F72F0"
                 }
             }
@@ -53,7 +56,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18076822,
-    "_sha": "ec601683aff92c7b1d77bc9664cdb5bff268e8bb",
-    "_size": 1069
+    "_change_number": 18987327,
+    "_sha": "5a72621a7c7f4cbf493e82d8ee6eb365ffc0520f",
+    "_size": 1088
 }

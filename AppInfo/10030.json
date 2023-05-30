@@ -32,26 +32,35 @@
         "10001": {
             "systemdefined": "1",
             "manifests": {
-                "public": "5477813184068131469"
+                "public": {
+                    "gid": "5477813184068131469",
+                    "size": "1608690842",
+                    "download": "0"
+                }
             },
-            "maxsize": "1608690842",
             "depotfromapp": "10000"
         },
         "10031": {
             "systemdefined": "1",
             "manifests": {
-                "public": "1124709354692861233"
-            },
-            "maxsize": "11792080"
+                "public": {
+                    "gid": "1124709354692861233",
+                    "size": "11792080",
+                    "download": "0"
+                }
+            }
         },
         "10004": {
             "config": {
                 "language": "french"
             },
             "manifests": {
-                "public": "5633547836704586446"
+                "public": {
+                    "gid": "5633547836704586446",
+                    "size": "55280907",
+                    "download": "0"
+                }
             },
-            "maxsize": "55280907",
             "depotfromapp": "10000"
         },
         "10005": {
@@ -61,9 +70,12 @@
                 "language": "german"
             },
             "manifests": {
-                "public": "6233942172183663580"
+                "public": {
+                    "gid": "6233942172183663580",
+                    "size": "41178615",
+                    "download": "0"
+                }
             },
-            "maxsize": "41178615",
             "depotfromapp": "10000"
         },
         "10006": {
@@ -71,9 +83,12 @@
                 "language": "spanish"
             },
             "manifests": {
-                "public": "1856538235062813871"
+                "public": {
+                    "gid": "1856538235062813871",
+                    "size": "38532303",
+                    "download": "0"
+                }
             },
-            "maxsize": "38532303",
             "depotfromapp": "10000"
         },
         "overridescddb": "1",
@@ -84,7 +99,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 11703200,
-    "_sha": "846b9670a4492e1b9e38c87f9acf01bfbc097c22",
-    "_size": 1716
+    "_change_number": 18987327,
+    "_sha": "7dbc33d0d73a7c791998a2e63a9b9fcd2a9cb2a1",
+    "_size": 1931
 }

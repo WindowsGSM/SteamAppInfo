@@ -41,9 +41,12 @@
         "72782": {
             "systemdefined": "1",
             "manifests": {
-                "public": "3467984721875580111"
-            },
-            "maxsize": "617930462"
+                "public": {
+                    "gid": "3467984721875580111",
+                    "size": "617930462",
+                    "download": "0"
+                }
+            }
         },
         "overridescddb": "1",
         "branches": {
@@ -53,7 +56,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 11703200,
-    "_sha": "bfd58119702dd159e0a0d57a5536752c5b734852",
-    "_size": 1111
+    "_change_number": 18987327,
+    "_sha": "b88fbb6dd39a21e707afb50deabb831f510f8c3d",
+    "_size": 1154
 }

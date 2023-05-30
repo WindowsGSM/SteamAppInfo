@@ -50,20 +50,31 @@
         "295231": {
             "systemdefined": "1",
             "manifests": {
-                "public": "1640166303348499161",
-                "beta": "2032614952952668483",
-                "upcoming": "1511595830236708311"
+                "public": {
+                    "gid": "1640166303348499161",
+                    "size": "3254602941",
+                    "download": "1164843696"
+                },
+                "beta": {
+                    "gid": "2032614952952668483",
+                    "size": "2367954829",
+                    "download": "892423120"
+                },
+                "upcoming": {
+                    "gid": "1511595830236708311",
+                    "size": "3227790940",
+                    "download": "1157082944"
+                }
             },
-            "maxsize": "3254602941",
             "encryptedmanifests": {
                 "ranked": {
-                    "encrypted_gid_2": "E3130C6723CED646018C3BAC44C62CDB",
-                    "encrypted_size_2": "7ECE5060FDFC1F6CEF1CD10B84316F72",
+                    "gid": "E3130C6723CED646018C3BAC44C62CDB",
+                    "size": "7ECE5060FDFC1F6CEF1CD10B84316F72",
                     "download": "83DC3146BB207EF11575D833D04D57EE"
                 },
                 "ranked_30": {
-                    "encrypted_gid_2": "21D7B1AA2ADA135D27A4FCBAB0E9FB6A",
-                    "encrypted_size_2": "6C9CFB31BBBB1CAA8EE2E48949E6F95E",
+                    "gid": "21D7B1AA2ADA135D27A4FCBAB0E9FB6A",
+                    "size": "6C9CFB31BBBB1CAA8EE2E48949E6F95E",
                     "download": "B24B60DE97EE4B47FD23AE5363F80F92"
                 }
             }
@@ -73,20 +84,31 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "8573831095025925851",
-                "beta": "7036406250853843631",
-                "upcoming": "3230940941281734527"
+                "public": {
+                    "gid": "8573831095025925851",
+                    "size": "92785271",
+                    "download": "33792208"
+                },
+                "beta": {
+                    "gid": "7036406250853843631",
+                    "size": "100091911",
+                    "download": "38845904"
+                },
+                "upcoming": {
+                    "gid": "3230940941281734527",
+                    "size": "92785271",
+                    "download": "33792080"
+                }
             },
-            "maxsize": "100091911",
             "encryptedmanifests": {
                 "ranked": {
-                    "encrypted_gid_2": "30D31710F9CE90B6D85D948110CABB90",
-                    "encrypted_size_2": "C0049BDF1C6CB6C9D51796C2942F0803",
+                    "gid": "30D31710F9CE90B6D85D948110CABB90",
+                    "size": "C0049BDF1C6CB6C9D51796C2942F0803",
                     "download": "68F7EFF1583EF466574644B2D73BE42F"
                 },
                 "ranked_30": {
-                    "encrypted_gid_2": "5047887B4946D2B1DC1DC66A4BF023D4",
-                    "encrypted_size_2": "E16987FEFFCAF470A74239B29EC7ADCB",
+                    "gid": "5047887B4946D2B1DC1DC66A4BF023D4",
+                    "size": "E16987FEFFCAF470A74239B29EC7ADCB",
                     "download": "1AC08A8997581DF4DC82DEA8101F4482"
                 }
             }
@@ -96,20 +118,31 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "8343346449598563239",
-                "beta": "6165168814692247872",
-                "upcoming": "484462344203886570"
+                "public": {
+                    "gid": "8343346449598563239",
+                    "size": "70882035",
+                    "download": "18410384"
+                },
+                "beta": {
+                    "gid": "6165168814692247872",
+                    "size": "63884120",
+                    "download": "16967504"
+                },
+                "upcoming": {
+                    "gid": "484462344203886570",
+                    "size": "70882035",
+                    "download": "18409152"
+                }
             },
-            "maxsize": "70882035",
             "encryptedmanifests": {
                 "ranked": {
-                    "encrypted_gid_2": "147B0B9EA39E43AF4D543F051EA0C676",
-                    "encrypted_size_2": "31AC172996A60C321040672AFE5A203D",
+                    "gid": "147B0B9EA39E43AF4D543F051EA0C676",
+                    "size": "31AC172996A60C321040672AFE5A203D",
                     "download": "ED8FF367F3E2698C5C0B58CDD2B47097"
                 },
                 "ranked_30": {
-                    "encrypted_gid_2": "20A585B8903C7DC4CE2CDFB74FF8E201",
-                    "encrypted_size_2": "86108CD781C874ADA49FA2ABF428E36F",
+                    "gid": "20A585B8903C7DC4CE2CDFB74FF8E201",
+                    "size": "86108CD781C874ADA49FA2ABF428E36F",
                     "download": "6D8A5348BB813F74C40F37856ECD9F04"
                 }
             }
@@ -140,7 +173,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18451792,
-    "_sha": "efbaba4e6eaae4263053c335e4b07072366e7d23",
-    "_size": 3557
+    "_change_number": 18987327,
+    "_sha": "f255c3593e88516e8e17931e17bdc9c1143e27b5",
+    "_size": 4022
 }

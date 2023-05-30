@@ -33,9 +33,12 @@
         "8701": {
             "systemdefined": "1",
             "manifests": {
-                "public": "754530197296991187"
+                "public": {
+                    "gid": "754530197296991187",
+                    "size": "438399926",
+                    "download": "0"
+                }
             },
-            "maxsize": "438399926",
             "depotfromapp": "8700"
         },
         "1004": {
@@ -44,20 +47,19 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "3578600867548439549"
+                "public": {
+                    "gid": "3578600867548439549",
+                    "size": "9662208",
+                    "download": "0"
+                }
             },
-            "maxsize": "9662208",
             "depotfromapp": "1002"
         },
         "markdlcdepots": "1",
-        "branches": {
-            "public": {
-                "buildid": "82804"
-            }
-        }
+        "branches": {}
     },
     "_missing_token": false,
-    "_change_number": 11703200,
-    "_sha": "cf60c1d30b95f7fc24ff29b14395a1c7b56b74d4",
-    "_size": 1104
+    "_change_number": 18987327,
+    "_sha": "f362d031ff7076e935d751e58c2dfcc8a8f79605",
+    "_size": 1145
 }

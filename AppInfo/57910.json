@@ -35,7 +35,6 @@
             },
             "optional": "1",
             "systemdefined": "1",
-            "maxsize": "1734790874",
             "dlcappid": "57925",
             "depotfromapp": "57900",
             "sharedinstall": "2"
@@ -46,7 +45,6 @@
             },
             "optional": "1",
             "systemdefined": "1",
-            "maxsize": "120233822",
             "dlcappid": "57924",
             "depotfromapp": "57900",
             "sharedinstall": "2"
@@ -57,7 +55,6 @@
             },
             "optional": "1",
             "systemdefined": "1",
-            "maxsize": "212009854",
             "dlcappid": "57923",
             "depotfromapp": "57900",
             "sharedinstall": "2"
@@ -68,7 +65,6 @@
             },
             "optional": "1",
             "systemdefined": "1",
-            "maxsize": "652",
             "dlcappid": "57922",
             "depotfromapp": "57900",
             "sharedinstall": "2"
@@ -79,7 +75,6 @@
             },
             "optional": "1",
             "systemdefined": "1",
-            "maxsize": "650",
             "dlcappid": "57921",
             "depotfromapp": "57900",
             "sharedinstall": "2"
@@ -89,7 +84,6 @@
                 "oslist": "windows"
             },
             "systemdefined": "1",
-            "maxsize": "6614630148",
             "depotfromapp": "57900",
             "sharedinstall": "2"
         },
@@ -99,16 +93,18 @@
             },
             "optional": "1",
             "systemdefined": "1",
-            "maxsize": "141310652",
             "depotfromapp": "57900",
             "sharedinstall": "2"
         },
         "57911": {
             "systemdefined": "1",
             "manifests": {
-                "public": "8623698278872831503"
-            },
-            "maxsize": "623912"
+                "public": {
+                    "gid": "8623698278872831503",
+                    "size": "623912",
+                    "download": "0"
+                }
+            }
         },
         "overridescddb": "1",
         "branches": {
@@ -118,7 +114,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 11703200,
-    "_sha": "88685ba4ac72e5946765fceb3e9b629a77c0cf26",
-    "_size": 2317
+    "_change_number": 18987327,
+    "_sha": "7f6c32a32fc2b97dd283abbd2b7450666dd3f105",
+    "_size": 2188
 }

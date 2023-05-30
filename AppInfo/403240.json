@@ -49,9 +49,12 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "4660701598619066954"
+                "public": {
+                    "gid": "4660701598619066954",
+                    "size": "43850712",
+                    "download": "13716400"
+                }
             },
-            "maxsize": "43850712",
             "depotfromapp": "1007"
         },
         "1005": {
@@ -59,7 +62,11 @@
                 "oslist": "macos"
             },
             "manifests": {
-                "public": "2135359612286175146"
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
             },
             "depotfromapp": "1007"
         },
@@ -68,16 +75,18 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "6912453647411644579"
+                "public": {
+                    "gid": "6912453647411644579",
+                    "size": "72573740",
+                    "download": "20021152"
+                }
             },
-            "maxsize": "72573740",
             "depotfromapp": "1007"
         },
         "228985": {
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "13699237",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -85,7 +94,6 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "29759921",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -93,7 +101,6 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "102931551",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -252,20 +259,31 @@
         "1123920": {
             "dlcappid": "1123920",
             "manifests": {
-                "public": "8509449628493661206",
-                "performance_hotfix": "8509449628493661206",
-                "squad_tournament": "8509449628493661206"
+                "public": {
+                    "gid": "8509449628493661206",
+                    "size": "15654",
+                    "download": "15264"
+                },
+                "performance_hotfix": {
+                    "gid": "8509449628493661206",
+                    "size": "15654",
+                    "download": "15264"
+                },
+                "squad_tournament": {
+                    "gid": "8509449628493661206",
+                    "size": "15654",
+                    "download": "15264"
+                }
             },
-            "maxsize": "15654",
             "encryptedmanifests": {
                 "backtracking": {
-                    "encrypted_gid_2": "44673DFB1FE10E93E5E113F05CFB18DE",
-                    "encrypted_size_2": "0F3CA88B7E88FDBA0B62EB40A5164C02",
+                    "gid": "44673DFB1FE10E93E5E113F05CFB18DE",
+                    "size": "0F3CA88B7E88FDBA0B62EB40A5164C02",
                     "download": "701D451F0B3512A38000E1B746E71F98"
                 },
                 "squad_experimental": {
-                    "encrypted_gid_2": "6471D0C50007D56B1BBFA5561278928D",
-                    "encrypted_size_2": "38BBC4D408E149FE323CEBD05B018221",
+                    "gid": "6471D0C50007D56B1BBFA5561278928D",
+                    "size": "38BBC4D408E149FE323CEBD05B018221",
                     "download": "7645C0A01FD9B810796C0BB3731AE93D"
                 },
                 "squad_main": {
@@ -279,13 +297,13 @@
                     "download": "ACA80BC758CF9AFD8EFD4AD029A3516A"
                 },
                 "squad_steamfix": {
-                    "encrypted_gid_2": "FB14A2F478809EA6AB44F26AB9476FC0",
-                    "encrypted_size_2": "FD87B6FE7BA3619F1AB8EFE8845D38BB",
+                    "gid": "FB14A2F478809EA6AB44F26AB9476FC0",
+                    "size": "FD87B6FE7BA3619F1AB8EFE8845D38BB",
                     "download": "48516B0D4E4253238FECA475565388E2"
                 },
                 "tournament": {
-                    "encrypted_gid_2": "3F253CC3B47F24F1E02F6776F1FA488B",
-                    "encrypted_size_2": "8C3352FF1333AB4D9EADF0DD50F784E7",
+                    "gid": "3F253CC3B47F24F1E02F6776F1FA488B",
+                    "size": "8C3352FF1333AB4D9EADF0DD50F784E7",
                     "download": "71EAFB79991BBDB10F8C54BA69C5E102"
                 }
             },
@@ -370,16 +388,11 @@
                 "buildid": "4298022",
                 "pwdrequired": "1",
                 "timeupdated": "1572096224"
-            },
-            "performance_hotfix": {
-                "buildid": "9034353",
-                "description": "branch addressing various performance issues",
-                "timeupdated": "1658424372"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 18981338,
-    "_sha": "bd4d09032585f75a8ce814b47142f61b59c2cf5f",
-    "_size": 10114
+    "_change_number": 18987327,
+    "_sha": "ec6ded3c0ee0a54fd8dcb19005612a12d3d60a1a",
+    "_size": 10131
 }

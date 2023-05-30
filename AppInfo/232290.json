@@ -25,30 +25,51 @@
     "depots": {
         "232290": {
             "manifests": {
-                "public": "7284281828149952980",
-                "prerelease": "7284281828149952980"
-            },
-            "maxsize": "1720774032"
+                "public": {
+                    "gid": "7284281828149952980",
+                    "size": "1720774032",
+                    "download": "774557648"
+                },
+                "prerelease": {
+                    "gid": "7284281828149952980",
+                    "size": "1720774032",
+                    "download": "774557648"
+                }
+            }
         },
         "232295": {
             "config": {
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "9167847065259172248",
-                "prerelease": "9167847065259172248"
-            },
-            "maxsize": "92169920"
+                "public": {
+                    "gid": "9167847065259172248",
+                    "size": "92169920",
+                    "download": "32963824"
+                },
+                "prerelease": {
+                    "gid": "9167847065259172248",
+                    "size": "92169920",
+                    "download": "32963824"
+                }
+            }
         },
         "232296": {
             "config": {
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "3021743196526514137",
-                "prerelease": "3021743196526514137"
-            },
-            "maxsize": "65848919"
+                "public": {
+                    "gid": "3021743196526514137",
+                    "size": "65848919",
+                    "download": "17155056"
+                },
+                "prerelease": {
+                    "gid": "3021743196526514137",
+                    "size": "65848919",
+                    "download": "17155056"
+                }
+            }
         },
         "overridescddb": "1",
         "branches": {
@@ -64,7 +85,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15577664,
-    "_sha": "48b0e9781d44950cc03787d7a15108533ccc0bfb",
-    "_size": 1320
+    "_change_number": 18987327,
+    "_sha": "894085251d7d23413f8276f4575ad994fa10f44a",
+    "_size": 1699
 }

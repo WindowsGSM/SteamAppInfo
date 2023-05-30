@@ -37,9 +37,12 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "4660701598619066954"
+                "public": {
+                    "gid": "4660701598619066954",
+                    "size": "43850712",
+                    "download": "13716400"
+                }
             },
-            "maxsize": "43850712",
             "depotfromapp": "1007"
         },
         "1005": {
@@ -47,7 +50,11 @@
                 "oslist": "macos"
             },
             "manifests": {
-                "public": "2135359612286175146"
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
             },
             "depotfromapp": "1007"
         },
@@ -56,9 +63,12 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "6912453647411644579"
+                "public": {
+                    "gid": "6912453647411644579",
+                    "size": "72573740",
+                    "download": "20021152"
+                }
             },
-            "maxsize": "72573740",
             "depotfromapp": "1007"
         },
         "overridescddb": "1",
@@ -69,25 +79,27 @@
             "optional": "1",
             "systemdefined": "1",
             "manifests": {
-                "public": "3735901233717536875"
+                "public": {
+                    "gid": "3735901233717536875",
+                    "size": "1",
+                    "download": "160"
+                }
             },
-            "maxsize": "1",
             "encryptedmanifests": {
                 "beta": {
-                    "encrypted_gid_2": "504AB37A274E32E64A3211B9798F8E32",
-                    "encrypted_size_2": "1B544FC39988938F991DACBCD79ADFCD",
+                    "gid": "504AB37A274E32E64A3211B9798F8E32",
+                    "size": "1B544FC39988938F991DACBCD79ADFCD",
                     "download": "0B3580386B7448FF721DDE464F61FD15"
                 },
                 "previous": {
-                    "encrypted_gid_2": "F8CC04D24610CA5345EC46AB64BB72FE",
-                    "encrypted_size_2": "648B11DD9EB8CCE22769588D7709E5CA",
+                    "gid": "F8CC04D24610CA5345EC46AB64BB72FE",
+                    "size": "648B11DD9EB8CCE22769588D7709E5CA",
                     "download": "16F1A27E66A2987A28DA83B920554505"
                 }
             }
         },
         "17711": {
             "systemdefined": "1",
-            "maxsize": "4633578503",
             "depotfromapp": "17710",
             "sharedinstall": "2"
         },
@@ -96,7 +108,6 @@
                 "oslist": "windows"
             },
             "systemdefined": "1",
-            "maxsize": "73369365",
             "depotfromapp": "17710",
             "sharedinstall": "2"
         },
@@ -106,18 +117,21 @@
             },
             "systemdefined": "1",
             "manifests": {
-                "public": "8871863972997944411"
+                "public": {
+                    "gid": "8871863972997944411",
+                    "size": "37750808",
+                    "download": "10670800"
+                }
             },
-            "maxsize": "37750808",
             "encryptedmanifests": {
                 "beta": {
-                    "encrypted_gid_2": "3B1D00F81FBE146692B4D66115C8F29F",
-                    "encrypted_size_2": "875956FA653D447A1FB9EEFFA6A489DB",
+                    "gid": "3B1D00F81FBE146692B4D66115C8F29F",
+                    "size": "875956FA653D447A1FB9EEFFA6A489DB",
                     "download": "D0B3FA275D45208DA1228DF53AD4A7E2"
                 },
                 "previous": {
-                    "encrypted_gid_2": "D8E407722BD27A231DB9486154871C49",
-                    "encrypted_size_2": "401A9525DCDDFFC04FBD55EA5B2A49C7",
+                    "gid": "D8E407722BD27A231DB9486154871C49",
+                    "size": "401A9525DCDDFFC04FBD55EA5B2A49C7",
                     "download": "C09CF6340FC4BF8742395C083BCE5FD9"
                 }
             }
@@ -141,7 +155,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "9916462c2f31aa1468c77c197d318055dc6c06f3",
-    "_size": 3083
+    "_change_number": 18987327,
+    "_sha": "97b46ef5c017bdc8ca50920919f79b09b9b21471",
+    "_size": 3191
 }

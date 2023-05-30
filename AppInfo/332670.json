@@ -38,7 +38,6 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "19265607",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -46,7 +45,6 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "13742505",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -55,13 +53,16 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "3453919693304578631"
+                "public": {
+                    "gid": "3453919693304578631",
+                    "size": "13785874",
+                    "download": "5525008"
+                }
             },
-            "maxsize": "13785874",
             "encryptedmanifests": {
                 "testing": {
-                    "encrypted_gid_2": "61FCAF9860B33B2A0057CC79729C39F5",
-                    "encrypted_size_2": "6198CE72D0C52B82A9506E7B887E3C1A",
+                    "gid": "61FCAF9860B33B2A0057CC79729C39F5",
+                    "size": "6198CE72D0C52B82A9506E7B887E3C1A",
                     "download": "E52A552D55CBBE3C01F23B63E16326FF"
                 }
             }
@@ -71,13 +72,16 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "1138439470607335494"
+                "public": {
+                    "gid": "1138439470607335494",
+                    "size": "25190591",
+                    "download": "7855632"
+                }
             },
-            "maxsize": "25190591",
             "encryptedmanifests": {
                 "testing": {
-                    "encrypted_gid_2": "C9E261531B8F62267D73574FD0AFA267",
-                    "encrypted_size_2": "2A3210659D5F90DB0929539B7A7C5E4A",
+                    "gid": "C9E261531B8F62267D73574FD0AFA267",
+                    "size": "2A3210659D5F90DB0929539B7A7C5E4A",
                     "download": "54C7C9ACE9B970228448C4A296672BFE"
                 }
             }
@@ -95,7 +99,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18076822,
-    "_sha": "8f69a72147ded8182c98cffe18239a8168b4ad74",
+    "_change_number": 18987327,
+    "_sha": "58a2f5fd6879dfa8e6b1d5f75cb3ced937da0b18",
     "_size": 2171
 }

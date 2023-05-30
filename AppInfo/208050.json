@@ -32,39 +32,38 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "9688647",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
         "63381": {
             "systemdefined": "1",
-            "maxsize": "90857991",
             "depotfromapp": "63380",
             "sharedinstall": "2"
         },
         "63393": {
             "systemdefined": "1",
-            "maxsize": "1855991",
             "depotfromapp": "63380",
             "sharedinstall": "2"
         },
         "208051": {
             "systemdefined": "1",
             "manifests": {
-                "public": "563153054103075786"
+                "public": {
+                    "gid": "563153054103075786",
+                    "size": "14791805",
+                    "download": "0"
+                }
             },
-            "maxsize": "14791805",
             "encryptedmanifests": {
                 "devbeta": {
-                    "encrypted_gid_2": "220E53390AAE6CD1B490BB7CB28E217F",
-                    "encrypted_size_2": "F477409AB879560F98F42392F409851D",
+                    "gid": "220E53390AAE6CD1B490BB7CB28E217F",
+                    "size": "F477409AB879560F98F42392F409851D",
                     "download": "9DE74CB7FAE96C631207B495E62DACC0"
                 }
             }
         },
         "63394": {
             "systemdefined": "1",
-            "maxsize": "1127976334",
             "depotfromapp": "63380",
             "sharedinstall": "2"
         },
@@ -80,7 +79,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18076822,
-    "_sha": "bcbc87212abe31954b3ab2ff33c145b858830447",
-    "_size": 1601
+    "_change_number": 18987327,
+    "_sha": "46ee69ce347b11d21419e2da6afadf51616e8876",
+    "_size": 1520
 }

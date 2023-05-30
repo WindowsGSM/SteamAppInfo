@@ -31,45 +31,78 @@
     "depots": {
         "346682": {
             "manifests": {
-                "public": "6651014900891771239",
-                "black-mesa-1-0": "6717280190829659861",
-                "public-beta": "6651014900891771239"
+                "public": {
+                    "gid": "6651014900891771239",
+                    "size": "112643990",
+                    "download": "37065392"
+                },
+                "black-mesa-1-0": {
+                    "gid": "6717280190829659861",
+                    "size": "112573334",
+                    "download": "37045904"
+                },
+                "public-beta": {
+                    "gid": "6651014900891771239",
+                    "size": "112643990",
+                    "download": "37065392"
+                }
             },
-            "maxsize": "112643990",
             "encryptedmanifests": {
                 "developer": {
-                    "encrypted_gid_2": "560EBD6D6B5013C475D28D90075D257E",
-                    "encrypted_size_2": "A92270774C5DBF60CEEC6CF1D76EC74E",
+                    "gid": "560EBD6D6B5013C475D28D90075D257E",
+                    "size": "A92270774C5DBF60CEEC6CF1D76EC74E",
                     "download": "287C07C41799263D131251A5E4C19586"
                 }
             }
         },
         "346683": {
             "manifests": {
-                "public": "3281609962914482076",
-                "black-mesa-1-0": "6909355390652833361",
-                "public-beta": "3281609962914482076"
+                "public": {
+                    "gid": "3281609962914482076",
+                    "size": "65325359",
+                    "download": "16957280"
+                },
+                "black-mesa-1-0": {
+                    "gid": "6909355390652833361",
+                    "size": "65293658",
+                    "download": "16944720"
+                },
+                "public-beta": {
+                    "gid": "3281609962914482076",
+                    "size": "65325359",
+                    "download": "16957280"
+                }
             },
-            "maxsize": "65325359",
             "encryptedmanifests": {
                 "developer": {
-                    "encrypted_gid_2": "FA576B0A3D00593B4D52E18E071F63C4",
-                    "encrypted_size_2": "6BEF65EC45348CBF352B5A61E86A5B0C",
+                    "gid": "FA576B0A3D00593B4D52E18E071F63C4",
+                    "size": "6BEF65EC45348CBF352B5A61E86A5B0C",
                     "download": "A8434139FBCB85933BA430E111DFBAF8"
                 }
             }
         },
         "346681": {
             "manifests": {
-                "public": "5265910307883701012",
-                "black-mesa-1-0": "6421219417975466847",
-                "public-beta": "5265910307883701012"
+                "public": {
+                    "gid": "5265910307883701012",
+                    "size": "29492190564",
+                    "download": "13095509168"
+                },
+                "black-mesa-1-0": {
+                    "gid": "6421219417975466847",
+                    "size": "27900582069",
+                    "download": "12458952352"
+                },
+                "public-beta": {
+                    "gid": "5265910307883701012",
+                    "size": "29492190564",
+                    "download": "13095509168"
+                }
             },
-            "maxsize": "29492190564",
             "encryptedmanifests": {
                 "developer": {
-                    "encrypted_gid_2": "9142FEE3628CF84DE55E4C7D37597D65",
-                    "encrypted_size_2": "5DD4E2479FDE8785B807CDA600332764",
+                    "gid": "9142FEE3628CF84DE55E4C7D37597D65",
+                    "size": "5DD4E2479FDE8785B807CDA600332764",
                     "download": "4D0A9F689EFEDCF62A24700E71B4DC80"
                 }
             }
@@ -79,9 +112,12 @@
                 "language": "english"
             },
             "manifests": {
-                "public": "4937448015887180629"
+                "public": {
+                    "gid": "4937448015887180629",
+                    "size": "802575181",
+                    "download": "599018544"
+                }
             },
-            "maxsize": "802575181",
             "depotfromapp": "221140"
         },
         "branches": {
@@ -106,7 +142,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18076822,
-    "_sha": "802957bd0b36022d0c60153a2c9ae8154e987a86",
-    "_size": 2498
+    "_change_number": 18987327,
+    "_sha": "2fc1b4eecdef7a8ae556928448fc56cf7c545f0c",
+    "_size": 3094
 }

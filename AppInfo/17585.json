@@ -38,15 +38,26 @@
         "17581": {
             "systemdefined": "1",
             "manifests": {
-                "public": "7649529834308003280",
-                "nightly": "2651542348671413866",
-                "release_candidate": "7649529834308003280"
+                "public": {
+                    "gid": "7649529834308003280",
+                    "size": "4571460360",
+                    "download": "2128844752"
+                },
+                "nightly": {
+                    "gid": "2651542348671413866",
+                    "size": "4482457720",
+                    "download": "2151020032"
+                },
+                "release_candidate": {
+                    "gid": "7649529834308003280",
+                    "size": "4571460360",
+                    "download": "2128844752"
+                }
             },
-            "maxsize": "4571460360",
             "encryptedmanifests": {
                 "preonepointfive": {
-                    "encrypted_gid_2": "FE26731BEB35028B8E34239D344FC8AF",
-                    "encrypted_size_2": "16C5EE54BA3F5DAB54839E18595F50F2",
+                    "gid": "FE26731BEB35028B8E34239D344FC8AF",
+                    "size": "16C5EE54BA3F5DAB54839E18595F50F2",
                     "download": "69D40F530DDE5AA370929AFDC9FDB9CE"
                 }
             },
@@ -57,22 +68,44 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "2311467001087771267",
-                "nightly": "3909158193478232378",
-                "release_candidate": "2311467001087771267"
-            },
-            "maxsize": "21595840"
+                "public": {
+                    "gid": "2311467001087771267",
+                    "size": "19698880",
+                    "download": "7069088"
+                },
+                "nightly": {
+                    "gid": "3909158193478232378",
+                    "size": "21595840",
+                    "download": "7655392"
+                },
+                "release_candidate": {
+                    "gid": "2311467001087771267",
+                    "size": "19698880",
+                    "download": "7069088"
+                }
+            }
         },
         "806641": {
             "config": {
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "2070697226601717144",
-                "nightly": "5528420613736394602",
-                "release_candidate": "2070697226601717144"
-            },
-            "maxsize": "64233295"
+                "public": {
+                    "gid": "2070697226601717144",
+                    "size": "64233295",
+                    "download": "16828976"
+                },
+                "nightly": {
+                    "gid": "5528420613736394602",
+                    "size": "62077673",
+                    "download": "16432080"
+                },
+                "release_candidate": {
+                    "gid": "2070697226601717144",
+                    "size": "64233295",
+                    "download": "16828976"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -95,7 +128,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18076822,
-    "_sha": "70ced10ad744ddb5a084eb3703170d9bc9ce3d97",
-    "_size": 2065
+    "_change_number": 18987327,
+    "_sha": "482ae91a796502d584f96aa0f97f20914479a4cc",
+    "_size": 2648
 }

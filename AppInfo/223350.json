@@ -72,7 +72,6 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "13699237",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -80,7 +79,6 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "29212173",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -88,7 +86,6 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "70000464",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -100,84 +97,91 @@
                 "language": ""
             },
             "manifests": {
-                "public": "555325013988256678",
-                "experimental_public": "6851238236280575555"
+                "public": {
+                    "gid": "555325013988256678",
+                    "size": "2874287416",
+                    "download": "994756624"
+                },
+                "experimental_public": {
+                    "gid": "6851238236280575555",
+                    "size": "1857037019",
+                    "download": "702440208"
+                }
             },
-            "maxsize": "2874287416",
             "encryptedmanifests": {
                 "internaldebug": {
-                    "encrypted_gid_2": "BBB44C61F926C37B7B8C10BF46CF64B5",
-                    "encrypted_size_2": "4167444662DC343D94A3D1A65AA3C509",
+                    "gid": "BBB44C61F926C37B7B8C10BF46CF64B5",
+                    "size": "4167444662DC343D94A3D1A65AA3C509",
                     "download": "C080BABF7EE8394B1966A40FFC73D802"
                 },
                 "internalplaytest": {
-                    "encrypted_gid_2": "7E86DE4BDD50A8F4145537D597A2F6E0",
-                    "encrypted_size_2": "F6B8F5FA06D88FBE5C12B8C43529E0F7",
+                    "gid": "7E86DE4BDD50A8F4145537D597A2F6E0",
+                    "size": "F6B8F5FA06D88FBE5C12B8C43529E0F7",
                     "download": "6B838192FC7819C66165505D0ECF4483"
                 },
                 "pr_test": {
-                    "encrypted_gid_2": "48B89E799D1C0D14781FC1E2ADF09AE2",
-                    "encrypted_size_2": "B387912113835BB7657F618CC5C431DD",
+                    "gid": "48B89E799D1C0D14781FC1E2ADF09AE2",
+                    "size": "B387912113835BB7657F618CC5C431DD",
                     "download": "163F7BCE49B54181AF7FE02A603AAC38"
                 },
                 "ps4_internal": {
-                    "encrypted_gid_2": "F1C129CDCB3ECFB4BF25132929E30180",
-                    "encrypted_size_2": "EC2782574506D054F58290ED0553BCD7",
+                    "gid": "F1C129CDCB3ECFB4BF25132929E30180",
+                    "size": "EC2782574506D054F58290ED0553BCD7",
                     "download": "7DAD5CC156525409A06FE99259C2BFE5"
                 },
                 "ps4_stable": {
-                    "encrypted_gid_2": "31A298ABDFBA1BA04BCCB4EDFAD91EA8",
-                    "encrypted_size_2": "36F711F4C9313282AFCC9750928B8660",
+                    "gid": "31A298ABDFBA1BA04BCCB4EDFAD91EA8",
+                    "size": "36F711F4C9313282AFCC9750928B8660",
                     "download": "CC0E1A4B8CC62461BB3174C16D6EDEE2"
                 },
                 "ps4_test": {
-                    "encrypted_gid_2": "3C83D6121D7AB4BF86B3ED7EEE2A1795",
-                    "encrypted_size_2": "FCE53BBC14DCDBB4F24D4DE972532D2E",
+                    "gid": "3C83D6121D7AB4BF86B3ED7EEE2A1795",
+                    "size": "FCE53BBC14DCDBB4F24D4DE972532D2E",
                     "download": "FC3195A042DDC5BFD319AEC99CB39A01"
                 },
                 "qa_tmp": {
-                    "encrypted_gid_2": "42247C9A383105D59308F4F81344558E",
-                    "encrypted_size_2": "17E2C9955F2C187EB4D3449D4CCC9B24",
+                    "gid": "42247C9A383105D59308F4F81344558E",
+                    "size": "17E2C9955F2C187EB4D3449D4CCC9B24",
                     "download": "1CABC2712EE25A5EE2D86724F0FB3329"
                 },
                 "release_test": {
-                    "encrypted_gid_2": "5E54E08925F328C5EE0624E82B5A9210",
-                    "encrypted_size_2": "CBF24FD0E8552B0AA34A61ECCEDC6A02",
+                    "gid": "5E54E08925F328C5EE0624E82B5A9210",
+                    "size": "CBF24FD0E8552B0AA34A61ECCEDC6A02",
                     "download": "795AFA67A3E90FAA37FEE96A8108A1A2"
                 },
                 "stable": {
-                    "encrypted_gid_2": "42D735606A3E6F83C16EB82DC7D0059A",
-                    "encrypted_size_2": "E2740CEF39AFA47FFA8B31A805721E63",
+                    "gid": "42D735606A3E6F83C16EB82DC7D0059A",
+                    "size": "E2740CEF39AFA47FFA8B31A805721E63",
                     "download": "CB32A729D4E457368330A55834F1064F"
                 },
                 "stableprep": {
-                    "encrypted_gid_2": "9C25DA61CB50C9643B1B3CBD5BAFB0BA",
-                    "encrypted_size_2": "2D677901CB0EAAE7BB76A1AA2FC33338",
+                    "gid": "9C25DA61CB50C9643B1B3CBD5BAFB0BA",
+                    "size": "2D677901CB0EAAE7BB76A1AA2FC33338",
                     "download": "66297AEEA6871465826DFA710F18C5D0"
                 },
                 "xb1_experimental": {
-                    "encrypted_gid_2": "7F51A38118B66DDC6E07CE3F6B36B533",
-                    "encrypted_size_2": "B1F2CB07B143DE042BAE9BC75D1213A4",
+                    "gid": "7F51A38118B66DDC6E07CE3F6B36B533",
+                    "size": "B1F2CB07B143DE042BAE9BC75D1213A4",
                     "download": "DA5B2B35DB0FA41288C12E158AFD684E"
                 },
                 "xb1_internal": {
-                    "encrypted_gid_2": "EBB6458D8EE1C07E14838F2318E0EF06",
-                    "encrypted_size_2": "F025D2603C01B869F934499035865A74",
+                    "gid": "EBB6458D8EE1C07E14838F2318E0EF06",
+                    "size": "F025D2603C01B869F934499035865A74",
                     "download": "66EBE2B0B7406C248F42827918BE8048"
                 },
                 "xb1_internal_exp": {
-                    "encrypted_gid_2": "C8C931AAFCFD89271F66635B5E54F49E",
-                    "encrypted_size_2": "58E3D5B707A6064BF06A011D6F8C53BF",
+                    "gid": "C8C931AAFCFD89271F66635B5E54F49E",
+                    "size": "58E3D5B707A6064BF06A011D6F8C53BF",
                     "download": "04CF0A1E0FB10CE96572A3472983EAE1"
                 },
                 "xb1_stable": {
-                    "encrypted_gid_2": "F4A1C09C9E12C3642B684EB265F1601C",
-                    "encrypted_size_2": "229ABD069AAD12C0F804C9FC7D7EF8A6",
+                    "gid": "F4A1C09C9E12C3642B684EB265F1601C",
+                    "size": "229ABD069AAD12C0F804C9FC7D7EF8A6",
                     "download": "FA739582BA7EB4EB86DA87A9CCE1168E"
                 },
                 "xb1_test": {
-                    "encrypted_gid_2": "F5F4E904977D89CFABA9615F792272D6",
-                    "encrypted_size_2": "1605B35F5FC34189C4005D3B34258B9E",
+                    "gid": "F5F4E904977D89CFABA9615F792272D6",
+                    "size": "1605B35F5FC34189C4005D3B34258B9E",
                     "download": "CA78E11A590A2C3D6E22B12B35C8D73A"
                 }
             }
@@ -191,28 +195,28 @@
             "manifests": {},
             "encryptedmanifests": {
                 "internaldebug": {
-                    "encrypted_gid_2": "454FB0F2306C239B736595FAD3278CB5",
-                    "encrypted_size_2": "F4D26D28906866F18179481DD9A161CD",
+                    "gid": "454FB0F2306C239B736595FAD3278CB5",
+                    "size": "F4D26D28906866F18179481DD9A161CD",
                     "download": "F4D26D28906866F18179481DD9A161CD"
                 },
                 "internalplaytest": {
-                    "encrypted_gid_2": "92E19D5AA544CF28224E5CF34A7B2335",
-                    "encrypted_size_2": "F247F36CE168315FE1F9B6F837C83888",
+                    "gid": "92E19D5AA544CF28224E5CF34A7B2335",
+                    "size": "F247F36CE168315FE1F9B6F837C83888",
                     "download": "535766A54E9A302F9484C94E8E84B7B4"
                 },
                 "pr_test": {
-                    "encrypted_gid_2": "098917A6FAB671799AB213BA6BF8A309",
-                    "encrypted_size_2": "E2C1B564F656A91450E31A98C73488DC",
+                    "gid": "098917A6FAB671799AB213BA6BF8A309",
+                    "size": "E2C1B564F656A91450E31A98C73488DC",
                     "download": "49D4D179426A6A2BD2FCF7958CBC222C"
                 },
                 "stable": {
-                    "encrypted_gid_2": "4715CB4578548B63FDAEC147F223EAA6",
-                    "encrypted_size_2": "E36E77113A301A5C636D0CA4C7081D74",
+                    "gid": "4715CB4578548B63FDAEC147F223EAA6",
+                    "size": "E36E77113A301A5C636D0CA4C7081D74",
                     "download": "C69E5DE7D5BF92B98CE689B1B02D35E1"
                 },
                 "stableprep": {
-                    "encrypted_gid_2": "FC65EB9DFA1652435B75018667D82A8B",
-                    "encrypted_size_2": "137C82544F57F2AF0C157657DD71231E",
+                    "gid": "FC65EB9DFA1652435B75018667D82A8B",
+                    "size": "137C82544F57F2AF0C157657DD71231E",
                     "download": "137C82544F57F2AF0C157657DD71231E"
                 }
             }
@@ -224,84 +228,91 @@
                 "language": ""
             },
             "manifests": {
-                "public": "6665861647484744734",
-                "experimental_public": "6169702869082609638"
+                "public": {
+                    "gid": "6665861647484744734",
+                    "size": "39615912",
+                    "download": "12552464"
+                },
+                "experimental_public": {
+                    "gid": "6169702869082609638",
+                    "size": "32900600",
+                    "download": "10542720"
+                }
             },
-            "maxsize": "39615912",
             "encryptedmanifests": {
                 "internaldebug": {
-                    "encrypted_gid_2": "5E20478BD5EF3F40FF74F64B3637E8CF",
-                    "encrypted_size_2": "DA7A64DCD89C3F9A9A28AD7CA13CA781",
+                    "gid": "5E20478BD5EF3F40FF74F64B3637E8CF",
+                    "size": "DA7A64DCD89C3F9A9A28AD7CA13CA781",
                     "download": "5F44AA93E45AC938E871341BA9FCF05C"
                 },
                 "internalplaytest": {
-                    "encrypted_gid_2": "798F6ECB930781EF17C893DDCF1B592D",
-                    "encrypted_size_2": "361FB64DDB441DFE6C30A16E1A544509",
+                    "gid": "798F6ECB930781EF17C893DDCF1B592D",
+                    "size": "361FB64DDB441DFE6C30A16E1A544509",
                     "download": "357B8628338B058F2069E85DA7F7E719"
                 },
                 "pr_test": {
-                    "encrypted_gid_2": "6A9C9800A9606A86E09C9E0551D91475",
-                    "encrypted_size_2": "2CBEFFACB4D2CC4F86310FF6D839AC6C",
+                    "gid": "6A9C9800A9606A86E09C9E0551D91475",
+                    "size": "2CBEFFACB4D2CC4F86310FF6D839AC6C",
                     "download": "556B782E88AF93D81338F908156956A9"
                 },
                 "ps4_internal": {
-                    "encrypted_gid_2": "3FBE50C60D2402098FB295B671184340",
-                    "encrypted_size_2": "A364DD94E744C4E031612566A0A29DBC",
+                    "gid": "3FBE50C60D2402098FB295B671184340",
+                    "size": "A364DD94E744C4E031612566A0A29DBC",
                     "download": "A364DD94E744C4E031612566A0A29DBC"
                 },
                 "ps4_stable": {
-                    "encrypted_gid_2": "67D486F858C44B3B925CEA721133AB91",
-                    "encrypted_size_2": "FBBD1E1F747864705114F7BC793B93E6",
+                    "gid": "67D486F858C44B3B925CEA721133AB91",
+                    "size": "FBBD1E1F747864705114F7BC793B93E6",
                     "download": "FBBD1E1F747864705114F7BC793B93E6"
                 },
                 "ps4_test": {
-                    "encrypted_gid_2": "9E8FC525179208EB70243D189DC9CF8E",
-                    "encrypted_size_2": "EE4419B87BDFB7C291120D56ECF2D72E",
+                    "gid": "9E8FC525179208EB70243D189DC9CF8E",
+                    "size": "EE4419B87BDFB7C291120D56ECF2D72E",
                     "download": "EE4419B87BDFB7C291120D56ECF2D72E"
                 },
                 "qa_tmp": {
-                    "encrypted_gid_2": "03E5870B7E9C500AFC33AA14CC18E26C",
-                    "encrypted_size_2": "3B5EDDC58F8DD5E575ECD773AF530926",
+                    "gid": "03E5870B7E9C500AFC33AA14CC18E26C",
+                    "size": "3B5EDDC58F8DD5E575ECD773AF530926",
                     "download": "3B5EDDC58F8DD5E575ECD773AF530926"
                 },
                 "release_test": {
-                    "encrypted_gid_2": "6E280BD9E6391A67DEB1D117B8AC4622",
-                    "encrypted_size_2": "F7F3DD85CC2EDD47F353C44A8E54397D",
+                    "gid": "6E280BD9E6391A67DEB1D117B8AC4622",
+                    "size": "F7F3DD85CC2EDD47F353C44A8E54397D",
                     "download": "5C073707A518D0A3B97A4AA00D9F0544"
                 },
                 "stable": {
-                    "encrypted_gid_2": "C9DA19B5F21F193DF44BB8EE900D3694",
-                    "encrypted_size_2": "FD65BD5E070DC89F87877A5713958877",
+                    "gid": "C9DA19B5F21F193DF44BB8EE900D3694",
+                    "size": "FD65BD5E070DC89F87877A5713958877",
                     "download": "DBBC6941C100659DB4E072B65D9F8B47"
                 },
                 "stableprep": {
-                    "encrypted_gid_2": "D24C8F936BF8DD077CBD3E1403F26C1E",
-                    "encrypted_size_2": "B84DAB3222C15F458CB3573029CE4DE9",
+                    "gid": "D24C8F936BF8DD077CBD3E1403F26C1E",
+                    "size": "B84DAB3222C15F458CB3573029CE4DE9",
                     "download": "24E42366312F5F55BA006FFC4B831CFE"
                 },
                 "xb1_experimental": {
-                    "encrypted_gid_2": "ED8719AE41CF454E4D112032CE197537",
-                    "encrypted_size_2": "7F558043A0EC7E27BB1D82C4C7841BE9",
+                    "gid": "ED8719AE41CF454E4D112032CE197537",
+                    "size": "7F558043A0EC7E27BB1D82C4C7841BE9",
                     "download": "7F558043A0EC7E27BB1D82C4C7841BE9"
                 },
                 "xb1_internal": {
-                    "encrypted_gid_2": "5211539F73FC10A59B24DB6CA305A3E7",
-                    "encrypted_size_2": "778E78BD52DD5F6D59782EF0B476CE09",
+                    "gid": "5211539F73FC10A59B24DB6CA305A3E7",
+                    "size": "778E78BD52DD5F6D59782EF0B476CE09",
                     "download": "778E78BD52DD5F6D59782EF0B476CE09"
                 },
                 "xb1_internal_exp": {
-                    "encrypted_gid_2": "E8E1FA89DE386846EE47A189BE410E11",
-                    "encrypted_size_2": "8B96D052FDA0969CFC218B0166E71E01",
+                    "gid": "E8E1FA89DE386846EE47A189BE410E11",
+                    "size": "8B96D052FDA0969CFC218B0166E71E01",
                     "download": "8B96D052FDA0969CFC218B0166E71E01"
                 },
                 "xb1_stable": {
-                    "encrypted_gid_2": "F634EA5A80628567CE7C50598306E75A",
-                    "encrypted_size_2": "DD10F92A6624FAB6F552AFD0CA0FC5DB",
+                    "gid": "F634EA5A80628567CE7C50598306E75A",
+                    "size": "DD10F92A6624FAB6F552AFD0CA0FC5DB",
                     "download": "DD10F92A6624FAB6F552AFD0CA0FC5DB"
                 },
                 "xb1_test": {
-                    "encrypted_gid_2": "05A1C0797FBB6EF3975A09D381A51704",
-                    "encrypted_size_2": "06AA51AED311FA54AD233D6F89053806",
+                    "gid": "05A1C0797FBB6EF3975A09D381A51704",
+                    "size": "06AA51AED311FA54AD233D6F89053806",
                     "download": "06AA51AED311FA54AD233D6F89053806"
                 }
             }
@@ -400,7 +411,7 @@
         "ignoreexternalfiles": "1"
     },
     "_missing_token": false,
-    "_change_number": 18897042,
-    "_sha": "3c6cad467503840d292a0ba3470aa2ab01ab8682",
-    "_size": 11753
+    "_change_number": 18987327,
+    "_sha": "26460d2ae84718492f7ad5078afce436c91a4f27",
+    "_size": 11092
 }

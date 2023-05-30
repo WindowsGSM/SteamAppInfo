@@ -36,76 +36,106 @@
         "215": {
             "systemdefined": "1",
             "manifests": {
-                "public": "4311739070352073508"
-            },
-            "maxsize": "224344571"
+                "public": {
+                    "gid": "4311739070352073508",
+                    "size": "224344571",
+                    "download": "0"
+                }
+            }
         },
         "208": {
             "systemdefined": "1",
             "manifests": {
-                "public": "6607606726056919811"
-            },
-            "maxsize": "995522479"
+                "public": {
+                    "gid": "6607606726056919811",
+                    "size": "995522479",
+                    "download": "0"
+                }
+            }
         },
         "207": {
             "systemdefined": "1",
             "manifests": {
-                "public": "8662237756916905160"
-            },
-            "maxsize": "397557916"
+                "public": {
+                    "gid": "8662237756916905160",
+                    "size": "397557916",
+                    "download": "0"
+                }
+            }
         },
         "206": {
             "systemdefined": "1",
             "manifests": {
-                "public": "3397042702627679991"
-            },
-            "maxsize": "1038409978"
+                "public": {
+                    "gid": "3397042702627679991",
+                    "size": "1038409978",
+                    "download": "0"
+                }
+            }
         },
         "307": {
             "systemdefined": "1",
             "manifests": {
-                "public": "4320616745349668692"
-            },
-            "maxsize": "2270328"
+                "public": {
+                    "gid": "4320616745349668692",
+                    "size": "2270328",
+                    "download": "0"
+                }
+            }
         },
         "306": {
             "systemdefined": "1",
             "manifests": {
-                "public": "7375716330301856215"
-            },
-            "maxsize": "146083290"
+                "public": {
+                    "gid": "7375716330301856215",
+                    "size": "146083290",
+                    "download": "0"
+                }
+            }
         },
         "305": {
             "systemdefined": "1",
             "manifests": {
-                "public": "1641700147160657647"
-            },
-            "maxsize": "995098913"
+                "public": {
+                    "gid": "1641700147160657647",
+                    "size": "995098913",
+                    "download": "0"
+                }
+            }
         },
         "310": {
             "config": {
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "4768438366263625173"
-            },
-            "maxsize": "15209193"
+                "public": {
+                    "gid": "4768438366263625173",
+                    "size": "15209193",
+                    "download": "0"
+                }
+            }
         },
         "311": {
             "config": {
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "717814676702689187"
-            },
-            "maxsize": "31415395"
+                "public": {
+                    "gid": "717814676702689187",
+                    "size": "31415395",
+                    "download": "0"
+                }
+            }
         },
         "218": {
             "systemdefined": "1",
             "manifests": {
-                "public": "5694056452872723175"
-            },
-            "maxsize": "11059028"
+                "public": {
+                    "gid": "5694056452872723175",
+                    "size": "11059028",
+                    "download": "0"
+                }
+            }
         },
         "1004": {
             "systemdefined": "1",
@@ -113,9 +143,12 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "3578600867548439549"
+                "public": {
+                    "gid": "3578600867548439549",
+                    "size": "9662208",
+                    "download": "0"
+                }
             },
-            "maxsize": "9662208",
             "depotfromapp": "1002"
         },
         "branches": {
@@ -125,7 +158,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 11703200,
-    "_sha": "6f8f3d947abbdbe9ce14b4ebcb49240ba6e88084",
-    "_size": 2367
+    "_change_number": 18987327,
+    "_sha": "3a104863801947f1a30b497f1e82e3bca5b80a93",
+    "_size": 2840
 }

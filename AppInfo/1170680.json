@@ -46,9 +46,12 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "4660701598619066954"
+                "public": {
+                    "gid": "4660701598619066954",
+                    "size": "43850712",
+                    "download": "13716400"
+                }
             },
-            "maxsize": "43850712",
             "depotfromapp": "1007"
         },
         "1005": {
@@ -56,7 +59,11 @@
                 "oslist": "macos"
             },
             "manifests": {
-                "public": "2135359612286175146"
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
             },
             "depotfromapp": "1007"
         },
@@ -65,16 +72,18 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "6912453647411644579"
+                "public": {
+                    "gid": "6912453647411644579",
+                    "size": "72573740",
+                    "download": "20021152"
+                }
             },
-            "maxsize": "72573740",
             "depotfromapp": "1007"
         },
         "228987": {
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "29664201",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -82,7 +91,6 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "102931551",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -90,7 +98,6 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "83944258",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -224,7 +231,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18824941,
-    "_sha": "67f894cf629fce5088795fd2cc53ede88b8dab4f",
-    "_size": 5402
+    "_change_number": 18987327,
+    "_sha": "66d51b4d5e624a693b5c37877059538666367e9d",
+    "_size": 5487
 }

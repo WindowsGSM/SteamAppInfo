@@ -41,49 +41,67 @@
         "208": {
             "systemdefined": "1",
             "manifests": {
-                "public": "4485654213482970041"
+                "public": {
+                    "gid": "4485654213482970041",
+                    "size": "995705911",
+                    "download": "0"
+                }
             },
-            "maxsize": "995705911",
             "depotfromapp": "218"
         },
         "207": {
             "systemdefined": "1",
             "manifests": {
-                "public": "1119750819801277267"
+                "public": {
+                    "gid": "1119750819801277267",
+                    "size": "398094379",
+                    "download": "0"
+                }
             },
-            "maxsize": "398094379",
             "depotfromapp": "218"
         },
         "206": {
             "systemdefined": "1",
             "manifests": {
-                "public": "20269405477291195"
+                "public": {
+                    "gid": "20269405477291195",
+                    "size": "1038723685",
+                    "download": "0"
+                }
             },
-            "maxsize": "1038723685",
             "depotfromapp": "218"
         },
         "307": {
             "systemdefined": "1",
             "manifests": {
-                "public": "7905667531274231595"
+                "public": {
+                    "gid": "7905667531274231595",
+                    "size": "2270722",
+                    "download": "0"
+                }
             },
-            "maxsize": "2270722",
             "depotfromapp": "218"
         },
         "306": {
             "systemdefined": "1",
             "manifests": {
-                "public": "617289042394289763"
+                "public": {
+                    "gid": "617289042394289763",
+                    "size": "146146757",
+                    "download": "0"
+                }
             },
-            "maxsize": "146146757",
             "depotfromapp": "218"
         },
         "305": {
             "systemdefined": "1",
             "manifests": {
-                "public": "1532139850764196878"
+                "public": {
+                    "gid": "1532139850764196878",
+                    "size": "995313918",
+                    "download": "0"
+                }
             },
-            "maxsize": "995313918",
             "depotfromapp": "218"
         },
         "310": {
@@ -91,27 +109,57 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "4768438366263625173"
+                "public": {
+                    "gid": "4768438366263625173",
+                    "size": "15209193",
+                    "download": "0"
+                }
             },
-            "maxsize": "15209193",
             "depotfromapp": "218"
         },
         "17522": {
             "systemdefined": "1",
             "manifests": {
-                "public": "8038592251681110626",
-                "development": "5270415887806274846",
-                "development_20.1": "2797977215120804872",
-                "development_portaltest": "6192747336539453608",
-                "steamplayprotontest": "6954203438919956369",
-                "twitch": "4336726577734868439",
-                "version_56.15": "8038592251681110626"
+                "public": {
+                    "gid": "8038592251681110626",
+                    "size": "706792708",
+                    "download": "305583920"
+                },
+                "development": {
+                    "gid": "5270415887806274846",
+                    "size": "725588340",
+                    "download": "320962592"
+                },
+                "development_20.1": {
+                    "gid": "2797977215120804872",
+                    "size": "758394360",
+                    "download": "317919728"
+                },
+                "development_portaltest": {
+                    "gid": "6192747336539453608",
+                    "size": "758050808",
+                    "download": "317872304"
+                },
+                "steamplayprotontest": {
+                    "gid": "6954203438919956369",
+                    "size": "758042095",
+                    "download": "317862688"
+                },
+                "twitch": {
+                    "gid": "4336726577734868439",
+                    "size": "758646191",
+                    "download": "326147248"
+                },
+                "version_56.15": {
+                    "gid": "8038592251681110626",
+                    "size": "706792708",
+                    "download": "305583920"
+                }
             },
-            "maxsize": "758646191",
             "encryptedmanifests": {
                 "prerelease": {
-                    "encrypted_gid_2": "A8355C248BD7452B4D5D1641A126BD8F",
-                    "encrypted_size_2": "679429A672AD8384B95F1A54D2A684C7",
+                    "gid": "A8355C248BD7452B4D5D1641A126BD8F",
+                    "size": "679429A672AD8384B95F1A54D2A684C7",
                     "download": "F64E795AFFD1BB42012558E822E2573A"
                 }
             },
@@ -123,51 +171,25 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "3578600867548439549"
+                "public": {
+                    "gid": "3578600867548439549",
+                    "size": "9662208",
+                    "download": "0"
+                }
             },
-            "maxsize": "9662208",
             "depotfromapp": "218"
         },
         "markdlcdepots": "1",
         "branches": {
-            "public": {
-                "buildid": "131605"
-            },
             "prerelease": {
                 "buildid": "7885639",
                 "pwdrequired": "1",
                 "timeupdated": "1639540336"
-            },
-            "development": {
-                "buildid": "10125279",
-                "description": "Latest Development Branch",
-                "timeupdated": "1670800048"
-            },
-            "development_20.1": {
-                "buildid": "4561932",
-                "description": "Synergy v20.1 (unreleased)",
-                "timeupdated": "1639533240"
-            },
-            "development_portaltest": {
-                "buildid": "3233543",
-                "timeupdated": "1545450480"
-            },
-            "steamplayprotontest": {
-                "buildid": "3167537",
-                "timeupdated": "1538191797"
-            },
-            "twitch": {
-                "buildid": "4806894",
-                "timeupdated": "1584918021"
-            },
-            "version_56.15": {
-                "buildid": "693750",
-                "description": "Synergy 15.7"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 18076822,
-    "_sha": "1e9ee22e313cfc1ccf9b0f15626c91d5ba856912",
-    "_size": 3734
+    "_change_number": 18987327,
+    "_sha": "f2be56ad81c49a9453944d31538fd7d4c1a31f11",
+    "_size": 3899
 }

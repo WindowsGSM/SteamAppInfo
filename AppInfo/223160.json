@@ -31,13 +31,16 @@
         "223161": {
             "systemdefined": "1",
             "manifests": {
-                "public": "1026174995011000531"
+                "public": {
+                    "gid": "1026174995011000531",
+                    "size": "827134688",
+                    "download": "0"
+                }
             },
-            "maxsize": "827134688",
             "encryptedmanifests": {
                 "dev": {
-                    "encrypted_gid_2": "87CB5A29C029C08DCD0522F5398B25E6",
-                    "encrypted_size_2": "05132716B316E080A1372D0D8768EA4D",
+                    "gid": "87CB5A29C029C08DCD0522F5398B25E6",
+                    "size": "05132716B316E080A1372D0D8768EA4D",
                     "download": "2C6E18A39B4941A9F7448AAC3CB305DB"
                 }
             }
@@ -55,7 +58,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18076822,
-    "_sha": "c522025aa09787cca08bc9bc49f92c6d23d6292e",
-    "_size": 1122
+    "_change_number": 18987327,
+    "_sha": "58f5f27f1a3eb772c0c49f9915a60aa763781812",
+    "_size": 1141
 }

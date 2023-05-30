@@ -38,9 +38,12 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "4660701598619066954"
+                "public": {
+                    "gid": "4660701598619066954",
+                    "size": "43850712",
+                    "download": "13716400"
+                }
             },
-            "maxsize": "43850712",
             "depotfromapp": "1007"
         },
         "1005": {
@@ -48,7 +51,11 @@
                 "oslist": "macos"
             },
             "manifests": {
-                "public": "2135359612286175146"
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
             },
             "depotfromapp": "1007"
         },
@@ -57,54 +64,63 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "6912453647411644579"
+                "public": {
+                    "gid": "6912453647411644579",
+                    "size": "72573740",
+                    "download": "20021152"
+                }
             },
-            "maxsize": "72573740",
             "depotfromapp": "1007"
         },
         "228983": {
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "19265607",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
         "232131": {
             "manifests": {
-                "public": "8940023169721005466",
-                "preview": "8809900575085716755"
+                "public": {
+                    "gid": "8940023169721005466",
+                    "size": "28862550275",
+                    "download": "8112450368"
+                },
+                "preview": {
+                    "gid": "8809900575085716755",
+                    "size": "29510681879",
+                    "download": "8240111424"
+                }
             },
-            "maxsize": "29510681879",
             "encryptedmanifests": {
                 "beta": {
-                    "encrypted_gid_2": "1394CDFE20E2DC51FE6182889DB66B5F",
-                    "encrypted_size_2": "8BFB2D59A89C691166BB16E3E4BF5650",
+                    "gid": "1394CDFE20E2DC51FE6182889DB66B5F",
+                    "size": "8BFB2D59A89C691166BB16E3E4BF5650",
                     "download": "A3F8B5EEBA5B6A6DDD1EE47E404C0D83"
                 },
                 "lagtest": {
-                    "encrypted_gid_2": "A8AA6FBD896AD8EA0E6FA510CE9ECFB3",
-                    "encrypted_size_2": "271CBDFDA527FC5A56EB1E6A62C092F1",
+                    "gid": "A8AA6FBD896AD8EA0E6FA510CE9ECFB3",
+                    "size": "271CBDFDA527FC5A56EB1E6A62C092F1",
                     "download": "2090FEDB0FBF1C66C52C2A770785DC79"
                 },
                 "linuxbeta": {
-                    "encrypted_gid_2": "52A58446D4D24C81C3571638CA286209",
-                    "encrypted_size_2": "DFD27BEC968954E7E522FDB6A46FFBD8",
+                    "gid": "52A58446D4D24C81C3571638CA286209",
+                    "size": "DFD27BEC968954E7E522FDB6A46FFBD8",
                     "download": "642873FEC5AFB3F5B791DCC3DC9E60EC"
                 },
                 "ovotcotod": {
-                    "encrypted_gid_2": "1D6371217C8474CF8CDF66EDC26438AA",
-                    "encrypted_size_2": "BC3FB19DCF9AE1660880E83E5C7EFF9F",
+                    "gid": "1D6371217C8474CF8CDF66EDC26438AA",
+                    "size": "BC3FB19DCF9AE1660880E83E5C7EFF9F",
                     "download": "D2A1885DD7F806BCC8A46BCAA8532FD5"
                 },
                 "qa_test": {
-                    "encrypted_gid_2": "523D9724A46EF59EAA97EDE9B5E450A1",
-                    "encrypted_size_2": "7BABDE42B7DD0F5D72F2E2DD60C7CB74",
+                    "gid": "523D9724A46EF59EAA97EDE9B5E450A1",
+                    "size": "7BABDE42B7DD0F5D72F2E2DD60C7CB74",
                     "download": "EFAB31BBAD33B6C32F4764E9091E1315"
                 },
                 "showbuild": {
-                    "encrypted_gid_2": "0391C17A9B93798EA6370674FC83C450",
-                    "encrypted_size_2": "48D52039D4A4DB6E0168ECC5D64C0331",
+                    "gid": "0391C17A9B93798EA6370674FC83C450",
+                    "size": "48D52039D4A4DB6E0168ECC5D64C0331",
                     "download": "542ECDC34E630008663298D67412A7C6"
                 }
             }
@@ -152,7 +168,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18980076,
-    "_sha": "825dbf34bb6c38b749745803c933f87fd752e6a5",
-    "_size": 3507
+    "_change_number": 18987327,
+    "_sha": "0f9fdd7588699452dacec665675d55dc703a6e97",
+    "_size": 3631
 }

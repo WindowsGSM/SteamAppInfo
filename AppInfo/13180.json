@@ -46,10 +46,17 @@
         "13181": {
             "systemdefined": "1",
             "manifests": {
-                "public": "7800628848936793636",
-                "beta": "7800628848936793636"
-            },
-            "maxsize": "2933453659"
+                "public": {
+                    "gid": "7800628848936793636",
+                    "size": "2933453659",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "7800628848936793636",
+                    "size": "2933453659",
+                    "download": "0"
+                }
+            }
         },
         "overridescddb": "1",
         "branches": {
@@ -63,7 +70,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15577664,
-    "_sha": "453a04539b9a0e0efc08cfdaf987a7e094104a94",
-    "_size": 1562
+    "_change_number": 18987327,
+    "_sha": "f88803cc2de9407f57ce0e7c94a8b332f9c1aeca",
+    "_size": 1675
 }

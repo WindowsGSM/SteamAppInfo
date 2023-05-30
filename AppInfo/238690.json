@@ -35,15 +35,26 @@
         "238691": {
             "systemdefined": "1",
             "manifests": {
-                "public": "1935636036930935304",
-                "beta": "2939625009422351744",
-                "internalbeta": "7205591244558743304"
+                "public": {
+                    "gid": "1935636036930935304",
+                    "size": "10261288492",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "2939625009422351744",
+                    "size": "15431762947",
+                    "download": "0"
+                },
+                "internalbeta": {
+                    "gid": "7205591244558743304",
+                    "size": "5405810252",
+                    "download": "0"
+                }
             },
-            "maxsize": "15431762947",
             "encryptedmanifests": {
                 "betabrew": {
-                    "encrypted_gid_2": "B7B7B1EE4E23B2B917A460C6B7BE1C1C",
-                    "encrypted_size_2": "1F5A421325C19852390C22425C8272EB",
+                    "gid": "B7B7B1EE4E23B2B917A460C6B7BE1C1C",
+                    "size": "1F5A421325C19852390C22425C8272EB",
                     "download": "ED18BE0607DD1C8D5D6988D40D525E7C"
                 }
             }
@@ -66,7 +77,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18076822,
-    "_sha": "08764f8bd64c1b0e2dbeea550b070d3a08cf11e9",
-    "_size": 1418
+    "_change_number": 18987327,
+    "_sha": "dd02b9c8e3cc7311b5b25fe1b9be29c792b5b3fa",
+    "_size": 1578
 }

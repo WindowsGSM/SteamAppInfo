@@ -27,7 +27,6 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "9688647",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -35,7 +34,6 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "19265607",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -43,7 +41,6 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "13742505",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -51,7 +48,6 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "13699237",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -59,7 +55,6 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "102931551",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -69,13 +64,15 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "5744342002172186281"
-            },
-            "maxsize": "36474771"
+                "public": {
+                    "gid": "5744342002172186281",
+                    "size": "36474771",
+                    "download": "12019984"
+                }
+            }
         },
         "244932": {
             "systemdefined": "1",
-            "maxsize": "5687931359",
             "depotfromapp": "244930",
             "sharedinstall": "2"
         },
@@ -84,13 +81,11 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "maxsize": "101981770",
             "depotfromapp": "244930",
             "sharedinstall": "2"
         },
         "244935": {
             "systemdefined": "1",
-            "maxsize": "3955626609",
             "depotfromapp": "244930",
             "sharedinstall": "2"
         },
@@ -99,7 +94,6 @@
                 "language": "english"
             },
             "systemdefined": "1",
-            "maxsize": "2130141",
             "depotfromapp": "244930",
             "sharedinstall": "2"
         },
@@ -110,7 +104,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14630431,
-    "_sha": "0303c4df346465d05455539a15608b1c4486e123",
-    "_size": 1967
+    "_change_number": 18987327,
+    "_sha": "1e148858960cf0f100a8fd6456bcba9474e5e8d1",
+    "_size": 1788
 }

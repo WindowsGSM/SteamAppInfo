@@ -31,16 +31,22 @@
         "1273": {
             "systemdefined": "1",
             "manifests": {
-                "public": "550351460270546694"
-            },
-            "maxsize": "43900025"
+                "public": {
+                    "gid": "550351460270546694",
+                    "size": "43900025",
+                    "download": "0"
+                }
+            }
         },
         "1271": {
             "systemdefined": "1",
             "manifests": {
-                "public": "5518203134833754139"
-            },
-            "maxsize": "962848399"
+                "public": {
+                    "gid": "5518203134833754139",
+                    "size": "962848399",
+                    "download": "0"
+                }
+            }
         },
         "overridescddb": "1",
         "branches": {
@@ -50,7 +56,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 11703200,
-    "_sha": "1c52ee5c80d927b40b4d3d7181da545815d3d5ac",
-    "_size": 934
+    "_change_number": 18987327,
+    "_sha": "3fcb65eb11ea36a4b38ab866bb42b028a228df19",
+    "_size": 1020
 }

@@ -29,30 +29,51 @@
     "depots": {
         "255470": {
             "manifests": {
-                "public": "2278144969926205611",
-                "prerelease": "2278144969926205611"
-            },
-            "maxsize": "949719957"
+                "public": {
+                    "gid": "2278144969926205611",
+                    "size": "949719957",
+                    "download": "442437152"
+                },
+                "prerelease": {
+                    "gid": "2278144969926205611",
+                    "size": "949719957",
+                    "download": "442437152"
+                }
+            }
         },
         "255471": {
             "config": {
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "2924862230544282892",
-                "prerelease": "2924862230544282892"
-            },
-            "maxsize": "92717248"
+                "public": {
+                    "gid": "2924862230544282892",
+                    "size": "92717248",
+                    "download": "33381872"
+                },
+                "prerelease": {
+                    "gid": "2924862230544282892",
+                    "size": "92717248",
+                    "download": "33381872"
+                }
+            }
         },
         "255472": {
             "config": {
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "5572515540873246049",
-                "prerelease": "5572515540873246049"
-            },
-            "maxsize": "66997815"
+                "public": {
+                    "gid": "5572515540873246049",
+                    "size": "66997815",
+                    "download": "17328672"
+                },
+                "prerelease": {
+                    "gid": "5572515540873246049",
+                    "size": "66997815",
+                    "download": "17328672"
+                }
+            }
         },
         "overridescddb": "1",
         "branches": {
@@ -67,7 +88,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15577664,
-    "_sha": "58b596b7f60cf3bedb84dec6fa96012e0e0c3245",
-    "_size": 1513
+    "_change_number": 18987327,
+    "_sha": "781b8aacdc61ce1482ba25f74e920f1cff7fae30",
+    "_size": 1891
 }

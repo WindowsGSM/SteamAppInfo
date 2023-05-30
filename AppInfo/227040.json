@@ -33,13 +33,15 @@
         "227041": {
             "systemdefined": "1",
             "manifests": {
-                "public": "8378757849758416253"
-            },
-            "maxsize": "4090269"
+                "public": {
+                    "gid": "8378757849758416253",
+                    "size": "4090269",
+                    "download": "1587680"
+                }
+            }
         },
         "223531": {
             "systemdefined": "1",
-            "maxsize": "19302742508",
             "depotfromapp": "223530",
             "sharedinstall": "2"
         },
@@ -52,7 +54,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 17412779,
-    "_sha": "a7a07917f4e9d9456b2cdd8d87e5c13f70a1f746",
-    "_size": 992
+    "_change_number": 18987327,
+    "_sha": "398b33854c553572aabbc3c26e2bb7b6398308a5",
+    "_size": 1013
 }

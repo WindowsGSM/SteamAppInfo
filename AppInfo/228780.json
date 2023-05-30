@@ -54,9 +54,12 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "4660701598619066954"
+                "public": {
+                    "gid": "4660701598619066954",
+                    "size": "43850712",
+                    "download": "13716400"
+                }
             },
-            "maxsize": "43850712",
             "depotfromapp": "1007"
         },
         "1005": {
@@ -64,7 +67,11 @@
                 "oslist": "macos"
             },
             "manifests": {
-                "public": "2135359612286175146"
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
             },
             "depotfromapp": "1007"
         },
@@ -73,16 +80,18 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "6912453647411644579"
+                "public": {
+                    "gid": "6912453647411644579",
+                    "size": "72573740",
+                    "download": "20021152"
+                }
             },
-            "maxsize": "72573740",
             "depotfromapp": "1007"
         },
         "228983": {
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "19265607",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -90,7 +99,6 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "242743889",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -98,13 +106,11 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "267964564",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
         "225601": {
             "systemdefined": "1",
-            "maxsize": "6567691637",
             "depotfromapp": "225600",
             "sharedinstall": "2"
         },
@@ -114,25 +120,36 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "3593514763180227461",
-                "release_candidate": "3593514763180227461",
-                "unharmonious": "5248850657780698129"
+                "public": {
+                    "gid": "3593514763180227461",
+                    "size": "144438110",
+                    "download": "37502608"
+                },
+                "release_candidate": {
+                    "gid": "3593514763180227461",
+                    "size": "144438110",
+                    "download": "37502608"
+                },
+                "unharmonious": {
+                    "gid": "5248850657780698129",
+                    "size": "63289855",
+                    "download": "21319040"
+                }
             },
-            "maxsize": "144438110",
             "encryptedmanifests": {
                 "jenkins_builds": {
-                    "encrypted_gid_2": "E5CE50219A6937CECDEB4C623E05C29F",
-                    "encrypted_size_2": "9055D1B829E05D821608CD8EB0EAA814",
+                    "gid": "E5CE50219A6937CECDEB4C623E05C29F",
+                    "size": "9055D1B829E05D821608CD8EB0EAA814",
                     "download": "75019151284D75398DBE8126083F8D61"
                 },
                 "nightly": {
-                    "encrypted_gid_2": "7AA8F27D2AC866E1FA75FBBF5A8B3CED",
-                    "encrypted_size_2": "2FE66D2BE6AD05FF0B1B9E0D08372E58",
+                    "gid": "7AA8F27D2AC866E1FA75FBBF5A8B3CED",
+                    "size": "2FE66D2BE6AD05FF0B1B9E0D08372E58",
                     "download": "615D6173B67F4B9A53AC003CDAAC78B3"
                 },
                 "nightly-prod": {
-                    "encrypted_gid_2": "64CC7AF852C6BD02484887DBC803C775",
-                    "encrypted_size_2": "A3E768DE7F6D66A988E8395F577ADA94",
+                    "gid": "64CC7AF852C6BD02484887DBC803C775",
+                    "size": "A3E768DE7F6D66A988E8395F577ADA94",
                     "download": "B6EA5DFCA50BFFD67DB7CCC8D3D3BDC1"
                 }
             }
@@ -143,25 +160,36 @@
             },
             "systemdefined": "1",
             "manifests": {
-                "public": "6090409651375001043",
-                "release_candidate": "6090409651375001043",
-                "unharmonious": "3122610084588606763"
+                "public": {
+                    "gid": "6090409651375001043",
+                    "size": "178409151",
+                    "download": "60985936"
+                },
+                "release_candidate": {
+                    "gid": "6090409651375001043",
+                    "size": "178409151",
+                    "download": "60985936"
+                },
+                "unharmonious": {
+                    "gid": "3122610084588606763",
+                    "size": "111648835",
+                    "download": "42602688"
+                }
             },
-            "maxsize": "178409151",
             "encryptedmanifests": {
                 "jenkins_builds": {
-                    "encrypted_gid_2": "8F4F11B6671AF995E36796A7E92E1F23",
-                    "encrypted_size_2": "71E6B03504C6B50511240E141694A777",
+                    "gid": "8F4F11B6671AF995E36796A7E92E1F23",
+                    "size": "71E6B03504C6B50511240E141694A777",
                     "download": "F5FF09F4F0E7CC1FBFED2EE34E801079"
                 },
                 "nightly": {
-                    "encrypted_gid_2": "1EB257A1406352E4F7426ED500BAA3AF",
-                    "encrypted_size_2": "A3B2BD56F1EAF22E22F8F55ABB7C122D",
+                    "gid": "1EB257A1406352E4F7426ED500BAA3AF",
+                    "size": "A3B2BD56F1EAF22E22F8F55ABB7C122D",
                     "download": "C41DA7A054DF2951AE7B20972476FC4F"
                 },
                 "nightly-prod": {
-                    "encrypted_gid_2": "F9473B0E9F94B6DCC4BCDD046D937C1A",
-                    "encrypted_size_2": "3E45E2E210D1E876C842FD0C2D3B47DD",
+                    "gid": "F9473B0E9F94B6DCC4BCDD046D937C1A",
+                    "size": "3E45E2E210D1E876C842FD0C2D3B47DD",
                     "download": "B8AE821A222C5467817B86384A5801F1"
                 }
             }
@@ -172,14 +200,21 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "6289540402655901251",
-                "release_candidate": "6289540402655901251"
+                "public": {
+                    "gid": "6289540402655901251",
+                    "size": "156325636",
+                    "download": "43395936"
+                },
+                "release_candidate": {
+                    "gid": "6289540402655901251",
+                    "size": "156325636",
+                    "download": "43395936"
+                }
             },
-            "maxsize": "156325636",
             "encryptedmanifests": {
                 "jenkins_builds": {
-                    "encrypted_gid_2": "183CADB406301EB7A910DE7759A399B2",
-                    "encrypted_size_2": "1F72ADC5D92E1AEEF48E14D4F42A9929",
+                    "gid": "183CADB406301EB7A910DE7759A399B2",
+                    "size": "1F72ADC5D92E1AEEF48E14D4F42A9929",
                     "download": "D29F0D0F63BCB1659C3827B1C67F9DB5"
                 }
             }
@@ -216,7 +251,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "9161f1323d96721c3ee0a497dbe730655b618b8c",
-    "_size": 5069
+    "_change_number": 18987327,
+    "_sha": "6b5fc9e8aeaef37703f20b01a27d002c44aba855",
+    "_size": 5487
 }

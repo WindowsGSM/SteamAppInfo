@@ -59,28 +59,30 @@
         "4232": {
             "systemdefined": "1",
             "manifests": {
-                "public": "2738374821109609842"
+                "public": {
+                    "gid": "2738374821109609842",
+                    "size": "499306752",
+                    "download": "0"
+                }
             },
-            "maxsize": "499306752",
             "depotfromapp": "4230"
         },
         "4231": {
             "systemdefined": "1",
             "manifests": {
-                "public": "6226423127447119883"
+                "public": {
+                    "gid": "6226423127447119883",
+                    "size": "628748272",
+                    "download": "0"
+                }
             },
-            "maxsize": "628748272",
             "depotfromapp": "4230"
         },
         "markdlcdepots": "0",
-        "branches": {
-            "public": {
-                "buildid": "105485"
-            }
-        }
+        "branches": {}
     },
     "_missing_token": false,
-    "_change_number": 11703200,
-    "_sha": "881787e3e5dad19d19a8ed6fcf0f95037b8644ee",
-    "_size": 1584
+    "_change_number": 18987327,
+    "_sha": "e32a80df2a3d77b61becccad53aeafd6fed71d19",
+    "_size": 1624
 }

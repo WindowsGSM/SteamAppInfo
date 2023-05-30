@@ -26,26 +26,32 @@
     "depots": {
         "1251": {
             "manifests": {
-                "public": "9033622738747915238"
+                "public": {
+                    "gid": "9033622738747915238",
+                    "size": "2262659300",
+                    "download": "764255856"
+                }
             },
-            "maxsize": "2262659300",
             "encryptedmanifests": {
                 "internalbeta": {
-                    "encrypted_gid_2": "4D5D71778DDE1B966A4634658AFA90A3",
-                    "encrypted_size_2": "515EC8C7AF54B5FE0A13CA208C8CA1D5",
+                    "gid": "4D5D71778DDE1B966A4634658AFA90A3",
+                    "size": "515EC8C7AF54B5FE0A13CA208C8CA1D5",
                     "download": "8274D1AA99689A46204AC8C292A655BB"
                 }
             }
         },
         "1254": {
             "manifests": {
-                "public": "92904673321000717"
+                "public": {
+                    "gid": "92904673321000717",
+                    "size": "117202803",
+                    "download": "70830416"
+                }
             },
-            "maxsize": "117202803",
             "encryptedmanifests": {
                 "internalbeta": {
-                    "encrypted_gid_2": "1BCDE29C903E647DB2A20F65105F1069",
-                    "encrypted_size_2": "48B018C1D183F258F83CBDF6166C2D30",
+                    "gid": "1BCDE29C903E647DB2A20F65105F1069",
+                    "size": "48B018C1D183F258F83CBDF6166C2D30",
                     "download": "F52EFA149E6E00AC37DA61F25418A039"
                 }
             }
@@ -64,7 +70,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18076822,
-    "_sha": "e926a8acd65a5a2bd82c73d5b69cc4de6d70c098",
-    "_size": 1466
+    "_change_number": 18987327,
+    "_sha": "e65670903789cf5a420b92a493371e395b699e4f",
+    "_size": 1519
 }

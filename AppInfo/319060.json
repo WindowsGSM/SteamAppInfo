@@ -36,9 +36,12 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "4660701598619066954"
+                "public": {
+                    "gid": "4660701598619066954",
+                    "size": "43850712",
+                    "download": "13716400"
+                }
             },
-            "maxsize": "43850712",
             "depotfromapp": "1007"
         },
         "1005": {
@@ -46,7 +49,11 @@
                 "oslist": "macos"
             },
             "manifests": {
-                "public": "2135359612286175146"
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
             },
             "depotfromapp": "1007"
         },
@@ -55,28 +62,41 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "6912453647411644579"
+                "public": {
+                    "gid": "6912453647411644579",
+                    "size": "72573740",
+                    "download": "20021152"
+                }
             },
-            "maxsize": "72573740",
             "depotfromapp": "1007"
         },
         "319061": {
             "manifests": {
-                "public": "8837973745549879133"
-            },
-            "maxsize": "231524"
+                "public": {
+                    "gid": "8837973745549879133",
+                    "size": "231524",
+                    "download": "163312"
+                }
+            }
         },
         "270371": {
             "systemdefined": "1",
             "manifests": {
-                "public": "3648697680421550019",
-                "dev": "3648697680421550019"
+                "public": {
+                    "gid": "3648697680421550019",
+                    "size": "5469774194",
+                    "download": "2644132352"
+                },
+                "dev": {
+                    "gid": "3648697680421550019",
+                    "size": "5469774194",
+                    "download": "2644132352"
+                }
             },
-            "maxsize": "5469774194",
             "encryptedmanifests": {
                 "lwgo": {
-                    "encrypted_gid_2": "28A9D8E1932716ED7256637D95955FA1",
-                    "encrypted_size_2": "9E9ACA24D1FB9C28B78229D1A71EAD39",
+                    "gid": "28A9D8E1932716ED7256637D95955FA1",
+                    "size": "9E9ACA24D1FB9C28B78229D1A71EAD39",
                     "download": "AFDE18A2AF5065A87E9651D322ED407A"
                 }
             },
@@ -90,16 +110,11 @@
                 "buildid": "5819217",
                 "pwdrequired": "1",
                 "timeupdated": "1605164504"
-            },
-            "dev": {
-                "buildid": "7179292",
-                "description": "Development",
-                "timeupdated": "1628773284"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "fbe8e2beaa982a5a96d07d2087bbf5d030dafe5f",
-    "_size": 2130
+    "_change_number": 18987327,
+    "_sha": "a9c4495384e88153d91c05b27c7c6467e4f1a306",
+    "_size": 2337
 }

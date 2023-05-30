@@ -35,14 +35,21 @@
         "1202": {
             "systemdefined": "1",
             "manifests": {
-                "public": "4949883742343107584",
-                "test": "4949883742343107584"
+                "public": {
+                    "gid": "4949883742343107584",
+                    "size": "1625991025",
+                    "download": "0"
+                },
+                "test": {
+                    "gid": "4949883742343107584",
+                    "size": "1625991025",
+                    "download": "0"
+                }
             },
-            "maxsize": "1625991025",
             "encryptedmanifests": {
                 "internalbeta": {
-                    "encrypted_gid_2": "2A145904BAF0081960F5E7DFAA8AA9EE",
-                    "encrypted_size_2": "CD84E5E85B635FAAA1EAC6171C63710F",
+                    "gid": "2A145904BAF0081960F5E7DFAA8AA9EE",
+                    "size": "CD84E5E85B635FAAA1EAC6171C63710F",
                     "download": "8C6893156AF6DE7DF44EE4ABA9E759AC"
                 }
             },
@@ -51,14 +58,21 @@
         "1201": {
             "systemdefined": "1",
             "manifests": {
-                "public": "6489912254443979140",
-                "test": "6489912254443979140"
+                "public": {
+                    "gid": "6489912254443979140",
+                    "size": "1117646336",
+                    "download": "0"
+                },
+                "test": {
+                    "gid": "6489912254443979140",
+                    "size": "1117646336",
+                    "download": "0"
+                }
             },
-            "maxsize": "1117646336",
             "encryptedmanifests": {
                 "internalbeta": {
-                    "encrypted_gid_2": "82C02C2FA96F23F9DD85CA0A3138560D",
-                    "encrypted_size_2": "052F817F6425A9135B3240C2AA7C768B",
+                    "gid": "82C02C2FA96F23F9DD85CA0A3138560D",
+                    "size": "052F817F6425A9135B3240C2AA7C768B",
                     "download": "8C6893156AF6DE7DF44EE4ABA9E759AC"
                 }
             },
@@ -67,16 +81,22 @@
         "1241": {
             "systemdefined": "1",
             "manifests": {
-                "public": "8298327769126191331"
-            },
-            "maxsize": "180335411"
+                "public": {
+                    "gid": "8298327769126191331",
+                    "size": "180335411",
+                    "download": "0"
+                }
+            }
         },
         "1231": {
             "systemdefined": "1",
             "manifests": {
-                "public": "5587099044393371997"
+                "public": {
+                    "gid": "5587099044393371997",
+                    "size": "612378981",
+                    "download": "0"
+                }
             },
-            "maxsize": "612378981",
             "depotfromapp": "1230"
         },
         "overridescddb": "1",
@@ -87,14 +107,11 @@
             "internalbeta": {
                 "buildid": "56804",
                 "pwdrequired": "1"
-            },
-            "test": {
-                "buildid": "56461"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 18076822,
-    "_sha": "9293cffac81bd03bfb0c952d6e1814640d3897f8",
-    "_size": 2218
+    "_change_number": 18987327,
+    "_sha": "e5e74bfaf32727567398c4ce424676855b85754a",
+    "_size": 2439
 }

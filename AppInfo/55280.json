@@ -32,9 +32,12 @@
         "55281": {
             "systemdefined": "1",
             "manifests": {
-                "public": "383001228574117197"
-            },
-            "maxsize": "2026264419"
+                "public": {
+                    "gid": "383001228574117197",
+                    "size": "2026264419",
+                    "download": "0"
+                }
+            }
         },
         "overridescddb": "1",
         "branches": {
@@ -44,7 +47,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 11703200,
-    "_sha": "694689d0e35890f5a12c8cfa9d8ba519335f4a99",
-    "_size": 817
+    "_change_number": 18987327,
+    "_sha": "1d5213177dcb3abb9c7554763cc8ba5d834b88f2",
+    "_size": 860
 }

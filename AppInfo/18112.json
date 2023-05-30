@@ -31,9 +31,12 @@
         "18112": {
             "systemdefined": "1",
             "manifests": {
-                "public": "1120607502387180125"
-            },
-            "maxsize": "260903206"
+                "public": {
+                    "gid": "1120607502387180125",
+                    "size": "260903206",
+                    "download": "0"
+                }
+            }
         },
         "overridescddb": "1",
         "branches": {
@@ -43,7 +46,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 11703200,
-    "_sha": "38b0ccd9aeff0737ab433f6e2f94d85a7c08163a",
-    "_size": 879
+    "_change_number": 18987327,
+    "_sha": "f8c1774b9cbe725cd12176e94b8c95949c8e420e",
+    "_size": 922
 }

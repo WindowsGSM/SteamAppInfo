@@ -36,13 +36,11 @@
             "config": {
                 "language": ""
             },
-            "maxsize": "429833890",
             "depotfromapp": "70",
             "sharedinstall": "2"
         },
         "11": {
             "systemdefined": "1",
-            "maxsize": "292616113",
             "depotfromapp": "10",
             "sharedinstall": "2"
         },
@@ -51,33 +49,45 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "8690279432129063737",
-                "beta": "8690279432129063737"
-            },
-            "maxsize": "25737094"
+                "public": {
+                    "gid": "8690279432129063737",
+                    "size": "25737094",
+                    "download": "8090192"
+                },
+                "beta": {
+                    "gid": "8690279432129063737",
+                    "size": "25737094",
+                    "download": "8090192"
+                }
+            }
         },
         "5": {
             "config": {
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "1292976893473204445",
-                "beta": "1292976893473204445"
-            },
-            "maxsize": "12788205"
+                "public": {
+                    "gid": "1292976893473204445",
+                    "size": "12788205",
+                    "download": "4814512"
+                },
+                "beta": {
+                    "gid": "1292976893473204445",
+                    "size": "12788205",
+                    "download": "4814512"
+                }
+            }
         },
         "71": {
             "systemdefined": "1",
             "config": {
                 "language": ""
             },
-            "maxsize": "15302314",
             "depotfromapp": "70",
             "sharedinstall": "2"
         },
         "81": {
             "systemdefined": "1",
-            "maxsize": "415387682",
             "depotfromapp": "80",
             "sharedinstall": "2",
             "config": {
@@ -86,7 +96,6 @@
         },
         "31": {
             "systemdefined": "1",
-            "maxsize": "391387184",
             "depotfromapp": "30",
             "sharedinstall": "2",
             "config": {
@@ -95,7 +104,6 @@
         },
         "21": {
             "systemdefined": "1",
-            "maxsize": "124989202",
             "depotfromapp": "20",
             "sharedinstall": "2",
             "config": {
@@ -104,7 +112,6 @@
         },
         "41": {
             "systemdefined": "1",
-            "maxsize": "48239254",
             "depotfromapp": "40",
             "sharedinstall": "2",
             "config": {
@@ -113,7 +120,6 @@
         },
         "61": {
             "systemdefined": "1",
-            "maxsize": "17605146",
             "depotfromapp": "60",
             "sharedinstall": "2",
             "config": {
@@ -122,7 +128,6 @@
         },
         "51": {
             "systemdefined": "1",
-            "maxsize": "286265390",
             "depotfromapp": "50",
             "sharedinstall": "2",
             "config": {
@@ -134,9 +139,12 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "4660701598619066954"
+                "public": {
+                    "gid": "4660701598619066954",
+                    "size": "43850712",
+                    "download": "13716400"
+                }
             },
-            "maxsize": "43850712",
             "depotfromapp": "1007"
         },
         "1005": {
@@ -144,7 +152,11 @@
                 "oslist": "macos"
             },
             "manifests": {
-                "public": "2135359612286175146"
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
             },
             "depotfromapp": "1007"
         },
@@ -153,9 +165,12 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "6912453647411644579"
+                "public": {
+                    "gid": "6912453647411644579",
+                    "size": "72573740",
+                    "download": "20021152"
+                }
             },
-            "maxsize": "72573740",
             "depotfromapp": "1007"
         },
         "overridescddb": "1",
@@ -171,7 +186,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "374ce088bf2ccaf33e470b28f319c37aa14a1dff",
-    "_size": 2982
+    "_change_number": 18987327,
+    "_sha": "dabca5e566ab353f7293ffd365a2945c972bea05",
+    "_size": 3158
 }

@@ -26,21 +26,31 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "2260007545368723570"
-            },
-            "maxsize": "83600166"
+                "public": {
+                    "gid": "2260007545368723570",
+                    "size": "83600166",
+                    "download": "0"
+                }
+            }
         },
         "1201": {
             "systemdefined": "1",
             "manifests": {
-                "public": "6489912254443979140",
-                "test": "6489912254443979140"
+                "public": {
+                    "gid": "6489912254443979140",
+                    "size": "1117646336",
+                    "download": "0"
+                },
+                "test": {
+                    "gid": "6489912254443979140",
+                    "size": "1117646336",
+                    "download": "0"
+                }
             },
-            "maxsize": "1117646336",
             "encryptedmanifests": {
                 "internalbeta": {
-                    "encrypted_gid_2": "82C02C2FA96F23F9DD85CA0A3138560D",
-                    "encrypted_size_2": "052F817F6425A9135B3240C2AA7C768B",
+                    "gid": "82C02C2FA96F23F9DD85CA0A3138560D",
+                    "size": "052F817F6425A9135B3240C2AA7C768B",
                     "download": "8C6893156AF6DE7DF44EE4ABA9E759AC"
                 }
             },
@@ -55,14 +65,11 @@
             "internalbeta": {
                 "buildid": "56804",
                 "pwdrequired": "1"
-            },
-            "test": {
-                "buildid": "56461"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 18076822,
-    "_sha": "f306f44039215c5218a05e95923bf793e5cd3846",
-    "_size": 1272
+    "_change_number": 18987327,
+    "_sha": "3fb87a189aa2c40eb485809b7730685cb10e06a1",
+    "_size": 1361
 }

@@ -35,17 +35,23 @@
         "8604": {
             "systemdefined": "1",
             "manifests": {
-                "public": "7963520296699615963"
+                "public": {
+                    "gid": "7963520296699615963",
+                    "size": "127104449",
+                    "download": "0"
+                }
             },
-            "maxsize": "127104449",
             "depotfromapp": "8650"
         },
         "4261": {
             "systemdefined": "1",
             "manifests": {
-                "public": "637215948742709402"
+                "public": {
+                    "gid": "637215948742709402",
+                    "size": "552637440",
+                    "download": "0"
+                }
             },
-            "maxsize": "552637440",
             "depotfromapp": "4260"
         },
         "1004": {
@@ -54,19 +60,18 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "3578600867548439549"
+                "public": {
+                    "gid": "3578600867548439549",
+                    "size": "9662208",
+                    "download": "0"
+                }
             },
-            "maxsize": "9662208",
             "depotfromapp": "1002"
         },
-        "branches": {
-            "public": {
-                "buildid": "11257"
-            }
-        }
+        "branches": {}
     },
     "_missing_token": false,
-    "_change_number": 11703200,
-    "_sha": "7d014c33efd926459d94c2e186a1484ae8a0b412",
-    "_size": 1421
+    "_change_number": 18987327,
+    "_sha": "a5d0ae0454b3e1de6d3c2603d4612791230189bf",
+    "_size": 1505
 }

@@ -36,9 +36,12 @@
         "34121": {
             "systemdefined": "1",
             "manifests": {
-                "public": "7826305043247985191"
-            },
-            "maxsize": "2971712270"
+                "public": {
+                    "gid": "7826305043247985191",
+                    "size": "2971712270",
+                    "download": "0"
+                }
+            }
         },
         "overridescddb": "1",
         "branches": {
@@ -48,7 +51,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 11703200,
-    "_sha": "492f33e97af88c5f9a22d0ace34e9f4e82fcf091",
-    "_size": 1094
+    "_change_number": 18987327,
+    "_sha": "7bf96abf55bcbec58ff28fd611f4ee78038b7d57",
+    "_size": 1137
 }

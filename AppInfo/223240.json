@@ -23,21 +23,31 @@
     "depots": {
         "1203": {
             "manifests": {
-                "public": "8601396498861475063"
-            },
-            "maxsize": "56599655"
+                "public": {
+                    "gid": "8601396498861475063",
+                    "size": "56599655",
+                    "download": "0"
+                }
+            }
         },
         "1201": {
             "systemdefined": "1",
             "manifests": {
-                "public": "6489912254443979140",
-                "test": "6489912254443979140"
+                "public": {
+                    "gid": "6489912254443979140",
+                    "size": "1117646336",
+                    "download": "0"
+                },
+                "test": {
+                    "gid": "6489912254443979140",
+                    "size": "1117646336",
+                    "download": "0"
+                }
             },
-            "maxsize": "1117646336",
             "encryptedmanifests": {
                 "internalbeta": {
-                    "encrypted_gid_2": "82C02C2FA96F23F9DD85CA0A3138560D",
-                    "encrypted_size_2": "052F817F6425A9135B3240C2AA7C768B",
+                    "gid": "82C02C2FA96F23F9DD85CA0A3138560D",
+                    "size": "052F817F6425A9135B3240C2AA7C768B",
                     "download": "8C6893156AF6DE7DF44EE4ABA9E759AC"
                 }
             },
@@ -52,14 +62,11 @@
             "internalbeta": {
                 "buildid": "56804",
                 "pwdrequired": "1"
-            },
-            "test": {
-                "buildid": "56461"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 18076822,
-    "_sha": "b88172950940b559c2a2939f836727112ab00366",
-    "_size": 1232
+    "_change_number": 18987327,
+    "_sha": "556d0d09a139bf641761ad7333804880803799d2",
+    "_size": 1321
 }

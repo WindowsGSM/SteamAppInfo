@@ -40,7 +40,6 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "19265607",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -48,7 +47,6 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "13742505",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -56,7 +54,6 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "102931551",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -65,18 +62,24 @@
         "203301": {
             "systemdefined": "1",
             "manifests": {
-                "public": "8293858377451486443"
-            },
-            "maxsize": "2215628915"
+                "public": {
+                    "gid": "8293858377451486443",
+                    "size": "2215628915",
+                    "download": "970686448"
+                }
+            }
         },
         "203302": {
             "config": {
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "5392429432907816915"
-            },
-            "maxsize": "142062333"
+                "public": {
+                    "gid": "5392429432907816915",
+                    "size": "142062333",
+                    "download": "53195952"
+                }
+            }
         },
         "203303": {
             "config": {
@@ -84,9 +87,12 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "2586890273536726424"
-            },
-            "maxsize": "77148618"
+                "public": {
+                    "gid": "2586890273536726424",
+                    "size": "77148618",
+                    "download": "21171792"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -101,7 +107,7 @@
         "hidecloudui": "0"
     },
     "_missing_token": false,
-    "_change_number": 14702045,
-    "_sha": "38a4ce7c8159e5956f21ad3d2da50693cb221fd1",
-    "_size": 1928
+    "_change_number": 18987327,
+    "_sha": "a2e6ca1d1b1dd15d340fc50a0c5abcb64eb4d50a",
+    "_size": 2003
 }

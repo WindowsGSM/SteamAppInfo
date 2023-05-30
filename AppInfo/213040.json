@@ -33,9 +33,12 @@
         "213041": {
             "systemdefined": "1",
             "manifests": {
-                "public": "8902071649473034224"
-            },
-            "maxsize": "1327212040"
+                "public": {
+                    "gid": "8902071649473034224",
+                    "size": "1327212040",
+                    "download": "923796528"
+                }
+            }
         },
         "overridescddb": "1",
         "branches": {
@@ -46,7 +49,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 11703200,
-    "_sha": "8d62670e77df80962df4e951eac71d9750742577",
-    "_size": 957
+    "_change_number": 18987327,
+    "_sha": "ddc46d903a7f2dc6ce71e540b43fe17648f6b997",
+    "_size": 1008
 }

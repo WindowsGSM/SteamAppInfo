@@ -40,49 +40,67 @@
         "208": {
             "systemdefined": "1",
             "manifests": {
-                "public": "6607606726056919811"
+                "public": {
+                    "gid": "6607606726056919811",
+                    "size": "995522479",
+                    "download": "0"
+                }
             },
-            "maxsize": "995522479",
             "depotfromapp": "310"
         },
         "207": {
             "systemdefined": "1",
             "manifests": {
-                "public": "8662237756916905160"
+                "public": {
+                    "gid": "8662237756916905160",
+                    "size": "397557916",
+                    "download": "0"
+                }
             },
-            "maxsize": "397557916",
             "depotfromapp": "310"
         },
         "206": {
             "systemdefined": "1",
             "manifests": {
-                "public": "3397042702627679991"
+                "public": {
+                    "gid": "3397042702627679991",
+                    "size": "1038409978",
+                    "download": "0"
+                }
             },
-            "maxsize": "1038409978",
             "depotfromapp": "310"
         },
         "307": {
             "systemdefined": "1",
             "manifests": {
-                "public": "4320616745349668692"
+                "public": {
+                    "gid": "4320616745349668692",
+                    "size": "2270328",
+                    "download": "0"
+                }
             },
-            "maxsize": "2270328",
             "depotfromapp": "310"
         },
         "306": {
             "systemdefined": "1",
             "manifests": {
-                "public": "7375716330301856215"
+                "public": {
+                    "gid": "7375716330301856215",
+                    "size": "146083290",
+                    "download": "0"
+                }
             },
-            "maxsize": "146083290",
             "depotfromapp": "310"
         },
         "305": {
             "systemdefined": "1",
             "manifests": {
-                "public": "1641700147160657647"
+                "public": {
+                    "gid": "1641700147160657647",
+                    "size": "995098913",
+                    "download": "0"
+                }
             },
-            "maxsize": "995098913",
             "depotfromapp": "310"
         },
         "310": {
@@ -90,9 +108,12 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "4768438366263625173"
+                "public": {
+                    "gid": "4768438366263625173",
+                    "size": "15209193",
+                    "download": "0"
+                }
             },
-            "maxsize": "15209193",
             "depotfromapp": "310"
         },
         "311": {
@@ -100,18 +121,28 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "717814676702689187"
+                "public": {
+                    "gid": "717814676702689187",
+                    "size": "31415395",
+                    "download": "0"
+                }
             },
-            "maxsize": "31415395",
             "depotfromapp": "310"
         },
         "17511": {
             "systemdefined": "1",
             "manifests": {
-                "public": "2368255196544065107",
-                "steampipe": "2622008280805019534"
+                "public": {
+                    "gid": "2368255196544065107",
+                    "size": "2848538702",
+                    "download": "0"
+                },
+                "steampipe": {
+                    "gid": "2622008280805019534",
+                    "size": "2849015915",
+                    "download": "0"
+                }
             },
-            "maxsize": "2849015915",
             "depotfromapp": "17510"
         },
         "1004": {
@@ -120,23 +151,19 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "3578600867548439549"
+                "public": {
+                    "gid": "3578600867548439549",
+                    "size": "9662208",
+                    "download": "0"
+                }
             },
-            "maxsize": "9662208",
             "depotfromapp": "1002"
         },
         "markdlcdepots": "1",
-        "branches": {
-            "public": {
-                "buildid": "195543"
-            },
-            "steampipe": {
-                "buildid": "86963"
-            }
-        }
+        "branches": {}
     },
     "_missing_token": false,
-    "_change_number": 14367404,
-    "_sha": "24b68aee305a0c7fc8a72888bcc32e541445ab69",
-    "_size": 2801
+    "_change_number": 18987327,
+    "_sha": "e670eb2d84b365e161cbf0f71d9b17059b1351f8",
+    "_size": 3207
 }

@@ -55,9 +55,12 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "4660701598619066954"
+                "public": {
+                    "gid": "4660701598619066954",
+                    "size": "43850712",
+                    "download": "13716400"
+                }
             },
-            "maxsize": "43850712",
             "depotfromapp": "1007"
         },
         "1005": {
@@ -65,7 +68,11 @@
                 "oslist": "macos"
             },
             "manifests": {
-                "public": "2135359612286175146"
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
             },
             "depotfromapp": "1007"
         },
@@ -74,33 +81,54 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "6912453647411644579"
+                "public": {
+                    "gid": "6912453647411644579",
+                    "size": "72573740",
+                    "download": "20021152"
+                }
             },
-            "maxsize": "72573740",
             "depotfromapp": "1007"
         },
         "228990": {
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "102931551",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
         "237411": {
             "systemdefined": "1",
             "manifests": {
-                "public": "282822711473047799",
-                "beta": "282822711473047799",
-                "hotfix": "282822711473047799",
-                "pre_beta": "507305593333031116",
-                "valve_server": "282822711473047799"
+                "public": {
+                    "gid": "282822711473047799",
+                    "size": "9365288020",
+                    "download": "4904353120"
+                },
+                "beta": {
+                    "gid": "282822711473047799",
+                    "size": "9365288020",
+                    "download": "4904353120"
+                },
+                "hotfix": {
+                    "gid": "282822711473047799",
+                    "size": "9365288020",
+                    "download": "4904353120"
+                },
+                "pre_beta": {
+                    "gid": "507305593333031116",
+                    "size": "8549501127",
+                    "download": "4376288944"
+                },
+                "valve_server": {
+                    "gid": "282822711473047799",
+                    "size": "9365288020",
+                    "download": "4904353120"
+                }
             },
-            "maxsize": "9365288020",
             "encryptedmanifests": {
                 "competitive": {
-                    "encrypted_gid_2": "2EB55C24CE3032DFB1AA919246484079",
-                    "encrypted_size_2": "7904A24CBE685544BE5D549C3CAA7305",
+                    "gid": "2EB55C24CE3032DFB1AA919246484079",
+                    "size": "7904A24CBE685544BE5D549C3CAA7305",
                     "download": "AED899C738E2CC3F0F24A6A46314C23D"
                 }
             }
@@ -135,7 +163,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "f63759a4cf484f988731bfd29109380b6a5fa0d2",
-    "_size": 2716
+    "_change_number": 18987327,
+    "_sha": "0652faaf7ab386f8380242c76bc34f0a26c565cc",
+    "_size": 3195
 }

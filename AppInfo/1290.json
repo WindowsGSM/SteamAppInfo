@@ -35,25 +35,36 @@
         "1281": {
             "systemdefined": "1",
             "manifests": {
-                "public": "8170851450045921598",
-                "legacy-v6.0.0": "4376981082077672751",
-                "previous": "9010623618386807462"
+                "public": {
+                    "gid": "8170851450045921598",
+                    "size": "9356250959",
+                    "download": "2593313920"
+                },
+                "legacy-v6.0.0": {
+                    "gid": "4376981082077672751",
+                    "size": "2130157052",
+                    "download": "627444112"
+                },
+                "previous": {
+                    "gid": "9010623618386807462",
+                    "size": "9990207878",
+                    "download": "2691708768"
+                }
             },
-            "maxsize": "9990207878",
             "encryptedmanifests": {
                 "development": {
-                    "encrypted_gid_2": "33140EDABBBE26D155150C3E38F51199",
-                    "encrypted_size_2": "67379AA9816BC1C6BA98A08AA2DEA91A",
+                    "gid": "33140EDABBBE26D155150C3E38F51199",
+                    "size": "67379AA9816BC1C6BA98A08AA2DEA91A",
                     "download": "40332AA4A44192305EAE92674960ACBC"
                 },
                 "playtest": {
-                    "encrypted_gid_2": "31B32CB9979E7C6B846A2F3FF3C0890A",
-                    "encrypted_size_2": "7CA411E9AFCB278671C097DA3F3EC3BD",
+                    "gid": "31B32CB9979E7C6B846A2F3FF3C0890A",
+                    "size": "7CA411E9AFCB278671C097DA3F3EC3BD",
                     "download": "007D535D8D1842A8155E02FC655DEFCE"
                 },
                 "prerelease": {
-                    "encrypted_gid_2": "1EC08C78A3F19F0627569DC0939B619D",
-                    "encrypted_size_2": "9A8B91530C47640068D7DA46BD15561A",
+                    "gid": "1EC08C78A3F19F0627569DC0939B619D",
+                    "size": "9A8B91530C47640068D7DA46BD15561A",
                     "download": "0A038D1F1CDD0680D768C50677F78F7E"
                 }
             },
@@ -62,24 +73,31 @@
         "1291": {
             "systemdefined": "1",
             "manifests": {
-                "public": "1132339831349872672",
-                "legacy-v6.0.0": "3431600298929727963"
+                "public": {
+                    "gid": "1132339831349872672",
+                    "size": "2002431508",
+                    "download": "879909584"
+                },
+                "legacy-v6.0.0": {
+                    "gid": "3431600298929727963",
+                    "size": "794647",
+                    "download": "254192"
+                }
             },
-            "maxsize": "2002431508",
             "encryptedmanifests": {
                 "development": {
-                    "encrypted_gid_2": "EADF50FE9BE7631E62373C10F71FB59C",
-                    "encrypted_size_2": "7628089272E93EAAD32DC42AE186D40C",
+                    "gid": "EADF50FE9BE7631E62373C10F71FB59C",
+                    "size": "7628089272E93EAAD32DC42AE186D40C",
                     "download": "9594AF38C518D398D80566C6C061E262"
                 },
                 "playtest": {
-                    "encrypted_gid_2": "181C2FB16360EF9CB9C0F64820363109",
-                    "encrypted_size_2": "4CBADBF3D69E30BCFF391F0DDCD16E9F",
+                    "gid": "181C2FB16360EF9CB9C0F64820363109",
+                    "size": "4CBADBF3D69E30BCFF391F0DDCD16E9F",
                     "download": "90A95C0CCCE24AA9D0E1DD9834CB87D0"
                 },
                 "prerelease": {
-                    "encrypted_gid_2": "07F2A259315851943863D2B742D47847",
-                    "encrypted_size_2": "A18F3E6B8B7C9260B7ED2A3978C5273B",
+                    "gid": "07F2A259315851943863D2B742D47847",
+                    "size": "A18F3E6B8B7C9260B7ED2A3978C5273B",
                     "download": "FC6CABC8F93F5E1515B69BF3942BBE13"
                 }
             }
@@ -108,16 +126,11 @@
                 "buildid": "10628827",
                 "pwdrequired": "1",
                 "timeupdated": "1677237303"
-            },
-            "previous": {
-                "buildid": "7781773",
-                "description": "Rollback to previous version",
-                "timeupdated": "1638608390"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 18876721,
-    "_sha": "78f5ec34d42f0f91f65d0745589477e9157ab10b",
-    "_size": 3004
+    "_change_number": 18987327,
+    "_sha": "4a4ef9b114ba4a73fe3ab3026bacfa86e0a6a6ef",
+    "_size": 3060
 }

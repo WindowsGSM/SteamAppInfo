@@ -47,9 +47,12 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "4660701598619066954"
+                "public": {
+                    "gid": "4660701598619066954",
+                    "size": "43850712",
+                    "download": "13716400"
+                }
             },
-            "maxsize": "43850712",
             "depotfromapp": "1007"
         },
         "1005": {
@@ -57,7 +60,11 @@
                 "oslist": "macos"
             },
             "manifests": {
-                "public": "2135359612286175146"
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
             },
             "depotfromapp": "1007"
         },
@@ -66,9 +73,12 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "6912453647411644579"
+                "public": {
+                    "gid": "6912453647411644579",
+                    "size": "72573740",
+                    "download": "20021152"
+                }
             },
-            "maxsize": "72573740",
             "depotfromapp": "1007"
         },
         "preloadonly": "1",
@@ -79,24 +89,51 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "1612728030001206406",
-                "beta": "5773543025664294237",
-                "defaultauto": "1612728030001206406",
-                "hotfix1": "4802313358293805195",
-                "linuxtesting": "7347527372863537280",
-                "local": "9166824352901336187",
-                "prepatch": "2738335746069986139"
+                "public": {
+                    "gid": "1612728030001206406",
+                    "size": "1493073110",
+                    "download": "504797408"
+                },
+                "beta": {
+                    "gid": "5773543025664294237",
+                    "size": "1493394120",
+                    "download": "510749888"
+                },
+                "defaultauto": {
+                    "gid": "1612728030001206406",
+                    "size": "1493073110",
+                    "download": "504797408"
+                },
+                "hotfix1": {
+                    "gid": "4802313358293805195",
+                    "size": "638665039",
+                    "download": "0"
+                },
+                "linuxtesting": {
+                    "gid": "7347527372863537280",
+                    "size": "1266294060",
+                    "download": "3059419028986"
+                },
+                "local": {
+                    "gid": "9166824352901336187",
+                    "size": "659562291",
+                    "download": "0"
+                },
+                "prepatch": {
+                    "gid": "2738335746069986139",
+                    "size": "1450729446",
+                    "download": "504860544"
+                }
             },
-            "maxsize": "1493394120",
             "encryptedmanifests": {
                 "betaauto": {
-                    "encrypted_gid_2": "558B47AA98355DD7CFC49EF5021C5339",
-                    "encrypted_size_2": "96CE0D092CEF06B8807F83565BD3C726",
+                    "gid": "558B47AA98355DD7CFC49EF5021C5339",
+                    "size": "96CE0D092CEF06B8807F83565BD3C726",
                     "download": "CC71C58AACD4B612B17D8A6F0FB31D56"
                 },
                 "internal": {
-                    "encrypted_gid_2": "E5E8C2BB91121BCA3B41E7ABC6A375C3",
-                    "encrypted_size_2": "88C72C57CDE4541ED31E07C145C716D1",
+                    "gid": "E5E8C2BB91121BCA3B41E7ABC6A375C3",
+                    "size": "88C72C57CDE4541ED31E07C145C716D1",
                     "download": "CE6DA5B23EAEEED2ACE66C25D0A65CCB"
                 }
             }
@@ -106,17 +143,36 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "526122111323908601",
-                "beta": "7649592364407112260",
-                "defaultauto": "526122111323908601",
-                "linuxtesting": "1408652631493350438",
-                "prepatch": "3562284815739696257"
+                "public": {
+                    "gid": "526122111323908601",
+                    "size": "1215065484",
+                    "download": "295324960"
+                },
+                "beta": {
+                    "gid": "7649592364407112260",
+                    "size": "1233747595",
+                    "download": "300311616"
+                },
+                "defaultauto": {
+                    "gid": "526122111323908601",
+                    "size": "1215065484",
+                    "download": "295324960"
+                },
+                "linuxtesting": {
+                    "gid": "1408652631493350438",
+                    "size": "991794604",
+                    "download": "244104384"
+                },
+                "prepatch": {
+                    "gid": "3562284815739696257",
+                    "size": "1176348971",
+                    "download": "284044288"
+                }
             },
-            "maxsize": "1233747595",
             "encryptedmanifests": {
                 "betaauto": {
-                    "encrypted_gid_2": "727CF96C26685EE57E7EDC19BBDAF090",
-                    "encrypted_size_2": "2F6115616CB3C888E7F07A6FA2C96996",
+                    "gid": "727CF96C26685EE57E7EDC19BBDAF090",
+                    "size": "2F6115616CB3C888E7F07A6FA2C96996",
                     "download": "1D5DE4D5EEB7DC337439D57B8FAA7A26"
                 }
             }
@@ -161,7 +217,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "8c1b8de929af4c6ca2a72df48e05f0f8fc7125ca",
-    "_size": 3712
+    "_change_number": 18987327,
+    "_sha": "5ca2645bf26cee5abd74b8e7eb2e4cddb57bef06",
+    "_size": 4668
 }

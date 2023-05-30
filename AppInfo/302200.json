@@ -35,7 +35,6 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "19265607",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -43,7 +42,6 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "29759921",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -51,7 +49,6 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "29212173",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -61,23 +58,26 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "7619112014446761930"
+                "public": {
+                    "gid": "7619112014446761930",
+                    "size": "4662084334",
+                    "download": "2605353376"
+                }
             },
-            "maxsize": "4662084334",
             "encryptedmanifests": {
                 "dev": {
-                    "encrypted_gid_2": "F6E93145E0624A7EBBDADA16DEB54CE0",
-                    "encrypted_size_2": "0461F75B43CA5CB5785BEB159AB271E6",
+                    "gid": "F6E93145E0624A7EBBDADA16DEB54CE0",
+                    "size": "0461F75B43CA5CB5785BEB159AB271E6",
                     "download": "0777859C3169E0DBF23A882E5490AF97"
                 },
                 "experimental": {
-                    "encrypted_gid_2": "8C83840627A7063E735F79F536C60DC2",
-                    "encrypted_size_2": "B4F34062459D083E9929C22C24B20EB9",
+                    "gid": "8C83840627A7063E735F79F536C60DC2",
+                    "size": "B4F34062459D083E9929C22C24B20EB9",
                     "download": "428C9343B3BAEB5E0283EA00046C8A50"
                 },
                 "hosting": {
-                    "encrypted_gid_2": "FF11775E0EAB2A58DA21D19088CB77F4",
-                    "encrypted_size_2": "FAFC64CCDAF179FB95B7E9D3A7D37A3A",
+                    "gid": "FF11775E0EAB2A58DA21D19088CB77F4",
+                    "size": "FAFC64CCDAF179FB95B7E9D3A7D37A3A",
                     "download": "5381E4C57D0A53E1332DE9F18CB7E26C"
                 }
             }
@@ -106,7 +106,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18076822,
-    "_sha": "fb547dd0f1e93cf7de124332efd0a72d17ca70c0",
-    "_size": 2593
+    "_change_number": 18987327,
+    "_sha": "08ab8b8ceb53537e9a7f2ffa4e27b8a7df9d13aa",
+    "_size": 2498
 }

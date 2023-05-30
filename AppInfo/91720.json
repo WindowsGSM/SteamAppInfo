@@ -32,13 +32,16 @@
         "91702": {
             "systemdefined": "1",
             "manifests": {
-                "public": "6583079002623682731"
+                "public": {
+                    "gid": "6583079002623682731",
+                    "size": "4865203765",
+                    "download": "0"
+                }
             },
-            "maxsize": "4865203765",
             "encryptedmanifests": {
                 "beta": {
-                    "encrypted_gid_2": "F538B1AF6C8BCC3B22099BA82CF29404",
-                    "encrypted_size_2": "1AC27B51CAFBA628EBD0C401A4E00E8A",
+                    "gid": "F538B1AF6C8BCC3B22099BA82CF29404",
+                    "size": "1AC27B51CAFBA628EBD0C401A4E00E8A",
                     "download": "6E496BC9C9C78F20401F05C140622F0B"
                 }
             }
@@ -55,7 +58,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18076822,
-    "_sha": "5ec93429d5efcafa3e692a3bafdb47e0b558d8db",
-    "_size": 1090
+    "_change_number": 18987327,
+    "_sha": "edfd2923c1f56824ec9583346f1d8100ee231fea",
+    "_size": 1109
 }

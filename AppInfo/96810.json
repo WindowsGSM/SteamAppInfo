@@ -31,10 +31,17 @@
         "96802": {
             "systemdefined": "1",
             "manifests": {
-                "public": "6231482703797645821",
-                "local": "736013265079676428"
-            },
-            "maxsize": "2089203164"
+                "public": {
+                    "gid": "6231482703797645821",
+                    "size": "2089203164",
+                    "download": "1867777888"
+                },
+                "local": {
+                    "gid": "736013265079676428",
+                    "size": "1551486481",
+                    "download": "0"
+                }
+            }
         },
         "overridescddb": "1",
         "branches": {
@@ -49,7 +56,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 11703200,
-    "_sha": "7e4f8dbda2d4bc5125c0af71f29929acd923b8ab",
-    "_size": 933
+    "_change_number": 18987327,
+    "_sha": "44cc96f988c19d57f5dc39ab7b5e599f50566122",
+    "_size": 1055
 }

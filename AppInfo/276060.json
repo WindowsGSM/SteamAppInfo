@@ -55,9 +55,12 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "4660701598619066954"
+                "public": {
+                    "gid": "4660701598619066954",
+                    "size": "43850712",
+                    "download": "13716400"
+                }
             },
-            "maxsize": "43850712",
             "depotfromapp": "1007"
         },
         "1005": {
@@ -65,7 +68,11 @@
                 "oslist": "macos"
             },
             "manifests": {
-                "public": "2135359612286175146"
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
             },
             "depotfromapp": "1007"
         },
@@ -74,16 +81,18 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "6912453647411644579"
+                "public": {
+                    "gid": "6912453647411644579",
+                    "size": "72573740",
+                    "download": "20021152"
+                }
             },
-            "maxsize": "72573740",
             "depotfromapp": "1007"
         },
         "228983": {
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "19265607",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -91,7 +100,6 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "29212173",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -99,7 +107,6 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "267964564",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -107,19 +114,26 @@
         "markdlcdepots": "1",
         "225841": {
             "manifests": {
-                "public": "120274866409892373",
-                "release_candidate_public": "120274866409892373"
+                "public": {
+                    "gid": "120274866409892373",
+                    "size": "2454939996",
+                    "download": "1278477584"
+                },
+                "release_candidate_public": {
+                    "gid": "120274866409892373",
+                    "size": "2454939996",
+                    "download": "1278477584"
+                }
             },
-            "maxsize": "2454939996",
             "encryptedmanifests": {
                 "release_candidate": {
-                    "encrypted_gid_2": "914E0EA9A1C1402307E89F6A2752D7A0",
-                    "encrypted_size_2": "EE3DADA3EFA8E7F23212C07FA01787FC",
+                    "gid": "914E0EA9A1C1402307E89F6A2752D7A0",
+                    "size": "EE3DADA3EFA8E7F23212C07FA01787FC",
                     "download": "5A75B226FBE7F47546B6F6972C455514"
                 },
                 "release_candidate_community": {
-                    "encrypted_gid_2": "66755E575BA7A980FD76B51AEF176CD4",
-                    "encrypted_size_2": "05A4038ED12465144E5FCEE9FE778C41",
+                    "gid": "66755E575BA7A980FD76B51AEF176CD4",
+                    "size": "05A4038ED12465144E5FCEE9FE778C41",
                     "download": "94D77A089EC3010C7F3A7E24BECF9C05"
                 }
             },
@@ -130,19 +144,26 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "8480196553589428899",
-                "release_candidate_public": "8480196553589428899"
+                "public": {
+                    "gid": "8480196553589428899",
+                    "size": "55225646",
+                    "download": "20513600"
+                },
+                "release_candidate_public": {
+                    "gid": "8480196553589428899",
+                    "size": "55225646",
+                    "download": "20513600"
+                }
             },
-            "maxsize": "55225646",
             "encryptedmanifests": {
                 "release_candidate": {
-                    "encrypted_gid_2": "70EC4241BEE0D62C9E45D3D0F4C5F86C",
-                    "encrypted_size_2": "F8410E269FC400FE7039007FFA04C9E0",
+                    "gid": "70EC4241BEE0D62C9E45D3D0F4C5F86C",
+                    "size": "F8410E269FC400FE7039007FFA04C9E0",
                     "download": "A5A17D0E4D0F8FC7F47B47F8180F4096"
                 },
                 "release_candidate_community": {
-                    "encrypted_gid_2": "AF52F8BAAF7F7BD3D9D1A406281F6F95",
-                    "encrypted_size_2": "0435FC98FB109C1D5DC4F0B66EA6632A",
+                    "gid": "AF52F8BAAF7F7BD3D9D1A406281F6F95",
+                    "size": "0435FC98FB109C1D5DC4F0B66EA6632A",
                     "download": "F5528F4DEEE227D15BD6E66E03342F92"
                 }
             }
@@ -152,19 +173,26 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "5267628371016219545",
-                "release_candidate_public": "5267628371016219545"
+                "public": {
+                    "gid": "5267628371016219545",
+                    "size": "98380809",
+                    "download": "26436416"
+                },
+                "release_candidate_public": {
+                    "gid": "5267628371016219545",
+                    "size": "98380809",
+                    "download": "26436416"
+                }
             },
-            "maxsize": "98380809",
             "encryptedmanifests": {
                 "release_candidate": {
-                    "encrypted_gid_2": "B913A66EF8157243846BAF6C57CF0306",
-                    "encrypted_size_2": "FEFD56DDD129CBD8885D0001B6DD22DB",
+                    "gid": "B913A66EF8157243846BAF6C57CF0306",
+                    "size": "FEFD56DDD129CBD8885D0001B6DD22DB",
                     "download": "47719241F82228A3F43D1A62037531BE"
                 },
                 "release_candidate_community": {
-                    "encrypted_gid_2": "A697E2382784C01184F31E654177F79E",
-                    "encrypted_size_2": "3BB15E3F54F75C9A1C4A9FDBA28472E7",
+                    "gid": "A697E2382784C01184F31E654177F79E",
+                    "size": "3BB15E3F54F75C9A1C4A9FDBA28472E7",
                     "download": "41BB43D1CF4DEC43FECD5BC6CD818A6A"
                 }
             }
@@ -174,19 +202,26 @@
                 "oslist": "macos"
             },
             "manifests": {
-                "public": "7563803785096033014",
-                "release_candidate_public": "7563803785096033014"
+                "public": {
+                    "gid": "7563803785096033014",
+                    "size": "5310825",
+                    "download": "1633360"
+                },
+                "release_candidate_public": {
+                    "gid": "7563803785096033014",
+                    "size": "5310825",
+                    "download": "1633360"
+                }
             },
-            "maxsize": "5310825",
             "encryptedmanifests": {
                 "release_candidate": {
-                    "encrypted_gid_2": "4BF036BBF34F53BC7C0C86120272F940",
-                    "encrypted_size_2": "8D0FC57C8E3C5258DF6C3543C61019B0",
+                    "gid": "4BF036BBF34F53BC7C0C86120272F940",
+                    "size": "8D0FC57C8E3C5258DF6C3543C61019B0",
                     "download": "EBA538965CB85D59E12CF7D279AC9072"
                 },
                 "release_candidate_community": {
-                    "encrypted_gid_2": "BF0674ACDBD6EAD6EDE11567737150EF",
-                    "encrypted_size_2": "FEB3305328C089A0EF01A361C9113D2C",
+                    "gid": "BF0674ACDBD6EAD6EDE11567737150EF",
+                    "size": "FEB3305328C089A0EF01A361C9113D2C",
                     "download": "D5220C2A00A7D200EF33A69BF68043DC"
                 }
             }
@@ -214,7 +249,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "4bc0f69ccf855995aa3769e3ec2041d2fef2ef83",
-    "_size": 5421
+    "_change_number": 18987327,
+    "_sha": "c84730d51450c0b6aed1fa8b81795273a1a8fe39",
+    "_size": 5817
 }

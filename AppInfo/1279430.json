@@ -52,9 +52,12 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "4660701598619066954"
+                "public": {
+                    "gid": "4660701598619066954",
+                    "size": "43850712",
+                    "download": "13716400"
+                }
             },
-            "maxsize": "43850712",
             "depotfromapp": "1007"
         },
         "1005": {
@@ -62,7 +65,11 @@
                 "oslist": "macos"
             },
             "manifests": {
-                "public": "2135359612286175146"
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
             },
             "depotfromapp": "1007"
         },
@@ -71,9 +78,12 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "6912453647411644579"
+                "public": {
+                    "gid": "6912453647411644579",
+                    "size": "72573740",
+                    "download": "20021152"
+                }
             },
-            "maxsize": "72573740",
             "depotfromapp": "1007"
         },
         "1279431": {
@@ -111,7 +121,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18736181,
-    "_sha": "fe476fe86bd87bb3cde855f1ad097eb713c74614",
-    "_size": 2322
+    "_change_number": 18987327,
+    "_sha": "4fc8e3fad416ba1ffc2e9cff315dcabf125f93f8",
+    "_size": 2483
 }

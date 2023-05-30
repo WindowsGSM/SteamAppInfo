@@ -36,9 +36,12 @@
         "markdlcdepots": "1",
         "2402": {
             "manifests": {
-                "public": "8303288114589836248"
-            },
-            "maxsize": "1446885673"
+                "public": {
+                    "gid": "8303288114589836248",
+                    "size": "1446885673",
+                    "download": "0"
+                }
+            }
         },
         "2403": {
             "systemdefined": "1",
@@ -46,18 +49,24 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "8722860073900922258"
-            },
-            "maxsize": "36520107"
+                "public": {
+                    "gid": "8722860073900922258",
+                    "size": "36520107",
+                    "download": "0"
+                }
+            }
         },
         "2404": {
             "config": {
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "1873221889569911637"
-            },
-            "maxsize": "55352152"
+                "public": {
+                    "gid": "1873221889569911637",
+                    "size": "55352152",
+                    "download": "0"
+                }
+            }
         },
         "1004": {
             "systemdefined": "1",
@@ -65,9 +74,12 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "3578600867548439549"
+                "public": {
+                    "gid": "3578600867548439549",
+                    "size": "9662208",
+                    "download": "0"
+                }
             },
-            "maxsize": "9662208",
             "depotfromapp": "1002"
         },
         "branches": {
@@ -77,7 +89,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 11703200,
-    "_sha": "a988d6afaef83e5c03e62e594403ec7208895d42",
-    "_size": 1450
+    "_change_number": 18987327,
+    "_sha": "b1bff4f51572b4a0caa664835628b6fdb26c4483",
+    "_size": 1622
 }

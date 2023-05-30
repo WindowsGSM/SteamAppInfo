@@ -78,9 +78,12 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "4660701598619066954"
+                "public": {
+                    "gid": "4660701598619066954",
+                    "size": "43850712",
+                    "download": "13716400"
+                }
             },
-            "maxsize": "43850712",
             "depotfromapp": "1007"
         },
         "1005": {
@@ -88,7 +91,11 @@
                 "oslist": "macos"
             },
             "manifests": {
-                "public": "2135359612286175146"
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
             },
             "depotfromapp": "1007"
         },
@@ -97,36 +104,56 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "6912453647411644579"
+                "public": {
+                    "gid": "6912453647411644579",
+                    "size": "72573740",
+                    "download": "20021152"
+                }
             },
-            "maxsize": "72573740",
             "depotfromapp": "1007"
         },
         "339011": {
             "manifests": {
-                "public": "8860498018075835343",
-                "legacy": "8860498018075835343",
-                "unity": "21240271230280590"
-            },
-            "maxsize": "35505017"
+                "public": {
+                    "gid": "8860498018075835343",
+                    "size": "35505017",
+                    "download": "23848928"
+                },
+                "legacy": {
+                    "gid": "8860498018075835343",
+                    "size": "35505017",
+                    "download": "23848928"
+                },
+                "unity": {
+                    "gid": "21240271230280590",
+                    "size": "6",
+                    "download": "64"
+                }
+            }
         },
         "339012": {
             "config": {
                 "oslist": "windows"
             },
             "manifests": {
-                "unity": "6878370422262089006"
-            },
-            "maxsize": "2629474341"
+                "unity": {
+                    "gid": "6878370422262089006",
+                    "size": "2629474341",
+                    "download": "787889280"
+                }
+            }
         },
         "339013": {
             "config": {
                 "oslist": "linux"
             },
             "manifests": {
-                "unity": "2757892734878546817"
-            },
-            "maxsize": "2667973922"
+                "unity": {
+                    "gid": "2757892734878546817",
+                    "size": "2667973922",
+                    "download": "790737648"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -146,7 +173,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "466c437ff57ccfe1ef8eb753ee2b72423b9040e6",
-    "_size": 3027
+    "_change_number": 18987327,
+    "_sha": "8e95995d4d5d2a4467e37b53d0a5bcc60a60b6fa",
+    "_size": 3477
 }

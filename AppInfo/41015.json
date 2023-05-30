@@ -33,9 +33,12 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "4660701598619066954"
+                "public": {
+                    "gid": "4660701598619066954",
+                    "size": "43850712",
+                    "download": "13716400"
+                }
             },
-            "maxsize": "43850712",
             "depotfromapp": "1007"
         },
         "1005": {
@@ -43,7 +46,11 @@
                 "oslist": "macos"
             },
             "manifests": {
-                "public": "2135359612286175146"
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
             },
             "depotfromapp": "1007"
         },
@@ -52,23 +59,24 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "6912453647411644579"
+                "public": {
+                    "gid": "6912453647411644579",
+                    "size": "72573740",
+                    "download": "20021152"
+                }
             },
-            "maxsize": "72573740",
             "depotfromapp": "1007"
         },
         "228990": {
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "102931551",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
         "41018": {
             "optional": "1",
             "systemdefined": "1",
-            "maxsize": "1219",
             "dlcappid": "41018",
             "depotfromapp": "41010",
             "sharedinstall": "2"
@@ -76,7 +84,6 @@
         "41017": {
             "optional": "1",
             "systemdefined": "1",
-            "maxsize": "656",
             "dlcappid": "41017",
             "depotfromapp": "41010",
             "sharedinstall": "2"
@@ -85,26 +92,32 @@
             "optional": "1",
             "systemdefined": "1",
             "manifests": {
-                "public": "1446886366694468888",
-                "publicbeta": "3178483061285669746"
+                "public": {
+                    "gid": "1446886366694468888",
+                    "size": "20065050",
+                    "download": "7536992"
+                },
+                "publicbeta": {
+                    "gid": "3178483061285669746",
+                    "size": "20060962",
+                    "download": "7536224"
+                }
             },
-            "maxsize": "20065050",
             "encryptedmanifests": {
                 "closedbeta": {
-                    "encrypted_gid_2": "C706C1D13E2F52FF0E4097A3D96B0E6A",
-                    "encrypted_size_2": "197082063C8794AED7C670E0CF977886",
+                    "gid": "C706C1D13E2F52FF0E4097A3D96B0E6A",
+                    "size": "197082063C8794AED7C670E0CF977886",
                     "download": "8EB201B0763A24B1A557CFBF85A21F32"
                 },
                 "internal": {
-                    "encrypted_gid_2": "21738D02320AB2D0ADE46CC4D5F03A40",
-                    "encrypted_size_2": "F5241344E657540D546391251B4D4C04",
+                    "gid": "21738D02320AB2D0ADE46CC4D5F03A40",
+                    "size": "F5241344E657540D546391251B4D4C04",
                     "download": "D63C3F3F1680707144C103361BEB022A"
                 }
             }
         },
         "41011": {
             "systemdefined": "1",
-            "maxsize": "2300549299",
             "depotfromapp": "41010",
             "sharedinstall": "2"
         },
@@ -127,16 +140,11 @@
             "publicbeta": {
                 "buildid": "2297899",
                 "timeupdated": "1511111232"
-            },
-            "speedrunning-171082": {
-                "buildid": "20986",
-                "description": "Legacy Build 171082",
-                "timeupdated": "1642443313"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "22505f62991f70a9795799832ea0cf7d2ad9a638",
-    "_size": 2913
+    "_change_number": 18987327,
+    "_sha": "8bd2481e023c8c3f9f8f1a37d3cf25165b78f7ed",
+    "_size": 2924
 }

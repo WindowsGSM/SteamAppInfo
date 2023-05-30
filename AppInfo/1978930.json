@@ -45,9 +45,12 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "4660701598619066954"
+                "public": {
+                    "gid": "4660701598619066954",
+                    "size": "43850712",
+                    "download": "13716400"
+                }
             },
-            "maxsize": "43850712",
             "depotfromapp": "1007"
         },
         "1005": {
@@ -55,7 +58,11 @@
                 "oslist": "macos"
             },
             "manifests": {
-                "public": "2135359612286175146"
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
             },
             "depotfromapp": "1007"
         },
@@ -64,16 +71,18 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "6912453647411644579"
+                "public": {
+                    "gid": "6912453647411644579",
+                    "size": "72573740",
+                    "download": "20021152"
+                }
             },
-            "maxsize": "72573740",
             "depotfromapp": "1007"
         },
         "228984": {
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "13742505",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -81,7 +90,6 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "13699237",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -89,7 +97,6 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "39195172",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -97,7 +104,6 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "102931551",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -105,7 +111,6 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "117381405",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -267,7 +272,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18919215,
-    "_sha": "2542318f63879550d54f4d95edbab40ebb8a1428",
-    "_size": 5780
+    "_change_number": 18987327,
+    "_sha": "ed74c8067db25e7a4cc118d15ccec5572c249526",
+    "_size": 5814
 }
