@@ -14,6 +14,7 @@
         "clienticns": "d3ac3d53cd2f33fffff49faec378e60a20489b46",
         "linuxclienticon": "3e2c5bc77d1390fadc16732094cd7881a6a027aa",
         "osextended": "macos64,macosnotarized",
+        "app_retired_publisher_request": "1",
         "content_descriptors": {
             "0": "2",
             "1": "5"
@@ -267,38 +268,41 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "7476077182338672655"
+                "public": {
+                    "gid": "7476077182338672655",
+                    "size": "8798412711",
+                    "download": "8234865888"
+                }
             },
-            "maxsize": "8798412711",
             "encryptedmanifests": {
                 "10261_test": {
-                    "encrypted_gid_2": "B7B18D373075A3765B8471012C54AC9F",
-                    "encrypted_size_2": "C6014DAECC6D78B92AFD99BFA872909C",
+                    "gid": "B7B18D373075A3765B8471012C54AC9F",
+                    "size": "C6014DAECC6D78B92AFD99BFA872909C",
                     "download": "59D0074D92CC2BE0391A2A641805EB40"
                 },
                 "baseline": {
-                    "encrypted_gid_2": "31A946FC02CD50CBF9A052DD049E3757",
-                    "encrypted_size_2": "F26053F4A4BB8121870A179EE23C6357",
+                    "gid": "31A946FC02CD50CBF9A052DD049E3757",
+                    "size": "F26053F4A4BB8121870A179EE23C6357",
                     "download": "178CF8F97C4C2EC193806BCA48099DB4"
                 },
                 "beta_test": {
-                    "encrypted_gid_2": "3616331B3D1C4C9A220AC42F1C8895E6",
-                    "encrypted_size_2": "5CC8E2EA7F4273C800E0534CD81B747A",
+                    "gid": "3616331B3D1C4C9A220AC42F1C8895E6",
+                    "size": "5CC8E2EA7F4273C800E0534CD81B747A",
                     "download": "70291B4320AAA679F9D2F882574FD9B2"
                 },
                 "bleeding_edge": {
-                    "encrypted_gid_2": "7851C5A2C81B1927C9C0BF72E5043150",
-                    "encrypted_size_2": "3636F2851E80900517BF69CFA6CAF902",
+                    "gid": "7851C5A2C81B1927C9C0BF72E5043150",
+                    "size": "3636F2851E80900517BF69CFA6CAF902",
                     "download": "F4596E2C8BA53C5E9A773888A4515662"
                 },
                 "gameguide": {
-                    "encrypted_gid_2": "AA2A750878235C9CAF35183CE27295B9",
-                    "encrypted_size_2": "2348869C6A1873805A6CC45D48B444AE",
+                    "gid": "AA2A750878235C9CAF35183CE27295B9",
+                    "size": "2348869C6A1873805A6CC45D48B444AE",
                     "download": "D755F358D228E93B3C8822D5130C29D4"
                 },
                 "test_branch": {
-                    "encrypted_gid_2": "8A5EA7D76151D4FAA579D15D6B60410A",
-                    "encrypted_size_2": "E56C6B1D93DD20BB74FE4B52961CCCCA",
+                    "gid": "8A5EA7D76151D4FAA579D15D6B60410A",
+                    "size": "E56C6B1D93DD20BB74FE4B52961CCCCA",
                     "download": "CC44FE45EA9F2C595EF479824962B7A0"
                 }
             }
@@ -308,38 +312,41 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "9043419349639242341"
+                "public": {
+                    "gid": "9043419349639242341",
+                    "size": "9570272116",
+                    "download": "8819665888"
+                }
             },
-            "maxsize": "9570272116",
             "encryptedmanifests": {
                 "10261_test": {
-                    "encrypted_gid_2": "05F208B466B4CBE7D4D1AD9377B67928",
-                    "encrypted_size_2": "6797C956839601E0CA225A0BD77FFFC6",
+                    "gid": "05F208B466B4CBE7D4D1AD9377B67928",
+                    "size": "6797C956839601E0CA225A0BD77FFFC6",
                     "download": "A5B5910EC008B0DA0E0711C51F724721"
                 },
                 "baseline": {
-                    "encrypted_gid_2": "C415CB59F9163430A28039E712C4C699",
-                    "encrypted_size_2": "1A621F756BD7767AA248784B9CD46D26",
+                    "gid": "C415CB59F9163430A28039E712C4C699",
+                    "size": "1A621F756BD7767AA248784B9CD46D26",
                     "download": "1A621F756BD7767AA248784B9CD46D26"
                 },
                 "beta_test": {
-                    "encrypted_gid_2": "3DD8C69C6A7B00B9CA1557F898025AC0",
-                    "encrypted_size_2": "0A6A7A56284A9F8E62A16812237759AA",
+                    "gid": "3DD8C69C6A7B00B9CA1557F898025AC0",
+                    "size": "0A6A7A56284A9F8E62A16812237759AA",
                     "download": "DF6A7EE98F7252C42E154E5A0BC01F51"
                 },
                 "bleeding_edge": {
-                    "encrypted_gid_2": "A6845055C115440C28726C1B21336A81",
-                    "encrypted_size_2": "A15633FF93522E62889E3E6DC5C4B214",
+                    "gid": "A6845055C115440C28726C1B21336A81",
+                    "size": "A15633FF93522E62889E3E6DC5C4B214",
                     "download": "A15633FF93522E62889E3E6DC5C4B214"
                 },
                 "gameguide": {
-                    "encrypted_gid_2": "6D69BFFF9EF7F1C3970C1AC121854C9C",
-                    "encrypted_size_2": "AA0BCB8830E5CEF2A0B676D4AF7CAC79",
+                    "gid": "6D69BFFF9EF7F1C3970C1AC121854C9C",
+                    "size": "AA0BCB8830E5CEF2A0B676D4AF7CAC79",
                     "download": "8614BC395DEC7742F5A65745FA5C5FD7"
                 },
                 "test_branch": {
-                    "encrypted_gid_2": "4B7EF9262216674EF04FFD70D23B3DD8",
-                    "encrypted_size_2": "125632BAC4BEE907E14F6258AA1D3714",
+                    "gid": "4B7EF9262216674EF04FFD70D23B3DD8",
+                    "size": "125632BAC4BEE907E14F6258AA1D3714",
                     "download": "7114836299A37CBBB3F1AABDB5E0C424"
                 }
             }
@@ -349,51 +356,57 @@
                 "oslist": "macos"
             },
             "manifests": {
-                "public": "2799667990033503379"
+                "public": {
+                    "gid": "2799667990033503379",
+                    "size": "18816502036",
+                    "download": "16322439296"
+                }
             },
-            "maxsize": "18816502036",
             "encryptedmanifests": {
                 "10261_test": {
-                    "encrypted_gid_2": "D8470B53A2EDE6063FC09F9E179F775F",
-                    "encrypted_size_2": "8C2A807883FA5390FF2327A6ECE00310",
+                    "gid": "D8470B53A2EDE6063FC09F9E179F775F",
+                    "size": "8C2A807883FA5390FF2327A6ECE00310",
                     "download": "3FD745A95F0361E52102C77216EAE055"
                 },
                 "baseline": {
-                    "encrypted_gid_2": "F6D4C89EBCAB63B36746B206C8228520",
-                    "encrypted_size_2": "1A621F756BD7767AA248784B9CD46D26",
+                    "gid": "F6D4C89EBCAB63B36746B206C8228520",
+                    "size": "1A621F756BD7767AA248784B9CD46D26",
                     "download": "1A621F756BD7767AA248784B9CD46D26"
                 },
                 "beta_test": {
-                    "encrypted_gid_2": "5E0A52CB4149B53E7146A97586719A2A",
-                    "encrypted_size_2": "81AC4FB444FB694422AE9274B5EBE421",
+                    "gid": "5E0A52CB4149B53E7146A97586719A2A",
+                    "size": "81AC4FB444FB694422AE9274B5EBE421",
                     "download": "D53DED3A37438AD70590D8F54C63473F"
                 },
                 "bleeding_edge": {
-                    "encrypted_gid_2": "574B03338AA65144E5E004E7C762A6A9",
-                    "encrypted_size_2": "A15633FF93522E62889E3E6DC5C4B214",
+                    "gid": "574B03338AA65144E5E004E7C762A6A9",
+                    "size": "A15633FF93522E62889E3E6DC5C4B214",
                     "download": "A15633FF93522E62889E3E6DC5C4B214"
                 },
                 "gameguide": {
-                    "encrypted_gid_2": "0267A56351411792C3342DF6A13BEEBD",
-                    "encrypted_size_2": "05BEBE2850B6AED90EDD698C57698A76",
+                    "gid": "0267A56351411792C3342DF6A13BEEBD",
+                    "size": "05BEBE2850B6AED90EDD698C57698A76",
                     "download": "94B17A6A0BD6374828BEE63473C85A9C"
                 },
                 "test_branch": {
-                    "encrypted_gid_2": "99C726D42A3C518E327D54E70AB36FF7",
-                    "encrypted_size_2": "D15C078FD07327D9098B91D2F2371BB9",
+                    "gid": "99C726D42A3C518E327D54E70AB36FF7",
+                    "size": "D15C078FD07327D9098B91D2F2371BB9",
                     "download": "D358079D1EDD20DCD5643BE5634AE7A4"
                 }
             }
         },
         "939320": {
             "manifests": {
-                "public": "2068471580671321008"
+                "public": {
+                    "gid": "2068471580671321008",
+                    "size": "472438512",
+                    "download": "391140944"
+                }
             },
-            "maxsize": "472438512",
             "encryptedmanifests": {
                 "gameguide": {
-                    "encrypted_gid_2": "F7A7B49C3DB908EE2345788FD7C47C33",
-                    "encrypted_size_2": "B2F1F647B7953EA9CA2080153CDDD4DB",
+                    "gid": "F7A7B49C3DB908EE2345788FD7C47C33",
+                    "size": "B2F1F647B7953EA9CA2080153CDDD4DB",
                     "download": "34C4973ED84631990EC72499A99978EE"
                 }
             },
@@ -467,7 +480,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18076822,
-    "_sha": "0a0e96d1e9805f8f20e09d37e10de1fb67ff8d45",
-    "_size": 11868
+    "_change_number": 18903802,
+    "_sha": "49b907dfb1892eae3cfaded6d2650ec3b9a7a928",
+    "_size": 11659
 }

@@ -73,36 +73,51 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "2288691774824190696",
-                "development": "5626598788441062752",
-                "publictest": "7153059263808311659",
-                "release": "2288691774824190696"
+                "public": {
+                    "gid": "2288691774824190696",
+                    "size": "1923671908",
+                    "download": "443225040"
+                },
+                "development": {
+                    "gid": "5626598788441062752",
+                    "size": "2231569979",
+                    "download": "516680704"
+                },
+                "publictest": {
+                    "gid": "7153059263808311659",
+                    "size": "1766714892",
+                    "download": "675752768"
+                },
+                "release": {
+                    "gid": "2288691774824190696",
+                    "size": "1923671908",
+                    "download": "443225040"
+                }
             },
-            "maxsize": "2231569979",
             "encryptedmanifests": {
                 "ps4release": {
-                    "encrypted_gid_2": "3A089FD759E75FC8F64547928F6384D1",
-                    "encrypted_size_2": "24804F91C80C20D28DA9A19B4511252A",
+                    "gid": "3A089FD759E75FC8F64547928F6384D1",
+                    "size": "24804F91C80C20D28DA9A19B4511252A",
                     "download": "F65199DFBAB55EE0B1D0CF41B400255E"
                 },
                 "ps4release2": {
-                    "encrypted_gid_2": "19963455650C6298EB687CBA2945AA0F",
-                    "encrypted_size_2": "425DB8BB787EFCC1D84BA9025BE279A9",
+                    "gid": "19963455650C6298EB687CBA2945AA0F",
+                    "size": "425DB8BB787EFCC1D84BA9025BE279A9",
                     "download": "2EE091F6604C67F812D5E289575F9D61"
                 },
                 "ps4server": {
-                    "encrypted_gid_2": "9B00478BE010821D1327497BEAC8E065",
-                    "encrypted_size_2": "A4AE8BDBB3CFB1E3EBD84D7BAF3DF5CE",
+                    "gid": "9B00478BE010821D1327497BEAC8E065",
+                    "size": "A4AE8BDBB3CFB1E3EBD84D7BAF3DF5CE",
                     "download": "1AB14ACFF3260A05EB3165A2A58612DD"
                 },
                 "xboxrelease": {
-                    "encrypted_gid_2": "06CA0736806FC6FB007EB5B1799F2BAB",
-                    "encrypted_size_2": "7E09AE43AC51181C9715FCDDED73B771",
+                    "gid": "06CA0736806FC6FB007EB5B1799F2BAB",
+                    "size": "7E09AE43AC51181C9715FCDDED73B771",
                     "download": "1DFD0FC2D3AF63F279BAE6CEBA0AD0CC"
                 },
                 "xboxserver": {
-                    "encrypted_gid_2": "50029525B57E5C0CACB2A9EBA55FF31C",
-                    "encrypted_size_2": "286E5977DE8861614521549335135EB3",
+                    "gid": "50029525B57E5C0CACB2A9EBA55FF31C",
+                    "size": "286E5977DE8861614521549335135EB3",
                     "download": "57C4695361C34FDDCCC93B5E2D822CB4"
                 }
             }
@@ -112,36 +127,51 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "2319135073756295769",
-                "development": "7880617789906202373",
-                "publictest": "4791710429206853996",
-                "release": "2319135073756295769"
+                "public": {
+                    "gid": "2319135073756295769",
+                    "size": "2079782438",
+                    "download": "476320592"
+                },
+                "development": {
+                    "gid": "7880617789906202373",
+                    "size": "2341884184",
+                    "download": "520343008"
+                },
+                "publictest": {
+                    "gid": "4791710429206853996",
+                    "size": "2416485517",
+                    "download": "779369648"
+                },
+                "release": {
+                    "gid": "2319135073756295769",
+                    "size": "2079782438",
+                    "download": "476320592"
+                }
             },
-            "maxsize": "2416485517",
             "encryptedmanifests": {
                 "ps4release": {
-                    "encrypted_gid_2": "FEC32742F9FA1FC1F85D11BDF36A0AE7",
-                    "encrypted_size_2": "4C8D2E364A2C7070146BB4364E09E5E9",
+                    "gid": "FEC32742F9FA1FC1F85D11BDF36A0AE7",
+                    "size": "4C8D2E364A2C7070146BB4364E09E5E9",
                     "download": "854569A47841B4233EB8C87F171209DB"
                 },
                 "ps4release2": {
-                    "encrypted_gid_2": "1E5DA278E74E5AC7B8881972BC25825A",
-                    "encrypted_size_2": "6674EC9E794C5717CDCC9CD161318305",
+                    "gid": "1E5DA278E74E5AC7B8881972BC25825A",
+                    "size": "6674EC9E794C5717CDCC9CD161318305",
                     "download": "779BA466A914C1DEA2CB05DE39CBF0AE"
                 },
                 "ps4server": {
-                    "encrypted_gid_2": "1C654687CEBC97158ECAC732348D8FAD",
-                    "encrypted_size_2": "D6E0955F69677603B7AE65941F5029D3",
+                    "gid": "1C654687CEBC97158ECAC732348D8FAD",
+                    "size": "D6E0955F69677603B7AE65941F5029D3",
                     "download": "FEDFABAF70E515194D2E359E1F2A63A0"
                 },
                 "xboxrelease": {
-                    "encrypted_gid_2": "2C127F994E5A6D460C0B021AB8F48170",
-                    "encrypted_size_2": "8ECEAA71DA91678154E22F17AEA30814",
+                    "gid": "2C127F994E5A6D460C0B021AB8F48170",
+                    "size": "8ECEAA71DA91678154E22F17AEA30814",
                     "download": "580AEC5EB9FEA43769D5A8E420873D1E"
                 },
                 "xboxserver": {
-                    "encrypted_gid_2": "6B4F5405A91A1E6C83BBAA2BDE6FDD44",
-                    "encrypted_size_2": "C04C709983B79CD33C58F997A55D1F63",
+                    "gid": "6B4F5405A91A1E6C83BBAA2BDE6FDD44",
+                    "size": "C04C709983B79CD33C58F997A55D1F63",
                     "download": "84A835CAA92EB61C743327213F639E56"
                 }
             }
@@ -191,7 +221,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "2fc6ba3212aadfed40d1552982f506d71b38cc11",
-    "_size": 4935
+    "_change_number": 18903802,
+    "_sha": "c5c1351698735c3f6763390b939747a3e51d0aec",
+    "_size": 5265
 }

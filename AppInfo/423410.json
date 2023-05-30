@@ -45,19 +45,26 @@
         },
         "423411": {
             "manifests": {
-                "public": "5032640623346278518",
-                "laststable": "1449166235835234137"
+                "public": {
+                    "gid": "5032640623346278518",
+                    "size": "4007512304",
+                    "download": "1848029248"
+                },
+                "laststable": {
+                    "gid": "1449166235835234137",
+                    "size": "4005864994",
+                    "download": "1847641968"
+                }
             },
-            "maxsize": "4007512304",
             "encryptedmanifests": {
                 "pretest": {
-                    "encrypted_gid_2": "94DCA660DEFDACD5984D04D46189E139",
-                    "encrypted_size_2": "947675F4FC5F8AC606CC836C6D819DDD",
+                    "gid": "94DCA660DEFDACD5984D04D46189E139",
+                    "size": "947675F4FC5F8AC606CC836C6D819DDD",
                     "download": "C18C84C96A833203F3E69C0641446770"
                 },
                 "publictest": {
-                    "encrypted_gid_2": "A1AFD0E9B916E18EB1D0B64D4BE655D9",
-                    "encrypted_size_2": "1FAA53619933384DCCA356627B556D62",
+                    "gid": "A1AFD0E9B916E18EB1D0B64D4BE655D9",
+                    "size": "1FAA53619933384DCCA356627B556D62",
                     "download": "ACD9CD6A24079C8DAFD4326BD7B5A967"
                 }
             }
@@ -84,7 +91,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "0aa6cf5d414ab9841c9b0ffa0c560ac799747368",
-    "_size": 1784
+    "_change_number": 18903802,
+    "_sha": "21ff9fd62f32079a7a884a4e525f669315c5e4aa",
+    "_size": 1867
 }

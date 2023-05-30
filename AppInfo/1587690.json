@@ -70,17 +70,21 @@
         },
         "1587691": {
             "manifests": {
-                "public": "312434952690418905"
+                "public": {
+                    "gid": "312434952690418905",
+                    "size": "0",
+                    "download": "0"
+                }
             },
             "encryptedmanifests": {
                 "factory": {
-                    "encrypted_gid_2": "DF74164CC34D5D24F0AC8684723AA9AD",
-                    "encrypted_size_2": "9E11442CAA702C45734E6D1895687BE4",
-                    "download": "13B7855A6504D5E0EE6D7C89A191764B"
+                    "gid": "1B2B44944871A387E46433855E39062D",
+                    "size": "5FEE49B49435FB51BA41674E694A662C",
+                    "download": "1B72D57F22BB2BE059A7A9DAF6416B86"
                 },
                 "valvetest": {
-                    "encrypted_gid_2": "893867E7B33C2E2F7CF213CBBBB35134",
-                    "encrypted_size_2": "4ED1F643088AFC249BD1F770A40A46DF",
+                    "gid": "893867E7B33C2E2F7CF213CBBBB35134",
+                    "size": "4ED1F643088AFC249BD1F770A40A46DF",
                     "download": "8DF6F7C3B01B02EEAF4327BFB268C621"
                 }
             }
@@ -92,9 +96,9 @@
                 "timeupdated": "1633636805"
             },
             "factory": {
-                "buildid": "11153002",
+                "buildid": "11199382",
                 "pwdrequired": "1",
-                "timeupdated": "1683187480"
+                "timeupdated": "1683727039"
             },
             "valvetest": {
                 "buildid": "6954348",
@@ -108,7 +112,7 @@
         "maxnumfiles": "200"
     },
     "_missing_token": false,
-    "_change_number": 18671992,
-    "_sha": "2319886d864f70b9473ae568781112f4a1a04fae",
-    "_size": 2322
+    "_change_number": 18744985,
+    "_sha": "a57fd3d01836f07819dd67013f46c7bc57f17250",
+    "_size": 2335
 }

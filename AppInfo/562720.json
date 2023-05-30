@@ -81,13 +81,16 @@
         },
         "562721": {
             "manifests": {
-                "public": "4637139865272700983"
+                "public": {
+                    "gid": "4637139865272700983",
+                    "size": "2964034483",
+                    "download": "774713312"
+                }
             },
-            "maxsize": "2964034483",
             "encryptedmanifests": {
                 "developer": {
-                    "encrypted_gid_2": "226085206A8346AD334487EC09FBE5E4",
-                    "encrypted_size_2": "8A5F99C6382C503C2E13BD8170DADF81",
+                    "gid": "226085206A8346AD334487EC09FBE5E4",
+                    "size": "8A5F99C6382C503C2E13BD8170DADF81",
                     "download": "403A580D50FFE29EB7F97160B37A0824"
                 }
             }
@@ -105,7 +108,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "a60387d6053edb576ddf25f48879708fa8093015",
-    "_size": 2304
+    "_change_number": 18903802,
+    "_sha": "f3317c78d35b46968afd8ef7444cb993fbd55402",
+    "_size": 2331
 }

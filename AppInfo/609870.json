@@ -66,13 +66,16 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "8238054858564405399"
+                "public": {
+                    "gid": "8238054858564405399",
+                    "size": "4558576899",
+                    "download": "1563102416"
+                }
             },
-            "maxsize": "4558576899",
             "encryptedmanifests": {
                 "devtest": {
-                    "encrypted_gid_2": "5E0DBB1BEF0414AC7048BFC407374199",
-                    "encrypted_size_2": "2EA08674FF9248D37AAEA87FE6754645",
+                    "gid": "5E0DBB1BEF0414AC7048BFC407374199",
+                    "size": "2EA08674FF9248D37AAEA87FE6754645",
                     "download": "A26FB4CF9B6DDE2EE3C3F395840D96BB"
                 }
             }
@@ -90,7 +93,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "88d9de56295586fae7dc2cd2fbbf167370e582e5",
-    "_size": 1921
+    "_change_number": 18903802,
+    "_sha": "8eabc93bb0f887e8b9a247f4112e09249e4e8a31",
+    "_size": 1949
 }

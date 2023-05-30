@@ -12,6 +12,7 @@
         "icon": "0e134101796768a5c1f2f2d0798ab79c50b54aa3",
         "clienttga": "9e26ed8977e3d5c78328e1091c45c9527a6fcbc4",
         "clienticon": "ae63227e1ec5f71672e7300bbe4eebe0d8b5c9c3",
+        "app_retired_publisher_request": "1",
         "metacritic_name": "DNL Dedicated Server Tool",
         "small_capsule": {
             "english": "capsule_231x87.jpg"
@@ -170,38 +171,41 @@
         "baselanguages": "english",
         "630231": {
             "manifests": {
-                "public": "1305063167786399795"
+                "public": {
+                    "gid": "1305063167786399795",
+                    "size": "3703510879",
+                    "download": "1386726368"
+                }
             },
-            "maxsize": "3703510879",
             "encryptedmanifests": {
                 "closedtest": {
-                    "encrypted_gid_2": "71FE65B26F946189AE854DC67FEED7DC",
-                    "encrypted_size_2": "BFB33C61EBD033182431F60F5C28BB58",
+                    "gid": "71FE65B26F946189AE854DC67FEED7DC",
+                    "size": "BFB33C61EBD033182431F60F5C28BB58",
                     "download": "DD8E7AB77FAB5031B0CB22E63793EF51"
                 },
                 "closedtestb": {
-                    "encrypted_gid_2": "3EAB8B937CE73D54B8B6DB4CE79DBDE0",
-                    "encrypted_size_2": "6A447CFD84F6E2C954939C3AAB5E3422",
+                    "gid": "3EAB8B937CE73D54B8B6DB4CE79DBDE0",
+                    "size": "6A447CFD84F6E2C954939C3AAB5E3422",
                     "download": "872D2353CE6DE8A33209DD7CAFAB0EE9"
                 },
                 "development": {
-                    "encrypted_gid_2": "B5DFCD17599091D0AA1CAC000471D6AD",
-                    "encrypted_size_2": "C70DA3D3D72EC1BD41DFC3F5B69629B5",
+                    "gid": "B5DFCD17599091D0AA1CAC000471D6AD",
+                    "size": "C70DA3D3D72EC1BD41DFC3F5B69629B5",
                     "download": "226A4E2F607621265D361D5BC9242E5D"
                 },
                 "marketing": {
-                    "encrypted_gid_2": "3DB5140E7D3D6605D6CB5E2AF345F843",
-                    "encrypted_size_2": "8707034CDBA29D56D320CACD7BBCDE61",
+                    "gid": "3DB5140E7D3D6605D6CB5E2AF345F843",
+                    "size": "8707034CDBA29D56D320CACD7BBCDE61",
                     "download": "4B3F90E783CF539DC064C1560DE977D0"
                 },
                 "pre-release": {
-                    "encrypted_gid_2": "03A616E22B7C45EB5EB03AC6E095606D",
-                    "encrypted_size_2": "FFDA7CC3B67F1A534246CB9E110B0F36",
+                    "gid": "03A616E22B7C45EB5EB03AC6E095606D",
+                    "size": "FFDA7CC3B67F1A534246CB9E110B0F36",
                     "download": "1F621202B3EFFDC7B3E2F9744AC11443"
                 },
                 "staging": {
-                    "encrypted_gid_2": "F10253D8F07AEF4ED51708F3602A5AB6",
-                    "encrypted_size_2": "1A1AA7AD8C4769627D242CA70AD53921",
+                    "gid": "F10253D8F07AEF4ED51708F3602A5AB6",
+                    "size": "1A1AA7AD8C4769627D242CA70AD53921",
                     "download": "E796AFA2A231005D4E0E01D03AD952A8"
                 }
             }
@@ -244,7 +248,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "03a05adda47081f3f1a3d44fb45d42b6f1e3f4f9",
-    "_size": 5483
+    "_change_number": 18903802,
+    "_sha": "173804db17e2ebffe13028faf4bef41b9d1fc65d",
+    "_size": 5430
 }

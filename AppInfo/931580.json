@@ -54,39 +54,42 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "8972648657173391787"
+                "public": {
+                    "gid": "9094305199907362377",
+                    "size": "3768367642",
+                    "download": "1606859008"
+                }
             },
-            "maxsize": "3711120215",
             "encryptedmanifests": {
                 "4testlive": {
-                    "encrypted_gid_2": "E6F642BD99AA7E14BA312A839D397AC2",
-                    "encrypted_size_2": "74A544E553366D1D3DD327D2BE72BBDE",
+                    "gid": "E6F642BD99AA7E14BA312A839D397AC2",
+                    "size": "74A544E553366D1D3DD327D2BE72BBDE",
                     "download": "8238013DD081C2596B0A455CDD1B1577"
                 },
                 "branch4test": {
-                    "encrypted_gid_2": "C2C8CECAA60D2B654EB04E150638BECD",
-                    "encrypted_size_2": "1332E8A005DA1DAD75ECB5981D03BE02",
+                    "gid": "C2C8CECAA60D2B654EB04E150638BECD",
+                    "size": "1332E8A005DA1DAD75ECB5981D03BE02",
                     "download": "73C2B3110225834DDAED05706FB08C2C"
                 },
                 "candidate4testlive": {
-                    "encrypted_gid_2": "3DB1BA89168EF19F7CB993C36BEEADA6",
-                    "encrypted_size_2": "1726844A1F1CF586CB9C28F87EF09FC3",
+                    "gid": "3DB1BA89168EF19F7CB993C36BEEADA6",
+                    "size": "1726844A1F1CF586CB9C28F87EF09FC3",
                     "download": "4DF83311D1B8F9512C00C50E81E1DC93"
                 },
                 "coc_staging": {
-                    "encrypted_gid_2": "D078D3F9894824EBB876A85C6029F917",
-                    "encrypted_size_2": "D6F38AD3299BE9DE5DCF6850BEE10ECF",
+                    "gid": "D078D3F9894824EBB876A85C6029F917",
+                    "size": "D6F38AD3299BE9DE5DCF6850BEE10ECF",
                     "download": "042B799F6CEDB105CFD8D6FC3AE78F55"
                 },
                 "cocplaytest": {
-                    "encrypted_gid_2": "EC2A518D04B985A2CF8B6A6076500DAE",
-                    "encrypted_size_2": "92DA3DC951F93E61946825C2E33C5227",
+                    "gid": "EC2A518D04B985A2CF8B6A6076500DAE",
+                    "size": "92DA3DC951F93E61946825C2E33C5227",
                     "download": "2534C7BB8EC8B9BDF40A08B4C9E605F6"
                 },
                 "rc-beta": {
-                    "encrypted_gid_2": "3C8B03A8617EB1E935C642EF3534D733",
-                    "encrypted_size_2": "FB02A3920D43D9CADE7C6A6323466AB8",
-                    "download": "5CA48A27443EB9322C164749F66C9683"
+                    "gid": "25E075C1FEFC80EC5D7EA93E2DC07632",
+                    "size": "3D82660FD662FE0A913ED467ECFDF6EB",
+                    "download": "84519B09F64EA54E6A14E9D37AD4BB3D"
                 }
             }
         },
@@ -96,45 +99,49 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "560819281529291749"
+                "public": {
+                    "gid": "560819281529291749",
+                    "size": "0",
+                    "download": "0"
+                }
             },
             "encryptedmanifests": {
                 "4testlive": {
-                    "encrypted_gid_2": "89C6EDAC7F846729A5891952FA8F3727",
-                    "encrypted_size_2": "E3D32C9ECF139D04D73A91BD7889780F",
+                    "gid": "89C6EDAC7F846729A5891952FA8F3727",
+                    "size": "E3D32C9ECF139D04D73A91BD7889780F",
                     "download": "E3D32C9ECF139D04D73A91BD7889780F"
                 },
                 "branch4test": {
-                    "encrypted_gid_2": "C4BAF4F3036FF987D7C427AC9182F9A5",
-                    "encrypted_size_2": "932C34F0D1EF1F9C964C7B4115564CCB",
+                    "gid": "C4BAF4F3036FF987D7C427AC9182F9A5",
+                    "size": "932C34F0D1EF1F9C964C7B4115564CCB",
                     "download": "932C34F0D1EF1F9C964C7B4115564CCB"
                 },
                 "candidate4testlive": {
-                    "encrypted_gid_2": "260E15F5E24AF25294CDDE932FBD055F",
-                    "encrypted_size_2": "04524542102F3C358FF3FD9B8B29E93E",
+                    "gid": "260E15F5E24AF25294CDDE932FBD055F",
+                    "size": "04524542102F3C358FF3FD9B8B29E93E",
                     "download": "04524542102F3C358FF3FD9B8B29E93E"
                 },
                 "coc_staging": {
-                    "encrypted_gid_2": "D901D028F7D80FD95179F373F63142F5",
-                    "encrypted_size_2": "962661E9EA62DE67F7889726682D148C",
+                    "gid": "D901D028F7D80FD95179F373F63142F5",
+                    "size": "962661E9EA62DE67F7889726682D148C",
                     "download": "962661E9EA62DE67F7889726682D148C"
                 },
                 "cocplaytest": {
-                    "encrypted_gid_2": "78D60039F024324D65C3BA79CF554971",
-                    "encrypted_size_2": "AC3328E6DE5858B61CDC8ECFC85F04F7",
+                    "gid": "78D60039F024324D65C3BA79CF554971",
+                    "size": "AC3328E6DE5858B61CDC8ECFC85F04F7",
                     "download": "AC3328E6DE5858B61CDC8ECFC85F04F7"
                 },
                 "rc-beta": {
-                    "encrypted_gid_2": "DB1CB7D50EE8C9B160B9F910A6EDE76D",
-                    "encrypted_size_2": "EEF6B68AB614BE00CE98595C732F21D3",
+                    "gid": "DB1CB7D50EE8C9B160B9F910A6EDE76D",
+                    "size": "EEF6B68AB614BE00CE98595C732F21D3",
                     "download": "EEF6B68AB614BE00CE98595C732F21D3"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "10627516",
-                "timeupdated": "1677588628"
+                "buildid": "11269636",
+                "timeupdated": "1684831687"
             },
             "4testlive": {
                 "buildid": "7697636",
@@ -162,14 +169,14 @@
                 "timeupdated": "1661441531"
             },
             "rc-beta": {
-                "buildid": "10627516",
+                "buildid": "11269636",
                 "pwdrequired": "1",
-                "timeupdated": "1677226437"
+                "timeupdated": "1684481291"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 18076822,
-    "_sha": "2388cec3c112db1e9caea5a5df4b427ac7056c1f",
-    "_size": 4756
+    "_change_number": 18894715,
+    "_sha": "c364e9182c4bc2c8a14b25679b88e2a9b13602d9",
+    "_size": 4581
 }

@@ -120,9 +120,12 @@
             },
             "dlcappid": "1396070",
             "manifests": {
-                "public": "560042311858537652"
-            },
-            "maxsize": "54182607"
+                "public": {
+                    "gid": "560042311858537652",
+                    "size": "54182607",
+                    "download": "38288400"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -132,7 +135,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 17148654,
-    "_sha": "10d9348654cabc87040fd5e034d64c6fe3510eb3",
-    "_size": 2455
+    "_change_number": 18736181,
+    "_sha": "f6536e99b6f364004ce77458dec818acd80a531d",
+    "_size": 2505
 }

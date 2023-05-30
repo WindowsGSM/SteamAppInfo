@@ -67,63 +67,66 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "5468976096493403536"
+                "public": {
+                    "gid": "5468976096493403536",
+                    "size": "1935378518",
+                    "download": "734943376"
+                }
             },
-            "maxsize": "1935378518",
             "encryptedmanifests": {
                 "branch-development": {
-                    "encrypted_gid_2": "FEC3CF979D906EA3C67A0293D215BE05",
-                    "encrypted_size_2": "5CFA36CAAA6035D570F7804AA7316E9D",
+                    "gid": "FEC3CF979D906EA3C67A0293D215BE05",
+                    "size": "5CFA36CAAA6035D570F7804AA7316E9D",
                     "download": "20C819E94849B6E3858857FCBF0E26B4"
                 },
                 "branch-release": {
-                    "encrypted_gid_2": "B346A76D1FF0031EBD60F48AA11ED60D",
-                    "encrypted_size_2": "30BEB2347214AB5FAD621AE3DA6D5F07",
+                    "gid": "B346A76D1FF0031EBD60F48AA11ED60D",
+                    "size": "30BEB2347214AB5FAD621AE3DA6D5F07",
                     "download": "9F57619CC0D2338B801901CA6431FBD2"
                 },
                 "dev-jmk": {
-                    "encrypted_gid_2": "2187F927E09508CCD16345867FADC6D1",
-                    "encrypted_size_2": "2D4914FF4E69FC0989D2FA8AC3BECE63",
+                    "gid": "2187F927E09508CCD16345867FADC6D1",
+                    "size": "2D4914FF4E69FC0989D2FA8AC3BECE63",
                     "download": "1AC4473A8BFF4F6851009AFAD8F9757E"
                 },
                 "dev-nd": {
-                    "encrypted_gid_2": "5F06E7215798AE0E5C1C2A5652564C04",
-                    "encrypted_size_2": "7496C9F932A6624356745773747780D3",
+                    "gid": "5F06E7215798AE0E5C1C2A5652564C04",
+                    "size": "7496C9F932A6624356745773747780D3",
                     "download": "D481747DD11E2D9DEB95E38DD51C5638"
                 },
                 "development": {
-                    "encrypted_gid_2": "4CF13E94CA37B22EAE431B4D61A6EF5C",
-                    "encrypted_size_2": "972AC0CD187653B148C5D1CD62F04D97",
+                    "gid": "4CF13E94CA37B22EAE431B4D61A6EF5C",
+                    "size": "972AC0CD187653B148C5D1CD62F04D97",
                     "download": "8D668AFF26BDA7EDFB70DAEBFDA56F43"
                 },
                 "external": {
-                    "encrypted_gid_2": "A8F36FBBBEF9E43C14928AB95F941D9C",
-                    "encrypted_size_2": "A75360137732E8E5D50F4AE82AAF6C97",
+                    "gid": "A8F36FBBBEF9E43C14928AB95F941D9C",
+                    "size": "A75360137732E8E5D50F4AE82AAF6C97",
                     "download": "3E7C2895AF63E083D58993D3D0A8E925"
                 },
                 "internal-qa": {
-                    "encrypted_gid_2": "703EE46F34BBC57EF65436DE11AC009E",
-                    "encrypted_size_2": "4C9E5BAE35B47A8179C7DC748B4E1C4D",
+                    "gid": "703EE46F34BBC57EF65436DE11AC009E",
+                    "size": "4C9E5BAE35B47A8179C7DC748B4E1C4D",
                     "download": "58AEF8242ECD73960CFE2030232220FE"
                 },
                 "mainline-development": {
-                    "encrypted_gid_2": "6607C058183AF9E2F2B0F989FD763FF6",
-                    "encrypted_size_2": "D6B3238FE2B4E9312DB2639B24541F92",
+                    "gid": "6607C058183AF9E2F2B0F989FD763FF6",
+                    "size": "D6B3238FE2B4E9312DB2639B24541F92",
                     "download": "82BCD8D632E43A28D8004EE14C6C43DA"
                 },
                 "mainline-release": {
-                    "encrypted_gid_2": "1D46D9A7F156740D5BEE286B576032E2",
-                    "encrypted_size_2": "5F0258D74C82F025B67D7ADA65C7ED24",
+                    "gid": "1D46D9A7F156740D5BEE286B576032E2",
+                    "size": "5F0258D74C82F025B67D7ADA65C7ED24",
                     "download": "717411649621C48E08C80FB289DF25C3"
                 },
                 "release-candidate": {
-                    "encrypted_gid_2": "E3B4DE971C5419C2160DA4F490A00B38",
-                    "encrypted_size_2": "AE0BE98237C90996F491D58DA876E606",
+                    "gid": "E3B4DE971C5419C2160DA4F490A00B38",
+                    "size": "AE0BE98237C90996F491D58DA876E606",
                     "download": "D3AB5723DB518FAD68F2FCD1CA94F8B2"
                 },
                 "release-test": {
-                    "encrypted_gid_2": "9DFC0E1E2FC117BD76060C3B03EAA200",
-                    "encrypted_size_2": "B98038C2F6BBD32CE26CDBBE4DC0A825",
+                    "gid": "9DFC0E1E2FC117BD76060C3B03EAA200",
+                    "size": "B98038C2F6BBD32CE26CDBBE4DC0A825",
                     "download": "FCB8FEDB19246143B60070922CD7F847"
                 }
             }
@@ -191,7 +194,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "de1aede47ad1d2a46bfab43a61ed6520f788de62",
-    "_size": 5174
+    "_change_number": 18903802,
+    "_sha": "bd8974f9ffef0f9e3e934667e2f42cce59a48ea2",
+    "_size": 4961
 }

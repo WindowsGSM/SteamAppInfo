@@ -100,16 +100,27 @@
         },
         "869801": {
             "manifests": {
-                "public": "3002060983959142354",
-                "revert": "142259631111049058",
-                "upcoming": "3002060983959142354"
+                "public": {
+                    "gid": "8341611807818681443",
+                    "size": "6642705832",
+                    "download": "2566248608"
+                },
+                "revert": {
+                    "gid": "3002060983959142354",
+                    "size": "6634997059",
+                    "download": "2565975856"
+                },
+                "upcoming": {
+                    "gid": "8341611807818681443",
+                    "size": "6642705832",
+                    "download": "2566248608"
+                }
             },
-            "maxsize": "6634997059",
             "encryptedmanifests": {
                 "prerelease": {
-                    "encrypted_gid_2": "9EE54A1B940F7C736A66BDFA098F6585",
-                    "encrypted_size_2": "8929EC25687E5D8206E62B2AB7047FA3",
-                    "download": "0630479C6EBAE02C36F75F81D6ABC90D"
+                    "gid": "BDB3FCF101E1339486C98FAE4ECFC0D6",
+                    "size": "7504F5656D181776EBA57E63B7E37B36",
+                    "download": "33D20516381403DD97DBBA4E363C46DB"
                 }
             }
         },
@@ -118,16 +129,27 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "5858032172899469510",
-                "revert": "1434257442079759524",
-                "upcoming": "5858032172899469510"
+                "public": {
+                    "gid": "7338742399693324270",
+                    "size": "55333603",
+                    "download": "19013872"
+                },
+                "revert": {
+                    "gid": "5858032172899469510",
+                    "size": "55281763",
+                    "download": "18999360"
+                },
+                "upcoming": {
+                    "gid": "7338742399693324270",
+                    "size": "55333603",
+                    "download": "19013872"
+                }
             },
-            "maxsize": "55326307",
             "encryptedmanifests": {
                 "prerelease": {
-                    "encrypted_gid_2": "B5CDC653DCD769CA3FEAF784F7EEAE2A",
-                    "encrypted_size_2": "0C045A859F9FBB077DA941EE71CB9FB4",
-                    "download": "6112D5C3194872F6E392A9E875FB7E86"
+                    "gid": "004A6DE7F50807AA18C64C0CA549B619",
+                    "size": "E0779A509CBE609F1EC024D966BDC0F0",
+                    "download": "1272663CB7E30E34C21766FC90DFD493"
                 }
             }
         },
@@ -136,44 +158,55 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "7912209290579243323",
-                "revert": "2785468764305214499",
-                "upcoming": "7912209290579243323"
+                "public": {
+                    "gid": "1794050945860213805",
+                    "size": "107506403",
+                    "download": "28606928"
+                },
+                "revert": {
+                    "gid": "7912209290579243323",
+                    "size": "108280244",
+                    "download": "28857248"
+                },
+                "upcoming": {
+                    "gid": "1794050945860213805",
+                    "size": "107506403",
+                    "download": "28606928"
+                }
             },
-            "maxsize": "108528002",
             "encryptedmanifests": {
                 "prerelease": {
-                    "encrypted_gid_2": "9CACF3C8F7ECFE8D7A8C4391F7ADEEF7",
-                    "encrypted_size_2": "6EDC8619F5D8C2F90CB9C55543464B32",
-                    "download": "144FEB63E6362197F6CB605B251177DF"
+                    "gid": "9658FA3AE99FA455DB565DF321BF4FDE",
+                    "size": "A7395453BBDA6F8ED59B343E11ED1510",
+                    "download": "20CE91F35DEB8E07327D512282359F48"
                 }
             }
         },
         "869804": {},
         "branches": {
             "public": {
-                "buildid": "11169898",
-                "timeupdated": "1683386060"
+                "buildid": "11271252",
+                "timeupdated": "1684597425"
             },
             "prerelease": {
-                "buildid": "11169898",
+                "buildid": "11271252",
                 "pwdrequired": "1",
-                "timeupdated": "1683351866"
+                "timeupdated": "1684495680"
             },
             "revert": {
-                "buildid": "10908740",
+                "buildid": "11169898",
                 "description": "Previous patch",
-                "timeupdated": "1683386073"
+                "timeupdated": "1684597445"
             },
             "upcoming": {
-                "buildid": "11169898",
+                "buildid": "11271252",
                 "description": "Upcoming changes",
-                "timeupdated": "1683385171"
+                "timeupdated": "1684559906"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 18701385,
-    "_sha": "434e5afff252f57c120eea3a22c5eab42c9d3715",
-    "_size": 4265
+    "_change_number": 18869456,
+    "_sha": "a58924d5da0e92e5e8456755a2a3811515f4ef9f",
+    "_size": 4806
 }

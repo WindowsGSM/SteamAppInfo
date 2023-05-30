@@ -98,42 +98,46 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "5833126375727327489"
+                "public": {
+                    "gid": "5833126375727327489",
+                    "size": "0",
+                    "download": "0"
+                }
             },
             "encryptedmanifests": {
                 "experimental": {
-                    "encrypted_gid_2": "445DCDAE477BF25C93FEE982819683C9",
-                    "encrypted_size_2": "813E24FCCC6F290830B681E086681C60",
+                    "gid": "445DCDAE477BF25C93FEE982819683C9",
+                    "size": "813E24FCCC6F290830B681E086681C60",
                     "download": "9B9BA862DD13D028F086B8F9BB3078C5"
                 },
                 "experimental_staging": {
-                    "encrypted_gid_2": "7A02A2459AD240AD0FBAA7BF91668460",
-                    "encrypted_size_2": "6B269D86308BA825FE5554A4FD509986",
+                    "gid": "7A02A2459AD240AD0FBAA7BF91668460",
+                    "size": "6B269D86308BA825FE5554A4FD509986",
                     "download": "7F68201C2442DD75F2208B7B0E9547A8"
                 },
                 "nuds": {
-                    "encrypted_gid_2": "BD2B309A51BD9DFD2EB51DA50070565A",
-                    "encrypted_size_2": "23936FDA3109A4C86890F941C61376A0",
+                    "gid": "BD2B309A51BD9DFD2EB51DA50070565A",
+                    "size": "23936FDA3109A4C86890F941C61376A0",
                     "download": "6CDBB5E7B05790B4487EEAA6D889E58A"
                 },
                 "qa_main_cds": {
-                    "encrypted_gid_2": "00B3A604A1B6B484D29875BDCDA32324",
-                    "encrypted_size_2": "13BDA4846BC78823BC08C12900B608AD",
-                    "download": "BC92C534F416F91FD0F3A5345A2AB762"
+                    "gid": "4096144724C7BA673AD06150834C0FA3",
+                    "size": "C093FE2119043F33B2F5ECAAF794BC35",
+                    "download": "92BA6D3E9CA885CBADCAC8363F3CBC09"
                 },
                 "release": {
-                    "encrypted_gid_2": "60E58CF2D72104FC520E6C5A0C90F42D",
-                    "encrypted_size_2": "4362493A56F550DD355DE18E8F7E8194",
-                    "download": "DD9D00B5DA36FC630CDAFE92142A91F5"
+                    "gid": "1DD6F138ED449599333697D0D18913C9",
+                    "size": "FA83113871ECF8C6C0E5994E1BFDA843",
+                    "download": "DC9C28C5C97B8058BF3D3D84FB51A5C2"
                 },
                 "release_candidate": {
-                    "encrypted_gid_2": "6B4DAB178F5889579AC4B72E15752CF9",
-                    "encrypted_size_2": "D7C94E12AECBB4A7CAC422CF9072FBEC",
-                    "download": "0F2922E48BF9D3EC1517B2E8F63600A9"
+                    "gid": "DF2CD1D58DC8229A5C1EC94A4C908640",
+                    "size": "584E71739CE5490BB8AFC6D41608DA50",
+                    "download": "5116488DF22D4E4BCC751493048DB687"
                 },
                 "staging": {
-                    "encrypted_gid_2": "19FE1866786F01AAB3B56AAB9D22D173",
-                    "encrypted_size_2": "BAF3747859C66BEB9A319FAA89D5073A",
+                    "gid": "19FE1866786F01AAB3B56AAB9D22D173",
+                    "size": "BAF3747859C66BEB9A319FAA89D5073A",
                     "download": "F422ABB20284EFBB98B93E51B4AF782C"
                 }
             }
@@ -159,19 +163,19 @@
                 "timeupdated": "1596461840"
             },
             "qa_main_cds": {
-                "buildid": "11173058",
+                "buildid": "11345213",
                 "pwdrequired": "1",
-                "timeupdated": "1683417122"
+                "timeupdated": "1685399547"
             },
             "release": {
-                "buildid": "11146374",
+                "buildid": "11252326",
                 "pwdrequired": "1",
-                "timeupdated": "1683205625"
+                "timeupdated": "1684832561"
             },
             "release_candidate": {
-                "buildid": "11153857",
+                "buildid": "11343186",
                 "pwdrequired": "1",
-                "timeupdated": "1683194706"
+                "timeupdated": "1685375872"
             },
             "staging": {
                 "buildid": "6214669",
@@ -181,7 +185,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18704284,
-    "_sha": "d592e93f83b95acebe4aa3b6443c3625aaf86464",
-    "_size": 4373
+    "_change_number": 18973944,
+    "_sha": "7e3b4daa2c1c8d36122b18012dadcba17e00440a",
+    "_size": 4266
 }

@@ -70,9 +70,12 @@
                 "language": ""
             },
             "manifests": {
-                "public": "4637791487145696818"
-            },
-            "maxsize": "399046982"
+                "public": {
+                    "gid": "4637791487145696818",
+                    "size": "399046982",
+                    "download": "138997184"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -82,7 +85,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "68a0dd8315807f67de97aa7b088092bac18bfc24",
-    "_size": 1768
+    "_change_number": 18736181,
+    "_sha": "06c85ae493d4c82ad6999a02b1ec66241f66beac",
+    "_size": 1819
 }

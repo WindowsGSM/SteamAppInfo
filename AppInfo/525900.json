@@ -73,9 +73,12 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "4443064640354221947"
-            },
-            "maxsize": "2994275639"
+                "public": {
+                    "gid": "4443064640354221947",
+                    "size": "2994275639",
+                    "download": "1293030640"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -85,7 +88,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "9a8d41c9428a99564ccc70494541752be0016e51",
-    "_size": 1728
+    "_change_number": 18903802,
+    "_sha": "f1b7d2a744f64718522d14672a153f49e9ace050",
+    "_size": 1780
 }

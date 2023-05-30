@@ -110,18 +110,21 @@
         "baselanguages": "english",
         "476401": {
             "manifests": {
-                "public": "8003783395520251822"
+                "public": {
+                    "gid": "8003783395520251822",
+                    "size": "3703782319",
+                    "download": "1371621280"
+                }
             },
-            "maxsize": "3703782319",
             "encryptedmanifests": {
                 "communitytest-ds": {
-                    "encrypted_gid_2": "683DC2D6AD7C63942D9E0FDDCC94742C",
-                    "encrypted_size_2": "F18A2A2D1DB976D8F8A7D024FFD07147",
+                    "gid": "683DC2D6AD7C63942D9E0FDDCC94742C",
+                    "size": "F18A2A2D1DB976D8F8A7D024FFD07147",
                     "download": "ED6262615C66F05BE5AEC724BA6DB33C"
                 },
                 "devtest": {
-                    "encrypted_gid_2": "C2CC77108BA8D95244C54A582BE9A5D1",
-                    "encrypted_size_2": "2E68AF2BE78DD22AA1DAC5056CAF19A8",
+                    "gid": "C2CC77108BA8D95244C54A582BE9A5D1",
+                    "size": "2E68AF2BE78DD22AA1DAC5056CAF19A8",
                     "download": "083D3BBEE5FDAE175F41FA6D02E3AD34"
                 }
             }
@@ -144,7 +147,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "74d9f17b2593d8400914d48f69e7ab662b7d47a7",
-    "_size": 3158
+    "_change_number": 18903802,
+    "_sha": "b0290c563877d1259d187006aaa2842db3cc4f7d",
+    "_size": 3162
 }

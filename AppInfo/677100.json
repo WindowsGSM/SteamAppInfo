@@ -103,18 +103,21 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "1104941466853617464"
+                "public": {
+                    "gid": "1104941466853617464",
+                    "size": "1220241781",
+                    "download": "301035408"
+                }
             },
-            "maxsize": "1220241781",
             "encryptedmanifests": {
                 "internal": {
-                    "encrypted_gid_2": "C433532C7C6BBEBF18A982F0DD6D90EE",
-                    "encrypted_size_2": "DA3498197378FDA2E0237756886E929B",
+                    "gid": "C433532C7C6BBEBF18A982F0DD6D90EE",
+                    "size": "DA3498197378FDA2E0237756886E929B",
                     "download": "C7707148EDC4B2D78349788750ECE1F5"
                 },
                 "preview": {
-                    "encrypted_gid_2": "6AFE4C09DFBBEF721B2B8254E143235C",
-                    "encrypted_size_2": "C6AE484A6B044F3D6C4DE16F552D72C6",
+                    "gid": "6AFE4C09DFBBEF721B2B8254E143235C",
+                    "size": "C6AE484A6B044F3D6C4DE16F552D72C6",
                     "download": "8E23EAAFA9CC9CA6503CA88B1E9F9665"
                 }
             }
@@ -124,18 +127,21 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "6713562120357825786"
+                "public": {
+                    "gid": "6713562120357825786",
+                    "size": "1180838757",
+                    "download": "288950576"
+                }
             },
-            "maxsize": "1180838757",
             "encryptedmanifests": {
                 "internal": {
-                    "encrypted_gid_2": "90B8578E9B7BC56C077536529BF92118",
-                    "encrypted_size_2": "FCE7FF82ABB5D67CF59F413F03166064",
+                    "gid": "90B8578E9B7BC56C077536529BF92118",
+                    "size": "FCE7FF82ABB5D67CF59F413F03166064",
                     "download": "6A4BAA5F472AFB6BB9552B49A3AAC26F"
                 },
                 "preview": {
-                    "encrypted_gid_2": "22AFFD421BD293028E42132DCE98B6A4",
-                    "encrypted_size_2": "518B2DB20DF859C37B97AB87BC3C2CBA",
+                    "gid": "22AFFD421BD293028E42132DCE98B6A4",
+                    "size": "518B2DB20DF859C37B97AB87BC3C2CBA",
                     "download": "550C1B99C30BC3D1E96A17E2ECC18A6F"
                 }
             }
@@ -158,7 +164,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "4b233b4a269de69fd05ca7df3d3e06040e907de0",
-    "_size": 3467
+    "_change_number": 18903802,
+    "_sha": "95bd93f7a369e64b3d802d1b2cab7c8bdf8601d5",
+    "_size": 3473
 }

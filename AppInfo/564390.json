@@ -76,20 +76,31 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "7369212440532702738",
-                "legacy": "7422681394301168047",
-                "previousversion": "9126580938285381437"
+                "public": {
+                    "gid": "7369212440532702738",
+                    "size": "68597118",
+                    "download": "20949296"
+                },
+                "legacy": {
+                    "gid": "7422681394301168047",
+                    "size": "65557886",
+                    "download": "20135328"
+                },
+                "previousversion": {
+                    "gid": "9126580938285381437",
+                    "size": "68609918",
+                    "download": "20953872"
+                }
             },
-            "maxsize": "68609918",
             "encryptedmanifests": {
                 "closedbeta": {
-                    "encrypted_gid_2": "092DF52D3D8965050F39B6F34CC9F9DA",
-                    "encrypted_size_2": "4A7EC4C9395618314DBB0750CE6089E3",
+                    "gid": "092DF52D3D8965050F39B6F34CC9F9DA",
+                    "size": "4A7EC4C9395618314DBB0750CE6089E3",
                     "download": "EB0D6DCAFA28548BCB13FBCF831FF09D"
                 },
                 "internal": {
-                    "encrypted_gid_2": "2914334BC929E31FDCBE7CD75A65EFA5",
-                    "encrypted_size_2": "82C135723520CB85A3969611BBC0F4BE",
+                    "gid": "2914334BC929E31FDCBE7CD75A65EFA5",
+                    "size": "82C135723520CB85A3969611BBC0F4BE",
                     "download": "2D18C2E9831F9BF90AECDCE22228831A"
                 }
             }
@@ -99,20 +110,31 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "8207392409225420878",
-                "legacy": "8367811276488978192",
-                "previousversion": "5600057570879111506"
+                "public": {
+                    "gid": "8207392409225420878",
+                    "size": "119470603",
+                    "download": "30551136"
+                },
+                "legacy": {
+                    "gid": "8367811276488978192",
+                    "size": "107605627",
+                    "download": "28894928"
+                },
+                "previousversion": {
+                    "gid": "5600057570879111506",
+                    "size": "119495179",
+                    "download": "30577392"
+                }
             },
-            "maxsize": "119495179",
             "encryptedmanifests": {
                 "closedbeta": {
-                    "encrypted_gid_2": "CB89BDB2FEABE0F3431D07DF508D003B",
-                    "encrypted_size_2": "DDB0B8F326E27EBDE348FEF4DD938BE5",
+                    "gid": "CB89BDB2FEABE0F3431D07DF508D003B",
+                    "size": "DDB0B8F326E27EBDE348FEF4DD938BE5",
                     "download": "4BEC20214C2840C110F72C306AEDF3BD"
                 },
                 "internal": {
-                    "encrypted_gid_2": "36A67389A07C1BF29AC5677A2A696CED",
-                    "encrypted_size_2": "1E963E0B763F2B2B374F760A3A0C7626",
+                    "gid": "36A67389A07C1BF29AC5677A2A696CED",
+                    "size": "1E963E0B763F2B2B374F760A3A0C7626",
                     "download": "1E963E0B763F2B2B374F760A3A0C7626"
                 }
             }
@@ -122,26 +144,36 @@
                 "oslist": "macos"
             },
             "manifests": {
-                "public": "656839774688758553",
-                "legacy": "3473616017884258185",
-                "previousversion": "8100227582573936163"
+                "public": {
+                    "gid": "656839774688758553",
+                    "size": "79348076",
+                    "download": "21315376"
+                },
+                "legacy": {
+                    "gid": "3473616017884258185",
+                    "size": "77883804",
+                    "download": "19912784"
+                },
+                "previousversion": {
+                    "gid": "8100227582573936163",
+                    "size": "79368732",
+                    "download": "21328976"
+                }
             },
-            "maxsize": "79368732",
             "encryptedmanifests": {
                 "closedbeta": {
-                    "encrypted_gid_2": "EADD59E00721441D26BB4ED54ADE615E",
-                    "encrypted_size_2": "B69169B1B61F43EAFDE98DF1B22B8E05",
+                    "gid": "EADD59E00721441D26BB4ED54ADE615E",
+                    "size": "B69169B1B61F43EAFDE98DF1B22B8E05",
                     "download": "EDA8E4065C4782612BD16A744CFCC943"
                 },
                 "internal": {
-                    "encrypted_gid_2": "B6C061A8434A6E2978901216FBCDB661",
-                    "encrypted_size_2": "1E963E0B763F2B2B374F760A3A0C7626",
+                    "gid": "B6C061A8434A6E2978901216FBCDB661",
+                    "size": "1E963E0B763F2B2B374F760A3A0C7626",
                     "download": "1E963E0B763F2B2B374F760A3A0C7626"
                 }
             }
         },
         "564315": {
-            "maxsize": "622695576",
             "depotfromapp": "564310",
             "sharedinstall": "2"
         },
@@ -149,7 +181,6 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "33548240",
             "depotfromapp": "564310",
             "sharedinstall": "2"
         },
@@ -157,7 +188,6 @@
             "config": {
                 "oslist": "linux"
             },
-            "maxsize": "197498",
             "depotfromapp": "564310",
             "sharedinstall": "2"
         },
@@ -165,37 +195,31 @@
             "config": {
                 "oslist": "macos"
             },
-            "maxsize": "457332",
             "depotfromapp": "564310",
             "sharedinstall": "2"
         },
         "564320": {
             "dlcappid": "564320",
-            "maxsize": "1442210446",
             "depotfromapp": "564310",
             "sharedinstall": "2"
         },
         "564321": {
             "dlcappid": "564321",
-            "maxsize": "2443411138",
             "depotfromapp": "564310",
             "sharedinstall": "2"
         },
         "564322": {
             "dlcappid": "564322",
-            "maxsize": "355177490",
             "depotfromapp": "564310",
             "sharedinstall": "2"
         },
         "564323": {
             "dlcappid": "564323",
-            "maxsize": "3677768100",
             "depotfromapp": "564310",
             "sharedinstall": "2"
         },
         "564324": {
             "dlcappid": "564324",
-            "maxsize": "411864345",
             "depotfromapp": "564310",
             "sharedinstall": "2"
         },
@@ -225,7 +249,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "2e2d8bbffea7023a5d10fbcda4cdfd51087cc068",
-    "_size": 5035
+    "_change_number": 18903802,
+    "_sha": "3e3da9e579a6d06e286f8f73d2729539c5c1bdfe",
+    "_size": 5263
 }

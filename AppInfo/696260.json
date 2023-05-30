@@ -85,13 +85,16 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "1345350015068019400"
+                "public": {
+                    "gid": "1345350015068019400",
+                    "size": "5271917139",
+                    "download": "5043879792"
+                }
             },
-            "maxsize": "5271917139",
             "encryptedmanifests": {
                 "beta": {
-                    "encrypted_gid_2": "85CBA7C769564450FC01467C983AD0E0",
-                    "encrypted_size_2": "1529238502FCECA603DC05698830DFD6",
+                    "gid": "85CBA7C769564450FC01467C983AD0E0",
+                    "size": "1529238502FCECA603DC05698830DFD6",
                     "download": "E912F8ED332EEB21CF4D61435ACEAA9D"
                 }
             }
@@ -102,13 +105,16 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "1431817530079395411"
+                "public": {
+                    "gid": "1431817530079395411",
+                    "size": "150220374",
+                    "download": "57187424"
+                }
             },
-            "maxsize": "150220374",
             "encryptedmanifests": {
                 "beta": {
-                    "encrypted_gid_2": "80B3D265C49CCE64F98D2EFFC791BC7F",
-                    "encrypted_size_2": "CF0B14EC040625951A581672DE4C954C",
+                    "gid": "80B3D265C49CCE64F98D2EFFC791BC7F",
+                    "size": "CF0B14EC040625951A581672DE4C954C",
                     "download": "2DE9A2E13E8699DDFBE74851BB43BE35"
                 }
             }
@@ -126,7 +132,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18076822,
-    "_sha": "5adc10c4842fc84701974ee37286eba085a071fe",
-    "_size": 2751
+    "_change_number": 18903802,
+    "_sha": "ccdbb26d681cd139e163c80126ffdb6dc71377d7",
+    "_size": 2805
 }

@@ -94,19 +94,22 @@
         "baselanguages": "",
         "882431": {
             "manifests": {
-                "public": "7988123304271013993"
+                "public": {
+                    "gid": "7988123304271013993",
+                    "size": "2661950401",
+                    "download": "2422168064"
+                }
             },
-            "maxsize": "2661950401",
             "encryptedmanifests": {
                 "developers": {
-                    "encrypted_gid_2": "F77B90DD21C11350C3FBB68DACC4D606",
-                    "encrypted_size_2": "7A08B1397DDCF9FB6B47B54CB2A59C7C",
+                    "gid": "F77B90DD21C11350C3FBB68DACC4D606",
+                    "size": "7A08B1397DDCF9FB6B47B54CB2A59C7C",
                     "download": "0B5CA10FC9658B8F63FAB84AEFCD735E"
                 },
                 "tester": {
-                    "encrypted_gid_2": "D8CDB44DD21850CCC99F7978197F718C",
-                    "encrypted_size_2": "BEECAC38134FFFA495CED68C247B82C8",
-                    "download": "FB24BA4847C6EC03560A5645DFEA3F9A"
+                    "gid": "B72E045AFB2CA80FB7F47C978991630E",
+                    "size": "F547243480C0E4E1DFED6E784E08D7B6",
+                    "download": "7DCD52EA2607137265F71092A21C75FE"
                 }
             }
         },
@@ -115,19 +118,22 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "4702018444150579562"
+                "public": {
+                    "gid": "4702018444150579562",
+                    "size": "270275864",
+                    "download": "82320832"
+                }
             },
-            "maxsize": "270275864",
             "encryptedmanifests": {
                 "developers": {
-                    "encrypted_gid_2": "5F0529D9DA18E0A20D410FA59A85B15B",
-                    "encrypted_size_2": "47D63BA992F4220CED3968242935B448",
+                    "gid": "5F0529D9DA18E0A20D410FA59A85B15B",
+                    "size": "47D63BA992F4220CED3968242935B448",
                     "download": "677D6586640928CDD7E70B913F7A93AF"
                 },
                 "tester": {
-                    "encrypted_gid_2": "27B32BCEACBD38C5C6643CD3B6708EC7",
-                    "encrypted_size_2": "9F493B3DBCC5ABD25EBF21CA739278B9",
-                    "download": "F86710EE3F2EF35028BB208B2E369B81"
+                    "gid": "815519B966C8D33F1CD375531ECF4CDE",
+                    "size": "1AD2BC19DE59DFAAF2ED3D7E99F94939",
+                    "download": "E3E8DFE551CF804A3F94BA105DC08818"
                 }
             }
         },
@@ -136,17 +142,21 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "5016492970766040489"
+                "public": {
+                    "gid": "5016492970766040489",
+                    "size": "0",
+                    "download": "0"
+                }
             },
             "encryptedmanifests": {
                 "developers": {
-                    "encrypted_gid_2": "0CC32425E32C707CFF212776A284D88B",
-                    "encrypted_size_2": "86F9A1CB9715CB5890E2EDD2AB3CC9C7",
+                    "gid": "0CC32425E32C707CFF212776A284D88B",
+                    "size": "86F9A1CB9715CB5890E2EDD2AB3CC9C7",
                     "download": "86F9A1CB9715CB5890E2EDD2AB3CC9C7"
                 },
                 "tester": {
-                    "encrypted_gid_2": "5643867E109ACB9FB292ED092D621501",
-                    "encrypted_size_2": "07EB35D73105DCA453578EE1E0287C5F",
+                    "gid": "5643867E109ACB9FB292ED092D621501",
+                    "size": "07EB35D73105DCA453578EE1E0287C5F",
                     "download": "07EB35D73105DCA453578EE1E0287C5F"
                 }
             }
@@ -162,14 +172,14 @@
                 "timeupdated": "1680901243"
             },
             "tester": {
-                "buildid": "11148207",
+                "buildid": "11346727",
                 "pwdrequired": "1",
-                "timeupdated": "1683136489"
+                "timeupdated": "1685419695"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 18664821,
-    "_sha": "86e56c577e83d4c49c99f47a521c3354d9dd28bf",
-    "_size": 4165
+    "_change_number": 18976147,
+    "_sha": "6b71399b66e5e3004207cccdd47cf411dd3af8cd",
+    "_size": 4184
 }

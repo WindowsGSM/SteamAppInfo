@@ -111,16 +111,31 @@
                 "language": ""
             },
             "manifests": {
-                "public": "3898630428901371696",
-                "experimental": "3898630428901371696",
-                "private": "3898630428901371696",
-                "unstable": "3898630428901371696"
+                "public": {
+                    "gid": "3898630428901371696",
+                    "size": "2798641680",
+                    "download": "2557621968"
+                },
+                "experimental": {
+                    "gid": "3898630428901371696",
+                    "size": "2798641680",
+                    "download": "2557621968"
+                },
+                "private": {
+                    "gid": "3898630428901371696",
+                    "size": "2798641680",
+                    "download": "2557621968"
+                },
+                "unstable": {
+                    "gid": "3898630428901371696",
+                    "size": "2798641680",
+                    "download": "2557621968"
+                }
             },
-            "maxsize": "2798641680",
             "encryptedmanifests": {
                 "server_private": {
-                    "encrypted_gid_2": "2CEF22BD9C672F6CEE412590795FE411",
-                    "encrypted_size_2": "FD6186BC34474FD8FB2E428D9FD4EF93",
+                    "gid": "2CEF22BD9C672F6CEE412590795FE411",
+                    "size": "FD6186BC34474FD8FB2E428D9FD4EF93",
                     "download": "84B4AE34897CDC8FE98BDC01509F0B81"
                 }
             }
@@ -153,7 +168,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "e0d6df95949ef2cfd3a870c1ca8d713635f8431d",
-    "_size": 3267
+    "_change_number": 18821630,
+    "_sha": "ac517b1335e7e64eda510980bd95106e1be61975",
+    "_size": 3532
 }

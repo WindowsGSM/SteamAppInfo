@@ -94,13 +94,16 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "747071866143075051"
+                "public": {
+                    "gid": "747071866143075051",
+                    "size": "3451835141",
+                    "download": "2639985392"
+                }
             },
-            "maxsize": "3451835141",
             "encryptedmanifests": {
                 "testing_branch": {
-                    "encrypted_gid_2": "0A86F8C88E232B367154C465D63F2F47",
-                    "encrypted_size_2": "71C33477BCAD57FDA9DCF0537E015441",
+                    "gid": "0A86F8C88E232B367154C465D63F2F47",
+                    "size": "71C33477BCAD57FDA9DCF0537E015441",
                     "download": "55DD82B4D10752F916809A7F6142F8AE"
                 }
             }
@@ -118,7 +121,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "2f01ff0b77d3e1a8d0b9855a92302bddeae6d785",
-    "_size": 2490
+    "_change_number": 18903802,
+    "_sha": "b6c3f8c125e244cd092d631dc90fca79dca7229b",
+    "_size": 2518
 }

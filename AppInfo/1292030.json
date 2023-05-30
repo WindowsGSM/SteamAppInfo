@@ -88,10 +88,17 @@
                 "language": ""
             },
             "manifests": {
-                "public": "5738458929936146395",
-                "test": "5738458929936146395"
-            },
-            "maxsize": "416154249"
+                "public": {
+                    "gid": "5738458929936146395",
+                    "size": "416154249",
+                    "download": "156966544"
+                },
+                "test": {
+                    "gid": "5738458929936146395",
+                    "size": "416154249",
+                    "download": "156966544"
+                }
+            }
         },
         "1292032": {
             "config": {
@@ -100,16 +107,23 @@
                 "language": ""
             },
             "manifests": {
-                "public": "554688677015330495",
-                "test": "7802007723995944508"
-            },
-            "maxsize": "2671274388"
+                "public": {
+                    "gid": "6115415455958673672",
+                    "size": "1164838055",
+                    "download": "145212992"
+                },
+                "test": {
+                    "gid": "7802007723995944508",
+                    "size": "2671274388",
+                    "download": "473221152"
+                }
+            }
         },
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "11172240",
-                "timeupdated": "1683396302"
+                "buildid": "11216534",
+                "timeupdated": "1683882642"
             },
             "test": {
                 "buildid": "8716083",
@@ -119,7 +133,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18702622,
-    "_sha": "27cc62a9c1e01a68e9e319a044d3fe86d6ce1e47",
-    "_size": 2395
+    "_change_number": 18772376,
+    "_sha": "1e431d8e2788e6264a7bb835fa0eac819f437c78",
+    "_size": 2653
 }

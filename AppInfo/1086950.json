@@ -72,10 +72,17 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "5506152293435552757",
-                "beta": "5260752982222837388"
-            },
-            "maxsize": "8653565579"
+                "public": {
+                    "gid": "5506152293435552757",
+                    "size": "8653565579",
+                    "download": "3514351696"
+                },
+                "beta": {
+                    "gid": "608781164701695832",
+                    "size": "8691056355",
+                    "download": "3494963616"
+                }
+            }
         },
         "1086952": {
             "config": {
@@ -83,10 +90,17 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "4362646801477135934",
-                "beta": "8870102924230166545"
-            },
-            "maxsize": "8780026988"
+                "public": {
+                    "gid": "4362646801477135934",
+                    "size": "8780026988",
+                    "download": "3555615248"
+                },
+                "beta": {
+                    "gid": "6029597578940596059",
+                    "size": "8823019124",
+                    "download": "3538221056"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -94,14 +108,14 @@
                 "timeupdated": "1678235735"
             },
             "beta": {
-                "buildid": "11138248",
+                "buildid": "11254356",
                 "description": "beta server files",
-                "timeupdated": "1683037908"
+                "timeupdated": "1684333503"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 18648873,
-    "_sha": "e883baf8dd075c8953f5059094682dc901bffc02",
-    "_size": 2064
+    "_change_number": 18830902,
+    "_sha": "375199d3de3413f3159fa16057db965b6d1fdf2e",
+    "_size": 2325
 }

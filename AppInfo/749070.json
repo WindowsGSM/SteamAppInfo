@@ -50,28 +50,39 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "208947835692563179",
-                "previous_version": "4153766099154235549",
-                "testers": "208947835692563179"
+                "public": {
+                    "gid": "6970969633300006521",
+                    "size": "986561388",
+                    "download": "752208592"
+                },
+                "previous_version": {
+                    "gid": "4153766099154235549",
+                    "size": "937207267",
+                    "download": "703549760"
+                },
+                "testers": {
+                    "gid": "6970969633300006521",
+                    "size": "986561388",
+                    "download": "752208592"
+                }
             },
-            "maxsize": "986540396",
             "encryptedmanifests": {
                 "development": {
-                    "encrypted_gid_2": "978388BF55CB15883A1F8C1F8EF0F7E4",
-                    "encrypted_size_2": "B0426A335749AB28FB175067CABF458C",
-                    "download": "E4699D5168C7BAE1D020F382E66B3E49"
+                    "gid": "5E17819A6ABAAEB8C1D73E1DD05C5278",
+                    "size": "F831EAC06B02DA2AAB89F62CE6FD90FC",
+                    "download": "056D258DA4F7E68DB998405FD4278F0B"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "10939511",
-                "timeupdated": "1680717842"
+                "buildid": "11237422",
+                "timeupdated": "1684183169"
             },
             "development": {
-                "buildid": "10939511",
+                "buildid": "11237422",
                 "pwdrequired": "1",
-                "timeupdated": "1680717742"
+                "timeupdated": "1684179407"
             },
             "previous_version": {
                 "buildid": "10531832",
@@ -79,13 +90,13 @@
                 "timeupdated": "1677249619"
             },
             "testers": {
-                "buildid": "10939511",
-                "timeupdated": "1680717831"
+                "buildid": "11237422",
+                "timeupdated": "1684183159"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 18341758,
-    "_sha": "74758d39102b972e395bfc62c58af583fc80fd8d",
-    "_size": 1927
+    "_change_number": 18903802,
+    "_sha": "17029df79e6e6619a01c4a43031d8cda8003b519",
+    "_size": 2110
 }

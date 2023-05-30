@@ -34,26 +34,34 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "39042092",
+            "maxsize": "39195172",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
         "1141421": {},
         "1141422": {
             "manifests": {
-                "public": "4336018357557333402"
+                "public": {
+                    "gid": "4336018357557333402",
+                    "size": "1529241955",
+                    "download": "1289714496"
+                }
             },
-            "maxsize": "1529241955",
             "encryptedmanifests": {
                 "dev-branch": {
-                    "encrypted_gid_2": "DD083348307648AF19427F91761AB07B",
-                    "encrypted_size_2": "AFAA1DDE3FFBC3E8614399188F5E0EF3",
-                    "download": "A8776DD50C5725FCB8F976FA189126DC"
+                    "gid": "75B9E973491A719766062AB2C730BE60",
+                    "size": "DE099998450A48929E93296E2B460D7C",
+                    "download": "70350B4A2905D540938B35F882AE2F6A"
+                },
+                "experimental-branch": {
+                    "gid": "81C9A539A33CD90786542218AAAAB810",
+                    "size": "28C3F316D78F73B3CC814EAA9384471E",
+                    "download": "48F1DD37CBE50B4F023B1D84E10C4E9C"
                 },
                 "public-test-branch": {
-                    "encrypted_gid_2": "F25F4D562E59073EA445AC880B583705",
-                    "encrypted_size_2": "A4B19B8D6C73BD69E38C9B9707DA375B",
-                    "download": "20F62F488E3AC8A67EA36D989E87F42D"
+                    "gid": "A9DAAE3B5CD2F03B4EDC7C90D7040EB9",
+                    "size": "5EB65B97884B6318E8B40D62EC80CE8A",
+                    "download": "C9E3B41CE929FCFDD09CDFD91B6433EF"
                 }
             }
         },
@@ -63,19 +71,24 @@
                 "timeupdated": "1682058581"
             },
             "dev-branch": {
-                "buildid": "11181079",
+                "buildid": "11349507",
                 "pwdrequired": "1",
-                "timeupdated": "1683558478"
+                "timeupdated": "1685446491"
+            },
+            "experimental-branch": {
+                "buildid": "11314822",
+                "pwdrequired": "1",
+                "timeupdated": "1685009630"
             },
             "public-test-branch": {
-                "buildid": "11181079",
+                "buildid": "11349507",
                 "pwdrequired": "1",
-                "timeupdated": "1683558484"
+                "timeupdated": "1685446505"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 18717942,
-    "_sha": "c9b040b1aa80bd4e46bc578e6ff98ee2b76bbcee",
-    "_size": 1853
+    "_change_number": 18980098,
+    "_sha": "42dc1a41a50f91612e1423828e4f66f4c6b0f19e",
+    "_size": 2158
 }

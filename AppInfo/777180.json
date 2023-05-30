@@ -102,11 +102,22 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "3966691211132402177",
-                "experimental": "3966691211132402177",
-                "prerelease": "3966691211132402177"
-            },
-            "maxsize": "43832154"
+                "public": {
+                    "gid": "3966691211132402177",
+                    "size": "43832154",
+                    "download": "6861904"
+                },
+                "experimental": {
+                    "gid": "3966691211132402177",
+                    "size": "43832154",
+                    "download": "6861904"
+                },
+                "prerelease": {
+                    "gid": "3966691211132402177",
+                    "size": "43832154",
+                    "download": "6861904"
+                }
+            }
         },
         "797690": {
             "config": {
@@ -115,11 +126,22 @@
             },
             "dlcappid": "797690",
             "manifests": {
-                "public": "3365038729393282337",
-                "experimental": "3365038729393282337",
-                "prerelease": "3365038729393282337"
-            },
-            "maxsize": "38971329"
+                "public": {
+                    "gid": "3365038729393282337",
+                    "size": "38971329",
+                    "download": "5464784"
+                },
+                "experimental": {
+                    "gid": "3365038729393282337",
+                    "size": "38971329",
+                    "download": "5464784"
+                },
+                "prerelease": {
+                    "gid": "3365038729393282337",
+                    "size": "38971329",
+                    "download": "5464784"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -143,7 +165,7 @@
         "maxnumfiles": "0"
     },
     "_missing_token": false,
-    "_change_number": 17479660,
-    "_sha": "9b6be701711d6ce310c06c1a31e837bd74b65fde",
-    "_size": 3082
+    "_change_number": 18903802,
+    "_sha": "a90871bfaaed85be6c90506fcdb931afed675ad3",
+    "_size": 3476
 }

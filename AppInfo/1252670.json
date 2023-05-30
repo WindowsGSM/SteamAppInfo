@@ -82,22 +82,46 @@
                 "language": ""
             },
             "manifests": {
-                "public": "5588733672175018984",
-                "older-version-0.90.0": "9001356186654937824",
-                "older-version-0.90.1": "2781449753208298328",
-                "older-version-0.90.2": "6062332651743403155",
-                "older-version-0.90.3": "5842543641621055641"
-            },
-            "maxsize": "211576907",
-            "encryptedmanifests": {
+                "public": {
+                    "gid": "6015975310731990128",
+                    "size": "211654111",
+                    "download": "60865328"
+                },
+                "older-version-0.90.0": {
+                    "gid": "9001356186654937824",
+                    "size": "103046989",
+                    "download": "33199104"
+                },
+                "older-version-0.90.1": {
+                    "gid": "2781449753208298328",
+                    "size": "103067098",
+                    "download": "33205536"
+                },
+                "older-version-0.90.2": {
+                    "gid": "6062332651743403155",
+                    "size": "103421398",
+                    "download": "33280928"
+                },
+                "older-version-0.90.3": {
+                    "gid": "5842543641621055641",
+                    "size": "103422523",
+                    "download": "33281280"
+                },
                 "older-version-0.91.0": {
-                    "encrypted_gid_2": "10DD2F8197A8EFB13F4B502DB95D3E03",
-                    "encrypted_size_2": "8D8F258D447F7D21A5CABC3B2E91BF11",
-                    "download": "BACE2244671DB73B8D65B7207EBC28AD"
+                    "gid": "5588733672175018984",
+                    "size": "211576907",
+                    "download": "60845536"
+                }
+            },
+            "encryptedmanifests": {
+                "older-version-0.91.1": {
+                    "gid": "02CC1529E176C5B267AE6AD9B8A01003",
+                    "size": "0D6D744FC133432203FB2D3E45C60727",
+                    "download": "A83F80AD4D2AE3E29BBB5361D0573C75"
                 },
                 "private-testing": {
-                    "encrypted_gid_2": "E3D063DEA3283CB7870AA5B8E66B36B1",
-                    "encrypted_size_2": "5BE89C40913A0E7D94D7CE8604291A93",
+                    "gid": "E3D063DEA3283CB7870AA5B8E66B36B1",
+                    "size": "5BE89C40913A0E7D94D7CE8604291A93",
                     "download": "373E7CC869F90AD5E7821E5520AAEEC6"
                 }
             }
@@ -109,22 +133,46 @@
                 "language": ""
             },
             "manifests": {
-                "public": "1279971228749618208",
-                "older-version-0.90.0": "7333620006893949728",
-                "older-version-0.90.1": "6480316553627068289",
-                "older-version-0.90.2": "2742987986905561132",
-                "older-version-0.90.3": "2077063854713287962"
-            },
-            "maxsize": "214348273",
-            "encryptedmanifests": {
+                "public": {
+                    "gid": "387001833466158257",
+                    "size": "214410925",
+                    "download": "61701456"
+                },
+                "older-version-0.90.0": {
+                    "gid": "7333620006893949728",
+                    "size": "112043982",
+                    "download": "34196000"
+                },
+                "older-version-0.90.1": {
+                    "gid": "6480316553627068289",
+                    "size": "112064103",
+                    "download": "34202080"
+                },
+                "older-version-0.90.2": {
+                    "gid": "2742987986905561132",
+                    "size": "112421215",
+                    "download": "34260816"
+                },
+                "older-version-0.90.3": {
+                    "gid": "2077063854713287962",
+                    "size": "112422340",
+                    "download": "34261264"
+                },
                 "older-version-0.91.0": {
-                    "encrypted_gid_2": "13FF5033AD93323CA1E9241EDF4CE4E0",
-                    "encrypted_size_2": "5FE244ACA555EB833C4F12DE8A8A5908",
-                    "download": "B6F00AAF7F2150F7D27ADFC590848AEB"
+                    "gid": "1279971228749618208",
+                    "size": "214348273",
+                    "download": "61695168"
+                }
+            },
+            "encryptedmanifests": {
+                "older-version-0.91.1": {
+                    "gid": "AAAD4630B4BACAC0E515486F9030401D",
+                    "size": "840EB98DF7A1F80B8B6EFDE9091FFAB5",
+                    "download": "ACA1D88AF5DFB98A74B74E966A9E4EB7"
                 },
                 "private-testing": {
-                    "encrypted_gid_2": "09049EFFB8B788722E1B12CD55FBEEAC",
-                    "encrypted_size_2": "6C5212C3EAC800D4F1AE696D8FF3D8A4",
+                    "gid": "09049EFFB8B788722E1B12CD55FBEEAC",
+                    "size": "6C5212C3EAC800D4F1AE696D8FF3D8A4",
                     "download": "FEE109EC166DD4BE0157577729606C91"
                 }
             }
@@ -136,30 +184,54 @@
                 "language": ""
             },
             "manifests": {
-                "public": "2851303259498902976",
-                "older-version-0.90.0": "638188199948156965",
-                "older-version-0.90.1": "5000997292670357776",
-                "older-version-0.90.2": "672653592197991436",
-                "older-version-0.90.3": "6971713411016983762"
-            },
-            "maxsize": "211605259",
-            "encryptedmanifests": {
+                "public": {
+                    "gid": "2747676708519903402",
+                    "size": "211673103",
+                    "download": "60760656"
+                },
+                "older-version-0.90.0": {
+                    "gid": "638188199948156965",
+                    "size": "106608998",
+                    "download": "33542656"
+                },
+                "older-version-0.90.1": {
+                    "gid": "5000997292670357776",
+                    "size": "106629619",
+                    "download": "33550016"
+                },
+                "older-version-0.90.2": {
+                    "gid": "672653592197991436",
+                    "size": "106985599",
+                    "download": "33610928"
+                },
+                "older-version-0.90.3": {
+                    "gid": "6971713411016983762",
+                    "size": "106986724",
+                    "download": "33610976"
+                },
                 "older-version-0.91.0": {
-                    "encrypted_gid_2": "FC455FC79F51948CAEA9C6AEE92D9C00",
-                    "encrypted_size_2": "605755338C855E6AF4728080DD9F6345",
-                    "download": "5626ADB0EF50480F317BE968780448F3"
+                    "gid": "2851303259498902976",
+                    "size": "211605259",
+                    "download": "60745744"
+                }
+            },
+            "encryptedmanifests": {
+                "older-version-0.91.1": {
+                    "gid": "E746A1E34D77B8C589CD2B4898FAD187",
+                    "size": "F4D72769D7F32200CF56D4B9733EE77A",
+                    "download": "8A5E40AD5FD1F254D01B6BE823FA7009"
                 },
                 "private-testing": {
-                    "encrypted_gid_2": "3022E04732C992A7558633AB44AF25A3",
-                    "encrypted_size_2": "AB7D6A03D703251812FB499F4A380C0F",
+                    "gid": "3022E04732C992A7558633AB44AF25A3",
+                    "size": "AB7D6A03D703251812FB499F4A380C0F",
                     "download": "A176C4817EB04AE28025CCFE6871F3A9"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "10188717",
-                "timeupdated": "1671590479"
+                "buildid": "11213470",
+                "timeupdated": "1683851940"
             },
             "older-version-0.90.0": {
                 "buildid": "7579056",
@@ -183,8 +255,13 @@
             },
             "older-version-0.91.0": {
                 "buildid": "10188717",
-                "pwdrequired": "1",
+                "description": "Version 0.91.0, released 2022-12-20",
                 "timeupdated": "1671590639"
+            },
+            "older-version-0.91.1": {
+                "buildid": "11213470",
+                "pwdrequired": "1",
+                "timeupdated": "1683850836"
             },
             "private-testing": {
                 "buildid": "10188717",
@@ -194,7 +271,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "036264b15f569b0be4524a8d0e3bb8f09d011cdd",
-    "_size": 5083
+    "_change_number": 18768177,
+    "_sha": "f0ce2bc5e8684dc5f5daa77ff2b797fcad7967af",
+    "_size": 6529
 }

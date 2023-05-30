@@ -65,7 +65,7 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "39042092",
+            "maxsize": "39195172",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -99,21 +99,21 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3896763494709662135",
-                    "size": "935234760",
-                    "download": "828792944"
+                    "gid": "7287543107641274901",
+                    "size": "935794584",
+                    "download": "829349520"
                 }
             },
             "encryptedmanifests": {
                 "koaserver": {
-                    "gid": "B09B88C4F76FBF7BFF7957B8A4D3CA24",
-                    "size": "A3667F1BC79DA9B5EAF8B6F9A7215ACE",
-                    "download": "4A6E482176EBAF9513FE953C7F641D4D"
+                    "gid": "E3C1A8DF96C089793F0040B0D9173ECC",
+                    "size": "297943A2C340EA6B73756E8074DFB0C1",
+                    "download": "5C9A82D303EC977227A6DFA2BF99F0FC"
                 },
                 "testing": {
-                    "gid": "5CBC2FBB4DA6608AF8C87BEAED738323",
-                    "size": "7BC21C278585E191F723BD12F82063BB",
-                    "download": "3D30CB35C3D350C1C711024D1645ADF6"
+                    "gid": "FFAF1BB0A01B639D914C9514A721BE44",
+                    "size": "2216236FDFE6726839AD58978CBA10A1",
+                    "download": "CFE928463C5D8C6865E1193693605C7A"
                 }
             }
         },
@@ -124,23 +124,23 @@
         },
         "branches": {
             "public": {
-                "buildid": "11165992",
-                "timeupdated": "1683312299"
+                "buildid": "11220635",
+                "timeupdated": "1683915886"
             },
             "koaserver": {
-                "buildid": "11165992",
+                "buildid": "11220635",
                 "pwdrequired": "1",
-                "timeupdated": "1683312291"
+                "timeupdated": "1683915879"
             },
             "testing": {
-                "buildid": "11165992",
+                "buildid": "11310426",
                 "pwdrequired": "1",
-                "timeupdated": "1683305465"
+                "timeupdated": "1684962095"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 18693540,
-    "_sha": "e69b9b5a53db5237554e7e934bb613f28fe6ccef",
+    "_change_number": 18917780,
+    "_sha": "b43cacafd43bc81afda434b219d77613216f7c06",
     "_size": 2907
 }

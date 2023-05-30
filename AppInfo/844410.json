@@ -75,9 +75,12 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "6135008719997135084"
-            },
-            "maxsize": "1846532609"
+                "public": {
+                    "gid": "6135008719997135084",
+                    "size": "1846532609",
+                    "download": "617348240"
+                }
+            }
         },
         "844412": {
             "config": {
@@ -85,9 +88,12 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "926983899713616231"
-            },
-            "maxsize": "1918241265"
+                "public": {
+                    "gid": "926983899713616231",
+                    "size": "1918241265",
+                    "download": "684126896"
+                }
+            }
         },
         "baselanguages": "english",
         "branches": {
@@ -98,7 +104,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "c4fee8efc85539aacc46538cb9424b58ab6cb59e",
-    "_size": 2005
+    "_change_number": 18821630,
+    "_sha": "f5fdb2a8d049d7eac453c10596a8f191a10b1c6a",
+    "_size": 2107
 }

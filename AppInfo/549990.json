@@ -21,6 +21,8 @@
         },
         "store_asset_mtime": "1505326793",
         "associations": {},
+        "primary_genre": "0",
+        "category": {},
         "steam_release_date": "1518539526",
         "gameid": "549990"
     },
@@ -66,9 +68,12 @@
         },
         "549991": {
             "manifests": {
-                "public": "2217736840269435757"
-            },
-            "maxsize": "22504647"
+                "public": {
+                    "gid": "2217736840269435757",
+                    "size": "22504647",
+                    "download": "20956464"
+                }
+            }
         },
         "workshopdepot": "549990",
         "branches": {
@@ -79,7 +84,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "17f2464eba62281c525d3fb266eccf83f804cef4",
-    "_size": 1715
+    "_change_number": 18903802,
+    "_sha": "c3d1ba3f1d43847a837edd6c2221e891ea65aeee",
+    "_size": 1809
 }

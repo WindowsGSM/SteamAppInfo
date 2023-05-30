@@ -85,41 +85,44 @@
         },
         "1247091": {
             "manifests": {
-                "public": "123929337961763817"
+                "public": {
+                    "gid": "8335923028526980843",
+                    "size": "1174126980",
+                    "download": "242351056"
+                }
             },
-            "maxsize": "1174140220",
             "encryptedmanifests": {
                 "major-testing": {
-                    "encrypted_gid_2": "4742F54521F6E32F25C0851552209325",
-                    "encrypted_size_2": "76980B8A6DB2401F7BCD23CF7DE358BD",
-                    "download": "2405387AC3ACF5F9EB0806795612F18D"
+                    "gid": "D4A8413B8230D9D582AC25CE446F9BBC",
+                    "size": "427407A70B9C7EE46930420D6F1A37D0",
+                    "download": "C6B35290FA5883CE0C50555BDC72218C"
                 },
                 "minor-testing": {
-                    "encrypted_gid_2": "619909ABA6F0C28CB6C1C0E6709CADA0",
-                    "encrypted_size_2": "C6E68128D619FE56BBE30AD02171EA25",
-                    "download": "3A39E9FEE5E9450334A44E2DCC575B0C"
+                    "gid": "50A1C8BD1EC2BF2475DD7EFAE2C857B4",
+                    "size": "F9DB7A70A63366DF21354CEC22A5D1B3",
+                    "download": "33B282500782590C2A7CDAAAD47F1D9A"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "11114069",
-                "timeupdated": "1682699604"
+                "buildid": "11318186",
+                "timeupdated": "1685116368"
             },
             "major-testing": {
-                "buildid": "11163181",
+                "buildid": "11325180",
                 "pwdrequired": "1",
-                "timeupdated": "1683282091"
+                "timeupdated": "1685098844"
             },
             "minor-testing": {
-                "buildid": "11144820",
+                "buildid": "11318186",
                 "pwdrequired": "1",
-                "timeupdated": "1683108114"
+                "timeupdated": "1685033844"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 18687782,
-    "_sha": "b11a53288f1231a1e9f5deb5a854c225da6b8010",
-    "_size": 2576
+    "_change_number": 18944532,
+    "_sha": "61443e85e8f2a942152b282027886fbb0a7c2df3",
+    "_size": 2580
 }

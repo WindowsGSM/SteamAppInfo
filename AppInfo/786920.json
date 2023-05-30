@@ -87,14 +87,21 @@
                 "language": ""
             },
             "manifests": {
-                "public": "6110574955024020791",
-                "beta": "2101412846462609921"
+                "public": {
+                    "gid": "6110574955024020791",
+                    "size": "699295583",
+                    "download": "312966256"
+                },
+                "beta": {
+                    "gid": "2101412846462609921",
+                    "size": "699295583",
+                    "download": "312966096"
+                }
             },
-            "maxsize": "699295583",
             "encryptedmanifests": {
                 "alpha": {
-                    "encrypted_gid_2": "0E769F9728D68F699199DA562F2CDDD0",
-                    "encrypted_size_2": "EDFCA00F61C0F848574B3219533C97A4",
+                    "gid": "0E769F9728D68F699199DA562F2CDDD0",
+                    "size": "EDFCA00F61C0F848574B3219533C97A4",
                     "download": "9A8C888C3E7DECBEB96EE3D98670C3D5"
                 }
             }
@@ -106,14 +113,21 @@
                 "language": ""
             },
             "manifests": {
-                "public": "8642511932540208028",
-                "beta": "5480441507810271692"
+                "public": {
+                    "gid": "8642511932540208028",
+                    "size": "554154111",
+                    "download": "146914224"
+                },
+                "beta": {
+                    "gid": "5480441507810271692",
+                    "size": "554154111",
+                    "download": "146914064"
+                }
             },
-            "maxsize": "554154111",
             "encryptedmanifests": {
                 "alpha": {
-                    "encrypted_gid_2": "0351A0FD8C592E92E5C973D71ACDE627",
-                    "encrypted_size_2": "9FAAAB03F7270C3C686DCCBDB2FA2044",
+                    "gid": "0351A0FD8C592E92E5C973D71ACDE627",
+                    "size": "9FAAAB03F7270C3C686DCCBDB2FA2044",
                     "download": "6C02D957E17003C442B55AA851E1BA7F"
                 }
             }
@@ -135,7 +149,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "3b4c17805315a0f2193e8076e5a1bac289e20d75",
-    "_size": 2855
+    "_change_number": 18903802,
+    "_sha": "bc6e87334c63dc9f45793a5dd2817349b4ca8449",
+    "_size": 3063
 }

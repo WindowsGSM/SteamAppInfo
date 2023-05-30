@@ -79,18 +79,21 @@
                 "language": ""
             },
             "manifests": {
-                "public": "8044618224466599387"
+                "public": {
+                    "gid": "8044618224466599387",
+                    "size": "1077026929",
+                    "download": "350456480"
+                }
             },
-            "maxsize": "1077026929",
             "encryptedmanifests": {
                 "ced-test": {
-                    "encrypted_gid_2": "F8ED7F996E5C306D597A636A9C57327F",
-                    "encrypted_size_2": "DF3D766884E5EFF37E2D5F2E723E7650",
+                    "gid": "F8ED7F996E5C306D597A636A9C57327F",
+                    "size": "DF3D766884E5EFF37E2D5F2E723E7650",
                     "download": "ABAA30FE983466C669E63E4948A00EB0"
                 },
                 "ci-build": {
-                    "encrypted_gid_2": "C97AB7A6C560641883751157488F1606",
-                    "encrypted_size_2": "EFB9832B8A583A7BFCB112E3D14EB4A2",
+                    "gid": "C97AB7A6C560641883751157488F1606",
+                    "size": "EFB9832B8A583A7BFCB112E3D14EB4A2",
                     "download": "6F6D35615C755694E6AA5E2BA0E773D1"
                 }
             }
@@ -102,18 +105,21 @@
                 "language": ""
             },
             "manifests": {
-                "public": "7913686893309808731"
+                "public": {
+                    "gid": "7913686893309808731",
+                    "size": "1020601886",
+                    "download": "343617696"
+                }
             },
-            "maxsize": "1020601886",
             "encryptedmanifests": {
                 "ced-test": {
-                    "encrypted_gid_2": "26051300C93CE1FF8189A8EFF5B71804",
-                    "encrypted_size_2": "5A762D0915478080A6592AE11CCDB7C2",
+                    "gid": "26051300C93CE1FF8189A8EFF5B71804",
+                    "size": "5A762D0915478080A6592AE11CCDB7C2",
                     "download": "65D7C1466E51092FDE600D3DB5F640E9"
                 },
                 "ci-build": {
-                    "encrypted_gid_2": "A669646AB2ACD57D3460415F446B1B4B",
-                    "encrypted_size_2": "2A34AA2439C3CE01F9F1E3D4B776EE0F",
+                    "gid": "A669646AB2ACD57D3460415F446B1B4B",
+                    "size": "2A34AA2439C3CE01F9F1E3D4B776EE0F",
                     "download": "1AB9BFD362DA634E67C551C0BB1D289C"
                 }
             }
@@ -136,7 +142,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18721712,
-    "_sha": "5695e0b5030331a855a999b9b6c435bf9288040a",
-    "_size": 3181
+    "_change_number": 18736181,
+    "_sha": "1c8f207d19f78ac9c0760f5f1a36d3e82ab87538",
+    "_size": 3187
 }

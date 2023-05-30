@@ -4,11 +4,11 @@
         "name": "Project Speed 2 Dedicated Server",
         "type": "Tool",
         "parent": "1863910",
-        "icon": "25060001429da6bc4e61e1c0b19f6749cf5b5851",
-        "clienticon": "2ee05f1683e39da8a7fc318cdc0b15be6448fa8b",
-        "clienttga": "4f7bbc365ea24891dab0bb72704d979471d171e1",
+        "icon": "704a685fed7c62f01601e87f52a11ee1e6f5cdeb",
+        "clienticon": "f8ba9e3a7673a2e859aec8ba7d1467af0d53327b",
+        "clienttga": "53f4e14b1bbee8aaaffcbdf37b51ecb411c623d0",
         "releasestate": "released",
-        "oslist": "windows",
+        "oslist": "windows,linux",
         "osarch": "64",
         "osextended": "",
         "associations": {},
@@ -23,16 +23,19 @@
         "launch": {
             "0": {
                 "executable": "SpeedGameServer.exe",
-                "arguments": "-server -log"
+                "arguments": "-log",
+                "type": "server",
+                "config": {
+                    "oslist": "windows"
+                }
             },
             "1": {
-                "executable": "SpeedGameServer.exe",
-                "arguments": "-server -log -nosteam",
-                "type": "option1",
-                "description_loc": {
-                    "english": "Project Speed 2 Dedicated Server without the Steam Subsystem"
-                },
-                "description": "Project Speed 2 Dedicated Server without the Steam Subsystem"
+                "executable": "SpeedGameServer.sh",
+                "arguments": "-log",
+                "type": "server",
+                "config": {
+                    "oslist": "linux"
+                }
             }
         }
     },
@@ -86,7 +89,7 @@
             "config": {
                 "oslist": "windows"
             },
-            "maxsize": "39042092",
+            "maxsize": "39195172",
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
@@ -107,32 +110,48 @@
             "sharedinstall": "1"
         },
         "1978931": {
+            "config": {
+                "oslist": "windows"
+            },
             "manifests": {
                 "public": {
                     "gid": "2368076269850355633",
                     "size": "482356186",
                     "download": "233018016"
+                },
+                "linux": {
+                    "gid": "6597569720733358218",
+                    "size": "526867814",
+                    "download": "269881408"
                 }
             },
             "encryptedmanifests": {
                 "development": {
-                    "gid": "011656ABA40DDC07FE465EE66D47DE30",
-                    "size": "07F59E18406E1079843BEA50CE40962B",
-                    "download": "FDF92FE9FF749AE95C481E0E31BB34FA"
+                    "gid": "2B1F1B1D8075D8C58AD9E028F9B05145",
+                    "size": "A0E9AC176BC750089A5A8CEC5C148703",
+                    "download": "342E6ACEDF4DE17E93DF357E93289AA2"
                 },
                 "steamctg": {
-                    "gid": "C529D72F3A839DA405E67469E91DCA94",
-                    "size": "E75A3EACD4A8CA41F357CE25B5988A9D",
-                    "download": "38ECD0376F56EE7C0235A472806F1AFA"
+                    "gid": "8F9731357336B1625FD3B702431A7B04",
+                    "size": "8FC5F277E93F55F433B268E61225FEFD",
+                    "download": "AB2C263DE5DB53F421F1A1DCACF7C61E"
                 }
             }
         },
         "1978932": {
+            "config": {
+                "oslist": "windows"
+            },
             "manifests": {
                 "public": {
                     "gid": "755763484227609403",
                     "size": "603342",
                     "download": "220768"
+                },
+                "linux": {
+                    "gid": "8821406452785434432",
+                    "size": "744654",
+                    "download": "332048"
                 }
             },
             "encryptedmanifests": {
@@ -142,15 +161,23 @@
                     "download": "5DE54F4D2DBFDA2533EB2842E4A8DE6B"
                 },
                 "steamctg": {
-                    "gid": "ED7F94B51780598156059E5C48A2AB80",
-                    "size": "346548A1FA3EFAF27FCC4554B8107F73",
-                    "download": "2F69986E051A05CE9A03F2FF85C3351D"
+                    "gid": "24837D36737464647792426813CE5546",
+                    "size": "412D20BEB4AC6F7AF338D82EF8D3D779",
+                    "download": "E28E57F19C9FB8E85FE00FE35944A16F"
                 }
             }
         },
         "1978933": {
+            "config": {
+                "oslist": "windows"
+            },
             "manifests": {
                 "public": {
+                    "gid": "8807566130884532821",
+                    "size": "23940768",
+                    "download": "4826960"
+                },
+                "linux": {
                     "gid": "8807566130884532821",
                     "size": "23940768",
                     "download": "4826960"
@@ -169,25 +196,78 @@
                 }
             }
         },
+        "1978934": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "linux": {
+                    "gid": "5672005627668414611",
+                    "size": "439",
+                    "download": "400"
+                }
+            },
+            "encryptedmanifests": {
+                "development": {
+                    "gid": "EEC48AAAB76F20F4548279E68A187E02",
+                    "size": "E9D152761178A0BAC75AC60EB6A76547",
+                    "download": "6A57D30D133FEEEFE385C9F27C6FF1CD"
+                },
+                "steamctg": {
+                    "gid": "F361549CE8AF6F5AA0A7F82CCE393EB3",
+                    "size": "829F661573395645E580BC719875C2D4",
+                    "download": "700C92AC997D3716C605D2F347D7B33A"
+                }
+            }
+        },
+        "1978935": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "linux": {
+                    "gid": "9002611507059888490",
+                    "size": "3183936505",
+                    "download": "647831984"
+                }
+            },
+            "encryptedmanifests": {
+                "development": {
+                    "gid": "A81362AE5D46A1A2C903912C6FACB850",
+                    "size": "DE1300406CD57DE8E971DC8AF7DF7D84",
+                    "download": "9A5779D47E64F31F69113E77D12E50D4"
+                },
+                "steamctg": {
+                    "gid": "9E153F052E2B12F2427F788D71F20951",
+                    "size": "C15214A6131D1F94A4930293775014F4",
+                    "download": "97DC85966A50F730F4F1DE8BC82C017F"
+                }
+            }
+        },
         "branches": {
             "public": {
                 "buildid": "10594627",
                 "timeupdated": "1676919845"
             },
             "development": {
-                "buildid": "10768786",
+                "buildid": "11310431",
                 "pwdrequired": "1",
-                "timeupdated": "1678823821"
+                "timeupdated": "1684971005"
+            },
+            "linux": {
+                "buildid": "11302812",
+                "description": "Linux testing branch",
+                "timeupdated": "1684896638"
             },
             "steamctg": {
-                "buildid": "10594627",
+                "buildid": "11302812",
                 "pwdrequired": "1",
-                "timeupdated": "1676919840"
+                "timeupdated": "1684971266"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 18653924,
-    "_sha": "aba4abfb4cf6de210f3f39c306d3fbd21c5be4d8",
-    "_size": 4128
+    "_change_number": 18919215,
+    "_sha": "2542318f63879550d54f4d95edbab40ebb8a1428",
+    "_size": 5780
 }

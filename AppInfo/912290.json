@@ -129,18 +129,21 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "4392476096465872243"
+                "public": {
+                    "gid": "4392476096465872243",
+                    "size": "12960144837",
+                    "download": "11363805808"
+                }
             },
-            "maxsize": "12960144837",
             "encryptedmanifests": {
                 "development": {
-                    "encrypted_gid_2": "DABEE649C3BEEE6D3B0CBEE40E17BBC6",
-                    "encrypted_size_2": "BC8E2346AB5DFE5380CAB99E8F1DB354",
+                    "gid": "DABEE649C3BEEE6D3B0CBEE40E17BBC6",
+                    "size": "BC8E2346AB5DFE5380CAB99E8F1DB354",
                     "download": "9949D3449F79F15CCF3AEC82BE308E04"
                 },
                 "development2": {
-                    "encrypted_gid_2": "2188633D2A2C0B37031E6A3831BE0C6A",
-                    "encrypted_size_2": "4A41F531B89297281011AF7E27FC2546",
+                    "gid": "2188633D2A2C0B37031E6A3831BE0C6A",
+                    "size": "4A41F531B89297281011AF7E27FC2546",
                     "download": "733B17FAADFB59D3EB3EBE2310B7D79B"
                 }
             }
@@ -148,9 +151,12 @@
         "959471": {
             "dlcappid": "959471",
             "manifests": {
-                "public": "1017070711154321779"
+                "public": {
+                    "gid": "1017070711154321779",
+                    "size": "16427568",
+                    "download": "16336608"
+                }
             },
-            "maxsize": "16427568",
             "depotfromapp": "959470"
         },
         "workshopdepot": "912290",
@@ -178,7 +184,7 @@
         "ignoreexternalfiles": "1"
     },
     "_missing_token": false,
-    "_change_number": 18076822,
-    "_sha": "c15c21c800e0b44ca33ea9e90f517dbad2cfffc7",
-    "_size": 3887
+    "_change_number": 18821630,
+    "_sha": "ad443a7c568268539a89a379daf92286be575a4f",
+    "_size": 3942
 }

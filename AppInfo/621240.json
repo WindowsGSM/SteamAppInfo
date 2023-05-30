@@ -40,13 +40,16 @@
                 "language": ""
             },
             "manifests": {
-                "public": "2892453385950345165"
+                "public": {
+                    "gid": "2892453385950345165",
+                    "size": "316938624",
+                    "download": "192258192"
+                }
             },
-            "maxsize": "316938624",
             "encryptedmanifests": {
                 "autobuilds": {
-                    "encrypted_gid_2": "D732AB5049CA75595A818C315CBEFC50",
-                    "encrypted_size_2": "63CD5455745AFF7180F2D43A5A5D1458",
+                    "gid": "D732AB5049CA75595A818C315CBEFC50",
+                    "size": "63CD5455745AFF7180F2D43A5A5D1458",
                     "download": "F602618107DAC6EEC897C122C1668FA7"
                 }
             }
@@ -64,7 +67,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18076822,
-    "_sha": "66c7f911ce4ff667c4ea3e0d0e43681cd50f2969",
-    "_size": 1491
+    "_change_number": 18903802,
+    "_sha": "bf1aeaef329dc5c11c4b9c9faf149f92683d8300",
+    "_size": 1518
 }

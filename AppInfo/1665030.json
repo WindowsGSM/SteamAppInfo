@@ -67,21 +67,31 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1096871693850535100",
-                    "size": "4411463415",
-                    "download": "1023547248"
+                    "gid": "6953784317869423356",
+                    "size": "4714291358",
+                    "download": "1057729280"
+                },
+                "test-update": {
+                    "gid": "5080067753680448940",
+                    "size": "4505822587",
+                    "download": "1035446032"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "11119474",
-                "timeupdated": "1683586153"
+                "buildid": "11330916",
+                "timeupdated": "1685146656"
+            },
+            "test-update": {
+                "buildid": "11201842",
+                "description": "Update Test Branch",
+                "timeupdated": "1683746128"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 18722445,
-    "_sha": "9dfed3d5de4a5938efa07aae3dbeaa0cbd471010",
-    "_size": 1622
+    "_change_number": 18949764,
+    "_sha": "9e316cdffbda5f412e22ae015528f1f6121614a4",
+    "_size": 1867
 }

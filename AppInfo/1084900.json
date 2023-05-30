@@ -74,9 +74,12 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "7930196542728715057"
-            },
-            "maxsize": "103341561"
+                "public": {
+                    "gid": "7930196542728715057",
+                    "size": "103341561",
+                    "download": "57263792"
+                }
+            }
         },
         "1084902": {
             "config": {
@@ -84,9 +87,12 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "8503958983892938606"
-            },
-            "maxsize": "117016133"
+                "public": {
+                    "gid": "8503958983892938606",
+                    "size": "117016133",
+                    "download": "26059264"
+                }
+            }
         },
         "workshopdepot": "1084900",
         "branches": {
@@ -97,7 +103,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "c945262b02c00f0818224a2b62b6d7a90d8b7e08",
-    "_size": 2003
+    "_change_number": 18821630,
+    "_sha": "b5e61978cfbeb449dbafc1a11920daf25a308e42",
+    "_size": 2103
 }

@@ -85,10 +85,17 @@
         },
         "1204171": {
             "manifests": {
-                "public": "52582517278355052",
-                "steamworksbeta": "52582517278355052"
-            },
-            "maxsize": "180437171"
+                "public": {
+                    "gid": "52582517278355052",
+                    "size": "180437171",
+                    "download": "58339680"
+                },
+                "steamworksbeta": {
+                    "gid": "52582517278355052",
+                    "size": "180437171",
+                    "download": "58339680"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -103,7 +110,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "3950745b04fcc520ca95d1d7d572e2afc5c4baf5",
-    "_size": 2090
+    "_change_number": 18736181,
+    "_sha": "3103fd99f1ed2759eeba3797bc9a58625f25b6ee",
+    "_size": 2216
 }

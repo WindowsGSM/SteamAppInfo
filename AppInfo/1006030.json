@@ -61,14 +61,21 @@
         },
         "1006031": {
             "manifests": {
-                "public": "2796180438751920311",
-                "publictestrealm": "7242285574534009916"
+                "public": {
+                    "gid": "2796180438751920311",
+                    "size": "34729925017",
+                    "download": "9382161200"
+                },
+                "publictestrealm": {
+                    "gid": "7242285574534009916",
+                    "size": "22274814991",
+                    "download": "5580601248"
+                }
             },
-            "maxsize": "34729925017",
             "encryptedmanifests": {
                 "testserver": {
-                    "encrypted_gid_2": "F68DA25A84F21C91BE84FBCE102F1552",
-                    "encrypted_size_2": "3809F04B08AEAE43E08830C9ABA22667",
+                    "gid": "F68DA25A84F21C91BE84FBCE102F1552",
+                    "size": "3809F04B08AEAE43E08830C9ABA22667",
                     "download": "2814E3F7D1C4ED8C76CBF5F835017A15"
                 }
             }
@@ -90,7 +97,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "800c81af8614f5fb07bfc5b168cec2015f6deb42",
-    "_size": 2034
+    "_change_number": 18821630,
+    "_sha": "0b5a3e9fa815a43881519cff72950ba2e32a84c2",
+    "_size": 2142
 }

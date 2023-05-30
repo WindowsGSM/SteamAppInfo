@@ -42,38 +42,41 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "3841047524484382032"
+                "public": {
+                    "gid": "3841047524484382032",
+                    "size": "16676110",
+                    "download": "5816496"
+                }
             },
-            "maxsize": "16676110",
             "encryptedmanifests": {
                 "gamescom": {
-                    "encrypted_gid_2": "70BE21566F32BF0AFA8B5720886D52A6",
-                    "encrypted_size_2": "00C47EF2C18A9238E65968D218FC4BD2",
+                    "gid": "70BE21566F32BF0AFA8B5720886D52A6",
+                    "size": "00C47EF2C18A9238E65968D218FC4BD2",
                     "download": "FCEE0F5A1B9E59016C5F072858FA99FE"
                 },
                 "online_internal": {
-                    "encrypted_gid_2": "A9FC0BFF97C66A75BEB9A4B19384CA5A",
-                    "encrypted_size_2": "4A906A077272EA6AA53DC91471B15404",
+                    "gid": "A9FC0BFF97C66A75BEB9A4B19384CA5A",
+                    "size": "4A906A077272EA6AA53DC91471B15404",
                     "download": "2A64E545126C132885C0375930B2150F"
                 },
                 "prediction_test": {
-                    "encrypted_gid_2": "C24479B5A52B3F854B37D03C243AA417",
-                    "encrypted_size_2": "0F89E317820C2C02708637CEFB1F0A06",
+                    "gid": "C24479B5A52B3F854B37D03C243AA417",
+                    "size": "0F89E317820C2C02708637CEFB1F0A06",
                     "download": "DA4AA72298E04DAF9C5D96E8B6E4122B"
                 },
                 "stagingtest": {
-                    "encrypted_gid_2": "AB465EBB7A21EF451782374DE50F9A98",
-                    "encrypted_size_2": "90A108C0EFF61E36C3356D05283ADA74",
+                    "gid": "AB465EBB7A21EF451782374DE50F9A98",
+                    "size": "90A108C0EFF61E36C3356D05283ADA74",
                     "download": "6C7FBF0E3895AF0085961D3E709C3796"
                 },
                 "testing": {
-                    "encrypted_gid_2": "7FA6EE8484BE147939E340CC8EDF18DD",
-                    "encrypted_size_2": "BF5183ACD1F646C7E4F625B4A17F3E0D",
+                    "gid": "7FA6EE8484BE147939E340CC8EDF18DD",
+                    "size": "BF5183ACD1F646C7E4F625B4A17F3E0D",
                     "download": "5E4F8FD3D1ACEE6EB1FE27204AF19FC2"
                 },
                 "wmdtesting": {
-                    "encrypted_gid_2": "7E322BA13CF8D44C4B38071EB4AB8530",
-                    "encrypted_size_2": "0C9EF5FEB973D569AC821E25FD9A898A",
+                    "gid": "7E322BA13CF8D44C4B38071EB4AB8530",
+                    "size": "0C9EF5FEB973D569AC821E25FD9A898A",
                     "download": "682E1793B9EFC66F7158C0E7150EF0E5"
                 }
             }
@@ -84,38 +87,41 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "6949647084115308692"
+                "public": {
+                    "gid": "6949647084115308692",
+                    "size": "27450608",
+                    "download": "8123792"
+                }
             },
-            "maxsize": "27450608",
             "encryptedmanifests": {
                 "gamescom": {
-                    "encrypted_gid_2": "72CAB7E239F8E3D6E6A7DE234EAD1B8A",
-                    "encrypted_size_2": "D9EAD49113A70F1D9DCDBE305B25153D",
+                    "gid": "72CAB7E239F8E3D6E6A7DE234EAD1B8A",
+                    "size": "D9EAD49113A70F1D9DCDBE305B25153D",
                     "download": "32B909F5F25768FED65CBF2147AEDAD4"
                 },
                 "online_internal": {
-                    "encrypted_gid_2": "713C99A6EF9C987746B6A5981730C7EB",
-                    "encrypted_size_2": "5716FEC38658E91E952A193D6584136F",
+                    "gid": "713C99A6EF9C987746B6A5981730C7EB",
+                    "size": "5716FEC38658E91E952A193D6584136F",
                     "download": "1F03D09F55262140B5C8C7ADDA5704E8"
                 },
                 "prediction_test": {
-                    "encrypted_gid_2": "7589E84BB518625A46267857D0A4C06B",
-                    "encrypted_size_2": "6E8D1A34CEC469DC2802FCB818D4FF97",
+                    "gid": "7589E84BB518625A46267857D0A4C06B",
+                    "size": "6E8D1A34CEC469DC2802FCB818D4FF97",
                     "download": "BFF4C2D6C348788C5E77EA2683A08D7A"
                 },
                 "stagingtest": {
-                    "encrypted_gid_2": "0C814CBF5C0294FA62EAFE7BF3D7B609",
-                    "encrypted_size_2": "6C9BB974853A9180A735FE5CC7A5CF36",
+                    "gid": "0C814CBF5C0294FA62EAFE7BF3D7B609",
+                    "size": "6C9BB974853A9180A735FE5CC7A5CF36",
                     "download": "A1C7E5B6742F02C069B97A85F0E8BB7B"
                 },
                 "testing": {
-                    "encrypted_gid_2": "23279E14780F5655842F631B81971F62",
-                    "encrypted_size_2": "E7568B3CBCE57F89D358BF41CEA3149E",
+                    "gid": "23279E14780F5655842F631B81971F62",
+                    "size": "E7568B3CBCE57F89D358BF41CEA3149E",
                     "download": "80F31DD0CEE6C46DC0058AC8CB0F0CF3"
                 },
                 "wmdtesting": {
-                    "encrypted_gid_2": "0275953602AB30F8FC28C4A74912EAFE",
-                    "encrypted_size_2": "62F846464C4ABA74B8F34554130C9960",
+                    "gid": "0275953602AB30F8FC28C4A74912EAFE",
+                    "size": "62F846464C4ABA74B8F34554130C9960",
                     "download": "42A7FC70395B86585828575E7192106D"
                 }
             }
@@ -158,7 +164,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18076822,
-    "_sha": "5f84cbc358cb780a6bc2b55ad0629edc0d5ddb67",
-    "_size": 4484
+    "_change_number": 18903802,
+    "_sha": "be840dae8d37ea5cc9cc15b26d1b1fc5ec679123",
+    "_size": 4294
 }

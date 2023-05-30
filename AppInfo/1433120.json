@@ -150,13 +150,16 @@
                 "language": ""
             },
             "manifests": {
-                "public": "7839778984481298202"
+                "public": {
+                    "gid": "7839778984481298202",
+                    "size": "44724899",
+                    "download": "19751104"
+                }
             },
-            "maxsize": "44724899",
             "encryptedmanifests": {
                 "beta": {
-                    "encrypted_gid_2": "E6EFA7643E4BFE017226035DC045EB2F",
-                    "encrypted_size_2": "6A222B228EA89AFDC3C73DCFA938EFA6",
+                    "gid": "E6EFA7643E4BFE017226035DC045EB2F",
+                    "size": "6A222B228EA89AFDC3C73DCFA938EFA6",
                     "download": "13B6BD713DEEED9569F37600E4B8D46C"
                 }
             }
@@ -167,14 +170,17 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "6138601046121390707"
+                "public": {
+                    "gid": "1143965628922578330",
+                    "size": "11884006674",
+                    "download": "11620484192"
+                }
             },
-            "maxsize": "11879950885",
             "encryptedmanifests": {
                 "beta": {
-                    "encrypted_gid_2": "2F0D8775E9DD1C1DEDD4657ACF5B0B52",
-                    "encrypted_size_2": "817BC9215F433A709C6209EB05B1F4EC",
-                    "download": "D17E5F151ECB450D643DAE6CDEEDA0C1"
+                    "gid": "86439399D348E3118C72944488DF15B8",
+                    "size": "D49B76B06A7643AF6694D3357C3E800F",
+                    "download": "24DBBA88DB0E933D171AB74D8C46819F"
                 }
             }
         },
@@ -184,31 +190,34 @@
                 "language": ""
             },
             "manifests": {
-                "public": "3886054266071555314"
+                "public": {
+                    "gid": "8265379881065276672",
+                    "size": "40095095994",
+                    "download": "38591693328"
+                }
             },
-            "maxsize": "40015463417",
             "encryptedmanifests": {
                 "beta": {
-                    "encrypted_gid_2": "5C3130281C9A65E7EC584619B83A1ED4",
-                    "encrypted_size_2": "84C9813385B462D5D22366FFAEA8CD84",
-                    "download": "F2EE6ADEFC69F2681EE9055F6A117EE3"
+                    "gid": "E7819BCA1622389D6A12FEFBE3DB74D4",
+                    "size": "07DE640BD394CE10CA1779A93BAEA6CF",
+                    "download": "9EEEABB6D172ED5F764A2F9B24E5B26B"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "11164808",
-                "timeupdated": "1683295827"
+                "buildid": "11263406",
+                "timeupdated": "1684418850"
             },
             "beta": {
-                "buildid": "11164808",
+                "buildid": "11263406",
                 "pwdrequired": "1",
-                "timeupdated": "1683295816"
+                "timeupdated": "1684418841"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 18690255,
-    "_sha": "ca74bb45413035434c6af01d52a876853c31d67b",
-    "_size": 4648
+    "_change_number": 18844648,
+    "_sha": "61c78dfe4faccf4060d1da2d0d9d863c2e494377",
+    "_size": 4732
 }

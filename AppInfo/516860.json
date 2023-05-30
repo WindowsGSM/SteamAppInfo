@@ -35,36 +35,42 @@
     "depots": {
         "516861": {
             "manifests": {
-                "public": "5337022869192017930"
+                "public": {
+                    "gid": "5337022869192017930",
+                    "size": "13823584639",
+                    "download": "6734854480"
+                }
             },
-            "maxsize": "13823584639",
             "encryptedmanifests": {
                 "devbranch": {
-                    "encrypted_gid_2": "929589A5887C39128B3B92E86AB75B9B",
-                    "encrypted_size_2": "44094B730AC9189AA8EBC97B03601BE2",
+                    "gid": "929589A5887C39128B3B92E86AB75B9B",
+                    "size": "44094B730AC9189AA8EBC97B03601BE2",
                     "download": "95AB04D7EB3BE6123CC51611A759B651"
                 },
                 "nightly": {
-                    "encrypted_gid_2": "7F7631B18C51569708A4F0ACE8FE2128",
-                    "encrypted_size_2": "323BCAB6EBB90D016CABEE148DB59898",
+                    "gid": "7F7631B18C51569708A4F0ACE8FE2128",
+                    "size": "323BCAB6EBB90D016CABEE148DB59898",
                     "download": "01411705B6976801F0D332709B4EE2CB"
                 }
             }
         },
         "516862": {
             "manifests": {
-                "public": "922900340253452750"
+                "public": {
+                    "gid": "922900340253452750",
+                    "size": "5953536",
+                    "download": "1527008"
+                }
             },
-            "maxsize": "5953536",
             "encryptedmanifests": {
                 "devbranch": {
-                    "encrypted_gid_2": "DA4B586849AD623A0138CB6E83C91DA3",
-                    "encrypted_size_2": "41470F84A7B74298936FE4DE4F8B8B8A",
+                    "gid": "DA4B586849AD623A0138CB6E83C91DA3",
+                    "size": "41470F84A7B74298936FE4DE4F8B8B8A",
                     "download": "DCB7B94C1BB8B301D1860577531D214D"
                 },
                 "nightly": {
-                    "encrypted_gid_2": "41FD575CC55FF64A5379C3CEDC1D0C8E",
-                    "encrypted_size_2": "B028C66871C4F2EB558E7F72778F361A",
+                    "gid": "41FD575CC55FF64A5379C3CEDC1D0C8E",
+                    "size": "B028C66871C4F2EB558E7F72778F361A",
                     "download": "983B6367E49248A04196A1CBE3C7DC1B"
                 }
             }
@@ -88,7 +94,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18076822,
-    "_sha": "da7ca74fdf7894a02cb640c00d342010e3dae30f",
-    "_size": 2284
+    "_change_number": 18903802,
+    "_sha": "494b3032018e66a537b256254a2a8f751363eb6f",
+    "_size": 2289
 }

@@ -85,33 +85,36 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "4914060143056019792"
+                "public": {
+                    "gid": "4914060143056019792",
+                    "size": "18518914926",
+                    "download": "8188439728"
+                }
             },
-            "maxsize": "18518914926",
             "encryptedmanifests": {
                 "closed-testing": {
-                    "encrypted_gid_2": "2F856B4FB5E0B98DAA385EF089F58077",
-                    "encrypted_size_2": "05658907758E60C44AF758389ABA4B69",
+                    "gid": "2F856B4FB5E0B98DAA385EF089F58077",
+                    "size": "05658907758E60C44AF758389ABA4B69",
                     "download": "985D80AB80F940EE69517E8ADC981DA8"
                 },
                 "internal": {
-                    "encrypted_gid_2": "B120CBBAF650E54F320EBDBC2625AC82",
-                    "encrypted_size_2": "FFF06F22AA680B97AC88FDA4A4C979A2",
+                    "gid": "B120CBBAF650E54F320EBDBC2625AC82",
+                    "size": "FFF06F22AA680B97AC88FDA4A4C979A2",
                     "download": "A58BDDC9560E203C6182F4AE75CCE94C"
                 },
                 "public-testing": {
-                    "encrypted_gid_2": "17CA68BE87830FCF4ED5794B096F5685",
-                    "encrypted_size_2": "53488C894DF8D19C1A110CBDEF7D8DA9",
+                    "gid": "17CA68BE87830FCF4ED5794B096F5685",
+                    "size": "53488C894DF8D19C1A110CBDEF7D8DA9",
                     "download": "84F8C8D9D64A9A22C48AFE1FF5948C20"
                 },
                 "release": {
-                    "encrypted_gid_2": "AE237BD6D071A35592F194457CD6DDE5",
-                    "encrypted_size_2": "289C2D211241470C57BAFB0EFEE72D02",
-                    "download": "BD1CBFF37F3E9396FA6C5FF50C553B97"
+                    "gid": "D59457B49EF610A5859343FCF31F737B",
+                    "size": "875DD0B060DD542D926BD115E9B25F36",
+                    "download": "9EFEABBB9199ED1B06409CB8221E0D68"
                 },
                 "release_alt": {
-                    "encrypted_gid_2": "F266EFEC55C36C5504CFEF029AB5A202",
-                    "encrypted_size_2": "E133AAB4259CE3F9EF3A3BA42980EFA8",
+                    "gid": "F266EFEC55C36C5504CFEF029AB5A202",
+                    "size": "E133AAB4259CE3F9EF3A3BA42980EFA8",
                     "download": "3F9E122B9E5D9D0AA66C129976D84CC2"
                 }
             }
@@ -137,9 +140,9 @@
                 "timeupdated": "1650300156"
             },
             "release": {
-                "buildid": "10683505",
+                "buildid": "11224335",
                 "pwdrequired": "1",
-                "timeupdated": "1677844429"
+                "timeupdated": "1683965374"
             },
             "release_alt": {
                 "buildid": "10067139",
@@ -149,7 +152,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "adf97ef5584fdf4f47c22a888873ca76c1287dc1",
-    "_size": 3575
+    "_change_number": 18821630,
+    "_sha": "3906f73eb44c761a998e70b61a8618bec516a818",
+    "_size": 3507
 }

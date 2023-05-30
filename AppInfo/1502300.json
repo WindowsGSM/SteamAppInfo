@@ -95,21 +95,32 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "858456284911607120",
-                "experimental": "985173396384727319",
-                "experimentalwindows": "7282175433893886699"
+                "public": {
+                    "gid": "1504550204919565827",
+                    "size": "1165785144",
+                    "download": "330241312"
+                },
+                "experimental": {
+                    "gid": "1504550204919565827",
+                    "size": "1165785144",
+                    "download": "330241312"
+                },
+                "experimentalwindows": {
+                    "gid": "7282175433893886699",
+                    "size": "1381905653",
+                    "download": "971095184"
+                }
             },
-            "maxsize": "1381905653",
             "encryptedmanifests": {
                 "development": {
-                    "encrypted_gid_2": "524554D474A8B0F233D700AE50723469",
-                    "encrypted_size_2": "78FC4542F1E2047D229B86FB24346ED4",
+                    "gid": "524554D474A8B0F233D700AE50723469",
+                    "size": "78FC4542F1E2047D229B86FB24346ED4",
                     "download": "6AA9EE2BBE9FCCC2388C423DC4DD4FBB"
                 },
                 "pre-experimental": {
-                    "encrypted_gid_2": "458AAE6B66FE4B8A23A7156070D8F1EB",
-                    "encrypted_size_2": "E44F28BF41B3A117117EB5DE8BD2E732",
-                    "download": "4C8611A21B18FD83147BDA643D9DE626"
+                    "gid": "9A4DD9F5E8BB8B9FF7076AB3D4232E0A",
+                    "size": "3280F6D5A27F4430D2C84A121B44710B",
+                    "download": "D93521EA7449B3F643A3191C03C8A498"
                 }
             }
         },
@@ -119,23 +130,34 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "1606089219684582186",
-                "experimental": "5541236692303092445",
-                "experimentalwindows": "4652151882370758544"
+                "public": {
+                    "gid": "2262988887013454417",
+                    "size": "1673901264",
+                    "download": "728990928"
+                },
+                "experimental": {
+                    "gid": "2262988887013454417",
+                    "size": "1673901264",
+                    "download": "728990928"
+                },
+                "experimentalwindows": {
+                    "gid": "4652151882370758544",
+                    "size": "1312964402",
+                    "download": "950174928"
+                }
             },
-            "maxsize": "1312964402",
             "encryptedmanifests": {
                 "pre-experimental": {
-                    "encrypted_gid_2": "87663C4FE2ED0F709273691CF8FACD3A",
-                    "encrypted_size_2": "97705290A054B805F25A249197CAE26F",
-                    "download": "77FCBF1E2C0DDFB1C222EE75084794BF"
+                    "gid": "BCA8731A27CB8A6C011203518944E02E",
+                    "size": "FE3A5B0E898EFA4ED2DE80143D09CB7F",
+                    "download": "3CA11E8026B635E39ED0F003B2CEF9A2"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "10721680",
-                "timeupdated": "1678317189"
+                "buildid": "11197611",
+                "timeupdated": "1683728946"
             },
             "development": {
                 "buildid": "7688246",
@@ -143,9 +165,9 @@
                 "timeupdated": "1637318495"
             },
             "experimental": {
-                "buildid": "11167235",
+                "buildid": "11197611",
                 "description": "for testing",
-                "timeupdated": "1683574985"
+                "timeupdated": "1683724992"
             },
             "experimentalwindows": {
                 "buildid": "9754712",
@@ -153,14 +175,14 @@
                 "timeupdated": "1666272627"
             },
             "pre-experimental": {
-                "buildid": "11167235",
+                "buildid": "11197611",
                 "pwdrequired": "1",
-                "timeupdated": "1683316673"
+                "timeupdated": "1683714905"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 18720717,
-    "_sha": "03b9d4d26fdc9456838972b70022a55eeaead0ba",
-    "_size": 3855
+    "_change_number": 18745347,
+    "_sha": "2d6b2c29dd378dce25260d44be823bbf7b79ee8a",
+    "_size": 4199
 }

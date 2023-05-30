@@ -65,42 +65,81 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "6227886927471103421",
-                "beta_server": "5696940221541478021",
-                "docker": "6227886927471103421",
-                "docker_beta": "5147461459264594208",
-                "docker_shack": "7518500948355498942",
-                "docker_shack_beta": "3868511002947623350",
-                "dummy": "3425611114712832410",
-                "shack": "7518500948355498942",
-                "shack_beta": "3868511002947623350",
-                "shack_docker": "7912308253716083771"
+                "public": {
+                    "gid": "6227886927471103421",
+                    "size": "3116916540",
+                    "download": "769319520"
+                },
+                "beta_server": {
+                    "gid": "6112545742354076301",
+                    "size": "5995305866",
+                    "download": "1114106960"
+                },
+                "docker": {
+                    "gid": "6227886927471103421",
+                    "size": "3116916540",
+                    "download": "769319520"
+                },
+                "docker_beta": {
+                    "gid": "5147461459264594208",
+                    "size": "3108157472",
+                    "download": "767135120"
+                },
+                "docker_shack": {
+                    "gid": "7518500948355498942",
+                    "size": "3108163559",
+                    "download": "767138752"
+                },
+                "docker_shack_beta": {
+                    "gid": "3868511002947623350",
+                    "size": "3263681349",
+                    "download": "803852160"
+                },
+                "dummy": {
+                    "gid": "3425611114712832410",
+                    "size": "969",
+                    "download": "736"
+                },
+                "shack": {
+                    "gid": "7518500948355498942",
+                    "size": "3108163559",
+                    "download": "767138752"
+                },
+                "shack_beta": {
+                    "gid": "3868511002947623350",
+                    "size": "3263681349",
+                    "download": "803852160"
+                },
+                "shack_docker": {
+                    "gid": "7912308253716083771",
+                    "size": "2280802128",
+                    "download": "521779744"
+                }
             },
-            "maxsize": "6004236296",
             "encryptedmanifests": {
                 "nighly": {
-                    "encrypted_gid_2": "31BDB5D6784FD1F1576CF24167B687A6",
-                    "encrypted_size_2": "415EF1530D3E2B67D49303CF01D92DA6",
-                    "download": "FD577197AE427440FE074AE0F0949259"
+                    "gid": "D48D24DA43D143AA6B08B368D0249702",
+                    "size": "A837CE9131F58FAB5786238B4D2E3F38",
+                    "download": "647D9119E4157BB1F8C3FC3FEA81A31C"
                 },
                 "nighly_arm64": {
-                    "encrypted_gid_2": "210881CDCC747DEF1A58D52308186623",
-                    "encrypted_size_2": "DFBEAB39F61924703D171CD192A1F902",
+                    "gid": "210881CDCC747DEF1A58D52308186623",
+                    "size": "DFBEAB39F61924703D171CD192A1F902",
                     "download": "50AEEDEEEF51087873AD92E9842EB882"
                 },
                 "nighly_shack": {
-                    "encrypted_gid_2": "F8415EB4D44BC96B6A4AF61CB9592470",
-                    "encrypted_size_2": "E29546AD9C1A90B2099CC02D88CAA11C",
-                    "download": "D7CDA920E2E7EDA0D954FB40E9F97A8D"
+                    "gid": "4E9021A8991BFBFF10B54F5BB7921AE1",
+                    "size": "C704F2460C38C351B562A357F103378F",
+                    "download": "66F421E03F7FA2DE984348FDC0F95035"
                 },
                 "nighly_shack_arm64": {
-                    "encrypted_gid_2": "029B858C9A1C4F82669D148C9A948E1D",
-                    "encrypted_size_2": "ACAA9BFC0BE87833D90DCA6B3BC1FD73",
+                    "gid": "029B858C9A1C4F82669D148C9A948E1D",
+                    "size": "ACAA9BFC0BE87833D90DCA6B3BC1FD73",
                     "download": "8E03223931F278F01FE55D98307E50C7"
                 },
                 "stable_rc": {
-                    "encrypted_gid_2": "278973E053A5484D31A9D9643B3DD349",
-                    "encrypted_size_2": "00C6627E5588AB859A69AEBC24D073BD",
+                    "gid": "278973E053A5484D31A9D9643B3DD349",
+                    "size": "00C6627E5588AB859A69AEBC24D073BD",
                     "download": "52AAD0898E7D97A0D339784F5DB69F58"
                 }
             }
@@ -112,8 +151,8 @@
                 "timeupdated": "1643058494"
             },
             "beta_server": {
-                "buildid": "11167401",
-                "timeupdated": "1683320804"
+                "buildid": "11258687",
+                "timeupdated": "1684456048"
             },
             "docker": {
                 "buildid": "8076883",
@@ -139,9 +178,9 @@
                 "timeupdated": "1609417460"
             },
             "nighly": {
-                "buildid": "11183799",
+                "buildid": "11345293",
                 "pwdrequired": "1",
-                "timeupdated": "1683582942"
+                "timeupdated": "1685400519"
             },
             "nighly_arm64": {
                 "buildid": "8774567",
@@ -149,9 +188,9 @@
                 "timeupdated": "1653004510"
             },
             "nighly_shack": {
-                "buildid": "11183657",
+                "buildid": "11201090",
                 "pwdrequired": "1",
-                "timeupdated": "1683581573"
+                "timeupdated": "1683740044"
             },
             "nighly_shack_arm64": {
                 "buildid": "8816294",
@@ -179,7 +218,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18721935,
-    "_sha": "5bcf2345e53c218466ea62baf9187d5245e078bd",
-    "_size": 4420
+    "_change_number": 18974044,
+    "_sha": "0a151c1e01b7660d2372c9ada386e18543bc9d4f",
+    "_size": 5041
 }

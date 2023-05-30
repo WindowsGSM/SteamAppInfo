@@ -93,10 +93,17 @@
                 "language": ""
             },
             "manifests": {
-                "public": "5977469505492572677",
-                "server": "5977469505492572677"
-            },
-            "maxsize": "428171785"
+                "public": {
+                    "gid": "5977469505492572677",
+                    "size": "428171785",
+                    "download": "277221408"
+                },
+                "server": {
+                    "gid": "5977469505492572677",
+                    "size": "428171785",
+                    "download": "277221408"
+                }
+            }
         },
         "1405892": {
             "config": {
@@ -104,10 +111,17 @@
                 "language": ""
             },
             "manifests": {
-                "public": "7352978295039393128",
-                "server": "7352978295039393128"
-            },
-            "maxsize": "2538076138"
+                "public": {
+                    "gid": "7352978295039393128",
+                    "size": "2538076138",
+                    "download": "587765312"
+                },
+                "server": {
+                    "gid": "7352978295039393128",
+                    "size": "2538076138",
+                    "download": "587765312"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -122,7 +136,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "221bac8aade7cccc2cbffef6d8dd0379e7c941b5",
-    "_size": 2512
+    "_change_number": 18736181,
+    "_sha": "e43e86081328a2aa4826225aecd80af5facfe8d2",
+    "_size": 2769
 }

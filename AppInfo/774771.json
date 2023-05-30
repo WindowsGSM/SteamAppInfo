@@ -57,14 +57,21 @@
         },
         "774772": {
             "manifests": {
-                "public": "2065692299017001045",
-                "legacy": "8002366436717239143"
+                "public": {
+                    "gid": "2065692299017001045",
+                    "size": "186860125",
+                    "download": "178558016"
+                },
+                "legacy": {
+                    "gid": "8002366436717239143",
+                    "size": "135762721",
+                    "download": "129514256"
+                }
             },
-            "maxsize": "186860125",
             "encryptedmanifests": {
                 "development": {
-                    "encrypted_gid_2": "A1B370571DB3AD743CE51695D0056621",
-                    "encrypted_size_2": "B01732EB38709B7BDF092FEFD9FCED41",
+                    "gid": "A1B370571DB3AD743CE51695D0056621",
+                    "size": "B01732EB38709B7BDF092FEFD9FCED41",
                     "download": "ACE9C80EAE369664C50BF209CABB92C0"
                 }
             }
@@ -96,7 +103,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "57b13a8ef2eed0c4ecfc23bd03d457cfa301753b",
-    "_size": 1989
+    "_change_number": 18903802,
+    "_sha": "8690064068455281fe27cbf3a4babee6e6c90a37",
+    "_size": 2093
 }

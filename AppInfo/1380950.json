@@ -81,10 +81,17 @@
                 "language": ""
             },
             "manifests": {
-                "public": "5023502912530295967",
-                "sigma": "5023502912530295967"
-            },
-            "maxsize": "309017868"
+                "public": {
+                    "gid": "5310467088172164998",
+                    "size": "309345104",
+                    "download": "190879632"
+                },
+                "sigma": {
+                    "gid": "5310467088172164998",
+                    "size": "309345104",
+                    "download": "190879632"
+                }
+            }
         },
         "1380952": {
             "config": {
@@ -93,25 +100,32 @@
                 "language": ""
             },
             "manifests": {
-                "public": "4145171624082144195",
-                "sigma": "4145171624082144195"
-            },
-            "maxsize": "290096274"
+                "public": {
+                    "gid": "4866457115116791151",
+                    "size": "290396143",
+                    "download": "148483840"
+                },
+                "sigma": {
+                    "gid": "4866457115116791151",
+                    "size": "290396143",
+                    "download": "148483840"
+                }
+            }
         },
         "branches": {
             "public": {
-                "buildid": "10692577",
-                "timeupdated": "1677962748"
+                "buildid": "11345026",
+                "timeupdated": "1685397585"
             },
             "sigma": {
-                "buildid": "10692577",
+                "buildid": "11345026",
                 "description": "Wave Defense Testing",
-                "timeupdated": "1677962630"
+                "timeupdated": "1685396907"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "a57ea8b426622258aa6a38af22f32ebdd578fa0e",
-    "_size": 2239
+    "_change_number": 18973729,
+    "_sha": "361c5395818d627e6c4a33029c41e94c5f6f913b",
+    "_size": 2495
 }

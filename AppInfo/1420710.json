@@ -77,43 +77,59 @@
         },
         "1420711": {
             "manifests": {
-                "public": "6928874837269946842",
-                "1.2.4": "3771050463460587124",
-                "2.0.10": "3610364227942991657"
+                "public": {
+                    "gid": "8848415720691463291",
+                    "size": "5386383340",
+                    "download": "1722464752"
+                },
+                "1.2.4": {
+                    "gid": "3771050463460587124",
+                    "size": "2028989861",
+                    "download": "701229248"
+                },
+                "2.0.10": {
+                    "gid": "3610364227942991657",
+                    "size": "5668925141",
+                    "download": "1786019056"
+                }
             },
-            "maxsize": "5668925141",
             "encryptedmanifests": {
                 "alpha_development": {
-                    "encrypted_gid_2": "72A86E9B558544D6D620A6AC2710D9C6",
-                    "encrypted_size_2": "810CEDEED76B1F932E315CA5C60CB84C",
-                    "download": "5ECE966A1F6EE24617E7B302B36285FD"
+                    "gid": "C2019A2B35CD5F60D2EB6142F3CD07C2",
+                    "size": "5E8B8E28C2A7F615F89632A9B6415832",
+                    "download": "0BAAFC1F50AAA4AEB903929BD4EA789B"
                 },
                 "alpha_shipping": {
-                    "encrypted_gid_2": "C73B3CAD7920A4A2292FE47D3C5901FB",
-                    "encrypted_size_2": "D55FBE7D0AC86F3A550BEA761CAB1B6D",
-                    "download": "26E1195986036B6234BA7B3211FC5A8B"
+                    "gid": "2064BC74ECFDE623605132BC18A10579",
+                    "size": "0FCFB21F64F33EBE023411D0DE42DEA7",
+                    "download": "3B862B9C85095F0B7385511C0EAF72F1"
                 },
                 "pre-alpha_development": {
-                    "encrypted_gid_2": "7FDFFF59366BDB03973E6D27218C8F92",
-                    "encrypted_size_2": "673DC830E5A2FA16789778A261221A51",
+                    "gid": "7FDFFF59366BDB03973E6D27218C8F92",
+                    "size": "673DC830E5A2FA16789778A261221A51",
                     "download": "4E7BC1A95C9A706C94C6C67E329DDED8"
                 },
                 "pre-alpha_shipping": {
-                    "encrypted_gid_2": "FC76EE9B94C1DD000622375BD02EDC34",
-                    "encrypted_size_2": "C28CE22761DF1EF4EBB67F129587D900",
+                    "gid": "FC76EE9B94C1DD000622375BD02EDC34",
+                    "size": "C28CE22761DF1EF4EBB67F129587D900",
                     "download": "AB2BD938751E25F751B8EC8DB1278737"
                 },
                 "pre-alpha_test_development": {
-                    "encrypted_gid_2": "C765463A25C2768D320F00286B7D4789",
-                    "encrypted_size_2": "69DB9681D3B85C2D8C252BF56C243BAB",
-                    "download": "8FC508D7DE3F5A6B1F0D1811C37A0C14"
+                    "gid": "32F442F2C221134121AAF68184BE225E",
+                    "size": "D8F4C31D50501AF0BAB599E2AD7C5D68",
+                    "download": "9EA9B942536620A9018E0B031D552654"
+                },
+                "pre-alpha_test_shipping": {
+                    "gid": "423495BA572C19FD6EBA9246AA6FE02B",
+                    "size": "9D8E65D0EEFC5F66CD1B0C20551B71F1",
+                    "download": "6F67AAC487516465F3BBC71570DBB8D3"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "11178634",
-                "timeupdated": "1683537935"
+                "buildid": "11328332",
+                "timeupdated": "1685121318"
             },
             "1.2.4": {
                 "buildid": "8257638",
@@ -126,14 +142,14 @@
                 "timeupdated": "1683538845"
             },
             "alpha_development": {
-                "buildid": "11147905",
+                "buildid": "11347288",
                 "pwdrequired": "1",
-                "timeupdated": "1683134184"
+                "timeupdated": "1685427199"
             },
             "alpha_shipping": {
-                "buildid": "11178634",
+                "buildid": "11328332",
                 "pwdrequired": "1",
-                "timeupdated": "1683534644"
+                "timeupdated": "1685120568"
             },
             "pre-alpha_development": {
                 "buildid": "11133791",
@@ -146,14 +162,19 @@
                 "timeupdated": "1682524815"
             },
             "pre-alpha_test_development": {
-                "buildid": "11104234",
+                "buildid": "11259112",
                 "pwdrequired": "1",
-                "timeupdated": "1682593694"
+                "timeupdated": "1684375608"
+            },
+            "pre-alpha_test_shipping": {
+                "buildid": "11233546",
+                "pwdrequired": "1",
+                "timeupdated": "1684147071"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 18714544,
-    "_sha": "5351dcb60ae0b0bacc284d87a033cc6d3ab507e8",
-    "_size": 3796
+    "_change_number": 18976871,
+    "_sha": "4e0e297dffdb776b73ffe95f8492ef52cec8f914",
+    "_size": 4194
 }

@@ -94,24 +94,31 @@
                 "language": ""
             },
             "manifests": {
-                "public": "4829205348615550920",
-                "legacy": "4829205348615550920"
+                "public": {
+                    "gid": "4829205348615550920",
+                    "size": "1114640665",
+                    "download": "408510672"
+                },
+                "legacy": {
+                    "gid": "4829205348615550920",
+                    "size": "1114640665",
+                    "download": "408510672"
+                }
             },
-            "maxsize": "1114640665",
             "encryptedmanifests": {
                 "nodecraft": {
-                    "encrypted_gid_2": "FC5F0DBAEA5FD39787001C716BD6A9DB",
-                    "encrypted_size_2": "4DA918AB1C4450D461153B552D9DEDCD",
+                    "gid": "FC5F0DBAEA5FD39787001C716BD6A9DB",
+                    "size": "4DA918AB1C4450D461153B552D9DEDCD",
                     "download": "273371FDE85502215035E8C0B0948D77"
                 },
                 "test": {
-                    "encrypted_gid_2": "93399DB760EC76E475E2E816A9E4169E",
-                    "encrypted_size_2": "17F274340DE65D564D42E7EB31443D82",
+                    "gid": "93399DB760EC76E475E2E816A9E4169E",
+                    "size": "17F274340DE65D564D42E7EB31443D82",
                     "download": "A382FC01CAE760570659DEB4E1FA718F"
                 },
                 "upload": {
-                    "encrypted_gid_2": "0672E88552381F6D8C9315127081E3B3",
-                    "encrypted_size_2": "8D37D1FC44CAE0EE49E38F209F24A6E4",
+                    "gid": "0672E88552381F6D8C9315127081E3B3",
+                    "size": "8D37D1FC44CAE0EE49E38F209F24A6E4",
                     "download": "005815AF252C7A7CE2A600E03D33E7ED"
                 }
             }
@@ -123,24 +130,31 @@
                 "language": ""
             },
             "manifests": {
-                "public": "3411980851522885405",
-                "legacy": "3411980851522885405"
+                "public": {
+                    "gid": "3411980851522885405",
+                    "size": "2045891348",
+                    "download": "578214128"
+                },
+                "legacy": {
+                    "gid": "3411980851522885405",
+                    "size": "2045891348",
+                    "download": "578214128"
+                }
             },
-            "maxsize": "2045891348",
             "encryptedmanifests": {
                 "nodecraft": {
-                    "encrypted_gid_2": "641F74E795584EE0ACDA823273E79786",
-                    "encrypted_size_2": "1E384E931E8E172F8837E7962E6DB4F6",
+                    "gid": "641F74E795584EE0ACDA823273E79786",
+                    "size": "1E384E931E8E172F8837E7962E6DB4F6",
                     "download": "4763A5294948D58DF898172DA6FA0FC8"
                 },
                 "test": {
-                    "encrypted_gid_2": "31D06F0338BF8A52C6CEC828A7898C7C",
-                    "encrypted_size_2": "43073094A386807D88E75B189266DE1F",
-                    "download": "AB6A4C1B7A7D9B070F118708CC617191"
+                    "gid": "CF9ADB39FA161DE88F13C9204239EDDA",
+                    "size": "3FD8AA01CB61469E8512510D1B9E21F8",
+                    "download": "FA7EE8810B56650801BD0514E74F2A58"
                 },
                 "upload": {
-                    "encrypted_gid_2": "DDDF49DB317B16B252CCF86F0E8047A2",
-                    "encrypted_size_2": "223BAE89C1D7AF701F46D013A2BDF8A6",
+                    "gid": "DDDF49DB317B16B252CCF86F0E8047A2",
+                    "size": "223BAE89C1D7AF701F46D013A2BDF8A6",
                     "download": "200D15195D3658574227DE9E6DE9A9EB"
                 }
             }
@@ -161,9 +175,9 @@
                 "timeupdated": "1644089322"
             },
             "test": {
-                "buildid": "10980552",
+                "buildid": "11276427",
                 "pwdrequired": "1",
-                "timeupdated": "1681253961"
+                "timeupdated": "1684546655"
             },
             "upload": {
                 "buildid": "10799557",
@@ -173,7 +187,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "b1098d2112935e0c6272bbd236d4acce6c4a27f7",
-    "_size": 4054
+    "_change_number": 18865392,
+    "_sha": "79ecc1b4e473c22bc4c0cda03e245bf51fc3aaed",
+    "_size": 4168
 }

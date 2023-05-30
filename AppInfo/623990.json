@@ -141,56 +141,59 @@
         },
         "623991": {
             "manifests": {
-                "public": "9093203554000382465"
+                "public": {
+                    "gid": "4972133158675679651",
+                    "size": "56887205663",
+                    "download": "53452222496"
+                }
             },
-            "maxsize": "55235168298",
             "encryptedmanifests": {
                 "crossplay": {
-                    "encrypted_gid_2": "DE874A8FF0D202D8783331126ACDEBED",
-                    "encrypted_size_2": "1AB8C979D8C21164AF4E1FFCE1AA4D48",
-                    "download": "1524C026F7F0F74B059D4FE25C0DAC2C"
+                    "gid": "6CBF7D3D1C37FF4E07CA829DD286FE6C",
+                    "size": "08671D30FE15CEAB988FE0609B85A602",
+                    "download": "7545D7DD38FBD56740057884A5F463F6"
                 },
                 "none": {
-                    "encrypted_gid_2": "A65C07D5DA39ABD9190790CCE5DA1C2F",
-                    "encrypted_size_2": "AC85D946DF2526D96EFF52D9F4BC44D9",
+                    "gid": "A65C07D5DA39ABD9190790CCE5DA1C2F",
+                    "size": "AC85D946DF2526D96EFF52D9F4BC44D9",
                     "download": "E398DEA28C82F407729F8EFF279CAC8C"
                 },
                 "pts-a": {
-                    "encrypted_gid_2": "5B6F412E0893D98BB0D18A1DA57082B9",
-                    "encrypted_size_2": "1F6CA2EABC2085CA021B986D739B7ADD",
+                    "gid": "5B6F412E0893D98BB0D18A1DA57082B9",
+                    "size": "1F6CA2EABC2085CA021B986D739B7ADD",
                     "download": "8736104F4597254F2A4F29AA035938B8"
                 },
                 "pts-b": {
-                    "encrypted_gid_2": "C29063A9156E0BD1FE382CB47DD2ED4E",
-                    "encrypted_size_2": "900A793DDD4526E72E5B64D1F7422AD0",
+                    "gid": "C29063A9156E0BD1FE382CB47DD2ED4E",
+                    "size": "900A793DDD4526E72E5B64D1F7422AD0",
                     "download": "47CA5D78C8AAAC777A594CA1FE6750AC"
                 },
                 "pts-stable": {
-                    "encrypted_gid_2": "896DDB4794043B9859B13095B24F4EB2",
-                    "encrypted_size_2": "E91BD8543510378ACBCACF2624C3BBE7",
+                    "gid": "896DDB4794043B9859B13095B24F4EB2",
+                    "size": "E91BD8543510378ACBCACF2624C3BBE7",
                     "download": "BADF3EA8C10E470E77E8E8623B96354D"
                 },
                 "pts_test": {
-                    "encrypted_gid_2": "F7893DC0251744298E99E1961D86B99D",
-                    "encrypted_size_2": "139FF14B5DF4FFC1D6A816E7E6C11E97",
+                    "gid": "F7893DC0251744298E99E1961D86B99D",
+                    "size": "139FF14B5DF4FFC1D6A816E7E6C11E97",
                     "download": "DDA55CC3A69A61FB80DB106B59016FFE"
                 },
                 "test": {
-                    "encrypted_gid_2": "A17D2475C357FBE88B76F14079186511",
-                    "encrypted_size_2": "3BD906714E399012208BB0C9EF0E472F",
+                    "gid": "A17D2475C357FBE88B76F14079186511",
+                    "size": "3BD906714E399012208BB0C9EF0E472F",
                     "download": "65FE4A2274CCC0731BB4344B126F0E9F"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "10839000",
-                "timeupdated": "1680009003"
+                "buildid": "11306108",
+                "timeupdated": "1684950158"
             },
             "crossplay": {
-                "buildid": "10839000",
+                "buildid": "11209105",
                 "pwdrequired": "1",
-                "timeupdated": "1679581635"
+                "timeupdated": "1683814514"
             },
             "none": {
                 "buildid": "2816154",
@@ -225,7 +228,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18275009,
-    "_sha": "9797ea17ed1a22f780fff560a2e480c17b4b928b",
-    "_size": 5419
+    "_change_number": 18915474,
+    "_sha": "dcc38893f789ee0ab213a4b3da030069494a0811",
+    "_size": 5304
 }

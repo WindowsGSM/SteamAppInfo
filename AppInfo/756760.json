@@ -35,9 +35,12 @@
     "depots": {
         "756761": {
             "manifests": {
-                "public": "6635158951538108209"
-            },
-            "maxsize": "4800792882"
+                "public": {
+                    "gid": "6635158951538108209",
+                    "size": "4800792882",
+                    "download": "3711431920"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -47,7 +50,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 11703200,
-    "_sha": "9a08c9dc70e1c8282a89f40a2b5c6b9aeb07cf49",
-    "_size": 1065
+    "_change_number": 18903802,
+    "_sha": "81e83242f350394974012614ab15120e739eb0dc",
+    "_size": 1117
 }

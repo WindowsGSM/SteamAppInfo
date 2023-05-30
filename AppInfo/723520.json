@@ -71,9 +71,12 @@
                 "language": ""
             },
             "manifests": {
-                "public": "1109880745980790292"
-            },
-            "maxsize": "1088947145"
+                "public": {
+                    "gid": "1109880745980790292",
+                    "size": "1088947145",
+                    "download": "190962192"
+                }
+            }
         },
         "723522": {
             "config": {
@@ -81,9 +84,12 @@
                 "language": ""
             },
             "manifests": {
-                "public": "5467222476958226354"
-            },
-            "maxsize": "1470857224"
+                "public": {
+                    "gid": "5467222476958226354",
+                    "size": "1470857224",
+                    "download": "276080976"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -93,7 +99,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14633474,
-    "_sha": "a229279124fd9535efbf3240726ded618fe39c6e",
-    "_size": 1899
+    "_change_number": 18903802,
+    "_sha": "8596caf1ada0ee945f149d971f4e85e7175b51c1",
+    "_size": 2001
 }

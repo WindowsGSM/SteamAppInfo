@@ -69,31 +69,46 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "4458629049598242343",
-                "psrelease": "4458629049598242343",
-                "publictesting": "4458629049598242343",
-                "xbrelease": "4458629049598242343"
+                "public": {
+                    "gid": "4458629049598242343",
+                    "size": "1166647080",
+                    "download": "873131104"
+                },
+                "psrelease": {
+                    "gid": "4458629049598242343",
+                    "size": "1166647080",
+                    "download": "873131104"
+                },
+                "publictesting": {
+                    "gid": "6276893868853254119",
+                    "size": "1231542812",
+                    "download": "937323792"
+                },
+                "xbrelease": {
+                    "gid": "4458629049598242343",
+                    "size": "1166647080",
+                    "download": "873131104"
+                }
             },
-            "maxsize": "1166647080",
             "encryptedmanifests": {
                 "development": {
-                    "encrypted_gid_2": "57738C08BE77A5790E168CB196F2E4F0",
-                    "encrypted_size_2": "7B446E20310F5A25A45C8A68944E1141",
-                    "download": "6246CAF0F3FF9766DA43439BE3069B08"
+                    "gid": "AAEC84D48E851C1DE23F194761923E86",
+                    "size": "656ED4F3D19A08ABF3776D6CAFB4B115",
+                    "download": "3923A1C235984A78E90ECCE4EA48B131"
                 },
                 "pscert": {
-                    "encrypted_gid_2": "2B7E688DE6DFB4C37D925CF6D7E135D6",
-                    "encrypted_size_2": "A9B075E3988E13F2B7C5DA81D11D97DD",
+                    "gid": "2B7E688DE6DFB4C37D925CF6D7E135D6",
+                    "size": "A9B075E3988E13F2B7C5DA81D11D97DD",
                     "download": "98343B7A25358D8122D7595CECDEB3D4"
                 },
                 "release": {
-                    "encrypted_gid_2": "48951AC04ED30496655CD23DD2CFA940",
-                    "encrypted_size_2": "EEE5F3759A7D2A81E9D692C1275BCA17",
-                    "download": "9626FB335CFDECF5D163FB4B1180EF3E"
+                    "gid": "E4CEA17E17B9775EF0CC259A2A1BBDEF",
+                    "size": "A0906C78F23D83AA6BCEF880A6937344",
+                    "download": "67057188FB4E7A2ADE3A0B18790FBF66"
                 },
                 "xboxcert": {
-                    "encrypted_gid_2": "ACCBA4AC8D66C13B3A0E24773873E8AA",
-                    "encrypted_size_2": "B4ECC5B826E60BF8ECE5E3FBB5A9CC7A",
+                    "gid": "ACCBA4AC8D66C13B3A0E24773873E8AA",
+                    "size": "B4ECC5B826E60BF8ECE5E3FBB5A9CC7A",
                     "download": "59C88372326C2994AAC2D9AC032DFB6E"
                 }
             }
@@ -103,31 +118,46 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "5062813203486389318",
-                "psrelease": "5062813203486389318",
-                "publictesting": "5062813203486389318",
-                "xbrelease": "5062813203486389318"
+                "public": {
+                    "gid": "5062813203486389318",
+                    "size": "1305591125",
+                    "download": "982222208"
+                },
+                "psrelease": {
+                    "gid": "5062813203486389318",
+                    "size": "1305591125",
+                    "download": "982222208"
+                },
+                "publictesting": {
+                    "gid": "3914591618568618962",
+                    "size": "1372895507",
+                    "download": "1048612448"
+                },
+                "xbrelease": {
+                    "gid": "5062813203486389318",
+                    "size": "1305591125",
+                    "download": "982222208"
+                }
             },
-            "maxsize": "1305591125",
             "encryptedmanifests": {
                 "development": {
-                    "encrypted_gid_2": "81FA34749379A55A3A4AAFC6272924C8",
-                    "encrypted_size_2": "674462CC3798771BD281F3DA026AD7A5",
-                    "download": "A474BB0D4F9D3FE40C999E0F32C97EF7"
+                    "gid": "606DA4BB47D18531DD912AC26168F5D5",
+                    "size": "92E1862E685F08087CBA9A52FE64A776",
+                    "download": "E3190A07F8631D735F8B5CBCFAB49266"
                 },
                 "pscert": {
-                    "encrypted_gid_2": "AC2376278DEB003062EDA9FDF35F2AD4",
-                    "encrypted_size_2": "E3E1D1ADA18062C4256DDB97B5BD412D",
+                    "gid": "AC2376278DEB003062EDA9FDF35F2AD4",
+                    "size": "E3E1D1ADA18062C4256DDB97B5BD412D",
                     "download": "A40C2DD4D20B0D94C7770F5DE183E5D7"
                 },
                 "release": {
-                    "encrypted_gid_2": "EF045D4DD7AEF62A04BCFEDDC027BE71",
-                    "encrypted_size_2": "6086D8FBAFAF5D1DF5C535AED6B32161",
-                    "download": "AC7336E769B17356DB2137FAC954B5C0"
+                    "gid": "D18EE33DF5D07E3BD4B514E7985EA1D6",
+                    "size": "2614A0C32A2D6FBA24AA4D5AB9BD5EA0",
+                    "download": "142A13581C1FA2B374D972F7E70571E8"
                 },
                 "xboxcert": {
-                    "encrypted_gid_2": "367641B77961AF89767AFBE4D5DBFBF7",
-                    "encrypted_size_2": "FB354476A3602FCAD514BA37F053B6B9",
+                    "gid": "367641B77961AF89767AFBE4D5DBFBF7",
+                    "size": "FB354476A3602FCAD514BA37F053B6B9",
                     "download": "51E83DDA5F746142A45E31BE33B582A6"
                 }
             }
@@ -138,9 +168,9 @@
                 "timeupdated": "1682555478"
             },
             "development": {
-                "buildid": "11178240",
+                "buildid": "11347699",
                 "pwdrequired": "1",
-                "timeupdated": "1683530240"
+                "timeupdated": "1685431457"
             },
             "pscert": {
                 "buildid": "11011529",
@@ -153,14 +183,14 @@
                 "timeupdated": "1682555560"
             },
             "publictesting": {
-                "buildid": "11100189",
+                "buildid": "11299116",
                 "description": "Public Test",
-                "timeupdated": "1682555584"
+                "timeupdated": "1685020379"
             },
             "release": {
-                "buildid": "11116447",
+                "buildid": "11329518",
                 "pwdrequired": "1",
-                "timeupdated": "1682698530"
+                "timeupdated": "1685130837"
             },
             "xboxcert": {
                 "buildid": "11011529",
@@ -179,7 +209,7 @@
         "maxnumfiles": "10000"
     },
     "_missing_token": false,
-    "_change_number": 18713313,
-    "_sha": "8fe08ce77ec083e7f71a585147f7724836daebff",
-    "_size": 4427
+    "_change_number": 18977532,
+    "_sha": "1d9b7cfc68e6abb0545d6a806f24412059993512",
+    "_size": 4806
 }

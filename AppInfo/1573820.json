@@ -77,9 +77,12 @@
         },
         "1573821": {
             "manifests": {
-                "public": "1631964152174811935"
-            },
-            "maxsize": "1239908757"
+                "public": {
+                    "gid": "1631964152174811935",
+                    "size": "1239908757",
+                    "download": "927926768"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -89,7 +92,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "acab8a3a85df970e767a4f72e857add9e41d3759",
-    "_size": 1794
+    "_change_number": 18736181,
+    "_sha": "bd901c81b8615a7be8cd18b45ddbd308374b45b6",
+    "_size": 1845
 }

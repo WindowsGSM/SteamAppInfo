@@ -57,15 +57,22 @@
                 "language": ""
             },
             "manifests": {
-                "public": "1721601265768873067",
-                "testing": "1721601265768873067"
+                "public": {
+                    "gid": "1721601265768873067",
+                    "size": "675041633",
+                    "download": "190075888"
+                },
+                "testing": {
+                    "gid": "1721601265768873067",
+                    "size": "675041633",
+                    "download": "190075888"
+                }
             },
-            "maxsize": "675041633",
             "encryptedmanifests": {
                 "developer": {
-                    "encrypted_gid_2": "61E1892C1C2AE4F7EE242DC5C74F0002",
-                    "encrypted_size_2": "C5A547A10AEAF45443EEE96404B66C20",
-                    "download": "B13576A0321E2852034B91A4331DA302"
+                    "gid": "AAADCB5F56B3587D0CAC281696945D64",
+                    "size": "23B9EFDA6D0D0BFEE27B9D82E4C3C55D",
+                    "download": "7D8B47C91D2246ADD524C015762BABFE"
                 }
             }
         },
@@ -75,15 +82,22 @@
                 "language": ""
             },
             "manifests": {
-                "public": "7762150572526916745",
-                "testing": "7762150572526916745"
+                "public": {
+                    "gid": "7762150572526916745",
+                    "size": "719034747",
+                    "download": "202212384"
+                },
+                "testing": {
+                    "gid": "7762150572526916745",
+                    "size": "719034747",
+                    "download": "202212384"
+                }
             },
-            "maxsize": "719034747",
             "encryptedmanifests": {
                 "developer": {
-                    "encrypted_gid_2": "487B1DB70D88F78563019D7728243425",
-                    "encrypted_size_2": "FA4BA1AC9BC2D95B7FEDA08550C3824E",
-                    "download": "7BED340AB90685BDCC2E603CB261C33F"
+                    "gid": "54287486038460E33CD5086E6867F230",
+                    "size": "DA77D803151DE0C72263D4002B380707",
+                    "download": "7799D4BB2CD7E7E187D7481D9E15390C"
                 }
             }
         },
@@ -94,9 +108,9 @@
                 "timeupdated": "1680373122"
             },
             "developer": {
-                "buildid": "11182007",
+                "buildid": "11326691",
                 "pwdrequired": "1",
-                "timeupdated": "1683565565"
+                "timeupdated": "1685108807"
             },
             "testing": {
                 "buildid": "10909721",
@@ -106,7 +120,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18719131,
-    "_sha": "02fe623b32ed476eb52b66c66f8bf33a32e22aa0",
-    "_size": 2555
+    "_change_number": 18942817,
+    "_sha": "d0efc98695d97331c16acbc90f9d2c029cf89bfa",
+    "_size": 2763
 }

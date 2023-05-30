@@ -60,16 +60,25 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "4018118940306542664",
-                "beta": "5202062495885962516",
-                "previous": "4417646215173143438"
-            },
-            "maxsize": "2739091324",
-            "encryptedmanifests": {
+                "public": {
+                    "gid": "4691312379695378355",
+                    "size": "2739091438",
+                    "download": "2081282160"
+                },
+                "beta": {
+                    "gid": "5270447483901563651",
+                    "size": "2746213859",
+                    "download": "2082621232"
+                },
                 "devbranch": {
-                    "encrypted_gid_2": "CD875A512EBDC09CABF3A60DD023CFBB",
-                    "encrypted_size_2": "FF2EC0E5124405F4EB1463BBE47D87F8",
-                    "download": "EC5C6044F0DA7AD4084554F402306771"
+                    "gid": "2054894690280008056",
+                    "size": "2746214421",
+                    "download": "2082620896"
+                },
+                "previous": {
+                    "gid": "4417646215173143438",
+                    "size": "2713567985",
+                    "download": "2069061360"
                 }
             }
         },
@@ -79,33 +88,42 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "3848454052976688912",
-                "beta": "8749186724779379098",
-                "previous": "2649586550653028639"
-            },
-            "maxsize": "2715497445",
-            "encryptedmanifests": {
+                "public": {
+                    "gid": "780226150167169778",
+                    "size": "2716744350",
+                    "download": "2074157984"
+                },
+                "beta": {
+                    "gid": "3649355398010435465",
+                    "size": "2723082980",
+                    "download": "2075565824"
+                },
                 "devbranch": {
-                    "encrypted_gid_2": "8D374F5BF6BB844E434EB8277EF44F5A",
-                    "encrypted_size_2": "7EE821DE04BBCC63A845352396508DC0",
-                    "download": "DA91CBBA75A88BD658A12875EB040B0D"
+                    "gid": "8002446741950283835",
+                    "size": "2723083542",
+                    "download": "2075559872"
+                },
+                "previous": {
+                    "gid": "2649586550653028639",
+                    "size": "2690782082",
+                    "download": "2061827040"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "11088523",
-                "timeupdated": "1682582943"
+                "buildid": "11197503",
+                "timeupdated": "1683809836"
             },
             "beta": {
-                "buildid": "11185998",
+                "buildid": "11346889",
                 "description": "beta branch",
-                "timeupdated": "1683606870"
+                "timeupdated": "1685421718"
             },
             "devbranch": {
-                "buildid": "9437672",
-                "pwdrequired": "1",
-                "timeupdated": "1662093425"
+                "buildid": "11346363",
+                "description": "dev branch for latest testing",
+                "timeupdated": "1685417970"
             },
             "previous": {
                 "buildid": "10143747",
@@ -114,7 +132,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18725090,
-    "_sha": "a49aa768eac5837f72b2ffe6326482011577b388",
-    "_size": 2688
+    "_change_number": 18976337,
+    "_sha": "e2858e586ed1262640a0921b21862ef0ce9a65d5",
+    "_size": 2906
 }

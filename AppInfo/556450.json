@@ -66,23 +66,26 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "6352551090763174807"
+                "public": {
+                    "gid": "6352551090763174807",
+                    "size": "1697629777",
+                    "download": "1143833680"
+                }
             },
-            "maxsize": "1697629777",
             "encryptedmanifests": {
                 "ds_beta_testing": {
-                    "encrypted_gid_2": "A5E6411BF9FF903822E0B4A9833C84AF",
-                    "encrypted_size_2": "478B76AB9452B380BDFB466158F7337A",
+                    "gid": "A5E6411BF9FF903822E0B4A9833C84AF",
+                    "size": "478B76AB9452B380BDFB466158F7337A",
                     "download": "D61F5B2078DF769667C07EF2173E2FC1"
                 },
                 "ds_test": {
-                    "encrypted_gid_2": "1ACC80D2776935A55DE2FD7AAF343F68",
-                    "encrypted_size_2": "32E987B608BB7421877C2EEDAF7FEFEB",
+                    "gid": "1ACC80D2776935A55DE2FD7AAF343F68",
+                    "size": "32E987B608BB7421877C2EEDAF7FEFEB",
                     "download": "347386C4130DFF359F42B96F5B019FBE"
                 },
                 "v0.60_branch": {
-                    "encrypted_gid_2": "F926C3F0C669BC4217159F5260AA0C8E",
-                    "encrypted_size_2": "07060B84FE41E3036EEB29DA6409E035",
+                    "gid": "F926C3F0C669BC4217159F5260AA0C8E",
+                    "size": "07060B84FE41E3036EEB29DA6409E035",
                     "download": "C81402F4B4996F543C9A1EE65E717F80"
                 }
             }
@@ -110,7 +113,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "b51001bb8a21394459d1c257f15c21c9fae8f34f",
-    "_size": 2548
+    "_change_number": 18903802,
+    "_sha": "3364608c7e9debc796be53ea4bc38b11e6224668",
+    "_size": 2528
 }

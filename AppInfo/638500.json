@@ -43,9 +43,12 @@
     "depots": {
         "638501": {
             "manifests": {
-                "public": "2394792481016801454"
-            },
-            "maxsize": "56582868"
+                "public": {
+                    "gid": "2394792481016801454",
+                    "size": "56582868",
+                    "download": "15996752"
+                }
+            }
         },
         "workshopdepot": "638500",
         "branches": {
@@ -56,7 +59,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 11703200,
-    "_sha": "296aaaa5fb39869f9aa5bbd1ac1ad996e08787ea",
-    "_size": 1214
+    "_change_number": 18903802,
+    "_sha": "32da0e1f13db8e2efc26b51c626eb342b0c58c2d",
+    "_size": 1264
 }

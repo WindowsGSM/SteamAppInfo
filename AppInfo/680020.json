@@ -59,31 +59,37 @@
         },
         "680021": {
             "manifests": {
-                "public": "1764541643659207580"
-            },
-            "maxsize": "1084825876"
+                "public": {
+                    "gid": "1764541643659207580",
+                    "size": "1084825876",
+                    "download": "459175152"
+                }
+            }
         },
         "658171": {
             "manifests": {
-                "public": "8898699655536222367",
-                "test": "8433715102432096968"
+                "public": {
+                    "gid": "8898699655536222367",
+                    "size": "1067707347",
+                    "download": "454549248"
+                },
+                "test": {
+                    "gid": "8433715102432096968",
+                    "size": "1079969231",
+                    "download": "456170592"
+                }
             },
-            "maxsize": "1079969231",
             "depotfromapp": "658170"
         },
         "branches": {
             "public": {
                 "buildid": "3005631",
                 "timeupdated": "1533378469"
-            },
-            "test": {
-                "buildid": "2909067",
-                "timeupdated": "1533004256"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "161e0d04f190dec820fa5df125a2ee43bb0973e5",
-    "_size": 1714
+    "_change_number": 18903802,
+    "_sha": "7d814e171e843603972266baca3af259f7599cbf",
+    "_size": 1817
 }

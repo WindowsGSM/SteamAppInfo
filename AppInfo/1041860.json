@@ -47,9 +47,12 @@
                 "language": ""
             },
             "manifests": {
-                "public": "791160130665939037"
-            },
-            "maxsize": "401287932"
+                "public": {
+                    "gid": "791160130665939037",
+                    "size": "401287932",
+                    "download": "131828112"
+                }
+            }
         },
         "1041863": {
             "config": {
@@ -58,9 +61,12 @@
                 "language": ""
             },
             "manifests": {
-                "public": "8640356658376983959"
-            },
-            "maxsize": "495175557"
+                "public": {
+                    "gid": "8640356658376983959",
+                    "size": "495175557",
+                    "download": "102673776"
+                }
+            }
         },
         "workshopdepot": "1041860",
         "branches": {
@@ -71,7 +77,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 17105332,
-    "_sha": "b4452e6cb0e2cfc74d08ddb4ae78761c0c26a259",
-    "_size": 1558
+    "_change_number": 18821630,
+    "_sha": "f53306c1b12fbbe3f4f9ba2b41188c52d1c6678c",
+    "_size": 1660
 }

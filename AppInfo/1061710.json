@@ -29,11 +29,22 @@
     "depots": {
         "1061711": {
             "manifests": {
-                "public": "5102824202185332836",
-                "legacy-r31": "6240746190867404355",
-                "legacy-r32": "7238442648441263839"
-            },
-            "maxsize": "647861942"
+                "public": {
+                    "gid": "5102824202185332836",
+                    "size": "647861942",
+                    "download": "463567200"
+                },
+                "legacy-r31": {
+                    "gid": "6240746190867404355",
+                    "size": "604802607",
+                    "download": "439396544"
+                },
+                "legacy-r32": {
+                    "gid": "7238442648441263839",
+                    "size": "626323855",
+                    "download": "448261392"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -53,7 +64,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 15565194,
-    "_sha": "ab7f14bb901a09b84986d9c0f6e465dea030ccfc",
-    "_size": 1287
+    "_change_number": 18821630,
+    "_sha": "d0cd8c04b465ef277b4bb2842a379d3db2d0191e",
+    "_size": 1492
 }

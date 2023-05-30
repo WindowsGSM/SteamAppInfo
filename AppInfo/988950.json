@@ -75,11 +75,22 @@
         "hasdepotsindlc": "0",
         "988951": {
             "manifests": {
-                "public": "7864919770206583701",
-                "devtest1": "6430895683223781428",
-                "legacy": "8443651178289967592"
-            },
-            "maxsize": "2155106987"
+                "public": {
+                    "gid": "7864919770206583701",
+                    "size": "574211732",
+                    "download": "439949840"
+                },
+                "devtest1": {
+                    "gid": "6430895683223781428",
+                    "size": "2155106987",
+                    "download": "509204368"
+                },
+                "legacy": {
+                    "gid": "8443651178289967592",
+                    "size": "2088860459",
+                    "download": "1940720000"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -99,7 +110,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "14874601b6af1420ed19c18db79dc6d0e419d29c",
-    "_size": 2081
+    "_change_number": 18821630,
+    "_sha": "5da40fe4b551c019800754c9542c76daee9a0c87",
+    "_size": 2288
 }

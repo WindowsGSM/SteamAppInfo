@@ -86,98 +86,101 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "7612049083159136490"
+                "public": {
+                    "gid": "7612049083159136490",
+                    "size": "2302697999",
+                    "download": "2189404144"
+                }
             },
-            "maxsize": "2302697999",
             "encryptedmanifests": {
                 "astro_ds": {
-                    "encrypted_gid_2": "FF13F5863090CB140DCC5FA6E1F0C214",
-                    "encrypted_size_2": "5BEE5A95ED2C1EC7127E9ABB54F2334C",
+                    "gid": "FF13F5863090CB140DCC5FA6E1F0C214",
+                    "size": "5BEE5A95ED2C1EC7127E9ABB54F2334C",
                     "download": "A08B4C8273CD46BEB2B45C271729D4DB"
                 },
                 "astro_rc": {
-                    "encrypted_gid_2": "A69E2C353F3D2684D19CFB777DE8ECAB",
-                    "encrypted_size_2": "164BD59BD58DF1A769ED72AAA1DC1DB7",
+                    "gid": "A69E2C353F3D2684D19CFB777DE8ECAB",
+                    "size": "164BD59BD58DF1A769ED72AAA1DC1DB7",
                     "download": "1D2F6C1A2A53E394CA33D10B3AC0D696"
                 },
                 "astro_rc_dev": {
-                    "encrypted_gid_2": "087F187D648975227E662F4A95564A6A",
-                    "encrypted_size_2": "9B6854A01EE9F969615821EEE960E55C",
+                    "gid": "087F187D648975227E662F4A95564A6A",
+                    "size": "9B6854A01EE9F969615821EEE960E55C",
                     "download": "19A74C72903319721805DFF992A8A982"
                 },
                 "astrodev_et": {
-                    "encrypted_gid_2": "D5A036F13B20C98FB91A639F8542856C",
-                    "encrypted_size_2": "D073FEABD3A90637124668B7A26F7687",
+                    "gid": "D5A036F13B20C98FB91A639F8542856C",
+                    "size": "D073FEABD3A90637124668B7A26F7687",
                     "download": "0C83CC70B1FA392CA1085BA99B4EABE6"
                 },
                 "astrodev_profiling": {
-                    "encrypted_gid_2": "6FD2357B1A393A6CF302117B1C05D9FB",
-                    "encrypted_size_2": "B5F91760CC6473E639D5112381291FC6",
+                    "gid": "6FD2357B1A393A6CF302117B1C05D9FB",
+                    "size": "B5F91760CC6473E639D5112381291FC6",
                     "download": "2A1780B6D23822B7B2B7FCEEBC0CB575"
                 },
                 "astromain_dailies": {
-                    "encrypted_gid_2": "99D82FA7CECFC728ED643F6E3C09A63B",
-                    "encrypted_size_2": "F90177D536728B5106B09EEE2450F5E1",
-                    "download": "92A17A5AA5DA2FB4132A82CD628A5B3A"
+                    "gid": "FA2F975D7258700F340ADE91799C7037",
+                    "size": "3A0814DC4D22FFB02236FF85732EEA0D",
+                    "download": "01467EE43F69EA336B01DE70BB7F9FC0"
                 },
                 "astromain_incremental": {
-                    "encrypted_gid_2": "F95BFB4C2A82B8C897BB1E536368DA81",
-                    "encrypted_size_2": "E8C1C2F4560D6871B81F04B6FFA86808",
-                    "download": "6652D492465463FA05A57316B0C4A128"
+                    "gid": "4BB6F121D819D2AD282A58310EB7E70D",
+                    "size": "BFB65C0DD6FA57730C238FF439B6A1D8",
+                    "download": "D69919D45234177C9E7D5819CEB320C8"
                 },
                 "astromain_su": {
-                    "encrypted_gid_2": "37D0D9E3B2788485D37C434C7B6611D8",
-                    "encrypted_size_2": "3D04E201A673659BB0C3D41CE2A94B66",
-                    "download": "A8FE866446973801B47A6FD5304C9818"
+                    "gid": "ABFE1BEC12508EFE4106C6950B38DC20",
+                    "size": "A8DE377E0FBB8F3C77A5ABE8CB981A47",
+                    "download": "7971C74BC94C602B760D0F79E74DE222"
                 },
                 "astroneer_beta": {
-                    "encrypted_gid_2": "A0374498E1A00C1B3E71D23B7642E283",
-                    "encrypted_size_2": "72390C69436D4C3FFC4F131443E4CF45",
-                    "download": "BDD3FFC31F099787A2E834ED18563441"
+                    "gid": "ACFC04332683B03E3D1504BF51D55CDC",
+                    "size": "3FC07EA589E12EDD091FEACF0F3DF408",
+                    "download": "F888CC0AF9D591298B5DFEF3FC7C51B3"
                 },
                 "astrortx_cu": {
-                    "encrypted_gid_2": "5A15C0E6D870C9BABC45FCF1658037DB",
-                    "encrypted_size_2": "D0B79ED145BC97D3CA16383AEDA895E2",
+                    "gid": "5A15C0E6D870C9BABC45FCF1658037DB",
+                    "size": "D0B79ED145BC97D3CA16383AEDA895E2",
                     "download": "6F84CBD55EA73F839F2DAE4E38C8F0F4"
                 },
                 "astrortx_cu_dev": {
-                    "encrypted_gid_2": "22B2852FBD468F96BD21DCE0BD359CF5",
-                    "encrypted_size_2": "0A7B4F4FB5669F3D2AC099D2D4F20B5D",
+                    "gid": "22B2852FBD468F96BD21DCE0BD359CF5",
+                    "size": "0A7B4F4FB5669F3D2AC099D2D4F20B5D",
                     "download": "1143CE5A101B99365AEE961062A28BB8"
                 },
                 "astrortx_dailies": {
-                    "encrypted_gid_2": "D52D6A1666D0F04A95B1D7276547FB5B",
-                    "encrypted_size_2": "BF220204DEFD911BA4FD8D233FA71115",
+                    "gid": "D52D6A1666D0F04A95B1D7276547FB5B",
+                    "size": "BF220204DEFD911BA4FD8D233FA71115",
                     "download": "938A9208B59E991810BB659752B111DB"
                 },
                 "astrortx_ds": {
-                    "encrypted_gid_2": "B54ADF67AD1CD1E9EF0B83BD35570F2D",
-                    "encrypted_size_2": "CDED12C7CDFB4249513A66B6F0EEC86B",
+                    "gid": "B54ADF67AD1CD1E9EF0B83BD35570F2D",
+                    "size": "CDED12C7CDFB4249513A66B6F0EEC86B",
                     "download": "2D515F88030C95F14D16491A33F6F6B1"
                 },
                 "astrortx_et": {
-                    "encrypted_gid_2": "752CA795A4EBBECD5A19B702139DA05C",
-                    "encrypted_size_2": "652D7DC0D5E1FF3879313B16BF65BDBE",
+                    "gid": "752CA795A4EBBECD5A19B702139DA05C",
+                    "size": "652D7DC0D5E1FF3879313B16BF65BDBE",
                     "download": "51C4A0308E7F9C1756EE2D671A608D5F"
                 },
                 "astrortx_incremental": {
-                    "encrypted_gid_2": "0770C98658C7B958A2BF5EBD483CF738",
-                    "encrypted_size_2": "9FEBC59124EE43C96A8E7D0B17714F60",
+                    "gid": "0770C98658C7B958A2BF5EBD483CF738",
+                    "size": "9FEBC59124EE43C96A8E7D0B17714F60",
                     "download": "EF5DE63F284ED09F49556CE1E2DF8E75"
                 },
                 "debug": {
-                    "encrypted_gid_2": "188433C5B2B1A0519B5C3C1B0C2ECA39",
-                    "encrypted_size_2": "6D7C556C36FB2B64EAF0DFC41D1C4D0E",
+                    "gid": "188433C5B2B1A0519B5C3C1B0C2ECA39",
+                    "size": "6D7C556C36FB2B64EAF0DFC41D1C4D0E",
                     "download": "7B7ED484687A2D37A66CB93166554B7A"
                 },
                 "internal_playtest": {
-                    "encrypted_gid_2": "B9691E807D0304DE051161EC378FBEDB",
-                    "encrypted_size_2": "4FC85D66D9BF0919BEBD06A871EE4E4A",
-                    "download": "97CED3A127BD8F19B338FCB3311A494D"
+                    "gid": "D5ACDF13FDC3030D894DDE50543BD3A7",
+                    "size": "E8C3BF20E9B0AB2376E4B42DF80D5280",
+                    "download": "3C66F135B2B0C4975BDA42CBAD088484"
                 },
                 "qa_sandbox": {
-                    "encrypted_gid_2": "AAD16025008D6129F15007A8E0A0DBAF",
-                    "encrypted_size_2": "5B8C0DA8F1DDF6055120B1AD6C77A8D5",
+                    "gid": "AAD16025008D6129F15007A8E0A0DBAF",
+                    "size": "5B8C0DA8F1DDF6055120B1AD6C77A8D5",
                     "download": "4A9F4D119FD41D15FF81AB84F62561B6"
                 }
             }
@@ -213,19 +216,19 @@
                 "timeupdated": "1608162001"
             },
             "astromain_dailies": {
-                "buildid": "11178758",
+                "buildid": "11348331",
                 "pwdrequired": "1",
-                "timeupdated": "1683535832"
+                "timeupdated": "1685437167"
             },
             "astromain_incremental": {
-                "buildid": "11184477",
+                "buildid": "11328531",
                 "pwdrequired": "1",
-                "timeupdated": "1683590419"
+                "timeupdated": "1685122206"
             },
             "astromain_su": {
-                "buildid": "11178626",
+                "buildid": "11348355",
                 "pwdrequired": "1",
-                "timeupdated": "1683534555"
+                "timeupdated": "1685437337"
             },
             "astroneer_beta": {
                 "buildid": "9855888",
@@ -268,9 +271,9 @@
                 "timeupdated": "1515082662"
             },
             "internal_playtest": {
-                "buildid": "8890319",
+                "buildid": "11314802",
                 "pwdrequired": "1",
-                "timeupdated": "1654632818"
+                "timeupdated": "1685040785"
             },
             "qa_sandbox": {
                 "buildid": "9434971",
@@ -280,7 +283,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18722936,
-    "_sha": "3ca4dff8381be9dea130adb1c42f79dfda2f083b",
-    "_size": 7604
+    "_change_number": 18978456,
+    "_sha": "b564d6e53dbbd17e5a5c292a10a63d09e0b3f970",
+    "_size": 7225
 }

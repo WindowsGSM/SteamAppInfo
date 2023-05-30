@@ -64,20 +64,31 @@
                 "oslist": "windows,linux"
             },
             "manifests": {
-                "public": "3790245688920191095",
-                "beta": "3790245688920191095",
-                "develop": "5369618756681663337"
+                "public": {
+                    "gid": "6187492620390404491",
+                    "size": "3618993067",
+                    "download": "1079542816"
+                },
+                "beta": {
+                    "gid": "6187492620390404491",
+                    "size": "3618993067",
+                    "download": "1079542816"
+                },
+                "develop": {
+                    "gid": "5369618756681663337",
+                    "size": "3475864877",
+                    "download": "1051991680"
+                }
             },
-            "maxsize": "3618993067",
             "encryptedmanifests": {
                 "donator": {
-                    "encrypted_gid_2": "1975684762C78358ED30AF84662BCDB1",
-                    "encrypted_size_2": "545BEACEBD4806DB7AD830458D77E18C",
+                    "gid": "1975684762C78358ED30AF84662BCDB1",
+                    "size": "545BEACEBD4806DB7AD830458D77E18C",
                     "download": "56C59B98F1E341F643AF371EE56DA134"
                 },
                 "testing": {
-                    "encrypted_gid_2": "DBAE1F67A8ECCC2A68EB6625C9DFF5E5",
-                    "encrypted_size_2": "C74A918C4A28FCAB5B74094F0D057EB2",
+                    "gid": "DBAE1F67A8ECCC2A68EB6625C9DFF5E5",
+                    "size": "C74A918C4A28FCAB5B74094F0D057EB2",
                     "download": "397706E9567E24EB31B89E01924661F1"
                 }
             }
@@ -87,20 +98,31 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "6206555335371279693",
-                "beta": "6206555335371279693",
-                "develop": "5886683205840857418"
+                "public": {
+                    "gid": "2935604520692529514",
+                    "size": "28056720",
+                    "download": "9452768"
+                },
+                "beta": {
+                    "gid": "2935604520692529514",
+                    "size": "28056720",
+                    "download": "9452768"
+                },
+                "develop": {
+                    "gid": "5886683205840857418",
+                    "size": "28052624",
+                    "download": "9453040"
+                }
             },
-            "maxsize": "28056720",
             "encryptedmanifests": {
                 "donator": {
-                    "encrypted_gid_2": "1156EE4FFCD8BE2F769E50763D0705E3",
-                    "encrypted_size_2": "86D841755BA42E14FFD1B85F3565355E",
+                    "gid": "1156EE4FFCD8BE2F769E50763D0705E3",
+                    "size": "86D841755BA42E14FFD1B85F3565355E",
                     "download": "48D04D928D8101E6CE53B8CFAAC98183"
                 },
                 "testing": {
-                    "encrypted_gid_2": "016822F712C8CB98A73D5AB2C2CC9CB3",
-                    "encrypted_size_2": "21A180EB560C581EEFE973A48597E538",
+                    "gid": "016822F712C8CB98A73D5AB2C2CC9CB3",
+                    "size": "21A180EB560C581EEFE973A48597E538",
                     "download": "535543A7BDA59354B0A79D63FFAC0D5D"
                 }
             }
@@ -110,33 +132,44 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "4434859723093410848",
-                "beta": "4434859723093410848",
-                "develop": "2290729284015416158"
+                "public": {
+                    "gid": "5262912390781638125",
+                    "size": "48621848",
+                    "download": "13098528"
+                },
+                "beta": {
+                    "gid": "5262912390781638125",
+                    "size": "48621848",
+                    "download": "13098528"
+                },
+                "develop": {
+                    "gid": "2290729284015416158",
+                    "size": "48602171",
+                    "download": "13098336"
+                }
             },
-            "maxsize": "48621848",
             "encryptedmanifests": {
                 "donator": {
-                    "encrypted_gid_2": "E89575BFF5B4A1050A01C582BC10BDA8",
-                    "encrypted_size_2": "22540F991A92FC2706E3D320997920D8",
+                    "gid": "E89575BFF5B4A1050A01C582BC10BDA8",
+                    "size": "22540F991A92FC2706E3D320997920D8",
                     "download": "441B26FFCD2F7C5CC02B733FC9DCD744"
                 },
                 "testing": {
-                    "encrypted_gid_2": "C4C9F1EF5B76CD1F194E51622E34663C",
-                    "encrypted_size_2": "3ABAC6EE5BC12C89CE3528F802BCAF27",
+                    "gid": "C4C9F1EF5B76CD1F194E51622E34663C",
+                    "size": "3ABAC6EE5BC12C89CE3528F802BCAF27",
                     "download": "273FB926BB606D852B74EAEF1B864934"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "11146609",
-                "timeupdated": "1683124033"
+                "buildid": "11337677",
+                "timeupdated": "1685298958"
             },
             "beta": {
-                "buildid": "11146609",
+                "buildid": "11337677",
                 "description": "BETA",
-                "timeupdated": "1683124022"
+                "timeupdated": "1685298950"
             },
             "develop": {
                 "buildid": "9159013",
@@ -156,7 +189,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18662222,
-    "_sha": "c3772bdb37de2bfe09e0ae924b3419d097330238",
-    "_size": 3811
+    "_change_number": 18961773,
+    "_sha": "caddfc79d1f02c4a6c2825411a1d810650f8fd77",
+    "_size": 4274
 }

@@ -40,10 +40,17 @@
         },
         "1284601": {
             "manifests": {
-                "public": "7434429540955451424",
-                "staging": "286423043671096305"
-            },
-            "maxsize": "845050850"
+                "public": {
+                    "gid": "7434429540955451424",
+                    "size": "513784408",
+                    "download": "114100912"
+                },
+                "staging": {
+                    "gid": "286423043671096305",
+                    "size": "845050850",
+                    "download": "256608496"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -58,7 +65,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14723591,
-    "_sha": "851b5d4dc96342a1f260d486d4b9bd031c3d9122",
-    "_size": 1301
+    "_change_number": 18736181,
+    "_sha": "59126cce8fed7f61e505d80d22b2df3b010c63b6",
+    "_size": 1429
 }

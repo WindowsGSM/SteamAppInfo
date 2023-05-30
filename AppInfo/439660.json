@@ -90,18 +90,21 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "8452605632172209009"
+                "public": {
+                    "gid": "8452605632172209009",
+                    "size": "358121568",
+                    "download": "165782528"
+                }
             },
-            "maxsize": "358121568",
             "encryptedmanifests": {
                 "beta": {
-                    "encrypted_gid_2": "82EAA59A7E7F14498BE1E728C07BB1B6",
-                    "encrypted_size_2": "19B97BB9F589FF8BCC18D860195FE31B",
+                    "gid": "82EAA59A7E7F14498BE1E728C07BB1B6",
+                    "size": "19B97BB9F589FF8BCC18D860195FE31B",
                     "download": "07204FDBD23EC8A5C820A671DE1433DC"
                 },
                 "developer": {
-                    "encrypted_gid_2": "5337C422964E03C4DCB73C713E9899CB",
-                    "encrypted_size_2": "B07117E5DECFCB5A34326A49C53DCE5A",
+                    "gid": "5337C422964E03C4DCB73C713E9899CB",
+                    "size": "B07117E5DECFCB5A34326A49C53DCE5A",
                     "download": "E217F4C382792F728A2513E703E168D6"
                 }
             }
@@ -112,18 +115,21 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "7223350746219144710"
+                "public": {
+                    "gid": "7223350746219144710",
+                    "size": "1012321502",
+                    "download": "306062304"
+                }
             },
-            "maxsize": "1012321502",
             "encryptedmanifests": {
                 "beta": {
-                    "encrypted_gid_2": "8EAC765EF6773E66ED8188DC0D84B53A",
-                    "encrypted_size_2": "D19CF6F449984E4A61B9DAAEB9A58DDE",
+                    "gid": "8EAC765EF6773E66ED8188DC0D84B53A",
+                    "size": "D19CF6F449984E4A61B9DAAEB9A58DDE",
                     "download": "5AA4CF0693D9C22A9BED2B1EC867F14B"
                 },
                 "developer": {
-                    "encrypted_gid_2": "6F9FC61468324AD0D19A18D0D8ADC4E5",
-                    "encrypted_size_2": "DEC3037C2290E29B167036E4044025CD",
+                    "gid": "6F9FC61468324AD0D19A18D0D8ADC4E5",
+                    "size": "DEC3037C2290E29B167036E4044025CD",
                     "download": "428C2387E7B485915EA26ABFB5D1D013"
                 }
             }
@@ -134,26 +140,29 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "8140874170707721125"
+                "public": {
+                    "gid": "9147799276673642620",
+                    "size": "5230904770",
+                    "download": "1157719888"
+                }
             },
-            "maxsize": "5870613341",
             "encryptedmanifests": {
                 "beta": {
-                    "encrypted_gid_2": "58BEE71756851E56FA89FDBF00D9F65A",
-                    "encrypted_size_2": "E7C5669AA60E2A498D6A3F167090D7AE",
+                    "gid": "58BEE71756851E56FA89FDBF00D9F65A",
+                    "size": "E7C5669AA60E2A498D6A3F167090D7AE",
                     "download": "BB6F6CB51D79C1A2B03946A32221DDAE"
                 },
                 "developer": {
-                    "encrypted_gid_2": "B0EF71EBBC6C7E4365D63FE05993C5A5",
-                    "encrypted_size_2": "A6A85BC7ADF433B7F063D8CD3175E32C",
-                    "download": "03A485C6B5F66E0DC39E1E06EEAE9E43"
+                    "gid": "5A5F546E8712BF15F0CA714E7A223669",
+                    "size": "437E5F1B1511A539C294369005668D0B",
+                    "download": "24655BC1FC0B737A941FE5C2A861A91E"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "11024947",
-                "timeupdated": "1681781955"
+                "buildid": "11306778",
+                "timeupdated": "1684957475"
             },
             "beta": {
                 "buildid": "4634248",
@@ -161,14 +170,14 @@
                 "timeupdated": "1580695014"
             },
             "developer": {
-                "buildid": "11178897",
+                "buildid": "11348439",
                 "pwdrequired": "1",
-                "timeupdated": "1683537131"
+                "timeupdated": "1685438000"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 18714314,
-    "_sha": "b471e1b2db6c73d80c5626eb36e73e152cf9ec98",
-    "_size": 3954
+    "_change_number": 18978601,
+    "_sha": "9ec5d8ded521807f2e6c5c7c2863d3558e259802",
+    "_size": 3964
 }

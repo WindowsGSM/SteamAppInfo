@@ -76,19 +76,32 @@
         },
         "1377021": {
             "manifests": {
-                "public": "2239867071027110341"
-            },
-            "maxsize": "863551773"
+                "public": {
+                    "gid": "2239867071027110341",
+                    "size": "863551773",
+                    "download": "334458224"
+                },
+                "test": {
+                    "gid": "8876161024947319568",
+                    "size": "905310080",
+                    "download": "341755584"
+                }
+            }
         },
         "branches": {
             "public": {
                 "buildid": "10482418",
                 "timeupdated": "1675606630"
+            },
+            "test": {
+                "buildid": "11341574",
+                "description": "Testbranch",
+                "timeupdated": "1685359646"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "6d7dff6b3abbf7f08289151248b3bbbc710f66e1",
-    "_size": 1768
+    "_change_number": 18967984,
+    "_sha": "1951380a1aeb0b8e0bdb18dcab29e2a164fb7f63",
+    "_size": 2040
 }

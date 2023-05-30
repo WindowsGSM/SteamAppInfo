@@ -45,13 +45,16 @@
     "depots": {
         "977051": {
             "manifests": {
-                "public": "949745137295664055"
+                "public": {
+                    "gid": "949745137295664055",
+                    "size": "3140868914",
+                    "download": "1129939248"
+                }
             },
-            "maxsize": "3140868914",
             "encryptedmanifests": {
                 "test": {
-                    "encrypted_gid_2": "A9643A11734D705775407F146D8B13C9",
-                    "encrypted_size_2": "971D33E0786596AE8BF44937716478DC",
+                    "gid": "A9643A11734D705775407F146D8B13C9",
+                    "size": "971D33E0786596AE8BF44937716478DC",
                     "download": "4CD6396DCD0D150E530A12CBA452C8A2"
                 }
             },
@@ -62,9 +65,12 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "1948420736167760978"
-            },
-            "maxsize": "715548309"
+                "public": {
+                    "gid": "1948420736167760978",
+                    "size": "715548309",
+                    "download": "219431072"
+                }
+            }
         },
         "985052": {
             "config": {
@@ -72,9 +78,12 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "8964205574984978646"
-            },
-            "maxsize": "674247188"
+                "public": {
+                    "gid": "8964205574984978646",
+                    "size": "674247188",
+                    "download": "203514624"
+                }
+            }
         },
         "branches": {
             "public": {
@@ -89,7 +98,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18076822,
-    "_sha": "70673070ad1480afe5ad569942f4ce0a316c4ac7",
-    "_size": 1918
+    "_change_number": 18821630,
+    "_sha": "4d08f7b936cdab0ee20a3e6d5aac735f4e50e1c2",
+    "_size": 2048
 }

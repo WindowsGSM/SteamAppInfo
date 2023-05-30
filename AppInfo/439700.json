@@ -134,23 +134,26 @@
         },
         "439701": {
             "manifests": {
-                "public": "9203940625127963753"
+                "public": {
+                    "gid": "9203940625127963753",
+                    "size": "18266900566",
+                    "download": "16304177376"
+                }
             },
-            "maxsize": "18266900566",
             "encryptedmanifests": {
                 "invitational": {
-                    "encrypted_gid_2": "408197A78A5D1A469F570B855D854237",
-                    "encrypted_size_2": "5256947CEB174E608AE2D0C79C489395",
+                    "gid": "408197A78A5D1A469F570B855D854237",
+                    "size": "5256947CEB174E608AE2D0C79C489395",
                     "download": "D985868B4C1447A20908528BBF08E90D"
                 },
                 "livenext": {
-                    "encrypted_gid_2": "DFD2342FC5F282D483AD13772E9AF934",
-                    "encrypted_size_2": "578E3D4D65E8F6356D4AC3EC3843CE9E",
+                    "gid": "DFD2342FC5F282D483AD13772E9AF934",
+                    "size": "578E3D4D65E8F6356D4AC3EC3843CE9E",
                     "download": "070816A4BC34B1B06426732ECA051772"
                 },
                 "ps4testbuild": {
-                    "encrypted_gid_2": "B193C115C06A74B02BBE2B91E9A45C5C",
-                    "encrypted_size_2": "BCC409865F248B5DC4EE1A05524766C5",
+                    "gid": "B193C115C06A74B02BBE2B91E9A45C5C",
+                    "size": "BCC409865F248B5DC4EE1A05524766C5",
                     "download": "5FB1D681FBB5373AE7D5C873785FAC6B"
                 }
             }
@@ -179,7 +182,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18330752,
-    "_sha": "e4b2e305885d79f9936a65456e029e109fcc63d9",
-    "_size": 4278
+    "_change_number": 18903802,
+    "_sha": "27564aff64d85699cfbaa8db1c507720ce0bbd2d",
+    "_size": 4259
 }

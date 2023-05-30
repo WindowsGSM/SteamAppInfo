@@ -79,28 +79,31 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "8521234559282681105"
+                "public": {
+                    "gid": "8521234559282681105",
+                    "size": "14383335",
+                    "download": "2793936"
+                }
             },
-            "maxsize": "14383335",
             "encryptedmanifests": {
                 "closedtestingbranch": {
-                    "encrypted_gid_2": "5798F4384AC4BDAC92935AEB0F34FF1C",
-                    "encrypted_size_2": "1E1A0DC93DD827F8EEAF763AE0720C94",
+                    "gid": "5798F4384AC4BDAC92935AEB0F34FF1C",
+                    "size": "1E1A0DC93DD827F8EEAF763AE0720C94",
                     "download": "7961CFC540B6BF66AD6820ADAAD71208"
                 },
                 "experimental": {
-                    "encrypted_gid_2": "3EDD30468AD46043CAA5366AB231BF9D",
-                    "encrypted_size_2": "A28C71E5F24DA599110D1EA651D91684",
+                    "gid": "3EDD30468AD46043CAA5366AB231BF9D",
+                    "size": "A28C71E5F24DA599110D1EA651D91684",
                     "download": "CCCA49F19136ED56CA4BAC5879CAFE92"
                 },
                 "hellionrp": {
-                    "encrypted_gid_2": "307618230E1841492AB8A186BF28D69F",
-                    "encrypted_size_2": "DBDD423FA212B86BBC6DB1E1E7B25A2B",
+                    "gid": "307618230E1841492AB8A186BF28D69F",
+                    "size": "DBDD423FA212B86BBC6DB1E1E7B25A2B",
                     "download": "085D2349F7B2A2EE19F297BE8BD04AC0"
                 },
                 "specialevent": {
-                    "encrypted_gid_2": "1D4B00892258D608297A73C500734BCA",
-                    "encrypted_size_2": "54A2014DBAC2691CA8912AEB9296CA27",
+                    "gid": "1D4B00892258D608297A73C500734BCA",
+                    "size": "54A2014DBAC2691CA8912AEB9296CA27",
                     "download": "B27C2F71D2ECB06F8DBDFAFC0D9864E1"
                 }
             }
@@ -133,7 +136,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "17a92cdbfc493622c3abe4e270fc70d9285d2efd",
-    "_size": 3091
+    "_change_number": 18903802,
+    "_sha": "e45cd20ae2e42e3922f829972c7749fe9c0fd6d5",
+    "_size": 3044
 }

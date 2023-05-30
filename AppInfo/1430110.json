@@ -65,31 +65,34 @@
                 "language": ""
             },
             "manifests": {
-                "public": "5123607098701381070"
+                "public": {
+                    "gid": "8127630088385149629",
+                    "size": "3637278",
+                    "download": "1483664"
+                }
             },
-            "maxsize": "3631082",
             "encryptedmanifests": {
                 "ks_beta_testing": {
-                    "encrypted_gid_2": "BB52E60C38E5395C146930AF9C0C3B88",
-                    "encrypted_size_2": "B8FB4C32F1A12F6812895B5E4B871F2A",
+                    "gid": "BB52E60C38E5395C146930AF9C0C3B88",
+                    "size": "B8FB4C32F1A12F6812895B5E4B871F2A",
                     "download": "0307C645B4DA640ED1B1DACD3C38A428"
                 },
                 "ks_latest": {
-                    "encrypted_gid_2": "D3146D37026DAF0AB570B84F66929D8A",
-                    "encrypted_size_2": "8F1097294C2FC24E73F0E2CA75B7319F",
-                    "download": "2C6F64A6F441B2FA5A0227202765B1DA"
+                    "gid": "9D6F2979CBEE8BB530BFCC0CF32EC69E",
+                    "size": "642F08763124E1B7412A57D7E25DA27E",
+                    "download": "B2AE311FA13C0E491363741B6C28E5D9"
                 },
                 "public_beta": {
-                    "encrypted_gid_2": "A6B9477755F16F58E5D00E0D3905E2F8",
-                    "encrypted_size_2": "09EA789CFF6B7ACCB76FA874AE60F484",
+                    "gid": "A6B9477755F16F58E5D00E0D3905E2F8",
+                    "size": "09EA789CFF6B7ACCB76FA874AE60F484",
                     "download": "1C3ABAD4E3D9FA1777B47208E6C8F07E"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "11020579",
-                "timeupdated": "1681911903"
+                "buildid": "11315518",
+                "timeupdated": "1685025469"
             },
             "ks_beta_testing": {
                 "buildid": "7350635",
@@ -97,9 +100,9 @@
                 "timeupdated": "1631547945"
             },
             "ks_latest": {
-                "buildid": "11020579",
+                "buildid": "11315518",
                 "pwdrequired": "1",
-                "timeupdated": "1681736703"
+                "timeupdated": "1685014178"
             },
             "public_beta": {
                 "buildid": "6949475",
@@ -109,7 +112,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "9a9120a438be939ea90f68d96d651e631d8358c1",
-    "_size": 2603
+    "_change_number": 18927760,
+    "_sha": "d4b964cab70502f5c5e0453e8a2c67a37d571d1a",
+    "_size": 2580
 }

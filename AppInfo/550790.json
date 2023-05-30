@@ -78,25 +78,36 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "5702973121236201676",
-                "previous": "1647975703943925005",
-                "publictest": "1531373376475205055"
+                "public": {
+                    "gid": "5702973121236201676",
+                    "size": "2740655134",
+                    "download": "822568656"
+                },
+                "previous": {
+                    "gid": "1647975703943925005",
+                    "size": "2996461585",
+                    "download": "1001941744"
+                },
+                "publictest": {
+                    "gid": "1531373376475205055",
+                    "size": "2740486884",
+                    "download": "822558464"
+                }
             },
-            "maxsize": "2996461585",
             "encryptedmanifests": {
                 "internaldev": {
-                    "encrypted_gid_2": "6281B935CA74B3DA366977C3AED16F76",
-                    "encrypted_size_2": "7C9A964DF58D77893382049988D4B3A9",
+                    "gid": "6281B935CA74B3DA366977C3AED16F76",
+                    "size": "7C9A964DF58D77893382049988D4B3A9",
                     "download": "88CB05123B3B8F68587467AEC8C84CB4"
                 },
                 "official": {
-                    "encrypted_gid_2": "B3CEED2619EA69FD4BF4D2481C5B0578",
-                    "encrypted_size_2": "374DB7918343373DABF6E544BD9F6D03",
+                    "gid": "B3CEED2619EA69FD4BF4D2481C5B0578",
+                    "size": "374DB7918343373DABF6E544BD9F6D03",
                     "download": "587F845FAAE6D1D6074299B64978E106"
                 },
                 "officialstaging": {
-                    "encrypted_gid_2": "7B1331ED15E1C018CF430EB75FDA6126",
-                    "encrypted_size_2": "8F20C982392513112319EA5F4FA3CFA1",
+                    "gid": "7B1331ED15E1C018CF430EB75FDA6126",
+                    "size": "8F20C982392513112319EA5F4FA3CFA1",
                     "download": "5C6234E7069822BABF21CBA73EDD960A"
                 }
             }
@@ -132,7 +143,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "d799fb41ef8feb335e4f1a141f919650e1d6b890",
-    "_size": 2953
+    "_change_number": 18903802,
+    "_sha": "3f6db8fb12708dc4e0775468f63356ef7b05e01e",
+    "_size": 3089
 }

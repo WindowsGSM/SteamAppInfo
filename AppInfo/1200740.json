@@ -145,9 +145,12 @@
                 "language": ""
             },
             "manifests": {
-                "public": "5379945207771128081"
-            },
-            "maxsize": "501794334"
+                "public": {
+                    "gid": "5379945207771128081",
+                    "size": "501794334",
+                    "download": "165399600"
+                }
+            }
         },
         "1200742": {
             "config": {
@@ -164,7 +167,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 16968013,
-    "_sha": "9d85d147595d6ecd27e5bf7ee7d2befc3edf2aec",
-    "_size": 3264
+    "_change_number": 18736181,
+    "_sha": "3aed913e7d75a7c86a17e88572388d592bc05ea0",
+    "_size": 3315
 }

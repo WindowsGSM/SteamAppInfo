@@ -40,9 +40,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4562814873851751175",
-                    "size": "640753009",
-                    "download": "206644128"
+                    "gid": "2303407881568629235",
+                    "size": "641022907",
+                    "download": "206679152"
+                },
+                "1.10b": {
+                    "gid": "2303407881568629235",
+                    "size": "641022907",
+                    "download": "206679152"
                 },
                 "experimental": {
                     "gid": "6080672316563473603",
@@ -59,9 +64,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3701953266245529714",
-                    "size": "586526138",
-                    "download": "154351536"
+                    "gid": "582378037886370378",
+                    "size": "586815316",
+                    "download": "154400864"
+                },
+                "1.10b": {
+                    "gid": "582378037886370378",
+                    "size": "586815316",
+                    "download": "154400864"
                 },
                 "experimental": {
                     "gid": "7817412678970604152",
@@ -72,8 +82,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "11092413",
-                "timeupdated": "1682489190"
+                "buildid": "11252688",
+                "timeupdated": "1684321022"
+            },
+            "1.10b": {
+                "buildid": "11252688",
+                "description": "For modding compatibility",
+                "timeupdated": "1684321074"
             },
             "experimental": {
                 "buildid": "10701959",
@@ -83,7 +98,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18653924,
-    "_sha": "963a09ed0e45cdbe0afe2ec7766e7ab0ede85c8a",
-    "_size": 1833
+    "_change_number": 18828282,
+    "_sha": "04ac160e6deb34918ad7fd7f1a926f9d799db08c",
+    "_size": 2181
 }

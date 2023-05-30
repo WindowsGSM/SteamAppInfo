@@ -96,103 +96,106 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "3455514699552626751"
+                "public": {
+                    "gid": "3455514699552626751",
+                    "size": "3719742908",
+                    "download": "1577871504"
+                }
             },
-            "maxsize": "3719742908",
             "encryptedmanifests": {
                 "2coreqa": {
-                    "encrypted_gid_2": "269DAD73B8ECF319F5711505380859B7",
-                    "encrypted_size_2": "BB4A1975868F67BEBE7756203711C320",
-                    "download": "A9044A00F12D81A511AA73BB5482E224"
+                    "gid": "1F1FC44BA99A13F44307F254AC3A703F",
+                    "size": "B768B24D575B92B4B7A8F0ED1D474436",
+                    "download": "409FF0D78BD051EDAD116788CF114593"
                 },
                 "3coreqa": {
-                    "encrypted_gid_2": "0D2FD9207420C054BBAE5A3A85B4BAC4",
-                    "encrypted_size_2": "C8B93D46C50963DAC2E702D01E4567F5",
-                    "download": "20F25CAE998F86F0D34B9FBF2DE27391"
+                    "gid": "7845B13C786B53276984D01C93D3504D",
+                    "size": "ADDE0DE4346D38D9BE623F6050B60367",
+                    "download": "DCE17FA4A8753878E175B2AB85B4D913"
                 },
                 "4coreqa": {
-                    "encrypted_gid_2": "A5BC10B14F1942614F9BB78BCB61CF95",
-                    "encrypted_size_2": "9DE92C2CD4E28C7BF56DE669D9AC6F88",
-                    "download": "A27436AD3C1D87B72DB986945E1945A2"
+                    "gid": "D8E220134AB76DCF10F845C4D81714ED",
+                    "size": "D1019EE168E14E965D20F72B436489AF",
+                    "download": "A2A259F2B50B0B102976EA09E98E75BF"
                 },
                 "5coreqa": {
-                    "encrypted_gid_2": "433418B9E4998A3C4878FF67B8CF3449",
-                    "encrypted_size_2": "958572FE09F1138DD98DE19F98103BA4",
+                    "gid": "433418B9E4998A3C4878FF67B8CF3449",
+                    "size": "958572FE09F1138DD98DE19F98103BA4",
                     "download": "42D59046E8CA522776F1BC772B103B19"
                 },
                 "autobuildsystem": {
-                    "encrypted_gid_2": "C09737EB21DDA6FFC4AE5A70906747A0",
-                    "encrypted_size_2": "BAA1CCD81DA9A2053F6D3C23ABBF1799",
+                    "gid": "C09737EB21DDA6FFC4AE5A70906747A0",
+                    "size": "BAA1CCD81DA9A2053F6D3C23ABBF1799",
                     "download": "1E6BD7A823021FB8BA7C5E8A6D0C478F"
                 },
                 "devqa": {
-                    "encrypted_gid_2": "0914C8C9DEDA4F61975433FC97D7B654",
-                    "encrypted_size_2": "D77838C9F8FC6327CE08F6750C26D644",
+                    "gid": "0914C8C9DEDA4F61975433FC97D7B654",
+                    "size": "D77838C9F8FC6327CE08F6750C26D644",
                     "download": "8418E9A6FEBBFEF0AB9CC841D2403D8E"
                 },
                 "exiles-testfeature": {
-                    "encrypted_gid_2": "DE9A6EB8FBE15DC069A3BDEFDB956DC5",
-                    "encrypted_size_2": "98CFA83477A8E0779D37C2E89021BDD4",
+                    "gid": "DE9A6EB8FBE15DC069A3BDEFDB956DC5",
+                    "size": "98CFA83477A8E0779D37C2E89021BDD4",
                     "download": "5C66C1442C9C366B7E8FBEA60CDD0B76"
                 },
                 "liveteam": {
-                    "encrypted_gid_2": "EAE23BA6C814EDBB008A393D03E28965",
-                    "encrypted_size_2": "4893C2A8CEEA6959FFFB33C648C89FCC",
+                    "gid": "EAE23BA6C814EDBB008A393D03E28965",
+                    "size": "4893C2A8CEEA6959FFFB33C648C89FCC",
                     "download": "6F1C5ED243A6E80559C1928DD642FD81"
                 },
                 "marketing": {
-                    "encrypted_gid_2": "67870C942DEC45B00F3CB6359BB079C2",
-                    "encrypted_size_2": "9BAD4D7ADF4735E84EF1F90A1ED473D1",
+                    "gid": "67870C942DEC45B00F3CB6359BB079C2",
+                    "size": "9BAD4D7ADF4735E84EF1F90A1ED473D1",
                     "download": "A930129165B98FABC16B0149F58AD6CE"
                 },
                 "marketing2": {
-                    "encrypted_gid_2": "A1D935EC62CAE52770C934CDA03D3C47",
-                    "encrypted_size_2": "833E54B55FD49D4FE197B5D5748CBF13",
+                    "gid": "A1D935EC62CAE52770C934CDA03D3C47",
+                    "size": "833E54B55FD49D4FE197B5D5748CBF13",
                     "download": "B3AA6B4517A3198C8F6F5252BABE5521"
                 },
                 "nightly-experimental": {
-                    "encrypted_gid_2": "D707035070C105B06238812DAE737C4F",
-                    "encrypted_size_2": "DB9AF0E8A04C910241C8FB0DC543DB32",
-                    "download": "63F7BAB21DA4E9C81F76AD19D9645B8E"
+                    "gid": "CEF2A795890E2904486DAEF9E199AA37",
+                    "size": "809AAEAA15C6275173F9ED55E01B060D",
+                    "download": "349E9376D8DA5A3285319B1AA00333A5"
                 },
                 "nightly-live": {
-                    "encrypted_gid_2": "DB8FEE83D1300EAD326B82950A756682",
-                    "encrypted_size_2": "AFBE249A7C1F03923AB53BD538C4F619",
+                    "gid": "DB8FEE83D1300EAD326B82950A756682",
+                    "size": "AFBE249A7C1F03923AB53BD538C4F619",
                     "download": "E3A1A596451B904685878CD73960F417"
                 },
                 "nightly-stable": {
-                    "encrypted_gid_2": "0C464021CC34F4E8DD5FE1764667AD9D",
-                    "encrypted_size_2": "2D998E2A7DC1EE1D43FDD954685CAFD5",
-                    "download": "62BE8304ACC0DED0DC8D94B00D1CA44B"
+                    "gid": "243AD765D905C51AA0CE3D5899B40251",
+                    "size": "04475CF0CA929B1F95EAAD9063BFAED9",
+                    "download": "EF5B0EE87BE92236D03F07E819783171"
                 },
                 "nightly-test": {
-                    "encrypted_gid_2": "CE5032A58F86B8E02A85E0287BF96EC2",
-                    "encrypted_size_2": "F99B584BF121277CEC5FFB9EC047E057",
-                    "download": "BBF987ED1CD4403D1A0D01CAE3A8B383"
+                    "gid": "16626A96AD852339AA4EE0EC7F4AADBE",
+                    "size": "1AFBFA82D95CD387D0F3D08C55943938",
+                    "download": "5F480ABAB9585D0F30953BCD52F07691"
                 },
                 "nightly-trunk": {
-                    "encrypted_gid_2": "A77102929B5F4AAD3810E5A2485C16FF",
-                    "encrypted_size_2": "FADAE68E03DF9FDE325B393919169898",
-                    "download": "385D7999DBCB76F18DE7726DA0A112BF"
+                    "gid": "EB5AFDD54C89BC8E093AA84D60F9BFBB",
+                    "size": "C22E0E69F603BE71F47562DE78AC33F5",
+                    "download": "CBF36EEBE4E76095E6D402D2F000EC78"
                 },
                 "preview": {
-                    "encrypted_gid_2": "101FFADCE460F61EBA4846C1C51A1FC5",
-                    "encrypted_size_2": "332240D842E4978621911A4B83E58807",
+                    "gid": "101FFADCE460F61EBA4846C1C51A1FC5",
+                    "size": "332240D842E4978621911A4B83E58807",
                     "download": "341B45D06FE5DF9CAEE4D37FF0FCE9D2"
                 },
                 "rc-retail": {
-                    "encrypted_gid_2": "36526D3D89D9728FB16116C972785D61",
-                    "encrypted_size_2": "42078A5717218AC0B3E877B8659BE998",
+                    "gid": "36526D3D89D9728FB16116C972785D61",
+                    "size": "42078A5717218AC0B3E877B8659BE998",
                     "download": "559A5097EC4FCE75DDDEE070D5E69045"
                 },
                 "retail_backup1": {
-                    "encrypted_gid_2": "E65FBBDD82DD65864CC8A0A51842B0FB",
-                    "encrypted_size_2": "AAC8640ADDE62F16EAA50D95E11EE552",
+                    "gid": "E65FBBDD82DD65864CC8A0A51842B0FB",
+                    "size": "AAC8640ADDE62F16EAA50D95E11EE552",
                     "download": "47C9D603262FF5CBBE3CA2CB7D954D3E"
                 },
                 "retail_backup2": {
-                    "encrypted_gid_2": "A3F2299E80934EFB7D45A5F3CE665274",
-                    "encrypted_size_2": "6436F28A96426926B2665A6F5B1B323D",
+                    "gid": "A3F2299E80934EFB7D45A5F3CE665274",
+                    "size": "6436F28A96426926B2665A6F5B1B323D",
                     "download": "DBA3BAB61A455022E6ABA5023EE6FB0D"
                 }
             }
@@ -203,102 +206,106 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "3199714172864163068"
+                "public": {
+                    "gid": "3199714172864163068",
+                    "size": "0",
+                    "download": "0"
+                }
             },
             "encryptedmanifests": {
                 "2coreqa": {
-                    "encrypted_gid_2": "A3026952AD40BCDA0191C78714EC4DA5",
-                    "encrypted_size_2": "E40DA340EEDCBA0C234109DBDAB34398",
+                    "gid": "A3026952AD40BCDA0191C78714EC4DA5",
+                    "size": "E40DA340EEDCBA0C234109DBDAB34398",
                     "download": "E40DA340EEDCBA0C234109DBDAB34398"
                 },
                 "3coreqa": {
-                    "encrypted_gid_2": "4156DAA96AC0A238E56724A1B90E6A4F",
-                    "encrypted_size_2": "3D9D16BD6D57EEBAE306588744F5B314",
+                    "gid": "4156DAA96AC0A238E56724A1B90E6A4F",
+                    "size": "3D9D16BD6D57EEBAE306588744F5B314",
                     "download": "3D9D16BD6D57EEBAE306588744F5B314"
                 },
                 "4coreqa": {
-                    "encrypted_gid_2": "7C5F46759F952FFA66BF2B5AA164A01D",
-                    "encrypted_size_2": "F752C0FBBC73E1F4CEAA4259F340EF75",
+                    "gid": "7C5F46759F952FFA66BF2B5AA164A01D",
+                    "size": "F752C0FBBC73E1F4CEAA4259F340EF75",
                     "download": "F752C0FBBC73E1F4CEAA4259F340EF75"
                 },
                 "5coreqa": {
-                    "encrypted_gid_2": "4BE8B7D0E7A8B0749E6C122332477703",
-                    "encrypted_size_2": "B828B27F9A0D483C68CA81CA05E2AF0C",
+                    "gid": "4BE8B7D0E7A8B0749E6C122332477703",
+                    "size": "B828B27F9A0D483C68CA81CA05E2AF0C",
                     "download": "B828B27F9A0D483C68CA81CA05E2AF0C"
                 },
                 "autobuildsystem": {
-                    "encrypted_gid_2": "05BB0C51BB455CA8D130D0FB67036EF4",
-                    "encrypted_size_2": "0294234D0F2E3C007733564235E97E6B",
+                    "gid": "05BB0C51BB455CA8D130D0FB67036EF4",
+                    "size": "0294234D0F2E3C007733564235E97E6B",
                     "download": "0294234D0F2E3C007733564235E97E6B"
                 },
                 "devqa": {
-                    "encrypted_gid_2": "02B5C82712EEA9D3C4831EC702172EF7",
-                    "encrypted_size_2": "E33EFA21CC4619A5AD2E4474294180F0",
+                    "gid": "02B5C82712EEA9D3C4831EC702172EF7",
+                    "size": "E33EFA21CC4619A5AD2E4474294180F0",
                     "download": "E33EFA21CC4619A5AD2E4474294180F0"
                 },
                 "exiles-testfeature": {
-                    "encrypted_gid_2": "C387967CC1E83CE8987FF6508885D351",
-                    "encrypted_size_2": "17006D5F5C32995B7C169BB335EFE09B",
+                    "gid": "C387967CC1E83CE8987FF6508885D351",
+                    "size": "17006D5F5C32995B7C169BB335EFE09B",
                     "download": "17006D5F5C32995B7C169BB335EFE09B"
                 },
                 "liveteam": {
-                    "encrypted_gid_2": "F0E90A29C6DF7C9FB92DCD282B6F1A27",
-                    "encrypted_size_2": "BCF2E974384EEA483B4D4174C8751C96",
+                    "gid": "F0E90A29C6DF7C9FB92DCD282B6F1A27",
+                    "size": "BCF2E974384EEA483B4D4174C8751C96",
                     "download": "BCF2E974384EEA483B4D4174C8751C96"
                 },
                 "marketing": {
-                    "encrypted_gid_2": "CCAB47F5FDA2E88CC4C931CA6B895637",
-                    "encrypted_size_2": "2406A121245AE9CDAF209A73CCA5A1D9",
+                    "gid": "CCAB47F5FDA2E88CC4C931CA6B895637",
+                    "size": "2406A121245AE9CDAF209A73CCA5A1D9",
                     "download": "2406A121245AE9CDAF209A73CCA5A1D9"
                 },
                 "marketing2": {
-                    "encrypted_gid_2": "FF2E7273B7E09AB2143442E28D50F2A5",
-                    "encrypted_size_2": "8E89E30192688283743F937910B9FD76",
+                    "gid": "FF2E7273B7E09AB2143442E28D50F2A5",
+                    "size": "8E89E30192688283743F937910B9FD76",
                     "download": "8E89E30192688283743F937910B9FD76"
                 },
                 "nightly-experimental": {
-                    "encrypted_gid_2": "3DF3697231DDDE1E0DA579E730075CD6",
-                    "encrypted_size_2": "3EA361ED5E4DC100718C5952BFB482E0",
+                    "gid": "3DF3697231DDDE1E0DA579E730075CD6",
+                    "size": "3EA361ED5E4DC100718C5952BFB482E0",
                     "download": "3EA361ED5E4DC100718C5952BFB482E0"
                 },
                 "nightly-live": {
-                    "encrypted_gid_2": "EBF4E1CBE0B15421BB2729F3F19F6C18",
-                    "encrypted_size_2": "06714664A5D7102D3874866646E3972F",
+                    "gid": "EBF4E1CBE0B15421BB2729F3F19F6C18",
+                    "size": "06714664A5D7102D3874866646E3972F",
                     "download": "06714664A5D7102D3874866646E3972F"
                 },
                 "nightly-stable": {
-                    "encrypted_gid_2": "D42FEC789C597E2C80E33F160A6AB419",
-                    "encrypted_size_2": "FF1C26939FC1CF35BCCEE9184C7C0FE3",
+                    "gid": "D42FEC789C597E2C80E33F160A6AB419",
+                    "size": "FF1C26939FC1CF35BCCEE9184C7C0FE3",
                     "download": "FF1C26939FC1CF35BCCEE9184C7C0FE3"
                 },
                 "nightly-test": {
-                    "encrypted_gid_2": "9231D9BDA9454858608C92F8B0AC5CD7",
-                    "encrypted_size_2": "A46E1A52AC503667980A419BBB5C5BF6",
+                    "gid": "9231D9BDA9454858608C92F8B0AC5CD7",
+                    "size": "A46E1A52AC503667980A419BBB5C5BF6",
                     "download": "A46E1A52AC503667980A419BBB5C5BF6"
                 },
                 "nightly-trunk": {
-                    "encrypted_gid_2": "5A036B2E1A2D574321F69277D96B9D37",
-                    "encrypted_size_2": "FB0493527D2CF2A33A88036892E37EE6",
+                    "gid": "5A036B2E1A2D574321F69277D96B9D37",
+                    "size": "FB0493527D2CF2A33A88036892E37EE6",
                     "download": "FB0493527D2CF2A33A88036892E37EE6"
                 },
                 "preview": {
-                    "encrypted_gid_2": "BF8143232458EA1FB8F87F590D1DAB62",
-                    "encrypted_size_2": "FF25002A720518CF1BFAA2D3D31ABD6C",
+                    "gid": "BF8143232458EA1FB8F87F590D1DAB62",
+                    "size": "FF25002A720518CF1BFAA2D3D31ABD6C",
                     "download": "FF25002A720518CF1BFAA2D3D31ABD6C"
                 },
                 "rc-retail": {
-                    "encrypted_gid_2": "E5F6D6E9AC6132E469E74929AA9306F4",
-                    "encrypted_size_2": "3A39C9B2E484D51A280AFD3EFBBCB75F",
+                    "gid": "E5F6D6E9AC6132E469E74929AA9306F4",
+                    "size": "3A39C9B2E484D51A280AFD3EFBBCB75F",
                     "download": "3A39C9B2E484D51A280AFD3EFBBCB75F"
                 },
                 "retail_backup1": {
-                    "encrypted_gid_2": "67D3E29756345E200B39BF68C85A89AB",
-                    "encrypted_size_2": "90F07B566C77E43B2BAD528068A7B95B",
+                    "gid": "67D3E29756345E200B39BF68C85A89AB",
+                    "size": "90F07B566C77E43B2BAD528068A7B95B",
                     "download": "90F07B566C77E43B2BAD528068A7B95B"
                 },
                 "retail_backup2": {
-                    "encrypted_gid_2": "13AE0C8F6410AB9CF98685C0D61992C8",
-                    "encrypted_size_2": "A700FA11837BA697A7E4B139A988C16E",
+                    "gid": "13AE0C8F6410AB9CF98685C0D61992C8",
+                    "size": "A700FA11837BA697A7E4B139A988C16E",
                     "download": "A700FA11837BA697A7E4B139A988C16E"
                 }
             }
@@ -309,19 +316,19 @@
                 "timeupdated": "1680176702"
             },
             "2coreqa": {
-                "buildid": "11176548",
+                "buildid": "11294213",
                 "pwdrequired": "1",
-                "timeupdated": "1683532305"
+                "timeupdated": "1684820254"
             },
             "3coreqa": {
-                "buildid": "11151691",
+                "buildid": "11304102",
                 "pwdrequired": "1",
-                "timeupdated": "1683179426"
+                "timeupdated": "1684912606"
             },
             "4coreqa": {
-                "buildid": "11097390",
+                "buildid": "11314558",
                 "pwdrequired": "1",
-                "timeupdated": "1682529420"
+                "timeupdated": "1685014102"
             },
             "5coreqa": {
                 "buildid": "10910630",
@@ -359,9 +366,9 @@
                 "timeupdated": "1617798539"
             },
             "nightly-experimental": {
-                "buildid": "11185776",
+                "buildid": "11345321",
                 "pwdrequired": "1",
-                "timeupdated": "1683604534"
+                "timeupdated": "1685400830"
             },
             "nightly-live": {
                 "buildid": "11072647",
@@ -369,19 +376,19 @@
                 "timeupdated": "1682293877"
             },
             "nightly-stable": {
-                "buildid": "11068427",
+                "buildid": "11314558",
                 "pwdrequired": "1",
-                "timeupdated": "1682201876"
+                "timeupdated": "1685007142"
             },
             "nightly-test": {
-                "buildid": "11186082",
+                "buildid": "11260982",
                 "pwdrequired": "1",
-                "timeupdated": "1683607875"
+                "timeupdated": "1684396773"
             },
             "nightly-trunk": {
-                "buildid": "11176460",
+                "buildid": "11345354",
                 "pwdrequired": "1",
-                "timeupdated": "1683500280"
+                "timeupdated": "1685401345"
             },
             "preview": {
                 "buildid": "5691789",
@@ -406,7 +413,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18725185,
-    "_sha": "95b4d27afe7f2b0c03310454d646c5aba89914c8",
-    "_size": 11867
+    "_change_number": 18974125,
+    "_sha": "9363395c0ec4b50054eb91e55fa279ada999e891",
+    "_size": 11068
 }

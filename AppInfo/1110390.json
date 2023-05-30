@@ -92,19 +92,42 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "6957796149474023049",
-                "32bit-windows": "3816281254016971040",
-                "preview": "6957796149474023049",
-                "unity-2017.4": "7568905985975118755",
-                "unity-2018": "9065993161126347581",
-                "unity-2019": "3283281044664133949"
+                "public": {
+                    "gid": "4632380572145758348",
+                    "size": "1148641261",
+                    "download": "267452080"
+                },
+                "32bit-windows": {
+                    "gid": "3816281254016971040",
+                    "size": "1240775021",
+                    "download": "262600080"
+                },
+                "preview": {
+                    "gid": "4632380572145758348",
+                    "size": "1148641261",
+                    "download": "267452080"
+                },
+                "unity-2017.4": {
+                    "gid": "7568905985975118755",
+                    "size": "921644938",
+                    "download": "77010208"
+                },
+                "unity-2018": {
+                    "gid": "9065993161126347581",
+                    "size": "1128757574",
+                    "download": "228542592"
+                },
+                "unity-2019": {
+                    "gid": "3283281044664133949",
+                    "size": "1199884611",
+                    "download": "227130032"
+                }
             },
-            "maxsize": "1259331732",
             "encryptedmanifests": {
                 "private": {
-                    "encrypted_gid_2": "D2AC1F150B9F7BAD0407E5C755770581",
-                    "encrypted_size_2": "7ECCC4802F24FBDCB29A19A2B61DAFDF",
-                    "download": "2846F27D5981AA80D1F1DB980DEB8629"
+                    "gid": "2764D0C6EAE71E4E9585F2071C0EAFEF",
+                    "size": "710640A8A35B1E0E12357247FE6FE347",
+                    "download": "0C779E1E20861F18523F486C20ECF0C2"
                 }
             }
         },
@@ -114,62 +137,131 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "8174651344747842243",
-                "32bit-windows": "6867738633377401980",
-                "preview": "8174651344747842243",
-                "unity-2017.4": "676864980440368611",
-                "unity-2018": "4299994285195357942",
-                "unity-2019": "172481565019596423"
+                "public": {
+                    "gid": "164007704609123295",
+                    "size": "1131813426",
+                    "download": "259874048"
+                },
+                "32bit-windows": {
+                    "gid": "6867738633377401980",
+                    "size": "1224024719",
+                    "download": "254411424"
+                },
+                "preview": {
+                    "gid": "164007704609123295",
+                    "size": "1131813426",
+                    "download": "259874048"
+                },
+                "unity-2017.4": {
+                    "gid": "676864980440368611",
+                    "size": "940395942",
+                    "download": "82860064"
+                },
+                "unity-2018": {
+                    "gid": "4299994285195357942",
+                    "size": "1203867849",
+                    "download": "271689616"
+                },
+                "unity-2019": {
+                    "gid": "172481565019596423",
+                    "size": "1260475861",
+                    "download": "252495456"
+                }
             },
-            "maxsize": "1260475861",
             "encryptedmanifests": {
                 "private": {
-                    "encrypted_gid_2": "CB313FE9AB540D8DA2ADA0E178E9FC8B",
-                    "encrypted_size_2": "F9843A4D6BC664458362C48F8CF95AF6",
-                    "download": "C6735F5075E60EF5312FF46D529A743D"
+                    "gid": "83A016688BF76A0A9324398E262EB400",
+                    "size": "A7EAE1571CA412D8EBE1F6A21AC0134D",
+                    "download": "DAC0D1DEDDE23E81047A59F6E79A41E9"
                 }
             }
         },
         "1110393": {
             "manifests": {
-                "public": "7040056569490235259",
-                "32bit-windows": "1848949077272997751",
-                "preview": "7040056569490235259",
-                "unity-2017.4": "5514188072839560067",
-                "unity-2018": "8575346071724065576",
-                "unity-2019": "2421966899929852642"
+                "public": {
+                    "gid": "4277672212271585341",
+                    "size": "1586975187",
+                    "download": "1058128336"
+                },
+                "32bit-windows": {
+                    "gid": "1848949077272997751",
+                    "size": "408238004",
+                    "download": "253609440"
+                },
+                "preview": {
+                    "gid": "4277672212271585341",
+                    "size": "1586975187",
+                    "download": "1058128336"
+                },
+                "unity-2017.4": {
+                    "gid": "5514188072839560067",
+                    "size": "836383564",
+                    "download": "631596576"
+                },
+                "unity-2018": {
+                    "gid": "8575346071724065576",
+                    "size": "490125311",
+                    "download": "289628944"
+                },
+                "unity-2019": {
+                    "gid": "2421966899929852642",
+                    "size": "330861616",
+                    "download": "175904880"
+                }
             },
-            "maxsize": "1579959567",
             "encryptedmanifests": {
                 "private": {
-                    "encrypted_gid_2": "CCA6C717FE78FD9CE194745016BAFF38",
-                    "encrypted_size_2": "0D4388BF647DC589218F2F64250796AA",
-                    "download": "EF655D0A1D4C2516328E4DD4132F4AB5"
+                    "gid": "44E3027CBD44C2ECA0B2EDA6F15C47C5",
+                    "size": "C09986916776A85C3C7514C6AB9746A6",
+                    "download": "6D2837E5913FA73404522711B875364A"
                 }
             }
         },
         "1110394": {
             "manifests": {
-                "public": "2719802844687799973",
-                "32bit-windows": "731620780830792646",
-                "preview": "2719802844687799973",
-                "unity-2017.4": "5328516740166862532",
-                "unity-2018": "4435653943471569706",
-                "unity-2019": "5002266391304071192"
+                "public": {
+                    "gid": "6456413973384640806",
+                    "size": "4608388",
+                    "download": "185632"
+                },
+                "32bit-windows": {
+                    "gid": "731620780830792646",
+                    "size": "3637984",
+                    "download": "150608"
+                },
+                "preview": {
+                    "gid": "6456413973384640806",
+                    "size": "4608388",
+                    "download": "185632"
+                },
+                "unity-2017.4": {
+                    "gid": "5328516740166862532",
+                    "size": "4591568",
+                    "download": "143872"
+                },
+                "unity-2018": {
+                    "gid": "4435653943471569706",
+                    "size": "3690217",
+                    "download": "140832"
+                },
+                "unity-2019": {
+                    "gid": "5002266391304071192",
+                    "size": "3622964",
+                    "download": "148928"
+                }
             },
-            "maxsize": "4591568",
             "encryptedmanifests": {
                 "private": {
-                    "encrypted_gid_2": "EAD6313389BDECE3E905F863DF8F7665",
-                    "encrypted_size_2": "D696089BF1FC469961ECDEBEFE5BB5FC",
+                    "gid": "EAD6313389BDECE3E905F863DF8F7665",
+                    "size": "D696089BF1FC469961ECDEBEFE5BB5FC",
                     "download": "9F03A25B3A60B6D8FA29DC1F6C0F8D72"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "11158698",
-                "timeupdated": "1683235876"
+                "buildid": "11334607",
+                "timeupdated": "1685222357"
             },
             "32bit-windows": {
                 "buildid": "9342957",
@@ -177,14 +269,14 @@
                 "timeupdated": "1660856942"
             },
             "preview": {
-                "buildid": "11158698",
+                "buildid": "11334607",
                 "description": "Public test branch",
-                "timeupdated": "1683235162"
+                "timeupdated": "1685220699"
             },
             "private": {
-                "buildid": "11185496",
+                "buildid": "11247572",
                 "pwdrequired": "1",
-                "timeupdated": "1683601715"
+                "timeupdated": "1684269797"
             },
             "unity-2017.4": {
                 "buildid": "4297942",
@@ -204,7 +296,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18724503,
-    "_sha": "5013af75289ef38b8d54778fbd8fd4d0219d6a46",
-    "_size": 5097
+    "_change_number": 18956295,
+    "_sha": "1141687d6fa1b8722de334876e8a278df11c502d",
+    "_size": 6724
 }

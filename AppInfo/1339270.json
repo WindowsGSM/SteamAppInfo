@@ -38,9 +38,12 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "4035188620878829624"
-            },
-            "maxsize": "174358779"
+                "public": {
+                    "gid": "4035188620878829624",
+                    "size": "174358779",
+                    "download": "61431632"
+                }
+            }
         },
         "workshopdepot": "1339270",
         "branches": {
@@ -51,7 +54,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 14723591,
-    "_sha": "6174d23818c87dabb8c26ec59ae62a48a83049a3",
-    "_size": 1133
+    "_change_number": 18736181,
+    "_sha": "5c877fa2e29fd13d00b25867158347062800301c",
+    "_size": 1183
 }

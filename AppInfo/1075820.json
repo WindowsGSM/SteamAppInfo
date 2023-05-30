@@ -15,23 +15,26 @@
     "depots": {
         "1075820": {
             "manifests": {
-                "public": "881447729623456747"
+                "public": {
+                    "gid": "881447729623456747",
+                    "size": "2296212493",
+                    "download": "760030208"
+                }
             },
-            "maxsize": "2296212493",
             "encryptedmanifests": {
                 "beta": {
-                    "encrypted_gid_2": "5013E9C8A813001179A6CEE2CA7E8FCF",
-                    "encrypted_size_2": "D4907A0957C71AC4CFE649AD6C6302EC",
+                    "gid": "5013E9C8A813001179A6CEE2CA7E8FCF",
+                    "size": "D4907A0957C71AC4CFE649AD6C6302EC",
                     "download": "72614574469071CCD5CBC5044646CBEB"
                 },
                 "gamm": {
-                    "encrypted_gid_2": "1A6CE6DC7E700A4ADD5734C0447D1AAF",
-                    "encrypted_size_2": "3B9E3FF1B94CB21BA9C31D2D182D4158",
+                    "gid": "1A6CE6DC7E700A4ADD5734C0447D1AAF",
+                    "size": "3B9E3FF1B94CB21BA9C31D2D182D4158",
                     "download": "B41E9D6B3C398BE23C4FFE146C7A61A5"
                 },
                 "terndev": {
-                    "encrypted_gid_2": "0430F3697C016198D03CF9083D4F882F",
-                    "encrypted_size_2": "C0D3CEAD130D29124F2E5F5A321CA1AE",
+                    "gid": "0430F3697C016198D03CF9083D4F882F",
+                    "size": "C0D3CEAD130D29124F2E5F5A321CA1AE",
                     "download": "4CEF6E4EC447C2C60E4B0EB74469CFF0"
                 }
             },
@@ -60,7 +63,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18076822,
-    "_sha": "7b19abc27330f1a187165250586556b262bb9628",
-    "_size": 1459
+    "_change_number": 18821630,
+    "_sha": "ef6370ffb2537fa52e94960fd8625a195a58b70a",
+    "_size": 1438
 }

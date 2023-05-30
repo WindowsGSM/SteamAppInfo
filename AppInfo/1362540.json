@@ -71,24 +71,27 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "5055528026584321351"
+                "public": {
+                    "gid": "5055528026584321351",
+                    "size": "8541883439",
+                    "download": "3363550624"
+                }
             },
-            "maxsize": "8541883439",
             "encryptedmanifests": {
                 "commanderthing": {
-                    "encrypted_gid_2": "42D3CA1147A7847DA740D6E4C1E7B0F5",
-                    "encrypted_size_2": "427DB44472AE327BAD9F28204029DB63",
+                    "gid": "42D3CA1147A7847DA740D6E4C1E7B0F5",
+                    "size": "427DB44472AE327BAD9F28204029DB63",
                     "download": "13EFFF1705EF9D6715860E352CF50A8E"
                 },
                 "demo": {
-                    "encrypted_gid_2": "E3929FD256CA3F32AB925B8642643A65",
-                    "encrypted_size_2": "B4819664A3A77519BB56F2BAB932C237",
+                    "gid": "E3929FD256CA3F32AB925B8642643A65",
+                    "size": "B4819664A3A77519BB56F2BAB932C237",
                     "download": "3DED0025520B8D6445EB77CAE12F9CE0"
                 },
                 "demobeta": {
-                    "encrypted_gid_2": "FB15727C451BF5C344D242D86EA033B7",
-                    "encrypted_size_2": "EF084B205F7F6B3733FDC27C9BB38FA6",
-                    "download": "6C8992F83474EAA8B2411E660851DAA5"
+                    "gid": "F96699D6A195AA01CE670871118C157F",
+                    "size": "D6033A9D0345132F60E088120A5AB1A5",
+                    "download": "1E5AB1661DB0D226E434437B5F30DB12"
                 }
             }
         },
@@ -108,14 +111,14 @@
                 "timeupdated": "1646151965"
             },
             "demobeta": {
-                "buildid": "11018025",
+                "buildid": "11326664",
                 "pwdrequired": "1",
-                "timeupdated": "1681713478"
+                "timeupdated": "1685108632"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "e53c3ad71dde0c55acacb4d3ef6b1e11d6ef620e",
-    "_size": 2688
+    "_change_number": 18942784,
+    "_sha": "743c1df08d1eb35bb79896d284ebf34658f086b8",
+    "_size": 2668
 }

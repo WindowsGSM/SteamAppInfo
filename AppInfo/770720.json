@@ -223,6 +223,34 @@
                     "english": "burt_playtest"
                 },
                 "description": "burt_playtest"
+            },
+            "20": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings yellow +online_websvc_skip_tls_cert_validation 1",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "masterxp"
+                },
+                "description_loc": {
+                    "english": "masterxp tournament"
+                },
+                "description": "masterxp tournament"
+            },
+            "21": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings stage",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "1.13_functionality_testing"
+                },
+                "description_loc": {
+                    "english": "1.13_functionality_testing"
+                },
+                "description": "1.13_functionality_testing"
             }
         }
     },
@@ -266,73 +294,86 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "8565072791054816693"
+                "public": {
+                    "gid": "8565072791054816693",
+                    "size": "570709220",
+                    "download": "394767280"
+                }
             },
-            "maxsize": "570709220",
             "encryptedmanifests": {
+                "1.13_functionality_testing": {
+                    "gid": "917342B31C1D8AE5AF1F992E6F6DC501",
+                    "size": "7C7B84740F6E4E7891E1175679B8578F",
+                    "download": "93AF572EFE89534F51F99734E7DC8C27"
+                },
                 "burt_playtest": {
-                    "encrypted_gid_2": "9370CC545DC4229900262E1DCEE17EFC",
-                    "encrypted_size_2": "A667C9E788533EA3E3F8D72AC8586DDE",
+                    "gid": "9370CC545DC4229900262E1DCEE17EFC",
+                    "size": "A667C9E788533EA3E3F8D72AC8586DDE",
                     "download": "8718AB6F6749A8FF94B35F1404BA8875"
                 },
                 "burt_playtest_internal": {
-                    "encrypted_gid_2": "23D23D13AF7FD3CE7DD9DBED910F3438",
-                    "encrypted_size_2": "C921BB890C8E1967D6C6CE0FEB1164EF",
+                    "gid": "23D23D13AF7FD3CE7DD9DBED910F3438",
+                    "size": "C921BB890C8E1967D6C6CE0FEB1164EF",
                     "download": "1EC433764327BA0E5ABB5476FCA06EDD"
                 },
                 "current": {
-                    "encrypted_gid_2": "AE68FEAA6D366F00C6747D86F479CDDC",
-                    "encrypted_size_2": "9807EF53D86FD942F63A120B585369FC",
-                    "download": "5186C64C8C18FB21A9AFD7E12123BB47"
+                    "gid": "EF485407FF3571F6F62888C2B0E1F2F9",
+                    "size": "586CB3AA2A47C77C402F2F66123B1A6A",
+                    "download": "13FA5D671882BD4AEDF12B816420B1C1"
                 },
                 "gamesweek": {
-                    "encrypted_gid_2": "E846BA9A236D248C6D8D56D5517C71D7",
-                    "encrypted_size_2": "928DE41E773BBE791A78CDFF3DF427C0",
+                    "gid": "E846BA9A236D248C6D8D56D5517C71D7",
+                    "size": "928DE41E773BBE791A78CDFF3DF427C0",
                     "download": "152314F36AD828C07949A468E68129F3"
                 },
                 "latest": {
-                    "encrypted_gid_2": "813E834A1469023A32BF433674FC4C98",
-                    "encrypted_size_2": "9AB5F08788B755FCE9AE9F369799E2F8",
-                    "download": "4F8BE05FE4DCB23B0F227B1F8C6BFD75"
+                    "gid": "BD73405E14DCC81D29539D816CE6C572",
+                    "size": "8988981C8155EECE956F9C99E8F140EE",
+                    "download": "DAA8258876077BEB6222EF7FF6C6E15C"
                 },
                 "latest_lwp": {
-                    "encrypted_gid_2": "0A1CC932949EC3642211C5EDDBB16A26",
-                    "encrypted_size_2": "A7516FCD4357FBCF1FBDA2C2D6D1CE30",
+                    "gid": "0A1CC932949EC3642211C5EDDBB16A26",
+                    "size": "A7516FCD4357FBCF1FBDA2C2D6D1CE30",
                     "download": "D1A6C64C63444D3CAA2EE17C727E1B9E"
                 },
                 "lightweight_profiler": {
-                    "encrypted_gid_2": "D65F218A0FC49E6CFDF0ABECE54CA1C8",
-                    "encrypted_size_2": "DF811D87160630C9095AEDA2C5FA376F",
+                    "gid": "D65F218A0FC49E6CFDF0ABECE54CA1C8",
+                    "size": "DF811D87160630C9095AEDA2C5FA376F",
                     "download": "A609DA3FCFB7A3B3D6B0E4E2C1075E40"
                 },
+                "masterxp": {
+                    "gid": "A52944C7ED23D3281F8ADA9A36C49F11",
+                    "size": "79A0217072B7CC424E40798DA0B08CE3",
+                    "download": "4618E8788FB1607E762CAA84BB87B48F"
+                },
                 "mkt_recording": {
-                    "encrypted_gid_2": "C6C283C8B6E30522C9D2B35F7F9C8385",
-                    "encrypted_size_2": "07CE89780A28ED4AB037701025D7F6A7",
+                    "gid": "C6C283C8B6E30522C9D2B35F7F9C8385",
+                    "size": "07CE89780A28ED4AB037701025D7F6A7",
                     "download": "0B1079DA45285BEA889FD21DDC3E3A0E"
                 },
                 "playtest_external": {
-                    "encrypted_gid_2": "25BB5623B06A81D45CD626F287A26ADF",
-                    "encrypted_size_2": "1A46C81D181D4E4009FD46E7AA314071",
+                    "gid": "25BB5623B06A81D45CD626F287A26ADF",
+                    "size": "1A46C81D181D4E4009FD46E7AA314071",
                     "download": "E05D069EC534584786FC75198586BA5A"
                 },
                 "qa_testroom": {
-                    "encrypted_gid_2": "5068C24D854BC914F75FCBBD86B26200",
-                    "encrypted_size_2": "8A26A98FA35A96F10506F46F3AA14915",
-                    "download": "1C65CE1D3B395F20ECF3E40194E375C5"
+                    "gid": "1CA3239A1FF3EE54AAED14A64304A365",
+                    "size": "B4A279A252CA71EB1674AE7746A16567",
+                    "download": "29366A7CD07DD94115EA9DA9FC05D777"
                 },
                 "qa_testroom_2": {
-                    "encrypted_gid_2": "91678BE9BCE8574E4440021ABA0B505D",
-                    "encrypted_size_2": "FEC1143C26DCF492558182A996ABAD89",
-                    "download": "9C0CE5F61ACD1D35BE67144B5979B82E"
+                    "gid": "DE468972175DFAD850080FFB91A99CB0",
+                    "size": "BFE4142681B674A315028B19D9015BF7",
+                    "download": "0E958218070ADED7E98F106C0F65DCB7"
                 },
                 "scripted_tutorial": {
-                    "encrypted_gid_2": "ACA16E35083D37FDA418C242D131DCB1",
-                    "encrypted_size_2": "0B60C51FBCF7E92B005D3B5AC1CC7A3F",
+                    "gid": "ACA16E35083D37FDA418C242D131DCB1",
+                    "size": "0B60C51FBCF7E92B005D3B5AC1CC7A3F",
                     "download": "954238DF0B323CDDAF631117A5EE4806"
                 },
                 "teamtest": {
-                    "encrypted_gid_2": "75A5700C6D1CD9A4587E4D35475484C6",
-                    "encrypted_size_2": "F6D134D9E130AC1713B3EA639D0842BF",
+                    "gid": "75A5700C6D1CD9A4587E4D35475484C6",
+                    "size": "F6D134D9E130AC1713B3EA639D0842BF",
                     "download": "77EE6D7A1E9481E8DE74F38BDC783472"
                 }
             }
@@ -343,73 +384,86 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "4752933028670187885"
+                "public": {
+                    "gid": "4752933028670187885",
+                    "size": "47100147456",
+                    "download": "47451356480"
+                }
             },
-            "maxsize": "47100147456",
             "encryptedmanifests": {
+                "1.13_functionality_testing": {
+                    "gid": "4DB81F0C000B58D00A847A1D20E17568",
+                    "size": "F1CA6FFCD0E054239DDEBC13E171E3D4",
+                    "download": "86FA4A1D1CC6073345C170701B87DF20"
+                },
                 "burt_playtest": {
-                    "encrypted_gid_2": "E388FDA3B6ACC5BCFA52BA89EE6ABFB3",
-                    "encrypted_size_2": "26C2F8A4E032A52A5BBA6A50B4CC8C8C",
+                    "gid": "E388FDA3B6ACC5BCFA52BA89EE6ABFB3",
+                    "size": "26C2F8A4E032A52A5BBA6A50B4CC8C8C",
                     "download": "E4E791B9AA292E5E3A1F0114343597BC"
                 },
                 "burt_playtest_internal": {
-                    "encrypted_gid_2": "DCA1A1EE1994EEF8208E463C25FE328F",
-                    "encrypted_size_2": "6C40ADDCC24A372CE5AED1AED600EB4E",
+                    "gid": "DCA1A1EE1994EEF8208E463C25FE328F",
+                    "size": "6C40ADDCC24A372CE5AED1AED600EB4E",
                     "download": "BDD2D12ACC7D96250E73DBEB78F0F16A"
                 },
                 "current": {
-                    "encrypted_gid_2": "F183EB8133768F4F734C5EAB7035D64C",
-                    "encrypted_size_2": "58D1CE4E17C15F33D8B38F2B8A0660F4",
-                    "download": "9E1C2BCC936D3E365D8A4D9FA4470831"
+                    "gid": "35F2B5F5098D9626D2609ADFE320EC96",
+                    "size": "01698B1E33FA96FE6E73DE2B7B63F097",
+                    "download": "6BFD973889377B412B535347B98C9F89"
                 },
                 "gamesweek": {
-                    "encrypted_gid_2": "29BCF0DC41D2A3C8BE7224A110D7FAE8",
-                    "encrypted_size_2": "ED22F18731A48AF7670DA7CEF0B3062B",
+                    "gid": "29BCF0DC41D2A3C8BE7224A110D7FAE8",
+                    "size": "ED22F18731A48AF7670DA7CEF0B3062B",
                     "download": "A63FC5D0372A2FC7892F99001B7ED5FA"
                 },
                 "latest": {
-                    "encrypted_gid_2": "5A8554C27445D051C9E7CDE7BC2C68C8",
-                    "encrypted_size_2": "9847979A0D9A601CFC04484210FEB98C",
-                    "download": "58490C5E029756457F9F73D8ECC4EBDE"
+                    "gid": "A346E99790AC367A64D2C8EBDA2AC1D3",
+                    "size": "4FFE89C211E51DBF964916C0A0A6143D",
+                    "download": "4412604BEE5E5676D3E05BF47A341A0F"
                 },
                 "latest_lwp": {
-                    "encrypted_gid_2": "B7C3803C726094AFF68F747879C9B086",
-                    "encrypted_size_2": "6ABE8D009CB356D0FA4B0BECF60A928C",
+                    "gid": "B7C3803C726094AFF68F747879C9B086",
+                    "size": "6ABE8D009CB356D0FA4B0BECF60A928C",
                     "download": "AB47A47F8CCB7C1F0273F25E5BA21B33"
                 },
                 "lightweight_profiler": {
-                    "encrypted_gid_2": "0F306D04DE3A39FA598B627D641C29A3",
-                    "encrypted_size_2": "2566FDE14F60981E3F5EB37744E7964D",
+                    "gid": "0F306D04DE3A39FA598B627D641C29A3",
+                    "size": "2566FDE14F60981E3F5EB37744E7964D",
                     "download": "2AA4C57121A47DE827CCE03A4A370F2D"
                 },
+                "masterxp": {
+                    "gid": "8E8DE5095F72BD3F45043462803C2616",
+                    "size": "BA2756251F63E8B9AC8EC5E4C0929ADB",
+                    "download": "7A59EDEE6255659FB2048CC623B4864E"
+                },
                 "mkt_recording": {
-                    "encrypted_gid_2": "F4394931B1927BFD1F34C0D9E84A523C",
-                    "encrypted_size_2": "6A1628240399BD43E6E092CD79A8B896",
+                    "gid": "F4394931B1927BFD1F34C0D9E84A523C",
+                    "size": "6A1628240399BD43E6E092CD79A8B896",
                     "download": "BB7CD8E6B3A4B664DE4C1EDBFB845BBF"
                 },
                 "playtest_external": {
-                    "encrypted_gid_2": "9E4D4AA6A5C9D8165D740C8C76B066B7",
-                    "encrypted_size_2": "958E165F73AC4E367379D52ACC7D8DE2",
+                    "gid": "9E4D4AA6A5C9D8165D740C8C76B066B7",
+                    "size": "958E165F73AC4E367379D52ACC7D8DE2",
                     "download": "560B867D10514C503FA031CE89D76C8F"
                 },
                 "qa_testroom": {
-                    "encrypted_gid_2": "7511006B2D4657F2851817B09F890B6E",
-                    "encrypted_size_2": "617E0B3FF9788CD6EA3B02AD2D52807B",
-                    "download": "5B3E440122FEF00FDCC2DC6CEAA7EEDD"
+                    "gid": "B133500851A930F87183630CE179FAC7",
+                    "size": "55FEEA52B5F1A808AA8FF0F455A9E619",
+                    "download": "684466A6A1B31C64D2305580E3205359"
                 },
                 "qa_testroom_2": {
-                    "encrypted_gid_2": "74E96AEDAEB12F18A9EF29B1FDD03C77",
-                    "encrypted_size_2": "9CC85B02EF5F9C5D73D306461B086690",
-                    "download": "2FFB8E6A6DAC2C96A38487BB0B0D9BAF"
+                    "gid": "9CB8074597E35F0DAE10D7388A29FB34",
+                    "size": "1D3197A8BB6808FE0A8F7A44D7F75F8E",
+                    "download": "EBFBBC6B3F3E8C23553B48F1EC857E6D"
                 },
                 "scripted_tutorial": {
-                    "encrypted_gid_2": "5154BEBE2F4E7EAF26BD9DDCDAD188D1",
-                    "encrypted_size_2": "FF4D61F59C47A80F5795DCF9ACCAD17E",
+                    "gid": "5154BEBE2F4E7EAF26BD9DDCDAD188D1",
+                    "size": "FF4D61F59C47A80F5795DCF9ACCAD17E",
                     "download": "D7DF5C74453F0B7B0A95E2F2958155F0"
                 },
                 "teamtest": {
-                    "encrypted_gid_2": "B453B1306D7C1D27124F577D1F88BFB8",
-                    "encrypted_size_2": "457E0AF3FAA64BB39FF9AA566F6BA78C",
+                    "gid": "B453B1306D7C1D27124F577D1F88BFB8",
+                    "size": "457E0AF3FAA64BB39FF9AA566F6BA78C",
                     "download": "997D298677D7A1A4D59DD765DEE0A791"
                 }
             }
@@ -420,73 +474,86 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "4676715492988957117"
+                "public": {
+                    "gid": "4676715492988957117",
+                    "size": "178041162",
+                    "download": "177126000"
+                }
             },
-            "maxsize": "178041162",
             "encryptedmanifests": {
+                "1.13_functionality_testing": {
+                    "gid": "BDAE660263A127D2D1573EEB75B37AFE",
+                    "size": "0E3CD9693F799BF003531108AE0EEC91",
+                    "download": "6D925FF07B343C9D1583DFE180F2F056"
+                },
                 "burt_playtest": {
-                    "encrypted_gid_2": "EC7ABC936DBA65B47A98F5450E166941",
-                    "encrypted_size_2": "6E8F472ACA5A0151D11A2794261298E7",
+                    "gid": "EC7ABC936DBA65B47A98F5450E166941",
+                    "size": "6E8F472ACA5A0151D11A2794261298E7",
                     "download": "99035ECD6A50A85DAD95D6409DE11830"
                 },
                 "burt_playtest_internal": {
-                    "encrypted_gid_2": "11D1895E90DDD4391222588F79407D37",
-                    "encrypted_size_2": "BD300A4957578037E808E6ECA6C5E253",
+                    "gid": "11D1895E90DDD4391222588F79407D37",
+                    "size": "BD300A4957578037E808E6ECA6C5E253",
                     "download": "9ED56F610C4649ED7BFCBBAA77DBE1A4"
                 },
                 "current": {
-                    "encrypted_gid_2": "1144D1CA4DA6BB205FB0D4D9671CD95E",
-                    "encrypted_size_2": "7CA7F8A6C1074F144448A9A6A532FFA2",
-                    "download": "7E49DF407E7D1FF88A76822B049480B4"
+                    "gid": "246C366B7B165CB559A364F1C7705DA3",
+                    "size": "09E1B1A04DA5383E0B6A3BCE4BA9359F",
+                    "download": "4D12B706A080BF832151881C2BA99C7A"
                 },
                 "gamesweek": {
-                    "encrypted_gid_2": "80597E4BDCFF235136C904747F400477",
-                    "encrypted_size_2": "7B4B09C232F8DFF8F2A1F888AAC1D298",
+                    "gid": "80597E4BDCFF235136C904747F400477",
+                    "size": "7B4B09C232F8DFF8F2A1F888AAC1D298",
                     "download": "7D1D53367E449917136CA3F787459108"
                 },
                 "latest": {
-                    "encrypted_gid_2": "5AC9E3DF1351474325C4E003E961DBBC",
-                    "encrypted_size_2": "BD672AEB8E337004CACA65CA6C31602E",
-                    "download": "7E11262BF1AC52B2015F7EFAD60F126D"
+                    "gid": "6BE1C34622070C1DC2E69EB69DDD2ACC",
+                    "size": "944D5F2F79051E67C03FCCA19588CE12",
+                    "download": "308625235335D1AC9E263E28B26F825D"
                 },
                 "latest_lwp": {
-                    "encrypted_gid_2": "27E7BA5C805F96A70EF6D7EA23F386EC",
-                    "encrypted_size_2": "063FA146247470C733B5FCDC7D73AB3D",
+                    "gid": "27E7BA5C805F96A70EF6D7EA23F386EC",
+                    "size": "063FA146247470C733B5FCDC7D73AB3D",
                     "download": "0FF1BF4C8CDB8086E8E4234D9E122524"
                 },
                 "lightweight_profiler": {
-                    "encrypted_gid_2": "48762C2769450DCA31531DF4589DB643",
-                    "encrypted_size_2": "AFB10EB34A72B998372B2A57CAAD9B28",
+                    "gid": "48762C2769450DCA31531DF4589DB643",
+                    "size": "AFB10EB34A72B998372B2A57CAAD9B28",
                     "download": "8C940CE94B3B1F12BF02112B6BFA350B"
                 },
+                "masterxp": {
+                    "gid": "8EFDDE98E87CFA2FA7D3C9677D125DF5",
+                    "size": "D438E0828F1CA93E5E767D4A31B04A31",
+                    "download": "D5CD94BB028AA5AFAD028C3773099E3C"
+                },
                 "mkt_recording": {
-                    "encrypted_gid_2": "F792CE02A5A3070759EBC8AED3D8334A",
-                    "encrypted_size_2": "3E4E3F492D9A0B2CC857153341AB3007",
+                    "gid": "F792CE02A5A3070759EBC8AED3D8334A",
+                    "size": "3E4E3F492D9A0B2CC857153341AB3007",
                     "download": "E6DA412471FD94C18946F402CE800C4B"
                 },
                 "playtest_external": {
-                    "encrypted_gid_2": "C45A71DE53F17F06C431307779D86D0E",
-                    "encrypted_size_2": "D2972B7ECBA84368CDFE8292E3435E19",
+                    "gid": "C45A71DE53F17F06C431307779D86D0E",
+                    "size": "D2972B7ECBA84368CDFE8292E3435E19",
                     "download": "4D17A4523ED6066ABD64DD626AD58383"
                 },
                 "qa_testroom": {
-                    "encrypted_gid_2": "11C5DD8577B001BF17FDB36AB569A692",
-                    "encrypted_size_2": "9669375A86C90B18CE1268E881157969",
-                    "download": "8422BB30FC45F27623FE91FFB26EE26C"
+                    "gid": "9CDC087F7978BD69206CA285C9A0834B",
+                    "size": "EFDCE369E0D9EE07B368B4F8E4097117",
+                    "download": "C028FC7E6A1C83493BB022A2BA52548F"
                 },
                 "qa_testroom_2": {
-                    "encrypted_gid_2": "A88E2B9A451860ACE3B47B4E422DB087",
-                    "encrypted_size_2": "E37D4C1ADEE53B2CBC22422FBA8B2406",
-                    "download": "058A247B21476864FABA41D4493B1289"
+                    "gid": "F7542BF05F966BB6675CC4935553253A",
+                    "size": "680DB3D9DC1761611F53D0CF9D033819",
+                    "download": "5C57540784723F3B0F7DDF25D2FA043B"
                 },
                 "scripted_tutorial": {
-                    "encrypted_gid_2": "016D98FB4EE5B96C0A57526C52EC35A4",
-                    "encrypted_size_2": "29C69ECA670625A6AEE287CC4DE03EBF",
+                    "gid": "016D98FB4EE5B96C0A57526C52EC35A4",
+                    "size": "29C69ECA670625A6AEE287CC4DE03EBF",
                     "download": "BCA27113A72601C9B50986B0BB9F3927"
                 },
                 "teamtest": {
-                    "encrypted_gid_2": "C3F1A2CDD9066CFF9072252A8F1E3D58",
-                    "encrypted_size_2": "0195C6146A0B5E07E3D2B507B0CFEA20",
+                    "gid": "C3F1A2CDD9066CFF9072252A8F1E3D58",
+                    "size": "0195C6146A0B5E07E3D2B507B0CFEA20",
                     "download": "EE54337DA7E809D4E8F057322CEC19EE"
                 }
             }
@@ -497,72 +564,86 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "1633632636785229434"
+                "public": {
+                    "gid": "1633632636785229434",
+                    "size": "0",
+                    "download": "0"
+                }
             },
             "encryptedmanifests": {
+                "1.13_functionality_testing": {
+                    "gid": "E2D13CF7F9B78146A648BC036777C658",
+                    "size": "54D1D458B13F9FA9ECD379C3E9A92987",
+                    "download": "54D1D458B13F9FA9ECD379C3E9A92987"
+                },
                 "burt_playtest": {
-                    "encrypted_gid_2": "19BE763DD6B04F8218A4E2B9F2A2EBCD",
-                    "encrypted_size_2": "1035871DF1228BFE9C2880F76B830ED5",
+                    "gid": "19BE763DD6B04F8218A4E2B9F2A2EBCD",
+                    "size": "1035871DF1228BFE9C2880F76B830ED5",
                     "download": "1035871DF1228BFE9C2880F76B830ED5"
                 },
                 "burt_playtest_internal": {
-                    "encrypted_gid_2": "C24AB576CB41EA51967D794B8F8DCFDF",
-                    "encrypted_size_2": "736E64B739B9EBDDFD22C26809233347",
+                    "gid": "C24AB576CB41EA51967D794B8F8DCFDF",
+                    "size": "736E64B739B9EBDDFD22C26809233347",
                     "download": "736E64B739B9EBDDFD22C26809233347"
                 },
                 "current": {
-                    "encrypted_gid_2": "6B79E0632F06FA48440FD6EE2D335D2F",
-                    "encrypted_size_2": "F2BFA34734FC054F15A06024F6174AE7",
+                    "gid": "6B79E0632F06FA48440FD6EE2D335D2F",
+                    "size": "F2BFA34734FC054F15A06024F6174AE7",
                     "download": "F2BFA34734FC054F15A06024F6174AE7"
                 },
                 "gamesweek": {
-                    "encrypted_gid_2": "2E67D38B7BB6317B898815104BDA8AAA",
-                    "encrypted_size_2": "FF92406A9C9841B06D863C625B4B0ADB",
+                    "gid": "2E67D38B7BB6317B898815104BDA8AAA",
+                    "size": "FF92406A9C9841B06D863C625B4B0ADB",
                     "download": "FF92406A9C9841B06D863C625B4B0ADB"
                 },
                 "latest": {
-                    "encrypted_gid_2": "C091CA544879CC3B65DD35D50ADD0586",
-                    "encrypted_size_2": "8B17FFA7D78F55908B9538F784D3F1F6",
+                    "gid": "C091CA544879CC3B65DD35D50ADD0586",
+                    "size": "8B17FFA7D78F55908B9538F784D3F1F6",
                     "download": "8B17FFA7D78F55908B9538F784D3F1F6"
                 },
                 "latest_lwp": {
-                    "encrypted_gid_2": "ED980F3A0B5F378C9752CBEB71E0C553",
-                    "encrypted_size_2": "21721918DB608A3BD4569558BE2D8F93",
+                    "gid": "ED980F3A0B5F378C9752CBEB71E0C553",
+                    "size": "21721918DB608A3BD4569558BE2D8F93",
                     "download": "21721918DB608A3BD4569558BE2D8F93"
                 },
                 "lightweight_profiler": {
-                    "encrypted_gid_2": "1B14BA5A057DA4A42F73423ABB4595D4",
-                    "encrypted_size_2": "DA9B70B6CD84EE69B2D4D89A0D8806B3",
+                    "gid": "1B14BA5A057DA4A42F73423ABB4595D4",
+                    "size": "DA9B70B6CD84EE69B2D4D89A0D8806B3",
                     "download": "DA9B70B6CD84EE69B2D4D89A0D8806B3"
                 },
+                "masterxp": {
+                    "gid": "6154405C28C8DCAAB1E39A28A247489A",
+                    "size": "44B0A154E78CC2FED8449AB0CC0ED042",
+                    "download": "44B0A154E78CC2FED8449AB0CC0ED042"
+                },
                 "mkt_recording": {
-                    "encrypted_gid_2": "0BC6E0A8FDE678D76900999465DE055D",
-                    "encrypted_size_2": "392CC7B0ECEA5A56126445A12A31541F",
+                    "gid": "0BC6E0A8FDE678D76900999465DE055D",
+                    "size": "392CC7B0ECEA5A56126445A12A31541F",
                     "download": "392CC7B0ECEA5A56126445A12A31541F"
                 },
                 "playtest_external": {
-                    "encrypted_gid_2": "C271FA78DA763EA503FE082F560C411A",
-                    "encrypted_size_2": "F29531ADC06F996CD935C114FEE86214",
+                    "gid": "C271FA78DA763EA503FE082F560C411A",
+                    "size": "F29531ADC06F996CD935C114FEE86214",
                     "download": "F29531ADC06F996CD935C114FEE86214"
                 },
                 "qa_testroom": {
-                    "encrypted_gid_2": "F09F7E6BE447D6D4239B8B3D2F5742B0",
-                    "encrypted_size_2": "D5035BBD8FB1259BAF1B79895E6F73FC",
+                    "gid": "F09F7E6BE447D6D4239B8B3D2F5742B0",
+                    "size": "D5035BBD8FB1259BAF1B79895E6F73FC",
                     "download": "D5035BBD8FB1259BAF1B79895E6F73FC"
                 },
                 "qa_testroom_2": {
-                    "encrypted_gid_2": "F9A617478A2E7DBC7BDE427361999F77",
-                    "encrypted_size_2": "710CC5677DD8A9052796174425433B94",
+                    "gid": "F9A617478A2E7DBC7BDE427361999F77",
+                    "size": "710CC5677DD8A9052796174425433B94",
                     "download": "710CC5677DD8A9052796174425433B94"
                 },
                 "scripted_tutorial": {
-                    "encrypted_gid_2": "84445DF277952104AA0F0953D56A6F1F",
-                    "encrypted_size_2": "FC72C71F5F5D06CA1950DE0A4F742F00",
+                    "gid": "84445DF277952104AA0F0953D56A6F1F",
+                    "size": "FC72C71F5F5D06CA1950DE0A4F742F00",
                     "download": "FC72C71F5F5D06CA1950DE0A4F742F00"
                 },
                 "teamtest": {
-                    "encrypted_gid_2": "9E8E7AB44031E0A90CEEB12A477DBF0F",
-                    "encrypted_size_2": "622BBFBBA1FBE38ECF6DB98D4155C053",
+                    "gid": "9E8E7AB44031E0A90CEEB12A477DBF0F",
+                    "size": "622BBFBBA1FBE38ECF6DB98D4155C053",
                     "download": "622BBFBBA1FBE38ECF6DB98D4155C053"
                 }
             }
@@ -571,6 +652,11 @@
             "public": {
                 "buildid": "10744740",
                 "timeupdated": "1680094664"
+            },
+            "1.13_functionality_testing": {
+                "buildid": "11259476",
+                "pwdrequired": "1",
+                "timeupdated": "1684491655"
             },
             "burt_playtest": {
                 "buildid": "11147202",
@@ -583,9 +669,9 @@
                 "timeupdated": "1683128795"
             },
             "current": {
-                "buildid": "10715807",
+                "buildid": "11331456",
                 "pwdrequired": "1",
-                "timeupdated": "1678286618"
+                "timeupdated": "1685441233"
             },
             "gamesweek": {
                 "buildid": "10164736",
@@ -593,9 +679,9 @@
                 "timeupdated": "1673256133"
             },
             "latest": {
-                "buildid": "11147202",
+                "buildid": "11331753",
                 "pwdrequired": "1",
-                "timeupdated": "1683128589"
+                "timeupdated": "1685158462"
             },
             "latest_lwp": {
                 "buildid": "10520262",
@@ -606,6 +692,11 @@
                 "buildid": "10744884",
                 "pwdrequired": "1",
                 "timeupdated": "1680094681"
+            },
+            "masterxp": {
+                "buildid": "11021643",
+                "pwdrequired": "1",
+                "timeupdated": "1683794781"
             },
             "mkt_recording": {
                 "buildid": "10094541",
@@ -618,14 +709,14 @@
                 "timeupdated": "1669711175"
             },
             "qa_testroom": {
-                "buildid": "11045457",
+                "buildid": "11331753",
                 "pwdrequired": "1",
-                "timeupdated": "1682061781"
+                "timeupdated": "1685433118"
             },
             "qa_testroom_2": {
-                "buildid": "11021643",
+                "buildid": "11331456",
                 "pwdrequired": "1",
-                "timeupdated": "1681745046"
+                "timeupdated": "1685429854"
             },
             "scripted_tutorial": {
                 "buildid": "10018299",
@@ -640,7 +731,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18666536,
-    "_sha": "36f13dd85725a2a310a6e66c99695ce20f250d84",
-    "_size": 19662
+    "_change_number": 18979089,
+    "_sha": "bfaa0f7e52b0384f915f7692f662e654f59bb044",
+    "_size": 21069
 }

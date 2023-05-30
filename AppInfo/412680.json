@@ -49,25 +49,36 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "public": "2602016430604302144",
-                "evrima": "544457161575896732",
-                "promotional": "8450962309860220137"
+                "public": {
+                    "gid": "2602016430604302144",
+                    "size": "2324743012",
+                    "download": "593198128"
+                },
+                "evrima": {
+                    "gid": "544457161575896732",
+                    "size": "2797154968",
+                    "download": "2116981296"
+                },
+                "promotional": {
+                    "gid": "8450962309860220137",
+                    "size": "2304778154",
+                    "download": "568756976"
+                }
             },
-            "maxsize": "2797154968",
             "encryptedmanifests": {
                 "internal": {
-                    "encrypted_gid_2": "3690AD18FB1BABA5F10B62AAB813D2F4",
-                    "encrypted_size_2": "E5F251A3FEF68F82362E497CBB93022F",
+                    "gid": "3690AD18FB1BABA5F10B62AAB813D2F4",
+                    "size": "E5F251A3FEF68F82362E497CBB93022F",
                     "download": "C8543B71C49BE86CA5F1F471BAF4B5CA"
                 },
                 "mechanic-test": {
-                    "encrypted_gid_2": "E7AD4709DDAC860CF99BCC96DD1998DC",
-                    "encrypted_size_2": "EA370EF7C47CABD41F614859195EAF77",
+                    "gid": "E7AD4709DDAC860CF99BCC96DD1998DC",
+                    "size": "EA370EF7C47CABD41F614859195EAF77",
                     "download": "A2481624B263C7E77CBF6D8D8E882C20"
                 },
                 "quality-assurance": {
-                    "encrypted_gid_2": "C0F7AC7E888A442F3D95C1BE8B0B7183",
-                    "encrypted_size_2": "31219DE5DF6AEC43BC187DFDC4A00754",
+                    "gid": "C0F7AC7E888A442F3D95C1BE8B0B7183",
+                    "size": "31219DE5DF6AEC43BC187DFDC4A00754",
                     "download": "2414EE820CC783321E22E077243231DC"
                 }
             }
@@ -77,18 +88,21 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "evrima": "451432095256369166"
+                "evrima": {
+                    "gid": "451432095256369166",
+                    "size": "4575753981",
+                    "download": "2349549888"
+                }
             },
-            "maxsize": "4575753981",
             "encryptedmanifests": {
                 "internal": {
-                    "encrypted_gid_2": "34DB45D92B185F3BC6FEBCA8A35A6178",
-                    "encrypted_size_2": "71D67B05CB322D12916B4FB6944102C3",
-                    "download": "53DB9455A765F3EDE598C14D37282413"
+                    "gid": "36B919942DA282016CBEE6C315720CF9",
+                    "size": "24A6727505E2344719CBCC7C876A3CA5",
+                    "download": "849AC5C8B40DDC4B8CC15EF9514C0A11"
                 },
                 "mechanic-test": {
-                    "encrypted_gid_2": "7CB0E3B3EC614BA094ABD77E0BF698C2",
-                    "encrypted_size_2": "A4B89B9DAC442EAF0CA633905D6DE464",
+                    "gid": "7CB0E3B3EC614BA094ABD77E0BF698C2",
+                    "size": "A4B89B9DAC442EAF0CA633905D6DE464",
                     "download": "40054798B41A5A17A06458ACE79C4B40"
                 }
             }
@@ -109,9 +123,9 @@
                 "timeupdated": "1671868571"
             },
             "internal": {
-                "buildid": "11180929",
+                "buildid": "11345061",
                 "pwdrequired": "1",
-                "timeupdated": "1683556442"
+                "timeupdated": "1685397330"
             },
             "mechanic-test": {
                 "buildid": "10209741",
@@ -131,7 +145,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18717234,
-    "_sha": "1ece79e1eb99b115b0fbf315d8316ac606a5f56c",
-    "_size": 3338
+    "_change_number": 18973705,
+    "_sha": "786d2e5abf1f1cd0d84db0f1c1f6064bdb5389d4",
+    "_size": 3478
 }

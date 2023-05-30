@@ -74,18 +74,41 @@
                 "osarch": "64"
             },
             "manifests": {
-                "public": "5310641131136769452",
-                "devtest": "5310641131136769452",
-                "legacy": "9185763667898370055",
-                "oldversion": "7239348504016050697",
-                "privatetest": "4919117532885734980",
-                "whagwan": "6186249394656305976"
+                "public": {
+                    "gid": "5310641131136769452",
+                    "size": "293225716",
+                    "download": "190402032"
+                },
+                "devtest": {
+                    "gid": "5310641131136769452",
+                    "size": "293225716",
+                    "download": "190402032"
+                },
+                "legacy": {
+                    "gid": "9185763667898370055",
+                    "size": "956377460",
+                    "download": "516806976"
+                },
+                "oldversion": {
+                    "gid": "7239348504016050697",
+                    "size": "271191452",
+                    "download": "183220368"
+                },
+                "privatetest": {
+                    "gid": "4919117532885734980",
+                    "size": "293236284",
+                    "download": "190404160"
+                },
+                "whagwan": {
+                    "gid": "6186249394656305976",
+                    "size": "184",
+                    "download": "256"
+                }
             },
-            "maxsize": "956377460",
             "encryptedmanifests": {
                 "tomtest": {
-                    "encrypted_gid_2": "21585D4ED7E4F4C1CA8A38706CDD56C7",
-                    "encrypted_size_2": "CDF96D80A01C682DFC57FA3A287B03D0",
+                    "gid": "21585D4ED7E4F4C1CA8A38706CDD56C7",
+                    "size": "CDF96D80A01C682DFC57FA3A287B03D0",
                     "download": "A081BCA9694C8A51F23633C5C45258E4"
                 }
             }
@@ -95,36 +118,82 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "2901604725532908930",
-                "devtest": "2901604725532908930",
-                "legacy": "6925592058745733688",
-                "oldversion": "7147860276082064604",
-                "privatetest": "6202725910516023116",
-                "whagwan": "3544464017689656215"
+                "public": {
+                    "gid": "2901604725532908930",
+                    "size": "364879412",
+                    "download": "211822976"
+                },
+                "devtest": {
+                    "gid": "2901604725532908930",
+                    "size": "364879412",
+                    "download": "211822976"
+                },
+                "legacy": {
+                    "gid": "6925592058745733688",
+                    "size": "998859671",
+                    "download": "528148208"
+                },
+                "oldversion": {
+                    "gid": "7147860276082064604",
+                    "size": "336539540",
+                    "download": "203670768"
+                },
+                "privatetest": {
+                    "gid": "6202725910516023116",
+                    "size": "364889972",
+                    "download": "211826416"
+                },
+                "whagwan": {
+                    "gid": "3544464017689656215",
+                    "size": "316129545",
+                    "download": "197299168"
+                }
             },
-            "maxsize": "998859671",
             "encryptedmanifests": {
                 "tomtest": {
-                    "encrypted_gid_2": "FCDD796034CA9F75492E788971678421",
-                    "encrypted_size_2": "C07A17223AAFF1C98F79C5292A6A690D",
+                    "gid": "FCDD796034CA9F75492E788971678421",
+                    "size": "C07A17223AAFF1C98F79C5292A6A690D",
                     "download": "13821BCD455AFF48ED2E58A3418034A3"
                 }
             }
         },
         "405103": {
             "manifests": {
-                "public": "269427624681214512",
-                "devtest": "269427624681214512",
-                "legacy": "8545715084088772803",
-                "oldversion": "4737024751331444294",
-                "privatetest": "8110901894473953885",
-                "whagwan": "1948679995373904297"
+                "public": {
+                    "gid": "269427624681214512",
+                    "size": "3487640511",
+                    "download": "1035366192"
+                },
+                "devtest": {
+                    "gid": "269427624681214512",
+                    "size": "3487640511",
+                    "download": "1035366192"
+                },
+                "legacy": {
+                    "gid": "8545715084088772803",
+                    "size": "3466784649",
+                    "download": "1100193376"
+                },
+                "oldversion": {
+                    "gid": "4737024751331444294",
+                    "size": "3487500015",
+                    "download": "1035330576"
+                },
+                "privatetest": {
+                    "gid": "8110901894473953885",
+                    "size": "3488704639",
+                    "download": "1035480752"
+                },
+                "whagwan": {
+                    "gid": "1948679995373904297",
+                    "size": "3034052229",
+                    "download": "883849696"
+                }
             },
-            "maxsize": "3488704639",
             "encryptedmanifests": {
                 "tomtest": {
-                    "encrypted_gid_2": "F5322E4C0F3A1173F4551E171C87CF5C",
-                    "encrypted_size_2": "D0A5A0179C06F507877701F7A96496A2",
+                    "gid": "F5322E4C0F3A1173F4551E171C87CF5C",
+                    "size": "D0A5A0179C06F507877701F7A96496A2",
                     "download": "AF4C2BECFFE4B814C74C2F100D4EBF0C"
                 }
             }
@@ -164,7 +233,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "60fffd33795cfce9f1c8f18103603f7906525e4c",
-    "_size": 3807
+    "_change_number": 18903802,
+    "_sha": "7dc784ad30a221c262c9f1736316acef3d47170c",
+    "_size": 5041
 }

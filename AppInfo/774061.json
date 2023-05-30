@@ -62,23 +62,26 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "public": "4626450579223998240"
+                "public": {
+                    "gid": "4626450579223998240",
+                    "size": "11233821328",
+                    "download": "4646846736"
+                }
             },
-            "maxsize": "11233821328",
             "encryptedmanifests": {
                 "alpha": {
-                    "encrypted_gid_2": "12FE38345F09AD244FC152A2D8297DCE",
-                    "encrypted_size_2": "C76A18E46B502094AB2807283A10E293",
+                    "gid": "12FE38345F09AD244FC152A2D8297DCE",
+                    "size": "C76A18E46B502094AB2807283A10E293",
                     "download": "31F5A66CB244BFEA4A9987000FDA5829"
                 },
                 "beta": {
-                    "encrypted_gid_2": "CEFAF5BA3F1836B0A9B6F97F90C9F0DA",
-                    "encrypted_size_2": "9018D8C41B0E1EBF0728A6323B24446B",
+                    "gid": "CEFAF5BA3F1836B0A9B6F97F90C9F0DA",
+                    "size": "9018D8C41B0E1EBF0728A6323B24446B",
                     "download": "F344E6384F1689C95EBC0F140D2E691B"
                 },
                 "steam": {
-                    "encrypted_gid_2": "142A4E3C5D7EA53806B29A52D02FD60E",
-                    "encrypted_size_2": "ABEF00D77DFDC33B6F8906788C11E577",
+                    "gid": "142A4E3C5D7EA53806B29A52D02FD60E",
+                    "size": "ABEF00D77DFDC33B6F8906788C11E577",
                     "download": "3F293ECABD6BCF626D8E0EABAD8A3656"
                 }
             }
@@ -106,7 +109,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18639946,
-    "_sha": "53ade26b846b77fdaf8b3d10676f4f052741edd0",
-    "_size": 2435
+    "_change_number": 18903802,
+    "_sha": "c738de31a332c64368a6b6a815aeecce26aad7a0",
+    "_size": 2415
 }
