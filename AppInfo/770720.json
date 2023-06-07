@@ -141,7 +141,7 @@
                 "description": "Prod machine"
             },
             "14": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
+                "executable": "hunt.exe",
                 "arguments": "+online_account_client_settings stage",
                 "type": "option1",
                 "config": {
@@ -223,20 +223,6 @@
                     "english": "burt_playtest"
                 },
                 "description": "burt_playtest"
-            },
-            "20": {
-                "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings yellow +online_websvc_skip_tls_cert_validation 1",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "masterxp"
-                },
-                "description_loc": {
-                    "english": "masterxp tournament"
-                },
-                "description": "masterxp tournament"
             },
             "21": {
                 "executable": "hunt.exe",
@@ -727,7 +713,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 19076797,
-    "_sha": "5f2d30b7857304c9e5c975e836a041b4a025f741",
-    "_size": 20968
+    "_change_number": 19078091,
+    "_sha": "2fce04f2893167ae1a6e3b0e0cacad960e0f3dfe",
+    "_size": 20571
 }
