@@ -80,6 +80,11 @@
                     "gid": "C0F7AC7E888A442F3D95C1BE8B0B7183",
                     "size": "31219DE5DF6AEC43BC187DFDC4A00754",
                     "download": "2414EE820CC783321E22E077243231DC"
+                },
+                "stress-test": {
+                    "gid": "BC42E5A0E544DCB2FB2F7F5421F56A94",
+                    "size": "6683792FB5122AE3D173D8C0BA5DA022",
+                    "download": "E1E5256A8F83F7BD4CB586DA2D01DF54"
                 }
             }
         },
@@ -96,14 +101,19 @@
             },
             "encryptedmanifests": {
                 "internal": {
-                    "gid": "C5D8BC28EE64C852B4CD679F5168EFA3",
-                    "size": "63C3F4771F5F217E225F5BD68CC9665D",
-                    "download": "56E68A0B91268CD1A8463CEA69440261"
+                    "gid": "11065690120F72ED5429A2C27C720CCD",
+                    "size": "1AFFAF66FED80F1D845192F80A186727",
+                    "download": "62FCE17964A3E06FFBA4F27BBD82C723"
                 },
                 "mechanic-test": {
                     "gid": "EB09AD83894C78A100759646EF6D9C5E",
                     "size": "D73ECE44D2BFDB1B9141C0B39D266926",
                     "download": "218877A9201363E6D44298FF49E67288"
+                },
+                "stress-test": {
+                    "gid": "B35815EC11C86C783393FFA365626D86",
+                    "size": "C1EDDDD5C0C95F1083CE349201BB90A9",
+                    "download": "754D21758383DAA2AA9F6C0FB62CDCB1"
                 }
             }
         },
@@ -123,9 +133,9 @@
                 "timeupdated": "1671868571"
             },
             "internal": {
-                "buildid": "11437132",
+                "buildid": "11434838",
                 "pwdrequired": "1",
-                "timeupdated": "1686352975"
+                "timeupdated": "1686365572"
             },
             "mechanic-test": {
                 "buildid": "11434838",
@@ -141,11 +151,16 @@
                 "buildid": "9297282",
                 "pwdrequired": "1",
                 "timeupdated": "1660231168"
+            },
+            "stress-test": {
+                "buildid": "11434838",
+                "pwdrequired": "1",
+                "timeupdated": "1686365561"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 19115330,
-    "_sha": "6e11714ca49ca352090e14a8e215acec54d60465",
-    "_size": 3478
+    "_change_number": 19116445,
+    "_sha": "4235fc14683b361530429436ce3ce9dce919e315",
+    "_size": 3940
 }
