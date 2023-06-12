@@ -172,14 +172,14 @@
                     "gid": "6472753396271220220",
                     "size": "1541620491",
                     "download": "2983988264648"
+                },
+                "latest_experimental": {
+                    "gid": "2569875706243093214",
+                    "size": "16035878277",
+                    "download": "10799277536"
                 }
             },
             "encryptedmanifests": {
-                "latest_experimental": {
-                    "gid": "F71AF694ECA3835D512EBB92A4E68310",
-                    "size": "AFE577A3D249A17E5A385D0B99C2CB51",
-                    "download": "A59E026D466734A62C776D1326574832"
-                },
                 "testing_branch": {
                     "gid": "014391F447D5D80613FC6D4EF608C9F5",
                     "size": "C451FDF4BECCEE7EC04322065E3FFB52",
@@ -301,14 +301,14 @@
                     "gid": "771574079178892216",
                     "size": "1683921450",
                     "download": "231425075915"
+                },
+                "latest_experimental": {
+                    "gid": "8420195559573431286",
+                    "size": "16052048581",
+                    "download": "10789418512"
                 }
             },
             "encryptedmanifests": {
-                "latest_experimental": {
-                    "gid": "BECC4DCC952EA0E6EA15EEAE0DB205AE",
-                    "size": "06B3537441C1D99BCE9558A9F2570AEB",
-                    "download": "3E50B548444BF4E8BF7AF26F6DE1D9F0"
-                },
                 "testing_branch": {
                     "gid": "2DFB2468E10286AC76F6042136E390E5",
                     "size": "B2A536C14C7E003AFDC10C4A6B45E28B",
@@ -427,9 +427,9 @@
                 "description": "Alpha 9.3 Stable"
             },
             "latest_experimental": {
-                "buildid": "11435997",
-                "pwdrequired": "1",
-                "timeupdated": "1686343330"
+                "buildid": "11450783",
+                "description": "Unstable build",
+                "timeupdated": "1686590398"
             },
             "testing_branch": {
                 "buildid": "11005822",
@@ -454,7 +454,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 19138092,
-    "_sha": "bcb94d19dfd22ad8b202da7f8dc3a670d0d0b67e",
-    "_size": 11166
+    "_change_number": 19138492,
+    "_sha": "0eebb7e9775f35fba88997435d98f90e28b3a86c",
+    "_size": 11069
 }
