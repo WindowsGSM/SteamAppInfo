@@ -141,7 +141,7 @@
                 "description": "Prod machine"
             },
             "14": {
-                "executable": "hunt.exe",
+                "executable": "bin\\win_x64\\HuntGame.exe",
                 "arguments": "+online_account_client_settings stage",
                 "type": "option1",
                 "config": {
@@ -354,9 +354,9 @@
                     "download": "954238DF0B323CDDAF631117A5EE4806"
                 },
                 "teamtest": {
-                    "gid": "FA0D69FE5B19E75E70EE767AD44B6863",
-                    "size": "43E4A3FCE20240E4190FBC0787A25FEE",
-                    "download": "E886646DCBF1117290A4618055726310"
+                    "gid": "3E4A39FE40FF0403FFBE099C97F7BDFA",
+                    "size": "B55EE2FBE3AFBA3540B1905B0B12550B",
+                    "download": "9B98173894208E84848BDFDA4FFC2D32"
                 }
             }
         },
@@ -444,9 +444,9 @@
                     "download": "D7DF5C74453F0B7B0A95E2F2958155F0"
                 },
                 "teamtest": {
-                    "gid": "4C3551D1F85E65580C610FC56585A58F",
-                    "size": "64EC6842203A282143053827DF4851F0",
-                    "download": "E2D904DEC902C354EF5C3027C852BF8A"
+                    "gid": "330F1F5F019112CFDA6DA451A90F4CC8",
+                    "size": "CFC33589ED9D590FF73978276CE2DF14",
+                    "download": "858171C095269AB2A18F2FBB2C46F01C"
                 }
             }
         },
@@ -534,9 +534,9 @@
                     "download": "BCA27113A72601C9B50986B0BB9F3927"
                 },
                 "teamtest": {
-                    "gid": "7F599EAF230C9D7F83BE245E11DA8411",
-                    "size": "72E48B1C12A73BEF68471F100E095C7C",
-                    "download": "834CD42404A19969ED4395BFDCCF0D48"
+                    "gid": "49314A2A8AE45E5B3BF072659278DAF9",
+                    "size": "1F65CD15F0F35C2574889C489CFBD6D7",
+                    "download": "2ECCAA1397CA05E0762632A449DB0032"
                 }
             }
         },
@@ -706,14 +706,14 @@
                 "timeupdated": "1676621598"
             },
             "teamtest": {
-                "buildid": "11404093",
+                "buildid": "11477744",
                 "pwdrequired": "1",
-                "timeupdated": "1686121212"
+                "timeupdated": "1686835748"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 19177878,
-    "_sha": "8ce34537bdcb1c25225a8fb90df726568aa2bc57",
-    "_size": 20571
+    "_change_number": 19178916,
+    "_sha": "0da45a8ee620d7065e1c621555dbc36b726f11f7",
+    "_size": 20589
 }
