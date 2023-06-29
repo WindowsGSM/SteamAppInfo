@@ -205,11 +205,6 @@
                     "size": "251986910",
                     "download": "82329088"
                 },
-                "staging": {
-                    "gid": "3810651517055116960",
-                    "size": "250477471",
-                    "download": "80838016"
-                },
                 "wtplaytest": {
                     "gid": "5628299387017652610",
                     "size": "248560078",
@@ -231,6 +226,11 @@
                     "gid": "1324BFD5540D131642D5F4D2742F5848",
                     "size": "AF6F46894BAC9CC45F3A2F037AEC7FD2",
                     "download": "9DAAE3E025399A4A3CC1B02E4B9E7EF3"
+                },
+                "staging": {
+                    "gid": "5F37822BD955282A5D5A02140D6D7AF5",
+                    "size": "9424B5A734A56BBCB1C523D6A6330862",
+                    "download": "ED8DF8FFE38CAE870EB3A35622403545"
                 },
                 "steam_china_only": {
                     "gid": "139B9C1D31A340576B5500203A12E2DE",
@@ -326,11 +326,6 @@
                     "size": "272763365",
                     "download": "89195552"
                 },
-                "staging": {
-                    "gid": "1286311219015202595",
-                    "size": "279970522",
-                    "download": "92941520"
-                },
                 "wtplaytest": {
                     "gid": "8413449427164341817",
                     "size": "278384024",
@@ -352,6 +347,11 @@
                     "gid": "A1E9B8E180E7398ADD35539F066BC0CC",
                     "size": "481282BDFA14F2A54B129A4525FD474B",
                     "download": "5BC604169C199C4D71C2EDCA56C63817"
+                },
+                "staging": {
+                    "gid": "801918DF58FC62638D74A372A2DFDEC0",
+                    "size": "E1BEEA0BB3139CA704F17DAFCA0CC35B",
+                    "download": "CA598D13AFCD428B7EBB634D69B40C07"
                 },
                 "steam_china_only": {
                     "gid": "DF3DB0F09C3371F67726793E99C148A4",
@@ -447,11 +447,6 @@
                     "size": "177491551",
                     "download": "61113584"
                 },
-                "staging": {
-                    "gid": "7692540101002346131",
-                    "size": "184680661",
-                    "download": "64913440"
-                },
                 "wtplaytest": {
                     "gid": "686844717102661618",
                     "size": "183094675",
@@ -473,6 +468,11 @@
                     "gid": "0B3B75BB8A71C4CC26AA70E9C5F89972",
                     "size": "8616F09DE3475CA2DA222EABE3C9ED3D",
                     "download": "FF69CE6CE42A54D90B0E621A0056A580"
+                },
+                "staging": {
+                    "gid": "3FBA529A619D9E0F6A91B0950E3606A9",
+                    "size": "B13C21A9CAF9F969102F68AF2D9B6351",
+                    "download": "A0C71EA7179F3F40C78A3478659A27FE"
                 },
                 "steam_china_only": {
                     "gid": "A5BC450DB9DA6AF646A4BF6EB1857FAE",
@@ -568,11 +568,6 @@
                     "size": "177994264",
                     "download": "61331536"
                 },
-                "staging": {
-                    "gid": "7337909415363177466",
-                    "size": "185198132",
-                    "download": "65081616"
-                },
                 "wtplaytest": {
                     "gid": "2606502796449981454",
                     "size": "183612146",
@@ -594,6 +589,11 @@
                     "gid": "19D9371C2E60611839AC8602C9B33A51",
                     "size": "9E370A4C68558380786B4BBB28E6A260",
                     "download": "F6B91EB2CEE4473E2EEAF05B523535AD"
+                },
+                "staging": {
+                    "gid": "2394E13E39BFFE627E5D437B2BFD4C3D",
+                    "size": "08FD94DEDFF759C87077313D2FD59974",
+                    "download": "D87F6B483619335A4E394C1A97FD75B5"
                 },
                 "steam_china_only": {
                     "gid": "E925B072F2BFF86571E2429694B07C05",
@@ -687,11 +687,6 @@
                     "size": "0",
                     "download": "0"
                 },
-                "staging": {
-                    "gid": "8717820652300658035",
-                    "size": "0",
-                    "download": "0"
-                },
                 "wtplaytest": {
                     "gid": "8717820652300658035",
                     "size": "0",
@@ -713,6 +708,11 @@
                     "gid": "C041CB7ECB233959836F1ED6F0C9519C",
                     "size": "43DB1D86582606FD2C27D709DC3AEFCB",
                     "download": "43DB1D86582606FD2C27D709DC3AEFCB"
+                },
+                "staging": {
+                    "gid": "8CAB26D79006BA19DDFCDE5B078F05B3",
+                    "size": "40B63409F4D639E356A83A45E39D22F6",
+                    "download": "40B63409F4D639E356A83A45E39D22F6"
                 },
                 "steam_china_only": {
                     "gid": "BED7929D2124638DDD1039B1F9E02B81",
@@ -818,7 +818,7 @@
             },
             "staging": {
                 "buildid": "11558151",
-                "description": "Eco Server Staging Builds",
+                "pwdrequired": "1",
                 "timeupdated": "1687768690"
             },
             "steam_china_only": {
@@ -834,7 +834,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 19329352,
-    "_sha": "977a07d39bc0c78d2d6d8ea27dc28dc5bf3ed823",
-    "_size": 18897
+    "_change_number": 19339564,
+    "_sha": "79432de78a4196109eb06ce03e9acf03df94ef85",
+    "_size": 19188
 }
