@@ -38,6 +38,7 @@
         }
     },
     "depots": {
+        "baselanguages": "english",
         "1004": {
             "config": {
                 "oslist": "windows"
@@ -112,7 +113,6 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
-        "baselanguages": "english",
         "476401": {
             "manifests": {
                 "public": {
@@ -134,6 +134,7 @@
                 }
             }
         },
+        "476403": {},
         "branches": {
             "public": {
                 "buildid": "11392510",
@@ -152,7 +153,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 19198736,
-    "_sha": "34916dcd67345c0bf167915600b4210b6a9061bc",
-    "_size": 3197
+    "_change_number": 19388577,
+    "_sha": "39034f048fcc0dcc88056cadcaf9dabb4349b921",
+    "_size": 3216
 }
