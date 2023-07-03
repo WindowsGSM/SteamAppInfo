@@ -134,7 +134,16 @@
                 }
             }
         },
-        "476403": {},
+        "476403": {
+            "manifests": {},
+            "encryptedmanifests": {
+                "devtest": {
+                    "gid": "770F1A3D0580EE7AB5C55D7A6B9EBE75",
+                    "size": "D8A2B4903453DD6E622FF3619A70F97C",
+                    "download": "D47DDB9F54C348FFF391EE0374CF1959"
+                }
+            }
+        },
         "branches": {
             "public": {
                 "buildid": "11392510",
@@ -146,14 +155,14 @@
                 "timeupdated": "1679095829"
             },
             "devtest": {
-                "buildid": "11392510",
+                "buildid": "11613052",
                 "pwdrequired": "1",
-                "timeupdated": "1685930619"
+                "timeupdated": "1688379200"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 19388577,
-    "_sha": "39034f048fcc0dcc88056cadcaf9dabb4349b921",
-    "_size": 3216
+    "_change_number": 19388839,
+    "_sha": "7e1b83a27ea2df6c6539b81af05c85668577e368",
+    "_size": 3448
 }
