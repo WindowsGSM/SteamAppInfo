@@ -159,30 +159,10 @@
                     "size": "5E11C946C1A4A7DC7F8EDC7A1D2ECEFB",
                     "download": "D96B3041F16B929F7FB1F1A4F6F4BD41"
                 },
-                "mr-testing": {
-                    "gid": "B61C184A9D5248A2EB9D89D8038E4D03",
-                    "size": "19C62102556386A4F3F61331DE24B336",
-                    "download": "077907D5F2DF222D4F150BD160314B67"
-                },
-                "mr-testing-2": {
-                    "gid": "1D43F2E9CE50D0EF558E64AB86BF091C",
-                    "size": "42806F5B3B35B6592078D98E2A94CA08",
-                    "download": "44FFA054CB59F4105866EEAFAF947AF4"
-                },
                 "nightly": {
                     "gid": "45D802140A7D9002B69F3F56B6DC5410",
                     "size": "4F6A4816098770C28A57DFA1C243634D",
                     "download": "70C05E4796B88F0CC6DD725B6C35C418"
-                },
-                "patreon-testing": {
-                    "gid": "A7A0917F6092BFF521730D81A53344D7",
-                    "size": "1B51536E8B9372B456D32C214DF2CA88",
-                    "download": "A560DEE95AC6012BBC8676BFEDE48F81"
-                },
-                "qa-testing": {
-                    "gid": "8D04DB6EF337AB410102E0ED2A461DAC",
-                    "size": "E85C457A725C54634A6D2D8F8DBEFFEC",
-                    "download": "72ADDAAE64EEAF6A3DDD9155EC9EBA58"
                 }
             }
         },
@@ -254,30 +234,10 @@
                     "size": "0C72FEA3A256E5D38A7313FDB8F0F262",
                     "download": "B74A538024C294F934C39548DDB2433C"
                 },
-                "mr-testing": {
-                    "gid": "6296784A527F1D5E6FC3659648164DA4",
-                    "size": "CEFE06EBAF21DA170BE87CF9416C70FF",
-                    "download": "F5E5CDEAAED5180837E83047197A1442"
-                },
-                "mr-testing-2": {
-                    "gid": "AA71DA4387F1FFBCC43F9C840B411834",
-                    "size": "ECA4807F362092CBDB488582F6E8714E",
-                    "download": "A9EA1E829142D40A86587CC878142B59"
-                },
                 "nightly": {
                     "gid": "26B96C1FF6873D0D072C1B9721C4CAE0",
                     "size": "5FEA49FD5FF7089A872A077F8556E537",
                     "download": "51458CF378B87825BD1B26024BC8D3ED"
-                },
-                "patreon-testing": {
-                    "gid": "227B938CD225DB1B6DD23758C16BC274",
-                    "size": "2D3DA8D470068B9F3DDB3C39B540826F",
-                    "download": "B43F0DB777944BFE7D893431AAEDF402"
-                },
-                "qa-testing": {
-                    "gid": "837ABA670FFDA470745955C749F0E11A",
-                    "size": "867F1CA985AC41C38BF19B1607D4A05F",
-                    "download": "B55FA770D86CE44029FD65B1D50599EF"
                 }
             }
         },
@@ -336,40 +296,20 @@
                 "pwdrequired": "1",
                 "timeupdated": "1688324810"
             },
-            "mr-testing": {
-                "buildid": "11498586",
-                "pwdrequired": "1",
-                "timeupdated": "1687214605"
-            },
-            "mr-testing-2": {
-                "buildid": "11471909",
-                "pwdrequired": "1",
-                "timeupdated": "1686778420"
-            },
             "nightly": {
                 "buildid": "11611022",
                 "pwdrequired": "1",
                 "timeupdated": "1688355074"
             },
-            "patreon-testing": {
-                "buildid": "11015531",
-                "pwdrequired": "1",
-                "timeupdated": "1681752856"
-            },
             "pluginapi-beta": {
                 "buildid": "11591685",
                 "description": "Plugin API staging branch",
                 "timeupdated": "1688227294"
-            },
-            "qa-testing": {
-                "buildid": "11526525",
-                "pwdrequired": "1",
-                "timeupdated": "1687368127"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 19394496,
-    "_sha": "dac14555fd09891b4aee130ecc27487754bbed7c",
-    "_size": 9653
+    "_change_number": 19406867,
+    "_sha": "166b5dfddd222b519d27237a5c84e4a94c711137",
+    "_size": 7796
 }
