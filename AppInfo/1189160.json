@@ -19,7 +19,7 @@
     },
     "extended": {
         "gamedir": "repoly",
-        "serverbrowsername": "Re.Poly Server"
+        "serverbrowsername": "Re.Poly"
     },
     "config": {
         "installdir": "Re.Poly Server",
@@ -36,6 +36,8 @@
         }
     },
     "depots": {
+        "baselanguages": "english,german",
+        "hasdepotsindlc": "1",
         "1004": {
             "config": {
                 "oslist": "windows"
@@ -92,8 +94,7 @@
         "1189161": {
             "config": {
                 "oslist": "windows",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -103,7 +104,12 @@
                 }
             }
         },
-        "baselanguages": "english,german",
+        "1189163": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
         "branches": {
             "public": {
                 "buildid": "11641761",
@@ -112,7 +118,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 19465070,
-    "_sha": "51fdaa7906be47de49dd7f0d1976599e3373f88a",
-    "_size": 2186
+    "_change_number": 19469324,
+    "_sha": "c792ab68fe78e73067946214f4dd64f504756323",
+    "_size": 2269
 }
