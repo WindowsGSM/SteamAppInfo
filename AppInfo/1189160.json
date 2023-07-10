@@ -101,6 +101,11 @@
                     "gid": "281225935279588108",
                     "size": "456270448",
                     "download": "255948640"
+                },
+                "testserver": {
+                    "gid": "281225935279588108",
+                    "size": "456270448",
+                    "download": "255948640"
                 }
             }
         },
@@ -108,17 +113,29 @@
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
+            },
+            "manifests": {
+                "testserver": {
+                    "gid": "3479870873988712773",
+                    "size": "417963795",
+                    "download": "244814784"
+                }
             }
         },
         "branches": {
             "public": {
                 "buildid": "11641761",
                 "timeupdated": "1688950158"
+            },
+            "testserver": {
+                "buildid": "11664965",
+                "description": "Re.Poly Testserver",
+                "timeupdated": "1688987929"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 19469324,
-    "_sha": "c792ab68fe78e73067946214f4dd64f504756323",
-    "_size": 2269
+    "_change_number": 19469999,
+    "_sha": "e6a5e63e0612e4b5207a2380cccbd7b33f96383e",
+    "_size": 2651
 }
