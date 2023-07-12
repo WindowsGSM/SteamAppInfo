@@ -101,6 +101,11 @@
                     "size": "CDA30792CD0C2DF17684D5B19A646523",
                     "download": "4EA0E27B356BA1ACFB33BC4AD25B532D"
                 },
+                "contact_staging": {
+                    "gid": "BFD0CB9A4F83353CBBEF4B9D949CFF4A",
+                    "size": "D4E388401C9660304042309DCAFED166",
+                    "download": "A3C278F282754E6C914F2075B4AA25F8"
+                },
                 "content_test_server": {
                     "gid": "460231FBA7A97888A6F2ED8BF715E06A",
                     "size": "9D053354A41E93C603988980011B0A1E",
@@ -125,6 +130,11 @@
                     "gid": "F84123C4CF773E6015AEAC8F854960A9",
                     "size": "C280DAD79A96CBB3ECE6C1BAE8F9D876",
                     "download": "EC98804E60BD5494C29260006D727C77"
+                },
+                "staging": {
+                    "gid": "462F5225456CE61E3E128777FAA41C60",
+                    "size": "8F81389A5589ED5AA28631D5ACB14600",
+                    "download": "B8ABB283D380D42D1843CB4110F27DDA"
                 },
                 "temp": {
                     "gid": "D3BF3B3A1FA801F81E65FAF3FF17F575",
@@ -170,6 +180,11 @@
                     "size": "306CD45CB3346FED1683B6427206D6FD",
                     "download": "F9A83D70DE57E5A5AA9A014098B1F204"
                 },
+                "contact_staging": {
+                    "gid": "02112EC7DD966EA6C81B337EC6953582",
+                    "size": "95553CA7C3C01E4A578BF6E671594686",
+                    "download": "A371A6B0F68A60D208CC4A4859C51328"
+                },
                 "content_test_server": {
                     "gid": "4BF851C6C830D02D0B5425B587C50830",
                     "size": "6386E367AD2D360F863E9EBCA5977A85",
@@ -194,6 +209,11 @@
                     "gid": "DE6E1611447CCD113D1BCF6EFBB15AB0",
                     "size": "AEB66C44614AB45199042AA197080084",
                     "download": "9C19F6AC8A4047F3A6D3018F79631D63"
+                },
+                "staging": {
+                    "gid": "D1030B01A39B1A8538BE8B359B4DA199",
+                    "size": "FD34B087687FF354DD4A22624E1C4EC7",
+                    "download": "70C41A2310B76075DDF6F49AA706EC91"
                 },
                 "temp": {
                     "gid": "81466AEF4596C542C883B4BBA2B0C116",
@@ -239,6 +259,11 @@
                     "size": "D9EEB6E4B74D0DE4C74156C915EEB6FC",
                     "download": "D3E0EAB777C6882BBDEA69C849D024E0"
                 },
+                "contact_staging": {
+                    "gid": "A02D82FBD85C8AF816CAC0C6330BD371",
+                    "size": "22639749376799F563739AC9928C51AC",
+                    "download": "8B784559CF27F720C3E88F4434F92A09"
+                },
                 "content_test_server": {
                     "gid": "5F726BA74D026F6D2671CAF7F9B61E8E",
                     "size": "0F6A459E9EED8D4C2C48ADA2C141D9F9",
@@ -263,6 +288,11 @@
                     "gid": "35FA4CCA0FE33BC7DC06FE14165A0194",
                     "size": "FA565F2FD94ADAE82A746A2AFAE834DF",
                     "download": "F646AC34CBD41C0AF5C0E4730F5F1412"
+                },
+                "staging": {
+                    "gid": "0F18AB9832F9D753E1AFC33FF7831862",
+                    "size": "A85663EF3503B69A8318CC9B191818B1",
+                    "download": "015CA47A646C67B2A5D688A1C49B57BD"
                 },
                 "temp": {
                     "gid": "0E104245B3178DCDDF452215D7C4C72E",
@@ -444,6 +474,11 @@
                 "description": "Contact Build",
                 "timeupdated": "1677589671"
             },
+            "contact_staging": {
+                "buildid": "11683886",
+                "pwdrequired": "1",
+                "timeupdated": "1689163402"
+            },
             "content_test_server": {
                 "buildid": "11588387",
                 "pwdrequired": "1",
@@ -479,6 +514,11 @@
                 "description": "Performance Profiling Build",
                 "timeupdated": "1689087522"
             },
+            "staging": {
+                "buildid": "11683860",
+                "pwdrequired": "1",
+                "timeupdated": "1689163282"
+            },
             "temp": {
                 "buildid": "8333816",
                 "pwdrequired": "1",
@@ -487,7 +527,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 19495367,
-    "_sha": "c6bfc57b200fc4099f204435683194faf2d39c94",
-    "_size": 13220
+    "_change_number": 19498201,
+    "_sha": "5afec74e5c05b722b41213dc2f0347d246e8a33f",
+    "_size": 14498
 }
