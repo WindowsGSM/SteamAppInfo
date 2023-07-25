@@ -352,7 +352,13 @@
             }
         },
         "233788": {
-            "manifests": {},
+            "manifests": {
+                "creatordlc": {
+                    "gid": "8820462045430273899",
+                    "size": "2293885714",
+                    "download": "2322956256"
+                }
+            },
             "encryptedmanifests": {
                 "cdlc_private_beta_server": {
                     "gid": "655DE1318949F6D3F7B6D1F180C0DB50",
@@ -505,9 +511,9 @@
                 "timeupdated": "1689773485"
             },
             "creatordlc": {
-                "buildid": "11748938",
+                "buildid": "11782703",
                 "description": "Creator DLC Build",
-                "timeupdated": "1689863159"
+                "timeupdated": "1690289178"
             },
             "gmstaging": {
                 "buildid": "4481552",
@@ -547,7 +553,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 19638268,
-    "_sha": "5d003a45d81455cd03adbcbf6718a2361fff0104",
-    "_size": 14971
+    "_change_number": 19654446,
+    "_sha": "e0ff8d858852be4552b3e7ad2a9bc251d697f5e5",
+    "_size": 15090
 }
