@@ -133,9 +133,9 @@
             },
             "encryptedmanifests": {
                 "nighly": {
-                    "gid": "DC581E9FDB88A2005C02D521A55A3F80",
-                    "size": "AFEA3D9D9118708F03E19988656FAA9F",
-                    "download": "D1A8430AF52A9751D2004B669C27C287"
+                    "gid": "BB4C0D50964051B08441D7A6FED395FB",
+                    "size": "1F6E60DE3454FEA47CE94D008584780F",
+                    "download": "66C97B28700F0B9BE3F19B319E0B5DFC"
                 },
                 "nighly_arm64": {
                     "gid": "210881CDCC747DEF1A58D52308186623",
@@ -151,6 +151,11 @@
                     "gid": "029B858C9A1C4F82669D148C9A948E1D",
                     "size": "ACAA9BFC0BE87833D90DCA6B3BC1FD73",
                     "download": "8E03223931F278F01FE55D98307E50C7"
+                },
+                "shacktesters": {
+                    "gid": "6ECC28AA5A23B05B49B400E7765AE908",
+                    "size": "7CDC86C3E8C8E6AD71A578FC91AACB1A",
+                    "download": "52E1C304360B8D8AA0124D56CEE99812"
                 },
                 "stable_rc": {
                     "gid": "278973E053A5484D31A9D9643B3DD349",
@@ -198,9 +203,9 @@
                 "timeupdated": "1686261512"
             },
             "nighly": {
-                "buildid": "11806028",
+                "buildid": "11807050",
                 "pwdrequired": "1",
-                "timeupdated": "1690494928"
+                "timeupdated": "1690505414"
             },
             "nighly_arm64": {
                 "buildid": "8774567",
@@ -230,6 +235,11 @@
                 "buildid": "6282543",
                 "timeupdated": "1614724243"
             },
+            "shacktesters": {
+                "buildid": "11805866",
+                "pwdrequired": "1",
+                "timeupdated": "1690504359"
+            },
             "stable_rc": {
                 "buildid": "10549287",
                 "pwdrequired": "1",
@@ -238,7 +248,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 19690260,
-    "_sha": "5d821aff2241b3a302655c19c6f7ff8f5375e2ad",
-    "_size": 5442
+    "_change_number": 19691762,
+    "_sha": "06821ca28fdf36f1b5cfb07feca0868c48e192ab",
+    "_size": 5729
 }
