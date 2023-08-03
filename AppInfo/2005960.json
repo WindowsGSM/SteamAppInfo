@@ -38,39 +38,15 @@
         }
     },
     "depots": {
-        "2005961": {
-            "config": {
-                "oslist": "windows"
-            },
-            "manifests": {
-                "public": {
-                    "gid": "7828031689325599530",
-                    "size": "383217023",
-                    "download": "215544016"
-                }
-            },
-            "encryptedmanifests": {
-                "internal": {
-                    "gid": "0EBBB13F4B61F234AC023BF666D245BD",
-                    "size": "7E5AD4FE996DE5D51FBBA6498D7552A4",
-                    "download": "2A804456C3307145B84F9248C774BD0D"
-                },
-                "preprod": {
-                    "gid": "EA6899DC302EF4908E7AA7B4722FD8F8",
-                    "size": "B209CE6C0544B1F95EDF9827C829DAFA",
-                    "download": "D931F6E8CB97E63662E7D6E74F97FE4C"
-                }
-            }
-        },
         "2005962": {
             "config": {
                 "oslist": "linux"
             },
             "manifests": {
                 "public": {
-                    "gid": "2397459629178968700",
-                    "size": "282109989",
-                    "download": "126165088"
+                    "gid": "3456854355252629944",
+                    "size": "3807644687",
+                    "download": "748285056"
                 }
             },
             "encryptedmanifests": {
@@ -88,8 +64,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "8783206",
-                "timeupdated": "1653103697"
+                "buildid": "11859692",
+                "timeupdated": "1691081916"
             },
             "internal": {
                 "buildid": "11857918",
@@ -104,7 +80,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 19769312,
-    "_sha": "745b46f53fc30b0dbfbfa706310cbec2826c4ca0",
-    "_size": 2396
+    "_change_number": 19772208,
+    "_sha": "6cedf468a235d5669997a491259a9ad6f92d5b73",
+    "_size": 1813
 }
