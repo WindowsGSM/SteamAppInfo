@@ -9,7 +9,7 @@
         "clienttga": "937387635bcf4858ff82e8dc29fcfd8fffdbd70f",
         "clienticon": "3ee00f77f39c903aba309736b195437dd86d0c70",
         "app_retired_publisher_request": "1",
-        "oslist": "linux",
+        "oslist": "windows,linux",
         "osarch": "",
         "osextended": "",
         "associations": {},
@@ -19,14 +19,6 @@
     "config": {
         "installdir": "Ghosts of Tabor Dedicated Server",
         "launch": {
-            "0": {
-                "executable": "GhostsOfTaborServer.exe",
-                "arguments": "-log",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64"
-                }
-            },
             "1": {
                 "executable": "GhostsOfTaborServer.sh",
                 "arguments": "-log",
@@ -34,14 +26,19 @@
                     "oslist": "linux",
                     "osarch": "64"
                 }
+            },
+            "2": {
+                "executable": "GhostsOfTaborServer.sh",
+                "arguments": "-log",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                }
             }
         }
     },
     "depots": {
         "2005962": {
-            "config": {
-                "oslist": "linux"
-            },
             "manifests": {
                 "public": {
                     "gid": "2397459629178968700",
@@ -80,7 +77,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 19773083,
-    "_sha": "c0b8a90d2e6bf574ae8a6429ebaa4e424fb6bbea",
-    "_size": 1811
+    "_change_number": 19773906,
+    "_sha": "321d979318a793c212477dcc58584ba6e82cd985",
+    "_size": 1774
 }
