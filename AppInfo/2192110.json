@@ -18,14 +18,14 @@
         "exfgls": "1"
     },
     "extended": {
-        "gamedir": "game",
-        "serverbrowsername": "???? Dedicated Servers"
+        "gamedir": "Mason",
+        "serverbrowsername": "Mason"
     },
     "config": {
-        "installdir": "Shooter Game Dedicated Server",
+        "installdir": "MasonDedicatedServer",
         "launch": {
             "0": {
-                "executable": "GameServer.exe"
+                "executable": "MasonGameServer.exe"
             }
         }
     },
@@ -94,7 +94,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 18987327,
-    "_sha": "39840b4a3958984b8497a489147801abd3a68097",
-    "_size": 1826
+    "_change_number": 19789392,
+    "_sha": "2eb1f2ffd92e58d239d1a426254c99762422aa93",
+    "_size": 1806
 }
