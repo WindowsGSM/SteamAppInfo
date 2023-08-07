@@ -68,6 +68,8 @@
         }
     },
     "depots": {
+        "preloadonly": "1",
+        "overridescddb": "1",
         "228985": {
             "config": {
                 "oslist": "windows"
@@ -89,13 +91,8 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
-        "preloadonly": "1",
-        "overridescddb": "1",
         "223351": {
             "systemdefined": "1",
-            "config": {
-                "language": ""
-            },
             "manifests": {
                 "public": {
                     "gid": "7233699214715971850",
@@ -189,8 +186,7 @@
         "223352": {
             "config": {
                 "oslist": "linux",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {},
             "encryptedmanifests": {
@@ -224,8 +220,7 @@
         "223353": {
             "config": {
                 "oslist": "windows",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -317,6 +312,7 @@
                 }
             }
         },
+        "223354": {},
         "branches": {
             "public": {
                 "buildid": "11512658",
@@ -411,7 +407,7 @@
         "ignoreexternalfiles": "1"
     },
     "_missing_token": false,
-    "_change_number": 19751951,
-    "_sha": "c6c46f5bf6105217f3dec31c11a4b1176c5988b3",
-    "_size": 11094
+    "_change_number": 19810835,
+    "_sha": "a56308146ba663ffb89e462e64ec3ba0018ec6ad",
+    "_size": 11034
 }
