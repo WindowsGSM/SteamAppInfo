@@ -217,12 +217,12 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "burt_playtest_internal burt_playtest"
+                    "betakey": "playtest_external"
                 },
                 "description_loc": {
-                    "english": "burt_playtest"
+                    "english": "playtest_external"
                 },
-                "description": "burt_playtest"
+                "description": "playtest_external"
             },
             "21": {
                 "executable": "hunt.exe",
@@ -237,6 +237,10 @@
                     "english": "1.13_functionality_testing"
                 },
                 "description": "1.13_functionality_testing"
+            },
+            "22": {
+                "executable": "game.exe",
+                "type": "none"
             }
         }
     },
@@ -738,7 +742,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 19823718,
-    "_sha": "c181d4e7acf600f7d3f923d32dead717b714d419",
-    "_size": 21445
+    "_change_number": 19824240,
+    "_sha": "ff4e2cda770f0132ad280beae9fd35661093eb07",
+    "_size": 21500
 }
