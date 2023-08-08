@@ -210,20 +210,6 @@
                 },
                 "description": "scripted_tutorial"
             },
-            "19": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stage",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "playtest_external"
-                },
-                "description_loc": {
-                    "english": "playtest_external"
-                },
-                "description": "playtest_external"
-            },
             "21": {
                 "executable": "hunt.exe",
                 "arguments": "+online_account_client_settings stage",
@@ -237,10 +223,6 @@
                     "english": "1.13_functionality_testing"
                 },
                 "description": "1.13_functionality_testing"
-            },
-            "22": {
-                "executable": "game.exe",
-                "type": "none"
             }
         }
     },
@@ -742,7 +724,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 19824240,
-    "_sha": "ff4e2cda770f0132ad280beae9fd35661093eb07",
-    "_size": 21500
+    "_change_number": 19824533,
+    "_sha": "99ac1ee6d766b30e2b47df196ea36fdefd1a63cf",
+    "_size": 21075
 }
