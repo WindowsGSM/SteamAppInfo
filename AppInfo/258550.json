@@ -8,7 +8,8 @@
         "osarch": "",
         "osextended": "macos64",
         "associations": {},
-        "gameid": "258550"
+        "gameid": "258550",
+        "store_tags": {}
     },
     "extended": {
         "gamedir": ""
@@ -52,14 +53,14 @@
                     "download": "395951776"
                 },
                 "release": {
-                    "gid": "7159150725715800487",
-                    "size": "685601654",
-                    "download": "501164784"
+                    "gid": "9208005810533652973",
+                    "size": "685600750",
+                    "download": "501166816"
                 },
                 "staging": {
-                    "gid": "7499338945662325408",
-                    "size": "685620150",
-                    "download": "501172880"
+                    "gid": "2740942496250205636",
+                    "size": "685620662",
+                    "download": "501171808"
                 }
             },
             "encryptedmanifests": {
@@ -124,14 +125,14 @@
                     "download": "A4DB4786DFB1C5B82B3B8F80B28325BF"
                 },
                 "release-debug": {
-                    "gid": "8DF8BF4EC3D6B1DD2845FAFAB3D546E3",
-                    "size": "DF95FF7A0ABD287B04C423A29882D4F2",
-                    "download": "A7625A7C12B9C20469C0998676F7A88A"
+                    "gid": "400386F01899F9E014C08AD80656E7DC",
+                    "size": "3AECE81956BE9163D86760FB402BA1EC",
+                    "download": "6BD232E18C2404AE052DCF978213B555"
                 },
                 "staging-debug": {
-                    "gid": "C07FF86635361AF2AFD5DE875722FA0B",
-                    "size": "ADD523054A5827657CD59B59F4DDA8A1",
-                    "download": "FFCDC6A90F989681C707F303864782E0"
+                    "gid": "C42C8E0B74BC72276DDF493570729D78",
+                    "size": "50CECC753FBCA12A025AFCD85F7D8519",
+                    "download": "9FEC8A47F3FE9ADA0D589F907AB20885"
                 },
                 "test": {
                     "gid": "F708B9D0D40B580185FDADC673308682",
@@ -176,14 +177,14 @@
                     "download": "391478080"
                 },
                 "release": {
-                    "gid": "8273689794342089227",
-                    "size": "737657701",
-                    "download": "498008688"
+                    "gid": "8120489520344581895",
+                    "size": "737656285",
+                    "download": "498008736"
                 },
                 "staging": {
-                    "gid": "5992730148292891267",
-                    "size": "737676197",
-                    "download": "498013216"
+                    "gid": "613131575887486298",
+                    "size": "737676709",
+                    "download": "498012512"
                 }
             },
             "encryptedmanifests": {
@@ -421,14 +422,14 @@
                     "download": "1937633376"
                 },
                 "release": {
-                    "gid": "1946660607249851658",
+                    "gid": "771499534435349423",
                     "size": "6837135107",
-                    "download": "2085856336"
+                    "download": "2085863792"
                 },
                 "staging": {
-                    "gid": "3906064643686885367",
-                    "size": "6853143987",
-                    "download": "2100278640"
+                    "gid": "3276345480195483644",
+                    "size": "6853350715",
+                    "download": "2100406352"
                 }
             },
             "encryptedmanifests": {
@@ -493,14 +494,14 @@
                     "download": "893220138C67672EE671C6D87B6CB04B"
                 },
                 "release-debug": {
-                    "gid": "318D6AB470064D65FA5441F044B57773",
+                    "gid": "226462B54DEFB6D76A7A0BE29D31C96B",
                     "size": "69F8A4AEEA545F88394138B7C663B825",
-                    "download": "E1422B30A28C28690458E104F11A7A35"
+                    "download": "239B04203AA16A5A0F7304235F926F4C"
                 },
                 "staging-debug": {
-                    "gid": "1A8BB02A4DAC86C26D55A9169D036628",
-                    "size": "A87EB36D6E1C8672454BEF1AE1E9EA03",
-                    "download": "01023F259D8172468AA3E8B89100E76C"
+                    "gid": "BE4FB0D74062EE5011409C725272B39E",
+                    "size": "D01968842631C37DC4194C3D02EDCBF8",
+                    "download": "C0457E301490521F8040796816E8A12C"
                 },
                 "test": {
                     "gid": "01FAB073616983C12CBDA6B5729DA023",
@@ -600,22 +601,22 @@
                 "timeupdated": "1679497760"
             },
             "release": {
-                "buildid": "11874131",
-                "timeupdated": "1691233003"
+                "buildid": "11900872",
+                "timeupdated": "1691574768"
             },
             "release-debug": {
-                "buildid": "11874135",
+                "buildid": "11900879",
                 "pwdrequired": "1",
-                "timeupdated": "1691233054"
+                "timeupdated": "1691574835"
             },
             "staging": {
-                "buildid": "11894744",
-                "timeupdated": "1691513626"
+                "buildid": "11900888",
+                "timeupdated": "1691574948"
             },
             "staging-debug": {
-                "buildid": "11894760",
+                "buildid": "11900907",
                 "pwdrequired": "1",
-                "timeupdated": "1691513708"
+                "timeupdated": "1691575048"
             },
             "test": {
                 "buildid": "11153187",
@@ -630,7 +631,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 19830506,
-    "_sha": "17f51e642fd51829869d99435b6ec7ac28424d8a",
-    "_size": 17749
+    "_change_number": 19836068,
+    "_sha": "3747e8c87358f3b86de843e3d96294b464dcbeab",
+    "_size": 17770
 }
