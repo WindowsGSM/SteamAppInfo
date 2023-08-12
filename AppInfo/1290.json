@@ -36,9 +36,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "2376037824870948149",
-                    "size": "9418719303",
-                    "download": "2611911280"
+                    "gid": "6187131203262512377",
+                    "size": "9417820615",
+                    "download": "2612066752"
                 },
                 "legacy-v6.0.0": {
                     "gid": "4376981082077672751",
@@ -46,9 +46,9 @@
                     "download": "627444112"
                 },
                 "previous": {
-                    "gid": "9010623618386807462",
-                    "size": "9990207878",
-                    "download": "2691708768"
+                    "gid": "2376037824870948149",
+                    "size": "9418719303",
+                    "download": "2611911280"
                 }
             },
             "encryptedmanifests": {
@@ -82,6 +82,11 @@
                     "gid": "3431600298929727963",
                     "size": "794647",
                     "download": "254192"
+                },
+                "previous": {
+                    "gid": "4313557304435621580",
+                    "size": "2007743073",
+                    "download": "882887616"
                 }
             },
             "encryptedmanifests": {
@@ -104,8 +109,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "11781411",
-                "timeupdated": "1690278321"
+                "buildid": "11927068",
+                "timeupdated": "1691818494"
             },
             "development": {
                 "buildid": "10584959",
@@ -126,11 +131,16 @@
                 "buildid": "10628827",
                 "pwdrequired": "1",
                 "timeupdated": "1677237303"
+            },
+            "previous": {
+                "buildid": "11781411",
+                "description": " \tRollback to previous version",
+                "timeupdated": "1691818385"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 19718386,
-    "_sha": "e4128bcc9d6c5076a8bc6e344f98a14b388bcadd",
-    "_size": 3060
+    "_change_number": 19875524,
+    "_sha": "b4fbaf7c0512bea67ea3d324b2e04d3aa0e7090e",
+    "_size": 3310
 }
