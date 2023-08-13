@@ -99,8 +99,14 @@
             }
         }
     },
+    "ufs": {
+        "quota": "1000000",
+        "maxnumfiles": "10",
+        "hidecloudui": "1",
+        "ignoreexternalfiles": "1"
+    },
     "_missing_token": false,
-    "_change_number": 19850662,
-    "_sha": "86317f3138daaf3711e69696d11d90b33b2f59f4",
-    "_size": 2255
+    "_change_number": 19883549,
+    "_sha": "9c0a0e06d3bb283f3eb2c329befb25d274ef7564",
+    "_size": 2361
 }
