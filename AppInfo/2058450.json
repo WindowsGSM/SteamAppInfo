@@ -99,6 +99,11 @@
                 }
             },
             "encryptedmanifests": {
+                "pterodactyl": {
+                    "gid": "55A238C89B0AC76E04A4C4E255BD9995",
+                    "size": "ABA596EC6242E0EC07DC12B04A27D9A3",
+                    "download": "5140508D3C733DAF3E4D6F2747EC2F3B"
+                },
                 "test": {
                     "gid": "5E22D67BAD1431DADBCC2EE33E0F5592",
                     "size": "3F203815827E8FF3A3D1FEB45481527C",
@@ -111,6 +116,11 @@
                 "buildid": "11765479",
                 "timeupdated": "1690053249"
             },
+            "pterodactyl": {
+                "buildid": "11934024",
+                "pwdrequired": "1",
+                "timeupdated": "1691979653"
+            },
             "test": {
                 "buildid": "11461918",
                 "pwdrequired": "1",
@@ -119,7 +129,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 19626535,
-    "_sha": "5604ce43d5d0ca6f24ca4218eb37636d3d960071",
-    "_size": 2376
+    "_change_number": 19887656,
+    "_sha": "93329fcb7f055e945186824323597757c7d5c169",
+    "_size": 2661
 }
