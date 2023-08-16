@@ -53,6 +53,11 @@
                     "gid": "5425007501175871340",
                     "size": "717229330",
                     "download": "288262416"
+                },
+                "previous": {
+                    "gid": "5425007501175871340",
+                    "size": "717229330",
+                    "download": "288262416"
                 }
             },
             "encryptedmanifests": {
@@ -72,6 +77,11 @@
                     "gid": "9030547991358817583",
                     "size": "687448754",
                     "download": "271757552"
+                },
+                "previous": {
+                    "gid": "9030547991358817583",
+                    "size": "687448754",
+                    "download": "271757552"
                 }
             },
             "encryptedmanifests": {
@@ -85,6 +95,11 @@
         "317673": {
             "manifests": {
                 "public": {
+                    "gid": "8771497217696898382",
+                    "size": "6119763955",
+                    "download": "3449165216"
+                },
+                "previous": {
                     "gid": "1886418754834629898",
                     "size": "6488507720",
                     "download": "3550415904"
@@ -104,6 +119,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "8181179270281173737",
+                    "size": "14841864",
+                    "download": "4623200"
+                },
+                "previous": {
                     "gid": "8469000531158825288",
                     "size": "14905864",
                     "download": "4639776"
@@ -123,6 +143,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "5221148696169174283",
+                    "size": "66009212",
+                    "download": "7247984"
+                },
+                "previous": {
                     "gid": "628111262076882352",
                     "size": "66311392",
                     "download": "7276224"
@@ -139,18 +164,23 @@
         "workshopdepot": "317670",
         "branches": {
             "public": {
-                "buildid": "10540467",
-                "timeupdated": "1676326649"
+                "buildid": "11940293",
+                "timeupdated": "1692218719"
             },
             "devtest": {
                 "buildid": "11940293",
                 "pwdrequired": "1",
                 "timeupdated": "1692046108"
+            },
+            "previous": {
+                "buildid": "10540467",
+                "description": "Previous version of the game\t",
+                "timeupdated": "1692218713"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 19897815,
-    "_sha": "fd05820b9cabdd560d5f5e83d92b8b89b28fa3be",
-    "_size": 3445
+    "_change_number": 19927476,
+    "_sha": "b617278d14ceb3931820a4984a9056ebc7f4cdd3",
+    "_size": 4149
 }
