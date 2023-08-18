@@ -223,6 +223,16 @@
                     "english": "1.13_functionality_testing"
                 },
                 "description": "1.13_functionality_testing"
+            },
+            "22": {
+                "executable": "bin\\win_x64\\HuntGame.exe",
+                "arguments": "+online_account_client_settings local +online_websvc_skip_tls_cert_validation 1",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "the_test"
+                }
             }
         }
     },
@@ -774,7 +784,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 19935233,
-    "_sha": "2b56c0896baa1a4883e07a20ee4f05d82445993d",
-    "_size": 22701
+    "_change_number": 19951397,
+    "_sha": "a6ae5ca90d2deebfe904ca16bd44f4c7018626dc",
+    "_size": 22984
 }
