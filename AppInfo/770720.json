@@ -147,7 +147,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom latest teamtest latest_lwp mkt_recording gamesweek scripted_tutorial 114_external the_test"
+                    "betakey": "qa_testroom latest teamtest latest_lwp mkt_recording gamesweek scripted_tutorial 114_external"
                 },
                 "description_loc": {
                     "english": "STGDSN"
@@ -226,13 +226,17 @@
             },
             "22": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings local +online_websvc_skip_tls_cert_validation 1",
-                "type": "option1",
+                "arguments": "+online_account_client_settings stage_external",
+                "type": "default",
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
                     "betakey": "the_test"
-                }
+                },
+                "description_loc": {
+                    "english": "pc_stage_m"
+                },
+                "description": "pc_stage_m"
             }
         }
     },
@@ -784,7 +788,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 19993036,
-    "_sha": "7aed7a687cab318d2b50257086981a2a50901487",
-    "_size": 22984
+    "_change_number": 19999554,
+    "_sha": "a1191b14fc715bc9b5c33994ab5a2f588c0b9da0",
+    "_size": 23037
 }
