@@ -174,14 +174,14 @@
                     "gid": "6472753396271220220",
                     "size": "1541620491",
                     "download": "2983988264648"
-                },
-                "latest_experimental": {
-                    "gid": "6699315267868230968",
-                    "size": "16037829234",
-                    "download": "10800693552"
                 }
             },
             "encryptedmanifests": {
+                "latest_experimental": {
+                    "gid": "8D37557FB6D383F025510371C999173F",
+                    "size": "AAEB33BB5A1A78B8100FE6D27717C7FA",
+                    "download": "716DD145887655583472067846CC1184"
+                },
                 "testing_branch": {
                     "gid": "7958F77E31FE2C92C3DB3C8D90D5E387",
                     "size": "9AF7B164B95B85B321B313CE158B8585",
@@ -298,14 +298,14 @@
                     "gid": "771574079178892216",
                     "size": "1683921450",
                     "download": "231425075915"
-                },
-                "latest_experimental": {
-                    "gid": "4485042179748822610",
-                    "size": "16054010625",
-                    "download": "10791812016"
                 }
             },
             "encryptedmanifests": {
+                "latest_experimental": {
+                    "gid": "89396A2105B5CFEF07B733B4CC759007",
+                    "size": "3692B9E922320762C0A9B52D5A6616DF",
+                    "download": "7A5C6DEA39AAD79A25A82466C5017CC1"
+                },
                 "testing_branch": {
                     "gid": "8ED5BAFCF04934F53E58CDCC985BBDF6",
                     "size": "1924E12F38B6D5E21D007C3FF1CE7AFF",
@@ -420,7 +420,7 @@
             },
             "latest_experimental": {
                 "buildid": "11888696",
-                "description": "Unstable build",
+                "pwdrequired": "1",
                 "timeupdated": "1691536464"
             },
             "testing_branch": {
@@ -446,7 +446,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 20003872,
-    "_sha": "4329698a5a983457ae899b8941d029195f42a74b",
-    "_size": 10834
+    "_change_number": 20013927,
+    "_sha": "20f247c7569a807f73beced4a4c8388ee6a5fe54",
+    "_size": 10931
 }
