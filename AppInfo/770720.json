@@ -241,16 +241,15 @@
             "23": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
                 "arguments": "+online_account_client_settings stage",
-                "type": "option3",
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
                     "betakey": "114_external"
                 },
                 "description_loc": {
-                    "english": "options_test"
+                    "english": "Playtest"
                 },
-                "description": "options_test"
+                "description": "Playtest"
             }
         },
         "uselaunchcommandline": "1"
@@ -803,7 +802,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 20067649,
-    "_sha": "ecc948177396265e88899e3a837db046fba41dd5",
-    "_size": 23398
+    "_change_number": 20067697,
+    "_sha": "81c9c62c49a86b5abbe1bf0f2863a63b63e720da",
+    "_size": 23368
 }
