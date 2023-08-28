@@ -86,12 +86,24 @@
                     "size": "4505822587",
                     "download": "1035446032"
                 }
+            },
+            "encryptedmanifests": {
+                "test": {
+                    "gid": "3488083B790E8B6FAD45F2798246B31C",
+                    "size": "49DA07CDF1DF11B3CC8A8C682E1F6498",
+                    "download": "5CF193EC9C041B6D16BD4C439C97F37E"
+                }
             }
         },
         "branches": {
             "public": {
                 "buildid": "12007729",
                 "timeupdated": "1693186905"
+            },
+            "test": {
+                "buildid": "12050452",
+                "pwdrequired": "1",
+                "timeupdated": "1693234775"
             },
             "test-update": {
                 "buildid": "11201842",
@@ -101,7 +113,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 20063398,
-    "_sha": "bab90b900bed1325e5c732178f3ab71ebe5c93b7",
-    "_size": 2028
+    "_change_number": 20071009,
+    "_sha": "8c6b8e2bd414eb7d18ef788a40beed85b8cd0508",
+    "_size": 2333
 }
