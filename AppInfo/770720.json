@@ -225,7 +225,7 @@
                 "description": "1.13_functionality_testing"
             },
             "23": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
+                "executable": "hunt.exe",
                 "arguments": "+online_account_client_settings stage",
                 "config": {
                     "oslist": "windows",
@@ -289,9 +289,9 @@
                     "download": "93AF572EFE89534F51F99734E7DC8C27"
                 },
                 "114_external": {
-                    "gid": "5C1B62FA82561692495164064B56716F",
-                    "size": "AEF61D17F818ADF21E43294146F056AB",
-                    "download": "957E8B60729BFDE44763EFA4551FAEC6"
+                    "gid": "D2C99EB98A0A79686D92A2E2AF2CC6AA",
+                    "size": "2CD9662C0D7F8BA4D43FD4664028C405",
+                    "download": "3A983103D5AB168163DD5649FDB6A1AD"
                 },
                 "burt_playtest": {
                     "gid": "9370CC545DC4229900262E1DCEE17EFC",
@@ -304,9 +304,9 @@
                     "download": "1EC433764327BA0E5ABB5476FCA06EDD"
                 },
                 "current": {
-                    "gid": "3E92C21C33602C9C331A5E451EC2762D",
-                    "size": "BB128E6D37E83195311A1ECB4399032D",
-                    "download": "C5C65D88B9DBEF6182E8732206CD7827"
+                    "gid": "1C20AC850CEEDD6BCDB549D332C1255F",
+                    "size": "32DDAA6BF5497AF485D9493BD9872190",
+                    "download": "C7AE767A015FBBFDC4AEBCDB378A7B6D"
                 },
                 "gamesweek": {
                     "gid": "E846BA9A236D248C6D8D56D5517C71D7",
@@ -389,9 +389,9 @@
                     "download": "86FA4A1D1CC6073345C170701B87DF20"
                 },
                 "114_external": {
-                    "gid": "3B19DC1C85B25364882CD9CD0E43A74A",
-                    "size": "FDABF9FE155F0617284D5F685696F6DF",
-                    "download": "5257E22730E7C7CCC7B7FE9C44380787"
+                    "gid": "25DE080D6F9CC79C5AD0E6AAB9D07109",
+                    "size": "531C340A82CF18063AB3071774566D59",
+                    "download": "9C8DC046ECCB066E911F83F2517990E5"
                 },
                 "burt_playtest": {
                     "gid": "E388FDA3B6ACC5BCFA52BA89EE6ABFB3",
@@ -404,9 +404,9 @@
                     "download": "BDD2D12ACC7D96250E73DBEB78F0F16A"
                 },
                 "current": {
-                    "gid": "1459CF2A54930963D56C369891F7E8A0",
-                    "size": "FF2BA94777ECB8FE00D2CA691F615BFC",
-                    "download": "5661A8C842785619A6224B0CDBF9C7A3"
+                    "gid": "41D993162A53EDC4F4C53C435C87DE5C",
+                    "size": "7F0210B40E95DA420E162B2B382C2E9B",
+                    "download": "0B67696724BA4A6515B41C9E5FCD0BF5"
                 },
                 "gamesweek": {
                     "gid": "29BCF0DC41D2A3C8BE7224A110D7FAE8",
@@ -489,9 +489,9 @@
                     "download": "6D925FF07B343C9D1583DFE180F2F056"
                 },
                 "114_external": {
-                    "gid": "402B7491D72A38717D3AAE106983DB41",
-                    "size": "1875B69D5288BFFD2233BF1BCF085A6E",
-                    "download": "3A6B771B41DA9A8383B6E1D0C149D655"
+                    "gid": "9F2D718B54DBC1B808F3001F9367F56A",
+                    "size": "3886AE4BD928ACF099A82E947F548118",
+                    "download": "6FBE777603139219C5E6FE2080E31A9C"
                 },
                 "burt_playtest": {
                     "gid": "EC7ABC936DBA65B47A98F5450E166941",
@@ -504,9 +504,9 @@
                     "download": "9ED56F610C4649ED7BFCBBAA77DBE1A4"
                 },
                 "current": {
-                    "gid": "8FAC7BFD5D315A71FE819DBF4389C4E2",
-                    "size": "95E889ACE8283156776C7C154C826BE2",
-                    "download": "BCCEABE7297566050F185FFA6CE379CB"
+                    "gid": "71252CFCAA92D4591DD9FF085ECC8E3E",
+                    "size": "F05C0782794E60181D0AF73195A07B58",
+                    "download": "F768787A93D5DFF601F76D84B6194099"
                 },
                 "gamesweek": {
                     "gid": "80597E4BDCFF235136C904747F400477",
@@ -681,9 +681,9 @@
                 "timeupdated": "1684491655"
             },
             "114_external": {
-                "buildid": "11991538",
+                "buildid": "12085700",
                 "pwdrequired": "1",
-                "timeupdated": "1692631183"
+                "timeupdated": "1693831472"
             },
             "burt_playtest": {
                 "buildid": "11147202",
@@ -696,9 +696,9 @@
                 "timeupdated": "1683128795"
             },
             "current": {
-                "buildid": "11511155",
+                "buildid": "12103475",
                 "pwdrequired": "1",
-                "timeupdated": "1687331504"
+                "timeupdated": "1693831327"
             },
             "gamesweek": {
                 "buildid": "10164736",
@@ -763,7 +763,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 20155733,
-    "_sha": "a4d65281cafe58576d5e9f9544c6e7f9a9f3cd8d",
-    "_size": 22222
+    "_change_number": 20155909,
+    "_sha": "fbf529c83d75d7608843ec30c02c98ac95a52397",
+    "_size": 22204
 }
