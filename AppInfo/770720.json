@@ -236,6 +236,20 @@
                     "english": "Playtest"
                 },
                 "description": "Playtest"
+            },
+            "24": {
+                "executable": "game.exe",
+                "arguments": "+online_account_client_settings controls",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "controls_3.0"
+                },
+                "description_loc": {
+                    "english": "controls_3.0"
+                },
+                "description": "controls_3.0"
             }
         },
         "uselaunchcommandline": "1"
@@ -763,7 +777,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 20167224,
-    "_sha": "9fa0c7f049f4f9d9983822cffbdbff5ec6298d61",
-    "_size": 22204
+    "_change_number": 20167908,
+    "_sha": "243c6bd221274b67812489611da63dad42be2d1b",
+    "_size": 22533
 }
