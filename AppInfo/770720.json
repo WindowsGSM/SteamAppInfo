@@ -238,7 +238,7 @@
                 "description": "Playtest"
             },
             "24": {
-                "executable": "game.exe",
+                "executable": "bin\\win_x64\\HuntGame.exe",
                 "arguments": "+online_account_client_settings controls",
                 "type": "default",
                 "config": {
@@ -777,7 +777,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 20167908,
-    "_sha": "243c6bd221274b67812489611da63dad42be2d1b",
-    "_size": 22533
+    "_change_number": 20168272,
+    "_sha": "ef094e87fb8f528ad5feb7be983e10041ac66ed2",
+    "_size": 22551
 }
