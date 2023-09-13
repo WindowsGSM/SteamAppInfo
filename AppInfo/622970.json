@@ -143,9 +143,9 @@
                     "download": "50AEEDEEEF51087873AD92E9842EB882"
                 },
                 "nighly_shack": {
-                    "gid": "FE16C73F230BFC194D775006AD29AE81",
-                    "size": "321E76D4840DF7014FD7099012062900",
-                    "download": "DF61F0D04A40C24CB92045D648EC3011"
+                    "gid": "7788656E0DFFCB2C4983A3F26EECC7BF",
+                    "size": "906FE19CC73C1B218642966C1145FACC",
+                    "download": "3A1C4499A65EEA91E2214047D820133F"
                 },
                 "nighly_shack_arm64": {
                     "gid": "029B858C9A1C4F82669D148C9A948E1D",
@@ -153,9 +153,9 @@
                     "download": "8E03223931F278F01FE55D98307E50C7"
                 },
                 "shacktesters": {
-                    "gid": "AB8D284CDF5F8DF839013686D2331FA1",
-                    "size": "82A5BB8FDB2CFC075D6B2F061388CEA3",
-                    "download": "FF5161E923D8F423F5D84787DA380853"
+                    "gid": "7E7EB4B639055DD04BD86C54A145CBB2",
+                    "size": "F038C54D679DA72ED5D6DBD427CA3E01",
+                    "download": "CE7EBA17B676247569859B819B834D3D"
                 },
                 "stable_rc": {
                     "gid": "D3F360E5F5549ED5013E5A45F0350D98",
@@ -166,6 +166,11 @@
                     "gid": "FCEF0BDE3BCADF7470875CB9EE99773F",
                     "size": "28D6FB38BC34A62B45D697A967666CB0",
                     "download": "ACE026A350ED2417F837877B72E2B973"
+                },
+                "wizards_shack": {
+                    "gid": "F836464600C9891285269480C3F8CC82",
+                    "size": "F02177DCAFE2069EEA832B1208C3C0A2",
+                    "download": "9C7D5DAFE0D2373C147F68EF8F43B34F"
                 }
             }
         },
@@ -218,9 +223,9 @@
                 "timeupdated": "1653004510"
             },
             "nighly_shack": {
-                "buildid": "12172268",
+                "buildid": "12181847",
                 "pwdrequired": "1",
-                "timeupdated": "1694550954"
+                "timeupdated": "1694637479"
             },
             "nighly_shack_arm64": {
                 "buildid": "8816294",
@@ -241,9 +246,9 @@
                 "timeupdated": "1614724243"
             },
             "shacktesters": {
-                "buildid": "11896915",
+                "buildid": "12181847",
                 "pwdrequired": "1",
-                "timeupdated": "1691533923"
+                "timeupdated": "1694637623"
             },
             "stable_rc": {
                 "buildid": "12034897",
@@ -254,11 +259,16 @@
                 "buildid": "12181532",
                 "pwdrequired": "1",
                 "timeupdated": "1694634194"
+            },
+            "wizards_shack": {
+                "buildid": "12181847",
+                "pwdrequired": "1",
+                "timeupdated": "1694637450"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 20277273,
-    "_sha": "b199067ca274680507268d97be2c8eae2a0d99a7",
-    "_size": 6005
+    "_change_number": 20277375,
+    "_sha": "dc71d26b369a213d2d00d34a7767950a546e27f3",
+    "_size": 6294
 }
