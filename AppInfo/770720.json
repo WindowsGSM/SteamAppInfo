@@ -224,19 +224,6 @@
                 },
                 "description": "1.13_functionality_testing"
             },
-            "23": {
-                "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings stage",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "114_external"
-                },
-                "description_loc": {
-                    "english": "Playtest"
-                },
-                "description": "Playtest"
-            },
             "24": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
                 "arguments": "+online_account_client_settings stage",
@@ -840,7 +827,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 20326945,
-    "_sha": "6d0b68cee768a1622f74866b0fd5c38d507d1404",
-    "_size": 24512
+    "_change_number": 20327484,
+    "_sha": "4e3c31613b57a3c3b0cc528f4bfedba4d2ab265f",
+    "_size": 24216
 }
