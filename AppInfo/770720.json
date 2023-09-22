@@ -250,6 +250,23 @@
                     "english": "116_external"
                 },
                 "description": "116_external"
+            },
+            "26": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings stage_external +sys_dump_type 2",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "mkt_recording"
+                },
+                "description_loc": {
+                    "english": "PCSTG"
+                },
+                "description": "PCSTG"
+            },
+            "27": {
+                "executable": "game.exe",
+                "type": "none"
             }
         },
         "uselaunchcommandline": "1"
@@ -358,9 +375,9 @@
                     "download": "4618E8788FB1607E762CAA84BB87B48F"
                 },
                 "mkt_recording": {
-                    "gid": "B8CBC014BD83C4FA53FD8BD773A5E2F6",
-                    "size": "364A8870E78CCCFA253EF1CE0F41E18B",
-                    "download": "B7F4A395AB9F17AB042B100CD43F9AD0"
+                    "gid": "3DF9BD3E71C523708D20AD40B93F81D2",
+                    "size": "DE6391E4E3EEE0A66217C4C61A54CFBB",
+                    "download": "20EA578BC082CC28809710D70AE21604"
                 },
                 "night_of_the_hunter": {
                     "gid": "58688E4F71621D817698CC08BD50D0D9",
@@ -468,9 +485,9 @@
                     "download": "7A59EDEE6255659FB2048CC623B4864E"
                 },
                 "mkt_recording": {
-                    "gid": "2BB4D6E0116EEACACA5AE4814476A154",
-                    "size": "F58AD64FEDE5D2BDD9AFB106237B5D15",
-                    "download": "3B91BEC2BA769D97BD2A59AF39909258"
+                    "gid": "BBCDDF8EAE61BFCD8EBCB0055F311A15",
+                    "size": "B9346C618FA0FE1605215C89A3AFD79C",
+                    "download": "24CE09EEA953249CB02C7763B89A4105"
                 },
                 "night_of_the_hunter": {
                     "gid": "8C4072D4E87443E008BA9E9FAB895B29",
@@ -578,9 +595,9 @@
                     "download": "D5CD94BB028AA5AFAD028C3773099E3C"
                 },
                 "mkt_recording": {
-                    "gid": "4434F534937C96D2DF69DD55198A9259",
-                    "size": "FDD9C2073156D0F92B7A876C53B79892",
-                    "download": "1BC3EE9114DEE09F9999227D31AB6BA2"
+                    "gid": "7D6DF1C1722C44F516C4DF592F46DD3D",
+                    "size": "9D56FA02ECFA6730B765B944A280007F",
+                    "download": "DF86C57818D39A42BF4388686A98034F"
                 },
                 "night_of_the_hunter": {
                     "gid": "6814BD291ACD5B7311F84270D370F330",
@@ -688,9 +705,9 @@
                     "download": "44B0A154E78CC2FED8449AB0CC0ED042"
                 },
                 "mkt_recording": {
-                    "gid": "472B24F6D0AA1641D14AE545A3A1FC7B",
-                    "size": "E27A26490C461A251E4EE59636FB9E18",
-                    "download": "E27A26490C461A251E4EE59636FB9E18"
+                    "gid": "156E1CF03A4E49D745ECDB3AC618AF58",
+                    "size": "24A48BAD92A25C0AD94F99E004CC2272",
+                    "download": "24A48BAD92A25C0AD94F99E004CC2272"
                 },
                 "night_of_the_hunter": {
                     "gid": "E6BBDE783D87EB8EEBE4AA8585854A46",
@@ -827,7 +844,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 20392796,
-    "_sha": "a1efc358b9df4547ace90fd12ba9b129667993fa",
-    "_size": 24216
+    "_change_number": 20392886,
+    "_sha": "abf2d0a0e1b70483bbbbc58edef6397b30363fd7",
+    "_size": 24599
 }
