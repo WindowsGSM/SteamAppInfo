@@ -96,12 +96,12 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom latest"
+                    "betakey": "qa_testroom qa_testroom_2 latest"
                 },
                 "description_loc": {
-                    "english": "Davant Ranch Room"
+                    "english": "MPQA1"
                 },
-                "description": "Davant Ranch Room"
+                "description": "MPQA1"
             },
             "11": {
                 "executable": "hunt.exe",
@@ -113,9 +113,9 @@
                     "betakey": "qa_testroom qa_testroom_2 latest latest_lwp current"
                 },
                 "description_loc": {
-                    "english": "MP QA server"
+                    "english": "MPQA2"
                 },
-                "description": "MP QA server"
+                "description": "MPQA2"
             },
             "12": {
                 "executable": "hunt.exe",
@@ -187,48 +187,6 @@
                 },
                 "description": "lightweight_profiler\t"
             },
-            "17": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings rework -online_server capi1-cndev-lw-wc.huntshowdown.com -online_server_port 61088",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "equipment_rework"
-                },
-                "description_loc": {
-                    "english": "equipment_rework"
-                },
-                "description": "equipment_rework"
-            },
-            "18": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stage +r_d3d11_setResourcePriority  0 +g_showHighContrastPrompts 1 ",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "scripted_tutorial"
-                },
-                "description_loc": {
-                    "english": "scripted_tutorial"
-                },
-                "description": "scripted_tutorial"
-            },
-            "21": {
-                "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings stage",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "1.13_functionality_testing"
-                },
-                "description_loc": {
-                    "english": "1.13_functionality_testing"
-                },
-                "description": "1.13_functionality_testing"
-            },
             "24": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
                 "arguments": "+online_account_client_settings stage",
@@ -244,17 +202,60 @@
                 "description": "controls_3.0"
             },
             "25": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stage",
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings blah -online_server frwp3hntdemosrv -online_server_port 61088 +sys_dump_type 3 +online_websvc_enable_tls 0",
+                "type": "option1",
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "116_external"
+                    "betakey": "qa_testroom qa_testroom_2"
                 },
                 "description_loc": {
-                    "english": "116_external"
+                    "english": "MPQA3"
                 },
-                "description": "116_external"
+                "description": "MPQA3"
+            },
+            "26": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings blah -online_server frwp4hntdemosrv -online_server_port 61088 +sys_dump_type 3 +online_websvc_enable_tls 0",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "qa_testroom qa_testroom_2"
+                },
+                "description_loc": {
+                    "english": "MPQA4"
+                },
+                "description": "MPQA4"
+            },
+            "27": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings blah -online_server frwp5hntdemosrv -online_server_port 61088 +sys_dump_type 3 +online_websvc_enable_tls 0",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "qa_testroom qa_testroom_2"
+                },
+                "description_loc": {
+                    "english": "MPQA5"
+                },
+                "description": "MPQA5"
+            },
+            "28": {
+                "executable": "bin\\win_x64\\HuntGame.exe",
+                "arguments": "+online_account_client_settings blah -online_server frwp1hntdemosrv -online_server_port 61088 +sys_dump_type 3 +online_websvc_enable_tls 0",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "qa_testroom qa_testroom_2"
+                },
+                "description_loc": {
+                    "english": "MPQA MAIN"
+                },
+                "description": "MPQA MAIN"
             }
         },
         "uselaunchcommandline": "1"
@@ -607,7 +608,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 20436383,
-    "_sha": "098bbd0ec7c868273a2597ca912cb7eccd1f8532",
-    "_size": 16836
+    "_change_number": 20436691,
+    "_sha": "6e8161a0fcae3f02222811143abc6854df45ea68",
+    "_size": 16996
 }
