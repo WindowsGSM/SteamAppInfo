@@ -531,7 +531,16 @@
             }
         },
         "233793": {},
-        "233794": {},
+        "233794": {
+            "manifests": {},
+            "encryptedmanifests": {
+                "cdlc_depot_test": {
+                    "gid": "B2189E33194276BBBD79C7EB865D9BA7",
+                    "size": "1D33E27C1027E25759811B392C4CC73E",
+                    "download": "10DB0BE6730AA0A439BB5BF5E24BBD66"
+                }
+            }
+        },
         "233795": {},
         "branches": {
             "public": {
@@ -539,9 +548,9 @@
                 "timeupdated": "1695129930"
             },
             "cdlc_depot_test": {
-                "buildid": "12363339",
+                "buildid": "12363523",
                 "pwdrequired": "1",
-                "timeupdated": "1696503173"
+                "timeupdated": "1696504380"
             },
             "cdlc_internal_server": {
                 "buildid": "6475122",
@@ -601,7 +610,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 20558711,
-    "_sha": "bf3baeea6065975afddd4ed69e6b26e0c0ede076",
-    "_size": 16272
+    "_change_number": 20558962,
+    "_sha": "9cef5dd2b9e999e192478ee877fe08f616eb3d10",
+    "_size": 16512
 }
