@@ -19,10 +19,11 @@
         "serverbrowsername": "Fragsurf"
     },
     "config": {
-        "installdir": "FSDS",
+        "installdir": "Fragsurf Dedicated Server",
         "launch": {
             "0": {
                 "executable": "Fragsurf.exe",
+                "arguments": "-server -batchmode",
                 "type": "server",
                 "config": {
                     "oslist": "windows",
@@ -109,7 +110,7 @@
         "maxnumfiles": "10000"
     },
     "_missing_token": false,
-    "_change_number": 20643409,
-    "_sha": "d1b3e62f10e36e071a336195ee042580c7ca5463",
-    "_size": 2107
+    "_change_number": 20643810,
+    "_sha": "26df8754a9e0f9af64adf756b2b0008e5214a1e8",
+    "_size": 2166
 }
