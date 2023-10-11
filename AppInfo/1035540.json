@@ -28,6 +28,8 @@
         }
     },
     "depots": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
         "1004": {
             "config": {
                 "oslist": "windows"
@@ -69,9 +71,9 @@
         },
         "1035541": {
             "config": {
+                "language": "english",
                 "oslist": "windows",
-                "osarch": "64",
-                "language": ""
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -86,7 +88,6 @@
                 }
             }
         },
-        "baselanguages": "english",
         "branches": {
             "public": {
                 "buildid": "6955057",
@@ -99,7 +100,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 20632066,
-    "_sha": "2cf7483339fef3aefbce8ab5732c9498c088d739",
-    "_size": 1907
+    "_change_number": 20632123,
+    "_sha": "8cdb37b06661651aa1df87f46272872afb1fb8b8",
+    "_size": 1938
 }
