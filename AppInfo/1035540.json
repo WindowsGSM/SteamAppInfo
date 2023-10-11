@@ -92,51 +92,19 @@
                 }
             }
         },
-        "1033411": {
-            "config": {
-                "oslist": "windows",
-                "osarch": "64",
-                "language": ""
-            },
-            "manifests": {
-                "public": {
-                    "gid": "1667578048504953237",
-                    "size": "5535701038",
-                    "download": "1276568544"
-                },
-                "prerelease": {
-                    "gid": "1518513198168787257",
-                    "size": "3994729267",
-                    "download": "1827123008"
-                }
-            },
-            "encryptedmanifests": {
-                "playtest": {
-                    "gid": "F42E8705478CEDA49976569D166439FA",
-                    "size": "81923A79F4EA790A36A288A18CEA777C",
-                    "download": "F74F015DA0D3125DD5505B7CE0EC27DC"
-                }
-            },
-            "depotfromapp": "1033410"
-        },
         "branches": {
             "public": {
-                "buildid": "12409699",
-                "timeupdated": "1696996091"
+                "buildid": "12409887",
+                "timeupdated": "1696998259"
             },
             "beta": {
                 "buildid": "5299314",
                 "timeupdated": "1594993631"
-            },
-            "playtest": {
-                "buildid": "6450943",
-                "pwdrequired": "1",
-                "timeupdated": "1616874407"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 20632642,
-    "_sha": "7bc5e3d995a3df135c36b85e584bfcb382a94b02",
-    "_size": 2719
+    "_change_number": 20632964,
+    "_sha": "76f7c59e69218ec379ad681559c3fd6e45121c8f",
+    "_size": 2015
 }
