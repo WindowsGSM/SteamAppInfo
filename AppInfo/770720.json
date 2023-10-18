@@ -55,7 +55,8 @@
         "steam_release_date": "1522940400",
         "community_visible_stats": "1",
         "community_hub_visible": "1",
-        "gameid": "770720"
+        "gameid": "770720",
+        "store_tags": {}
     },
     "config": {
         "installdir": "Hunt Showdown (Test Server)",
@@ -269,6 +270,20 @@
                     "english": "ui_3.0"
                 },
                 "description": "ui_3.0"
+            },
+            "30": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings stage2 +sys_dump_type 2",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "qa_testroom qa_testroom_2"
+                },
+                "description_loc": {
+                    "english": "PCSTG2"
+                },
+                "description": "PCSTG2"
             }
         },
         "uselaunchcommandline": "1"
@@ -671,7 +686,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 20723944,
-    "_sha": "75a2c6fa9dc4e5895792ade4d9f3b7c4cbbc71da",
-    "_size": 18952
+    "_change_number": 20728653,
+    "_sha": "c20402e51baee4c308b5d21c8d2677e2352d1dc6",
+    "_size": 19320
 }
