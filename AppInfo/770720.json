@@ -259,7 +259,7 @@
             },
             "29": {
                 "executable": "bin\\win_x64_steam_release\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stage",
+                "arguments": "+online_account_client_settings stage2 -online_server_port 61091 +sys_dump_type 3 +online_websvc_enable_tls 0",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -686,7 +686,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 20728653,
-    "_sha": "c20402e51baee4c308b5d21c8d2677e2352d1dc6",
-    "_size": 19320
+    "_change_number": 20729618,
+    "_sha": "df4dc7322735cbdcfe9e499d9cf92f6a5ec5db53",
+    "_size": 19392
 }
