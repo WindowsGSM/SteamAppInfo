@@ -75,20 +75,6 @@
                 },
                 "description": "PCSTG"
             },
-            "3": {
-                "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings yellow +online_websvc_skip_tls_cert_validation 1",
-                "type": "option3",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "qa_testroom latest"
-                },
-                "description_loc": {
-                    "english": "Alice Farm Room"
-                },
-                "description": "Alice Farm Room"
-            },
             "9": {
                 "executable": "hunt.exe",
                 "arguments": "+online_account_client_settings blue +online_websvc_skip_tls_cert_validation 1",
@@ -117,34 +103,6 @@
                 },
                 "description": "MPQA2"
             },
-            "12": {
-                "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings local +online_websvc_skip_tls_cert_validation 1",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "qa_testroom latest teamtest latest_lwp"
-                },
-                "description_loc": {
-                    "english": "Local"
-                },
-                "description": "Local"
-            },
-            "13": {
-                "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings test +online_websvc_skip_tls_cert_validation 1",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "qa_testroom latest teamtest latest_lwp"
-                },
-                "description_loc": {
-                    "english": "Prod machine"
-                },
-                "description": "Prod machine"
-            },
             "14": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
                 "arguments": "+online_account_client_settings stage",
@@ -158,20 +116,6 @@
                     "english": "STGDSN"
                 },
                 "description": "STGDSN"
-            },
-            "15": {
-                "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings stage_cloud",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "qa_testroom"
-                },
-                "description_loc": {
-                    "english": "CLTST"
-                },
-                "description": "CLTST"
             },
             "16": {
                 "executable": "hunt.exe",
@@ -686,7 +630,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 20745401,
-    "_sha": "06874ea0176b37cf56a876037693c7ed9bce5bae",
-    "_size": 19532
+    "_change_number": 20745930,
+    "_sha": "c53ce0e62faa0f265073991f4e7997b8e9647d06",
+    "_size": 18062
 }
