@@ -230,7 +230,7 @@
                 "description": "PCSTG2"
             },
             "31": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
+                "executable": "bin\\win_x64_steam_release\\HuntGame.exe",
                 "arguments": "+online_account_client_settings stage_external +sys_dump_type 2",
                 "config": {
                     "oslist": "windows",
@@ -314,9 +314,9 @@
                     "download": "D68B51FC9BA1BE4EE76B923C1C50E80A"
                 },
                 "latest": {
-                    "gid": "A67BE79B8143E95478185D25B8436710",
-                    "size": "B289E5336F51326B5DED8ADEA7DE6A83",
-                    "download": "C7375B416EA5CF10F4E1CDEDB901BBAD"
+                    "gid": "58336A177E4BE7FA1786B17E9163FD13",
+                    "size": "11F0A0A2C85B1EA5E5C7E22DF717E3FB",
+                    "download": "65E5E01365DA9F8F238670031BF73FD6"
                 },
                 "latest_lwp": {
                     "gid": "0A1CC932949EC3642211C5EDDBB16A26",
@@ -394,9 +394,9 @@
                     "download": "C585FD3C240CF84782DD0A8A2A808955"
                 },
                 "latest": {
-                    "gid": "CA7E0157FCCD46770DF672043DA8E8D5",
-                    "size": "F841F9B0E690C6E58FD6E5AC4C3E6F69",
-                    "download": "8C07331550ECBED212959D2F940D67A1"
+                    "gid": "5112B6AC753FC4647EFF2DE4EF6C5D2E",
+                    "size": "AFA5FB41C63A1D9CF38C3CA01CC26F67",
+                    "download": "D37B9102EAB0F8C25A2F315273F4FD55"
                 },
                 "latest_lwp": {
                     "gid": "B7C3803C726094AFF68F747879C9B086",
@@ -474,9 +474,9 @@
                     "download": "9D29EBD1B0CEE794C86CCFE36917D8A7"
                 },
                 "latest": {
-                    "gid": "FCB3C9B56DD8461F7D7AE75A7C889430",
-                    "size": "2708D63F8711F4DB060457666A35E254",
-                    "download": "BE54848223F89BA4CA018E226089B0E0"
+                    "gid": "202344D1CDEB57EDEAB79EB1729255CE",
+                    "size": "5FF59636441E8774851FCE75358FC5AF",
+                    "download": "6F0C5D474C53332099862B57EC56F534"
                 },
                 "latest_lwp": {
                     "gid": "27E7BA5C805F96A70EF6D7EA23F386EC",
@@ -626,9 +626,9 @@
                 "timeupdated": "1697805968"
             },
             "latest": {
-                "buildid": "12492227",
+                "buildid": "12493166",
                 "pwdrequired": "1",
-                "timeupdated": "1697800815"
+                "timeupdated": "1697807310"
             },
             "latest_lwp": {
                 "buildid": "10520262",
@@ -668,7 +668,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 20764945,
-    "_sha": "0abeba147d5172821f5e765881bf787b73194038",
-    "_size": 19215
+    "_change_number": 20765276,
+    "_sha": "743c6510c5551dddae1b765d6b3c937554c17104",
+    "_size": 19229
 }
