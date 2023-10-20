@@ -228,6 +228,19 @@
                     "english": "PCSTG2"
                 },
                 "description": "PCSTG2"
+            },
+            "31": {
+                "executable": "bin\\win_x64\\HuntGame.exe",
+                "arguments": "+online_account_client_settings stage_external +sys_dump_type 2",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "dev_engine"
+                },
+                "description_loc": {
+                    "english": "dev_engine"
+                },
+                "description": "dev_engine"
             }
         },
         "uselaunchcommandline": "1"
@@ -655,7 +668,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 20764898,
-    "_sha": "bcd089124b980a93d16e45154ac19f91b1be3f98",
-    "_size": 18873
+    "_change_number": 20764945,
+    "_sha": "0abeba147d5172821f5e765881bf787b73194038",
+    "_size": 19215
 }
