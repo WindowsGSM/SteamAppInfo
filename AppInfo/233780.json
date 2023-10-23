@@ -315,7 +315,16 @@
                 }
             }
         },
-        "233799": {},
+        "233799": {
+            "manifests": {},
+            "encryptedmanifests": {
+                "cdlc_private_beta_server": {
+                    "gid": "FD71AD7B48295F6A004097D9BF2FD0CE",
+                    "size": "724FC5FB8ECCE161B5187B1960834585",
+                    "download": "D2A699270539B556B58346141D5737B6"
+                }
+            }
+        },
         "233787": {
             "manifests": {
                 "public": {
@@ -354,9 +363,9 @@
                 "timeupdated": "1695129930"
             },
             "cdlc_private_beta_server": {
-                "buildid": "12403206",
+                "buildid": "12508749",
                 "pwdrequired": "1",
-                "timeupdated": "1696940502"
+                "timeupdated": "1698049096"
             },
             "contact": {
                 "buildid": "12190900",
@@ -391,7 +400,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 20730359,
-    "_sha": "544e42d457ec205536a9a281af6af715c382c9bd",
-    "_size": 9564
+    "_change_number": 20791784,
+    "_sha": "83e9ffb3d33a1ca3653a391f2cbf1b19d062e44c",
+    "_size": 9813
 }
