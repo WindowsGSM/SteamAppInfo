@@ -39,7 +39,6 @@
         }
     },
     "depots": {
-        "overridescddb": "1",
         "1004": {
             "config": {
                 "oslist": "windows"
@@ -86,6 +85,21 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
         "293031": {
             "systemdefined": "1",
             "config": {
@@ -179,7 +193,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 20818506,
-    "_sha": "144452202759cc94215f6aeec911e6948a7920e5",
-    "_size": 3951
+    "_change_number": 20877853,
+    "_sha": "ac24a21a12ec2c8c778f7c06ad424ecdcd0ff1ab",
+    "_size": 4185
 }
