@@ -109,14 +109,14 @@
         "869801": {
             "manifests": {
                 "public": {
+                    "gid": "8446073245010204144",
+                    "size": "7177219072",
+                    "download": "2673922048"
+                },
+                "revert": {
                     "gid": "8082605970426566581",
                     "size": "7058131551",
                     "download": "2658385584"
-                },
-                "revert": {
-                    "gid": "2171950913400451764",
-                    "size": "7056741488",
-                    "download": "2657080528"
                 },
                 "upcoming": {
                     "gid": "8446073245010204144",
@@ -138,14 +138,14 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "1343519055340298958",
+                    "size": "54829384",
+                    "download": "18850736"
+                },
+                "revert": {
                     "gid": "7848514237840587071",
                     "size": "55072995",
                     "download": "18910240"
-                },
-                "revert": {
-                    "gid": "6418320277203611986",
-                    "size": "55044835",
-                    "download": "18904768"
                 },
                 "upcoming": {
                     "gid": "1343519055340298958",
@@ -167,14 +167,14 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "6904553676615771599",
+                    "size": "106531911",
+                    "download": "28376688"
+                },
+                "revert": {
                     "gid": "3267044232639901950",
                     "size": "107567648",
                     "download": "28602944"
-                },
-                "revert": {
-                    "gid": "5637502637363727630",
-                    "size": "107558586",
-                    "download": "28596544"
                 },
                 "upcoming": {
                     "gid": "6904553676615771599",
@@ -193,8 +193,8 @@
         "869804": {},
         "branches": {
             "public": {
-                "buildid": "12149235",
-                "timeupdated": "1694259919"
+                "buildid": "12566006",
+                "timeupdated": "1698598787"
             },
             "prerelease": {
                 "buildid": "12566006",
@@ -202,9 +202,9 @@
                 "timeupdated": "1698598489"
             },
             "revert": {
-                "buildid": "11819192",
+                "buildid": "12149235",
                 "description": "Previous patch",
-                "timeupdated": "1694259910"
+                "timeupdated": "1698598779"
             },
             "upcoming": {
                 "buildid": "12566006",
@@ -214,7 +214,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 20890001,
-    "_sha": "a21d7fb7ad1d58064486bdc0a143739962512b32",
+    "_change_number": 20890030,
+    "_sha": "599e740d16ac912c8e007386132226fd4324fdd5",
     "_size": 4917
 }
