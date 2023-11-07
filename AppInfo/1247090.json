@@ -97,14 +97,14 @@
                     "gid": "2501726805906749012",
                     "size": "1307504969",
                     "download": "279342368"
-                },
-                "experimental": {
-                    "gid": "2745788882546873359",
-                    "size": "1307499443",
-                    "download": "279340048"
                 }
             },
             "encryptedmanifests": {
+                "experimental": {
+                    "gid": "6FC2FB0CB98EC15E113AC581A4D7D9E8",
+                    "size": "20C006411B926F80AF160A50DC2EF46F",
+                    "download": "64CB8B181533A25887D390BE5B3ECEAD"
+                },
                 "major-testing": {
                     "gid": "B3DC3B37573F839FF60528A909DC37D1",
                     "size": "0756969305C3181EF2E5014344BAA348",
@@ -124,7 +124,7 @@
             },
             "experimental": {
                 "buildid": "12565065",
-                "description": "Experimental Branch for Testing",
+                "pwdrequired": "1",
                 "timeupdated": "1698579854"
             },
             "major-testing": {
@@ -140,7 +140,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 21008476,
-    "_sha": "2b487798d77739510f576fc09ba095a73927a13c",
-    "_size": 2950
+    "_change_number": 21010240,
+    "_sha": "3ab51ae586bc679662ed8b185f01dc94030d29d9",
+    "_size": 2978
 }
