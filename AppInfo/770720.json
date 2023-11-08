@@ -217,7 +217,7 @@
             },
             "30": {
                 "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings stage2Servers ",
+                "arguments": "+online_account_client_settings stageExternalServers",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -693,7 +693,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 21026511,
-    "_sha": "49c637d3017d48c6ba0a60ffd4b24c3d913e80db",
-    "_size": 19927
+    "_change_number": 21026745,
+    "_sha": "a39027cb672e461eb3db36539d9257cd08783d28",
+    "_size": 19933
 }
