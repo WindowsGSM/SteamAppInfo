@@ -217,12 +217,12 @@
             },
             "30": {
                 "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings stage2Servers -online_server capi-pcstg02.huntshowdown.com -online_server_port 61091 +sys_dump_type 3 +online_websvc_enable_tls 0 +online_news_server news-pcstg02.huntshowdown.com:5011",
+                "arguments": "+online_account_client_settings stage2Servers -online_server capi-pcstg02.huntshowdown.com -online_server_port 61091 +sys_dump_type 3 +online_websvc_enable_tls 0 +online_news_server news-pcstg02.huntshowdown.com",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom qa_testroom_2"
+                    "betakey": "qa_testroom qa_testroom_2 rc_test"
                 },
                 "description_loc": {
                     "english": "PCSTG2"
@@ -348,6 +348,11 @@
                     "size": "38CE0B4BB27ED7395F4632F2E46E0F72",
                     "download": "0DD3A593DD17573277396A49E6DCD671"
                 },
+                "rc_test": {
+                    "gid": "14AD51DD116461EFBB9CCC6BCD3F7D31",
+                    "size": "272A7783F61F410CD9738F158F772500",
+                    "download": "92523033AF3B42B066FD51AA52A89794"
+                },
                 "ui_3.0": {
                     "gid": "7920B71AC5E3D5D79F6C3198017566B0",
                     "size": "6CDE8662CCF7703EE96BA1BD156E706B",
@@ -427,6 +432,11 @@
                     "gid": "F0612F3D5FCC8454A1A2221338E16F36",
                     "size": "D3F56D02FC0EAB4285ED539A9A567B09",
                     "download": "351CDAF32A98C520C70D8A4249FFF388"
+                },
+                "rc_test": {
+                    "gid": "9436D90B1D9D2E0A6B539E69D92FCF49",
+                    "size": "EBBE6A6B759CD15195E892165D8071A9",
+                    "download": "A7E06B921638A604A3F3642FB97D9BE3"
                 },
                 "ui_3.0": {
                     "gid": "92E646EACEFC20FB9858988C41A19042",
@@ -508,6 +518,11 @@
                     "size": "97EB3410006B83D1175E90D6CA4CCA6B",
                     "download": "B3F020F2E516F8D136887F78545B5E20"
                 },
+                "rc_test": {
+                    "gid": "6EE1D30FC0BDB467C3BCEA2A4DCFB997",
+                    "size": "6D4175B4EB43A146F5351B65E3AAAA1F",
+                    "download": "282E6B2D222A3638FA1F6F6A8E241C24"
+                },
                 "ui_3.0": {
                     "gid": "55854C2E2059E2A73A8FA1A740DD3514",
                     "size": "455102310D1D8A0944EE78F2EA1CE4CD",
@@ -588,6 +603,11 @@
                     "size": "710CC5677DD8A9052796174425433B94",
                     "download": "710CC5677DD8A9052796174425433B94"
                 },
+                "rc_test": {
+                    "gid": "528C1BAC9F8610C51B2D688824DCE35B",
+                    "size": "083D4A1664036515CFF077F68CA07241",
+                    "download": "083D4A1664036515CFF077F68CA07241"
+                },
                 "ui_3.0": {
                     "gid": "6C23158A99E1EEF59D92FFF44D5E2501",
                     "size": "A09FDD471B2948789F26426A52AF82B3",
@@ -660,6 +680,11 @@
                 "pwdrequired": "1",
                 "timeupdated": "1699430734"
             },
+            "rc_test": {
+                "buildid": "12638747",
+                "pwdrequired": "1",
+                "timeupdated": "1699431610"
+            },
             "ui_3.0": {
                 "buildid": "12639664",
                 "pwdrequired": "1",
@@ -668,7 +693,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 21024806,
-    "_sha": "8b3ac8230ec02c8aa9cc75c71a97e4f83800cef4",
-    "_size": 19293
+    "_change_number": 21025115,
+    "_sha": "12c15a9c3692a6ce161ce185053073de459d28ce",
+    "_size": 20092
 }
