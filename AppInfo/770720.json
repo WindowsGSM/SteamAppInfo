@@ -217,7 +217,7 @@
             },
             "30": {
                 "executable": "hunt.exe",
-                "arguments": "online_account_client_settings blah -online_server capi-pcstg02.huntshowdown.com -online_server_port 61091 +sys_dump_type 3 +online_websvc_enable_tls 0",
+                "arguments": "online_account_client_settings blah -online_server capi-pcstg02.huntshowdown.com -online_server_port 61091 +sys_dump_type 3",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -693,7 +693,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 21030124,
-    "_sha": "1f45df0f1b6da621c1dcb31219b62500f747e0e2",
-    "_size": 20032
+    "_change_number": 21030238,
+    "_sha": "d44d39a056878470280268e2e42a29f98b3a20cd",
+    "_size": 20004
 }
