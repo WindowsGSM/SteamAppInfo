@@ -217,7 +217,7 @@
             },
             "30": {
                 "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings stage2Servers -online_server capi-pcstg02.huntshowdown.com -online_server_port 61091 +online_news_server news-pcstg02.huntshowdown.com  +online_news_server_port 5011",
+                "arguments": "+online_account_client_settings stage2Servers ",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -354,9 +354,9 @@
                     "download": "92523033AF3B42B066FD51AA52A89794"
                 },
                 "ui_3.0": {
-                    "gid": "7920B71AC5E3D5D79F6C3198017566B0",
-                    "size": "6CDE8662CCF7703EE96BA1BD156E706B",
-                    "download": "15223456092EF1FB69A06E30C0F34B63"
+                    "gid": "A55C20B455821999DB52F1DC3B67BB4D",
+                    "size": "0D2DD3824650EB0B4EDE0C5D7C0E3003",
+                    "download": "A8EB42C2236D7D2CD53A898C1DF718DF"
                 }
             }
         },
@@ -439,9 +439,9 @@
                     "download": "A7E06B921638A604A3F3642FB97D9BE3"
                 },
                 "ui_3.0": {
-                    "gid": "92E646EACEFC20FB9858988C41A19042",
-                    "size": "4A46A111E3B919893B882CC15637EB15",
-                    "download": "BE932C8D2EB78FC38DF66E6D61E83131"
+                    "gid": "8A6203AFD30C06381CC626412032FE2C",
+                    "size": "9ECB0EA0F2A9D8966C3F27E349F00CE4",
+                    "download": "40D44D303742638FEA4B2359A3A077B3"
                 }
             }
         },
@@ -524,9 +524,9 @@
                     "download": "282E6B2D222A3638FA1F6F6A8E241C24"
                 },
                 "ui_3.0": {
-                    "gid": "55854C2E2059E2A73A8FA1A740DD3514",
+                    "gid": "A4D7DB6B91E1AD4C2A6B6F36A07287F6",
                     "size": "455102310D1D8A0944EE78F2EA1CE4CD",
-                    "download": "F51107A79A5947416CE1E78DD06ED2AE"
+                    "download": "AC1A8A4DE0DF7B3542E10D68DAB11F49"
                 }
             }
         },
@@ -686,14 +686,14 @@
                 "timeupdated": "1699431610"
             },
             "ui_3.0": {
-                "buildid": "12639664",
+                "buildid": "12648942",
                 "pwdrequired": "1",
-                "timeupdated": "1699359443"
+                "timeupdated": "1699437761"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 21026161,
-    "_sha": "6e63dd64acb0561a4dea37fdcad7788b43f10524",
-    "_size": 20078
+    "_change_number": 21026511,
+    "_sha": "49c637d3017d48c6ba0a60ffd4b24c3d913e80db",
+    "_size": 19927
 }
