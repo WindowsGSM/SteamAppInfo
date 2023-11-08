@@ -217,7 +217,7 @@
             },
             "30": {
                 "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings stage2Servers -online_server capi-pcstg02.huntshowdown.com -online_server_port 61091 -online_news_server_port 5011",
+                "arguments": "+online_account_client_settings stage2Servers -online_server capi-pcstg02.huntshowdown.com -online_server_port 61091 +online_news_server news-pcstg02.huntshowdown.com  +online_news_server_port 5011",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -693,7 +693,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 21026035,
-    "_sha": "0177a3f2a9525e1aadf532f88aa0225d25336e9e",
-    "_size": 20027
+    "_change_number": 21026161,
+    "_sha": "6e63dd64acb0561a4dea37fdcad7788b43f10524",
+    "_size": 20078
 }
