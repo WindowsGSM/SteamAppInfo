@@ -110,7 +110,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom qa_testroom_2 latest teamtest latest_lwp gamesweek scripted_tutorial 115_external"
+                    "betakey": "qa_testroom qa_testroom_2 latest teamtest latest_lwp gamesweek scripted_tutorial"
                 },
                 "description_loc": {
                     "english": "STGDSN"
@@ -241,6 +241,20 @@
                     "english": "dev_engine"
                 },
                 "description": "dev_engine"
+            },
+            "32": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings stage",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "115_external"
+                },
+                "description_loc": {
+                    "english": "115_external"
+                },
+                "description": "115_external"
             }
         },
         "uselaunchcommandline": "1"
@@ -668,7 +682,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 21123214,
-    "_sha": "f05456cf71896d8db21f4bea97f824815b9cf54d",
-    "_size": 19089
+    "_change_number": 21125106,
+    "_sha": "1311815e0dec5944614b8897c549f26f10b1c6f0",
+    "_size": 19402
 }
