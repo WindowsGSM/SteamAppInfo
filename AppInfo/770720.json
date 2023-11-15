@@ -244,7 +244,7 @@
             },
             "32": {
                 "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings stage +sys_dump_type 3",
+                "arguments": "+online_account_client_settings stage +sys_dump_type 2",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -682,7 +682,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 21126609,
-    "_sha": "51e15e16621c570844ff1e33f70755227301dbfa",
+    "_change_number": 21128205,
+    "_sha": "4a7d7563096440b8d337adcaebe9b0bf0ed02b65",
     "_size": 19419
 }
