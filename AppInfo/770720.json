@@ -245,7 +245,7 @@
             },
             "33": {
                 "executable": "bin\\win_x64_steam_release\\HuntGame.exe",
-                "arguments": "online_account_client_settings blah -online_server capi-pcstg02.huntshowdown.com -online_server_port 61091 +online_websvc_enable_tls 0 +online_websvc_skip_tls_cert_validation 1",
+                "arguments": "online_account_client_settings blah -online_server capi-pcstg02.huntshowdown.com -online_server_port 61091 +online_websvc_enable_tls 0 +online_websvc_skip_tls_cert_validation 1 +online_news_server news-pcstg02.huntshowdown.com +online_news_server_port 5011",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -683,7 +683,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 21144501,
-    "_sha": "2dccbe132f8a1286c8e744e717a6f34a597215d6",
-    "_size": 19554
+    "_change_number": 21144628,
+    "_sha": "61ed57543e9ddb52d4a7aec9191d0090d78d156c",
+    "_size": 19634
 }
