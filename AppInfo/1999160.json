@@ -29,6 +29,45 @@
         }
     },
     "depots": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1923798258558304932",
+                    "size": "44194776",
+                    "download": "13804528"
+                }
+            },
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4884950798805348056",
+                    "size": "73781292",
+                    "download": "20270768"
+                }
+            },
+            "depotfromapp": "1007"
+        },
         "1999161": {
             "config": {
                 "oslist": "windows",
@@ -36,14 +75,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6150593474521895866",
-                    "size": "3027280564",
-                    "download": "1941200832"
+                    "gid": "8986984035518135444",
+                    "size": "3027281510",
+                    "download": "1941200480"
                 },
                 "development": {
-                    "gid": "6150593474521895866",
-                    "size": "3027280564",
-                    "download": "1941200832"
+                    "gid": "8986984035518135444",
+                    "size": "3027281510",
+                    "download": "1941200480"
                 }
             },
             "encryptedmanifests": {
@@ -66,13 +105,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "12771325",
-                "timeupdated": "1700661063"
+                "buildid": "12772081",
+                "timeupdated": "1700664281"
             },
             "development": {
-                "buildid": "12771325",
+                "buildid": "12772081",
                 "description": "Private development branch",
-                "timeupdated": "1700658931"
+                "timeupdated": "1700664075"
             },
             "integration": {
                 "buildid": "12683978",
@@ -92,7 +131,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 21231658,
-    "_sha": "fe6324d4bb8013c3a7e1f81d8843e3df36cb1d7a",
-    "_size": 2151
+    "_change_number": 21232473,
+    "_sha": "bf3f6a251fc5af64fbcf6f040c4118cf2e502e98",
+    "_size": 2808
 }
