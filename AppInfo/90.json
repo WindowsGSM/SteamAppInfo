@@ -58,6 +58,18 @@
                     "gid": "8690279432129063737",
                     "size": "25737094",
                     "download": "8090192"
+                },
+                "steam_legacy": {
+                    "gid": "8690279432129063737",
+                    "size": "25737094",
+                    "download": "8090192"
+                }
+            },
+            "encryptedmanifests": {
+                "test": {
+                    "gid": "B2DBFF1B15BD51CBEF5A2595D591A600",
+                    "size": "6004571C8B8070A15F209FD58D0C908D",
+                    "download": "FCAD3AA8F2EFDD0222378ABF56EF2690"
                 }
             }
         },
@@ -75,6 +87,18 @@
                     "gid": "1292976893473204445",
                     "size": "12788205",
                     "download": "4814512"
+                },
+                "steam_legacy": {
+                    "gid": "1292976893473204445",
+                    "size": "12788205",
+                    "download": "4814512"
+                }
+            },
+            "encryptedmanifests": {
+                "test": {
+                    "gid": "912498C01091FF0E8A1B53990C925353",
+                    "size": "8C9205861B20217C9F7738E85CC3816C",
+                    "download": "04F0197647EE6CEFC343FC365E95C6C8"
                 }
             }
         },
@@ -182,11 +206,21 @@
             "beta": {
                 "buildid": "5433925",
                 "timeupdated": "1597870506"
+            },
+            "steam_legacy": {
+                "buildid": "5433925",
+                "description": "Pre-25th Anniversary Build",
+                "timeupdated": "1700620170"
+            },
+            "test": {
+                "buildid": "12766780",
+                "pwdrequired": "1",
+                "timeupdated": "1700620843"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 20307700,
-    "_sha": "b709b542b4c6c784e49124e1c49abca37b5b23dc",
-    "_size": 3158
+    "_change_number": 21223282,
+    "_sha": "61fd7be4a76151b54d3cd2fd891b66f20ad57b6c",
+    "_size": 4032
 }
