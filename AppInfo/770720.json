@@ -222,7 +222,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom qa_testroom_2 rc_check"
+                    "betakey": "qa_testroom qa_testroom_2"
                 },
                 "description_loc": {
                     "english": "PCSTG2"
@@ -256,6 +256,20 @@
                     "english": "dev_engine"
                 },
                 "description": "dev_engine"
+            },
+            "34": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings stage",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "rc_check"
+                },
+                "description_loc": {
+                    "english": "rc_check"
+                },
+                "description": "rc_check"
             }
         },
         "uselaunchcommandline": "1"
@@ -369,9 +383,9 @@
                     "download": "69D177CF7D4BC73B81360A1EDB0B75DA"
                 },
                 "rc_check": {
-                    "gid": "77A24D10F09FF4E9B2961ED1B4F577A0",
-                    "size": "A17B54C6A5231BB465F813E01D765D47",
-                    "download": "E8A5CB921B373E3CE0BA3345B6245503"
+                    "gid": "7B96805272BCD117BAFE4D6A7FE1E332",
+                    "size": "DBE92C0B43008D74132EB0DE85C2698E",
+                    "download": "4181DFBAE28A6DEFDC91C36C14728E93"
                 },
                 "ui_3.0": {
                     "gid": "26A14B08D671C7E52B10AA653F6F4F55",
@@ -459,9 +473,9 @@
                     "download": "4FE7952A4E2244E0F6FC79476BBC028B"
                 },
                 "rc_check": {
-                    "gid": "587CC7F3DE4AE5C6144324A68ADCEA02",
-                    "size": "37AF9DBE06A36A6D697E8B9C8D068B11",
-                    "download": "E09FD354DB4035C539EDE78E900331C1"
+                    "gid": "680EEC29C281E970C224A4EF9DCF19F4",
+                    "size": "F17BD6CD5030C69B021441AB084EF48F",
+                    "download": "E462E6C8098DC2B74ED285B6C8F99D00"
                 },
                 "ui_3.0": {
                     "gid": "6D6C4D332BC7E45F84F52D1BED97EE9B",
@@ -549,8 +563,8 @@
                     "download": "06662689A067CFB805BD6FE85B432E26"
                 },
                 "rc_check": {
-                    "gid": "5A6D5DD38DA33B4861112C989BBB304F",
-                    "size": "2D9F86FDF37814E3A4BF776E28376909",
+                    "gid": "FE6098B1C2CFDC0769CBEB278F15A7D5",
+                    "size": "AD1E680C97A49BC9D22B59C57C003E14",
                     "download": "5D0277CE4BB9766DDA7DA0F719BFE727"
                 },
                 "ui_3.0": {
@@ -721,9 +735,9 @@
                 "timeupdated": "1700726899"
             },
             "rc_check": {
-                "buildid": "12767341",
+                "buildid": "12777900",
                 "pwdrequired": "1",
-                "timeupdated": "1700735446"
+                "timeupdated": "1700745022"
             },
             "ui_3.0": {
                 "buildid": "12761265",
@@ -733,7 +747,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 21247583,
-    "_sha": "8a9fd467cca07fc3beaf587a50f7d35cf8f7f6f9",
-    "_size": 21127
+    "_change_number": 21248415,
+    "_sha": "6b4804c4ead43cd7a30239d60d58f5676ae94047",
+    "_size": 21432
 }
