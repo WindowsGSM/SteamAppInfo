@@ -153,6 +153,11 @@
                     "size": "28512706",
                     "download": "4655824"
                 },
+                "2.3.0": {
+                    "gid": "4097679371095034456",
+                    "size": "28765280",
+                    "download": "4680256"
+                },
                 "beta": {
                     "gid": "9141718418937731824",
                     "size": "36811022",
@@ -166,9 +171,9 @@
             },
             "encryptedmanifests": {
                 "internal-beta": {
-                    "gid": "B234AE6786166CA589C44483EE836E4B",
-                    "size": "122D4BF66711D4BBFC0D2B4C21CB4D01",
-                    "download": "2EF7B4A4C3B327F8E7AE4583C692E9E5"
+                    "gid": "D67E838D8002B459E6E2A1A96BD02833",
+                    "size": "BE1F6B90D9F12A3502FAACC8126EB375",
+                    "download": "175959F0F9EFB9A966494B476698CDD3"
                 },
                 "internal-testing": {
                     "gid": "24AB3E199C752621A3B77E552283081E",
@@ -253,6 +258,11 @@
                     "size": "40380335",
                     "download": "11589984"
                 },
+                "2.3.0": {
+                    "gid": "7672680757531774323",
+                    "size": "40423343",
+                    "download": "11606032"
+                },
                 "beta": {
                     "gid": "2771734068954563354",
                     "size": "39953181",
@@ -266,9 +276,9 @@
             },
             "encryptedmanifests": {
                 "internal-beta": {
-                    "gid": "10ED982D970A2FDC460051E8483DCF86",
-                    "size": "385CE7900840C7EA61C7B28F2728BDF9",
-                    "download": "A07B61466F2D99D2FDFA339B9BC72376"
+                    "gid": "6000C6E2F2869004E65E9852FFD190B7",
+                    "size": "42BBFB55F0CFE26C5C7147D2E520C992",
+                    "download": "18DE36DFBD6F17BD1D27354DB7D02358"
                 },
                 "internal-testing": {
                     "gid": "CD64330E52DD2D919FCFBB228EBF6BDE",
@@ -353,6 +363,11 @@
                     "size": "35766611",
                     "download": "9637984"
                 },
+                "2.3.0": {
+                    "gid": "145351067362751798",
+                    "size": "35815731",
+                    "download": "9651680"
+                },
                 "beta": {
                     "gid": "9084795450347724917",
                     "size": "71390145",
@@ -366,9 +381,9 @@
             },
             "encryptedmanifests": {
                 "internal-beta": {
-                    "gid": "6B1E7C9F8D30E5B5AFA477D4579E2A1D",
-                    "size": "84B27ED0A4C9A6223BAD270AD885CE25",
-                    "download": "4ABDD32B7E31548FF4826EA0C5CF6C5A"
+                    "gid": "A48F104F54FF876A3B82FFB0B6828C9F",
+                    "size": "3A186B18ED56A48C89465466614FE0C1",
+                    "download": "97CF2A5B84EBD0F0443EFDDB0426C64C"
                 },
                 "internal-testing": {
                     "gid": "15DDCF09170FE4E0904ED878613A3E50",
@@ -453,6 +468,11 @@
                     "size": "53346392",
                     "download": "11927328"
                 },
+                "2.3.0": {
+                    "gid": "6740573632492581338",
+                    "size": "53426488",
+                    "download": "11946704"
+                },
                 "beta": {
                     "gid": "1946871207198499835",
                     "size": "51969724",
@@ -466,9 +486,9 @@
             },
             "encryptedmanifests": {
                 "internal-beta": {
-                    "gid": "A027625E073ABB17C92AC78B1689072E",
-                    "size": "73F110D8EAB851D7BF010017A3C3BB98",
-                    "download": "3A46E2F7308623A90ECB8C77503BBB8E"
+                    "gid": "C5EC261FF7EBD6F857C5D27DE35B09FD",
+                    "size": "4A8B23106BC87C0838C40C7001EC6763",
+                    "download": "40E4E01427F6EC3128F87848AB8CA09B"
                 },
                 "internal-testing": {
                     "gid": "33D34EA53EF9FCD55615427958FDE5AB",
@@ -547,15 +567,20 @@
                 "description": "2.2.2 - Into The Rift",
                 "timeupdated": "1674126654"
             },
+            "2.3.0": {
+                "buildid": "10009509",
+                "description": "2.3 new maintenance command & more",
+                "timeupdated": "1700747313"
+            },
             "beta": {
                 "buildid": "12751231",
                 "description": "Beta Branch - Newest Changes & Experimental Features",
                 "timeupdated": "1700496533"
             },
             "internal-beta": {
-                "buildid": "12759808",
+                "buildid": "12781026",
                 "pwdrequired": "1",
-                "timeupdated": "1700570694"
+                "timeupdated": "1700747100"
             },
             "internal-testing": {
                 "buildid": "12759808",
@@ -579,7 +604,7 @@
         "maxnumfiles": "10000"
     },
     "_missing_token": false,
-    "_change_number": 21211341,
-    "_sha": "c7c20ba8e9e9f4c3e83966c351ad5a2e7bcc8fc4",
-    "_size": 13346
+    "_change_number": 21248879,
+    "_sha": "e5417ed7829559b89deafb3aff6feae982bf2aa4",
+    "_size": 13918
 }
