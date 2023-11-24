@@ -68,7 +68,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom qa_testroom_2 mkt_recording backend_test ui_3.0"
+                    "betakey": "qa_testroom qa_testroom_2 mkt_recording backend_test"
                 },
                 "description_loc": {
                     "english": "PCSTG"
@@ -203,11 +203,12 @@
             },
             "29": {
                 "executable": "bin\\win_x64_steam_release\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stage2 -online_server capi-pcstg02.huntshowdown.com -online_server_port 61091",
+                "arguments": "+online_account_client_settings blah",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
-                    "osarch": "64"
+                    "osarch": "64",
+                    "betakey": "ui_3.0"
                 },
                 "description_loc": {
                     "english": "ui_3.0"
@@ -248,7 +249,8 @@
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
-                    "osarch": "64"
+                    "osarch": "64",
+                    "betakey": "nothing"
                 },
                 "description_loc": {
                     "english": "dev_engine"
@@ -351,9 +353,9 @@
                     "download": "6073A7136B00734FD1865BCD543F6F61"
                 },
                 "latest": {
-                    "gid": "ABA28CF85159CB6728E6F0CCBD0AC246",
-                    "size": "485B3219215DF6B4E18B27B218E7C101",
-                    "download": "EDF6B46FBEC905B88FD7D95D95C8746A"
+                    "gid": "D772653C494CB8346FD42DCEB2F0D88E",
+                    "size": "4AF3E41C854054152BA9FA39C25F75F8",
+                    "download": "85789128FBFB6D0ADF0A416BD8E37029"
                 },
                 "latest_lwp": {
                     "gid": "C214D3D43772EB02626ABFC14CF443D2",
@@ -446,9 +448,9 @@
                     "download": "8075EFAA11467F446DDF03C8F39908DB"
                 },
                 "latest": {
-                    "gid": "EDEB705A8FEFD1C3AEAD4B03C3EE4188",
-                    "size": "96BA84DCC0105D3E9B8CFC6A479D19A1",
-                    "download": "4A2E61BC957E5C9B61FFC09873B46CCB"
+                    "gid": "87CC7A68B23C46FD32D62BD110EF281A",
+                    "size": "34986F3F8DC374989BC5B8ABFA8053DF",
+                    "download": "7620B80ABA69CD3A5D1F4AE05FDE840B"
                 },
                 "latest_lwp": {
                     "gid": "7680C8170C8522CE077AB4170762E0A5",
@@ -541,9 +543,9 @@
                     "download": "2AF4F1EB31803DA2582029C175034892"
                 },
                 "latest": {
-                    "gid": "A5190E20CC25EEA467B4F890DC029D51",
-                    "size": "529970493C55EBA144AEFF7C466B6965",
-                    "download": "8B10420BAB68E8F47A61C4B7AF2FE2CC"
+                    "gid": "F74895F20A1B022FCAF8F71535428D81",
+                    "size": "F0F150A5478FD3D4246E92E4D4060AF9",
+                    "download": "3EA1BAEA8116CE2EFE119FAB337D7760"
                 },
                 "latest_lwp": {
                     "gid": "67DB44220F57E40CF4CB3BF4557C90F2",
@@ -723,9 +725,9 @@
                 "timeupdated": "1700641407"
             },
             "latest": {
-                "buildid": "12792066",
+                "buildid": "12792362",
                 "pwdrequired": "1",
-                "timeupdated": "1700839867"
+                "timeupdated": "1700841946"
             },
             "latest_lwp": {
                 "buildid": "12727337",
@@ -770,7 +772,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 21265652,
-    "_sha": "1037851293df6e3189ed0ca81c4e605aa49b698e",
-    "_size": 22265
+    "_change_number": 21265941,
+    "_sha": "63bffb6760ecb2bc20c45d6a870b9cd2dd55b839",
+    "_size": 22236
 }
