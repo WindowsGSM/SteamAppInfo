@@ -301,11 +301,6 @@
                     "size": "C5309F78285D36126FB2B9065F40EA07",
                     "download": "FB7FFD3E1578BDA98A8CE5263BD95D71"
                 },
-                "performance_hotfix": {
-                    "gid": "6BB5D4A60EBCF68272F06CBA67E7E0F7",
-                    "size": "D2EC44AFEA4517FEA58A321CE7EB88FB",
-                    "download": "74FF2F9E7A67E17D920F7AF17C6335C8"
-                },
                 "squad_main": {
                     "gid": "81008E04E853900E2BB0278CC970FB0F",
                     "size": "3A1A643DC33AEE90B77E396F854BAD52",
@@ -330,6 +325,11 @@
                     "gid": "0379D217A1216252162AED3597E1A5BA",
                     "size": "A7E22080F827422A33FE654244F677A5",
                     "download": "4C1D4E2B8C218F85E6C4E04289388C63"
+                },
+                "squad_troubleshooting": {
+                    "gid": "97BEC1AEDDD2DAE76D681F7FBC1473FB",
+                    "size": "8641AE5D5571CAAAE9E760D1EBEA5BD7",
+                    "download": "788CBC67A28F1723340066A2663C0E24"
                 },
                 "tournament": {
                     "gid": "3F253CC3B47F24F1E02F6776F1FA488B",
@@ -414,11 +414,6 @@
                 "pwdrequired": "1",
                 "timeupdated": "1699554664"
             },
-            "performance_hotfix": {
-                "buildid": "9034353",
-                "pwdrequired": "1",
-                "timeupdated": "1658424372"
-            },
             "squad_previous": {
                 "buildid": "11847097",
                 "pwdrequired": "1",
@@ -429,6 +424,11 @@
                 "pwdrequired": "1",
                 "timeupdated": "1671029767"
             },
+            "squad_troubleshooting": {
+                "buildid": "12786214",
+                "pwdrequired": "1",
+                "timeupdated": "1700852817"
+            },
             "tournament": {
                 "buildid": "4298022",
                 "pwdrequired": "1",
@@ -437,7 +437,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 21257384,
-    "_sha": "502893a9e13ee335184851a6a8f78e00c690dfff",
-    "_size": 11561
+    "_change_number": 21268058,
+    "_sha": "cec07afd33a986b71740652a42ba50e1a4bc8a69",
+    "_size": 11568
 }
