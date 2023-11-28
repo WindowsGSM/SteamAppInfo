@@ -244,12 +244,12 @@
             },
             "33": {
                 "executable": "bin\\win_x64_steam_release\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stage2 -online_server capi-pcstg02.huntshowdown.com -online_server_port 61091",
+                "arguments": "+online_account_client_settings stage2",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "nothing"
+                    "betakey": "dev_engine"
                 },
                 "description_loc": {
                     "english": "dev_engine"
@@ -771,7 +771,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 21310044,
-    "_sha": "5444481ebf5839428d8258e7fbd2fd14a04a9909",
-    "_size": 22180
+    "_change_number": 21310591,
+    "_sha": "c90ed25abe3f56d9c4eceeb28c5cd092cc82f1e7",
+    "_size": 22112
 }
