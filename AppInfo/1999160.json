@@ -78,14 +78,14 @@
                     "gid": "1788226893370569910",
                     "size": "3853936934",
                     "download": "2582492032"
-                },
-                "development": {
-                    "gid": "2294047487941167686",
-                    "size": "3857133338",
-                    "download": "2583701792"
                 }
             },
             "encryptedmanifests": {
+                "development": {
+                    "gid": "7F3CBA6B94FD351E0A86C03B57518A53",
+                    "size": "BCEA6D68911837CFBAAE89CE53DFB918",
+                    "download": "54A8FA4F0D15C91640E194C02CC47ADD"
+                },
                 "integration": {
                     "gid": "08B44D54F28C2E377300D26DA8468C3B",
                     "size": "48ED7C82CC91B2DA2F370931E7D268BB",
@@ -110,7 +110,7 @@
             },
             "development": {
                 "buildid": "12842391",
-                "description": "Private development branch",
+                "pwdrequired": "1",
                 "timeupdated": "1701371779"
             },
             "integration": {
@@ -131,7 +131,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 21347955,
-    "_sha": "36f4eb44a543ef10ec4817a6bf3ad1eeefefb1b1",
-    "_size": 2808
+    "_change_number": 21348105,
+    "_sha": "4c7d292217d6be0a91fbcee3bead6d1b483fa4f3",
+    "_size": 2840
 }
