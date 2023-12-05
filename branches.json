@@ -868,9 +868,9 @@
             "timeupdated": "1695129930"
         },
         "cdlc_private_beta_server": {
-            "buildid": "12866909",
+            "buildid": "12878535",
             "pwdrequired": "1",
-            "timeupdated": "1701678426"
+            "timeupdated": "1701774555"
         },
         "contact": {
             "buildid": "12190900",
@@ -3203,8 +3203,8 @@
     },
     "565060": {
         "public": {
-            "buildid": "12806384",
-            "timeupdated": "1701085079"
+            "buildid": "12870519",
+            "timeupdated": "1701774600"
         },
         "0.28.1": {
             "buildid": "4401282",
@@ -3268,13 +3268,18 @@
         },
         "2.3.0": {
             "buildid": "10009509",
-            "description": "2.3 - new maintenance command & more",
+            "description": "2.3 - new maintenance command & more (will be disabled on 2023-12-19)",
             "timeupdated": "1700747313"
         },
         "2.3.1": {
             "buildid": "10191241",
-            "description": "2.3.1 - Memory and performance optimizations",
+            "description": "2.3.1 - Memory and performance optimizations (will be disabled on 2023-12-19)",
             "timeupdated": "1701084960"
+        },
+        "2.3.2": {
+            "buildid": "12806384",
+            "description": "2.3.2 - New maintenance command & performance optimizations",
+            "timeupdated": "1701774450"
         },
         "beta": {
             "buildid": "12751231",
@@ -3292,9 +3297,9 @@
             "timeupdated": "1700574532"
         },
         "previous": {
-            "buildid": "10191241",
+            "buildid": "12806384",
             "description": "Previous Build 2.3 - Will be disabled soon",
-            "timeupdated": "1701085054"
+            "timeupdated": "1701774495"
         },
         "server-dev": {
             "buildid": "6157678",

@@ -89,9 +89,9 @@
         "565061": {
             "manifests": {
                 "public": {
-                    "gid": "3534482532453509982",
-                    "size": "28765794",
-                    "download": "4680704"
+                    "gid": "4089791203661804353",
+                    "size": "36811372",
+                    "download": "5170064"
                 },
                 "0.28.1": {
                     "gid": "230481021285753536",
@@ -163,15 +163,20 @@
                     "size": "28767850",
                     "download": "4681552"
                 },
+                "2.3.2": {
+                    "gid": "3534482532453509982",
+                    "size": "28765794",
+                    "download": "4680704"
+                },
                 "beta": {
                     "gid": "9141718418937731824",
                     "size": "36811022",
                     "download": "5169760"
                 },
                 "previous": {
-                    "gid": "1683108628120828174",
-                    "size": "28767850",
-                    "download": "4681552"
+                    "gid": "3534482532453509982",
+                    "size": "28765794",
+                    "download": "4680704"
                 }
             },
             "encryptedmanifests": {
@@ -199,9 +204,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4188387883333160162",
-                    "size": "39882525",
-                    "download": "11517744"
+                    "gid": "5433847098839583826",
+                    "size": "39953693",
+                    "download": "11527568"
                 },
                 "0.28.1": {
                     "gid": "303978621383279334",
@@ -273,15 +278,20 @@
                     "size": "39825327",
                     "download": "11478192"
                 },
+                "2.3.2": {
+                    "gid": "4188387883333160162",
+                    "size": "39882525",
+                    "download": "11517744"
+                },
                 "beta": {
                     "gid": "2771734068954563354",
                     "size": "39953181",
                     "download": "11526896"
                 },
                 "previous": {
-                    "gid": "560718600439323219",
-                    "size": "39825327",
-                    "download": "11478192"
+                    "gid": "4188387883333160162",
+                    "size": "39882525",
+                    "download": "11517744"
                 }
             },
             "encryptedmanifests": {
@@ -309,9 +319,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9056512834666288338",
-                    "size": "71316377",
-                    "download": "19457664"
+                    "gid": "5671330788357947031",
+                    "size": "71390145",
+                    "download": "19479264"
                 },
                 "0.28.1": {
                     "gid": "4852513652725168065",
@@ -383,15 +393,20 @@
                     "size": "35078451",
                     "download": "9478976"
                 },
+                "2.3.2": {
+                    "gid": "9056512834666288338",
+                    "size": "71316377",
+                    "download": "19457664"
+                },
                 "beta": {
                     "gid": "9084795450347724917",
                     "size": "71390145",
                     "download": "19478752"
                 },
                 "previous": {
-                    "gid": "5382745339783588177",
-                    "size": "35078451",
-                    "download": "9478976"
+                    "gid": "9056512834666288338",
+                    "size": "71316377",
+                    "download": "19457664"
                 }
             },
             "encryptedmanifests": {
@@ -419,9 +434,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1547729732665893461",
-                    "size": "51855620",
-                    "download": "11778928"
+                    "gid": "3076572465467324156",
+                    "size": "51969724",
+                    "download": "11796208"
                 },
                 "0.28.1": {
                     "gid": "7227003647649554970",
@@ -493,15 +508,20 @@
                     "size": "51816816",
                     "download": "11765504"
                 },
+                "2.3.2": {
+                    "gid": "1547729732665893461",
+                    "size": "51855620",
+                    "download": "11778928"
+                },
                 "beta": {
                     "gid": "1946871207198499835",
                     "size": "51969724",
                     "download": "11797648"
                 },
                 "previous": {
-                    "gid": "2280939493499504307",
-                    "size": "51816816",
-                    "download": "11765504"
+                    "gid": "1547729732665893461",
+                    "size": "51855620",
+                    "download": "11778928"
                 }
             },
             "encryptedmanifests": {
@@ -524,8 +544,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "12806384",
-                "timeupdated": "1701085079"
+                "buildid": "12870519",
+                "timeupdated": "1701774600"
             },
             "0.28.1": {
                 "buildid": "4401282",
@@ -589,13 +609,18 @@
             },
             "2.3.0": {
                 "buildid": "10009509",
-                "description": "2.3 - new maintenance command & more",
+                "description": "2.3 - new maintenance command & more (will be disabled on 2023-12-19)",
                 "timeupdated": "1700747313"
             },
             "2.3.1": {
                 "buildid": "10191241",
-                "description": "2.3.1 - Memory and performance optimizations",
+                "description": "2.3.1 - Memory and performance optimizations (will be disabled on 2023-12-19)",
                 "timeupdated": "1701084960"
+            },
+            "2.3.2": {
+                "buildid": "12806384",
+                "description": "2.3.2 - New maintenance command & performance optimizations",
+                "timeupdated": "1701774450"
             },
             "beta": {
                 "buildid": "12751231",
@@ -613,9 +638,9 @@
                 "timeupdated": "1700574532"
             },
             "previous": {
-                "buildid": "10191241",
+                "buildid": "12806384",
                 "description": "Previous Build 2.3 - Will be disabled soon",
-                "timeupdated": "1701085054"
+                "timeupdated": "1701774495"
             },
             "server-dev": {
                 "buildid": "6157678",
@@ -629,7 +654,7 @@
         "maxnumfiles": "10000"
     },
     "_missing_token": false,
-    "_change_number": 21394477,
-    "_sha": "336fc63ece417c40a523c9cb837b3b67f60a631b",
-    "_size": 14504
+    "_change_number": 21405353,
+    "_sha": "fa050f9265df1d27ee6963aad60d0dddf5dc4f41",
+    "_size": 15171
 }
