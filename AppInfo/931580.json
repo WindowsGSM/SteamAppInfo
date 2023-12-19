@@ -61,6 +61,16 @@
                 }
             },
             "encryptedmanifests": {
+                "beta_backup1": {
+                    "gid": "8F5C3BF08BF0CB2ADBDEEDF9F500D8D1",
+                    "size": "4EEE023BF815FC1CE2B880406CEA2A79",
+                    "download": "71E5C41C745492013CC6D301EBD9FE59"
+                },
+                "beta_backup2": {
+                    "gid": "AD3552A6BFC80B5F310C4AE5A29F1839",
+                    "size": "25B390C081525CB63FDADE9A7B976BF6",
+                    "download": "3DA655780DA5C1953EF8A60AAFBECF08"
+                },
                 "candidate4testlive": {
                     "gid": "3DB1BA89168EF19F7CB993C36BEEADA6",
                     "size": "1726844A1F1CF586CB9C28F87EF09FC3",
@@ -96,6 +106,16 @@
                 }
             },
             "encryptedmanifests": {
+                "beta_backup1": {
+                    "gid": "7A14BC02123B10F25C8B7CA80C3615C1",
+                    "size": "8C4D82E08CA1815B0A729CF828E3A386",
+                    "download": "8C4D82E08CA1815B0A729CF828E3A386"
+                },
+                "beta_backup2": {
+                    "gid": "C701E0BB17A1D1F687BAC651B5213293",
+                    "size": "073A75F541448C780B886035A5733F2F",
+                    "download": "073A75F541448C780B886035A5733F2F"
+                },
                 "candidate4testlive": {
                     "gid": "260E15F5E24AF25294CDDE932FBD055F",
                     "size": "04524542102F3C358FF3FD9B8B29E93E",
@@ -123,6 +143,16 @@
                 "buildid": "12779353",
                 "timeupdated": "1700743549"
             },
+            "beta_backup1": {
+                "buildid": "12700868",
+                "pwdrequired": "1",
+                "timeupdated": "1702994019"
+            },
+            "beta_backup2": {
+                "buildid": "11993297",
+                "pwdrequired": "1",
+                "timeupdated": "1702993990"
+            },
             "candidate4testlive": {
                 "buildid": "10538631",
                 "pwdrequired": "1",
@@ -146,7 +176,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 21290565,
-    "_sha": "948f7952e9c5157f6b8d365a91de0c591277adc9",
-    "_size": 3667
+    "_change_number": 21599733,
+    "_sha": "72acb825ca513de95d67e36c978dc712047faeb3",
+    "_size": 4597
 }
