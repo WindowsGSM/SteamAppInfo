@@ -201,19 +201,6 @@
                 },
                 "description": "MPQA MAIN"
             },
-            "29": {
-                "executable": "bin\\win_x64_steam_release\\HuntGame.exe",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "ui_3.0"
-                },
-                "description_loc": {
-                    "english": "ui_3.0"
-                },
-                "description": "ui_3.0"
-            },
             "30": {
                 "executable": "hunt.exe",
                 "arguments": "+online_account_client_settings stage2 +sys_dump_type 3 +online_news_server_port 5011",
@@ -291,7 +278,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "dev_engine"
+                    "betakey": "dev_engine ui_3.0"
                 },
                 "description_loc": {
                     "english": "PCSTAGE"
@@ -749,7 +736,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 21645347,
-    "_sha": "8ab7388276a8a8a1a917004e33ad0eedc3ff4160",
-    "_size": 21134
+    "_change_number": 21645351,
+    "_sha": "a8b080688ea8bb21edaae6c2c660a2bfc33b4fca",
+    "_size": 20858
 }
