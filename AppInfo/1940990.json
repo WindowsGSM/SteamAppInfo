@@ -48,7 +48,8 @@
     },
     "extended": {
         "betaforappid": "783770",
-        "playtest_type": "1"
+        "playtest_type": "1",
+        "deckresolutionoverride": "Default"
     },
     "config": {
         "installdir": "Ironsight_testserver",
@@ -71,7 +72,7 @@
         "steaminputmanifestpath": "steam_input_manifest.vdf"
     },
     "depots": {
-        "228983": {
+        "228988": {
             "config": {
                 "oslist": "windows"
             },
@@ -88,16 +89,16 @@
         "1940991": {
             "manifests": {
                 "public": {
-                    "gid": "736005663212177077",
-                    "size": "10250334082",
-                    "download": "9990524736"
+                    "gid": "5729016504508107649",
+                    "size": "10249723115",
+                    "download": "9990454048"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "13016982",
-                "timeupdated": "1703133859"
+                "buildid": "13050446",
+                "timeupdated": "1703658063"
             }
         }
     },
@@ -106,7 +107,7 @@
         "maxnumfiles": "10"
     },
     "_missing_token": false,
-    "_change_number": 21625187,
-    "_sha": "35350e2a497b607086473355d5ce00c370b79a09",
-    "_size": 2355
+    "_change_number": 21684565,
+    "_sha": "3c6a489110d55f0120b84432267fee5a86087724",
+    "_size": 2394
 }
