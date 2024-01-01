@@ -22,7 +22,17 @@
         "launch": {
             "0": {
                 "executable": "BombRunnersServer.exe",
-                "arguments": "DM_POC -log"
+                "arguments": "-log",
+                "config": {
+                    "oslist": "windows"
+                }
+            },
+            "1": {
+                "executable": "BombRunners\\Binaries\\Linux\\BombRunnersServer ",
+                "arguments": "-log",
+                "config": {
+                    "oslist": "linux"
+                }
             }
         }
     },
@@ -113,7 +123,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 21727676,
-    "_sha": "17f688224c1a72190a0d76d636ac6bbfcfeea544",
-    "_size": 2267
+    "_change_number": 21727742,
+    "_sha": "d3e9f61e476c9d2c017706a68f550616caee6240",
+    "_size": 2468
 }

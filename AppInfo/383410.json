@@ -41,6 +41,11 @@
                     "gid": "5785976641866232207",
                     "size": "1472109031",
                     "download": "556644320"
+                },
+                "release": {
+                    "gid": "5136093822554650975",
+                    "size": "1879055485",
+                    "download": "674500352"
                 }
             },
             "encryptedmanifests": {
@@ -62,21 +67,26 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3717250286281489912",
-                    "size": "93788574",
-                    "download": "30806752"
+                    "gid": "3589846898548853065",
+                    "size": "93788935",
+                    "download": "30807040"
                 },
                 "legacy": {
                     "gid": "2626116370126593781",
                     "size": "93203572",
                     "download": "30613120"
+                },
+                "release": {
+                    "gid": "2533489559891090029",
+                    "size": "93493140",
+                    "download": "30740624"
                 }
             },
             "encryptedmanifests": {
                 "development": {
-                    "gid": "9A10BF43A694A48A4CD9A86FEE8D0DF3",
-                    "size": "58A52E2ACD9FE50E1D72625B73FC0305",
-                    "download": "DD49837F14C90FB91AC57ECB5AA6F6D6"
+                    "gid": "03EA242EAF973A0F72D7BBD6A11DEE3B",
+                    "size": "A4C24EE83EEF735090705B2A23F7CB0A",
+                    "download": "D4B983C93C4ADCFCC20931E4E9DC4FC0"
                 },
                 "graveyard": {
                     "gid": "D96178920907B00BB719F6BD449525C9",
@@ -91,21 +101,26 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8042716241731501307",
-                    "size": "113517201",
-                    "download": "18189072"
+                    "gid": "8018562512846915289",
+                    "size": "113517550",
+                    "download": "18189328"
                 },
                 "legacy": {
                     "gid": "9203720782103798985",
                     "size": "98422879",
                     "download": "18038096"
+                },
+                "release": {
+                    "gid": "2663824580618268051",
+                    "size": "113471895",
+                    "download": "18181312"
                 }
             },
             "encryptedmanifests": {
                 "development": {
-                    "gid": "AF61B80FB4CE5F26F30E213430B51BD7",
-                    "size": "C89CF2576DBB372268B8249935969314",
-                    "download": "F28574F5BFFDEBD0DA5D20EEDF2F9BBE"
+                    "gid": "3C8D08758DF39E689228CCF8F6BF23C8",
+                    "size": "34BB58524E6C04B82ECAB60EFB4A35DF",
+                    "download": "C56493E20C125307BABEE230D60A70D9"
                 },
                 "graveyard": {
                     "gid": "05710C877C33BA232D4EAAFDB8E3F753",
@@ -116,13 +131,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "13069818",
-                "timeupdated": "1704038178"
+                "buildid": "13073584",
+                "timeupdated": "1704142865"
             },
             "development": {
-                "buildid": "13069818",
+                "buildid": "13073584",
                 "pwdrequired": "1",
-                "timeupdated": "1704038133"
+                "timeupdated": "1704142837"
             },
             "graveyard": {
                 "buildid": "1242112",
@@ -133,11 +148,16 @@
                 "buildid": "1154654",
                 "description": "oldest relevant version of game",
                 "timeupdated": "1487881866"
+            },
+            "release": {
+                "buildid": "8591740",
+                "description": "2017++ release version",
+                "timeupdated": "1704142812"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 21720070,
-    "_sha": "d4b76636852bf158d0f982af063665302f7a95e5",
-    "_size": 3337
+    "_change_number": 21727724,
+    "_sha": "3ccaf5f2d21a4cca21b799ae83bcb87e8191636b",
+    "_size": 3801
 }
