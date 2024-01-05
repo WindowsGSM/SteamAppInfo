@@ -264,7 +264,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "dev_engine ui_3.0"
+                    "betakey": "dev_engine"
                 },
                 "description_loc": {
                     "english": "PCSTAGE"
@@ -284,6 +284,20 @@
                     "english": "116_external"
                 },
                 "description": "116_external"
+            },
+            "38": {
+                "executable": "bin\\win_x64_steam_release\\HuntGame.exe",
+                "arguments": "+online_account_client_settings stage2 +sys_dump_type 3 +online_news_server_port 5011",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "ui_3.0"
+                },
+                "description_loc": {
+                    "english": "ui_3.0"
+                },
+                "description": "ui_3.0"
             }
         },
         "uselaunchcommandline": "1"
@@ -736,7 +750,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 21769503,
-    "_sha": "b6f3f402406d9c0f5d5109fee0a2603371d6f339",
-    "_size": 20844
+    "_change_number": 21771046,
+    "_sha": "4473b4b7d390d36d478924a2a59b4a6a8be5463d",
+    "_size": 21225
 }
