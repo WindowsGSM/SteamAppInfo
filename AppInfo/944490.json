@@ -95,6 +95,13 @@
                     "size": "44871002",
                     "download": "20152144"
                 }
+            },
+            "encryptedmanifests": {
+                "squanch": {
+                    "gid": "C623B00643329119887C0F9D3EEDE4DC",
+                    "size": "056CCD7DFE7C049A528A79D2BF777410",
+                    "download": "F004E196E41FCF937899D8BC563E25B8"
+                }
             }
         },
         "944492": {
@@ -116,6 +123,13 @@
                     "gid": "495428223912398638",
                     "size": "71081835",
                     "download": "18247856"
+                }
+            },
+            "encryptedmanifests": {
+                "squanch": {
+                    "gid": "FA9207EBE2A6AB8AA110361CB146DF8C",
+                    "size": "CFFFA0A37D052EC177E79763DE0F2A67",
+                    "download": "FA5445BCFB1DB619445B6DC5F3A54513"
                 }
             }
         },
@@ -139,6 +153,13 @@
                     "size": "63488561",
                     "download": "17014096"
                 }
+            },
+            "encryptedmanifests": {
+                "squanch": {
+                    "gid": "19D8C793BE1C8EAA1964437C9839089D",
+                    "size": "9339637708BBE7AA849BA76C2A83627E",
+                    "download": "9D46F38716943EF61CFAEDBBE73E3BA4"
+                }
             }
         },
         "branches": {
@@ -151,6 +172,11 @@
                 "description": "pre-release testing",
                 "timeupdated": "1704404255"
             },
+            "squanch": {
+                "buildid": "13178853",
+                "pwdrequired": "1",
+                "timeupdated": "1705352175"
+            },
             "stable": {
                 "buildid": "6368284",
                 "description": "stable branch for commercial users",
@@ -159,7 +185,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 21763400,
-    "_sha": "cdf01e3e7b4c9fffd259a9c2594d0c5ef2807094",
-    "_size": 3256
+    "_change_number": 21904093,
+    "_sha": "af6be63d64c0decc729f672ad4a83476b717935a",
+    "_size": 3981
 }
