@@ -119,21 +119,6 @@
                 }
             },
             "encryptedmanifests": {
-                "audio-test": {
-                    "gid": "E17664A9687009127D1B8DC45BD93C6C",
-                    "size": "84EFCCB8E0BEA250A30447216C164F98",
-                    "download": "A953EBA97D109AD84D7A6C516DB88331"
-                },
-                "experimental-debug": {
-                    "gid": "D49C9131F8795C75E3703FD1DA1596BA",
-                    "size": "BECB5F602B045DF7BF1D4F792EEA3595",
-                    "download": "24D591FAB3344A6E56AEAD47660C7668"
-                },
-                "goop": {
-                    "gid": "65F66657129F9D6F7981CD646A3AA519",
-                    "size": "342841032883BE229922517562F77E01",
-                    "download": "C564E0A5FF06256BF5274EFC69CC2A39"
-                },
                 "marketing-preview": {
                     "gid": "3D85DED18792811574D4F50C5F706A16",
                     "size": "E901AF3C03A114BD94114D99E3FA961B",
@@ -158,11 +143,6 @@
                     "gid": "4A0DABE71BF548E205DE308E63D4BF54",
                     "size": "49D492DE572D19237191BA1B83B4D982",
                     "download": "2B406EB8A1D7D70B54FA9EFE516F4037"
-                },
-                "patreon-testing": {
-                    "gid": "7AB6288E2C15760AB7ADCF4B2E0BC119",
-                    "size": "2DC98BEFE710E50411C2B542AD7A5C47",
-                    "download": "3DAC869140902432094D858C33EE4860"
                 },
                 "qa-testing": {
                     "gid": "EEF7566FABB692947D9FE2FABAB8E747",
@@ -209,21 +189,6 @@
                 }
             },
             "encryptedmanifests": {
-                "audio-test": {
-                    "gid": "F3384BB5F33C59E13108D4E1130D7A7F",
-                    "size": "5CF3E05C0B0FF319FD8B88BA960E7A1D",
-                    "download": "7279434924365D434FBDEEAC84265765"
-                },
-                "experimental-debug": {
-                    "gid": "E5B8AEE63AEE7F434863DADC665DE42B",
-                    "size": "1174F1570C02CFC70BE2A802C5E8BA6B",
-                    "download": "4B582B798DC0BE1D4A401FE99D1A5A92"
-                },
-                "goop": {
-                    "gid": "B83CCE0982F0936024C38355A2D8EE13",
-                    "size": "C59DB2B1590E695945E8A40E345CA0EF",
-                    "download": "A2E8E22FD569D8246DB22AC2409039B3"
-                },
                 "marketing-preview": {
                     "gid": "78E202F60C6E2A9DCC83E3D4FD6C8BBE",
                     "size": "AD98A0E09F416D24EE77F08A79C2729E",
@@ -249,11 +214,6 @@
                     "size": "269C11D70335BB84EF3DB22FBCF1CA91",
                     "download": "4576D010C0EE7A7E76CBFC3D8BF0EECF"
                 },
-                "patreon-testing": {
-                    "gid": "AE616DDFDC7E73F2F8B4A4245C3A6B73",
-                    "size": "B46A1EDBF214323584BEAD93A7E07287",
-                    "download": "AA804456284B5C204A08C21E63C246F0"
-                },
                 "qa-testing": {
                     "gid": "B87DF622CBF940F6CA934F8A11FB9CF1",
                     "size": "DBC733376AAB97706BD5A765FB3520F9",
@@ -276,11 +236,6 @@
                 "buildid": "12692679",
                 "timeupdated": "1705178991"
             },
-            "audio-test": {
-                "buildid": "11793407",
-                "pwdrequired": "1",
-                "timeupdated": "1690391215"
-            },
             "early-server-build": {
                 "buildid": "12692679",
                 "description": "Access to server builds before clients release",
@@ -290,16 +245,6 @@
                 "buildid": "13032428",
                 "description": "Experimental branch for early testing and public development purposes",
                 "timeupdated": "1703274348"
-            },
-            "experimental-debug": {
-                "buildid": "12675259",
-                "pwdrequired": "1",
-                "timeupdated": "1699656283"
-            },
-            "goop": {
-                "buildid": "11733456",
-                "pwdrequired": "1",
-                "timeupdated": "1689740248"
             },
             "marketing-preview": {
                 "buildid": "12507382",
@@ -326,11 +271,6 @@
                 "pwdrequired": "1",
                 "timeupdated": "1705462498"
             },
-            "patreon-testing": {
-                "buildid": "12310610",
-                "pwdrequired": "1",
-                "timeupdated": "1695932933"
-            },
             "pluginapi-beta": {
                 "buildid": "12081119",
                 "description": "Plugin API staging branch",
@@ -354,7 +294,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 21924413,
-    "_sha": "abfa93875cf0c9097835944a000014003c929007",
-    "_size": 9204
+    "_change_number": 21938576,
+    "_sha": "774b0064f24d9610bee68bb155231c359aa15f23",
+    "_size": 7347
 }
