@@ -44,6 +44,16 @@
                     "english": "Start Dedicated Server.bat"
                 },
                 "description": "Start Dedicated Server.bat"
+            },
+            "2": {
+                "executable": "steam_appid.txt",
+                "config": {
+                    "oslist": "windows"
+                },
+                "description_loc": {
+                    "english": "Open readme.txt"
+                },
+                "description": "Open readme.txt"
             }
         }
     },
@@ -108,7 +118,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 21973635,
-    "_sha": "c2d079cd7ae3d442a0d04b4313facf51053634f8",
-    "_size": 2156
+    "_change_number": 21973788,
+    "_sha": "7fae94afbedff2a247a8501572250bf93d5ee560",
+    "_size": 2364
 }
