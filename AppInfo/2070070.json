@@ -47,6 +47,7 @@
             },
             "2": {
                 "executable": "steam_appid.txt",
+                "type": "manual",
                 "config": {
                     "oslist": "windows"
                 },
@@ -104,21 +105,21 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1834305051390595410",
-                    "size": "601031988",
-                    "download": "428826400"
+                    "gid": "6634991832578162555",
+                    "size": "601034036",
+                    "download": "428828624"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "13223897",
-                "timeupdated": "1705707424"
+                "buildid": "13224028",
+                "timeupdated": "1705709033"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 21973971,
-    "_sha": "0da3590d33dcdad6828f5a9d1d28c4243edd204c",
-    "_size": 2364
+    "_change_number": 21974273,
+    "_sha": "468dcf48b0f594913513afcaa90d565c67d52f02",
+    "_size": 2385
 }
