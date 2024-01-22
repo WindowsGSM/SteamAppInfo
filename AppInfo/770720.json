@@ -308,6 +308,16 @@
                     "osarch": "64",
                     "betakey": "liveops"
                 }
+            },
+            "40": {
+                "executable": "bin\\win_x64_steam_release\\HuntGame.exe",
+                "arguments": "+online_account_client_settings stage2 +sys_dump_type 3 +online_news_server_port 5011",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "externalnvidia"
+                }
             }
         },
         "uselaunchcommandline": "1"
@@ -810,7 +820,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 21995303,
-    "_sha": "676e39d77cfd568fe5899ac98b791dff8a6a59da",
-    "_size": 23083
+    "_change_number": 21995687,
+    "_sha": "57b1dbb1ed983ea95495e02a51323e48eca612f7",
+    "_size": 23392
 }
