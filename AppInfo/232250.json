@@ -48,6 +48,13 @@
                     "size": "11527855537",
                     "download": "7253277584"
                 }
+            },
+            "encryptedmanifests": {
+                "x64_linux_test": {
+                    "gid": "92883C191D9DA90D7CBF00AD2E51DDD0",
+                    "size": "A9283884B4604BA782EA2FE66F2DF467",
+                    "download": "0C48698191992E77C9954CF98DB5609F"
+                }
             }
         },
         "232255": {
@@ -74,6 +81,13 @@
                     "gid": "7889772893544901231",
                     "size": "104071048",
                     "download": "37344112"
+                }
+            },
+            "encryptedmanifests": {
+                "x64_linux_test": {
+                    "gid": "4856A729B439F12CDD654C626D3DED51",
+                    "size": "2CED2AC575DCF6A62445CDE9B8BA9591",
+                    "download": "15C3228BEE29DAF446EAAF786B055EDA"
                 }
             }
         },
@@ -102,6 +116,13 @@
                     "size": "92905858",
                     "download": "24042416"
                 }
+            },
+            "encryptedmanifests": {
+                "x64_linux_test": {
+                    "gid": "1CA18B74D8EC259A0081829E260519BB",
+                    "size": "C963E994793B041318CEBBEA88C4E7B8",
+                    "download": "A3D88C19695C7CD8EA99F5072F2CD8A6"
+                }
             }
         },
         "232257": {
@@ -129,6 +150,13 @@
                     "size": "9989",
                     "download": "2608"
                 }
+            },
+            "encryptedmanifests": {
+                "x64_linux_test": {
+                    "gid": "E12E799DC29D4E8649629EE7EA410885",
+                    "size": "032977F72B7383CDC01875DC406A9C1F",
+                    "download": "FEC1C6B20429E6A15E5F56C8C9E6AA80"
+                }
             }
         },
         "overridescddb": "1",
@@ -150,11 +178,16 @@
                 "buildid": "13131235",
                 "description": "VScript beta. Cannot connect to public servers or matchmaking.",
                 "timeupdated": "1704848357"
+            },
+            "x64_linux_test": {
+                "buildid": "13245625",
+                "pwdrequired": "1",
+                "timeupdated": "1705994387"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 21825403,
-    "_sha": "1c8623110fd51641a7dea9b72d0812588aa0a201",
-    "_size": 3243
+    "_change_number": 22010807,
+    "_sha": "e2c4720d8b22a025cb8c6d69a8b4fb4480c5cae2",
+    "_size": 4210
 }
