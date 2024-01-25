@@ -287,7 +287,7 @@
             },
             "38": {
                 "executable": "bin\\win_x64_steam_release\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stagealpha +sys_dump_type 2",
+                "arguments": "+online_account_client_settings stage_external +sys_dump_type 2",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -820,7 +820,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 22050750,
-    "_sha": "25927b4414c2a108f9939a9168140dd6ee23c89f",
-    "_size": 23366
+    "_change_number": 22051667,
+    "_sha": "5d07caa69a14cb58057ef7dc45435c22baace125",
+    "_size": 23370
 }
