@@ -287,7 +287,7 @@
             },
             "38": {
                 "executable": "bin\\win_x64_steam_release\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stage2 +sys_dump_type 3 +online_news_server_port 5011",
+                "arguments": "+online_account_client_settings stagealpha +sys_dump_type 2",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -441,9 +441,9 @@
                     "download": "A7EF159135145FE057CA43B2916FB642"
                 },
                 "ui_3.0": {
-                    "gid": "34D2DFA3792BA8386989A6AB5F569BB1",
-                    "size": "9BE01BBF6B4952D95D7B128C44B108D3",
-                    "download": "5875CF4944B328DEB1D30A32C9A698D6"
+                    "gid": "8FDB2517C87FF986A9865625D4A6E152",
+                    "size": "2E367848A7FFE3B77FAAD5104CA331C8",
+                    "download": "07EA8531D9B842B9FCA8299F4E26E0C3"
                 }
             }
         },
@@ -536,9 +536,9 @@
                     "download": "F49FAEEF2DAB76A5FA3F07AFF358375C"
                 },
                 "ui_3.0": {
-                    "gid": "B89F2D5ECCFE361D009E7472D62B6340",
-                    "size": "8D2E3BCC5A3C5FFEA6366D2D7B0CFA1F",
-                    "download": "B008F296BB3A9FA0D97609FF8707C2DD"
+                    "gid": "7ECEA35604C0EEA64C945F01871ED897",
+                    "size": "60CDB4C5FDE4D14C89566341EB658061",
+                    "download": "95B0CA9E6D0055667DBD4AD9A54B2062"
                 }
             }
         },
@@ -631,9 +631,9 @@
                     "download": "5D0277CE4BB9766DDA7DA0F719BFE727"
                 },
                 "ui_3.0": {
-                    "gid": "D3126408DC0EE3A6818D5E38BD7604CA",
-                    "size": "9F1FF76953407A0306C30A621B103890",
-                    "download": "DC9DEC86C73E832C46D748D3CECE9177"
+                    "gid": "162B1E0FABC53223DA57BDF965B03F79",
+                    "size": "56C259F4F428569A63DAE012555641F2",
+                    "download": "57E827332D8CB9FB45FCA8FA845FBB80"
                 }
             }
         },
@@ -813,14 +813,14 @@
                 "timeupdated": "1703061671"
             },
             "ui_3.0": {
-                "buildid": "13205770",
+                "buildid": "13266689",
                 "pwdrequired": "1",
-                "timeupdated": "1705653063"
+                "timeupdated": "1706188402"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 22046048,
-    "_sha": "0cbfda4324743e7410d7cb4f910664d0b762d1c0",
-    "_size": 23392
+    "_change_number": 22049765,
+    "_sha": "f2cacb678e51d12cda27c6fa0dffab37df34a54c",
+    "_size": 23366
 }
