@@ -318,6 +318,20 @@
                     "osarch": "64",
                     "betakey": "externalnvidia"
                 }
+            },
+            "41": {
+                "executable": "bin\\win_x64_steam_release\\HuntGame.exe",
+                "arguments": "+online_account_client_settings dailymain",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "daily_main"
+                },
+                "description_loc": {
+                    "english": "daily_main"
+                },
+                "description": "daily_main"
             }
         },
         "uselaunchcommandline": "1"
@@ -820,7 +834,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 22154212,
-    "_sha": "ed1ffbe30dfd495e2f2dbad35a88e5b3eb93f849",
-    "_size": 23370
+    "_change_number": 22155271,
+    "_sha": "376c229f647eedef22d6896607fa063ff698fd1d",
+    "_size": 23726
 }
