@@ -106,14 +106,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1953291197157162899",
-                    "size": "107001032",
-                    "download": "51997952"
+                    "gid": "4529213387769881326",
+                    "size": "107004557",
+                    "download": "51999424"
                 },
                 "0.10.0": {
                     "gid": "1953291197157162899",
                     "size": "107001032",
                     "download": "51997952"
+                },
+                "0.10.1": {
+                    "gid": "4529213387769881326",
+                    "size": "107004557",
+                    "download": "51999424"
                 },
                 "0.4.2": {
                     "gid": "6008734851328796072",
@@ -222,11 +227,6 @@
                 }
             },
             "encryptedmanifests": {
-                "0.10.1": {
-                    "gid": "AEA4389753187114FAA0597BD77B8DDB",
-                    "size": "52C91EBCF30097FB4DBD7D23E08DA0E9",
-                    "download": "B9094AE65657017E6548EA823D9FB183"
-                },
                 "privatetest": {
                     "gid": "BDB99381515B1350E0AD653494232085",
                     "size": "19B27B2A2748791F9971266FFD857A5D",
@@ -246,6 +246,11 @@
                     "download": "48622576"
                 },
                 "0.10.0": {
+                    "gid": "1457474493037028782",
+                    "size": "97227471",
+                    "download": "48622576"
+                },
+                "0.10.1": {
                     "gid": "1457474493037028782",
                     "size": "97227471",
                     "download": "48622576"
@@ -357,11 +362,6 @@
                 }
             },
             "encryptedmanifests": {
-                "0.10.1": {
-                    "gid": "2BD1D894B752EC2201D9ABA42C145767",
-                    "size": "96A74F07365E036FA6EA0CCFA51A5E6E",
-                    "download": "248C8C78AF3CB2FB0407229AC243296F"
-                },
                 "privatetest": {
                     "gid": "E5A6673F321B0A77BFC488F312A45356",
                     "size": "87F9AEE22B67EBF4F3FA7AA9E72B1297",
@@ -376,14 +376,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2048863889323089532",
-                    "size": "105847687",
-                    "download": "49707920"
+                    "gid": "5649891625529877212",
+                    "size": "105851341",
+                    "download": "49710656"
                 },
                 "0.10.0": {
                     "gid": "2048863889323089532",
                     "size": "105847687",
                     "download": "49707920"
+                },
+                "0.10.1": {
+                    "gid": "5649891625529877212",
+                    "size": "105851341",
+                    "download": "49710656"
                 },
                 "0.4.2": {
                     "gid": "2923904075307157761",
@@ -492,11 +497,6 @@
                 }
             },
             "encryptedmanifests": {
-                "0.10.1": {
-                    "gid": "D486C4153804948E0FDE24CCB6492B6E",
-                    "size": "6ABE9BBF1A4C972577DAB0B8446E5110",
-                    "download": "6507D394273D9DBCF43153BECAA8A4C8"
-                },
                 "privatetest": {
                     "gid": "93BA963775BD61B62FD8E38F5C8D241E",
                     "size": "294CAF90A91D9F45438E05C096B94BBA",
@@ -516,6 +516,11 @@
                     "download": "64066144"
                 },
                 "0.10.0": {
+                    "gid": "3630047837779111706",
+                    "size": "108317877",
+                    "download": "64066144"
+                },
+                "0.10.1": {
                     "gid": "3630047837779111706",
                     "size": "108317877",
                     "download": "64066144"
@@ -627,11 +632,6 @@
                 }
             },
             "encryptedmanifests": {
-                "0.10.1": {
-                    "gid": "1F301110FCE9986677F69F10200D5683",
-                    "size": "0546D41AACB051077D34A69C547C7137",
-                    "download": "689A6D6D003F1841926592115F0C5D8D"
-                },
                 "privatetest": {
                     "gid": "BBB813FAF014932217D4FC2A144B1618",
                     "size": "3A08FD64ED2BCE3AEED1A32180BC84F4",
@@ -641,8 +641,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "13084001",
-                "timeupdated": "1704285910"
+                "buildid": "13345591",
+                "timeupdated": "1706877598"
             },
             "0.10.0": {
                 "buildid": "13084001",
@@ -651,7 +651,7 @@
             },
             "0.10.1": {
                 "buildid": "13345591",
-                "pwdrequired": "1",
+                "description": "Water visuals",
                 "timeupdated": "1706868149"
             },
             "0.4.2": {
@@ -750,7 +750,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 22167762,
-    "_sha": "19ae4f5461acc07c8ad0f6e7dad068bd4d05d747",
-    "_size": 16336
+    "_change_number": 22170032,
+    "_sha": "0dc8fced329f926b8b2cd4878ccd312584c09cbe",
+    "_size": 16107
 }
