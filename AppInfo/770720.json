@@ -332,6 +332,16 @@
                     "english": "daily_main"
                 },
                 "description": "daily_main"
+            },
+            "42": {
+                "executable": "bin\\win_x64\\HuntGame.exe",
+                "arguments": "+online_account_client_settings stagealpha",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "117_external"
+                }
             }
         },
         "uselaunchcommandline": "1"
@@ -383,6 +393,11 @@
                     "gid": "9CC0303BE351F7E24A1B13771871C82E",
                     "size": "DC1DC08B2E86BADFA2568226466C742B",
                     "download": "533C03B92DF7AD0406950BDA944EAD57"
+                },
+                "117_external": {
+                    "gid": "324CC9E1C426DA68F49B9BF023456F07",
+                    "size": "1B963BF192EB8B5924DA0CCA0BDF8F51",
+                    "download": "D994F4E8A07034AF787FFCC8A04E2AA8"
                 },
                 "controls_3.0": {
                     "gid": "8C9E72B0690C7826AEA5EBD96B8C401A",
@@ -484,6 +499,11 @@
                     "size": "8AC67D9F023F93D334E4254D2EF4D29E",
                     "download": "6E8B2BF5850842EA6BD0AD65BA6AFD23"
                 },
+                "117_external": {
+                    "gid": "7D355FFC2A2B1DD6C756438E06018ECE",
+                    "size": "7319F9A05E406AC2F678CB6D1A6CD8B1",
+                    "download": "06A2B924B73F0CD4AE75BCD6EA4CA988"
+                },
                 "controls_3.0": {
                     "gid": "BD95353BD81E5A321658FFE9DD81E90A",
                     "size": "20CCADDD707185AD81617839762CE175",
@@ -583,6 +603,11 @@
                     "gid": "524BF0F30A267092CAEE9D0D787F931E",
                     "size": "8DB7654D2D37E389D68BC466381513C3",
                     "download": "03F3FD2D7ECBA208BAA764B0280F992B"
+                },
+                "117_external": {
+                    "gid": "79FEF70873CE657CB30CB3266C7C5F17",
+                    "size": "7EDD3568D6621437C1F0F649F01B52E9",
+                    "download": "F2FAF1A0DD2B767CBFA9C34A64F26FF2"
                 },
                 "controls_3.0": {
                     "gid": "972CF30DC9BC481B1DD74B51592A8579",
@@ -684,6 +709,11 @@
                     "size": "FDAD9FE156CA7AF2C8AEA807093298E3",
                     "download": "FDAD9FE156CA7AF2C8AEA807093298E3"
                 },
+                "117_external": {
+                    "gid": "A043EFB88E20003D187ED134CFCEB038",
+                    "size": "A92DB2E4E22BC8BFA2A817040D445AF4",
+                    "download": "A92DB2E4E22BC8BFA2A817040D445AF4"
+                },
                 "controls_3.0": {
                     "gid": "34FBE1FAEC2808EF09CD6194DF3F228A",
                     "size": "51974CBA47ECFE42AF69E5886E06E9DC",
@@ -776,6 +806,11 @@
                 "pwdrequired": "1",
                 "timeupdated": "1706691002"
             },
+            "117_external": {
+                "buildid": "13364447",
+                "pwdrequired": "1",
+                "timeupdated": "1707322276"
+            },
             "controls_3.0": {
                 "buildid": "12283837",
                 "pwdrequired": "1",
@@ -859,7 +894,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 22246055,
-    "_sha": "11a8f8e707ce3ddc60a198885349359170a9cdf7",
-    "_size": 24605
+    "_change_number": 22246570,
+    "_sha": "79d4cc30d2b15bbf30250ec3859eccee6b5a8d09",
+    "_size": 25676
 }
