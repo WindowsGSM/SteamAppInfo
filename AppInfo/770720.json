@@ -320,7 +320,7 @@
                 }
             },
             "41": {
-                "executable": "bin\\win_x64_steam_release\\HuntGame.exe",
+                "executable": "bin\\win_x64\\HuntGame.exe",
                 "arguments": "+online_account_client_settings blah -online_server capi-daily-main.huntshowdown.com -online_server_port 61089 +sys_dump_type 2",
                 "type": "option1",
                 "config": {
@@ -859,7 +859,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 22244195,
-    "_sha": "8f28fa97996ddd7ff9e8f6ad8bace25f967c16fb",
-    "_size": 24619
+    "_change_number": 22244910,
+    "_sha": "75542e1ea65e4dcfe6a9e94ea83222727ce041bc",
+    "_size": 24605
 }
