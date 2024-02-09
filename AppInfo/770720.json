@@ -292,7 +292,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "ui_3.0 117_external"
+                    "betakey": "ui_3.0"
                 },
                 "description_loc": {
                     "english": "ui_3.0"
@@ -334,7 +334,7 @@
                 "description": "daily_main"
             },
             "42": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
+                "executable": "bin\\win_x64_steam_release\\HuntGame.exe",
                 "arguments": "+online_account_client_settings stagealpha",
                 "type": "option1",
                 "config": {
@@ -894,7 +894,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 22275751,
-    "_sha": "022e512d01ccb06979d7357aa24eaade0f70b883",
-    "_size": 25689
+    "_change_number": 22276117,
+    "_sha": "2c90746af1f84d68b88c0040d41c30b3200761f4",
+    "_size": 25690
 }
