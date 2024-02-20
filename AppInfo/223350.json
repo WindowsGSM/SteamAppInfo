@@ -95,9 +95,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "6007197074671066757",
-                    "size": "2887020603",
-                    "download": "1001112512"
+                    "gid": "1244492576246878990",
+                    "size": "2875019826",
+                    "download": "999681408"
                 },
                 "experimental_public": {
                     "gid": "6851238236280575555",
@@ -193,7 +193,13 @@
                 "oslist": "linux",
                 "osarch": "64"
             },
-            "manifests": {},
+            "manifests": {
+                "public": {
+                    "gid": "8361915546996566143",
+                    "size": "58043680",
+                    "download": "17028544"
+                }
+            },
             "encryptedmanifests": {
                 "internaldebug": {
                     "gid": "454FB0F2306C239B736595FAD3278CB5",
@@ -234,9 +240,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2640852994829938891",
-                    "size": "40018936",
-                    "download": "12651536"
+                    "gid": "9134675472149514769",
+                    "size": "39998456",
+                    "download": "12677104"
                 },
                 "experimental_public": {
                     "gid": "6169702869082609638",
@@ -330,8 +336,8 @@
         "223354": {},
         "branches": {
             "public": {
-                "buildid": "12806201",
-                "timeupdated": "1701349206"
+                "buildid": "13475038",
+                "timeupdated": "1708433994"
             },
             "experimental_public": {
                 "buildid": "3889697",
@@ -427,7 +433,7 @@
         "ignoreexternalfiles": "1"
     },
     "_missing_token": false,
-    "_change_number": 22422750,
-    "_sha": "662b3100056242eb05cc221de21912909303e1b2",
-    "_size": 11657
+    "_change_number": 22423309,
+    "_sha": "2930e1dbc6340388edc6469840ac603e8fd5369e",
+    "_size": 11767
 }
