@@ -130,20 +130,6 @@
                 },
                 "description": "lightweight_profiler\t"
             },
-            "24": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stage",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "controls_3.0"
-                },
-                "description_loc": {
-                    "english": "controls_3.0"
-                },
-                "description": "controls_3.0"
-            },
             "25": {
                 "executable": "hunt.exe",
                 "arguments": "+online_account_client_settings blah -online_server frwp3hntdemosrv -online_server_port 61088 +sys_dump_type 3 +online_websvc_enable_tls 0",
@@ -270,20 +256,6 @@
                 },
                 "description": "PCSTAGE"
             },
-            "37": {
-                "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings stage",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "116_external"
-                },
-                "description_loc": {
-                    "english": "116_external"
-                },
-                "description": "116_external"
-            },
             "38": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
                 "arguments": "+online_account_client_settings stagealpha +sys_dump_type 2",
@@ -297,16 +269,6 @@
                     "english": "ui_3.0"
                 },
                 "description": "ui_3.0"
-            },
-            "39": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stage_external",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "liveops"
-                }
             },
             "40": {
                 "executable": "bin\\win_x64_steam_release\\HuntGame.exe",
@@ -339,7 +301,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "117_external main_check"
+                    "betakey": "117_external"
                 }
             }
         },
@@ -793,7 +755,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 22471880,
-    "_sha": "f334d692349abb485b41afd47534492dbc03d179",
-    "_size": 22322
+    "_change_number": 22471907,
+    "_sha": "d7b4ec82544c9139eb0ba1e020298cc88960278b",
+    "_size": 21392
 }
