@@ -95,9 +95,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "1447213015209230267",
+                    "gid": "7826196964672993771",
                     "size": "2875089297",
-                    "download": "999683568"
+                    "download": "999682864"
                 },
                 "experimental_public": {
                     "gid": "6851238236280575555",
@@ -127,9 +127,9 @@
                     "download": "97CA91CAA69AC4668063181BCB96F808"
                 },
                 "ps4_stable": {
-                    "gid": "E2BF1292EAFA86CE5D49326A41CD9295",
-                    "size": "B4EA67CC9051DBFA092E14A52C00A30D",
-                    "download": "3C6EE1A12399F881E505D9A75876738B"
+                    "gid": "383F423DCF73BFAA7152A52A8FD46D35",
+                    "size": "2AEC3B681854EA2666E759641F83D105",
+                    "download": "3C2D1D091020F152D8235E6B7517B213"
                 },
                 "ps4_test": {
                     "gid": "D67C1ACD183854C4AFC4E4EE8920853C",
@@ -177,9 +177,9 @@
                     "download": "60F14254F4EE5FAC76D775404AA6BD8C"
                 },
                 "xb1_stable": {
-                    "gid": "F4F3A7D8D43611158ACAF1C024D6EF7A",
+                    "gid": "E32AB47CD954520F844B9BAC25D77433",
                     "size": "F477457BCE3F91440F5A9A25A34F97C5",
-                    "download": "4040F0CCF2F92A1B22D5CB281DCBF70A"
+                    "download": "2852AE3B7D53746BFD900200E1E9C585"
                 },
                 "xb1_test": {
                     "gid": "34211F7058257189E99B3B48C56BAD50",
@@ -195,9 +195,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3552880758509115275",
+                    "gid": "1046813889205133984",
                     "size": "58035488",
-                    "download": "17023264"
+                    "download": "17025376"
                 }
             },
             "encryptedmanifests": {
@@ -221,6 +221,11 @@
                     "size": "A364DD94E744C4E031612566A0A29DBC",
                     "download": "A364DD94E744C4E031612566A0A29DBC"
                 },
+                "ps4_stable": {
+                    "gid": "28D1EE175DA03B44B44F282F2B328764",
+                    "size": "FBBD1E1F747864705114F7BC793B93E6",
+                    "download": "FBBD1E1F747864705114F7BC793B93E6"
+                },
                 "release_test": {
                     "gid": "C1BDEEA71296FAFB2252A2AAA6B9C7C1",
                     "size": "24CDB3ADC90B56C6CFBD2E5CA4D40979",
@@ -240,6 +245,11 @@
                     "gid": "ED02AD0169D976B853F63657A50F56F0",
                     "size": "778E78BD52DD5F6D59782EF0B476CE09",
                     "download": "778E78BD52DD5F6D59782EF0B476CE09"
+                },
+                "xb1_stable": {
+                    "gid": "26CC3D56A4E9E824E9F66CC1B80FCB77",
+                    "size": "DD10F92A6624FAB6F552AFD0CA0FC5DB",
+                    "download": "DD10F92A6624FAB6F552AFD0CA0FC5DB"
                 }
             }
         },
@@ -250,9 +260,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7055973829333187535",
-                    "size": "40001016",
-                    "download": "12687344"
+                    "gid": "2397781539430549968",
+                    "size": "40001528",
+                    "download": "12679712"
                 },
                 "experimental_public": {
                     "gid": "6169702869082609638",
@@ -346,8 +356,8 @@
         "223354": {},
         "branches": {
             "public": {
-                "buildid": "13578398",
-                "timeupdated": "1709211439"
+                "buildid": "13645090",
+                "timeupdated": "1709816184"
             },
             "experimental_public": {
                 "buildid": "3889697",
@@ -375,9 +385,9 @@
                 "timeupdated": "1709642204"
             },
             "ps4_stable": {
-                "buildid": "13575855",
+                "buildid": "13645360",
                 "pwdrequired": "1",
-                "timeupdated": "1709209279"
+                "timeupdated": "1709815999"
             },
             "ps4_test": {
                 "buildid": "12972693",
@@ -425,9 +435,9 @@
                 "timeupdated": "1706699199"
             },
             "xb1_stable": {
-                "buildid": "13573473",
+                "buildid": "13645332",
                 "pwdrequired": "1",
-                "timeupdated": "1709209298"
+                "timeupdated": "1709815984"
             },
             "xb1_test": {
                 "buildid": "12972654",
@@ -443,7 +453,7 @@
         "ignoreexternalfiles": "1"
     },
     "_missing_token": false,
-    "_change_number": 22669933,
-    "_sha": "421afe80d0992ebbb76c42a3d9ce586e16f53c67",
-    "_size": 12123
+    "_change_number": 22671104,
+    "_sha": "5ef063eebc5f48cae60827c1c7e622d57b6c8135",
+    "_size": 12475
 }
