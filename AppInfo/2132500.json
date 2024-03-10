@@ -29,6 +29,7 @@
         }
     },
     "depots": {
+        "baselanguages": "english",
         "1004": {
             "config": {
                 "oslist": "windows"
@@ -69,6 +70,10 @@
             "depotfromapp": "1007"
         },
         "2132501": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
             "manifests": {
                 "public": {
                     "gid": "6010601989948514388",
@@ -89,7 +94,6 @@
                 }
             }
         },
-        "baselanguages": "english",
         "branches": {
             "public": {
                 "buildid": "9573934",
@@ -108,7 +112,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 22700968,
-    "_sha": "24dc77e87ad5d784c3c7ecc3403bbd568267fb99",
-    "_size": 2248
+    "_change_number": 22704129,
+    "_sha": "946d29556e233536fca2da667014146e3ef59553",
+    "_size": 2318
 }
