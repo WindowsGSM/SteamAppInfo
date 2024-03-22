@@ -76,7 +76,7 @@
             },
             "9": {
                 "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings blue +online_websvc_skip_tls_cert_validation 1",
+                "arguments": "+online_account_client_settings blue +online_websvc_skip_tls_cert_validation 1 +sys_dump_type 3",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -90,7 +90,7 @@
             },
             "11": {
                 "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings mpQA +online_websvc_skip_tls_cert_validation 1 +sys_dump_type 2 +online_websvc_enable_tls 0",
+                "arguments": "+online_account_client_settings mpQA +online_websvc_skip_tls_cert_validation 1 +sys_dump_type 3 +online_websvc_enable_tls 0",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -780,7 +780,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 22863688,
-    "_sha": "30eb795e216dd7b83226eea0985c27505d4041b8",
-    "_size": 22205
+    "_change_number": 22866599,
+    "_sha": "03d55f560998be8703b3ef846aaa2b4b350a04bb",
+    "_size": 22222
 }
