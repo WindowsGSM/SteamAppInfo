@@ -102,9 +102,9 @@
                     "download": "07F067C4E8F927DAC00E5671FAD4D026"
                 },
                 "delta_test_server": {
-                    "gid": "653AB5A92ECF19B2A9D656CCC1FC19E4",
+                    "gid": "643C4CC004EFFFC4E7307AD1DAD3B1B0",
                     "size": "8216ABEA92482A3D1FDA052B3EEA5479",
-                    "download": "BAD84F95769AA9AA549DCBF3D5FF1D8D"
+                    "download": "02828AE05C854932CE3143DC11ECA2F7"
                 },
                 "legacy": {
                     "gid": "8429B4CE173F18F95984B25FAF5148D9",
@@ -166,9 +166,9 @@
                     "download": "173EACD7B517C5BD2007F33673BCC934"
                 },
                 "delta_test_server": {
-                    "gid": "2AA31229294D7843D0CBBEF12D35ED56",
+                    "gid": "E9D0BCC3135B5765E7555B000481821B",
                     "size": "AA27EB80F4E2B841DE0FACE0B61EECFB",
-                    "download": "5BD13DEBB9562547D3012F25F42968C1"
+                    "download": "16DAECB20A266F5FB691D87793449724"
                 },
                 "legacy": {
                     "gid": "85AD58B0F092A9C5470E2DAC88DC8858",
@@ -230,9 +230,9 @@
                     "download": "334D125646F4B979EE82289C3B381CAC"
                 },
                 "delta_test_server": {
-                    "gid": "FED2EA8F618ECE2F68DA62FC203DD06D",
+                    "gid": "FD9FC0690206E5E33FA8A5404FB804A0",
                     "size": "D385AFBCDBFE6490A1D0E21B1CB2AC0A",
-                    "download": "FFFB2BD5996C92B7E6E80304C8C0136F"
+                    "download": "18F6A21962D05CA91D932E43BBC133F9"
                 },
                 "legacy": {
                     "gid": "A342A42BE1707B2349D4562FF63196AA",
@@ -375,53 +375,8 @@
                 }
             }
         },
-        "233787": {
-            "manifests": {
-                "public": {
-                    "gid": "4265337087564568197",
-                    "size": "0",
-                    "download": "0"
-                },
-                "contact": {
-                    "gid": "4265337087564568197",
-                    "size": "0",
-                    "download": "0"
-                },
-                "creatordlc": {
-                    "gid": "4265337087564568197",
-                    "size": "0",
-                    "download": "0"
-                }
-            },
-            "encryptedmanifests": {
-                "cdlc_private_beta_server": {
-                    "gid": "44515A333BECCD71E5E2FA47A8032544",
-                    "size": "A2245D53D5982E511F94B28C27FCB6FC",
-                    "download": "A2245D53D5982E511F94B28C27FCB6FC"
-                },
-                "contact_staging": {
-                    "gid": "29DA053D58C1A218107537658AD27244",
-                    "size": "EA8E423F527BA8A9D9E4ADA3A43D9330",
-                    "download": "EA8E423F527BA8A9D9E4ADA3A43D9330"
-                },
-                "delta_test_server": {
-                    "gid": "B6BE830A2EF4EB377BE850AF24935ABB",
-                    "size": "7BE1DFA9B4C066471DBBA78D2EF48C73",
-                    "download": "7BE1DFA9B4C066471DBBA78D2EF48C73"
-                },
-                "legacy": {
-                    "gid": "F1ED5C576AF7D79538A14CE592F38803",
-                    "size": "8177FD7723D3EB5B121305EC9A777A75",
-                    "download": "8177FD7723D3EB5B121305EC9A777A75"
-                },
-                "staging": {
-                    "gid": "0A31C5CC170CB69BA6232FCE6A22A0D5",
-                    "size": "1D73D931D6EF0FBFBDB8621C3D8E7694",
-                    "download": "1D73D931D6EF0FBFBDB8621C3D8E7694"
-                }
-            }
-        },
         "233797": {},
+        "233798": {},
         "branches": {
             "public": {
                 "buildid": "12190890",
@@ -448,9 +403,9 @@
                 "timeupdated": "1696941750"
             },
             "delta_test_server": {
-                "buildid": "13795228",
+                "buildid": "13820785",
                 "pwdrequired": "1",
-                "timeupdated": "1710922086"
+                "timeupdated": "1711101798"
             },
             "legacy": {
                 "buildid": "11755774",
@@ -480,7 +435,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 22867284,
-    "_sha": "b0771cdba60d08e247466d17f70a465dfc7cb233",
-    "_size": 12474
+    "_change_number": 22867668,
+    "_sha": "e36b264ce21edca28b9fae1769a2037dba9efe2e",
+    "_size": 11220
 }
