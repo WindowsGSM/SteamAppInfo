@@ -47,28 +47,6 @@
                 },
                 "description": "64 bit"
             },
-            "3": {
-                "executable": "wf_server_x86.exe",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "32"
-                },
-                "description_loc": {
-                    "english": "32 bit"
-                },
-                "description": "32 bit"
-            },
-            "4": {
-                "executable": "wf_server.i386",
-                "config": {
-                    "oslist": "linux",
-                    "osarch": "32"
-                },
-                "description_loc": {
-                    "english": "32 bit"
-                },
-                "description": "32 bit"
-            },
             "5": {
                 "executable": "Warfork.app\\Contents\\MacOS\\wf_server",
                 "config": {
@@ -83,29 +61,76 @@
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5505971997879771406",
+                    "size": "968544418",
+                    "download": "850785152"
+                }
+            },
+            "encryptedmanifests": {
+                "beta": {
+                    "gid": "030E644CD93C389C31A55A360B38F41F",
+                    "size": "4E3E0ECBAA61FEE0E1464C0FFF39E02E",
+                    "download": "C4BD78C9A61505A42D725AEE2B253D53"
+                }
             }
         },
         "1136517": {
             "config": {
                 "oslist": "macos",
                 "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "741073090592715546",
+                    "size": "1014425189",
+                    "download": "853527584"
+                }
+            },
+            "encryptedmanifests": {
+                "beta": {
+                    "gid": "F6A6B055DAF30D0ED0E8C025EB5E0A21",
+                    "size": "C0DE94EB57ECD1E36B693A9E4082B937",
+                    "download": "964C2A2D37ABD5BB28A518C9D375AFE8"
+                }
             }
         },
         "1136518": {
             "config": {
                 "oslist": "linux",
                 "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "978108088744388854",
+                    "size": "968544416",
+                    "download": "850785136"
+                }
+            },
+            "encryptedmanifests": {
+                "beta": {
+                    "gid": "7C311571DD9A705E2C9F07BE4F684A54",
+                    "size": "4E3E0ECBAA61FEE0E1464C0FFF39E02E",
+                    "download": "C4BD78C9A61505A42D725AEE2B253D53"
+                }
             }
         },
         "branches": {
             "public": {
-                "buildid": "13603842",
-                "timeupdated": "1709254715"
+                "buildid": "13830191",
+                "timeupdated": "1711169312"
+            },
+            "beta": {
+                "buildid": "13830196",
+                "pwdrequired": "1",
+                "timeupdated": "1711169382"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 22878883,
-    "_sha": "5d5000d455471fc4caffcdebe781abc89bbf3ddf",
-    "_size": 2197
+    "_change_number": 22879041,
+    "_sha": "35d5b1c94223b47241fd26d110128ca1676dbced",
+    "_size": 2904
 }
