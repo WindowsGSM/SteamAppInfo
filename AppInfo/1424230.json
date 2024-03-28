@@ -81,6 +81,11 @@
                     "gid": "2720665761969896591",
                     "size": "10437386047",
                     "download": "1621656080"
+                },
+                "hotfix": {
+                    "gid": "2546319621572586386",
+                    "size": "10437233622",
+                    "download": "1621483824"
                 }
             },
             "encryptedmanifests": {
@@ -122,6 +127,11 @@
                     "gid": "8662380122102682221",
                     "size": "10485185699",
                     "download": "1646494160"
+                },
+                "hotfix": {
+                    "gid": "4613713654054292818",
+                    "size": "10485033266",
+                    "download": "1646328480"
                 }
             },
             "encryptedmanifests": {
@@ -177,15 +187,20 @@
                 "pwdrequired": "1",
                 "timeupdated": "1670330822"
             },
+            "hotfix": {
+                "buildid": "13882424",
+                "description": "hotfix branch",
+                "timeupdated": "1711630929"
+            },
             "staging": {
                 "buildid": "13881231",
                 "pwdrequired": "1",
-                "timeupdated": "1711622665"
+                "timeupdated": "1711630889"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 22944175,
-    "_sha": "05b8ad76877f5fd5bf3c72059edc73df60477b6e",
-    "_size": 4436
+    "_change_number": 22945880,
+    "_sha": "531184c6cc52d2f9dd8e30ab61b2adcbb43455d1",
+    "_size": 4783
 }
