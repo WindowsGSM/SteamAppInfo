@@ -67,7 +67,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom qa_testroom_2 backend_test rc_check"
+                    "betakey": "qa_testroom qa_testroom_2 backend_test 1161_rc"
                 },
                 "description_loc": {
                     "english": "PCSTG"
@@ -360,6 +360,11 @@
                 }
             },
             "encryptedmanifests": {
+                "1161_rc": {
+                    "gid": "6FC1FA914BE5067D06F04067B9F985ED",
+                    "size": "59C40CF4E6209AE0E661C0FAE63034FC",
+                    "download": "46710591927A5FF93505102E226D1E1E"
+                },
                 "117_external": {
                     "gid": "324CC9E1C426DA68F49B9BF023456F07",
                     "size": "1B963BF192EB8B5924DA0CCA0BDF8F51",
@@ -450,6 +455,11 @@
                 }
             },
             "encryptedmanifests": {
+                "1161_rc": {
+                    "gid": "474ED3F8AF95BCE4CEDA3C667E349304",
+                    "size": "86E57AFCAE2CC88A7B5737FBD34BC837",
+                    "download": "600288B3BB337355C3B5623E0851B151"
+                },
                 "117_external": {
                     "gid": "7D355FFC2A2B1DD6C756438E06018ECE",
                     "size": "7319F9A05E406AC2F678CB6D1A6CD8B1",
@@ -540,6 +550,11 @@
                 }
             },
             "encryptedmanifests": {
+                "1161_rc": {
+                    "gid": "C1400B7D7129EE74C0F1CF5B241E5C9A",
+                    "size": "B4985CE1C3DC124E8F84C5FD35B44781",
+                    "download": "5680333A8AB61FC8DAEB49FA3B1C3337"
+                },
                 "117_external": {
                     "gid": "79FEF70873CE657CB30CB3266C7C5F17",
                     "size": "7EDD3568D6621437C1F0F649F01B52E9",
@@ -630,6 +645,11 @@
                 }
             },
             "encryptedmanifests": {
+                "1161_rc": {
+                    "gid": "8E0169DFF3F4EB9E12EC6AFF7F465223",
+                    "size": "F30CC3D57DC92ACDF9593375FB9C01AC",
+                    "download": "F30CC3D57DC92ACDF9593375FB9C01AC"
+                },
                 "117_external": {
                     "gid": "A043EFB88E20003D187ED134CFCEB038",
                     "size": "A92DB2E4E22BC8BFA2A817040D445AF4",
@@ -712,6 +732,11 @@
                 "buildid": "11405781",
                 "timeupdated": "1686560547"
             },
+            "1161_rc": {
+                "buildid": "13883736",
+                "pwdrequired": "1",
+                "timeupdated": "1712052729"
+            },
             "117_external": {
                 "buildid": "13364447",
                 "pwdrequired": "1",
@@ -790,7 +815,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 22995585,
-    "_sha": "fbd941f8b0a5973f3f6677b6954617fbc5acb09f",
-    "_size": 22492
+    "_change_number": 22996347,
+    "_sha": "36360c8d794b075477fb3890a25a8c91d04cf3ca",
+    "_size": 23287
 }
