@@ -287,7 +287,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "daily_main 117_main"
+                    "betakey": "daily_main"
                 },
                 "description_loc": {
                     "english": "daily_main"
@@ -312,6 +312,16 @@
                     "oslist": "windows",
                     "osarch": "64",
                     "betakey": "perf_testing"
+                }
+            },
+            "44": {
+                "executable": "bin\\win_x64\\HuntGame.exe",
+                "arguments": "+online_account_client_settings blah -online_server capi-daily-main.huntshowdown.com -online_server_port 61089 +sys_dump_type 2",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "117_main"
                 }
             }
         },
@@ -815,7 +825,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23117828,
-    "_sha": "286602bd7e3c9fd3d9fba14dc202b76a8a29aeae",
-    "_size": 23276
+    "_change_number": 23119505,
+    "_sha": "58c12443ed7f3944c6b6b3a213e3e75dc2362e45",
+    "_size": 23598
 }
