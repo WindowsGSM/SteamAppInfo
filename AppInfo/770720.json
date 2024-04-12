@@ -316,7 +316,7 @@
             },
             "44": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stagealpha",
+                "arguments": "+online_account_client_settings blah -online_server capi-daily-main.huntshowdown.com -online_server_port 61089 +sys_dump_type 2",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -850,7 +850,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23128475,
-    "_sha": "735cb9e087081962ea39172bf87bdfe2a1fff405",
-    "_size": 24353
+    "_change_number": 23128814,
+    "_sha": "e91d98b8f690518dceac7d5548e7b1befcb6f41c",
+    "_size": 24438
 }
