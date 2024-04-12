@@ -323,6 +323,20 @@
                     "osarch": "64",
                     "betakey": "117_main"
                 }
+            },
+            "45": {
+                "executable": "bin\\win_x64\\HuntGame.exe",
+                "arguments": "+online_account_client_settings blah -online_server capi-daily-main.huntshowdown.com -online_server_port 61089 +sys_dump_type 2",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "117_maincheck"
+                },
+                "description_loc": {
+                    "english": "117_maincheck"
+                },
+                "description": "117_maincheck"
             }
         },
         "uselaunchcommandline": "1"
@@ -386,9 +400,9 @@
                     "download": "B71E04196710E162BB60DF1F5D74A757"
                 },
                 "117_maincheck": {
-                    "gid": "015EF4BC4F681C2518CB3F58FEF7E870",
-                    "size": "206850AD148A95D00215ADDF479EF890",
-                    "download": "21D0711B92954A0086E54C02FC36B5B9"
+                    "gid": "CB76977E4A6FB22B794CD7FDDDABEF78",
+                    "size": "4F8E6206CC9B4A3887070B8F05B7B899",
+                    "download": "FABBF813F936818F5CEBEC92B3D336B3"
                 },
                 "current": {
                     "gid": "DA7DF5C6E71168A3D0F12F44A3AA4F77",
@@ -486,9 +500,9 @@
                     "download": "51A1592E15A23975BBE68D1CDF6AE522"
                 },
                 "117_maincheck": {
-                    "gid": "609329ED973C4FE4B27387AFEAB23D40",
-                    "size": "F8EADE3936531EFAAF08E7FCE5037DF9",
-                    "download": "B41AD296866306B36F4DDCAAD9B442C7"
+                    "gid": "E887CE83570B5079C58D2F1722EB281C",
+                    "size": "B71EE9C84309E3DCC59D6E8CF9C452DC",
+                    "download": "AF6DDFFC0DCBCDE57D7333753EB4BF78"
                 },
                 "current": {
                     "gid": "A316A1068E37A1260F0A151702934E3D",
@@ -586,9 +600,9 @@
                     "download": "6ED892502103A0B1BBC3F23A10E71080"
                 },
                 "117_maincheck": {
-                    "gid": "884A47DCC64694319396B803626A59B2",
-                    "size": "7C820F951A19FF5F8E6F57F1286D7B74",
-                    "download": "E390065B8BB749FDD7A774C8BA0FE507"
+                    "gid": "294C19291179E13DDFF4FA71AD91FEEA",
+                    "size": "5540B798978ADE21BFC3CC12BEB7ABCE",
+                    "download": "D2C7A0967ADCE5B819A11260FCB57783"
                 },
                 "current": {
                     "gid": "71252CFCAA92D4591DD9FF085ECC8E3E",
@@ -778,9 +792,9 @@
                 "timeupdated": "1712913804"
             },
             "117_maincheck": {
-                "buildid": "13987985",
+                "buildid": "14024836",
                 "pwdrequired": "1",
-                "timeupdated": "1712907332"
+                "timeupdated": "1712915595"
             },
             "current": {
                 "buildid": "12085700",
@@ -850,7 +864,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23129762,
-    "_sha": "d277f5468e159d01406c5bad221197ed56f414a7",
-    "_size": 24339
+    "_change_number": 23130165,
+    "_sha": "f70cb100f128e91652a0cee44fe389da3773f4d6",
+    "_size": 24776
 }
