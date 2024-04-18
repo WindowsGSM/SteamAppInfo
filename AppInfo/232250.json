@@ -29,24 +29,19 @@
         "232250": {
             "manifests": {
                 "public": {
-                    "gid": "1186055238992017978",
-                    "size": "11527855537",
-                    "download": "7253277584"
+                    "gid": "5470737498623526446",
+                    "size": "11532545191",
+                    "download": "7255054992"
                 },
                 "prerelease": {
-                    "gid": "1186055238992017978",
-                    "size": "11527855537",
-                    "download": "7253277584"
+                    "gid": "5470737498623526446",
+                    "size": "11532545191",
+                    "download": "7255054992"
                 },
                 "valve_ds": {
                     "gid": "5470737498623526446",
                     "size": "11532545191",
                     "download": "7255054992"
-                },
-                "x64_test": {
-                    "gid": "2549273502427865890",
-                    "size": "11532542361",
-                    "download": "7255054656"
                 }
             }
         },
@@ -56,24 +51,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7889772893544901231",
-                    "size": "104071048",
-                    "download": "37344112"
+                    "gid": "6841790504103126064",
+                    "size": "226445660",
+                    "download": "76425248"
                 },
                 "prerelease": {
-                    "gid": "7889772893544901231",
-                    "size": "104071048",
-                    "download": "37344112"
+                    "gid": "6841790504103126064",
+                    "size": "226445660",
+                    "download": "76425248"
                 },
                 "valve_ds": {
                     "gid": "6841790504103126064",
                     "size": "226445660",
                     "download": "76425248"
-                },
-                "x64_test": {
-                    "gid": "8006363722676446698",
-                    "size": "226510172",
-                    "download": "76425760"
                 }
             }
         },
@@ -83,24 +73,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2590057218013527366",
-                    "size": "92905858",
-                    "download": "24042416"
+                    "gid": "7378443044774878153",
+                    "size": "147960715",
+                    "download": "38387712"
                 },
                 "prerelease": {
-                    "gid": "2590057218013527366",
-                    "size": "92905858",
-                    "download": "24042416"
+                    "gid": "7378443044774878153",
+                    "size": "147960715",
+                    "download": "38387712"
                 },
                 "valve_ds": {
                     "gid": "7378443044774878153",
                     "size": "147960715",
                     "download": "38387712"
-                },
-                "x64_test": {
-                    "gid": "2159454258137216335",
-                    "size": "147960715",
-                    "download": "38388080"
                 }
             }
         },
@@ -123,38 +108,28 @@
                     "gid": "4797708003880603728",
                     "size": "9989",
                     "download": "2608"
-                },
-                "x64_test": {
-                    "gid": "4797708003880603728",
-                    "size": "9989",
-                    "download": "2608"
                 }
             }
         },
         "overridescddb": "1",
         "branches": {
             "public": {
-                "buildid": "13131235",
-                "timeupdated": "1704848367"
+                "buildid": "14098730",
+                "timeupdated": "1713480190"
             },
             "prerelease": {
-                "buildid": "13131235",
-                "timeupdated": "1704848347"
+                "buildid": "14098730",
+                "timeupdated": "1713480181"
             },
             "valve_ds": {
                 "buildid": "14098730",
                 "description": "The version Valve dedicated servers will sync to",
                 "timeupdated": "1713480113"
-            },
-            "x64_test": {
-                "buildid": "13846962",
-                "description": "64bit test. Cannot connect to public servers or matchmaking.",
-                "timeupdated": "1711391842"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 23213999,
-    "_sha": "d5bb12a43bc0347ea135b15064bc6031f066e44c",
-    "_size": 3223
+    "_change_number": 23214019,
+    "_sha": "94c7168c054072176766b7b7afde910912e6bc50",
+    "_size": 2610
 }
