@@ -30,6 +30,9 @@
     },
     "depots": {
         "346682": {
+            "config": {
+                "oslist": "windows"
+            },
             "manifests": {
                 "public": {
                     "gid": "8004684533252989344",
@@ -54,13 +57,16 @@
             },
             "encryptedmanifests": {
                 "developer": {
-                    "gid": "F97E4DB515A1016F3CE00B4167F44593",
-                    "size": "3EA80EF00E22F9436FEF298D7AEA6000",
-                    "download": "2D01D816181200BE489330EFC3622E10"
+                    "gid": "C2070A011CFE7FA9D2E7464EEFA9D532",
+                    "size": "FBF09EDA00A6CEB623022FD2F4BCBFBC",
+                    "download": "0C01833A291A8B4AFCAB96DDD8CEED03"
                 }
             }
         },
         "346683": {
+            "config": {
+                "oslist": "linux"
+            },
             "manifests": {
                 "public": {
                     "gid": "5369107087511510188",
@@ -151,9 +157,9 @@
                 "timeupdated": "1713200359"
             },
             "developer": {
-                "buildid": "14122571",
+                "buildid": "14122764",
                 "pwdrequired": "1",
-                "timeupdated": "1713659598"
+                "timeupdated": "1713663722"
             },
             "public-beta": {
                 "buildid": "14113820",
@@ -162,7 +168,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23238002,
-    "_sha": "b6d5e2b9bd39eba5ae431b613465e439ec43e5d7",
-    "_size": 3590
+    "_change_number": 23238267,
+    "_sha": "4c794ec699569f41ea9ef188debd83bd9dc73fde",
+    "_size": 3680
 }
