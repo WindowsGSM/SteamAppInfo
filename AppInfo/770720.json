@@ -187,7 +187,7 @@
                 "description": "MPQA MAIN"
             },
             "30": {
-                "executable": "hunt.exe",
+                "executable": "bin\\win_x64\\HuntGame.exe",
                 "arguments": "+online_account_client_settings stage2 +sys_dump_type 3 +online_news_server_port 5011",
                 "type": "option1",
                 "config": {
@@ -868,7 +868,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23248977,
-    "_sha": "de35fa86f5cf2aa8ae4f86d91d612b90091b63e0",
-    "_size": 24843
+    "_change_number": 23249769,
+    "_sha": "d7de7ac279acaa3f05cc8aa818d731055278bde1",
+    "_size": 24861
 }
