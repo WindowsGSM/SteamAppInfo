@@ -154,11 +154,6 @@
                     "size": "D004602DE56CBCED6441A3C49226333D",
                     "download": "2D0A875F8175355C7E880CBCF436808B"
                 },
-                "nightly": {
-                    "gid": "373F7A18E96FFD0AAD57ADF98B41E065",
-                    "size": "7289DFAC9F51413CC882D9A642FAF604",
-                    "download": "9A72811C931A68719E5484F2521BB859"
-                },
                 "patching": {
                     "gid": "CA5C7B9AAEB7220D7EAC853D9D898429",
                     "size": "A3B88AF38D8C2442FA5E9344A54F8F85",
@@ -173,6 +168,11 @@
                     "gid": "2F90E603104FF701EF176E4EC3D3BB86",
                     "size": "0F113A16645415C34F2FFCC14341D98F",
                     "download": "B317203FFDE34FBFBB1C4EA78BBDF716"
+                },
+                "nightly": {
+                    "gid": "7C1E25B26BC5A412FE830625AFD61484",
+                    "size": "ADA68506D7BF47C470B3FCEB37DCB299",
+                    "download": "6085917F464AD080EBA787D1C754932A"
                 }
             }
         },
@@ -253,11 +253,6 @@
                     "size": "494B58D4E9839CA143616CC18085B98D",
                     "download": "FEC31D6369F3730D97EE1FF02AAC3B66"
                 },
-                "nightly": {
-                    "gid": "6B8CC5EF4F06CBE450C6A2A438D8AB56",
-                    "size": "DE511A09A92E9DF8C456B1FC37A874BE",
-                    "download": "4D11DCB1E51B6F86A1F5DD2CDC94C3F3"
-                },
                 "patching": {
                     "gid": "A42F0D7C1AED3C1A7DC5F9B128FAA7DC",
                     "size": "B649014662B43097267B5F94B33098E6",
@@ -272,6 +267,11 @@
                     "gid": "F15971D87107E1B003B3B42782B692C8",
                     "size": "6EC2E42A04530FC67CE71F5D84A13553",
                     "download": "5DF72195354293571F3B040EE5305F95"
+                },
+                "nightly": {
+                    "gid": "EB1353B978E58453EF4FA1E2DD6725BE",
+                    "size": "E3ADE2BE2665705B6401915B56F785A8",
+                    "download": "EA0E2CA5A116D67ED4DE5D8747444A48"
                 }
             }
         },
@@ -344,11 +344,6 @@
                 "pwdrequired": "1",
                 "timeupdated": "1701773348"
             },
-            "nightly": {
-                "buildid": "14138850",
-                "pwdrequired": "1",
-                "timeupdated": "1713829393"
-            },
             "patching": {
                 "buildid": "13870174",
                 "pwdrequired": "1",
@@ -363,11 +358,16 @@
                 "buildid": "12933214",
                 "pwdrequired": "1",
                 "timeupdated": "1702328351"
+            },
+            "nightly": {
+                "buildid": "14152314",
+                "pwdrequired": "1",
+                "timeupdated": "1713915281"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 23273277,
-    "_sha": "356f4f9e6a9412704b54867f719ac6687edd333b",
+    "_change_number": 23274253,
+    "_sha": "059b7c31c0aec2f143122a27fe2a7df879d1db57",
     "_size": 9888
 }
