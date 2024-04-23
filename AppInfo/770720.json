@@ -54,7 +54,8 @@
         "steam_release_date": "1522940400",
         "community_visible_stats": "1",
         "community_hub_visible": "1",
-        "gameid": "770720"
+        "gameid": "770720",
+        "store_tags": {}
     },
     "config": {
         "installdir": "Hunt Showdown (Test Server)",
@@ -437,11 +438,6 @@
                     "size": "88CEC748D63A17DC6063C1958DF09CF1",
                     "download": "17122CFEB6AD5A7B587EA845FAC38E49"
                 },
-                "latest": {
-                    "gid": "4558209D29A1B5098744534AAA7A47A5",
-                    "size": "5118833E117B93681537628E06196A87",
-                    "download": "04339059D28A8065D5E9DB980C35A984"
-                },
                 "latest_lwp": {
                     "gid": "C214D3D43772EB02626ABFC14CF443D2",
                     "size": "60B34C48D3698DA373EDEE87A8E15814",
@@ -471,6 +467,11 @@
                     "gid": "7DA6422A99F11575B032696608F82C86",
                     "size": "91BC364D04DF1DACC4548ED7E4589059",
                     "download": "DDD528CAC215A1517482EF1874BF57B8"
+                },
+                "latest": {
+                    "gid": "1C644EA740C4FE55276F408D56EDDE15",
+                    "size": "B9BB4C9D1E3761450C1890A72DB9EE9B",
+                    "download": "BE391B2CA463498770D538B2EF3788E1"
                 }
             }
         },
@@ -537,11 +538,6 @@
                     "size": "1CC3C01569F983830DAB57D2627CF60B",
                     "download": "01A40815ED1528DCC5877A4BD9F393B9"
                 },
-                "latest": {
-                    "gid": "9689BC18C1B2F4547078C89F53E5D8D0",
-                    "size": "F6DB69F0BAD62018503A900986CEBCD8",
-                    "download": "06B73596373A2607BB49EFB5F40E8A97"
-                },
                 "latest_lwp": {
                     "gid": "7680C8170C8522CE077AB4170762E0A5",
                     "size": "A0D0425484C4019DDB5A117504A1D0E6",
@@ -571,6 +567,11 @@
                     "gid": "ABD0BE1604FF66AD8F6F9D94FE12B193",
                     "size": "3306592EDFE4BA3FDB3DFFF61875AAF6",
                     "download": "0F38A3BDAE98C1EE0687FA5666A3BCAD"
+                },
+                "latest": {
+                    "gid": "27CF9721AD410591DF5B3DC5280E102F",
+                    "size": "86893E0AE8341A9383E63B0DE6A0DF27",
+                    "download": "91ECE3D7C47D99419F99F80F9C01CF66"
                 }
             }
         },
@@ -637,11 +638,6 @@
                     "size": "95057B4965157BACB66B5078AFAB99F3",
                     "download": "B5CF37101D823FC704BC2E2DEA0D009D"
                 },
-                "latest": {
-                    "gid": "04CB9C7A80A4E5E3BF46F76EC7849457",
-                    "size": "1A38E4872C908DD356249F812F913A31",
-                    "download": "73727AD456A78FC1A08062C5E38B67EB"
-                },
                 "latest_lwp": {
                     "gid": "67DB44220F57E40CF4CB3BF4557C90F2",
                     "size": "05B22740E30AB5B449ECA1C0A3FAA077",
@@ -671,6 +667,11 @@
                     "gid": "07548F4DD121497CBB03D6589956A9A9",
                     "size": "85897B6A7A4263440040A7FD07BDDB7A",
                     "download": "BF35A0D9F998360BC6D0F863B79F6B77"
+                },
+                "latest": {
+                    "gid": "90FDA6418DF05D2366B96561CCD1EF13",
+                    "size": "2361AA9AF2C7A6988E293B0B2050A82B",
+                    "download": "79FB260B359F3958AFBEAFD61326DB26"
                 }
             }
         },
@@ -737,11 +738,6 @@
                     "size": "357665E7D3443B0D488197F9CEADBFB4",
                     "download": "357665E7D3443B0D488197F9CEADBFB4"
                 },
-                "latest": {
-                    "gid": "C091CA544879CC3B65DD35D50ADD0586",
-                    "size": "8B17FFA7D78F55908B9538F784D3F1F6",
-                    "download": "8B17FFA7D78F55908B9538F784D3F1F6"
-                },
                 "latest_lwp": {
                     "gid": "ED980F3A0B5F378C9752CBEB71E0C553",
                     "size": "21721918DB608A3BD4569558BE2D8F93",
@@ -771,6 +767,11 @@
                     "gid": "6C23158A99E1EEF59D92FFF44D5E2501",
                     "size": "A09FDD471B2948789F26426A52AF82B3",
                     "download": "A09FDD471B2948789F26426A52AF82B3"
+                },
+                "latest": {
+                    "gid": "C091CA544879CC3B65DD35D50ADD0586",
+                    "size": "8B17FFA7D78F55908B9538F784D3F1F6",
+                    "download": "8B17FFA7D78F55908B9538F784D3F1F6"
                 }
             }
         },
@@ -829,11 +830,6 @@
                 "pwdrequired": "1",
                 "timeupdated": "1713450307"
             },
-            "latest": {
-                "buildid": "14142525",
-                "pwdrequired": "1",
-                "timeupdated": "1713858212"
-            },
             "latest_lwp": {
                 "buildid": "12727337",
                 "pwdrequired": "1",
@@ -863,11 +859,16 @@
                 "buildid": "13449184",
                 "pwdrequired": "1",
                 "timeupdated": "1707904076"
+            },
+            "latest": {
+                "buildid": "14152198",
+                "pwdrequired": "1",
+                "timeupdated": "1713914394"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 23273491,
-    "_sha": "37aab28821af7c7c260075aad3cdb32abeea3191",
-    "_size": 24838
+    "_change_number": 23274121,
+    "_sha": "0e472f2ddd4260a66b8f867d036e74ce0deec138",
+    "_size": 24861
 }
