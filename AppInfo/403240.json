@@ -173,11 +173,6 @@
                     "size": "6B5E1F487963C8B10BD62F3A3406CA7B",
                     "download": "ED56E258C04928E574C75B904065FAD1"
                 },
-                "squad_release": {
-                    "gid": "1A33C851A6F4E84E29215AF4F15F6DBC",
-                    "size": "679458DC1487941DCF887D13E5AA35C8",
-                    "download": "FCC590985DB16D18148E9B732490DF1F"
-                },
                 "squad_testing": {
                     "gid": "8788180A06670ED2203054CC59A52A84",
                     "size": "4EC4B73D4D36859385176B7D3E8912A9",
@@ -187,6 +182,11 @@
                     "gid": "7C1CFAEF49AB11F839A726D50BF19B60",
                     "size": "031F759EC7EAF19401D93BCE5EE774D7",
                     "download": "8EABB91FA588817F4F58A38ED3DF1A15"
+                },
+                "squad_release": {
+                    "gid": "56DC342993063512EB75FEA3ED46AA81",
+                    "size": "F7746A5F64122638AFEA36DC8423576F",
+                    "download": "B30DA9F1ED44FCC9B4D992DC88494588"
                 }
             }
         },
@@ -259,11 +259,6 @@
                     "size": "90AE55C4BBE9A742DC6A648EAEB111F2",
                     "download": "4AA52D6058930E67A3349AF26E69D3ED"
                 },
-                "squad_release": {
-                    "gid": "A3851644DF65A2E4C80E76C84755D3BE",
-                    "size": "D2A79E7BF63F6CB73A9EB7102C3B9946",
-                    "download": "DA8DD8F87DF8B74EAB76905AC3896A18"
-                },
                 "squad_testing": {
                     "gid": "80C10D6827ABA44A1BD7C500BACF8235",
                     "size": "F76CA3C97390B453D462D117B96FC969",
@@ -273,6 +268,11 @@
                     "gid": "A55291FC7CF68BF8947C1B8E448B84AF",
                     "size": "1093F9E1D5D9FC527C539F559F44C95E",
                     "download": "9BBE1EB393C9CAC0AFBE1784F0326429"
+                },
+                "squad_release": {
+                    "gid": "A3851644DF65A2E4C80E76C84755D3BE",
+                    "size": "D2A79E7BF63F6CB73A9EB7102C3B9946",
+                    "download": "DA8DD8F87DF8B74EAB76905AC3896A18"
                 }
             }
         },
@@ -399,11 +399,6 @@
                 "pwdrequired": "1",
                 "timeupdated": "1713875029"
             },
-            "squad_release": {
-                "buildid": "14105132",
-                "pwdrequired": "1",
-                "timeupdated": "1713503348"
-            },
             "squad_testing": {
                 "buildid": "13741257",
                 "pwdrequired": "1",
@@ -413,6 +408,11 @@
                 "buildid": "12651833",
                 "pwdrequired": "1",
                 "timeupdated": "1699554664"
+            },
+            "squad_release": {
+                "buildid": "14154607",
+                "pwdrequired": "1",
+                "timeupdated": "1713932156"
             },
             "squad_previous": {
                 "buildid": "11847097",
@@ -437,7 +437,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23266071,
-    "_sha": "c956598c9ac32cf015d56ea40635bb24a1e885d7",
+    "_change_number": 23276798,
+    "_sha": "2134d2262ccc4c36491b8d8d2234869fb3b16e70",
     "_size": 11570
 }
