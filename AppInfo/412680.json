@@ -91,15 +91,15 @@
                     "size": "4CFBB6B3145197B69D794DAFAC67FAFE",
                     "download": "B18187DC844C9EB54E3DCCB0FD6020AF"
                 },
-                "qa-shipping": {
-                    "gid": "6C8BD2E66CDAEDD4C403D5503C0F7500",
-                    "size": "DA55D17C58A278E1D0985A9F3170F7F9",
-                    "download": "2C0EC4AC6F217EEACB281CFBDF55B836"
-                },
                 "stress-test": {
                     "gid": "607B45D9E89DCBBE1F96A58D8E73948C",
                     "size": "94E889496D717010321FC8C37841E4A7",
                     "download": "A1EE8412D27F22CC7D6EEC8BB2D1AC79"
+                },
+                "qa-shipping": {
+                    "gid": "6C8BD2E66CDAEDD4C403D5503C0F7500",
+                    "size": "DA55D17C58A278E1D0985A9F3170F7F9",
+                    "download": "2C0EC4AC6F217EEACB281CFBDF55B836"
                 }
             }
         },
@@ -140,15 +140,15 @@
                     "size": "B8C57200BA657626A856E5DE9C12F8E9",
                     "download": "E853BF49FF7324EC292E01C48D945B65"
                 },
-                "qa-shipping": {
-                    "gid": "64745009CB9E5A38509EC7BF7168A047",
-                    "size": "1379F1EF25FB3F23CFC86233FF268258",
-                    "download": "A085E2B33A798339855C06EF61C96764"
-                },
                 "stress-test": {
                     "gid": "E35093A5B575F4F979472DA33A4CE1DE",
                     "size": "74C3B4D2B3B9E8451585FF204A0693D0",
                     "download": "82F17953D046C1C1F5BBAD087BD05392"
+                },
+                "qa-shipping": {
+                    "gid": "028EA7885B87658BA7218EB669143439",
+                    "size": "C4A78A416A9161A4CE49EFCAC77608A1",
+                    "download": "F31F48BEB1A93C9AD772B08513B12ABA"
                 }
             }
         },
@@ -192,11 +192,6 @@
                 "pwdrequired": "1",
                 "timeupdated": "1713832522"
             },
-            "qa-shipping": {
-                "buildid": "14151043",
-                "pwdrequired": "1",
-                "timeupdated": "1713906484"
-            },
             "spiro0.11.59.04": {
                 "buildid": "12380465",
                 "description": "evrima spiro branch",
@@ -206,11 +201,16 @@
                 "buildid": "12672532",
                 "pwdrequired": "1",
                 "timeupdated": "1700167113"
+            },
+            "qa-shipping": {
+                "buildid": "14152974",
+                "pwdrequired": "1",
+                "timeupdated": "1713919864"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 23272885,
-    "_sha": "2651f60873c5754dcae3b7af9cefaf0de21916fc",
+    "_change_number": 23274957,
+    "_sha": "7e7fb39d140ae46bd15ebc6574ee0765ead44736",
     "_size": 5402
 }
