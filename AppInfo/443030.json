@@ -145,11 +145,6 @@
                     "size": "975CD4B028737900CC05F8013D9792F7",
                     "download": "91817034BCA91C000789167D2B31B65C"
                 },
-                "nightly-live": {
-                    "gid": "62E4CD76D94636C66D9F3CE8698BB493",
-                    "size": "26A41943187172E51275ECE43C9D189B",
-                    "download": "4AAAB9A91276E185633078400A48DFE0"
-                },
                 "nightly-test": {
                     "gid": "EF6117F345583ABF06050C1B14C65E43",
                     "size": "4632E974B19951E3310F42EA4B2D2F90",
@@ -184,6 +179,11 @@
                     "gid": "CFA6E26C9C018583BB906F36AF9D4548",
                     "size": "04638FA11B6B2707FA2679D00EB0113B",
                     "download": "14AB88C8CF2C2F1C2A979DAB1B59BE30"
+                },
+                "nightly-live": {
+                    "gid": "280AB524D5025A04A28B5B7968756ACC",
+                    "size": "546D1ACAB779265679C47285CF814A5E",
+                    "download": "1A54696157EB622355F57BCC637C1417"
                 },
                 "nightly-stable": {
                     "gid": "EF060530F9C7C7E365ADEEBF87C6BB4B",
@@ -245,11 +245,6 @@
                     "size": "3EA361ED5E4DC100718C5952BFB482E0",
                     "download": "3EA361ED5E4DC100718C5952BFB482E0"
                 },
-                "nightly-live": {
-                    "gid": "EBF4E1CBE0B15421BB2729F3F19F6C18",
-                    "size": "06714664A5D7102D3874866646E3972F",
-                    "download": "06714664A5D7102D3874866646E3972F"
-                },
                 "nightly-test": {
                     "gid": "9231D9BDA9454858608C92F8B0AC5CD7",
                     "size": "A46E1A52AC503667980A419BBB5C5BF6",
@@ -284,6 +279,11 @@
                     "gid": "7C5F46759F952FFA66BF2B5AA164A01D",
                     "size": "F752C0FBBC73E1F4CEAA4259F340EF75",
                     "download": "F752C0FBBC73E1F4CEAA4259F340EF75"
+                },
+                "nightly-live": {
+                    "gid": "EBF4E1CBE0B15421BB2729F3F19F6C18",
+                    "size": "06714664A5D7102D3874866646E3972F",
+                    "download": "06714664A5D7102D3874866646E3972F"
                 },
                 "nightly-stable": {
                     "gid": "D42FEC789C597E2C80E33F160A6AB419",
@@ -337,11 +337,6 @@
                 "pwdrequired": "1",
                 "timeupdated": "1704945877"
             },
-            "nightly-live": {
-                "buildid": "14138244",
-                "pwdrequired": "1",
-                "timeupdated": "1713825206"
-            },
             "nightly-test": {
                 "buildid": "14106086",
                 "pwdrequired": "1",
@@ -377,6 +372,11 @@
                 "pwdrequired": "1",
                 "timeupdated": "1713942837"
             },
+            "nightly-live": {
+                "buildid": "14165739",
+                "pwdrequired": "1",
+                "timeupdated": "1714000003"
+            },
             "nightly-stable": {
                 "buildid": "14151818",
                 "pwdrequired": "1",
@@ -390,7 +390,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23278435,
-    "_sha": "dc22eeee10c0b581cde8caac68aa0439c1718415",
+    "_change_number": 23290258,
+    "_sha": "7d12265a50cf3333f36c30bdfd12046e079e56fc",
     "_size": 10269
 }
