@@ -137,11 +137,6 @@
                 }
             },
             "encryptedmanifests": {
-                "nighly": {
-                    "gid": "B07E3212C288717F2D5A0F047F419874",
-                    "size": "2DC2ED23B4F3051E4D2E7FAE5249D4DE",
-                    "download": "ECE4BFA6035BC8BA2FB8FE06CC3808F0"
-                },
                 "nighly_arm64": {
                     "gid": "210881CDCC747DEF1A58D52308186623",
                     "size": "DFBEAB39F61924703D171CD192A1F902",
@@ -176,6 +171,11 @@
                     "gid": "3CBC337801D35BA40D7E8027A5CE3099",
                     "size": "A787BD70ED18763A39C49F5707261306",
                     "download": "78765CAF019657F8C610F8F1F0A42CDF"
+                },
+                "nighly": {
+                    "gid": "87DE0A521CEC869086793E924F04C64F",
+                    "size": "7CBD940FB437B8983243C640FC9ACD27",
+                    "download": "0FB09844BDE29845E2E26B18FCF4ADC7"
                 }
             }
         },
@@ -216,11 +216,6 @@
                 "buildid": "8076883",
                 "description": "Update 28 with Workshop",
                 "timeupdated": "1686261512"
-            },
-            "nighly": {
-                "buildid": "14149372",
-                "pwdrequired": "1",
-                "timeupdated": "1713907573"
             },
             "nighly_arm64": {
                 "buildid": "8774567",
@@ -274,11 +269,16 @@
                 "buildid": "14136550",
                 "pwdrequired": "1",
                 "timeupdated": "1713813913"
+            },
+            "nighly": {
+                "buildid": "14159287",
+                "pwdrequired": "1",
+                "timeupdated": "1713961281"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 23273098,
-    "_sha": "ba038aead653a8b3b235c52de832731b190bb488",
+    "_change_number": 23282656,
+    "_sha": "5aa15b2099c1746c51ae0cb641de92dc129a8fdd",
     "_size": 6517
 }
