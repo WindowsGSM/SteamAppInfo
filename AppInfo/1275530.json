@@ -80,11 +80,6 @@
                     "size": "92598CEE3FCED24929F667E8F13B516F",
                     "download": "7722EAB97674D80F516934D773B07652"
                 },
-                "public_test": {
-                    "gid": "E986D2D58D14D06893235ECAE0E5AE6E",
-                    "size": "8D57763E7C3AB2821E6B19AFC3D3F26C",
-                    "download": "CAD96A83E9469FCC03B8D7B1D1AC3F35"
-                },
                 "server": {
                     "gid": "8574FEFA83FD33E0602C4DDDC80DC8CB",
                     "size": "9A466E447F5DDECBE8BE00ECF4962EEE",
@@ -104,6 +99,11 @@
                     "gid": "5EC01DFF80FD18C5C38EBF8860246346",
                     "size": "5EF50A4EEEFAEDA27675141C7C1840F0",
                     "download": "A46DFC1BCF347E322B9F46509D44343B"
+                },
+                "public_test": {
+                    "gid": "55A15F6344921A1A1C85D2862E8EFEE7",
+                    "size": "8BC46DD5824E996C125932442DDA9675",
+                    "download": "8D7FF76C464B713A0AA209C2956149A3"
                 }
             }
         },
@@ -157,11 +157,6 @@
                 "pwdrequired": "1",
                 "timeupdated": "1667507248"
             },
-            "public_test": {
-                "buildid": "14011704",
-                "pwdrequired": "1",
-                "timeupdated": "1712764203"
-            },
             "server": {
                 "buildid": "14011704",
                 "pwdrequired": "1",
@@ -181,11 +176,16 @@
                 "buildid": "14158922",
                 "pwdrequired": "1",
                 "timeupdated": "1713959108"
+            },
+            "public_test": {
+                "buildid": "14160766",
+                "pwdrequired": "1",
+                "timeupdated": "1713969380"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 23284047,
-    "_sha": "1eae72150e91ca33806e4434539f1056b5e34526",
+    "_change_number": 23284511,
+    "_sha": "7716801474727f5020d566b01de1b586b82b1eb1",
     "_size": 4941
 }
