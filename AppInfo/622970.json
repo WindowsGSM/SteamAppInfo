@@ -142,11 +142,6 @@
                     "size": "DFBEAB39F61924703D171CD192A1F902",
                     "download": "50AEEDEEEF51087873AD92E9842EB882"
                 },
-                "nighly_shack": {
-                    "gid": "4ED812864EB27A12B57069F38DB50331",
-                    "size": "E63B4BABA11EC8D0DA4673FBB04E1BA9",
-                    "download": "3B95B3F575EF224EE0357FA2AA8E53E9"
-                },
                 "nighly_shack_arm64": {
                     "gid": "029B858C9A1C4F82669D148C9A948E1D",
                     "size": "ACAA9BFC0BE87833D90DCA6B3BC1FD73",
@@ -173,9 +168,14 @@
                     "download": "78765CAF019657F8C610F8F1F0A42CDF"
                 },
                 "nighly": {
-                    "gid": "87DE0A521CEC869086793E924F04C64F",
-                    "size": "7CBD940FB437B8983243C640FC9ACD27",
-                    "download": "0FB09844BDE29845E2E26B18FCF4ADC7"
+                    "gid": "D7F902748984CB19E5EEF2386B2BA0D4",
+                    "size": "67F43E3ADF9959B523CE25B12C33F382",
+                    "download": "1A42CE6A99C43930FFB69147C7C3E2E7"
+                },
+                "nighly_shack": {
+                    "gid": "21DD80513982C64F7710E0545BD3E17E",
+                    "size": "149AFB0F83626368B203F0B7526F7032",
+                    "download": "8D842C02C290BA783298EC6A8289EDD7"
                 }
             }
         },
@@ -222,11 +222,6 @@
                 "pwdrequired": "1",
                 "timeupdated": "1653004510"
             },
-            "nighly_shack": {
-                "buildid": "14151235",
-                "pwdrequired": "1",
-                "timeupdated": "1713907548"
-            },
             "nighly_shack_arm64": {
                 "buildid": "8816294",
                 "pwdrequired": "1",
@@ -271,14 +266,19 @@
                 "timeupdated": "1713813913"
             },
             "nighly": {
+                "buildid": "14136550",
+                "pwdrequired": "1",
+                "timeupdated": "1713972708"
+            },
+            "nighly_shack": {
                 "buildid": "14159287",
                 "pwdrequired": "1",
-                "timeupdated": "1713961281"
+                "timeupdated": "1713972698"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 23282656,
-    "_sha": "5aa15b2099c1746c51ae0cb641de92dc129a8fdd",
+    "_change_number": 23285358,
+    "_sha": "a10753c96c0135873f5b4dcd3a01ab03e765e770",
     "_size": 6517
 }
