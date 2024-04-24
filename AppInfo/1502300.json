@@ -106,19 +106,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5756410182122201633",
-                    "size": "1030777420",
-                    "download": "719613904"
-                },
-                "experimental": {
-                    "gid": "5756410182122201633",
-                    "size": "1030777420",
-                    "download": "719613904"
+                    "gid": "1084296430461056557",
+                    "size": "1028019950",
+                    "download": "717287520"
                 },
                 "experimentalwindows": {
                     "gid": "7282175433893886699",
                     "size": "1381905653",
                     "download": "971095184"
+                },
+                "experimental": {
+                    "gid": "1084296430461056557",
+                    "size": "1028019950",
+                    "download": "717287520"
                 }
             },
             "encryptedmanifests": {
@@ -141,19 +141,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8787662175759859908",
-                    "size": "1090886193",
-                    "download": "756440656"
-                },
-                "experimental": {
-                    "gid": "8787662175759859908",
-                    "size": "1090886193",
-                    "download": "756440656"
+                    "gid": "5060001017773639960",
+                    "size": "1087318998",
+                    "download": "753945584"
                 },
                 "experimentalwindows": {
                     "gid": "4652151882370758544",
                     "size": "1312964402",
                     "download": "950174928"
+                },
+                "experimental": {
+                    "gid": "5060001017773639960",
+                    "size": "1087318998",
+                    "download": "753945584"
                 }
             },
             "encryptedmanifests": {
@@ -171,13 +171,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "14094957",
-                "timeupdated": "1713450005"
-            },
-            "experimental": {
-                "buildid": "14094957",
-                "description": "for testing",
-                "timeupdated": "1713449973"
+                "buildid": "14148278",
+                "timeupdated": "1713966562"
             },
             "experimentalwindows": {
                 "buildid": "9754712",
@@ -189,6 +184,11 @@
                 "pwdrequired": "1",
                 "timeupdated": "1713956237"
             },
+            "experimental": {
+                "buildid": "14148278",
+                "description": "for testing",
+                "timeupdated": "1713966474"
+            },
             "pre-experimental": {
                 "buildid": "14148278",
                 "pwdrequired": "1",
@@ -197,7 +197,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23281536,
-    "_sha": "6d9cdae4eed4888e950b4028ee4a4b142094c4ee",
+    "_change_number": 23283859,
+    "_sha": "d6ccfee0d7c76d46616ec9884f4c4e5d20a2b283",
     "_size": 4538
 }
