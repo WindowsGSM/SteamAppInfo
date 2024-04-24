@@ -96,11 +96,6 @@
                 }
             },
             "encryptedmanifests": {
-                "experimental": {
-                    "gid": "F2A4BB8BCA608FD3AA04527FB3CA260D",
-                    "size": "E3B0DF8E9C7255A2BCDA6AD2BF31C0AD",
-                    "download": "045E1264573EAD19FF927CDF9B0AFE07"
-                },
                 "internal-test": {
                     "gid": "7D11DF2020DACF78DC48C166B601A562",
                     "size": "F06001314E99B6BEA51D5315E8C67C5C",
@@ -115,6 +110,11 @@
                     "gid": "8EA083B5AB5CDFD074053EF0494F636B",
                     "size": "08307BB58CDA11DBA91B2D1862DF4F10",
                     "download": "B631AC74BF50DF843BD6C07140FB896F"
+                },
+                "experimental": {
+                    "gid": "E0A2FF881F29E96EE15BDBD8CD7C8525",
+                    "size": "BC5FE0B0F0C2C0FA57EE5065C476DB94",
+                    "download": "CE65834933EC9190C2D36B40C1BE9447"
                 },
                 "unstable": {
                     "gid": "AA961280B45B8C76575AF399E492EB05",
@@ -145,11 +145,6 @@
                 }
             },
             "encryptedmanifests": {
-                "experimental": {
-                    "gid": "25CAE08EB9EF402BD336E831B77A87BA",
-                    "size": "4889AC64DB02E62FD68990F27CF3B6AE",
-                    "download": "A7FAA92B2296181564D548FD042C1E80"
-                },
                 "internal-test": {
                     "gid": "0554D5DBCAE0F31B3EEA3D5C01B5CD6A",
                     "size": "C4F3D6D9050F7C3C7DD105A226BB51BF",
@@ -164,6 +159,11 @@
                     "gid": "AF678EBE508BF4FA8860569EFBB6DF15",
                     "size": "3789F466E0091E98BA444B8C30FBC00A",
                     "download": "16284D752B24BA3BD34E824D7BDD80EA"
+                },
+                "experimental": {
+                    "gid": "926B7CFA26D8AE9AE868B00843F88209",
+                    "size": "B59BA5200A302E58594E282773F9C531",
+                    "download": "126CE253B493308AB8357902841F2738"
                 },
                 "unstable": {
                     "gid": "5953ABB08C7843D548359FE8C1014EAB",
@@ -187,11 +187,6 @@
                 "description": "Last stable build before Mistlands",
                 "timeupdated": "1671524488"
             },
-            "experimental": {
-                "buildid": "14131059",
-                "pwdrequired": "1",
-                "timeupdated": "1713780535"
-            },
             "internal-test": {
                 "buildid": "14108339",
                 "pwdrequired": "1",
@@ -207,6 +202,11 @@
                 "pwdrequired": "1",
                 "timeupdated": "1713783673"
             },
+            "experimental": {
+                "buildid": "14156675",
+                "pwdrequired": "1",
+                "timeupdated": "1713950337"
+            },
             "unstable": {
                 "buildid": "14156675",
                 "pwdrequired": "1",
@@ -215,7 +215,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23279471,
-    "_sha": "22d54d7ba0fd7068af3c4c3d11677b998c20cbf3",
+    "_change_number": 23280106,
+    "_sha": "3ff1241123ee9bdc849a1cbf48f3f915fb35d60e",
     "_size": 5153
 }
