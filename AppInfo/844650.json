@@ -107,11 +107,6 @@
                 }
             },
             "encryptedmanifests": {
-                "communitytesting": {
-                    "gid": "53F9B4C9E81B2C64F08D3B89D42C3063",
-                    "size": "55E18E8C60767B1CEE1828C3C48DD2B8",
-                    "download": "9C6C88F945A79BFAFD4B2D45A68EEFCD"
-                },
                 "mercuryarts": {
                     "gid": "7908647FCE5F49DCBF3F44A83A440501",
                     "size": "6B3510A16A5D6B8F022E7834BE5B018F",
@@ -131,6 +126,11 @@
                     "gid": "4F6ADBC5832D558CF515514DF624DA85",
                     "size": "F73CDFF38CFA24223C68439C57CAC734",
                     "download": "11DCF17F98653EEA7ADD633515D1D8D9"
+                },
+                "communitytesting": {
+                    "gid": "2EB1208043850BC3A7151AF2E531C726",
+                    "size": "C903C75528D744886DDE76D2DC6859D0",
+                    "download": "12A92898C9DCC59E8E54282DD894EA57"
                 }
             }
         },
@@ -146,11 +146,6 @@
                 }
             },
             "encryptedmanifests": {
-                "communitytesting": {
-                    "gid": "41B02315F7139AAE91DBB4865D7AAC7B",
-                    "size": "2C7412B7739C66C63D6B9F72C7588ADA",
-                    "download": "A17CB12483F1A3D5EBD368B545029B65"
-                },
                 "mercuryarts": {
                     "gid": "3E983E09AC5A0AEF06D04A10A32FFA2F",
                     "size": "5E4567EC49BCE9A14100EA365142BE63",
@@ -170,6 +165,11 @@
                     "gid": "A7577BD52E5DC2341193A597DC823A76",
                     "size": "C175B4FFB1D9A1BC887150286DE0C4D7",
                     "download": "2C0E11030C68842034A154984C2EAA12"
+                },
+                "communitytesting": {
+                    "gid": "D2FCDD31AFBC8E7CC780DE12687C5CFF",
+                    "size": "F5474D89E74B6973CED94ADC68370B95",
+                    "download": "E75C832D018A6EC03D60913B8FC3BC02"
                 }
             }
         },
@@ -177,11 +177,6 @@
             "public": {
                 "buildid": "14038201",
                 "timeupdated": "1712945931"
-            },
-            "communitytesting": {
-                "buildid": "14143717",
-                "pwdrequired": "1",
-                "timeupdated": "1713865124"
             },
             "mercuryarts": {
                 "buildid": "10176006",
@@ -202,11 +197,16 @@
                 "buildid": "10197897",
                 "pwdrequired": "1",
                 "timeupdated": "1671721310"
+            },
+            "communitytesting": {
+                "buildid": "14170520",
+                "pwdrequired": "1",
+                "timeupdated": "1714037234"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 23263878,
-    "_sha": "3afc30a783f2a076d6cce4a102f450385019fb4c",
+    "_change_number": 23296043,
+    "_sha": "4eabec2b72706bfa72e7272d5dee2fd9554c0b4d",
     "_size": 4672
 }
