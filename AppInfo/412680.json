@@ -71,11 +71,6 @@
                 }
             },
             "encryptedmanifests": {
-                "hordetesting": {
-                    "gid": "BAF25A0979A5155D397E6C183CE88515",
-                    "size": "3011395339156DD4C071E91C0D960AD9",
-                    "download": "F81701B1D1906536C5B5847098E76FF0"
-                },
                 "internal": {
                     "gid": "72ED5F4635B3F5D938268A5BF858187C",
                     "size": "D6E73E1C3540BBDA686BDFEBBC9C2F3E",
@@ -95,6 +90,11 @@
                     "gid": "607B45D9E89DCBBE1F96A58D8E73948C",
                     "size": "94E889496D717010321FC8C37841E4A7",
                     "download": "A1EE8412D27F22CC7D6EEC8BB2D1AC79"
+                },
+                "hordetesting": {
+                    "gid": "BAF25A0979A5155D397E6C183CE88515",
+                    "size": "3011395339156DD4C071E91C0D960AD9",
+                    "download": "F81701B1D1906536C5B5847098E76FF0"
                 },
                 "qa-shipping": {
                     "gid": "6C8BD2E66CDAEDD4C403D5503C0F7500",
@@ -120,11 +120,6 @@
                 }
             },
             "encryptedmanifests": {
-                "hordetesting": {
-                    "gid": "BABDABE86C62860C0595CC101ED2493D",
-                    "size": "B367FDD6013301E37F7C92F645085652",
-                    "download": "B70C6E4C490959B1C6945D7D410A20F5"
-                },
                 "internal": {
                     "gid": "A206AFF4F944B561764D92CE3B11999D",
                     "size": "52ADE07B67DA5C4E336FE696DFD631AF",
@@ -144,6 +139,11 @@
                     "gid": "E35093A5B575F4F979472DA33A4CE1DE",
                     "size": "74C3B4D2B3B9E8451585FF204A0693D0",
                     "download": "82F17953D046C1C1F5BBAD087BD05392"
+                },
+                "hordetesting": {
+                    "gid": "131E4A56710ADF72E3FFBD1B8B4D6B8D",
+                    "size": "4675F7A4B391ACD71BEA13011E271554",
+                    "download": "D5886EEA00D84AC15DCED4BD84389A6A"
                 },
                 "qa-shipping": {
                     "gid": "10F5094E2E65157E9DA30E0095174283",
@@ -166,11 +166,6 @@
                 "buildid": "13504000",
                 "description": "evrima servers",
                 "timeupdated": "1708404394"
-            },
-            "hordetesting": {
-                "buildid": "14137635",
-                "pwdrequired": "1",
-                "timeupdated": "1713820956"
             },
             "internal": {
                 "buildid": "13538592",
@@ -202,6 +197,11 @@
                 "pwdrequired": "1",
                 "timeupdated": "1700167113"
             },
+            "hordetesting": {
+                "buildid": "14177729",
+                "pwdrequired": "1",
+                "timeupdated": "1714078246"
+            },
             "qa-shipping": {
                 "buildid": "14177197",
                 "pwdrequired": "1",
@@ -210,7 +210,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23304442,
-    "_sha": "934aeaa753278b6c268dbe5f1b4aee5900299e3b",
+    "_change_number": 23305030,
+    "_sha": "a0756e3ee5fe6e68c6d22d886730b3f874f3fc75",
     "_size": 5402
 }
