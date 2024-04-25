@@ -135,11 +135,6 @@
                     "size": "23936FDA3109A4C86890F941C61376A0",
                     "download": "6CDBB5E7B05790B4487EEAA6D889E58A"
                 },
-                "release": {
-                    "gid": "A53206E5306C96E32C4ECB26DD556F96",
-                    "size": "47684374BA799A5FC79A65E1E8E6D461",
-                    "download": "1998AC7D8ABB529E5074F3317C5F2F01"
-                },
                 "release_candidate": {
                     "gid": "4807DFE26F35E8F058BE7D5A1088C3EA",
                     "size": "B67E2C9496ACE1D26E890D82BD02FBD2",
@@ -154,6 +149,11 @@
                     "gid": "5DE12CB7585811CE91B2FA6FA10D76B7",
                     "size": "5133B979067DA5EF5998C0303E319E33",
                     "download": "216F963EB96841D503FD0BD6FB398BA7"
+                },
+                "release": {
+                    "gid": "52CDACF25CDA77F82FC9BC92EBA0B54B",
+                    "size": "D060285549B984BE4EC84FC2311A8704",
+                    "download": "B9CB5D8B87AE47B7518999BF0BB36C6F"
                 }
             }
         },
@@ -182,11 +182,6 @@
                 "pwdrequired": "1",
                 "timeupdated": "1596461840"
             },
-            "release": {
-                "buildid": "13611221",
-                "pwdrequired": "1",
-                "timeupdated": "1710324440"
-            },
             "release_candidate": {
                 "buildid": "14120665",
                 "pwdrequired": "1",
@@ -201,11 +196,16 @@
                 "buildid": "14166258",
                 "pwdrequired": "1",
                 "timeupdated": "1714004164"
+            },
+            "release": {
+                "buildid": "14120665",
+                "pwdrequired": "1",
+                "timeupdated": "1714035871"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 23290977,
-    "_sha": "fc7e295bf0244a974af4c522ade58adda68da3ab",
+    "_change_number": 23295741,
+    "_sha": "8d6e2367e2366e943682a906d2b9bac5f54ce296",
     "_size": 4705
 }
