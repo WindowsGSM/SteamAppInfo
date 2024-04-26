@@ -341,6 +341,20 @@
                     "english": "117_maincheck"
                 },
                 "description": "117_maincheck"
+            },
+            "46": {
+                "executable": "bin\\win_x64\\HuntGame.exe",
+                "arguments": "+online_account_client_settings stage2 +sys_dump_type 3 +online_news_server_port 5011",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "ratings_esrb ratings_pegi  ratings_usk"
+                },
+                "description_loc": {
+                    "english": "Branch of Age Rating Submission"
+                },
+                "description": "Branch of Age Rating Submission"
             }
         },
         "uselaunchcommandline": "1"
@@ -868,7 +882,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23308470,
-    "_sha": "6f4197fd5fc3dd0257370f96cd00c6d9b2fe65b2",
-    "_size": 24861
+    "_change_number": 23310816,
+    "_sha": "2e1df4daa8a23fe8822b014f75e4fdf08256f4ad",
+    "_size": 25317
 }
