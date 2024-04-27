@@ -36,24 +36,24 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "808072036026966968",
-                    "size": "10003039748",
-                    "download": "2769512224"
+                    "gid": "72476861699935354",
+                    "size": "10009064867",
+                    "download": "2775828160"
                 },
                 "legacy-v6.0.0": {
                     "gid": "4376981082077672751",
                     "size": "2130157052",
                     "download": "627444112"
                 },
-                "previous": {
-                    "gid": "2376037824870948149",
-                    "size": "9418719303",
-                    "download": "2611911280"
-                },
                 "public-playtest": {
                     "gid": "8853197227526971481",
                     "size": "9507129702",
                     "download": "2637421104"
+                },
+                "previous": {
+                    "gid": "808072036026966968",
+                    "size": "10003039748",
+                    "download": "2769512224"
                 }
             },
             "encryptedmanifests": {
@@ -93,15 +93,15 @@
                     "size": "2040092502",
                     "download": "898734816"
                 },
-                "previous": {
-                    "gid": "4313557304435621580",
-                    "size": "2007743073",
-                    "download": "882887616"
-                },
                 "public-playtest": {
                     "gid": "8061254468708826149",
                     "size": "2040092502",
                     "download": "898734816"
+                },
+                "previous": {
+                    "gid": "8390477545494154533",
+                    "size": "2035766206",
+                    "download": "897034288"
                 }
             },
             "encryptedmanifests": {
@@ -119,8 +119,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "13972701",
-                "timeupdated": "1712399676"
+                "buildid": "14195200",
+                "timeupdated": "1714220458"
             },
             "development": {
                 "buildid": "10584959",
@@ -142,20 +142,20 @@
                 "description": " \tPre-release testing branch",
                 "timeupdated": "1692921611"
             },
-            "previous": {
-                "buildid": "11781411",
-                "description": " \tRollback to previous version",
-                "timeupdated": "1691818385"
-            },
             "public-playtest": {
                 "buildid": "12027408",
                 "description": "Public playtesting branch",
                 "timeupdated": "1692948739"
+            },
+            "previous": {
+                "buildid": "13972701",
+                "description": " \tRollback to previous version",
+                "timeupdated": "1714221325"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 23151181,
-    "_sha": "86b2ed7562998cf1ff7c10721b03c60614549346",
-    "_size": 3662
+    "_change_number": 23326552,
+    "_sha": "c690154bc73ded0402e77f4fe0d174816bcfb3a3",
+    "_size": 3661
 }
