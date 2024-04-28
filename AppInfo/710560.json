@@ -135,11 +135,6 @@
                     "size": "23936FDA3109A4C86890F941C61376A0",
                     "download": "6CDBB5E7B05790B4487EEAA6D889E58A"
                 },
-                "release_candidate": {
-                    "gid": "4807DFE26F35E8F058BE7D5A1088C3EA",
-                    "size": "B67E2C9496ACE1D26E890D82BD02FBD2",
-                    "download": "A6E807ABE4CFD1DE6F143DB0C817B26F"
-                },
                 "staging": {
                     "gid": "6BF738B2CF9B6211CFBB618B77D0E9C5",
                     "size": "18DB2018B55D9DA0EF154D874DBFD3E2",
@@ -154,6 +149,11 @@
                     "gid": "52CDACF25CDA77F82FC9BC92EBA0B54B",
                     "size": "D060285549B984BE4EC84FC2311A8704",
                     "download": "B9CB5D8B87AE47B7518999BF0BB36C6F"
+                },
+                "release_candidate": {
+                    "gid": "6143A62723980ADD8AB6BC82CEE8EF7E",
+                    "size": "C764A028BC2A0F6640B07D00E58C1DCF",
+                    "download": "37A6FCDF1DDF553DBE64B462FB934D70"
                 }
             }
         },
@@ -182,11 +182,6 @@
                 "pwdrequired": "1",
                 "timeupdated": "1596461840"
             },
-            "release_candidate": {
-                "buildid": "14120665",
-                "pwdrequired": "1",
-                "timeupdated": "1713629458"
-            },
             "staging": {
                 "buildid": "14065252",
                 "pwdrequired": "1",
@@ -201,11 +196,16 @@
                 "buildid": "14120665",
                 "pwdrequired": "1",
                 "timeupdated": "1714035871"
+            },
+            "release_candidate": {
+                "buildid": "14202057",
+                "pwdrequired": "1",
+                "timeupdated": "1714330512"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 23322887,
-    "_sha": "58165d94208c4759cb429037ec3023cbfa988d29",
+    "_change_number": 23335305,
+    "_sha": "a0029f9810d5bfbc8641b73123b335d50f6cc691",
     "_size": 4705
 }
