@@ -81,11 +81,6 @@
                     "size": "617F5A47761B9D77BCE7ED2482C340B9",
                     "download": "411BDC375F4701DBB0017018FF22A18D"
                 },
-                "qa-debug": {
-                    "gid": "2E9650B070B50E9053ED704CA206157D",
-                    "size": "4CFBB6B3145197B69D794DAFAC67FAFE",
-                    "download": "B18187DC844C9EB54E3DCCB0FD6020AF"
-                },
                 "stress-test": {
                     "gid": "607B45D9E89DCBBE1F96A58D8E73948C",
                     "size": "94E889496D717010321FC8C37841E4A7",
@@ -95,6 +90,11 @@
                     "gid": "BAF25A0979A5155D397E6C183CE88515",
                     "size": "3011395339156DD4C071E91C0D960AD9",
                     "download": "F81701B1D1906536C5B5847098E76FF0"
+                },
+                "qa-debug": {
+                    "gid": "2E9650B070B50E9053ED704CA206157D",
+                    "size": "4CFBB6B3145197B69D794DAFAC67FAFE",
+                    "download": "B18187DC844C9EB54E3DCCB0FD6020AF"
                 },
                 "qa-shipping": {
                     "gid": "6C8BD2E66CDAEDD4C403D5503C0F7500",
@@ -130,11 +130,6 @@
                     "size": "27CDFC02F3166287A4F950B641C8F526",
                     "download": "9128B364DDE2A0581864E8F222FE3AA2"
                 },
-                "qa-debug": {
-                    "gid": "8127FCBF4A64954919814E2B01CD2976",
-                    "size": "B8C57200BA657626A856E5DE9C12F8E9",
-                    "download": "E853BF49FF7324EC292E01C48D945B65"
-                },
                 "stress-test": {
                     "gid": "E35093A5B575F4F979472DA33A4CE1DE",
                     "size": "74C3B4D2B3B9E8451585FF204A0693D0",
@@ -144,6 +139,11 @@
                     "gid": "562D08D4F0879E3A5194AEA3DD4715F3",
                     "size": "A754433598BEB36026FE6D2350B4FA6C",
                     "download": "C9B7687E578A86BF1771B2932D9B049D"
+                },
+                "qa-debug": {
+                    "gid": "851ECD167E224983D8F6B50C2D23643F",
+                    "size": "63B5027F11994BEE2F6E788F77036BF6",
+                    "download": "60A83BD9717863EF13F7026973EC0D91"
                 },
                 "qa-shipping": {
                     "gid": "F9EFA36F03EFFAE593286767782B5E87",
@@ -182,11 +182,6 @@
                 "description": "Promotional and Marketing Branch",
                 "timeupdated": "1556985533"
             },
-            "qa-debug": {
-                "buildid": "14139249",
-                "pwdrequired": "1",
-                "timeupdated": "1713832522"
-            },
             "spiro0.11.59.04": {
                 "buildid": "12380465",
                 "description": "evrima spiro branch",
@@ -202,6 +197,11 @@
                 "pwdrequired": "1",
                 "timeupdated": "1714450268"
             },
+            "qa-debug": {
+                "buildid": "14225987",
+                "pwdrequired": "1",
+                "timeupdated": "1714509793"
+            },
             "qa-shipping": {
                 "buildid": "14216563",
                 "pwdrequired": "1",
@@ -210,7 +210,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23352968,
-    "_sha": "1185fdf358022e8ea9b294d9f5b2bcd43be154b2",
+    "_change_number": 23365985,
+    "_sha": "1f40c1c0305f863a7686b5ffd9a63297794c80c4",
     "_size": 5402
 }
