@@ -115,11 +115,6 @@
                     "size": "3116916540",
                     "download": "769319520"
                 },
-                "shack": {
-                    "gid": "4425488473843583293",
-                    "size": "2059448722",
-                    "download": "427272368"
-                },
                 "shack_beta": {
                     "gid": "510778677660452160",
                     "size": "1852138741",
@@ -134,6 +129,11 @@
                     "gid": "3787550360311027215",
                     "size": "6194829343",
                     "download": "1143440832"
+                },
+                "shack": {
+                    "gid": "5114753711471372263",
+                    "size": "2762769019",
+                    "download": "560070112"
                 }
             },
             "encryptedmanifests": {
@@ -227,10 +227,6 @@
                 "pwdrequired": "1",
                 "timeupdated": "1653585272"
             },
-            "shack": {
-                "buildid": "12822323",
-                "timeupdated": "1701212430"
-            },
             "shack_beta": {
                 "buildid": "12137074",
                 "description": "beta",
@@ -274,11 +270,15 @@
                 "buildid": "14234365",
                 "pwdrequired": "1",
                 "timeupdated": "1714581927"
+            },
+            "shack": {
+                "buildid": "14234365",
+                "timeupdated": "1714602282"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 23376759,
-    "_sha": "7b2e0c174fc905d781180a45c447de02cdecb8a8",
+    "_change_number": 23379844,
+    "_sha": "0cab691b88ee1019730840171513950de3b18b3c",
     "_size": 6517
 }
