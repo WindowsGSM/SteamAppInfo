@@ -202,15 +202,15 @@
                 }
             },
             "encryptedmanifests": {
-                "develop": {
-                    "gid": "CB1BE7A37FB352438A734464304EF3AC",
-                    "size": "8463C63906A7BE71F6436D6FA744CDDB",
-                    "download": "6C4F3FED3A7899BC3E1064450D615831"
-                },
                 "steam_china_only": {
                     "gid": "139B9C1D31A340576B5500203A12E2DE",
                     "size": "A49477A2B07D0042971AC85C61C5ED27",
                     "download": "D16C68F726E32590E0D21DBD2D8B211F"
+                },
+                "develop": {
+                    "gid": "CB1BE7A37FB352438A734464304EF3AC",
+                    "size": "8463C63906A7BE71F6436D6FA744CDDB",
+                    "download": "6C4F3FED3A7899BC3E1064450D615831"
                 },
                 "playtest": {
                     "gid": "CE1DF5A662B61177CAD2B9F5DCBF3B84",
@@ -308,15 +308,15 @@
                 }
             },
             "encryptedmanifests": {
-                "develop": {
-                    "gid": "41494B1E2677C9F549F605B31CA898C7",
-                    "size": "DBA12020C290AAD17299BEF4501AD82B",
-                    "download": "25F4189D9EEFFA02E2344D64F1C2052D"
-                },
                 "steam_china_only": {
                     "gid": "DF3DB0F09C3371F67726793E99C148A4",
                     "size": "36B8ADA14EDB787A27F13D3AC9195D9F",
                     "download": "BB03D54EC398B9219EBD07BE60455E7C"
+                },
+                "develop": {
+                    "gid": "85B5282ECE3B29E060F52309A00E3394",
+                    "size": "F0532D5BC92ECEA4FD277FA1103C2845",
+                    "download": "670B71B7572D65FA209A5E3454C2D08E"
                 },
                 "playtest": {
                     "gid": "B4632721718FC8122170BB6CA9F58D1E",
@@ -414,15 +414,15 @@
                 }
             },
             "encryptedmanifests": {
-                "develop": {
-                    "gid": "56BBE499BC2644AFC9251F93BB0E0DF9",
-                    "size": "10C5515EE5F8E68A6032D190CD3D448A",
-                    "download": "5CC4EB77301AE51A1CABE88B103CA434"
-                },
                 "steam_china_only": {
                     "gid": "A5BC450DB9DA6AF646A4BF6EB1857FAE",
                     "size": "3080FF1B59263A464EBE83B3B03DCD44",
                     "download": "3940E4C8E0EE95D72FD64781CCDB22C7"
+                },
+                "develop": {
+                    "gid": "8953890B574008172A286EDFE899EDED",
+                    "size": "89F58D43B0471372B8E0A5A197CB0DF0",
+                    "download": "59C6347C94B7AC8CE3DC5D932AA8EA0C"
                 },
                 "playtest": {
                     "gid": "ADC75AD0B6D272A7BA8BC9897726CD2E",
@@ -520,15 +520,15 @@
                 }
             },
             "encryptedmanifests": {
-                "develop": {
-                    "gid": "4B5C7FF624407EEB4F7119DDB801353A",
-                    "size": "1B75F5304B9DC382FF94BFC52AA34256",
-                    "download": "AE81715FBF32C25C6D7DD86A6277FFB8"
-                },
                 "steam_china_only": {
                     "gid": "E925B072F2BFF86571E2429694B07C05",
                     "size": "F29B973EEFA99C82FA90CDC2655E929F",
                     "download": "B48F9D00FF66DB5D807C2CD50D6CCF4B"
+                },
+                "develop": {
+                    "gid": "4B6D03569188CE9C114CE8F1F8C47618",
+                    "size": "A12C32C4E5CB9768649C6D1CA5DD9749",
+                    "download": "F8CA440982EB8CC9F4CC4BE25276E7BF"
                 },
                 "playtest": {
                     "gid": "648354748E4A2BF96CEF0CA578BC8290",
@@ -624,15 +624,15 @@
                 }
             },
             "encryptedmanifests": {
-                "develop": {
-                    "gid": "C132E61D5B69F031EFE4F28ACF9B6175",
-                    "size": "E7C70D404FC481E404BB26366D85BB2C",
-                    "download": "E7C70D404FC481E404BB26366D85BB2C"
-                },
                 "steam_china_only": {
                     "gid": "BED7929D2124638DDD1039B1F9E02B81",
                     "size": "69464D7B662F330C12AC894BBEA14D00",
                     "download": "69464D7B662F330C12AC894BBEA14D00"
+                },
+                "develop": {
+                    "gid": "C132E61D5B69F031EFE4F28ACF9B6175",
+                    "size": "E7C70D404FC481E404BB26366D85BB2C",
+                    "download": "E7C70D404FC481E404BB26366D85BB2C"
                 },
                 "playtest": {
                     "gid": "36766570D9442AD9978BE2F7A88672F6",
@@ -711,11 +711,6 @@
                 "description": "Beta 9.7.13",
                 "timeupdated": "1684410642"
             },
-            "develop": {
-                "buildid": "14142055",
-                "pwdrequired": "1",
-                "timeupdated": "1713854904"
-            },
             "steam_china_only": {
                 "buildid": "10527109",
                 "pwdrequired": "1",
@@ -725,6 +720,11 @@
                 "buildid": "14223376",
                 "description": "Beta 10.2.2",
                 "timeupdated": "1714492535"
+            },
+            "develop": {
+                "buildid": "14230143",
+                "pwdrequired": "1",
+                "timeupdated": "1714545852"
             },
             "playtest": {
                 "buildid": "14229596",
@@ -744,7 +744,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23369924,
-    "_sha": "e29981dbaaf0920596d11fd999dae8c3187fd620",
+    "_change_number": 23370638,
+    "_sha": "206869333be26824284b17cd626c2e9bdde7c093",
     "_size": 16924
 }
