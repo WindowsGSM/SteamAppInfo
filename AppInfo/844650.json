@@ -117,11 +117,6 @@
                     "size": "F0E7D3F8FBF5C58398C0345F28B424BA",
                     "download": "1822474D9F7E6A675AACF79637586A16"
                 },
-                "newbuild-release": {
-                    "gid": "CEDFFCF9DFFA88EB2388E668A9860AAA",
-                    "size": "3C9F6926AB366CC80AA8F472F7DF114D",
-                    "download": "D0AFDD812FA11EDBFB13525DBE414310"
-                },
                 "validation-branch": {
                     "gid": "4F6ADBC5832D558CF515514DF624DA85",
                     "size": "F73CDFF38CFA24223C68439C57CAC734",
@@ -131,6 +126,11 @@
                     "gid": "2EB1208043850BC3A7151AF2E531C726",
                     "size": "C903C75528D744886DDE76D2DC6859D0",
                     "download": "12A92898C9DCC59E8E54282DD894EA57"
+                },
+                "newbuild-release": {
+                    "gid": "8E366515B2CBBEC99CF127CDC55A5BDF",
+                    "size": "A943DDECB2592F2211519223818CD912",
+                    "download": "75FED9C72DA114187F5B7554F1ACCDEA"
                 }
             }
         },
@@ -156,11 +156,6 @@
                     "size": "0B2AE064C4621A712A9F191DAE7235E3",
                     "download": "9564456F21C538365E8E7ECFA9C91BF6"
                 },
-                "newbuild-release": {
-                    "gid": "C4B86A46AA9C410D4DD02D4753DA6930",
-                    "size": "898166EC21F23C802E7EC5EC948F53A5",
-                    "download": "326729E46C1E376418F43448D927F9A1"
-                },
                 "validation-branch": {
                     "gid": "A7577BD52E5DC2341193A597DC823A76",
                     "size": "C175B4FFB1D9A1BC887150286DE0C4D7",
@@ -170,6 +165,11 @@
                     "gid": "D2FCDD31AFBC8E7CC780DE12687C5CFF",
                     "size": "F5474D89E74B6973CED94ADC68370B95",
                     "download": "E75C832D018A6EC03D60913B8FC3BC02"
+                },
+                "newbuild-release": {
+                    "gid": "F03DECE32E9FADD75F16500C7F53F1C6",
+                    "size": "D4EE6D1463A36E7A09506DD4BB88064F",
+                    "download": "B2DD29797F52A2D52B5B90DB5A32FE27"
                 }
             }
         },
@@ -188,11 +188,6 @@
                 "pwdrequired": "1",
                 "timeupdated": "1665832810"
             },
-            "newbuild-release": {
-                "buildid": "14001330",
-                "pwdrequired": "1",
-                "timeupdated": "1712689203"
-            },
             "validation-branch": {
                 "buildid": "10197897",
                 "pwdrequired": "1",
@@ -202,11 +197,16 @@
                 "buildid": "14170520",
                 "pwdrequired": "1",
                 "timeupdated": "1714037234"
+            },
+            "newbuild-release": {
+                "buildid": "14237041",
+                "pwdrequired": "1",
+                "timeupdated": "1714600156"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 23296043,
-    "_sha": "4eabec2b72706bfa72e7272d5dee2fd9554c0b4d",
+    "_change_number": 23379483,
+    "_sha": "985c1db8841111ae9a7554acb78b9b8b1cb20b0f",
     "_size": 4672
 }
