@@ -54,11 +54,6 @@
                     "size": "2324743012",
                     "download": "593198128"
                 },
-                "evrima": {
-                    "gid": "6712571078069424571",
-                    "size": "1180723817",
-                    "download": "997311504"
-                },
                 "promotional": {
                     "gid": "8450962309860220137",
                     "size": "2304778154",
@@ -68,6 +63,11 @@
                     "gid": "6019984741479392759",
                     "size": "1677359313",
                     "download": "1048626048"
+                },
+                "evrima": {
+                    "gid": "5021816396966204931",
+                    "size": "1053328902",
+                    "download": "847975856"
                 }
             },
             "encryptedmanifests": {
@@ -108,15 +108,15 @@
                 "oslist": "linux"
             },
             "manifests": {
-                "evrima": {
-                    "gid": "7813607367378341209",
-                    "size": "1092721144",
-                    "download": "876004656"
-                },
                 "spiro0.11.59.04": {
                     "gid": "3175858647194091748",
                     "size": "3508277151",
                     "download": "1268531152"
+                },
+                "evrima": {
+                    "gid": "5282970881290553164",
+                    "size": "968616809",
+                    "download": "723518064"
                 }
             },
             "encryptedmanifests": {
@@ -162,11 +162,6 @@
                 "buildid": "8170223",
                 "timeupdated": "1644385904"
             },
-            "evrima": {
-                "buildid": "13504000",
-                "description": "evrima servers",
-                "timeupdated": "1708404394"
-            },
             "internal": {
                 "buildid": "13538592",
                 "pwdrequired": "1",
@@ -186,6 +181,11 @@
                 "buildid": "12672532",
                 "pwdrequired": "1",
                 "timeupdated": "1700167113"
+            },
+            "evrima": {
+                "buildid": "14252076",
+                "description": "evrima servers",
+                "timeupdated": "1714714215"
             },
             "hordetesting": {
                 "buildid": "14249854",
@@ -210,7 +210,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23397542,
-    "_sha": "0f9ee72563fa9bc71dcbb5a23ad0d0196460abfe",
-    "_size": 5402
+    "_change_number": 23397955,
+    "_sha": "86e56ded38635d59541a7dbf56c3eace334fd02e",
+    "_size": 5401
 }
