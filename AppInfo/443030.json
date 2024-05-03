@@ -150,11 +150,6 @@
                     "size": "17D81FDDC0363501961FFA890B08F06F",
                     "download": "E983D64A4E4B2084152168E37E25F29E"
                 },
-                "rc-retail": {
-                    "gid": "5145CEAC792F6B969479EEEBC3C8858A",
-                    "size": "451683C84DA9BBD0404DCABFE8E15B0F",
-                    "download": "E9E506B38104517929D304AB1A3A5208"
-                },
                 "retail_backup1": {
                     "gid": "BD258CD73A41F9BEB8F0FC5E8A0F6D3D",
                     "size": "46554E9DBEE4245B61BE00C6F2B03FC2",
@@ -194,6 +189,11 @@
                     "gid": "5A67E54C106ED25473D31CDB1FF80778",
                     "size": "6138BEF94CEFAB4EAA17FC37E1841226",
                     "download": "022B46ACA4FD12929D07D717B885BD87"
+                },
+                "rc-retail": {
+                    "gid": "D4E9A66ED180322734562979E04AFCAA",
+                    "size": "F052A06D3FE7555F5F60CAE5BD06D4BD",
+                    "download": "8F08FB12DEF5708030DAE841C62C597E"
                 }
             }
         },
@@ -250,11 +250,6 @@
                     "size": "0A103D627B8BB49EBA3441DFD0384776",
                     "download": "0A103D627B8BB49EBA3441DFD0384776"
                 },
-                "rc-retail": {
-                    "gid": "E5F6D6E9AC6132E469E74929AA9306F4",
-                    "size": "3A39C9B2E484D51A280AFD3EFBBCB75F",
-                    "download": "3A39C9B2E484D51A280AFD3EFBBCB75F"
-                },
                 "retail_backup1": {
                     "gid": "67D3E29756345E200B39BF68C85A89AB",
                     "size": "90F07B566C77E43B2BAD528068A7B95B",
@@ -294,6 +289,11 @@
                     "gid": "5A036B2E1A2D574321F69277D96B9D37",
                     "size": "FB0493527D2CF2A33A88036892E37EE6",
                     "download": "FB0493527D2CF2A33A88036892E37EE6"
+                },
+                "rc-retail": {
+                    "gid": "E5F6D6E9AC6132E469E74929AA9306F4",
+                    "size": "3A39C9B2E484D51A280AFD3EFBBCB75F",
+                    "download": "3A39C9B2E484D51A280AFD3EFBBCB75F"
                 }
             }
         },
@@ -342,11 +342,6 @@
                 "pwdrequired": "1",
                 "timeupdated": "1713871715"
             },
-            "rc-retail": {
-                "buildid": "14092148",
-                "pwdrequired": "1",
-                "timeupdated": "1713420356"
-            },
             "retail_backup1": {
                 "buildid": "13963759",
                 "pwdrequired": "1",
@@ -386,11 +381,16 @@
                 "buildid": "14252558",
                 "pwdrequired": "1",
                 "timeupdated": "1714719089"
+            },
+            "rc-retail": {
+                "buildid": "14253728",
+                "pwdrequired": "1",
+                "timeupdated": "1714728156"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 23398587,
-    "_sha": "d6a1370bb3b2adc553414dcaf8beb89bd010d31d",
+    "_change_number": 23400195,
+    "_sha": "552ad6471ebb17b5864cc412dfe208fff868e25c",
     "_size": 10269
 }
