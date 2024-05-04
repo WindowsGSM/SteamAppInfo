@@ -114,6 +114,11 @@
                 }
             },
             "encryptedmanifests": {
+                "test": {
+                    "gid": "549ADF92873FA0F045D7E34CB9A62F2A",
+                    "size": "BF886DAECAF38A431343011B82763836",
+                    "download": "0153141F2D8617CC18ED2FDE3614EEB4"
+                },
                 "nodecraft": {
                     "gid": "C29085C9A52870ABC4FC7468FEF95EE1",
                     "size": "8B8E13D064C4D4B6F45183A2BD70D0F7",
@@ -123,11 +128,6 @@
                     "gid": "0B4EBCE83356DE165E1808EF8D0DFF16",
                     "size": "9FB330FDC3970234DA2B02155E5FF8AB",
                     "download": "27C1562DD591562C63EA82FC8B805985"
-                },
-                "test": {
-                    "gid": "549ADF92873FA0F045D7E34CB9A62F2A",
-                    "size": "BF886DAECAF38A431343011B82763836",
-                    "download": "0153141F2D8617CC18ED2FDE3614EEB4"
                 }
             }
         },
@@ -150,6 +150,11 @@
                 }
             },
             "encryptedmanifests": {
+                "test": {
+                    "gid": "6EA6958E95DFE8B1D5CC6E5FF1E5269D",
+                    "size": "18713A16C5F19ED387CDE4A2FAA02EF0",
+                    "download": "FF6A699ADD3A5AEDF359A64B23EF9012"
+                },
                 "nodecraft": {
                     "gid": "FA80148EFD913A2B24A2B5F36E828504",
                     "size": "510FE859BAB193083B7674F7A07E7744",
@@ -159,11 +164,6 @@
                     "gid": "FC29BD9F8F009988C0628171DAC8C2BE",
                     "size": "8109216FB2AA582146701DD70CD53841",
                     "download": "B4AE33429D3E3253C369303634CE3B97"
-                },
-                "test": {
-                    "gid": "6EA6958E95DFE8B1D5CC6E5FF1E5269D",
-                    "size": "18713A16C5F19ED387CDE4A2FAA02EF0",
-                    "download": "FF6A699ADD3A5AEDF359A64B23EF9012"
                 }
             }
         },
@@ -172,30 +172,30 @@
                 "buildid": "13685019",
                 "timeupdated": "1709926570"
             },
-            "lowspec": {
-                "buildid": "13687615",
-                "description": "Better compatibility",
-                "timeupdated": "1709949247"
+            "test": {
+                "buildid": "14265787",
+                "pwdrequired": "1",
+                "timeupdated": "1714835134"
             },
             "nodecraft": {
                 "buildid": "13447883",
                 "pwdrequired": "1",
                 "timeupdated": "1707866596"
             },
+            "lowspec": {
+                "buildid": "13687615",
+                "description": "Better compatibility",
+                "timeupdated": "1709949247"
+            },
             "upload": {
                 "buildid": "13685019",
                 "pwdrequired": "1",
                 "timeupdated": "1709926502"
-            },
-            "test": {
-                "buildid": "14265787",
-                "pwdrequired": "1",
-                "timeupdated": "1714835134"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 23414406,
-    "_sha": "341e5536ccf2409fb627bf12065785fbdcbadab2",
+    "_change_number": 23414531,
+    "_sha": "a774b155fc6d4fcf8a7c80a02aaae4ca3afdad59",
     "_size": 4280
 }
