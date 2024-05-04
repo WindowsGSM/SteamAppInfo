@@ -46,20 +46,20 @@
                 }
             },
             "encryptedmanifests": {
-                "dev-branch": {
-                    "gid": "B224AD1303E185990810583615E11BFD",
-                    "size": "3D2562697D37600CCED5D4CA9B2AD2B5",
-                    "download": "D3EA3E98B9D3CD461172AD7CEDAED207"
-                },
                 "experimental-branch": {
                     "gid": "81C9A539A33CD90786542218AAAAB810",
                     "size": "28C3F316D78F73B3CC814EAA9384471E",
                     "download": "48F1DD37CBE50B4F023B1D84E10C4E9C"
                 },
+                "dev-branch": {
+                    "gid": "E30BE374445636542ED3BD86702F4EF9",
+                    "size": "6DC0D391A82E9B34058EBC01A317F0B7",
+                    "download": "4397DCC3D055B6BB977689C26151A0D0"
+                },
                 "public-test-branch": {
-                    "gid": "B590E9BC80D501D72B124BEF6527EBD6",
-                    "size": "62A85C351E08519928E5FA6CC06CF6C0",
-                    "download": "9B171BB8CD944C08DC043F32D1E12F2F"
+                    "gid": "B87AFC37BA8B06CE69C3143AFAEB6D87",
+                    "size": "3A406D30D57435D744EC070692F27E55",
+                    "download": "FF52FF2D0990B4455B569C1323388377"
                 }
             }
         },
@@ -68,25 +68,25 @@
                 "buildid": "13699078",
                 "timeupdated": "1710156686"
             },
-            "dev-branch": {
-                "buildid": "14028686",
-                "pwdrequired": "1",
-                "timeupdated": "1712880350"
-            },
             "experimental-branch": {
                 "buildid": "11314822",
                 "pwdrequired": "1",
                 "timeupdated": "1685009630"
             },
-            "public-test-branch": {
-                "buildid": "14028686",
+            "dev-branch": {
+                "buildid": "14265126",
                 "pwdrequired": "1",
-                "timeupdated": "1712880356"
+                "timeupdated": "1714826489"
+            },
+            "public-test-branch": {
+                "buildid": "14265126",
+                "pwdrequired": "1",
+                "timeupdated": "1714826499"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 23124810,
-    "_sha": "5b30c1482447d4240a16fa8f0a24d9b2c9006a68",
+    "_change_number": 23413707,
+    "_sha": "7a9884645e02dbafa567fc7b47c15e64a82263d5",
     "_size": 2108
 }
