@@ -133,20 +133,10 @@
                 }
             },
             "encryptedmanifests": {
-                "ctg_major": {
-                    "gid": "AAB763F75900E765E363A939A4533248",
-                    "size": "6987D8BE0D7285A97DAC446C2F2C5A0A",
-                    "download": "E598399795CD3E466BC47E4D7D704F30"
-                },
                 "ctg_weekly": {
                     "gid": "8532D192EB50B44D602B8C323100FC17",
                     "size": "755D97FF944BD29B4B2E399232949A40",
                     "download": "0D42B7AD8A96439F6A3C727EE5F4390B"
-                },
-                "develop": {
-                    "gid": "1DFC51CE23A6E43B488020CE3C1C7707",
-                    "size": "4215E58F49D96AD32073E7690CF1606C",
-                    "download": "6954BAA45F87F8F603364DF3280B4E04"
                 },
                 "develop_major": {
                     "gid": "AE00D9CF3BF340239A3B30DFC5FF06ED",
@@ -157,6 +147,16 @@
                     "gid": "7C556C7398F3571CE60D44B124CDC879",
                     "size": "E71BF2A109AE7EDAE711A8418B23F76A",
                     "download": "32C602241BB254538B38CA33C2F7FC08"
+                },
+                "ctg_major": {
+                    "gid": "3BFBD6192D1BB5A192A9A16CBE56918E",
+                    "size": "F1EADBC7264949C83B3E2D8D96D05B96",
+                    "download": "B4342286EB1B212109E6A74D45F7F6AF"
+                },
+                "develop": {
+                    "gid": "875C1E89215B6CFCD8445A04A6E3745D",
+                    "size": "5DE392AFF3ABCBDB63D722CFCB0A5394",
+                    "download": "D4F58B82048D92627554DF450B652851"
                 }
             }
         },
@@ -196,20 +196,10 @@
                 "description": "Community Edition",
                 "timeupdated": "1657721445"
             },
-            "ctg_major": {
-                "buildid": "13750728",
-                "pwdrequired": "1",
-                "timeupdated": "1710499054"
-            },
             "ctg_weekly": {
                 "buildid": "5588602",
                 "pwdrequired": "1",
                 "timeupdated": "1600964110"
-            },
-            "develop": {
-                "buildid": "13750728",
-                "pwdrequired": "1",
-                "timeupdated": "1710497490"
             },
             "develop_major": {
                 "buildid": "3751261",
@@ -225,11 +215,21 @@
                 "buildid": "3412282",
                 "pwdrequired": "1",
                 "timeupdated": "1545223290"
+            },
+            "ctg_major": {
+                "buildid": "14280758",
+                "pwdrequired": "1",
+                "timeupdated": "1715016298"
+            },
+            "develop": {
+                "buildid": "14280758",
+                "pwdrequired": "1",
+                "timeupdated": "1715016176"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 22778877,
-    "_sha": "e3ac164c443a754dcca90c6dd0acbc31151428ec",
+    "_change_number": 23432490,
+    "_sha": "3c48cb6b5d0cf0b010b1b1c48bc40c5dc809d1e3",
     "_size": 5091
 }
