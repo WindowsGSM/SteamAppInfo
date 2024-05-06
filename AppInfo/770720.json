@@ -355,6 +355,20 @@
                     "english": "Branch of Age Rating Submission"
                 },
                 "description": "Branch of Age Rating Submission"
+            },
+            "47": {
+                "executable": "bin\\win_x64\\HuntGame.exe",
+                "arguments": "+online_account_client_settings stage",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "lqa_test"
+                },
+                "description_loc": {
+                    "english": "Loca test"
+                },
+                "description": "Loca test"
             }
         },
         "uselaunchcommandline": "1"
@@ -477,6 +491,11 @@
                     "size": "1EE0E3712590E3EC2761D7380F9693FC",
                     "download": "FD78B7757EB4EF3EF8C005FC35D3E8A4"
                 },
+                "lqa_test": {
+                    "gid": "FD442ABBC6FAF7FB6E6D7EAD40B006C0",
+                    "size": "AD3E8C845CB9BBA10ADB6D99E8C033E0",
+                    "download": "941C54693541C70D63C117648F13BCAD"
+                },
                 "qa_testroom": {
                     "gid": "A1BAF6A2A202583208F518C67757DCCC",
                     "size": "1502510470BBA2F92D2A8720A29C7F9E",
@@ -591,6 +610,11 @@
                     "gid": "C5E0D014E614A1B313995C01D2255EC7",
                     "size": "8BE4237117EFF2CB4D9C4351930FCD69",
                     "download": "DBBB58ADA54895EC7BC6C616930992EA"
+                },
+                "lqa_test": {
+                    "gid": "A1899BF37A5C5DC24D4E461B1EF382C2",
+                    "size": "76A26C5F8C37C86D76DB72122C140965",
+                    "download": "29032C375C4EBCD57939CF63BD88CAE9"
                 },
                 "qa_testroom": {
                     "gid": "ABFA487566D7BF3167169181813E628A",
@@ -707,6 +731,11 @@
                     "size": "661501F113E46AA9A9CEE28DA54E1E8A",
                     "download": "4C68A70C3E3BF1BF27A42AA0E0E0D3F9"
                 },
+                "lqa_test": {
+                    "gid": "609D6CA3D9436B3551C69D0D7E10E81A",
+                    "size": "F041BAF4D00B4BEDB445B7F5492AD2DA",
+                    "download": "CB59D38B5B2EC2F052C3B7B0CF71E49D"
+                },
                 "qa_testroom": {
                     "gid": "6D81E85B4DE94D659FB780A93F7A5CBA",
                     "size": "FF542C5CFF36D0632B49C0C6B4279C11",
@@ -822,6 +851,11 @@
                     "size": "8B17FFA7D78F55908B9538F784D3F1F6",
                     "download": "8B17FFA7D78F55908B9538F784D3F1F6"
                 },
+                "lqa_test": {
+                    "gid": "7C9215F2CE7F684893B9130E4C5C04F6",
+                    "size": "F49D4EDD0C2B0B72F1F450F4F1F5B8BD",
+                    "download": "F49D4EDD0C2B0B72F1F450F4F1F5B8BD"
+                },
                 "qa_testroom": {
                     "gid": "F09F7E6BE447D6D4239B8B3D2F5742B0",
                     "size": "D5035BBD8FB1259BAF1B79895E6F73FC",
@@ -929,6 +963,11 @@
                 "pwdrequired": "1",
                 "timeupdated": "1714696829"
             },
+            "lqa_test": {
+                "buildid": "14249600",
+                "pwdrequired": "1",
+                "timeupdated": "1714999622"
+            },
             "qa_testroom": {
                 "buildid": "14228209",
                 "pwdrequired": "1",
@@ -957,7 +996,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23408554,
-    "_sha": "f6edc03bf9a45523c05f708b7af87fdabdd64579",
-    "_size": 27775
+    "_change_number": 23429045,
+    "_sha": "bd8e807e816bd909fcb9f99fff26faa494f06d9e",
+    "_size": 28910
 }
