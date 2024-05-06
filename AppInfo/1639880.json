@@ -59,6 +59,13 @@
                     "size": "631227936",
                     "download": "202651840"
                 }
+            },
+            "encryptedmanifests": {
+                "auth-test": {
+                    "gid": "6FFA9B51C6860B03A55725A6C148C52E",
+                    "size": "0531BD3BECAFB4FC613D6E5C6DB61549",
+                    "download": "D203B825D4CFD4FBC4801D1364AD0709"
+                }
             }
         },
         "1639882": {
@@ -88,6 +95,13 @@
                     "size": "579323367",
                     "download": "150621456"
                 }
+            },
+            "encryptedmanifests": {
+                "auth-test": {
+                    "gid": "46D000D9F5C920DEAFCF74AFAA0B5DAC",
+                    "size": "928FB472D7BFE7BE25D58209EEF2B3A3",
+                    "download": "F3B81BE4B626C92C13CFFB2D848FF3A5"
+                }
             }
         },
         "branches": {
@@ -109,11 +123,16 @@
                 "buildid": "10701959",
                 "description": "For testing",
                 "timeupdated": "1678116633"
+            },
+            "auth-test": {
+                "buildid": "14159995",
+                "pwdrequired": "1",
+                "timeupdated": "1714976866"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 23353795,
-    "_sha": "4c0484505a4a36491867ce3bad9e71bdbe5510d4",
-    "_size": 2528
+    "_change_number": 23425641,
+    "_sha": "cf39e9f3da1a2f1f5184cda0a9e5235c6533788d",
+    "_size": 3052
 }
