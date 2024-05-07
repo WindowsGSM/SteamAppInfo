@@ -102,16 +102,6 @@
                     "size": "8BF82C75A0035E3C2A49DDF75EFEF154",
                     "download": "F655163E2195252C1A3CD9AB24F6F0B5"
                 },
-                "partner2": {
-                    "gid": "664D7A9E9BE840D7739715BC6F9DB53C",
-                    "size": "92CB5CDFCE6AA4C1D4009FD9C78A8C16",
-                    "download": "D49A1E56364394D6B8972931D1CA35DB"
-                },
-                "partner2-gloomrot": {
-                    "gid": "AF6E1A713E5D99A6E5CBB6AD01BC8BD5",
-                    "size": "8ED0F2701AF15DCD13905281876D9DF2",
-                    "download": "5010105EE0F8AE56FD00198104FE2D98"
-                },
                 "partner2-official": {
                     "gid": "7C01151BD7442F87F08E8FD1A28051A5",
                     "size": "072B6F1E6C6C267C256F989F24B70702",
@@ -152,10 +142,20 @@
                     "size": "7419E165FAD362EA2ABF4B53EB08FE61",
                     "download": "889E2886209D558AFC599560E221A75B"
                 },
+                "partner2": {
+                    "gid": "664D7A9E9BE840D7739715BC6F9DB53C",
+                    "size": "92CB5CDFCE6AA4C1D4009FD9C78A8C16",
+                    "download": "D49A1E56364394D6B8972931D1CA35DB"
+                },
                 "partner2-beta": {
                     "gid": "42CBFA835125B095D58A38195D605DC6",
                     "size": "07C6297D454413B24889DEE7E2E91513",
                     "download": "68D9A40435E3219C815A6071294632C5"
+                },
+                "partner2-gloomrot": {
+                    "gid": "AF6E1A713E5D99A6E5CBB6AD01BC8BD5",
+                    "size": "8ED0F2701AF15DCD13905281876D9DF2",
+                    "download": "5010105EE0F8AE56FD00198104FE2D98"
                 },
                 "partner2-test": {
                     "gid": "E427AE50867C715C9D4F245C3BAEF98B",
@@ -204,16 +204,6 @@
                 "pwdrequired": "1",
                 "timeupdated": "1646174329"
             },
-            "partner2": {
-                "buildid": "10409327",
-                "pwdrequired": "1",
-                "timeupdated": "1674745062"
-            },
-            "partner2-gloomrot": {
-                "buildid": "12520634",
-                "pwdrequired": "1",
-                "timeupdated": "1698217287"
-            },
             "partner2-official": {
                 "buildid": "12520634",
                 "pwdrequired": "1",
@@ -259,10 +249,20 @@
                 "description": "Gloomrot version - Originally released: 2023-05-17",
                 "timeupdated": "1714996083"
             },
+            "partner2": {
+                "buildid": "10409327",
+                "pwdrequired": "1",
+                "timeupdated": "1674745062"
+            },
             "partner2-beta": {
                 "buildid": "14148323",
                 "pwdrequired": "1",
                 "timeupdated": "1713964452"
+            },
+            "partner2-gloomrot": {
+                "buildid": "12520634",
+                "pwdrequired": "1",
+                "timeupdated": "1698217287"
             },
             "partner2-test": {
                 "buildid": "14235668",
@@ -282,7 +282,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23428462,
-    "_sha": "ccdf89cf73dd30a598ded6b9130ac86a41742f75",
+    "_change_number": 23439820,
+    "_sha": "97306c8be5acad277e48a81a25873809a937c647",
     "_size": 7177
 }
