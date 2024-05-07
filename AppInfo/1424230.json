@@ -81,6 +81,11 @@
                     "gid": "2546319621572586386",
                     "size": "10437233622",
                     "download": "1621483824"
+                },
+                "beta": {
+                    "gid": "8954816243365222298",
+                    "size": "9838922337",
+                    "download": "1527615104"
                 }
             },
             "encryptedmanifests": {
@@ -105,9 +110,9 @@
                     "download": "A7780453984AEDB8820CD9223ED62847"
                 },
                 "staging": {
-                    "gid": "85054E61C0DB72E82C987E27538AF426",
-                    "size": "E1550540A3ED7DF1BA28D02A9A5EB7F7",
-                    "download": "E2BE2D9DAA6781BC8F275971BA04E94B"
+                    "gid": "524EF53831A51A58FF31AF6741803F11",
+                    "size": "EA580A820243FE47F4D3F2EE918CFCE7",
+                    "download": "F4E0780CC92DD5DE366F8AF47A4FB104"
                 }
             }
         },
@@ -122,6 +127,11 @@
                     "gid": "4613713654054292818",
                     "size": "10485033266",
                     "download": "1646328480"
+                },
+                "beta": {
+                    "gid": "645969791070613229",
+                    "size": "9894177204",
+                    "download": "1556771504"
                 }
             },
             "encryptedmanifests": {
@@ -146,9 +156,9 @@
                     "download": "3B5B9E941E8E4BA475C861A9B23B140F"
                 },
                 "staging": {
-                    "gid": "2F81EE3A6F5969BE57D9DE59268B63F3",
-                    "size": "B2CD5C8EE90B6A576E1D46D1442741EC",
-                    "download": "5CD57C37EB66DE02775272799039485A"
+                    "gid": "8DEC630FDABC3DC8C33D799D12068461",
+                    "size": "8548F46FCD13C7C811587B3C490B55FB",
+                    "download": "7C2E1B6C84235B8207898165193AF435"
                 }
             }
         },
@@ -177,15 +187,20 @@
                 "pwdrequired": "1",
                 "timeupdated": "1670330822"
             },
+            "beta": {
+                "buildid": "14289041",
+                "description": "Open beta branch",
+                "timeupdated": "1715080014"
+            },
             "staging": {
-                "buildid": "14279631",
+                "buildid": "14289041",
                 "pwdrequired": "1",
-                "timeupdated": "1715009710"
+                "timeupdated": "1715079941"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 23431097,
-    "_sha": "92ec30c3381c52e5ebd992e61ad2b0e9775af543",
-    "_size": 4436
+    "_change_number": 23442545,
+    "_sha": "d7a1a2f5b6bfad95e207344be77a7df487a34589",
+    "_size": 4777
 }
