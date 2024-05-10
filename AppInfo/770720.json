@@ -363,7 +363,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "lqa_test"
+                    "betakey": "lqa_test lqa_test_1"
                 },
                 "description_loc": {
                     "english": "Loca test"
@@ -496,6 +496,11 @@
                     "size": "2EB15E6B59DF35C25C97AB03F954DDFC",
                     "download": "426F2071FC2D1480BFF440635FC34345"
                 },
+                "lqa_test_1": {
+                    "gid": "39093C900E0151C59CE35C662245E874",
+                    "size": "93C10553E1858CADAACEB2817251850B",
+                    "download": "700768D654C821B08F9D85A5F09D2F3D"
+                },
                 "qa_testroom": {
                     "gid": "A1BAF6A2A202583208F518C67757DCCC",
                     "size": "1502510470BBA2F92D2A8720A29C7F9E",
@@ -615,6 +620,11 @@
                     "gid": "9D8E88A90AE32A2D43B5AEE37E7894C2",
                     "size": "F63202870CF4E25630014919C7B2BD62",
                     "download": "B1A69150E6F3AE177D9E4A0E3908DAF7"
+                },
+                "lqa_test_1": {
+                    "gid": "F745E864476E4973AF6CECACF9902EBD",
+                    "size": "01C1D3A9365345197E27F74EC1E58B49",
+                    "download": "0E244A02A28C9E0F79B9B418D6B31384"
                 },
                 "qa_testroom": {
                     "gid": "ABFA487566D7BF3167169181813E628A",
@@ -736,6 +746,11 @@
                     "size": "480E9FBEE072A442D0DDAC8F2A760336",
                     "download": "B02FF82EDD4500E165C03B8E4FA0D08F"
                 },
+                "lqa_test_1": {
+                    "gid": "B27276DB98006D45B47AA214993BDBEA",
+                    "size": "7522BAD05F244D8A271A3884B87972DF",
+                    "download": "7C39CA904C67B0509795EC841800A1AE"
+                },
                 "qa_testroom": {
                     "gid": "6D81E85B4DE94D659FB780A93F7A5CBA",
                     "size": "FF542C5CFF36D0632B49C0C6B4279C11",
@@ -856,6 +871,11 @@
                     "size": "F49D4EDD0C2B0B72F1F450F4F1F5B8BD",
                     "download": "F49D4EDD0C2B0B72F1F450F4F1F5B8BD"
                 },
+                "lqa_test_1": {
+                    "gid": "8C24F8152B6A352B45AAF6652AF65B5C",
+                    "size": "F11233DFA542945F0BACFDDCDD5EC044",
+                    "download": "F11233DFA542945F0BACFDDCDD5EC044"
+                },
                 "qa_testroom": {
                     "gid": "F09F7E6BE447D6D4239B8B3D2F5742B0",
                     "size": "D5035BBD8FB1259BAF1B79895E6F73FC",
@@ -968,6 +988,11 @@
                 "pwdrequired": "1",
                 "timeupdated": "1715071786"
             },
+            "lqa_test_1": {
+                "buildid": "14308679",
+                "pwdrequired": "1",
+                "timeupdated": "1715334177"
+            },
             "qa_testroom": {
                 "buildid": "14228209",
                 "pwdrequired": "1",
@@ -996,7 +1021,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23482883,
-    "_sha": "89ea677362f4a59601c90eacc6a123f5c9de8acd",
-    "_size": 29021
+    "_change_number": 23486825,
+    "_sha": "143a91e344672cf21e4034cf1c7aeaae4c88fd57",
+    "_size": 29843
 }
