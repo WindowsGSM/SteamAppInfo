@@ -382,6 +382,19 @@
                     "english": "crash_test"
                 },
                 "description": "crash_test"
+            },
+            "49": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings stage +sys_dump_type 3",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                },
+                "description_loc": {
+                    "english": "Backend_2.0_Test"
+                },
+                "description": "Backend_2.0_Test"
             }
         },
         "uselaunchcommandline": "1"
@@ -1059,7 +1072,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23529112,
-    "_sha": "3426e15c8fd63c507416c33d71a06a2a8d433b51",
-    "_size": 30935
+    "_change_number": 23531871,
+    "_sha": "aff0e03a722ddcbaa6d1fedd920766c07b1d6bcd",
+    "_size": 31255
 }
