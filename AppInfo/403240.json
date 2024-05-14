@@ -168,11 +168,6 @@
                     "size": "FE6AA2308A5D06E18324DD6345EF39A7",
                     "download": "C540D83838147479AA4A7B85A959B231"
                 },
-                "squad_testing": {
-                    "gid": "8788180A06670ED2203054CC59A52A84",
-                    "size": "4EC4B73D4D36859385176B7D3E8912A9",
-                    "download": "FAFD61489AA20DE6EC94E61E72FFC056"
-                },
                 "squad_tournament": {
                     "gid": "7C1CFAEF49AB11F839A726D50BF19B60",
                     "size": "031F759EC7EAF19401D93BCE5EE774D7",
@@ -187,6 +182,11 @@
                     "gid": "DFB41F6E14917778875925CADD8296B3",
                     "size": "AAACA6A6D2FF0E949DFDECEF6428D370",
                     "download": "659C98A106B5A4D6F540F8F009962D0C"
+                },
+                "squad_testing": {
+                    "gid": "0A8558CF2C6052642C62E21A98311192",
+                    "size": "38F9F2DF84B2C575DCBB3FBC969B8F0F",
+                    "download": "5BC9C02D660C7F046915E5AC6949355F"
                 }
             }
         },
@@ -254,11 +254,6 @@
                     "size": "71035ADEA2B26A0BABB289C0C8F143F7",
                     "download": "370592E4CF3CA387E36B0187C3D8E4D5"
                 },
-                "squad_testing": {
-                    "gid": "80C10D6827ABA44A1BD7C500BACF8235",
-                    "size": "F76CA3C97390B453D462D117B96FC969",
-                    "download": "F1417DB066B26110C9F918845417535A"
-                },
                 "squad_tournament": {
                     "gid": "A55291FC7CF68BF8947C1B8E448B84AF",
                     "size": "1093F9E1D5D9FC527C539F559F44C95E",
@@ -273,6 +268,11 @@
                     "gid": "66995CAA4B833ACA17DDFD48C4692E9B",
                     "size": "CA59309A877F06BE750FD8B681BBFBB1",
                     "download": "2B318BE1A5D400B6B043E9E472CA976C"
+                },
+                "squad_testing": {
+                    "gid": "80C10D6827ABA44A1BD7C500BACF8235",
+                    "size": "F76CA3C97390B453D462D117B96FC969",
+                    "download": "F1417DB066B26110C9F918845417535A"
                 }
             }
         },
@@ -394,11 +394,6 @@
                 "pwdrequired": "1",
                 "timeupdated": "1706829362"
             },
-            "squad_testing": {
-                "buildid": "13741257",
-                "pwdrequired": "1",
-                "timeupdated": "1710431880"
-            },
             "squad_tournament": {
                 "buildid": "12651833",
                 "pwdrequired": "1",
@@ -413,6 +408,11 @@
                 "buildid": "14352173",
                 "pwdrequired": "1",
                 "timeupdated": "1715619323"
+            },
+            "squad_testing": {
+                "buildid": "14367634",
+                "pwdrequired": "1",
+                "timeupdated": "1715723377"
             },
             "squad_previous": {
                 "buildid": "11847097",
@@ -437,7 +437,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23532889,
-    "_sha": "02c3bd47edb4aa69ffbc3d45d70004b6a0cfea98",
+    "_change_number": 23540454,
+    "_sha": "6aa73045778a917dddec632cf51273317a274ba7",
     "_size": 11570
 }
