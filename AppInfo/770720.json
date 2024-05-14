@@ -67,7 +67,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom qa_testroom_2 backend_test 1161_rc"
+                    "betakey": "qa_testroom qa_testroom_2 backend_test 1161_rc backend_2.0"
                 },
                 "description_loc": {
                     "english": "PCSTG"
@@ -382,19 +382,6 @@
                     "english": "crash_test"
                 },
                 "description": "crash_test"
-            },
-            "49": {
-                "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings stage +sys_dump_type 3",
-                "type": "default",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64"
-                },
-                "description_loc": {
-                    "english": "Backend_2.0_Test"
-                },
-                "description": "Backend_2.0_Test"
             }
         },
         "uselaunchcommandline": "1"
@@ -501,6 +488,11 @@
                     "gid": "F67911DE6DAA54D091CFD1A0B62A2D80",
                     "size": "A0D4D7CDEB032E0AA37ACF765AB46D3B",
                     "download": "7050D928FA15F9FEA37258EF6885D877"
+                },
+                "backend_2.0": {
+                    "gid": "B7125545864A42469DAB77B20FCD9A52",
+                    "size": "665435A1A687DB85CD65F3D0801340CD",
+                    "download": "2BBA763A2B1A329C159F275BD5AFBB4C"
                 },
                 "crash_test": {
                     "gid": "EF7FF5011696035EDECE7EF3E6045353",
@@ -632,6 +624,11 @@
                     "size": "2FA483256BFAA27C73D2F6C27B50D20A",
                     "download": "BB5FA9D515677DC8A51930F5A2D01B54"
                 },
+                "backend_2.0": {
+                    "gid": "9CBD66E3B69491AD8A0678135FA62C92",
+                    "size": "3069C83663A2FCAA86DFA28EAA667E41",
+                    "download": "AF6B1E5CBFFCD34B0F0201FE8032BDFF"
+                },
                 "crash_test": {
                     "gid": "2F6BF67EA98DED2D3A08081A1030DE20",
                     "size": "6A56B8B12C5B6BF3554A0339708AD56B",
@@ -761,6 +758,11 @@
                     "gid": "D8C37C01E0D78F903E86F3ECACA05279",
                     "size": "8DE6A4614E53DC20AF4AA5094273B429",
                     "download": "F075BD400C93C1A562F279AED5E22543"
+                },
+                "backend_2.0": {
+                    "gid": "681A5701C7A6AAB698EAD1F68AA6064C",
+                    "size": "0301A5F6F3823145E6AE8C3CC9B9C90B",
+                    "download": "36FA8E56622A1E649C4CFF8374585430"
                 },
                 "crash_test": {
                     "gid": "62371B8087EA792B171FA57E7AEB9DB4",
@@ -892,6 +894,11 @@
                     "size": "72EA8072C8F5D6440B7242D9EDC80D25",
                     "download": "72EA8072C8F5D6440B7242D9EDC80D25"
                 },
+                "backend_2.0": {
+                    "gid": "965DF7529307AD756D2EB11605A41CEA",
+                    "size": "6ED9B0D2EB818E78FFEC969E107161CF",
+                    "download": "6ED9B0D2EB818E78FFEC969E107161CF"
+                },
                 "crash_test": {
                     "gid": "39DD54D80D80A6202D8652D077C0CA10",
                     "size": "70395A5729A5E046F383E5DC0931036B",
@@ -1014,6 +1021,11 @@
                 "pwdrequired": "1",
                 "timeupdated": "1715182767"
             },
+            "backend_2.0": {
+                "buildid": "14296993",
+                "pwdrequired": "1",
+                "timeupdated": "1715691212"
+            },
             "crash_test": {
                 "buildid": "14249600",
                 "pwdrequired": "1",
@@ -1072,7 +1084,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23533446,
-    "_sha": "6cbd7faaf4d9f03f77373dffdd9adc9e1b3606f3",
-    "_size": 31255
+    "_change_number": 23533635,
+    "_sha": "2c775dd568dc1b99de1f82522caf5b2a764fe0e6",
+    "_size": 31763
 }
