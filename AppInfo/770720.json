@@ -384,7 +384,7 @@
                 "description": "crash_test"
             },
             "49": {
-                "executable": "game.exe",
+                "executable": "bin\\win_x64\\HuntGame.exe",
                 "arguments": "+online_account_client_settings blah -online_server capi1-pcstg-useast.huntshowdown.com -online_server_port 61088",
                 "type": "default",
                 "config": {
@@ -1094,7 +1094,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23569308,
-    "_sha": "41675c0525557991582f704ff255b0687ddaff1c",
-    "_size": 32053
+    "_change_number": 23569424,
+    "_sha": "a5f0ac2eaf425314c004f42b406882ee70044fc7",
+    "_size": 32071
 }
