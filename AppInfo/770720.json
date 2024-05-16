@@ -67,7 +67,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom qa_testroom_2 backend_test 1161_rc backend_2.0"
+                    "betakey": "qa_testroom qa_testroom_2 backend_test 1161_rc"
                 },
                 "description_loc": {
                     "english": "PCSTG"
@@ -382,6 +382,19 @@
                     "english": "crash_test"
                 },
                 "description": "crash_test"
+            },
+            "49": {
+                "executable": "game.exe",
+                "arguments": "+online_account_client_settings stage_external blah -online_server capi1-pcstg-useast.huntshowdown.com:61088",
+                "type": "default",
+                "config": {
+                    "osarch": "64",
+                    "betakey": "backend_2.0"
+                },
+                "description_loc": {
+                    "english": "backend_2.0"
+                },
+                "description": "backend_2.0"
             }
         },
         "uselaunchcommandline": "1"
@@ -1084,7 +1097,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23568741,
-    "_sha": "dea4b2fb5fabd31896a6c0b71a50409cc3b643ce",
-    "_size": 31763
+    "_change_number": 23568853,
+    "_sha": "c73607a472642c1b4ee7a2f6f9c312d5d966484d",
+    "_size": 32120
 }
