@@ -385,7 +385,7 @@
             },
             "49": {
                 "executable": "game.exe",
-                "arguments": "+online_account_client_settings stage_external blah -online_server capi1-pcstg-useast.huntshowdown.com:61088",
+                "arguments": "+online_account_client_settings blah -online_server capi1-pcstg-useast.huntshowdown.com -online_server_port 61088",
                 "type": "default",
                 "config": {
                     "osarch": "64",
@@ -1097,7 +1097,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23568853,
-    "_sha": "c73607a472642c1b4ee7a2f6f9c312d5d966484d",
-    "_size": 32120
+    "_change_number": 23569039,
+    "_sha": "bafcce760b48c95a5f83dd998ede183a3dc53e78",
+    "_size": 32125
 }
