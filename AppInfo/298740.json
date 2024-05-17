@@ -211,15 +211,15 @@
                     "size": "487E0C434225FDB551CCE866E3010DA0",
                     "download": "1CC0F1746AB78D73BFDDA9D5C18370A2"
                 },
-                "stableready": {
-                    "gid": "64C3C448EC4719D42D4327DFFD21470E",
-                    "size": "FE181DDE055D61C44BDCA8C81D08EA2B",
-                    "download": "05BC5DA2D1459CFAADDC7A0682BDA036"
-                },
                 "test": {
                     "gid": "874F69D5016158C61CB11F2425062333",
                     "size": "56D2BC900CECB82EE8C9ECF2BCCEA542",
                     "download": "B64E4757154656AE351CE7C309F62BA9"
+                },
+                "stableready": {
+                    "gid": "3A276FB42F74528227CF14545820B316",
+                    "size": "516F63168FDB97A4CC0BD91F87BC9A56",
+                    "download": "3484BCEC46D8EAA81026D173EB13A8E7"
                 },
                 "steamctg": {
                     "gid": "2EC997C5E6B53DD0119EB98B72BC0B38",
@@ -326,11 +326,6 @@
                 "pwdrequired": "1",
                 "timeupdated": "1676470980"
             },
-            "stableready": {
-                "buildid": "12901783",
-                "pwdrequired": "1",
-                "timeupdated": "1701961791"
-            },
             "test": {
                 "buildid": "12547526",
                 "pwdrequired": "1",
@@ -341,6 +336,11 @@
                 "description": "Warfare Evolution",
                 "timeupdated": "1715618710"
             },
+            "stableready": {
+                "buildid": "14374274",
+                "pwdrequired": "1",
+                "timeupdated": "1715941751"
+            },
             "steamctg": {
                 "buildid": "14374274",
                 "pwdrequired": "1",
@@ -349,7 +349,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23548127,
-    "_sha": "0db205623260591a42ee13bb5a0ad3338d615449",
+    "_change_number": 23581423,
+    "_sha": "c1e7dc67d1c0bd3b58c6f167aff4c13300619306",
     "_size": 7860
 }
