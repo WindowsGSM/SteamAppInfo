@@ -2428,9 +2428,9 @@
             "timeupdated": "1713871715"
         },
         "2coreqa": {
-            "buildid": "14384141",
+            "buildid": "14397719",
             "pwdrequired": "1",
-            "timeupdated": "1715839342"
+            "timeupdated": "1715923468"
         },
         "3coreqa": {
             "buildid": "14155856",
@@ -2438,9 +2438,9 @@
             "timeupdated": "1713942799"
         },
         "4coreqa": {
-            "buildid": "14370729",
+            "buildid": "14398050",
             "pwdrequired": "1",
-            "timeupdated": "1715751577"
+            "timeupdated": "1715923480"
         },
         "devqa": {
             "buildid": "14377163",
@@ -4868,15 +4868,35 @@
             "buildid": "13662420",
             "timeupdated": "1709836142"
         },
+        "uat_ares": {
+            "buildid": "14260111",
+            "pwdrequired": "1",
+            "timeupdated": "1715027940"
+        },
+        "uat_cpt": {
+            "buildid": "14368322",
+            "pwdrequired": "1",
+            "timeupdated": "1715807353"
+        },
         "uat_community_hosting": {
             "buildid": "13456051",
             "pwdrequired": "1",
             "timeupdated": "1707952538"
         },
+        "uat_content": {
+            "buildid": "14372852",
+            "pwdrequired": "1",
+            "timeupdated": "1715761748"
+        },
         "uat_content_pt": {
             "buildid": "13122280",
             "pwdrequired": "1",
             "timeupdated": "1704822136"
+        },
+        "uat_crashtest": {
+            "buildid": "14240859",
+            "pwdrequired": "1",
+            "timeupdated": "1714633218"
         },
         "uat_features": {
             "buildid": "6075329",
@@ -4887,51 +4907,6 @@
             "buildid": "13580242",
             "pwdrequired": "1",
             "timeupdated": "1709065517"
-        },
-        "uat_functionality_test": {
-            "buildid": "14016020",
-            "pwdrequired": "1",
-            "timeupdated": "1713202220"
-        },
-        "uat_main": {
-            "buildid": "12884640",
-            "pwdrequired": "1",
-            "timeupdated": "1701971252"
-        },
-        "uat_tct": {
-            "buildid": "9972864",
-            "pwdrequired": "1",
-            "timeupdated": "1668834106"
-        },
-        "uat_ares": {
-            "buildid": "14260111",
-            "pwdrequired": "1",
-            "timeupdated": "1715027940"
-        },
-        "uat_content": {
-            "buildid": "14372852",
-            "pwdrequired": "1",
-            "timeupdated": "1715761748"
-        },
-        "uat_cpt": {
-            "buildid": "14368322",
-            "pwdrequired": "1",
-            "timeupdated": "1715807353"
-        },
-        "uat_crashtest": {
-            "buildid": "14240859",
-            "pwdrequired": "1",
-            "timeupdated": "1714633218"
-        },
-        "uat_featuretest10": {
-            "buildid": "14368322",
-            "pwdrequired": "1",
-            "timeupdated": "1715728510"
-        },
-        "uat_featuretest11": {
-            "buildid": "14311118",
-            "pwdrequired": "1",
-            "timeupdated": "1715289030"
         },
         "uat_featuretest2": {
             "buildid": "14398577",
@@ -4973,6 +4948,26 @@
             "pwdrequired": "1",
             "timeupdated": "1715395054"
         },
+        "uat_featuretest10": {
+            "buildid": "14368322",
+            "pwdrequired": "1",
+            "timeupdated": "1715728510"
+        },
+        "uat_featuretest11": {
+            "buildid": "14311118",
+            "pwdrequired": "1",
+            "timeupdated": "1715289030"
+        },
+        "uat_functionality_test": {
+            "buildid": "14016020",
+            "pwdrequired": "1",
+            "timeupdated": "1713202220"
+        },
+        "uat_main": {
+            "buildid": "12884640",
+            "pwdrequired": "1",
+            "timeupdated": "1701971252"
+        },
         "uat_ppt": {
             "buildid": "14378426",
             "pwdrequired": "1",
@@ -4982,6 +4977,11 @@
             "buildid": "14398490",
             "pwdrequired": "1",
             "timeupdated": "1715921015"
+        },
+        "uat_tct": {
+            "buildid": "9972864",
+            "pwdrequired": "1",
+            "timeupdated": "1668834106"
         },
         "dlss_test": {
             "buildid": "12596689",
