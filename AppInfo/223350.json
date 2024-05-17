@@ -142,9 +142,9 @@
                     "download": "0FA360726E7012F1F0C973ECC6C13815"
                 },
                 "internalplaytest": {
-                    "gid": "543CAE4B10AE29612FC26B6C67D4226D",
-                    "size": "76B394C4397C2759DCFFCF4AC88183BD",
-                    "download": "653486E9BC6D4A8788B4D9A85F7F3E35"
+                    "gid": "6894B40FE840AE93C783C6D956D28154",
+                    "size": "4486D5A9AFC1C25575A9870AF9E61D8F",
+                    "download": "14127201EE9BE98DF056A7DE3F4D7CE4"
                 },
                 "ps4_internal": {
                     "gid": "39748B5370273F01A3F29F190DE92A9B",
@@ -222,9 +222,9 @@
                     "download": "137C82544F57F2AF0C157657DD71231E"
                 },
                 "internalplaytest": {
-                    "gid": "8501862B2EECEA3A6BF6A971049C4A6A",
-                    "size": "8D67F95849FB540A55159373ABC4AE37",
-                    "download": "AEEFFA010E906268439B32B206D12BAB"
+                    "gid": "BDB1F30FD27B23E2C049E0E3BBA73C45",
+                    "size": "8C2158547A58B5089DA2CF9F210048ED",
+                    "download": "3692DC5516E71B7D8D8DA0B1C22564AE"
                 },
                 "ps4_internal": {
                     "gid": "3CBFDD1193DE4D5E90D65922C1F62110",
@@ -322,9 +322,9 @@
                     "download": "06AA51AED311FA54AD233D6F89053806"
                 },
                 "internalplaytest": {
-                    "gid": "4E7893B5078C3F3BD33269871D37AAA1",
-                    "size": "BAB1A31EE1F150C2269BFEAB7ABB0540",
-                    "download": "9CBC7B61DE0F404C6E78D80B1F90C038"
+                    "gid": "590A95BCED26793F36803902CD395FC4",
+                    "size": "538D9530FB271D9874F12E3289422938",
+                    "download": "8110CFB78EB05F1D42BBDF1FD622217A"
                 },
                 "ps4_internal": {
                     "gid": "3FBE50C60D2402098FB295B671184340",
@@ -368,7 +368,16 @@
                 }
             }
         },
-        "223354": {},
+        "223354": {
+            "manifests": {},
+            "encryptedmanifests": {
+                "internalplaytest": {
+                    "gid": "6F206DF9084300D76E1869518A9488D1",
+                    "size": "E05741E53C0244579C491C449A755863",
+                    "download": "CBA6C85C3172634A7EC12D27B9C0EC6C"
+                }
+            }
+        },
         "branches": {
             "public": {
                 "buildid": "14014216",
@@ -415,9 +424,9 @@
                 "timeupdated": "1702646996"
             },
             "internalplaytest": {
-                "buildid": "14160833",
+                "buildid": "14399945",
                 "pwdrequired": "1",
-                "timeupdated": "1713969737"
+                "timeupdated": "1715932288"
             },
             "ps4_internal": {
                 "buildid": "14161752",
@@ -468,7 +477,7 @@
         "ignoreexternalfiles": "1"
     },
     "_missing_token": false,
-    "_change_number": 23532757,
-    "_sha": "12ef948795f6ade5845991c789bb1c7fb6b66b22",
-    "_size": 13011
+    "_change_number": 23579150,
+    "_sha": "49199b70764376a454cc073ccae9f30d9fcf7288",
+    "_size": 13252
 }
