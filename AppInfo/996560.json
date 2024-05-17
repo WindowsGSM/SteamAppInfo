@@ -107,15 +107,15 @@
                     "size": "741396561",
                     "download": "326965024"
                 },
-                "experimental": {
-                    "gid": "3750918423477540838",
-                    "size": "752229485",
-                    "download": "330167424"
-                },
                 "pluginapi-beta": {
                     "gid": "4496340679897500550",
                     "size": "730552114",
                     "download": "322662320"
+                },
+                "experimental": {
+                    "gid": "6088947084117901142",
+                    "size": "741478303",
+                    "download": "326999008"
                 }
             },
             "encryptedmanifests": {
@@ -177,15 +177,15 @@
                     "size": "570537258",
                     "download": "153564320"
                 },
-                "experimental": {
-                    "gid": "6785051630620440364",
-                    "size": "581286934",
-                    "download": "156730416"
-                },
                 "pluginapi-beta": {
                     "gid": "2669158276392828339",
                     "size": "559813744",
                     "download": "149238864"
+                },
+                "experimental": {
+                    "gid": "3173691176225848092",
+                    "size": "570619000",
+                    "download": "153594880"
                 }
             },
             "encryptedmanifests": {
@@ -241,11 +241,6 @@
                 "description": "Access to server builds before clients release",
                 "timeupdated": "1706543926"
             },
-            "experimental": {
-                "buildid": "13032428",
-                "description": "Experimental branch for early testing and public development purposes",
-                "timeupdated": "1703274348"
-            },
             "marketing-preview": {
                 "buildid": "12507382",
                 "pwdrequired": "1",
@@ -281,6 +276,11 @@
                 "pwdrequired": "1",
                 "timeupdated": "1699906083"
             },
+            "experimental": {
+                "buildid": "14383160",
+                "description": "Experimental branch for early testing and public development purposes",
+                "timeupdated": "1715972429"
+            },
             "mr-testing": {
                 "buildid": "14398020",
                 "pwdrequired": "1",
@@ -294,7 +294,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23584632,
-    "_sha": "135a7b00626a8dd493e21080199f9cebdd9fdecd",
+    "_change_number": 23588198,
+    "_sha": "14c3ca3ee14bff179a1d7d9c8b0c6a25c29d39c2",
     "_size": 7346
 }
