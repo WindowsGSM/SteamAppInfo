@@ -392,6 +392,20 @@
                     "osarch": "64",
                     "betakey": "backend_2.0"
                 }
+            },
+            "50": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings stage2",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "lqa_tencent"
+                },
+                "description_loc": {
+                    "english": "LQA_Tencent"
+                },
+                "description": "LQA_Tencent"
             }
         },
         "uselaunchcommandline": "1"
@@ -540,14 +554,9 @@
                     "download": "4DC2EA3BAD7A9FD037F9E8D66E8402C3"
                 },
                 "qa_testroom_2": {
-                    "gid": "B64B3436988913D82C3C338ACE9595F1",
-                    "size": "1D1DA827C3F71C0F2A3F524594BE7895",
-                    "download": "5C87E6E1D7F0C3DB064030B3E5799452"
-                },
-                "ratings_esrb": {
-                    "gid": "E686267184E7FD4FFF1ECFA264BCCB4C",
-                    "size": "F4F8B4DE6A79822EBADC22FDBB82EF65",
-                    "download": "4E3821B5EB1A9B7FFF4E90F58059530A"
+                    "gid": "47AAE23A0AACD13F0B70BA2FCFA904CC",
+                    "size": "C9C6CC396553A924248966F8AD99D7BA",
+                    "download": "2962BD32F51D1FA40F258DFF6006DF92"
                 },
                 "ratings_pegi": {
                     "gid": "D7248B10FFAB9FFB1F669C7344AAF847",
@@ -675,14 +684,9 @@
                     "download": "4463F41B0B03D4E41F6E3E75A9029BBA"
                 },
                 "qa_testroom_2": {
-                    "gid": "5F51AEEE0C025D716B13828DD88F1F81",
-                    "size": "C42D5EF54CF2F16FF90B44D4B70A2A02",
-                    "download": "96F6864D61F2581FEF6A3A58B58BD7CD"
-                },
-                "ratings_esrb": {
-                    "gid": "3B2868C0EE28A93239A8524B3F55828F",
-                    "size": "A99AF0E2AA5E0952599E1BFFF11CD93E",
-                    "download": "B6AF41F969003774902E77104E684172"
+                    "gid": "768E6B5C6AD47EF1EF3FE4BB1AE04415",
+                    "size": "38CCDC63CBF9E2CD290DB90DFC9F83AE",
+                    "download": "0A1C596C59D6A1ED7EEAA7FA8190AFF1"
                 },
                 "ratings_pegi": {
                     "gid": "C0F351268DB1CFEA9DEB47AE68027B0D",
@@ -814,11 +818,6 @@
                     "size": "A0FD4494EA1D04D900CC53E147160FAA",
                     "download": "3D9BC4FE3EB388CA0B819DB386160E48"
                 },
-                "ratings_esrb": {
-                    "gid": "D3D581227ADAFF45728E883FF9980020",
-                    "size": "8E6CA4B0BE519C4FCA45B9D44A50379E",
-                    "download": "69FA9B8D35289BF445FF1C1A7F7A145D"
-                },
                 "ratings_pegi": {
                     "gid": "5D66FF510AB7C435488A6FC8B6A98433",
                     "size": "018CCCD4161EA33977DA310112BA220F",
@@ -949,11 +948,6 @@
                     "size": "710CC5677DD8A9052796174425433B94",
                     "download": "710CC5677DD8A9052796174425433B94"
                 },
-                "ratings_esrb": {
-                    "gid": "C7C90A02C7B125E6B38FAF3D07E8582A",
-                    "size": "CE89BAF0A862921BEE2284153A119A87",
-                    "download": "CE89BAF0A862921BEE2284153A119A87"
-                },
                 "ratings_pegi": {
                     "gid": "BFF216D250A9FA63EA19094DEF567849",
                     "size": "9B78BF789D76A2D3AADC7B149D7784CE",
@@ -1072,14 +1066,9 @@
                 "timeupdated": "1715343037"
             },
             "qa_testroom_2": {
-                "buildid": "14378303",
+                "buildid": "14410393",
                 "pwdrequired": "1",
-                "timeupdated": "1715842978"
-            },
-            "ratings_esrb": {
-                "buildid": "14278424",
-                "pwdrequired": "1",
-                "timeupdated": "1715084380"
+                "timeupdated": "1716275353"
             },
             "ratings_pegi": {
                 "buildid": "14278424",
@@ -1094,7 +1083,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23598271,
-    "_sha": "5abba4fd05c6a0e2519d3fb3e6a6b1e38a028424",
-    "_size": 32053
+    "_change_number": 23623121,
+    "_sha": "2d0f21ac494674a8d9d1ff65bb3749ba2dc34698",
+    "_size": 31556
 }
