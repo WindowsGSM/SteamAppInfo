@@ -109,7 +109,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom qa_testroom_2 latest teamtest latest_lwp lqa_tencent"
+                    "betakey": "qa_testroom qa_testroom_2 latest teamtest latest_lwp"
                 },
                 "description_loc": {
                     "english": "STGDSN"
@@ -392,6 +392,20 @@
                     "osarch": "64",
                     "betakey": "backend_2.0"
                 }
+            },
+            "50": {
+                "executable": "bin\\win_x64\\HuntGame.exe",
+                "arguments": "+online_account_client_settings stage",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "lqa_tencent"
+                },
+                "description_loc": {
+                    "english": "LQA_Tencent"
+                },
+                "description": "LQA_Tencent"
             }
         },
         "uselaunchcommandline": "1"
@@ -994,7 +1008,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23624427,
-    "_sha": "53546483c7219bb2b2941717c38e96733f5f22ac",
-    "_size": 28798
+    "_change_number": 23624513,
+    "_sha": "f83991de0480016ae8bdbf5dd0be480ea4005ea2",
+    "_size": 29127
 }
