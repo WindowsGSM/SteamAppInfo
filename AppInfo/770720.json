@@ -349,7 +349,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "ratings_esrb ratings_pegi  ratings_usk"
+                    "betakey": "ratings_pegi  ratings_usk ratings_acb"
                 },
                 "description_loc": {
                     "english": "Branch of Age Rating Submission"
@@ -543,6 +543,11 @@
                     "size": "C9C6CC396553A924248966F8AD99D7BA",
                     "download": "2962BD32F51D1FA40F258DFF6006DF92"
                 },
+                "ratings_acb": {
+                    "gid": "74B4A65F1376D4864F3E84D0B2D49298",
+                    "size": "81DCDFC6FA3C64CD4470D3C1ABC9100B",
+                    "download": "69F740842E08DBE8C70717B9AF49887F"
+                },
                 "ratings_pegi": {
                     "gid": "D7248B10FFAB9FFB1F669C7344AAF847",
                     "size": "E445806F881AB90F8FE104C37A11DC59",
@@ -657,6 +662,11 @@
                     "gid": "768E6B5C6AD47EF1EF3FE4BB1AE04415",
                     "size": "38CCDC63CBF9E2CD290DB90DFC9F83AE",
                     "download": "0A1C596C59D6A1ED7EEAA7FA8190AFF1"
+                },
+                "ratings_acb": {
+                    "gid": "1E6A7298D2404C7438064A79809DB68D",
+                    "size": "3F0AA6698BD4C9D135EBD752A0E2A4DE",
+                    "download": "71CEDC9B40B037D4C9C865CBD6B03307"
                 },
                 "ratings_pegi": {
                     "gid": "C0F351268DB1CFEA9DEB47AE68027B0D",
@@ -773,6 +783,11 @@
                     "size": "A0FD4494EA1D04D900CC53E147160FAA",
                     "download": "3D9BC4FE3EB388CA0B819DB386160E48"
                 },
+                "ratings_acb": {
+                    "gid": "DCE1232D0093C69590F384F922227EAC",
+                    "size": "AAC58F5D06023E5C9A542E60E96AA932",
+                    "download": "B275D9C5CBD5DBD91CC1A0E7CD7146C9"
+                },
                 "ratings_pegi": {
                     "gid": "5D66FF510AB7C435488A6FC8B6A98433",
                     "size": "018CCCD4161EA33977DA310112BA220F",
@@ -888,6 +903,11 @@
                     "size": "710CC5677DD8A9052796174425433B94",
                     "download": "710CC5677DD8A9052796174425433B94"
                 },
+                "ratings_acb": {
+                    "gid": "A8ADD0354ADDF86440C75D8C70512866",
+                    "size": "71881D8E1EC31D3458C4E7BC96CB37A4",
+                    "download": "71881D8E1EC31D3458C4E7BC96CB37A4"
+                },
                 "ratings_pegi": {
                     "gid": "BFF216D250A9FA63EA19094DEF567849",
                     "size": "9B78BF789D76A2D3AADC7B149D7784CE",
@@ -995,6 +1015,11 @@
                 "pwdrequired": "1",
                 "timeupdated": "1716275353"
             },
+            "ratings_acb": {
+                "buildid": "14278424",
+                "pwdrequired": "1",
+                "timeupdated": "1716296087"
+            },
             "ratings_pegi": {
                 "buildid": "14278424",
                 "pwdrequired": "1",
@@ -1008,7 +1033,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23625764,
-    "_sha": "0211f39549b4f8cf453e49db93f0e98fb9cbdaac",
-    "_size": 29127
+    "_change_number": 23627561,
+    "_sha": "3caab303becc224900d33999c8f1654d821d72f0",
+    "_size": 29942
 }
