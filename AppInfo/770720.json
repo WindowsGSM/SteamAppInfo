@@ -207,7 +207,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "externalamd externalintel"
+                    "betakey": "externalamd"
                 },
                 "description_loc": {
                     "english": "dev_engine"
@@ -400,7 +400,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "lqa_tencent externalnvidia"
+                    "betakey": "lqa_tencent externalnvidia externalintel"
                 },
                 "description_loc": {
                     "english": "LQA_Tencent"
@@ -463,11 +463,6 @@
                     "size": "45C2D6D3B245AF5CCFDE11BFBE7617A6",
                     "download": "E181915F1273235A821921F1FCF831E4"
                 },
-                "externalintel": {
-                    "gid": "A58F9257AC46AE3635F44BE4BCA348BE",
-                    "size": "10ADDB4FC634D6EA402C788ACA8D16F5",
-                    "download": "C65879BAB13025B8B5DC283BD7A46D64"
-                },
                 "latest_lwp": {
                     "gid": "C214D3D43772EB02626ABFC14CF443D2",
                     "size": "60B34C48D3698DA373EDEE87A8E15814",
@@ -508,15 +503,20 @@
                     "size": "7D8AD9F0EC91B7B72EBE2A1D0207FF1D",
                     "download": "492F83631E693CA60A88ED56ACCC2C34"
                 },
+                "externalintel": {
+                    "gid": "9CC12C2D9AE503BA13AD80C3B5F7B025",
+                    "size": "2AF64BE01579F47C2B23EC329B4E071E",
+                    "download": "9DE7B9C9A807D4D43EC7BC7C362119F0"
+                },
                 "externalnvidia": {
                     "gid": "00DB84C940A2809D10DC6758032A552F",
                     "size": "4FCF6FB7A9D1738EF487D06DB7633C14",
                     "download": "DDED81C9661807532C61AA80EA52C286"
                 },
                 "latest": {
-                    "gid": "22CBA5FC2A35417785DC2A0A3D909025",
-                    "size": "5AC3AC07047C07C1893F179CD4B6D6F4",
-                    "download": "01B0024A4D70EF29377DB7400D7C6B66"
+                    "gid": "C91DA0B50646A6905B6D4ACA83DD43D6",
+                    "size": "CB2DA5C59759E89AE5147134466518B0",
+                    "download": "76B6C979FE64817333C2B76F628B78A2"
                 },
                 "lqa_tencent": {
                     "gid": "CB493372F3583F7A0AFF1C7AC43D6645",
@@ -583,11 +583,6 @@
                     "size": "F03F49A1D7BC0F1F310D4645E1537506",
                     "download": "7E95F9CCB3362D63937345741669CD7A"
                 },
-                "externalintel": {
-                    "gid": "73383AB8F2EDEDA4F34040C8CEFBF1B8",
-                    "size": "B8EA9DB70AB8EBC8A1ECEF0790E848A6",
-                    "download": "A4432F92B3248CC88FBFE482FB41A1FD"
-                },
                 "latest_lwp": {
                     "gid": "7680C8170C8522CE077AB4170762E0A5",
                     "size": "A0D0425484C4019DDB5A117504A1D0E6",
@@ -628,15 +623,20 @@
                     "size": "2C8BAD2AE9B36B40E0D927578C5D7687",
                     "download": "29805F062F11C3D0C14E59AB37670A19"
                 },
+                "externalintel": {
+                    "gid": "73517AD9966A4F1E5113447AA8F995DB",
+                    "size": "0C91A7D8B584C2BC2E621A28A262B7A6",
+                    "download": "C8909A42655F9885A64D2C3777C9D865"
+                },
                 "externalnvidia": {
                     "gid": "76B5900387EC92E761147F234F252B58",
                     "size": "A108CAAF47DE265F1F6CBA6B3B8BA60D",
                     "download": "98805B0C3E0BEFA7203A58D91E6B4861"
                 },
                 "latest": {
-                    "gid": "2608D65F187FFFA8DCE48DAA86BA059A",
-                    "size": "60E584288C6A883956BF43749B09A252",
-                    "download": "72E028371363C468DBE25605355B62EC"
+                    "gid": "75EFCC74FC681F7B3565F50B3B52EC98",
+                    "size": "220337EC918F803FC4083A3D4F580C9F",
+                    "download": "0AB6F1BD08197371E443432A7D2D3BB1"
                 },
                 "lqa_tencent": {
                     "gid": "C7A52E6ADAC77D6FF9C8B52DF11EAB97",
@@ -703,11 +703,6 @@
                     "size": "2BA0B89E2EC0ED1C702E40B6D03CE1D4",
                     "download": "96CC498D36DA3AD23D5C5516A25CE29D"
                 },
-                "externalintel": {
-                    "gid": "7926897376A070AD96DF2FE139382D3D",
-                    "size": "9236AC638C1BCE23E87977C9D2634912",
-                    "download": "B7D53A9B597372A9332CFD3474FC7ACC"
-                },
                 "latest_lwp": {
                     "gid": "67DB44220F57E40CF4CB3BF4557C90F2",
                     "size": "05B22740E30AB5B449ECA1C0A3FAA077",
@@ -748,15 +743,20 @@
                     "size": "0A9ADB7EFE1344F58182AA6D145E8343",
                     "download": "5182162588A8A06DF2DBFFB63AD7E972"
                 },
+                "externalintel": {
+                    "gid": "C07476025446180DD9E1B6D2F17EB83C",
+                    "size": "3E8ABE6EC46286BEF7086EA423D4CEDD",
+                    "download": "5785E6D713BE451264EA2243B0F7F51E"
+                },
                 "externalnvidia": {
                     "gid": "646CA457DECB30C6CDE2CEB1BF5EB67B",
                     "size": "94D9E901ECE429E57AD2F7E6F14782D9",
                     "download": "3063CAE1A5B290410072E2DE40C3BF3A"
                 },
                 "latest": {
-                    "gid": "9E48FC66144932522772E51B7071EB89",
-                    "size": "661501F113E46AA9A9CEE28DA54E1E8A",
-                    "download": "4C68A70C3E3BF1BF27A42AA0E0E0D3F9"
+                    "gid": "580EF1BC621F6BE1045032B2F17261F4",
+                    "size": "D7371DAA5DA9A97463853FDA9317E904",
+                    "download": "6CED139A8215DB2894623E95F22F8B55"
                 },
                 "lqa_tencent": {
                     "gid": "1244D360D2C218A35499BA93B4BEC5C2",
@@ -823,11 +823,6 @@
                     "size": "AE39D17DDB49035570C99C6EADAC69A5",
                     "download": "AE39D17DDB49035570C99C6EADAC69A5"
                 },
-                "externalintel": {
-                    "gid": "9BF67B3700C66534408F7DE98FFC8C3B",
-                    "size": "DC0C920AE90D53C173BECA43237A25DD",
-                    "download": "DC0C920AE90D53C173BECA43237A25DD"
-                },
                 "latest_lwp": {
                     "gid": "ED980F3A0B5F378C9752CBEB71E0C553",
                     "size": "21721918DB608A3BD4569558BE2D8F93",
@@ -867,6 +862,11 @@
                     "gid": "0EA65FB745FEA5FD07AC62F3B8D97350",
                     "size": "9D07A4A0E6D142A7C1E6D9A416EFBB51",
                     "download": "9D07A4A0E6D142A7C1E6D9A416EFBB51"
+                },
+                "externalintel": {
+                    "gid": "9BF67B3700C66534408F7DE98FFC8C3B",
+                    "size": "DC0C920AE90D53C173BECA43237A25DD",
+                    "download": "DC0C920AE90D53C173BECA43237A25DD"
                 },
                 "externalnvidia": {
                     "gid": "86C38D969DE2098A78C005D05296AE6C",
@@ -935,11 +935,6 @@
                 "pwdrequired": "1",
                 "timeupdated": "1701269830"
             },
-            "externalintel": {
-                "buildid": "12813382",
-                "pwdrequired": "1",
-                "timeupdated": "1701698611"
-            },
             "latest_lwp": {
                 "buildid": "12727337",
                 "pwdrequired": "1",
@@ -980,15 +975,20 @@
                 "pwdrequired": "1",
                 "timeupdated": "1716470815"
             },
+            "externalintel": {
+                "buildid": "14401154",
+                "pwdrequired": "1",
+                "timeupdated": "1716479484"
+            },
             "externalnvidia": {
                 "buildid": "14401154",
                 "pwdrequired": "1",
                 "timeupdated": "1716471809"
             },
             "latest": {
-                "buildid": "14469315",
+                "buildid": "14470848",
                 "pwdrequired": "1",
-                "timeupdated": "1716471837"
+                "timeupdated": "1716479506"
             },
             "lqa_tencent": {
                 "buildid": "14401154",
@@ -1033,7 +1033,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23662597,
-    "_sha": "82d0666d527706db5405e18b58dd863951f2679f",
+    "_change_number": 23663704,
+    "_sha": "fb0efa2338fdccaea4a67fc25ce9fea1523bd46d",
     "_size": 29957
 }
