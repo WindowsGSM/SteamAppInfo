@@ -200,21 +200,21 @@
                     "download": "1340859536"
                 },
                 "1.204.015": {
-                    "gid": "7907419733952338190",
+                    "gid": "8804254912317673458",
                     "size": "6358140449",
-                    "download": "1377792992"
+                    "download": "1377791680"
                 }
             },
             "encryptedmanifests": {
-                "playtest": {
-                    "gid": "51DBA5A57632D83DA5980E7C6D0A90B0",
-                    "size": "A0B6DA1B86C035F121B896228BB8778F",
-                    "download": "85C7F630BAB11BE1E8A44933D137C1BF"
-                },
                 "publictest": {
                     "gid": "74FFF09D11684DD7C7CF42840B24891C",
                     "size": "487E0C434225FDB551CCE866E3010DA0",
                     "download": "1CC0F1746AB78D73BFDDA9D5C18370A2"
+                },
+                "playtest": {
+                    "gid": "57A3EFB57145480AC8DE3B35B46E1E96",
+                    "size": "87101211AA1810A6DF454973B289E63E",
+                    "download": "BEACB8A6A37FA0CE235313DFF37492B4"
                 },
                 "stableready": {
                     "gid": "165B750AF4D1C69899029C9A6F3ADD62",
@@ -321,11 +321,6 @@
                 "description": "compatibility branch for dx9 and 32 bit",
                 "timeupdated": "1464358279"
             },
-            "playtest": {
-                "buildid": "12244666",
-                "pwdrequired": "1",
-                "timeupdated": "1695287065"
-            },
             "publictest": {
                 "buildid": "10558353",
                 "pwdrequired": "1",
@@ -337,9 +332,14 @@
                 "timeupdated": "1715618710"
             },
             "1.204.015": {
-                "buildid": "14214318",
+                "buildid": "14466684",
                 "description": "204 Release Version",
-                "timeupdated": "1716221760"
+                "timeupdated": "1716458828"
+            },
+            "playtest": {
+                "buildid": "14466684",
+                "pwdrequired": "1",
+                "timeupdated": "1716458421"
             },
             "stableready": {
                 "buildid": "14430733",
@@ -359,7 +359,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23644314,
-    "_sha": "60bbbe4d2985aa85b60f03ee245f43ce081130eb",
+    "_change_number": 23658610,
+    "_sha": "13dac9fbf03ed3964e5ad06e4543be1fd7cfc043",
     "_size": 8102
 }
