@@ -28,6 +28,30 @@
                 "config": {
                     "oslist": "windows"
                 }
+            },
+            "1": {
+                "executable": "srcds.exe",
+                "arguments": "-game fortressforever",
+                "config": {
+                    "oslist": "windows",
+                    "betakey": "2013"
+                },
+                "description_loc": {
+                    "english": "Launch (2013)"
+                },
+                "description": "Launch (2013)"
+            },
+            "2": {
+                "executable": "./srcds_run",
+                "arguments": "-game fortressforever",
+                "config": {
+                    "oslist": "linux",
+                    "betakey": "2013"
+                },
+                "description_loc": {
+                    "english": "Launch (2013)"
+                },
+                "description": "Launch (2013)"
             }
         }
     },
@@ -59,7 +83,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23672172,
-    "_sha": "70163734e2061d0e3c6656160396c87a20a5e697",
-    "_size": 1266
+    "_change_number": 23672581,
+    "_sha": "c05c994f2005a7adfc74da57cf40431fe749f643",
+    "_size": 1790
 }
