@@ -95,14 +95,14 @@
         "317673": {
             "manifests": {
                 "public": {
+                    "gid": "8631616204580101164",
+                    "size": "5442794069",
+                    "download": "2935210816"
+                },
+                "previous": {
                     "gid": "2851132537131692461",
                     "size": "6124693568",
                     "download": "3454100624"
-                },
-                "previous": {
-                    "gid": "8771497217696898382",
-                    "size": "6119763955",
-                    "download": "3449165216"
                 }
             },
             "encryptedmanifests": {
@@ -119,14 +119,14 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "1568983498266309225",
+                    "size": "14799880",
+                    "download": "4501312"
+                },
+                "previous": {
                     "gid": "5334860920722831747",
                     "size": "14883336",
                     "download": "4628272"
-                },
-                "previous": {
-                    "gid": "8181179270281173737",
-                    "size": "14841864",
-                    "download": "4623200"
                 }
             },
             "encryptedmanifests": {
@@ -143,14 +143,14 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "1657665349166282142",
+                    "size": "65803288",
+                    "download": "7211872"
+                },
+                "previous": {
                     "gid": "9035275573576305723",
                     "size": "66252598",
                     "download": "7279008"
-                },
-                "previous": {
-                    "gid": "5221148696169174283",
-                    "size": "66009212",
-                    "download": "7247984"
                 }
             },
             "encryptedmanifests": {
@@ -164,23 +164,23 @@
         "workshopdepot": "317670",
         "branches": {
             "public": {
-                "buildid": "12358168",
-                "timeupdated": "1696590778"
-            },
-            "previous": {
-                "buildid": "11940293",
-                "description": "Previous version of the game\t",
-                "timeupdated": "1696281248"
+                "buildid": "14484927",
+                "timeupdated": "1716648149"
             },
             "devtest": {
                 "buildid": "14484927",
                 "pwdrequired": "1",
                 "timeupdated": "1716566728"
+            },
+            "previous": {
+                "buildid": "12358168",
+                "description": "Previous version of the game\t",
+                "timeupdated": "1716648129"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 23681233,
-    "_sha": "8ed6278cf0dd86050b93a534cb48fe5ab62ca885",
+    "_change_number": 23691310,
+    "_sha": "d551ce4a19bff36599fd91a196b3bce230c4a6bd",
     "_size": 4150
 }
