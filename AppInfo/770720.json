@@ -325,7 +325,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "117_main current 117_shadtest"
+                    "betakey": "117_main current 117_shadtest adhoctest"
                 }
             },
             "45": {
@@ -488,6 +488,11 @@
                     "size": "421F654CA7D6F424C21CDA25FAE3E95E",
                     "download": "3BC6D23703FC438F2F0633C48EF7F6DB"
                 },
+                "adhoctest": {
+                    "gid": "F137B7C29EF16C3032E61F9E7F620466",
+                    "size": "DED139612E7ADDA5D508C800ED3FBA0F",
+                    "download": "3BF2DC417F89F917750582D831C3F1AF"
+                },
                 "backend_2.0": {
                     "gid": "B7125545864A42469DAB77B20FCD9A52",
                     "size": "665435A1A687DB85CD65F3D0801340CD",
@@ -607,6 +612,11 @@
                     "gid": "2C9F7B15D07378F81A6BE209C97C6B13",
                     "size": "B2D683D85DE0F6582A375B0B81EB6775",
                     "download": "94DC72A6AAA4C5971C42A951746F432A"
+                },
+                "adhoctest": {
+                    "gid": "5C57D9D8A5588A142D28955CB800CF7F",
+                    "size": "CFBF70E6E970BB1F04E6A8B5F6B70D10",
+                    "download": "979234A870E3186FCB473B2F696F14A1"
                 },
                 "backend_2.0": {
                     "gid": "9CBD66E3B69491AD8A0678135FA62C92",
@@ -728,6 +738,11 @@
                     "size": "D719B30E5D70A42499E7B0B11E4FF7DE",
                     "download": "B9C2795190F68567339B7A7F5DED2899"
                 },
+                "adhoctest": {
+                    "gid": "E3C365B55F9F0A7BE36D69B1C59231DE",
+                    "size": "5F510604E3C5C3EC8243E31483897BBB",
+                    "download": "6FD174D9DD8C91FC145A5C03B1DB6DFA"
+                },
                 "backend_2.0": {
                     "gid": "681A5701C7A6AAB698EAD1F68AA6064C",
                     "size": "0301A5F6F3823145E6AE8C3CC9B9C90B",
@@ -848,6 +863,11 @@
                     "size": "325926D8593FF39511020BB409EE315F",
                     "download": "325926D8593FF39511020BB409EE315F"
                 },
+                "adhoctest": {
+                    "gid": "52C1FFF21D70AAB4B209C7CBB89CFA16",
+                    "size": "5315D1C6B1622F5993E7864E213E6568",
+                    "download": "5315D1C6B1622F5993E7864E213E6568"
+                },
                 "backend_2.0": {
                     "gid": "965DF7529307AD756D2EB11605A41CEA",
                     "size": "6ED9B0D2EB818E78FFEC969E107161CF",
@@ -960,6 +980,11 @@
                 "pwdrequired": "1",
                 "timeupdated": "1716549839"
             },
+            "adhoctest": {
+                "buildid": "14461549",
+                "pwdrequired": "1",
+                "timeupdated": "1716974628"
+            },
             "backend_2.0": {
                 "buildid": "14296993",
                 "pwdrequired": "1",
@@ -1033,7 +1058,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23735827,
-    "_sha": "ad49917a4ac08cd7891b11bfe418c16da73096f6",
-    "_size": 29980
+    "_change_number": 23737313,
+    "_sha": "3a36a91b78e60219b6ca5c9de4a858478cad0692",
+    "_size": 30796
 }
