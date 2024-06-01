@@ -91,15 +91,15 @@
                 }
             },
             "encryptedmanifests": {
-                "devonly": {
-                    "gid": "E347BC8DCDDF2AAB48A5AA2287BBD382",
-                    "size": "20E3B70902C5AA1020FD8C4993AE684E",
-                    "download": "D7C89E71562826B31218C1909EA0F421"
-                },
                 "dailybuild": {
                     "gid": "C7B11199610D1CB9B2F3E28BF0EBB832",
                     "size": "A04295A9C8BD6EDD1D10A64DACD3E02A",
                     "download": "20FC40072B4377F2376B5D55B1D665E5"
+                },
+                "devonly": {
+                    "gid": "DD17054870984B0DB44F39669C40305C",
+                    "size": "52E30EB3CF0BD2451D5611FC432B2225",
+                    "download": "789D011081D01AF81152E81079F17607"
                 }
             }
         },
@@ -108,20 +108,20 @@
                 "buildid": "13936729",
                 "timeupdated": "1712160642"
             },
-            "devonly": {
-                "buildid": "13936729",
-                "pwdrequired": "1",
-                "timeupdated": "1712160576"
-            },
             "dailybuild": {
                 "buildid": "14573445",
                 "pwdrequired": "1",
                 "timeupdated": "1717280147"
+            },
+            "devonly": {
+                "buildid": "14573445",
+                "pwdrequired": "1",
+                "timeupdated": "1717280608"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 23789869,
-    "_sha": "ca505917df5b80881f9d7cb1d1edcd2f1e053414",
+    "_change_number": 23789915,
+    "_sha": "f5e2b48989ac7835c42e896499d1e6952386c51b",
     "_size": 2592
 }
