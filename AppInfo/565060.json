@@ -158,15 +158,15 @@
                     "size": "28765794",
                     "download": "4680704"
                 },
-                "beta": {
-                    "gid": "3061754686216819923",
-                    "size": "36817685",
-                    "download": "5172272"
-                },
                 "previous": {
                     "gid": "6086373078975639745",
                     "size": "36816850",
                     "download": "5171888"
+                },
+                "beta": {
+                    "gid": "8244023495232738191",
+                    "size": "36834651",
+                    "download": "5175584"
                 }
             },
             "encryptedmanifests": {
@@ -258,15 +258,15 @@
                     "size": "39882525",
                     "download": "11517744"
                 },
-                "beta": {
-                    "gid": "7589827290196695066",
-                    "size": "39956253",
-                    "download": "11526672"
-                },
                 "previous": {
                     "gid": "3518841700968291792",
                     "size": "39953693",
                     "download": "11525104"
+                },
+                "beta": {
+                    "gid": "3465304386015288752",
+                    "size": "39970589",
+                    "download": "11530944"
                 }
             },
             "encryptedmanifests": {
@@ -358,15 +358,15 @@
                     "size": "71316377",
                     "download": "19457664"
                 },
-                "beta": {
-                    "gid": "6962686018876886643",
-                    "size": "71394241",
-                    "download": "19479776"
-                },
                 "previous": {
                     "gid": "8523768796692479843",
                     "size": "71390145",
                     "download": "19479024"
+                },
+                "beta": {
+                    "gid": "4489275037536950981",
+                    "size": "71390153",
+                    "download": "19477312"
                 }
             },
             "encryptedmanifests": {
@@ -458,15 +458,15 @@
                     "size": "51855620",
                     "download": "11778928"
                 },
-                "beta": {
-                    "gid": "4257774584292324326",
-                    "size": "51969724",
-                    "download": "11796736"
-                },
                 "previous": {
                     "gid": "7471171385117636149",
                     "size": "51969724",
                     "download": "11796560"
+                },
+                "beta": {
+                    "gid": "146072673118484847",
+                    "size": "52030796",
+                    "download": "11814800"
                 }
             },
             "encryptedmanifests": {
@@ -552,11 +552,6 @@
                 "description": "2.3.2 - New maintenance command & performance optimizations",
                 "timeupdated": "1701774450"
             },
-            "beta": {
-                "buildid": "13518580",
-                "description": "Beta Branch - Newest Changes & Experimental Features",
-                "timeupdated": "1708517137"
-            },
             "previous": {
                 "buildid": "12972400",
                 "description": "Previous Build 2.4.2 - Will be disabled soon",
@@ -566,6 +561,11 @@
                 "buildid": "6157678",
                 "pwdrequired": "1",
                 "timeupdated": "1611921035"
+            },
+            "beta": {
+                "buildid": "14584737",
+                "description": "Beta Branch - Newest Changes & Experimental Features",
+                "timeupdated": "1717419813"
             },
             "internal-testing": {
                 "buildid": "14584737",
@@ -579,7 +579,7 @@
         "maxnumfiles": "10000"
     },
     "_missing_token": false,
-    "_change_number": 23803784,
-    "_sha": "2040dad67acedb809df55ca9702879920e12959f",
-    "_size": 13125
+    "_change_number": 23804406,
+    "_sha": "50a614c420eaa25c9837898f1d6426b66c14fec1",
+    "_size": 13124
 }
