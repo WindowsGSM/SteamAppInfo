@@ -207,15 +207,15 @@
                 }
             },
             "encryptedmanifests": {
-                "developer": {
-                    "gid": "8477184805D092B49D767C37F85F073A",
-                    "size": "AEBBCF13B7F02C7DC1BC8253F8CDB800",
-                    "download": "F7AAD9E3884BD0FC222D86536B384F43"
-                },
                 "testing": {
                     "gid": "E9A71B26A63C52BF87590726DEA28F80",
                     "size": "8FF7B75C02F8637F01633DD74E993AFB",
                     "download": "E2F3397CF4B6C6FCACE0241F6930478B"
+                },
+                "developer": {
+                    "gid": "6680F9498EB54AED80ECEA5C74CB9A15",
+                    "size": "EF740F92AE88E78FFF649A40BE36B59D",
+                    "download": "466A41F0AFF6F81575A73B3B8DC88081"
                 }
             }
         },
@@ -231,15 +231,15 @@
                 "buildid": "14552569",
                 "timeupdated": "1717109037"
             },
-            "developer": {
-                "buildid": "13040111",
-                "pwdrequired": "1",
-                "timeupdated": "1703433000"
-            },
             "testing": {
                 "buildid": "10861602",
                 "pwdrequired": "1",
                 "timeupdated": "1679901610"
+            },
+            "developer": {
+                "buildid": "13534272",
+                "pwdrequired": "1",
+                "timeupdated": "1717430145"
             },
             "testpublic": {
                 "buildid": "14555760",
@@ -249,7 +249,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23767789,
-    "_sha": "e8defb45d2174eb1374d78e9eb76216382718cd5",
+    "_change_number": 23806967,
+    "_sha": "eacbb839c28b56eb10185d297053f8fef5742023",
     "_size": 4804
 }
