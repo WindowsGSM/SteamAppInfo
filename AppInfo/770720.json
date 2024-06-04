@@ -160,7 +160,7 @@
             },
             "27": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings blah -online_server 192.168.11.142 -online_server_port 61088 +sys_dump_type 3 +online_websvc_enable_tls 0",
+                "arguments": "+online_account_client_settings blah -online_server 192.168.10.46 -online_server_port 61088 +sys_dump_type 3 +online_websvc_enable_tls 0",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -1022,7 +1022,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23823589,
-    "_sha": "784f459d24721e52becf6b687b615730d4c4547b",
-    "_size": 29676
+    "_change_number": 23823741,
+    "_sha": "616b8a653afc50ff96c8a548fb4d75281c99865c",
+    "_size": 29675
 }
