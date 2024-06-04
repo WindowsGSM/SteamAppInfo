@@ -145,7 +145,7 @@
                 "description": "MPQA3"
             },
             "26": {
-                "executable": "hunt.exe",
+                "executable": "bin\\win_x64\\HuntGame.exe",
                 "arguments": "+online_account_client_settings blah -online_server frwp4hntdemosrv -online_server_port 61088 +sys_dump_type 3 +online_websvc_enable_tls 0",
                 "type": "option1",
                 "config": {
@@ -1022,7 +1022,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23822340,
-    "_sha": "b1f2b343b3bfa8574b4fe94a3983acbd10df49a9",
-    "_size": 29532
+    "_change_number": 23823365,
+    "_sha": "a4fe28e3ddf467147e500d6763f07edd06830240",
+    "_size": 29550
 }
