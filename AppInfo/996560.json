@@ -102,15 +102,15 @@
                     "size": "741365487",
                     "download": "326964256"
                 },
-                "early-server-build": {
-                    "gid": "357358806786777120",
-                    "size": "741396561",
-                    "download": "326965024"
-                },
                 "pluginapi-beta": {
                     "gid": "4496340679897500550",
                     "size": "730552114",
                     "download": "322662320"
+                },
+                "early-server-build": {
+                    "gid": "2675622256821344293",
+                    "size": "742318169",
+                    "download": "327246464"
                 },
                 "experimental": {
                     "gid": "6907681103457102919",
@@ -172,15 +172,15 @@
                     "size": "570506184",
                     "download": "153563760"
                 },
-                "early-server-build": {
-                    "gid": "5608060970153177716",
-                    "size": "570537258",
-                    "download": "153564320"
-                },
                 "pluginapi-beta": {
                     "gid": "2669158276392828339",
                     "size": "559813744",
                     "download": "149238864"
+                },
+                "early-server-build": {
+                    "gid": "7452025696316355794",
+                    "size": "571458866",
+                    "download": "153841232"
                 },
                 "experimental": {
                     "gid": "8239306699175309877",
@@ -236,11 +236,6 @@
                 "buildid": "13352826",
                 "timeupdated": "1706922357"
             },
-            "early-server-build": {
-                "buildid": "13297318",
-                "description": "Access to server builds before clients release",
-                "timeupdated": "1706543926"
-            },
             "marketing-preview": {
                 "buildid": "12507382",
                 "pwdrequired": "1",
@@ -276,6 +271,11 @@
                 "pwdrequired": "1",
                 "timeupdated": "1699906083"
             },
+            "early-server-build": {
+                "buildid": "14598418",
+                "description": "Access to server builds before clients release",
+                "timeupdated": "1717527285"
+            },
             "experimental": {
                 "buildid": "14562752",
                 "description": "Experimental branch for early testing and public development purposes",
@@ -294,7 +294,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23822611,
-    "_sha": "b48eb4f2c40a8455e34bd5f28ff56b8d6155922a",
-    "_size": 7346
+    "_change_number": 23826545,
+    "_sha": "6f1e3e512ab5aeadcab6985e685e7db5407d865e",
+    "_size": 7347
 }
