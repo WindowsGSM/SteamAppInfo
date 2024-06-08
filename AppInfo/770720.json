@@ -420,6 +420,20 @@
                     "english": "adhoctest"
                 },
                 "description": "adhoctest"
+            },
+            "52": {
+                "executable": "bin\\win_x64\\HuntGame.exe",
+                "arguments": "+online_account_client_settings stage2 +sys_dump_type 3 +online_news_server_port 5011",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "lionbridge_qa"
+                },
+                "description_loc": {
+                    "english": "Lionbridge_Test"
+                },
+                "description": "Lionbridge_Test"
             }
         },
         "uselaunchcommandline": "1"
@@ -1097,7 +1111,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23887065,
-    "_sha": "4067e73bb2057a8770304c3d725006a6d701d3d6",
-    "_size": 32164
+    "_change_number": 23887133,
+    "_sha": "bfac4c7b4ee5240e7dd3e5c9baf4920e3755b2ae",
+    "_size": 32563
 }
