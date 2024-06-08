@@ -385,7 +385,7 @@
             },
             "49": {
                 "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings blah -online_server capi1-pcstg-useast.huntshowdown.com -online_server_port 61088",
+                "arguments": "+online_account_client_settings blah -online_server 192.168.17.125 -online_server_port 11000",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -1072,7 +1072,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23884744,
-    "_sha": "7a40f0b15369b57e7e4321803d5fd7e1dee85999",
-    "_size": 31359
+    "_change_number": 23886084,
+    "_sha": "76e601e54cf034454a4711ce34dd7805bb58f7c1",
+    "_size": 31338
 }
