@@ -291,7 +291,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "daily_main"
+                    "betakey": "daily_main dq_functional"
                 },
                 "description_loc": {
                     "english": "daily_main"
@@ -369,19 +369,6 @@
                     "english": "Loca test"
                 },
                 "description": "Loca test"
-            },
-            "48": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "crash_test"
-                },
-                "description_loc": {
-                    "english": "crash_test"
-                },
-                "description": "crash_test"
             },
             "49": {
                 "executable": "hunt.exe",
@@ -536,6 +523,11 @@
                     "size": "F8288903D02368A56F820F516442D7E7",
                     "download": "0358650F7A34DB9A00A5C8C0439A4963"
                 },
+                "dq_functional": {
+                    "gid": "D777E665328B71B42E7DBFC4E63EDF7A",
+                    "size": "5EE8DB6851C282877FFD09015D875C53",
+                    "download": "E5FA30F0B37A06A8FD24222619783E08"
+                },
                 "externalintel": {
                     "gid": "9CC12C2D9AE503BA13AD80C3B5F7B025",
                     "size": "2AF64BE01579F47C2B23EC329B4E071E",
@@ -665,6 +657,11 @@
                     "gid": "E7F168E717726D11D86ED72F8FA4F101",
                     "size": "BA251D4174A089E78CD2902FE5A7FC7F",
                     "download": "5FBD65E878770CF510007594D00BD1F5"
+                },
+                "dq_functional": {
+                    "gid": "AB8B5856161F329BA5391608326B88FE",
+                    "size": "DCE54563E761824E44C755AD540B416A",
+                    "download": "9D93B0BB5FCC44497134E2E9179113C6"
                 },
                 "externalintel": {
                     "gid": "73517AD9966A4F1E5113447AA8F995DB",
@@ -796,6 +793,11 @@
                     "size": "B915B7C77CC24E0A38BC07D0B935168B",
                     "download": "265E74E7853059F7B2F900F1919D6A3B"
                 },
+                "dq_functional": {
+                    "gid": "08DBE063D66E467B4B4A5F87FCA984DB",
+                    "size": "EBFE7811F9CD5C19CFBC619F9B0BA311",
+                    "download": "9A66A1D81332476BFE14D01FED921F84"
+                },
                 "externalintel": {
                     "gid": "C07476025446180DD9E1B6D2F17EB83C",
                     "size": "3E8ABE6EC46286BEF7086EA423D4CEDD",
@@ -926,6 +928,11 @@
                     "size": "945555327C13BC5957FD09361DBB59C1",
                     "download": "945555327C13BC5957FD09361DBB59C1"
                 },
+                "dq_functional": {
+                    "gid": "CA301AF4204CDCFFB84D77E734E6007E",
+                    "size": "5E5C5A122AA4BF09AF285792654E5858",
+                    "download": "5E5C5A122AA4BF09AF285792654E5858"
+                },
                 "externalintel": {
                     "gid": "9BF67B3700C66534408F7DE98FFC8C3B",
                     "size": "DC0C920AE90D53C173BECA43237A25DD",
@@ -1048,6 +1055,11 @@
                 "pwdrequired": "1",
                 "timeupdated": "1717838155"
             },
+            "dq_functional": {
+                "buildid": "14646338",
+                "pwdrequired": "1",
+                "timeupdated": "1718009479"
+            },
             "externalintel": {
                 "buildid": "14401154",
                 "pwdrequired": "1",
@@ -1111,7 +1123,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23902482,
-    "_sha": "2e0a6c44f7ad4d384c81974ea86b42045b03a793",
-    "_size": 32563
+    "_change_number": 23902576,
+    "_sha": "350a8faeb3fe086db45209008fc3ff3d69b7be8b",
+    "_size": 33122
 }
