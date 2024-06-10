@@ -320,7 +320,7 @@
             },
             "44": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stagealpha",
+                "arguments": "+online_account_client_settings stagealpha +r_displayinfo 6",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -1123,7 +1123,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23902737,
-    "_sha": "4bb724c94e6216d18de86868bdb61f7689b28691",
-    "_size": 33122
+    "_change_number": 23903221,
+    "_sha": "5f62fe41efeba9aededad25e2c73155058c885cc",
+    "_size": 33139
 }
