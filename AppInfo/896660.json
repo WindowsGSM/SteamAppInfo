@@ -80,19 +80,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3427869460738658349",
-                    "size": "2272627456",
-                    "download": "1208930752"
-                },
-                "default_old": {
-                    "gid": "252049227837324070",
-                    "size": "1322746519",
-                    "download": "779258352"
+                    "gid": "4053364253351604706",
+                    "size": "34697062",
+                    "download": "9421440"
                 },
                 "default_preml": {
                     "gid": "8268016382865288156",
                     "size": "1244390550",
                     "download": "635138656"
+                },
+                "default_old": {
+                    "gid": "3427869460738658349",
+                    "size": "2272627456",
+                    "download": "1208930752"
                 },
                 "default_preal": {
                     "gid": "8203628659808204648",
@@ -134,19 +134,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5185809274822304868",
-                    "size": "2190566878",
-                    "download": "1193442032"
-                },
-                "default_old": {
-                    "gid": "6939992588216848809",
-                    "size": "1211217258",
-                    "download": "755077024"
+                    "gid": "2599625827826422020",
+                    "size": "2190680974",
+                    "download": "1193478144"
                 },
                 "default_preml": {
                     "gid": "8025727395264739055",
                     "size": "1129626358",
                     "download": "618615808"
+                },
+                "default_old": {
+                    "gid": "5185809274822304868",
+                    "size": "2190566878",
+                    "download": "1193442032"
                 },
                 "default_preal": {
                     "gid": "416667775235426463",
@@ -184,13 +184,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "14399912",
-                "timeupdated": "1715950993"
-            },
-            "default_old": {
-                "buildid": "12959252",
-                "description": "Previous stable",
-                "timeupdated": "1712752301"
+                "buildid": "14660893",
+                "timeupdated": "1718006729"
             },
             "default_preml": {
                 "buildid": "9792153",
@@ -201,6 +196,11 @@
                 "buildid": "13751263",
                 "pwdrequired": "1",
                 "timeupdated": "1710505507"
+            },
+            "default_old": {
+                "buildid": "14399912",
+                "description": "Previous stable",
+                "timeupdated": "1718006639"
             },
             "default_preal": {
                 "buildid": "13920847",
@@ -230,7 +230,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23901681,
-    "_sha": "2a9294024d51856bc26e3387f8ff7270f72bbe83",
-    "_size": 5539
+    "_change_number": 23901943,
+    "_sha": "2f4d1eb49e92c638537784d58f34cac8ad8570e2",
+    "_size": 5537
 }
