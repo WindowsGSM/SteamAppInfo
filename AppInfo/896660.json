@@ -184,13 +184,20 @@
         },
         "896663": {
             "config": {
-                "oslist": "macos,linux"
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6615543543910733817",
+                    "size": "2245997295",
+                    "download": "1195886624"
+                }
             }
         },
         "branches": {
             "public": {
-                "buildid": "14662278",
-                "timeupdated": "1718012861"
+                "buildid": "14662813",
+                "timeupdated": "1718015469"
             },
             "default_preml": {
                 "buildid": "9792153",
@@ -235,7 +242,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23903265,
-    "_sha": "6214cf80fb2289b8c04444dfcbef4097ea0435ac",
-    "_size": 5611
+    "_change_number": 23903907,
+    "_sha": "dbf6900c48941df9d50412254c4f14304120dd0e",
+    "_size": 5745
 }
