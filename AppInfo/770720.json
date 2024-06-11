@@ -325,7 +325,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "117_main current 117_shadtest closed_beta_test"
+                    "betakey": "117_main current 117_shadtest closed_beta_test lqa_test"
                 }
             },
             "45": {
@@ -355,20 +355,6 @@
                     "english": "Branch of Age Rating Submission"
                 },
                 "description": "Branch of Age Rating Submission"
-            },
-            "47": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings bla -online_server 23.82.8.68 -online_server_port 61088 -online_news_server 23.82.8.68 -online_news_server_port 5001",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "lqa_test lqa_test_1"
-                },
-                "description_loc": {
-                    "english": "Loca test"
-                },
-                "description": "Loca test"
             },
             "49": {
                 "executable": "hunt.exe",
@@ -554,9 +540,9 @@
                     "download": "69F86C54C0E0925E84ECD5D7E866FAD9"
                 },
                 "lqa_test": {
-                    "gid": "2EC85A95B52FD6B82BCD2B81035206BD",
-                    "size": "3D0EFB32D7122536B99A051D8A721B4A",
-                    "download": "55016F23C31FEEEACA07BB9AC6D53BBD"
+                    "gid": "9FB82A0FECBBE17EC5192A9DF44C05C4",
+                    "size": "23C3C0EFADD2CA39595EAAEAD5A576AC",
+                    "download": "7F05278BC43E38A0ACE2193029F8C467"
                 },
                 "lqa_test_1": {
                     "gid": "66696388A0F524343CA447C87DE8CFE8",
@@ -689,9 +675,9 @@
                     "download": "4CB713C977E687046225CDB2EA23D791"
                 },
                 "lqa_test": {
-                    "gid": "06259DAF3F8E15EB2F221915F9208EEA",
-                    "size": "22040CC2328EBE6CCF603FCD09D88CC2",
-                    "download": "FEB03E7C0945C15A6DCA2A85A69B89BF"
+                    "gid": "06D023F256E5CC4097AE343363C01802",
+                    "size": "D14DF0DB1D2BCEEFC2FEC55195806180",
+                    "download": "879B0C0413C2941540AB17D117EFA069"
                 },
                 "lqa_test_1": {
                     "gid": "518595CACEE944EADD56572B9F58952B",
@@ -824,9 +810,9 @@
                     "download": "3B2D489445D7327971308E90F0EFC929"
                 },
                 "lqa_test": {
-                    "gid": "B7553C7A2C152059B5A61E0F9F8522F1",
-                    "size": "9FC54325797A1E196AF3734D41849D8B",
-                    "download": "0E695A9615DAC2DE58A32E4163EA8AE7"
+                    "gid": "FC59AED9C0923B3181BA63FEB8A7B229",
+                    "size": "769D8FF751C169FE519014DE7EC768BC",
+                    "download": "8BB1C5972DCBFFEDE4D5E57E362170D5"
                 },
                 "lqa_test_1": {
                     "gid": "BDA91119047C2BE5D0E3327472F827E4",
@@ -1086,9 +1072,9 @@
                 "timeupdated": "1716276323"
             },
             "lqa_test": {
-                "buildid": "14308679",
+                "buildid": "14646338",
                 "pwdrequired": "1",
-                "timeupdated": "1716977799"
+                "timeupdated": "1718094016"
             },
             "lqa_test_1": {
                 "buildid": "14481676",
@@ -1123,7 +1109,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23918681,
-    "_sha": "efffceb70f6f12b2f885588b519e67cd59d73f18",
-    "_size": 33156
+    "_change_number": 23919438,
+    "_sha": "9b4744152233674506e8d011a346b95ee9861886",
+    "_size": 32709
 }
