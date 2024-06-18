@@ -407,6 +407,20 @@
                     "english": "Lionbridge_Test"
                 },
                 "description": "Lionbridge_Test"
+            },
+            "53": {
+                "executable": "bin\\win_x64\\HuntGame.exe",
+                "arguments": "+online_account_client_settings bla -online_server cs1-lv-lw-eu.huntshowdown.com -online_server_port 11000",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "be_2.0"
+                },
+                "description_loc": {
+                    "english": "be_2.0"
+                },
+                "description": "be_2.0"
             }
         },
         "uselaunchcommandline": "1"
@@ -488,6 +502,11 @@
                     "gid": "105621AE6D46378B7B329969EB7BF6BF",
                     "size": "32EBB4E818CDFF1D053AD0DA0123A21C",
                     "download": "E3E4E02A3E85D56BD0E3DBEC60DDB09F"
+                },
+                "be_2.0": {
+                    "gid": "2A82C133692644290351F51346E0E2EF",
+                    "size": "84765662A30649C83E2C18F92BD0EF41",
+                    "download": "8EFEB777881C6EF550845A1A9BEA4133"
                 },
                 "closed_beta_test": {
                     "gid": "4C87D4F5245CCF3D7061B16CB6ABB112",
@@ -619,6 +638,11 @@
                     "size": "8123BCD28E0BDE33189673762A162D16",
                     "download": "DB0F9857A48B27F6B6A2157E33A39A05"
                 },
+                "be_2.0": {
+                    "gid": "F953AB4E0D305689A03BE6EE5F705430",
+                    "size": "AD0266052DD8AD742756329D7C453892",
+                    "download": "BA1203081D8BF27C7667D0B94373E98A"
+                },
                 "closed_beta_test": {
                     "gid": "EDB7A1F5D7798E4F3B5DF253B8DBF5D4",
                     "size": "5F77830240D6CC2A344D85B3655EB26A",
@@ -748,6 +772,11 @@
                     "gid": "B1CD7FF68072A5971AC1ADF1A3BB9719",
                     "size": "DD1E918B1AAA8346DE14C5981EBAE23F",
                     "download": "4459E878C4318CBB1D8D244829B2FC2D"
+                },
+                "be_2.0": {
+                    "gid": "9CDCC77D0E7C9ABF5E056EFAC7B4D43D",
+                    "size": "076D722A5FDE2EBB0EAF76FD097B8E16",
+                    "download": "FBDFF1F14868AAA940E8C1E14A235DD0"
                 },
                 "closed_beta_test": {
                     "gid": "152BAC01B2C4AC5D047384F6D92628B9",
@@ -879,6 +908,11 @@
                     "size": "0A18D45613E614BD5236908F2A60CBD5",
                     "download": "0A18D45613E614BD5236908F2A60CBD5"
                 },
+                "be_2.0": {
+                    "gid": "25315AE5C8C76F6D8D93CCA47A7886FC",
+                    "size": "7B42B5C4F9A341F774CE03C7DD8358BF",
+                    "download": "7B42B5C4F9A341F774CE03C7DD8358BF"
+                },
                 "closed_beta_test": {
                     "gid": "1FFAE7729D22F1EBAEE00B32A44D019F",
                     "size": "97A3CB9F1C1CE9013AC8C4624A02F6C1",
@@ -1001,6 +1035,11 @@
                 "pwdrequired": "1",
                 "timeupdated": "1718702842"
             },
+            "be_2.0": {
+                "buildid": "14736617",
+                "pwdrequired": "1",
+                "timeupdated": "1718713932"
+            },
             "closed_beta_test": {
                 "buildid": "14698129",
                 "pwdrequired": "1",
@@ -1084,7 +1123,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24014755,
-    "_sha": "c1d5255a57db6b1dc2bb88c8988bb84ee9d5d3df",
-    "_size": 32049
+    "_change_number": 24017098,
+    "_sha": "8c65dd4352744e25cc66ebab5c6ef439e2add02a",
+    "_size": 33235
 }
