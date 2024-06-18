@@ -176,6 +176,11 @@
                 }
             },
             "encryptedmanifests": {
+                "dedi_provider": {
+                    "gid": "277A764264178F42E7E6F9EE44E00BC6",
+                    "size": "DB57B1AC2C564FB5C16FECE515A3AEEB",
+                    "download": "85819C99B4B8707792CEA2858D9CB220"
+                },
                 "testing_trunk": {
                     "gid": "1F8E18B7D0287B45D5EE30BF49B31F0C",
                     "size": "0676E48CD3E83A269BA04A44040BD5C4",
@@ -295,6 +300,11 @@
                 }
             },
             "encryptedmanifests": {
+                "dedi_provider": {
+                    "gid": "A8A73B6154DB374C2C16E5560AEFA4D2",
+                    "size": "6309A2EF80CA4D99E1B4FD0EB7945A47",
+                    "download": "CE075007C352305C1EA493AC3FCFB05E"
+                },
                 "testing_trunk": {
                     "gid": "A3215306CE7C676FC599844172E878C8",
                     "size": "7F9D4AC6D75EDF7E5328C88700E66DC1",
@@ -326,6 +336,11 @@
             "public": {
                 "buildid": "12966454",
                 "timeupdated": "1705617913"
+            },
+            "dedi_provider": {
+                "buildid": "14746641",
+                "pwdrequired": "1",
+                "timeupdated": "1718723412"
             },
             "testing_trunk": {
                 "buildid": "14746641",
@@ -435,7 +450,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24011726,
-    "_sha": "d53224f72c6643fc23fee4277c2441e0912829bb",
-    "_size": 10654
+    "_change_number": 24019449,
+    "_sha": "3d49bc2426abdaf1044a3369ad20e697c2acebd2",
+    "_size": 11122
 }
