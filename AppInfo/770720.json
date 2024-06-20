@@ -366,20 +366,6 @@
                     "betakey": "backend_2.0"
                 }
             },
-            "50": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stage",
-                "type": "default",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "lqa_tencent externalnvidia externalintel"
-                },
-                "description_loc": {
-                    "english": "LQA_Tencent"
-                },
-                "description": "LQA_Tencent"
-            },
             "51": {
                 "executable": "bin\\win_x64_performance\\HuntGame.exe",
                 "arguments": "+online_account_client_settings stagealpha",
@@ -1047,7 +1033,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24044182,
-    "_sha": "1dbfa7096711ffc5a1f058e509954c534e583a0f",
-    "_size": 30667
+    "_change_number": 24044419,
+    "_sha": "2e913ea5a87a78877d6c6801e2a4e08c9bc35c4f",
+    "_size": 30297
 }
