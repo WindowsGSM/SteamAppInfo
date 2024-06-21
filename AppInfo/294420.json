@@ -89,11 +89,6 @@
                     "size": "16038078600",
                     "download": "10801466224"
                 },
-                "latest_experimental": {
-                    "gid": "6488980798717560001",
-                    "size": "16038078599",
-                    "download": "10801466448"
-                },
                 "alpha21.2": {
                     "gid": "2629975760866960693",
                     "size": "16038078600",
@@ -177,9 +172,9 @@
             },
             "encryptedmanifests": {
                 "dedi_provider": {
-                    "gid": "29EEB9D3C74C572FA446AFB7F1ED2849",
-                    "size": "AD24D79D6CFA597E3CC073F9D976F210",
-                    "download": "F1368947884D04FC1D82F3C43EE24AEB"
+                    "gid": "1AE97B7E5F91B4900190D71203C3C5A2",
+                    "size": "0C48B30447CEA981CC0A1412C9C72EFD",
+                    "download": "FAEA64971CB3980EF7B364C78920E094"
                 },
                 "testing_trunk": {
                     "gid": "642EA640B97DCF35200849C2C4A868F2",
@@ -192,9 +187,14 @@
                     "download": "76D8BB27D515E4E5AF7ADB45CCA2035A"
                 },
                 "internal_test": {
-                    "gid": "05F20E2B84169C40A84126DA56958E93",
-                    "size": "C677DDEFA8DA42FCEBAD195E8E9ECCC2",
-                    "download": "ECC01098FE0F0164EFF85D38BAF42C73"
+                    "gid": "816EDEF6FAC12740C994BA9441105F98",
+                    "size": "7695CF090A810D47647E8BE463D0CBD6",
+                    "download": "489AB1CBE6FEC9E0C07D93EB13D122CA"
+                },
+                "latest_experimental": {
+                    "gid": "696ABA54DA84F434CBA68021B16109A9",
+                    "size": "1DBC65EBF98A92A10C3B6BF4CD24E9BE",
+                    "download": "92EF2B8D8BC246EDB8898135668883C7"
                 },
                 "testing_branch_alt": {
                     "gid": "2817DC2732A735FD7AA80D28E1E54B54",
@@ -217,11 +217,6 @@
                     "gid": "5175448704233288458",
                     "size": "16054212508",
                     "download": "10792992208"
-                },
-                "latest_experimental": {
-                    "gid": "1977371197884973023",
-                    "size": "16054212509",
-                    "download": "10792993712"
                 },
                 "alpha21.2": {
                     "gid": "5175448704233288458",
@@ -301,9 +296,9 @@
             },
             "encryptedmanifests": {
                 "dedi_provider": {
-                    "gid": "A415174E0C1D2DCF53EFA3972A9FF2FE",
-                    "size": "31A8B0E8963E518F0CAD46EEF1B31FD1",
-                    "download": "A066DBD04C78BC07C74D4E77F8AC000D"
+                    "gid": "BBD81EBE4B87F2B599F2FF9C6C2EC610",
+                    "size": "F0392CBA34571F0D7D581DA30D312E02",
+                    "download": "D6D9143459552D3BE8EB0486C4994DA0"
                 },
                 "testing_trunk": {
                     "gid": "DAD02AF370D058DD5BAD38CABC7E7C23",
@@ -316,9 +311,14 @@
                     "download": "3A0071D211F59D8B519B0101F4CA7755"
                 },
                 "internal_test": {
-                    "gid": "BC6906C6440D1BEA70948DF5BBD35B35",
-                    "size": "3E97F71E130A81572CDB1F0A6F1B9B15",
-                    "download": "E6AFC8E70E23D5A795DD9B09C24C19CE"
+                    "gid": "F8BB6C595247273084EE0207A22A4D7F",
+                    "size": "A9149F818147688877D85ACE9DF1854D",
+                    "download": "806261CDD839AE21A04696DAE8613B55"
+                },
+                "latest_experimental": {
+                    "gid": "4C36D9BAF8234325E3B4613427229410",
+                    "size": "A73DBA584E658DD2F67BE8B1915C6ACC",
+                    "download": "78E5911D5059AAEC385D1911F1F19EB2"
                 },
                 "testing_branch_alt": {
                     "gid": "0BDD1D853B56244F89789CF4389D3702",
@@ -338,9 +338,9 @@
                 "timeupdated": "1705617913"
             },
             "dedi_provider": {
-                "buildid": "14789862",
+                "buildid": "14796502",
                 "pwdrequired": "1",
-                "timeupdated": "1718947447"
+                "timeupdated": "1718986418"
             },
             "testing_trunk": {
                 "buildid": "14787078",
@@ -353,14 +353,14 @@
                 "timeupdated": "1718984843"
             },
             "internal_test": {
-                "buildid": "14789862",
+                "buildid": "14796502",
                 "pwdrequired": "1",
-                "timeupdated": "1718946077"
+                "timeupdated": "1718986527"
             },
             "latest_experimental": {
-                "buildid": "12696583",
-                "description": "Unstable build",
-                "timeupdated": "1700090666"
+                "buildid": "14796502",
+                "pwdrequired": "1",
+                "timeupdated": "1718986907"
             },
             "alpha21.2": {
                 "buildid": "12966454",
@@ -450,7 +450,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24068640,
-    "_sha": "e98425453dca52a75044b01ef18bd404b31fd420",
-    "_size": 11122
+    "_change_number": 24069095,
+    "_sha": "229f4a28f18f32c693d0405e7d51f70a192443bd",
+    "_size": 11219
 }
