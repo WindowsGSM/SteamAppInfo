@@ -62,15 +62,15 @@
                     "size": "6FDA31994D715E5641F410AD8C275F4F",
                     "download": "8C4BB585ED1BC3AD92C0867E78AE221F"
                 },
-                "playtest": {
-                    "gid": "9CFA92E868447171FDB69341D4073A3F",
-                    "size": "0BBBFB4487E14379AC0EAE3154A87C0C",
-                    "download": "E48875E447CD097E80B6BB7BEE105EE3"
-                },
                 "prerelease": {
                     "gid": "F820D5754E63AA9FD2D0FC25F542DD8D",
                     "size": "4BCDAFD8568D01BBEEC462C9865B0F82",
                     "download": "41B4CFF9287F756F05160483C57799FE"
+                },
+                "playtest": {
+                    "gid": "D067F3E612F5E2F0D4845B27E7A9024D",
+                    "size": "E004828985A4018B2C9775E2E58AEC75",
+                    "download": "406328730E4693F4874585D3C4800A10"
                 }
             },
             "depotfromapp": "1280"
@@ -111,9 +111,9 @@
                     "download": "9594AF38C518D398D80566C6C061E262"
                 },
                 "playtest": {
-                    "gid": "0A368B0AA684D4A04AD851645E00DF18",
-                    "size": "0683E8B05C962DA76AEA51284B4925CD",
-                    "download": "F55D417ED16B396C380EE9C419D8BA9D"
+                    "gid": "D29828231ED64F0BD00EAC87B053453C",
+                    "size": "4129284E6BF4CB9ADB73F8D9E84E1E03",
+                    "download": "32ECED8CCC8EE552EBC46B83D1E58A89"
                 }
             }
         },
@@ -132,11 +132,6 @@
                 "description": "v6.0.0",
                 "timeupdated": "1677240195"
             },
-            "playtest": {
-                "buildid": "14050303",
-                "pwdrequired": "1",
-                "timeupdated": "1713119736"
-            },
             "prerelease": {
                 "buildid": "12027408",
                 "description": " \tPre-release testing branch",
@@ -147,6 +142,11 @@
                 "description": "Public playtesting branch",
                 "timeupdated": "1692948739"
             },
+            "playtest": {
+                "buildid": "14811038",
+                "pwdrequired": "1",
+                "timeupdated": "1719166117"
+            },
             "previous": {
                 "buildid": "13972701",
                 "description": " \tRollback to previous version",
@@ -155,7 +155,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24005392,
-    "_sha": "5d35a5f6a6e28c381b51b991296eff16ad9b8133",
+    "_change_number": 24085919,
+    "_sha": "00732c5108038dc40c67fbe8a5d91ceda3b6143c",
     "_size": 3663
 }
