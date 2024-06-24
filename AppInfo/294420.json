@@ -89,6 +89,11 @@
                     "size": "16038078600",
                     "download": "10801466224"
                 },
+                "latest_experimental": {
+                    "gid": "6244466168615280258",
+                    "size": "19560683454",
+                    "download": "12321958496"
+                },
                 "alpha21.2": {
                     "gid": "2629975760866960693",
                     "size": "16038078600",
@@ -191,11 +196,6 @@
                     "size": "F6CFEE6C7CBA798593F5A94E128EA23D",
                     "download": "7520B77CF8F64AF9CE3D3E24B3A7A51E"
                 },
-                "latest_experimental": {
-                    "gid": "2A42505E150096AA8F4C2AB9B45412D5",
-                    "size": "37CEFC27B3E2D220157DD08A524619BD",
-                    "download": "E8681325359F88DEEC985E356F79EF65"
-                },
                 "testing_branch_alt": {
                     "gid": "2817DC2732A735FD7AA80D28E1E54B54",
                     "size": "F3E0AB7BA5A25FDCE9D1769AB7C0DB77",
@@ -217,6 +217,11 @@
                     "gid": "5175448704233288458",
                     "size": "16054212508",
                     "download": "10792992208"
+                },
+                "latest_experimental": {
+                    "gid": "805571201815535206",
+                    "size": "13785055844",
+                    "download": "7841295520"
                 },
                 "alpha21.2": {
                     "gid": "5175448704233288458",
@@ -315,11 +320,6 @@
                     "size": "689AC39B3F38E79DC566236B8E8AC755",
                     "download": "6A380C2D0DBEAB1E80D41D339406B400"
                 },
-                "latest_experimental": {
-                    "gid": "F169F512AF5110DA08A1E098E3E2D8C7",
-                    "size": "CBBFE831FF7306967587CCE29840AD71",
-                    "download": "0D9EDF46CEC2793C3697BC81A738623F"
-                },
                 "testing_branch_alt": {
                     "gid": "0BDD1D853B56244F89789CF4389D3702",
                     "size": "14E9F3A249A872ABE2788D6302928BCB",
@@ -359,7 +359,7 @@
             },
             "latest_experimental": {
                 "buildid": "14819851",
-                "pwdrequired": "1",
+                "description": "Unstable build",
                 "timeupdated": "1719247672"
             },
             "alpha21.2": {
@@ -450,7 +450,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24097439,
-    "_sha": "ba3241ee8708b1c0f45a2778ee28c3a1525db8b0",
-    "_size": 11219
+    "_change_number": 24097544,
+    "_sha": "622011f8b08f05aab1792a895bc57b83dd9539f2",
+    "_size": 11120
 }
