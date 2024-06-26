@@ -291,7 +291,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "daily_main dq_functional mkt_recording"
+                    "betakey": "daily_main mkt_recording"
                 },
                 "description_loc": {
                     "english": "daily_main"
@@ -387,12 +387,12 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "lionbridge_qa"
+                    "betakey": "lionbridge_qa dq_functional"
                 },
                 "description_loc": {
-                    "english": "Lionbridge_Test"
+                    "english": "Ext_test"
                 },
-                "description": "Lionbridge_Test"
+                "description": "Ext_test"
             },
             "53": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
@@ -509,9 +509,9 @@
                     "download": "CD5B5B7311453F3D4BDBB730579967C7"
                 },
                 "dq_functional": {
-                    "gid": "2B8AEECFEF3B23EAA4DA73B8BAA20387",
-                    "size": "D12D1A28C140B4426BD59D32158933B9",
-                    "download": "8F2731B31B7BF07D2B8B2506D40D1DD5"
+                    "gid": "774FC7565FAE30B0D2FF57F0F98B3E2F",
+                    "size": "F5CCFEE84E0981228351384BFD6C52AE",
+                    "download": "883E6E45D6073912A65EFB5B448B004D"
                 },
                 "latest": {
                     "gid": "6F273BBCF77C603DADB6F6ABB27B1782",
@@ -614,9 +614,9 @@
                     "download": "691B485DB967091AECD1B4E3E2417DAD"
                 },
                 "dq_functional": {
-                    "gid": "46DFF899BAD68F86D517AEB36A931AD6",
-                    "size": "FC3DDE6833AD08E74B181B8B02495A6A",
-                    "download": "45E889E4B76D79B397B615995C443317"
+                    "gid": "E392412667F4F6FD8885FE0A9FE0BEB4",
+                    "size": "1FF0E938AC7A126B103283A3F8BFA83E",
+                    "download": "F45B2249637438D8D1A9C3BA95FCFD9C"
                 },
                 "latest": {
                     "gid": "6EDB44677BF033FED07D8B6A9D2A2D48",
@@ -719,9 +719,9 @@
                     "download": "7A5D7152E5A3BEC3F17723B6FC083371"
                 },
                 "dq_functional": {
-                    "gid": "ED3937AA5F40B8DB5570F587C5B53679",
-                    "size": "0983E7DC051E2DEA7BF28C7D3B577998",
-                    "download": "E8247F096AE8C3A62A49E8483B20D10C"
+                    "gid": "56E8D4DB9C66246A8ACDE29C90276DED",
+                    "size": "777950AC1251C230D2FFF431F3F4757A",
+                    "download": "E910D7C8A9BAB0FFDA59AE9C86009FA2"
                 },
                 "latest": {
                     "gid": "21F21789DD4D5C018ACEC9AF3FD92D0B",
@@ -921,9 +921,9 @@
                 "timeupdated": "1718999833"
             },
             "dq_functional": {
-                "buildid": "14825671",
+                "buildid": "14812612",
                 "pwdrequired": "1",
-                "timeupdated": "1719380790"
+                "timeupdated": "1719433264"
             },
             "latest": {
                 "buildid": "14846732",
@@ -958,7 +958,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24128645,
-    "_sha": "f04e2da538c415c0a975c557be23b45fc1f80167",
-    "_size": 27864
+    "_change_number": 24132625,
+    "_sha": "e46eb8c705b3480f891b58697072527d4ec64bb5",
+    "_size": 27850
 }
