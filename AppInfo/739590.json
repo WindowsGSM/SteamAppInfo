@@ -209,11 +209,6 @@
                     "gid": "5628299387017652610",
                     "size": "248560078",
                     "download": "80674512"
-                },
-                "staging": {
-                    "gid": "3810651517055116960",
-                    "size": "250477471",
-                    "download": "80838016"
                 }
             },
             "encryptedmanifests": {
@@ -236,6 +231,11 @@
                     "gid": "1324BFD5540D131642D5F4D2742F5848",
                     "size": "AF6F46894BAC9CC45F3A2F037AEC7FD2",
                     "download": "9DAAE3E025399A4A3CC1B02E4B9E7EF3"
+                },
+                "staging": {
+                    "gid": "5F37822BD955282A5D5A02140D6D7AF5",
+                    "size": "9424B5A734A56BBCB1C523D6A6330862",
+                    "download": "ED8DF8FFE38CAE870EB3A35622403545"
                 }
             }
         },
@@ -327,14 +327,9 @@
                     "download": "97677872"
                 },
                 "so_playtest": {
-                    "gid": "5870695675846654904",
-                    "size": "374185479",
-                    "download": "117196736"
-                },
-                "staging": {
-                    "gid": "8478639358009204171",
-                    "size": "370017317",
-                    "download": "113063088"
+                    "gid": "5291222745489885439",
+                    "size": "374058375",
+                    "download": "117078656"
                 }
             },
             "encryptedmanifests": {
@@ -357,6 +352,11 @@
                     "gid": "C12384CB594E2F5F923EE71BEA781E77",
                     "size": "355AF475D3DA58DCC5004B56240C2E2A",
                     "download": "98FDB3860B5A51246DB49C272AB176C8"
+                },
+                "staging": {
+                    "gid": "4A557747C8A68B64F5ED9F2563235945",
+                    "size": "AD1B5E5821E56DE1AB32F692B448C626",
+                    "download": "54E4A536D5BD5210AF6EDCABC9D97CC3"
                 }
             }
         },
@@ -448,14 +448,9 @@
                     "download": "68265392"
                 },
                 "so_playtest": {
-                    "gid": "7734342976205057287",
-                    "size": "253871963",
-                    "download": "87061792"
-                },
-                "staging": {
-                    "gid": "4196471334727532183",
-                    "size": "249698681",
-                    "download": "82918240"
+                    "gid": "136363812222853346",
+                    "size": "253739739",
+                    "download": "86944768"
                 }
             },
             "encryptedmanifests": {
@@ -478,6 +473,11 @@
                     "gid": "0EB1195811B6042F2BE22860D04F523B",
                     "size": "EC55A6D6C47D9659A5D3B0F121843B47",
                     "download": "EE7C77FCC0D5208B06D1D3BE3EC2E877"
+                },
+                "staging": {
+                    "gid": "1829279A1D50C5E347AC38D3A2AE96D5",
+                    "size": "12E203B0BA1A8C0382E4370B1A5D1C8A",
+                    "download": "31AD1C88C93B97375E3CE50BD114B310"
                 }
             }
         },
@@ -569,14 +569,9 @@
                     "download": "68484736"
                 },
                 "so_playtest": {
-                    "gid": "3044060204164904329",
-                    "size": "291487022",
-                    "download": "87267216"
-                },
-                "staging": {
-                    "gid": "5917934499894940914",
-                    "size": "287313740",
-                    "download": "83121680"
+                    "gid": "8076880348467652874",
+                    "size": "291354798",
+                    "download": "87146512"
                 }
             },
             "encryptedmanifests": {
@@ -599,6 +594,11 @@
                     "gid": "11E91F557C86206E65CBC5A575BC396C",
                     "size": "CD81D5D1A6DF6373F48CF50018D48604",
                     "download": "A866B1E1AAF2060B3BDA3730B10368C8"
+                },
+                "staging": {
+                    "gid": "6E0F3E016E7A69AE04C7779679C3AA4F",
+                    "size": "963506C5E4EF1A33C6BF2DEFDDD25BA5",
+                    "download": "051E284E05DE82ECC77AAD6C62B4D79C"
                 }
             }
         },
@@ -691,11 +691,6 @@
                     "gid": "8717820652300658035",
                     "size": "0",
                     "download": "0"
-                },
-                "staging": {
-                    "gid": "8717820652300658035",
-                    "size": "0",
-                    "download": "0"
                 }
             },
             "encryptedmanifests": {
@@ -718,6 +713,11 @@
                     "gid": "C041CB7ECB233959836F1ED6F0C9519C",
                     "size": "43DB1D86582606FD2C27D709DC3AEFCB",
                     "download": "43DB1D86582606FD2C27D709DC3AEFCB"
+                },
+                "staging": {
+                    "gid": "8CAB26D79006BA19DDFCDE5B078F05B3",
+                    "size": "40B63409F4D639E356A83A45E39D22F6",
+                    "download": "40B63409F4D639E356A83A45E39D22F6"
                 }
             }
         },
@@ -822,19 +822,19 @@
                 "timeupdated": "1719283202"
             },
             "so_playtest": {
-                "buildid": "14844645",
+                "buildid": "14894122",
                 "description": "Update 10.3 Playtest on Sea Otter",
-                "timeupdated": "1719466568"
+                "timeupdated": "1719834476"
             },
             "staging": {
                 "buildid": "14890919",
-                "description": "Eco Server Staging Builds",
+                "pwdrequired": "1",
                 "timeupdated": "1719811395"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 24191685,
-    "_sha": "ebaa2dfa1d32cb22e764d91149acef97785a6c72",
-    "_size": 18952
+    "_change_number": 24191774,
+    "_sha": "260ca05ad2733b7994bdda14ebf202612b5c7bc8",
+    "_size": 19241
 }
