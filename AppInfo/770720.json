@@ -423,7 +423,7 @@
             },
             "55": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_server capi-cltst-useast.huntshowdown.com -online_server_port 61088",
+                "arguments": "+online_account_client_settings stage_cloud",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -1061,7 +1061,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24302352,
-    "_sha": "260e286d5861725374d78c0869cf1cb325ef2116",
-    "_size": 30988
+    "_change_number": 24305483,
+    "_sha": "1a24ee29c7b74dd39b5894c23901be48090f2a5e",
+    "_size": 30956
 }
