@@ -28,10 +28,58 @@
                     "oslist": "windows",
                     "osarch": "64"
                 }
+            },
+            "1": {
+                "executable": "Longvinter/Binaries/Linux/LongvinterServer-Linux-Shipping",
+                "arguments": "-log",
+                "type": "server",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
             }
         }
     },
     "depots": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7747775778018907449",
+                    "size": "46727128",
+                    "download": "14307024"
+                }
+            },
+            "depotfromapp": "1007"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "1007"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7138471031118904166",
+                    "size": "78382436",
+                    "download": "21254752"
+                }
+            },
+            "depotfromapp": "1007"
+        },
         "1639881": {
             "config": {
                 "language": "english",
@@ -147,7 +195,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24317141,
-    "_sha": "ce7dbd120cfaef2acb2746496f80af5f7da1ef26",
-    "_size": 3407
+    "_change_number": 24319177,
+    "_sha": "0d36f779bc51f55b5f970d88d70dca605026fed3",
+    "_size": 4272
 }
