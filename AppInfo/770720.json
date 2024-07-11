@@ -75,7 +75,7 @@
                 "description": "PCSTG"
             },
             "9": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
+                "executable": "hunt.exe",
                 "arguments": "+online_account_client_settings bla +online_server 192.168.17.125 +online_server_port 11000 +online_websvc_skip_tls_cert_validation 1 +sys_dump_type 3",
                 "type": "option1",
                 "config": {
@@ -1061,7 +1061,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24316838,
-    "_sha": "b8be6c2d0c924f5a7b51d5b382e8987362e65286",
-    "_size": 30956
+    "_change_number": 24319463,
+    "_sha": "03ee087186ed55138641921ee8fb0f179a762074",
+    "_size": 30938
 }
