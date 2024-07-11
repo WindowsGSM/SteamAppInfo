@@ -319,13 +319,13 @@
                 }
             },
             "44": {
-                "executable": "hunt.exe",
+                "executable": "bin\\win_x64\\HuntGame.exe",
                 "arguments": "+online_account_client_settings stagealpha +r_displayinfo 6 +r_FlashDebugMeshCache 0",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "117_main current 117_shadtest closed_beta_test lqa_test 117_precheck eac_pgo_use"
+                    "betakey": "117_main current 117_shadtest closed_beta_test lqa_test 117_precheck eac_pgo_use main_test"
                 }
             },
             "45": {
@@ -420,20 +420,6 @@
                     "english": "dq_functional"
                 },
                 "description": "dq_functional"
-            },
-            "55": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stage_cloud",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "main_test"
-                },
-                "description_loc": {
-                    "english": "main_test"
-                },
-                "description": "main_test"
             }
         },
         "uselaunchcommandline": "1"
@@ -1061,7 +1047,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24321299,
-    "_sha": "9fe94577cb2c6b2f8b8cd79533ccd8eac01952e5",
-    "_size": 30938
+    "_change_number": 24321377,
+    "_sha": "7609babc8b7c22ec8d0129d3f2d14b08b91f430d",
+    "_size": 30625
 }
