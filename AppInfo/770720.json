@@ -325,7 +325,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "117_main current 117_shadtest closed_beta_test lqa_test 117_precheck eac_pgo_use main_test"
+                    "betakey": "117_main current 117_shadtest closed_beta_test lqa_test 117_precheck eac_pgo_use"
                 }
             },
             "45": {
@@ -420,6 +420,20 @@
                     "english": "dq_functional"
                 },
                 "description": "dq_functional"
+            },
+            "55": {
+                "executable": "bin\\win_x64\\HuntGame.exe",
+                "arguments": "+online_account_client_settings stage_cloud",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "main_test"
+                },
+                "description_loc": {
+                    "english": "main_test"
+                },
+                "description": "main_test"
             }
         },
         "uselaunchcommandline": "1"
@@ -538,9 +552,9 @@
                     "download": "A592DED02D25F0EF3EED3144E0325B3B"
                 },
                 "latest": {
-                    "gid": "520385913F8F2C222ADB91B0F91A9D3B",
-                    "size": "D2798DD8911C88A827D5BA71A960B8BF",
-                    "download": "7DD0E146CFF4FF0600A22DF9C94FF1FD"
+                    "gid": "955A8D5AFE096AB6A8413E3EF9157DC5",
+                    "size": "5F8B880B40E36892DD1C6C4B35371E2E",
+                    "download": "E1A3E7016C9C9DD3C8310592823850B7"
                 },
                 "lionbridge_qa": {
                     "gid": "DC52E6EC000C8C7A918C08B19B33B92B",
@@ -1010,9 +1024,9 @@
                 "timeupdated": "1720427008"
             },
             "latest": {
-                "buildid": "15002543",
+                "buildid": "15002712",
                 "pwdrequired": "1",
-                "timeupdated": "1720709730"
+                "timeupdated": "1720710581"
             },
             "lionbridge_qa": {
                 "buildid": "14952617",
@@ -1047,7 +1061,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24322605,
-    "_sha": "6f588119ba32355b71a6cb776b310307c1feb02b",
-    "_size": 30625
+    "_change_number": 24323043,
+    "_sha": "c49c80d3e14e78fb29fbe16ff9a9eff8138ff86e",
+    "_size": 30956
 }
