@@ -387,7 +387,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "lionbridge_qa"
+                    "betakey": "lionbridge_qa dq_functional"
                 },
                 "description_loc": {
                     "english": "Ext_test"
@@ -406,20 +406,6 @@
                     "english": "be_2.0"
                 },
                 "description": "be_2.0"
-            },
-            "54": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stage2",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "dq_functional"
-                },
-                "description_loc": {
-                    "english": "dq_functional"
-                },
-                "description": "dq_functional"
             },
             "55": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
@@ -1061,7 +1047,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24348736,
-    "_sha": "a2e99b1f3da0679b74a5a9a5b1b426a26da3ca48",
-    "_size": 30957
+    "_change_number": 24350140,
+    "_sha": "449352f6efdf6ad587b5155990a47f01b80fe685",
+    "_size": 30623
 }
