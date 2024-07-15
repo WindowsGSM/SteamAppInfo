@@ -89,8 +89,8 @@
                 "description": "MPQA1"
             },
             "11": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings bla +online_server 192.168.19.180 +online_server_port 11000 +online_websvc_skip_tls_cert_validation 1 +sys_dump_type 3 +online_websvc_enable_tls 0",
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings bla -online_server 192.168.19.180 -online_server_port 11000 +sys_dump_type 3",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -1086,7 +1086,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24366044,
-    "_sha": "4649ab13c96b0d0d246974ce5383ec0fbfed1308",
-    "_size": 31794
+    "_change_number": 24368151,
+    "_sha": "a28a88027b2e76636a42721c6fb749753a2158e4",
+    "_size": 31706
 }
