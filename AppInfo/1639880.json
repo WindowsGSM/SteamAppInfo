@@ -82,7 +82,6 @@
         },
         "1639881": {
             "config": {
-                "language": "english",
                 "oslist": "windows",
                 "osarch": "64"
             },
@@ -123,7 +122,6 @@
         },
         "1639882": {
             "config": {
-                "language": "english",
                 "oslist": "linux",
                 "osarch": "64"
             },
@@ -162,6 +160,7 @@
                 }
             }
         },
+        "baselanguages": "english",
         "branches": {
             "public": {
                 "buildid": "14989230",
@@ -195,7 +194,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24319177,
-    "_sha": "0d36f779bc51f55b5f970d88d70dca605026fed3",
-    "_size": 4272
+    "_change_number": 24378467,
+    "_sha": "88a67a60ca49e17c133a3eb2c844f83baea06b85",
+    "_size": 4249
 }
