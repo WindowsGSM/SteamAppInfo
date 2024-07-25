@@ -119,11 +119,6 @@
                 }
             },
             "encryptedmanifests": {
-                "qa-testing": {
-                    "gid": "D4620127C0F75F70B7F6D1EB4EF927C5",
-                    "size": "C24E6028889C4CD51E00D4EA84BD9966",
-                    "download": "FDD170820744A6AE7E4FDAC38A96B811"
-                },
                 "mr-testing": {
                     "gid": "0B6D718668148697136C7738644CCBEF",
                     "size": "7F3944C4EAA4D9120B58F7224B71B0F4",
@@ -133,6 +128,11 @@
                     "gid": "1C8598DF86D968E1AEE2D83FE28C4200",
                     "size": "4A0D3D60EF980D537C4E388512AE61C7",
                     "download": "DB0D06EDF6E62BB85A9A34CDA0FD6DBF"
+                },
+                "qa-testing": {
+                    "gid": "9D628A296C70BABF8F988689005E6361",
+                    "size": "5616F89DDA7643FEA3E786B6BF909620",
+                    "download": "F045A59353BB35D7BF7C0B362DC13007"
                 },
                 "tech": {
                     "gid": "1135180F0B0F7D17BB6282ABEA8011EB",
@@ -169,11 +169,6 @@
                 }
             },
             "encryptedmanifests": {
-                "qa-testing": {
-                    "gid": "A50EE9C2923D5B1CA02AB77A6B931992",
-                    "size": "7297D8B3C7FDBFF9D8934FE93F43861F",
-                    "download": "C096C02678F09C65959D18F83EBBBAE8"
-                },
                 "mr-testing": {
                     "gid": "8868CC30D2B701CA5E4AD6606FD2579B",
                     "size": "40984CD4D22EC46B83B9AD98D3A3E462",
@@ -183,6 +178,11 @@
                     "gid": "1E4D9EDC1E72FE2419944EFFCC10F707",
                     "size": "BD8616C6F6EDE4AA0A4D64F36937CF81",
                     "download": "942600262008C1430BC3E13E48E274AA"
+                },
+                "qa-testing": {
+                    "gid": "BC08C096FA65E075C4A1ED7104D6896B",
+                    "size": "2286E7739A7C54628C13A78852E0A4DE",
+                    "download": "B75EFE65B62AF17903D7077945932832"
                 },
                 "tech": {
                     "gid": "332F678E581E2CA922DAA35A8F814FFD",
@@ -200,11 +200,6 @@
                 "buildid": "12081119",
                 "description": "Plugin API staging branch",
                 "timeupdated": "1693593482"
-            },
-            "qa-testing": {
-                "buildid": "13261969",
-                "pwdrequired": "1",
-                "timeupdated": "1706385997"
             },
             "early-server-build": {
                 "buildid": "15055729",
@@ -226,6 +221,11 @@
                 "pwdrequired": "1",
                 "timeupdated": "1721878451"
             },
+            "qa-testing": {
+                "buildid": "15126030",
+                "pwdrequired": "1",
+                "timeupdated": "1721937131"
+            },
             "tech": {
                 "buildid": "15138081",
                 "pwdrequired": "1",
@@ -234,7 +234,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24501686,
-    "_sha": "a3a45dc39ea086769607cac11b44985047528060",
+    "_change_number": 24513938,
+    "_sha": "48c2d93d033ac7bf7b7a4a2ba14ef02fb987a82b",
     "_size": 5469
 }

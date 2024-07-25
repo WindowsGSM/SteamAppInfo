@@ -822,17 +822,17 @@
     },
     "232250": {
         "public": {
-            "buildid": "15094524",
-            "timeupdated": "1721427584"
+            "buildid": "15154114",
+            "timeupdated": "1721937070"
         },
         "prerelease": {
-            "buildid": "15094524",
-            "timeupdated": "1721427562"
+            "buildid": "15154114",
+            "timeupdated": "1721937060"
         },
         "valve_ds": {
-            "buildid": "15094524",
+            "buildid": "15154114",
             "description": "The version Valve dedicated servers will sync to",
-            "timeupdated": "1721427497"
+            "timeupdated": "1721937015"
         }
     },
     "232290": {
@@ -5743,11 +5743,6 @@
             "description": "Plugin API staging branch",
             "timeupdated": "1693593482"
         },
-        "qa-testing": {
-            "buildid": "13261969",
-            "pwdrequired": "1",
-            "timeupdated": "1706385997"
-        },
         "early-server-build": {
             "buildid": "15055729",
             "description": "Access to server builds before clients release",
@@ -5767,6 +5762,11 @@
             "buildid": "15145371",
             "pwdrequired": "1",
             "timeupdated": "1721878451"
+        },
+        "qa-testing": {
+            "buildid": "15126030",
+            "pwdrequired": "1",
+            "timeupdated": "1721937131"
         },
         "tech": {
             "buildid": "15138081",
