@@ -4,9 +4,9 @@
         "name": "Rust Dedicated Server",
         "type": "Game",
         "releasestate": "released",
-        "oslist": "windows,macos,linux",
+        "oslist": "windows,linux",
         "osarch": "",
-        "osextended": "macos64",
+        "osextended": "",
         "associations": {},
         "gameid": "258550",
         "store_tags": {}
@@ -280,135 +280,6 @@
                 }
             }
         },
-        "258553": {
-            "config": {
-                "oslist": "macos"
-            },
-            "manifests": {
-                "public": {
-                    "gid": "899729973444320203",
-                    "size": "460179944",
-                    "download": "347067200"
-                },
-                "debug": {
-                    "gid": "8290633973068707550",
-                    "size": "85642631",
-                    "download": "24551200"
-                },
-                "aux01": {
-                    "gid": "3103918118633768973",
-                    "size": "460938568",
-                    "download": "347312592"
-                },
-                "aux02": {
-                    "gid": "28066240681238718",
-                    "size": "0",
-                    "download": "0"
-                },
-                "last-month": {
-                    "gid": "899729973444320203",
-                    "size": "460179944",
-                    "download": "347067200"
-                },
-                "release": {
-                    "gid": "899729973444320203",
-                    "size": "460179944",
-                    "download": "347067200"
-                },
-                "staging": {
-                    "gid": "7768866439900784033",
-                    "size": "555355176",
-                    "download": "228556448"
-                }
-            },
-            "encryptedmanifests": {
-                "aux03": {
-                    "gid": "1A09DA80F35627358DBEF938C728BDEC",
-                    "size": "B1CF1A448A16D02975CE9E194FD3DB15",
-                    "download": "3DB6D65659C3C2DB28CFD9C24E6A783E"
-                },
-                "aux03-debug": {
-                    "gid": "A89D4B0E7DCFD79E05B0AB09F3AB32AE",
-                    "size": "0BFBB5976926573984436199D209858B",
-                    "download": "5B7D522D599754EAB44164819114A6EC"
-                },
-                "backport-update": {
-                    "gid": "251C1F4EB097C0F1F580AE1713392477",
-                    "size": "6B23B44E6B69A525BDEEAE084937B109",
-                    "download": "E6405F6D1F9675DC0B4837BE4ABEFB19"
-                },
-                "contacts-update": {
-                    "gid": "9992FF0911F2A5C8AD5FFACAFEF5BA91",
-                    "size": "AB8BE1E440B99E4E602F429982C12F2C",
-                    "download": "2779F53BC23537EAE6CCBB39B39CA266"
-                },
-                "experimental": {
-                    "gid": "F265FF8CA430C77F7FF8A0C7B3B6F3FF",
-                    "size": "688A57CE04CBF89E7BD685B009E2129C",
-                    "download": "846211684350CC2708EE008487968544"
-                },
-                "experimental-debug": {
-                    "gid": "939A41CDA66CBCE6537F506ADF370B60",
-                    "size": "F990CD2793F00897EA44291F129888D6",
-                    "download": "23BF36D71035C49B6A6172B0CA59674C"
-                },
-                "hdrp": {
-                    "gid": "184748BA435830F6B7E220F2C47723AE",
-                    "size": "8ECD3C01DDC555CADFBEA4C26EFB31FE",
-                    "download": "A5C6D5AFA085B377C79708737E4920B3"
-                },
-                "hdrp-debug": {
-                    "gid": "6E80FD91BAB9AAD17B079FCC672106D3",
-                    "size": "2594CD39DD2251FBA8C6F4D35D0D8571",
-                    "download": "43695C2A3156E160C565B50EB8A50570"
-                },
-                "trailer": {
-                    "gid": "FC2FCB9ABA4B302D6CDD748E2CE762A8",
-                    "size": "D980E10E8B9FA23212ACF53D11CBAA8D",
-                    "download": "D980E10E8B9FA23212ACF53D11CBAA8D"
-                },
-                "aux01-debug": {
-                    "gid": "FC70A39CB38E5ED5C30863745976858D",
-                    "size": "6A27F3D36B0CFD3A9EC08EE128E27334",
-                    "download": "926F457EE69E5C94AE2E1D7351AB2554"
-                },
-                "aux02-debug": {
-                    "gid": "E0E897919DE9B18F3FA96E4C054B09BA",
-                    "size": "387453ABEE13288F168DBA6512294939",
-                    "download": "EDF9B6E5239751ADF4168A920C8C71F2"
-                },
-                "media": {
-                    "gid": "5D5106726F496BED35479322A47BA881",
-                    "size": "E85BA4208C822B1A57047B8FBB83D214",
-                    "download": "EF919D77B15A47006DF281307F1B91BC"
-                },
-                "media-debug": {
-                    "gid": "5CDC0E37420A6B4EA6DB1234FE75855D",
-                    "size": "B9C2D119D91E3AD82525EA5373325059",
-                    "download": "AC833D145F687F7562955D8486FAD0C6"
-                },
-                "release-debug": {
-                    "gid": "A33EDA3AF81E53988FB14B6CD1118A88",
-                    "size": "99F602CB53ACA8D695199480D0CCA3B9",
-                    "download": "402630AE1C80D46F807C636AB8661E72"
-                },
-                "staging-debug": {
-                    "gid": "9D02BDA073791CCA01ACDDE604D518C2",
-                    "size": "1FF766F1B47ED8B24E9808044A330CF6",
-                    "download": "7CC7DE46B09F276BD644A8F7AC441DC1"
-                },
-                "test": {
-                    "gid": "E1B0B648C0320E591B1C570FF97EFD9A",
-                    "size": "4F2BECA73229B88CC64B532B2AAF0452",
-                    "download": "FE81F510D40CB7BEB808EFB2F6D5F082"
-                },
-                "test-debug": {
-                    "gid": "8FB2DE0AB6165FDCB249CA48D093A19A",
-                    "size": "B94019AC9D02BF525E7F96E0E6E205E2",
-                    "download": "144ADE0A1CDB9830781B6E5A5C1D3D61"
-                }
-            }
-        },
         "258554": {
             "manifests": {
                 "public": {
@@ -656,7 +527,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24529252,
-    "_sha": "8c5a22eba194e97490ced5748ce5c12f9f61916b",
-    "_size": 18597
+    "_change_number": 24530293,
+    "_sha": "512f67e1433ec71ada609f351ac25ea239bee94e",
+    "_size": 14694
 }
