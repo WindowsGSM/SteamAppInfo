@@ -418,7 +418,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "main_test current"
+                    "betakey": "main_test current m1_test"
                 },
                 "description_loc": {
                     "english": "main_test"
@@ -561,14 +561,19 @@
                     "download": "567DA9487AB7E5C23A675E0600D746C6"
                 },
                 "latest": {
-                    "gid": "FFE8C571108DBDCC0EF862B95CED467E",
-                    "size": "948EB350CE9EEF5A5539A45F91FAA0A0",
-                    "download": "E8306300DAA1362F77219A2CE89A1295"
+                    "gid": "7856283EFA612EF059B461A4B65BA598",
+                    "size": "BCFCF28D887928CF210AAFBBBA14F41E",
+                    "download": "A3B468A8A7329616616EE92ABB638F91"
                 },
                 "lionbridge_qa": {
                     "gid": "36468C24F65F18207989EB4C18726730",
                     "size": "FE8E7F3EA19BACAF1CA6A6247EAAE03E",
                     "download": "AAA24868C692A51A48AD37DF916FF464"
+                },
+                "m1_test": {
+                    "gid": "253651B1BA095A566D2A6B8A244E666C",
+                    "size": "FC479F7F7A44CECDADCBF9398695BC18",
+                    "download": "3AC70312910902E8BEA3820F9B65389B"
                 },
                 "main_test": {
                     "gid": "9275BB4EB2A8FD346EB9A73BC3D2059D",
@@ -695,6 +700,11 @@
                     "size": "07B0B9B77ED71D7ECECC9EC63A67421D",
                     "download": "9493B45FA846BCC268AC7C2ABF2F12C0"
                 },
+                "m1_test": {
+                    "gid": "C616DC21A0E4CA5CFA83CE1CED2D0E83",
+                    "size": "EADDBA52766B1D5D8BC79F3541DD8F72",
+                    "download": "DBE511D99C11A8199140FDD5C40757B7"
+                },
                 "main_test": {
                     "gid": "5E093E93C2BE475085B9D2E65153F040",
                     "size": "B7BD5C12253A8FD3CE1AEFA0BC36F45E",
@@ -819,6 +829,11 @@
                     "gid": "371A06709F9094E66E54A7C5E1AA1DDF",
                     "size": "759624D42FF9F240C705A6EAA76EAA05",
                     "download": "F35C0B87741F720A13487664AF6B0011"
+                },
+                "m1_test": {
+                    "gid": "A290EDE11DC61D1F1C0231112B67AC43",
+                    "size": "976E259212C3D09EFDBDE2635A68142B",
+                    "download": "5E3BDEAB83BFE881CE080FDDF4D3EC49"
                 },
                 "main_test": {
                     "gid": "D625C4242216798167D54520DD024154",
@@ -945,6 +960,11 @@
                     "size": "346B24432265748235BC9EF840B40699",
                     "download": "346B24432265748235BC9EF840B40699"
                 },
+                "m1_test": {
+                    "gid": "A68E569AB8CC8384075DBE47D3D75948",
+                    "size": "5B17B8561C7CA88CA09CA685764C1DEF",
+                    "download": "5B17B8561C7CA88CA09CA685764C1DEF"
+                },
                 "main_test": {
                     "gid": "4B6D6F7CE6D0F293D73B34C418714FDF",
                     "size": "30898543090BF0C4AED5F8EB2E1AEC2E",
@@ -1053,14 +1073,19 @@
                 "timeupdated": "1720869669"
             },
             "latest": {
-                "buildid": "15213811",
+                "buildid": "15214228",
                 "pwdrequired": "1",
-                "timeupdated": "1722435196"
+                "timeupdated": "1722437517"
             },
             "lionbridge_qa": {
                 "buildid": "15194453",
                 "pwdrequired": "1",
                 "timeupdated": "1722323462"
+            },
+            "m1_test": {
+                "buildid": "15194453",
+                "pwdrequired": "1",
+                "timeupdated": "1722437410"
             },
             "main_test": {
                 "buildid": "15127624",
@@ -1090,7 +1115,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24589962,
-    "_sha": "c75bacb1e5846d194287167a184a62fd787ae280",
-    "_size": 31727
+    "_change_number": 24590529,
+    "_sha": "18d42fabad5e5a3c2fac0a42171604ff05016c0d",
+    "_size": 32531
 }
