@@ -385,7 +385,7 @@
                 "description": "adhoctest"
             },
             "52": {
-                "executable": "hunt.exe",
+                "executable": "bin\\win_x64\\HuntGame.exe",
                 "arguments": "+online_account_client_settings stage2 +sys_dump_type 3 +online_news_server_port 5011",
                 "type": "default",
                 "config": {
@@ -1115,7 +1115,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24618530,
-    "_sha": "03c1a5d55cb4143aaed50ac2daf0d0bc45b8e57e",
-    "_size": 32513
+    "_change_number": 24618612,
+    "_sha": "6a15e271184ee22162bbe017a3c2d07fed8df3cb",
+    "_size": 32531
 }
