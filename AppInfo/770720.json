@@ -109,7 +109,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 latest teamtest latest_lwp"
+                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 latest teamtest latest_lwp adhoctest"
                 },
                 "description_loc": {
                     "english": "STGDSN"
@@ -370,20 +370,6 @@
                     "betakey": "backend_2.0"
                 }
             },
-            "51": {
-                "executable": "bin\\win_x64_performance\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stagealpha",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "adhoctest"
-                },
-                "description_loc": {
-                    "english": "adhoctest"
-                },
-                "description": "adhoctest"
-            },
             "52": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
                 "arguments": "+online_account_client_settings stage2 +sys_dump_type 3 +online_news_server_port 5011",
@@ -516,9 +502,9 @@
                     "download": "532C2B758D5BC96C5F724AEBB3CA2CD7"
                 },
                 "adhoctest": {
-                    "gid": "F137B7C29EF16C3032E61F9E7F620466",
-                    "size": "DED139612E7ADDA5D508C800ED3FBA0F",
-                    "download": "3BF2DC417F89F917750582D831C3F1AF"
+                    "gid": "A416C1ACB3C29733DF781FECD7AF38D2",
+                    "size": "9F11D7B98D578B9D53DDD4F8C92EF108",
+                    "download": "486B59E0D4DA28501D524872B6C747E1"
                 },
                 "backend_2.0": {
                     "gid": "9F41073E38CD35935D58A062F04F7714",
@@ -561,9 +547,9 @@
                     "download": "567DA9487AB7E5C23A675E0600D746C6"
                 },
                 "latest": {
-                    "gid": "6F9BB0DA4B68FFE1B0C35BCC33E345C5",
-                    "size": "068BD09F68C22E9D2717704F0F004592",
-                    "download": "5113137402050CBC3EA92B8266591DAF"
+                    "gid": "BE59BF3CBCDA3CC9D13FE3A521D2CB62",
+                    "size": "262BECD3004BAE437058BD34F8BE39B3",
+                    "download": "309DA73DED93FFDA2BCB4267DAEB2C1B"
                 },
                 "lionbridge_qa": {
                     "gid": "4547025D8CCC46DC2D8609CD2E5BDC64",
@@ -646,9 +632,9 @@
                     "download": "32C8595C684EFD30C57AD90F19EC251C"
                 },
                 "adhoctest": {
-                    "gid": "5C57D9D8A5588A142D28955CB800CF7F",
-                    "size": "CFBF70E6E970BB1F04E6A8B5F6B70D10",
-                    "download": "979234A870E3186FCB473B2F696F14A1"
+                    "gid": "129297CAE085B2594AAE4F88472AC8F4",
+                    "size": "B36D360E989AEE99D19E9282451E990E",
+                    "download": "C82CBE4E9EF9C710F0C4DB79FCE257F5"
                 },
                 "backend_2.0": {
                     "gid": "22D8FFD46E0784A1C59110FDFC4ABF20",
@@ -691,9 +677,9 @@
                     "download": "69420040302A60AAA6E82E9DBA645001"
                 },
                 "latest": {
-                    "gid": "3386FF55A3EBBE2D4A9154C71717E4AB",
-                    "size": "6E29E5484A908B215548C625E2FAD656",
-                    "download": "683CB744E7D5CD49CF54069359CE01A4"
+                    "gid": "833DDB7E424B66788E967138ADDC2CFA",
+                    "size": "9CF8E7F07ED81C4DD93D5249343424BA",
+                    "download": "585DC06EED8169B2E8815A566CF43AA4"
                 },
                 "lionbridge_qa": {
                     "gid": "5E2BB79C2545DE29013B6E28EA1FA559",
@@ -776,9 +762,9 @@
                     "download": "44778C0DDB60C88D958674421619E044"
                 },
                 "adhoctest": {
-                    "gid": "E3C365B55F9F0A7BE36D69B1C59231DE",
-                    "size": "5F510604E3C5C3EC8243E31483897BBB",
-                    "download": "6FD174D9DD8C91FC145A5C03B1DB6DFA"
+                    "gid": "7954CF2CD8AD89BD4076D32EBA07D6AC",
+                    "size": "E8798415E1A4AA1E0C5519A3DF06F477",
+                    "download": "DA2F7196BD346B96B7342E9845E2FA37"
                 },
                 "backend_2.0": {
                     "gid": "B1CD7FF68072A5971AC1ADF1A3BB9719",
@@ -821,9 +807,9 @@
                     "download": "85F32091F9F7A984F10E4BF55961F38C"
                 },
                 "latest": {
-                    "gid": "328D8E319A2CFDE519335A5B53090D4B",
-                    "size": "46F28A5B3CC2C2034E62AE48A3495B24",
-                    "download": "7EE71C6B83FFB25E91032A664CDC7FA2"
+                    "gid": "C7C270DA1EAB934C0AAAB10AB5D33C11",
+                    "size": "0879E9EB292BC5741CC6DF5C58983CB7",
+                    "download": "035DDA56355D03BC048EE77CA4957298"
                 },
                 "lionbridge_qa": {
                     "gid": "756295517BC09E2AE5115474335357E8",
@@ -1028,9 +1014,9 @@
                 "timeupdated": "1719817769"
             },
             "adhoctest": {
-                "buildid": "14461549",
+                "buildid": "15144736",
                 "pwdrequired": "1",
-                "timeupdated": "1716974628"
+                "timeupdated": "1722616312"
             },
             "backend_2.0": {
                 "buildid": "14845720",
@@ -1073,9 +1059,9 @@
                 "timeupdated": "1720869669"
             },
             "latest": {
-                "buildid": "15242215",
+                "buildid": "15242478",
                 "pwdrequired": "1",
-                "timeupdated": "1722614368"
+                "timeupdated": "1722615672"
             },
             "lionbridge_qa": {
                 "buildid": "15222967",
@@ -1115,7 +1101,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24625444,
-    "_sha": "83095dbceec7bd92b3b51dd5c57d59d948aefca6",
-    "_size": 32522
+    "_change_number": 24625960,
+    "_sha": "2fde668244cb1f4688e53ca18c1b2c9d8da71ebf",
+    "_size": 32180
 }
