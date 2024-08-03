@@ -131,14 +131,14 @@
             },
             "encryptedmanifests": {
                 "release_candidate": {
-                    "gid": "C8A110BB58FB281E1B3D2E7A3EAF8F66",
-                    "size": "A001C0F38A8BE5A6FD51E06D55FCAB4A",
-                    "download": "5C645495E23272EB0C3D1D7B30DFF517"
+                    "gid": "9FD7472AACB51DD4109078B4EC021089",
+                    "size": "8BFEF53083A348FD7F09CBD4F330799C",
+                    "download": "24ADB04AEF561327BF31564C27DC5905"
                 },
                 "release_candidate_community": {
-                    "gid": "2F88BCFAFB057DFF7917B87156C33C5C",
-                    "size": "127DA95564284273D4DF0F757BCF647F",
-                    "download": "0BBF8264BF166258CE4212F981A8356B"
+                    "gid": "069E644B38ADDC76CEAD886EDC48A4BB",
+                    "size": "41F22FD235320EADF078E4EB6B1038A9",
+                    "download": "16A788A311D55717BB5FC37939F9F32B"
                 }
             },
             "depotfromapp": "225840"
@@ -161,14 +161,14 @@
             },
             "encryptedmanifests": {
                 "release_candidate": {
-                    "gid": "96CAEE715BC538D294835ACACF437A4B",
-                    "size": "DD00157B4337BA77FC808625AA48B711",
-                    "download": "C2B4A629A3A7069DF1FBD29422939982"
+                    "gid": "B950B0A3DAE4BD7CE3011324276FFB9A",
+                    "size": "E179E572460B89C0C2B7E4FADE44B1B2",
+                    "download": "48C2B09D8D321DE93828B310D5DABBDD"
                 },
                 "release_candidate_community": {
-                    "gid": "B4135004F5B28D4F607FD65ACC7807C0",
-                    "size": "AF1E5F0250DA1D2669F877AF3B61CC8F",
-                    "download": "8E96D0BD871DE3E8F66803D5717ECBB9"
+                    "gid": "885545BA5AB7227A5598FDB7A5B5DED5",
+                    "size": "9E52D70BD1E65D287D7D8918777291EA",
+                    "download": "6631D379B23CA95A6807D8FA1E0E01CD"
                 }
             }
         },
@@ -190,14 +190,14 @@
             },
             "encryptedmanifests": {
                 "release_candidate": {
-                    "gid": "D5B95A2E1FAC2488D42EB965227D479D",
-                    "size": "B0EFBB364482EDFCDF490E1EBDB9EBCA",
-                    "download": "237863BBA768B640220341EDC254DFB1"
+                    "gid": "EA6278A6D2E56798D419C090BC53CBB6",
+                    "size": "22B2476BCECDEA44A1B309C86C92DCA9",
+                    "download": "BB75A6E5430C4613904B9B7650E62A3D"
                 },
                 "release_candidate_community": {
-                    "gid": "70A5B0117C2235649E11A544654377C3",
-                    "size": "4E085BC5F5849B2EBEF712D85346317A",
-                    "download": "4A8A12F1CACB7B4EC943ED3F8BB5CCA1"
+                    "gid": "1EBABF2E31C8747E48919C7B1AB43715",
+                    "size": "B96BA0B80A93E81EB21C0D7A97DAFBE5",
+                    "download": "7CED70C18573ED2B9481DCF0E4A20111"
                 }
             }
         },
@@ -219,14 +219,14 @@
             },
             "encryptedmanifests": {
                 "release_candidate": {
-                    "gid": "790EDFA04DA1FB634E33422A386BE10C",
-                    "size": "0B0C07F7921CA7B7175E384E8ACAC56C",
-                    "download": "491B3AB17AF55FB970E84242E54BF53D"
+                    "gid": "E198BD354F4362B162AADFE4048BE8DF",
+                    "size": "757B6F9F96283898892D2DB6763827EE",
+                    "download": "6E59C30ED51A0FAC2750D3FD5F7BC560"
                 },
                 "release_candidate_community": {
-                    "gid": "5F5BA63FB9ADF47E571C1844430F7621",
-                    "size": "4664029127BD1ECDCAF726946F32E5CE",
-                    "download": "742283D730CC458B625EB7FB3A1B15CA"
+                    "gid": "28A5E32731C6FA28CDB5FB9B86878A9D",
+                    "size": "0603D69A0BA6B15B9047BF1CF8F1F49B",
+                    "download": "5446F43150FCA49E4609118B128FAA5C"
                 }
             }
         },
@@ -235,25 +235,25 @@
                 "buildid": "7342110",
                 "timeupdated": "1631361424"
             },
-            "release_candidate": {
-                "buildid": "13908503",
-                "pwdrequired": "1",
-                "timeupdated": "1711919317"
-            },
-            "release_candidate_community": {
-                "buildid": "13908503",
-                "pwdrequired": "1",
-                "timeupdated": "1711919326"
-            },
             "release_candidate_public": {
                 "buildid": "7342110",
                 "description": "Release candidate (public)",
                 "timeupdated": "1631344254"
+            },
+            "release_candidate": {
+                "buildid": "15248986",
+                "pwdrequired": "1",
+                "timeupdated": "1722673846"
+            },
+            "release_candidate_community": {
+                "buildid": "15248986",
+                "pwdrequired": "1",
+                "timeupdated": "1722673857"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 24483107,
-    "_sha": "a64e6d7ef7fa9962811e52749c0da3c2a37bd9ca",
+    "_change_number": 24633442,
+    "_sha": "c0899d2824ad3c18fb4f3534611ff8c34e7165a4",
     "_size": 5873
 }
