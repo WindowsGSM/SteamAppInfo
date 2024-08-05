@@ -42,6 +42,18 @@
                     "oslist": "windows",
                     "osarch": "64"
                 }
+            },
+            "2": {
+                "executable": "LinuxServer/BeastsOfBermudaServer.sh",
+                "arguments": "-log -NoVerifyGC",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                },
+                "description_loc": {
+                    "english": "Dedicated Server for Beasts of Bermuda"
+                },
+                "description": "Dedicated Server for Beasts of Bermuda"
             }
         }
     },
@@ -187,7 +199,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24648020,
-    "_sha": "d55c9b992011f9a743ffd4a492bac08872ab8189",
-    "_size": 4294
+    "_change_number": 24648196,
+    "_sha": "c342740ee1d65040372d2b46b59e7533ba3e3ba7",
+    "_size": 4623
 }
