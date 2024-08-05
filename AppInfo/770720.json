@@ -215,7 +215,7 @@
                 "description": "dev_engine"
             },
             "34": {
-                "executable": "hunt.exe",
+                "executable": "bin\\win_x64_steam_release\\HuntGame.exe",
                 "arguments": "+online_account_client_settings stagealpha",
                 "type": "option1",
                 "config": {
@@ -531,9 +531,9 @@
                     "download": "8EFEB777881C6EF550845A1A9BEA4133"
                 },
                 "closed_beta_test": {
-                    "gid": "A1D0D31953CAD69EEF16EC16AC76E1AA",
-                    "size": "63948C986FC57606FF479A0B1458C214",
-                    "download": "5B92C213076AD2E7EC4269830E41B41F"
+                    "gid": "84F9475FC7C8A21C7ADE604CA5130307",
+                    "size": "26ABC0CB933A1AD2E5B0D476A18752E5",
+                    "download": "A4F408D621B3573F72A383C0FDACE157"
                 },
                 "current": {
                     "gid": "C670DF84F8A84CB7244373DDF37F736E",
@@ -581,9 +581,9 @@
                     "download": "77BE4E27B0610B3616BA2D1A1DED6F72"
                 },
                 "mkt_recording": {
-                    "gid": "AF6E17A03F4DDB33F95C3D6FA2B9A65B",
-                    "size": "1EC018783CDC2CFEE4B86C3AF5EE926D",
-                    "download": "23645F991A267C693BB3BEF3D4D9A943"
+                    "gid": "3779D8B3EBD3246AA9DC8BC1F9A7AA70",
+                    "size": "7141E0803F11FE28130DBE77061F56AA",
+                    "download": "9D9EB280F3DF737265871B301C21980D"
                 },
                 "qa_testroom": {
                     "gid": "1DB1E971FD00E8ED972EEA0BCAC5D8BE",
@@ -1043,9 +1043,9 @@
                 "timeupdated": "1718713932"
             },
             "closed_beta_test": {
-                "buildid": "15209569",
+                "buildid": "15193036",
                 "pwdrequired": "1",
-                "timeupdated": "1722413185"
+                "timeupdated": "1722859430"
             },
             "current": {
                 "buildid": "15127624",
@@ -1093,9 +1093,9 @@
                 "timeupdated": "1721811194"
             },
             "mkt_recording": {
-                "buildid": "15209569",
+                "buildid": "15193036",
                 "pwdrequired": "1",
-                "timeupdated": "1722585674"
+                "timeupdated": "1722859414"
             },
             "qa_testroom": {
                 "buildid": "14866186",
@@ -1115,7 +1115,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24650872,
-    "_sha": "5cfc20efda1d4a269c5c36065284624a814b716d",
-    "_size": 32523
+    "_change_number": 24651863,
+    "_sha": "1ed4ea8f88e9f99d45a35f34370f6948ec2ac07f",
+    "_size": 32555
 }
