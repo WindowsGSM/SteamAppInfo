@@ -325,7 +325,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "117_main 117_shadtest closed_beta_test lqa_test 117_precheck eac_pgo_use"
+                    "betakey": "117_main 117_shadtest closed_beta_test lqa_test 117_precheck"
                 },
                 "description_loc": {
                     "english": "alpha_pt"
@@ -452,6 +452,20 @@
                     "english": "current"
                 },
                 "description": "current"
+            },
+            "59": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings stagealpha",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "eac_pgo_use"
+                },
+                "description_loc": {
+                    "english": "eac_pgo_use"
+                },
+                "description": "eac_pgo_use"
             }
         },
         "uselaunchcommandline": "1"
@@ -565,9 +579,9 @@
                     "download": "95F4AA86938E3F2B9E624BDC930701DD"
                 },
                 "eac_pgo_use": {
-                    "gid": "AE2D17BFB92BE416B8E9DD0764F16782",
-                    "size": "2FE7B3DC9E017151A6F8B01AB91FCC06",
-                    "download": "A592DED02D25F0EF3EED3144E0325B3B"
+                    "gid": "285AD226B10FF5DDAAFF45E810637D6F",
+                    "size": "B24ABFE2A9D4B151E289C6CF3DA5DECF",
+                    "download": "00E505E3072E46FF3F6F627A37B79ADD"
                 },
                 "external_tech_test": {
                     "gid": "8F418F7928582C8F26A360272F9AEC3A",
@@ -575,9 +589,9 @@
                     "download": "567DA9487AB7E5C23A675E0600D746C6"
                 },
                 "latest": {
-                    "gid": "82BF4095B1FE7155B1D854D2F369D8DA",
-                    "size": "8234DA5CA24F57EF1ABFA945663D1E8B",
-                    "download": "4713F79A80C005DC41E948E12539ED65"
+                    "gid": "5CB4D524744C8F8C6E962269DB763288",
+                    "size": "9FEFDFA4869C21ADACFE5CD5C71BCA60",
+                    "download": "056556346DCFFFD5D4BDBEEDEB71E28C"
                 },
                 "lionbridge_qa": {
                     "gid": "4547025D8CCC46DC2D8609CD2E5BDC64",
@@ -695,9 +709,9 @@
                     "download": "2A4A868D19C7F2E8950041C959731FB3"
                 },
                 "eac_pgo_use": {
-                    "gid": "15E56698090D864DB446D207D3E136E1",
-                    "size": "3DE34345ADBB5075BD01F328E466B4E3",
-                    "download": "C1656393866A220C4F6118BB13164A25"
+                    "gid": "845D8A07316EB5998D4B4F2B362CDB4D",
+                    "size": "0937495A61B49A0069B54D971005F532",
+                    "download": "8F599D101552E62CBCCA90D1004B0124"
                 },
                 "external_tech_test": {
                     "gid": "BF181609681192B3342D98AD89A69FF3",
@@ -705,9 +719,9 @@
                     "download": "69420040302A60AAA6E82E9DBA645001"
                 },
                 "latest": {
-                    "gid": "E92F2BDF52D0EC9C744C2A343D4B2D51",
-                    "size": "A400666677B92F0EA0CC6344CEC11C51",
-                    "download": "04511D33C4DEDED400193FEC19337683"
+                    "gid": "84A7467790743B806AF255AABEB31802",
+                    "size": "D72AAA939881FCCDAA29CC1FD18E9340",
+                    "download": "A3814640EDEBDC891963109944F774F6"
                 },
                 "lionbridge_qa": {
                     "gid": "5E2BB79C2545DE29013B6E28EA1FA559",
@@ -825,9 +839,9 @@
                     "download": "B073E1601B5058222FE80072ECD17EEB"
                 },
                 "eac_pgo_use": {
-                    "gid": "A2C0E9A5FC5A391F3110276EA1C343F5",
-                    "size": "90DC53DE847964559AA0D32DFC022467",
-                    "download": "8F08D20F93D2736B92DD03F92B2A253F"
+                    "gid": "8DC17C1774E47FB1819BAB0A41D22AB8",
+                    "size": "CEBD6E11A57FF43AB24D369B0CA2B836",
+                    "download": "9C9B93A91AA2171EF0ACAEE8C72186DF"
                 },
                 "external_tech_test": {
                     "gid": "156C39C407F56898260F64344CC6080E",
@@ -835,9 +849,9 @@
                     "download": "85F32091F9F7A984F10E4BF55961F38C"
                 },
                 "latest": {
-                    "gid": "D7B7D1CF1022D3707721D21D02EDE1A6",
-                    "size": "1E281C3901AC8F487B4029DC17169FAC",
-                    "download": "AEB0EA1BADC17217DF57F9C0C717E539"
+                    "gid": "5E2B645D3293354882A1419A634C81AE",
+                    "size": "46F28A5B3CC2C2034E62AE48A3495B24",
+                    "download": "6A349FF2833F7CD3E9E6B32E190874D4"
                 },
                 "lionbridge_qa": {
                     "gid": "756295517BC09E2AE5115474335357E8",
@@ -1077,9 +1091,9 @@
                 "timeupdated": "1722583088"
             },
             "eac_pgo_use": {
-                "buildid": "14952617",
+                "buildid": "15274558",
                 "pwdrequired": "1",
-                "timeupdated": "1720427008"
+                "timeupdated": "1722936129"
             },
             "external_tech_test": {
                 "buildid": "15008972",
@@ -1087,9 +1101,9 @@
                 "timeupdated": "1720869669"
             },
             "latest": {
-                "buildid": "15274501",
+                "buildid": "15274558",
                 "pwdrequired": "1",
-                "timeupdated": "1722935056"
+                "timeupdated": "1722935399"
             },
             "lionbridge_qa": {
                 "buildid": "15222967",
@@ -1129,7 +1143,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24665189,
-    "_sha": "8b4f31ad0cf51d6e390611594f5d77cd7cf63ed9",
-    "_size": 32870
+    "_change_number": 24665459,
+    "_sha": "0cdbf616bbf4bba4c7c07135921cfaf6ed67d1df",
+    "_size": 33186
 }
