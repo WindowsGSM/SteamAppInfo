@@ -6,7 +6,8 @@
         "parent": "418480",
         "releasestate": "released",
         "associations": {},
-        "gameid": "1075820"
+        "gameid": "1075820",
+        "store_tags": {}
     },
     "extended": {
         "dlcforappid": "418480",
@@ -22,11 +23,6 @@
                 }
             },
             "encryptedmanifests": {
-                "beta": {
-                    "gid": "5013E9C8A813001179A6CEE2CA7E8FCF",
-                    "size": "D4907A0957C71AC4CFE649AD6C6302EC",
-                    "download": "72614574469071CCD5CBC5044646CBEB"
-                },
                 "gamm": {
                     "gid": "1A6CE6DC7E700A4ADD5734C0447D1AAF",
                     "size": "3B9E3FF1B94CB21BA9C31D2D182D4158",
@@ -36,6 +32,11 @@
                     "gid": "0430F3697C016198D03CF9083D4F882F",
                     "size": "C0D3CEAD130D29124F2E5F5A321CA1AE",
                     "download": "4CEF6E4EC447C2C60E4B0EB74469CFF0"
+                },
+                "beta": {
+                    "gid": "5013E9C8A813001179A6CEE2CA7E8FCF",
+                    "size": "D4907A0957C71AC4CFE649AD6C6302EC",
+                    "download": "72614574469071CCD5CBC5044646CBEB"
                 }
             },
             "dlcappid": "1075820"
@@ -44,11 +45,6 @@
             "public": {
                 "buildid": "6699778",
                 "timeupdated": "1622556045"
-            },
-            "beta": {
-                "buildid": "6699778",
-                "pwdrequired": "1",
-                "timeupdated": "1620990575"
             },
             "gamm": {
                 "buildid": "4439286",
@@ -59,11 +55,16 @@
                 "buildid": "5707993",
                 "pwdrequired": "1",
                 "timeupdated": "1603480927"
+            },
+            "beta": {
+                "buildid": "15320258",
+                "pwdrequired": "1",
+                "timeupdated": "1723216649"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 24483107,
-    "_sha": "ef6370ffb2537fa52e94960fd8625a195a58b70a",
-    "_size": 1438
+    "_change_number": 24722045,
+    "_sha": "db1e365f79c63430f2f314fb39d6f961eb44fde0",
+    "_size": 1462
 }
