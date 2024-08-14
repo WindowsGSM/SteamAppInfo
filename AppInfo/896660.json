@@ -4,7 +4,7 @@
         "name": "Valheim Dedicated Server",
         "type": "Tool",
         "parent": "892970",
-        "oslist": "windows,linux",
+        "oslist": "windows,macos,linux",
         "osarch": "",
         "icon": "1aab0586723c8578c7990ced7d443568649d0df2",
         "logo": "233d73a1c963515ee4a9b59507bc093d85a4e2dc",
@@ -12,6 +12,7 @@
         "clienticon": "c55a6b50b170ac6ed56cf90521273c30dccb5f12",
         "clienttga": "35e067b9efc8d03a9f1cdfb087fac4b970a48daf",
         "releasestate": "released",
+        "osextended": "macos64,macosapplesilicon,macosnotarized",
         "associations": {},
         "gameid": "896660"
     },
@@ -30,6 +31,13 @@
                 "type": "server",
                 "config": {
                     "oslist": "windows"
+                }
+            },
+            "2": {
+                "executable": "start_server.command",
+                "type": "server",
+                "config": {
+                    "oslist": "macos"
                 }
             }
         }
@@ -269,7 +277,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24778739,
-    "_sha": "96353c8a373f1f1946cdaa78a25dbce0b6705603",
-    "_size": 6607
+    "_change_number": 24782258,
+    "_sha": "534fe388c556040a6e384d5339a89e219c4a1a34",
+    "_size": 6799
 }
