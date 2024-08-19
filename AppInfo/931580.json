@@ -76,11 +76,6 @@
                     "size": "1726844A1F1CF586CB9C28F87EF09FC3",
                     "download": "4DF83311D1B8F9512C00C50E81E1DC93"
                 },
-                "rc-beta": {
-                    "gid": "1372ADD8070BE67584EA446EB80A8458",
-                    "size": "7F439B55B4D9D4949DC4C74026C2E3E6",
-                    "download": "1B4CFE84BE1C95210F6891E25FFA025D"
-                },
                 "coc_staging": {
                     "gid": "018F12D5B3AEF01944B34BA7305CADC7",
                     "size": "D444E479519495B70EE1754C421F9075",
@@ -90,6 +85,11 @@
                     "gid": "B6A9070C77C6E086FCE7D964A2B6E369",
                     "size": "D078D1183AE2D890D027E0B7D6667299",
                     "download": "CAF9B662D29C311D2408978D11264F3F"
+                },
+                "rc-beta": {
+                    "gid": "D863641FE9C56654CECEBB4D54F49DB2",
+                    "size": "955E1EB3E840B7EDDE06E80DBC69A2C5",
+                    "download": "EBB1F1B8410CCD89BD80EC3D0B210714"
                 }
             }
         },
@@ -121,11 +121,6 @@
                     "size": "04524542102F3C358FF3FD9B8B29E93E",
                     "download": "04524542102F3C358FF3FD9B8B29E93E"
                 },
-                "rc-beta": {
-                    "gid": "DB1CB7D50EE8C9B160B9F910A6EDE76D",
-                    "size": "EEF6B68AB614BE00CE98595C732F21D3",
-                    "download": "EEF6B68AB614BE00CE98595C732F21D3"
-                },
                 "coc_staging": {
                     "gid": "D901D028F7D80FD95179F373F63142F5",
                     "size": "962661E9EA62DE67F7889726682D148C",
@@ -135,6 +130,11 @@
                     "gid": "0C6B717AAE99279FEF0CEB564B49B3CD",
                     "size": "958C822E8303ABB29C566F62CA1516F1",
                     "download": "958C822E8303ABB29C566F62CA1516F1"
+                },
+                "rc-beta": {
+                    "gid": "DB1CB7D50EE8C9B160B9F910A6EDE76D",
+                    "size": "EEF6B68AB614BE00CE98595C732F21D3",
+                    "download": "EEF6B68AB614BE00CE98595C732F21D3"
                 }
             }
         },
@@ -158,11 +158,6 @@
                 "pwdrequired": "1",
                 "timeupdated": "1676281847"
             },
-            "rc-beta": {
-                "buildid": "13964155",
-                "pwdrequired": "1",
-                "timeupdated": "1712328321"
-            },
             "coc_staging": {
                 "buildid": "14432023",
                 "pwdrequired": "1",
@@ -172,11 +167,16 @@
                 "buildid": "14432023",
                 "pwdrequired": "1",
                 "timeupdated": "1716464296"
+            },
+            "rc-beta": {
+                "buildid": "15418636",
+                "pwdrequired": "1",
+                "timeupdated": "1724064870"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 24483107,
-    "_sha": "8697b835235d3fdcef5221b51326fb5929f57e8d",
+    "_change_number": 24845891,
+    "_sha": "30b8276e331aef06ffd80d3a474a2aa12a1e6559",
     "_size": 4597
 }
