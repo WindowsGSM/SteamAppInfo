@@ -73,20 +73,24 @@
             "0": {
                 "executable": "RainbowSix.exe",
                 "arguments": "-upc_steam_required_product_id 10424 -uplay_steam_mode -orbit_uat",
-                "description": "Test Server",
-                "type": "none",
                 "config": {
                     "oslist": "windows"
-                }
+                },
+                "description_loc": {
+                    "english": "Tom Clancy's Rainbow Six Siege DX12 - Test Server"
+                },
+                "description": "Tom Clancy's Rainbow Six Siege DX12 - Test Server"
             },
             "1": {
-                "executable": "RainbowSix_Vulkan.exe",
+                "executable": "RainbowSix_DX11.exe",
                 "arguments": "-upc_steam_required_product_id 10424 -uplay_steam_mode -orbit_uat",
-                "description": "Tom Clancy's Rainbow Six Siege Vulkan - Test Server",
-                "type": "none",
                 "config": {
                     "oslist": "windows"
-                }
+                },
+                "description_loc": {
+                    "english": "Tom Clancy's Rainbow Six Siege DX11 - Test Server"
+                },
+                "description": "Tom Clancy's Rainbow Six Siege DX11 - Test Server"
             }
         }
     },
@@ -232,7 +236,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24882481,
-    "_sha": "e8cce3e9b2d86f5037fc0841b5ab0ac09b28ed4e",
-    "_size": 5342
+    "_change_number": 24885784,
+    "_sha": "101b580e5846efc01e51cdd6a6c13cebf56b5adf",
+    "_size": 5542
 }
