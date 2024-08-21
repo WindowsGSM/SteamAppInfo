@@ -102,6 +102,11 @@
                     "size": "738846392",
                     "download": "326562400"
                 },
+                "pluginapi-beta": {
+                    "gid": "4496340679897500550",
+                    "size": "730552114",
+                    "download": "322662320"
+                },
                 "early-server-build": {
                     "gid": "6085154555340557195",
                     "size": "738846392",
@@ -111,11 +116,6 @@
                     "gid": "6907681103457102919",
                     "size": "742317657",
                     "download": "327248944"
-                },
-                "pluginapi-beta": {
-                    "gid": "4496340679897500550",
-                    "size": "730552114",
-                    "download": "322662320"
                 }
             },
             "encryptedmanifests": {
@@ -147,6 +147,11 @@
                     "size": "544659801",
                     "download": "150452640"
                 },
+                "pluginapi-beta": {
+                    "gid": "2669158276392828339",
+                    "size": "559813744",
+                    "download": "149238864"
+                },
                 "early-server-build": {
                     "gid": "5592587690718247608",
                     "size": "544659801",
@@ -156,11 +161,6 @@
                     "gid": "8239306699175309877",
                     "size": "571458354",
                     "download": "153840272"
-                },
-                "pluginapi-beta": {
-                    "gid": "2669158276392828339",
-                    "size": "559813744",
-                    "download": "149238864"
                 }
             },
             "encryptedmanifests": {
@@ -186,6 +186,11 @@
                 "buildid": "15100002",
                 "timeupdated": "1721502880"
             },
+            "pluginapi-beta": {
+                "buildid": "12081119",
+                "description": "Plugin API staging branch",
+                "timeupdated": "1693593482"
+            },
             "early-server-build": {
                 "buildid": "15055729",
                 "description": "Access to server builds before clients release",
@@ -210,16 +215,11 @@
                 "buildid": "15442934",
                 "pwdrequired": "1",
                 "timeupdated": "1724211424"
-            },
-            "pluginapi-beta": {
-                "buildid": "12081119",
-                "description": "Plugin API staging branch",
-                "timeupdated": "1693593482"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 24883717,
-    "_sha": "aa8af6e93eb78b13ea89308f4a17c5438e8adfeb",
+    "_change_number": 24883767,
+    "_sha": "e9cccb8d5dfc93edefd4598971803926e2a8a1a3",
     "_size": 5028
 }
