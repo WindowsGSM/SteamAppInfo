@@ -107,11 +107,6 @@
                 }
             },
             "encryptedmanifests": {
-                "mercuryarts": {
-                    "gid": "7908647FCE5F49DCBF3F44A83A440501",
-                    "size": "6B3510A16A5D6B8F022E7834BE5B018F",
-                    "download": "75F7ED06FB73DB55421DC1EB9AD24628"
-                },
                 "mercuryarts-newbuild": {
                     "gid": "385D33B420836B0160DCB936C55328E9",
                     "size": "F0E7D3F8FBF5C58398C0345F28B424BA",
@@ -123,14 +118,19 @@
                     "download": "11DCF17F98653EEA7ADD633515D1D8D9"
                 },
                 "communitytesting": {
-                    "gid": "D685239C23D7A87C994989F54AEFF589",
-                    "size": "7F9F1E660588517202EE85D57A6B21CD",
-                    "download": "1C7EA268A87727AFA84BED6374E7ABF0"
+                    "gid": "504C87ACA52EFA7863758B480D049092",
+                    "size": "1463D86A3BA612DDD62A827205E5F491",
+                    "download": "CCA68AC97995886573ED03375A5FEECD"
+                },
+                "mercuryarts": {
+                    "gid": "CDA356FCFB52D98B7F930F5810FEF4A9",
+                    "size": "CE9FACE247CC18F512BC1CF328A2BB41",
+                    "download": "A23D38C0A8DD9D1D0326EFB0CFCE0886"
                 },
                 "newbuild-release": {
-                    "gid": "5C29C73AA53D61CE29BE9C6A7D861065",
-                    "size": "7302FA0E2B7F22274E8803AC2AA81538",
-                    "download": "037010A69C7ABA10D24A6C2FEE5ABF52"
+                    "gid": "598DE455B7D269EF10FA056263CA3B2C",
+                    "size": "184FBC004DE4BF6B83653A23D7DA6CE1",
+                    "download": "C3C7F3BCB9303BA816C451F225D3DFD8"
                 },
                 "test": {
                     "gid": "63D1FFA35BE2DFB9D7CF660FF5EFA10D",
@@ -151,11 +151,6 @@
                 }
             },
             "encryptedmanifests": {
-                "mercuryarts": {
-                    "gid": "3E983E09AC5A0AEF06D04A10A32FFA2F",
-                    "size": "5E4567EC49BCE9A14100EA365142BE63",
-                    "download": "EE6C936A1C5465D4D5C04C1B9A688EA3"
-                },
                 "mercuryarts-newbuild": {
                     "gid": "12B3E89B4AAB94807D3FC3F43A0D63A5",
                     "size": "0B2AE064C4621A712A9F191DAE7235E3",
@@ -167,14 +162,19 @@
                     "download": "2C0E11030C68842034A154984C2EAA12"
                 },
                 "communitytesting": {
-                    "gid": "7FD1999127C6902EEF3633A9668B8585",
-                    "size": "281AAD56AB1AF1C66138AF76C9D9D89F",
-                    "download": "1907B8B4B7F944DE527914CAA9DC6F7E"
+                    "gid": "A5E7100A18B41682B4DDB5795270EBF6",
+                    "size": "85438703B8E5FC547F3287FA86288E18",
+                    "download": "5E3AB56A96C5F343600C9B9895E3FC4D"
+                },
+                "mercuryarts": {
+                    "gid": "B26DA1F8BDCD3BC78F50715C0DB5641F",
+                    "size": "71C4770B67E4CC6A1E93AC95918EB590",
+                    "download": "043FDB0C312E236A0D46BF4DD9F07693"
                 },
                 "newbuild-release": {
-                    "gid": "DBF6E97CDC9F2839036EFA73CC1E6FFC",
-                    "size": "7BBE18DA66D3C2204087EF730CFDCE96",
-                    "download": "962410F1950EC15202B41F6132761054"
+                    "gid": "865735BB71069353A8BE998490BAD570",
+                    "size": "250C5513449ACEBDADF6181AC78032A5",
+                    "download": "CDA28055355F4EE2FEC958C6C0841E60"
                 },
                 "test": {
                     "gid": "F9782419B15BB569BC14941C8D476B27",
@@ -187,11 +187,6 @@
             "public": {
                 "buildid": "14985723",
                 "timeupdated": "1720599365"
-            },
-            "mercuryarts": {
-                "buildid": "10176006",
-                "pwdrequired": "1",
-                "timeupdated": "1671445984"
             },
             "mercuryarts-newbuild": {
                 "buildid": "9727983",
@@ -208,6 +203,11 @@
                 "pwdrequired": "1",
                 "timeupdated": "1724657634"
             },
+            "mercuryarts": {
+                "buildid": "10176006",
+                "pwdrequired": "1",
+                "timeupdated": "1671445984"
+            },
             "newbuild-release": {
                 "buildid": "15453336",
                 "pwdrequired": "1",
@@ -221,7 +221,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24938318,
-    "_sha": "3a766c9dba5213d3c9a74a8588571c109f14af01",
+    "_change_number": 24980029,
+    "_sha": "53a3e8ae4dbb21e79307b19744dc349ed5d4d8b2",
     "_size": 5113
 }
