@@ -44,6 +44,28 @@
                 "height_pct": "100"
             }
         },
+        "library_assets_full": {
+            "library_capsule": {
+                "image": {
+                    "english": "library_600x900.jpg"
+                }
+            },
+            "library_hero": {
+                "image": {
+                    "english": "library_hero.jpg"
+                }
+            },
+            "library_logo": {
+                "image": {
+                    "english": "logo.png"
+                },
+                "logo_position": {
+                    "pinned_position": "BottomLeft",
+                    "width_pct": "29.238885222487184",
+                    "height_pct": "100"
+                }
+            }
+        },
         "store_asset_mtime": "1596201044",
         "associations": {},
         "primary_genre": "0",
@@ -54,8 +76,7 @@
         "steam_release_date": "1522940400",
         "community_visible_stats": "1",
         "community_hub_visible": "1",
-        "gameid": "770720",
-        "store_tags": {}
+        "gameid": "770720"
     },
     "config": {
         "installdir": "Hunt Showdown (Test Server)",
@@ -1143,7 +1164,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24978177,
-    "_sha": "e03cb1dda9f788f447c373a2c7fedb217059ebf7",
-    "_size": 33210
+    "_change_number": 24981165,
+    "_sha": "1fcd9f9c897952abe3b263192bd8fef009febbc6",
+    "_size": 33611
 }

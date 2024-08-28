@@ -28,6 +28,34 @@
                 "height_pct": "50"
             }
         },
+        "library_assets_full": {
+            "library_capsule": {
+                "image": {
+                    "english": "library_600x900.jpg"
+                },
+                "image2x": {
+                    "english": "library_600x900_2x.jpg"
+                }
+            },
+            "library_hero": {
+                "image": {
+                    "english": "library_hero.jpg"
+                }
+            },
+            "library_logo": {
+                "logo_position": {
+                    "pinned_position": "BottomLeft",
+                    "width_pct": "50",
+                    "height_pct": "50"
+                },
+                "image": {
+                    "english": "logo.png"
+                },
+                "image2x": {
+                    "english": "logo_2x.png"
+                }
+            }
+        },
         "store_asset_mtime": "1579188202",
         "associations": {},
         "steam_release_date": "1506355200",
@@ -141,7 +169,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24483107,
-    "_sha": "f678058b6004166ef22f423f1c7c1fd89936707d",
-    "_size": 3006
+    "_change_number": 24981165,
+    "_sha": "11a0d0f91ccfde2aba8562a053e8626c5b96b824",
+    "_size": 3536
 }

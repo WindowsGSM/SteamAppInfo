@@ -35,6 +35,37 @@
                 "height_pct": "50"
             }
         },
+        "library_assets_full": {
+            "library_capsule": {
+                "image": {
+                    "english": "library_600x900.jpg"
+                },
+                "image2x": {
+                    "english": "library_600x900_2x.jpg"
+                }
+            },
+            "library_hero": {
+                "image": {
+                    "english": "library_hero.jpg"
+                },
+                "image2x": {
+                    "english": "library_hero_2x.jpg"
+                }
+            },
+            "library_logo": {
+                "logo_position": {
+                    "pinned_position": "CenterCenter",
+                    "width_pct": "50",
+                    "height_pct": "50"
+                },
+                "image": {
+                    "english": "logo.png"
+                },
+                "image2x": {
+                    "english": "logo_2x.png"
+                }
+            }
+        },
         "store_asset_mtime": "1679319124",
         "associations": {},
         "primary_genre": "0",
@@ -221,7 +252,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24969700,
-    "_sha": "f299b75b95873bf78e6d094dc64088f6f0259d16",
-    "_size": 5575
+    "_change_number": 24981165,
+    "_sha": "d0d00834d937358135f581517a743b2abd491450",
+    "_size": 6171
 }
