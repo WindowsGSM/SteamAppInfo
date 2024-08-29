@@ -307,7 +307,7 @@
                 "description": "externalnv"
             },
             "41": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
+                "executable": "hunt.exe",
                 "arguments": "+online_account_client_settings stagealpha +r_displayinfo 6",
                 "type": "option1",
                 "config": {
@@ -341,7 +341,7 @@
                 }
             },
             "44": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
+                "executable": "hunt.exe",
                 "arguments": "+online_account_client_settings stagealpha",
                 "type": "option1",
                 "config": {
@@ -611,9 +611,9 @@
                     "download": "567DA9487AB7E5C23A675E0600D746C6"
                 },
                 "latest": {
-                    "gid": "9420F17A4ED8725EFC0A8162F76E8389",
-                    "size": "FC758A5F07CB427E39CD8F6E9EB61180",
-                    "download": "824A4728E0555E05346A7D0409D0E761"
+                    "gid": "27D388B1C01D545941FA755576091334",
+                    "size": "03062881D84A3FD75333667074F302A7",
+                    "download": "32579151C62985F91FA00D630E6CC7C8"
                 },
                 "lionbridge_qa": {
                     "gid": "E399C1A7E635521D84EB784DBB9183AA",
@@ -1123,9 +1123,9 @@
                 "timeupdated": "1720869669"
             },
             "latest": {
-                "buildid": "15529398",
+                "buildid": "15529540",
                 "pwdrequired": "1",
-                "timeupdated": "1724922864"
+                "timeupdated": "1724923682"
             },
             "lionbridge_qa": {
                 "buildid": "15518845",
@@ -1165,7 +1165,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24990661,
-    "_sha": "b72e6c386850b3cba8d6984fa9f332c7fd83c5cf",
-    "_size": 33634
+    "_change_number": 24990697,
+    "_sha": "655a2b41f83640f510bf7f4964c426cf1b718ba9",
+    "_size": 33598
 }
