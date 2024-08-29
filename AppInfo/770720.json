@@ -76,7 +76,8 @@
         "steam_release_date": "1522940400",
         "community_visible_stats": "1",
         "community_hub_visible": "1",
-        "gameid": "770720"
+        "gameid": "770720",
+        "store_tags": {}
     },
     "config": {
         "installdir": "Hunt Showdown (Test Server)",
@@ -595,9 +596,9 @@
                     "download": "4F4072DDD682A7BFB22FAE985D82EEF7"
                 },
                 "dq_functional": {
-                    "gid": "C2E129A8B75D67FA5B37998E95DEA913",
-                    "size": "DB89D1CA31D8260342CBE4E3C75EF610",
-                    "download": "6927E54BE8AE7F16EF45FE1B7F8685EF"
+                    "gid": "5AE487BA7C55678D432089E62C43CE40",
+                    "size": "172C7682466BA1E285F138FFCADB3136",
+                    "download": "598AAF8CEC5F8C6101DBACA5D47ACC16"
                 },
                 "eac_pgo_use": {
                     "gid": "C4C307AE6560C245FFBFD1416DA65C59",
@@ -615,9 +616,9 @@
                     "download": "D0B65CE375035DE53E7310AAA194E11F"
                 },
                 "lionbridge_qa": {
-                    "gid": "7B0C643FB8389506D9124BB27037B013",
-                    "size": "6C2A412AD9973F7A41B925807EE8DC0A",
-                    "download": "49403E597045D3A8D5229E73E8932C22"
+                    "gid": "134E54017359F0F9DE5E32845CF5C2BE",
+                    "size": "732A51FF280925DB7DD389603040E595",
+                    "download": "399FBD8DB19C8364620DEE9DCBA7A560"
                 },
                 "m1_test": {
                     "gid": "8A6678F85D7342D1C76136C5A8053DFF",
@@ -725,9 +726,9 @@
                     "download": "DD8AB830C2EA763DF56E0E08B4914FAE"
                 },
                 "dq_functional": {
-                    "gid": "8F920C994756836983F39FCDA6947AEF",
-                    "size": "7194CAEEB10CCEBDC227D167A534276F",
-                    "download": "946C2BDD91567BB7B72EB2C14324FF3A"
+                    "gid": "9C990CFDD7574A436C1195B752BA6EF1",
+                    "size": "6FF7E38E6018899A8BCB9119FD9DC715",
+                    "download": "89D56BB061E7E341B615B8775CA6B82F"
                 },
                 "eac_pgo_use": {
                     "gid": "6559C4273C77F67612DFC016320C1D64",
@@ -745,9 +746,9 @@
                     "download": "71E6DEC1F2AF256EA90C8A127C101D3C"
                 },
                 "lionbridge_qa": {
-                    "gid": "374E2701596D0A9A3625C0805E6FD20A",
-                    "size": "214D71EDE56DD4EFD8DEDFC5D7E2AB2C",
-                    "download": "2BFF68654EBFAB9529162FA2BB265FBA"
+                    "gid": "FC5CFF96269F978BBB99F67AB2286102",
+                    "size": "0870E817757D241CC648569439A17559",
+                    "download": "9D3821A2F6982860320A9FBF6E612F70"
                 },
                 "m1_test": {
                     "gid": "3E383ADDAC37B8D73498735F48730200",
@@ -855,9 +856,9 @@
                     "download": "16622029B383C0BED8D6D936BF4A0949"
                 },
                 "dq_functional": {
-                    "gid": "F5FC12B7D3A8B1452EFE4173FBCE3455",
+                    "gid": "9B790E753164D3BE0EF6EE3D1D6C22C2",
                     "size": "D86A6BC58351F9FD9DE799257D115822",
-                    "download": "2C3D7CA91E1916F2E2A0CE9C008D8E11"
+                    "download": "67748A299DD8410269A9DB512A6B2B14"
                 },
                 "eac_pgo_use": {
                     "gid": "BAFF8ECBF6695B0F92FA5D6D95143C96",
@@ -875,9 +876,9 @@
                     "download": "598DCE28461E8C9DAAE7DB826F88D392"
                 },
                 "lionbridge_qa": {
-                    "gid": "BA3E5747A83525A523197014A1269792",
+                    "gid": "AAA3F158DB6D7F5A4AB3F9FCD5C3ED34",
                     "size": "22F72C01BB0E93BCF03656654D48215C",
-                    "download": "F8E9776472FAE460FAFA4C3C69136BF4"
+                    "download": "B63BFF74B8DC0F405D5946421B25F8D6"
                 },
                 "m1_test": {
                     "gid": "8DA29D640F489AE4947B0BDB895E7827",
@@ -1107,9 +1108,9 @@
                 "timeupdated": "1724778437"
             },
             "dq_functional": {
-                "buildid": "15502115",
+                "buildid": "15518805",
                 "pwdrequired": "1",
-                "timeupdated": "1724743301"
+                "timeupdated": "1724915326"
             },
             "eac_pgo_use": {
                 "buildid": "15518081",
@@ -1127,9 +1128,9 @@
                 "timeupdated": "1724859524"
             },
             "lionbridge_qa": {
-                "buildid": "15502115",
+                "buildid": "15518805",
                 "pwdrequired": "1",
-                "timeupdated": "1724743369"
+                "timeupdated": "1724915343"
             },
             "m1_test": {
                 "buildid": "15326370",
@@ -1164,7 +1165,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 24981165,
-    "_sha": "1fcd9f9c897952abe3b263192bd8fef009febbc6",
-    "_size": 33611
+    "_change_number": 24988541,
+    "_sha": "f307d81762408d3636408f799905e28b030e4d91",
+    "_size": 33634
 }
