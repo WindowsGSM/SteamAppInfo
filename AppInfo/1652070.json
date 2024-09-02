@@ -57,6 +57,11 @@
                     "size": "1660795662",
                     "download": "1032329616"
                 },
+                "live": {
+                    "gid": "6683818307278833337",
+                    "size": "1660795662",
+                    "download": "1032329616"
+                },
                 "demo": {
                     "gid": "273656541844419653",
                     "size": "1836278465",
@@ -65,9 +70,9 @@
             },
             "encryptedmanifests": {
                 "development": {
-                    "gid": "A379DD9EFFC23A7ED9744F3FC6B18210",
-                    "size": "A1EB92328F71A6E29470336C3AA38439",
-                    "download": "75191C00DE0A53F3041210CB564838CE"
+                    "gid": "FB3006CA1B6E67AA745DA79AC09185E1",
+                    "size": "D6617CB3558527AC9E5B665FB2E2D5C3",
+                    "download": "F791BED9733DC32AC57734795CE8FAA8"
                 }
             }
         },
@@ -82,6 +87,11 @@
                     "size": "1556887719",
                     "download": "880958928"
                 },
+                "live": {
+                    "gid": "4738119951611548605",
+                    "size": "1556887719",
+                    "download": "880958928"
+                },
                 "demo": {
                     "gid": "8402312048018315793",
                     "size": "1727224817",
@@ -90,9 +100,9 @@
             },
             "encryptedmanifests": {
                 "development": {
-                    "gid": "21F4025C697E3A24620D0E2286C8FA36",
-                    "size": "3CBC5F4AE6443887583434C73BB8B64E",
-                    "download": "D1F790F511FBF42EEF1E2FFBC4A48302"
+                    "gid": "4248400FAD521B01DC28C00BD8F2A6C5",
+                    "size": "9A6FDBB8D681FDF13AE282F14968C3A8",
+                    "download": "5CE5954AAB5E404866F20592DC430CA6"
                 }
             }
         },
@@ -101,20 +111,25 @@
                 "buildid": "15561835",
                 "timeupdated": "1725234826"
             },
+            "live": {
+                "buildid": "15561835",
+                "description": "Public released branch",
+                "timeupdated": "1725237262"
+            },
+            "development": {
+                "buildid": "15560607",
+                "pwdrequired": "1",
+                "timeupdated": "1725237390"
+            },
             "demo": {
                 "buildid": "15124834",
                 "description": "demo server",
                 "timeupdated": "1721745969"
-            },
-            "development": {
-                "buildid": "15556459",
-                "pwdrequired": "1",
-                "timeupdated": "1725140549"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 25035156,
-    "_sha": "585906b77e21edfb7bebc538deea2e7a139f4de2",
-    "_size": 2798
+    "_change_number": 25035393,
+    "_sha": "403c9b2944506ed28473a77dcb331d7d69e53e1d",
+    "_size": 3145
 }
