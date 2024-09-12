@@ -124,11 +124,6 @@
                     "gid": "98967298642520364",
                     "size": "8841902806",
                     "download": "3954029296"
-                },
-                "experimental": {
-                    "gid": "3752399937745179208",
-                    "size": "18311473102",
-                    "download": "11191598144"
                 }
             },
             "encryptedmanifests": {
@@ -146,6 +141,11 @@
                     "gid": "FC98FF8B98FBC963BC8D16BDE2315002",
                     "size": "ECB4D5CBF2A66DFFAD2A696500DF84DA",
                     "download": "5458053581A1241B1AD7D537789A97F7"
+                },
+                "experimental": {
+                    "gid": "5F5B2ACF359A4997EDA89DD82992604A",
+                    "size": "1611E45F630909D8DD315CCEF87F227B",
+                    "download": "870BA67139D2F460299E95645004D6F7"
                 },
                 "internal": {
                     "gid": "DC621E371A6AC75303378E5D6057016A",
@@ -236,7 +236,7 @@
             },
             "experimental": {
                 "buildid": "15667660",
-                "description": "Experimental branch",
+                "pwdrequired": "1",
                 "timeupdated": "1726082330"
             },
             "internal": {
@@ -267,7 +267,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 25189090,
-    "_sha": "f4764a09c7e5fdaf8d67ed3a4d86afcc68d40522",
-    "_size": 6315
+    "_change_number": 25194479,
+    "_sha": "6000ab8c3732e53cc5a8db6d32b8d4dcbf17c06e",
+    "_size": 6352
 }
