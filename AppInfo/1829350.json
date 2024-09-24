@@ -87,11 +87,6 @@
                 }
             },
             "encryptedmanifests": {
-                "internal2": {
-                    "gid": "BDB15DF2551592E63AE3679E283B06E6",
-                    "size": "0D382648ADE3E45BBCEAF131B7F4FFBE",
-                    "download": "9A907355062A10BF020DDCB048D3897A"
-                },
                 "partner1": {
                     "gid": "CCEBFBD01B46ACA37685E701F96A0E4D",
                     "size": "8BF82C75A0035E3C2A49DDF75EFEF154",
@@ -111,6 +106,11 @@
                     "gid": "E4BF77F851EA03CF5B587A2661284324",
                     "size": "74DA8701DEE9138946261C734793E1F3",
                     "download": "E5706ABE0A1A03CD68F709F9E74C3EE2"
+                },
+                "internal2": {
+                    "gid": "9F0E6CD5284EC44AF614D62988ABACF0",
+                    "size": "34CD6EBA07984E248F16BAA3BF4F0E0A",
+                    "download": "20A4318ECCC7421B50F283FC6989890A"
                 },
                 "internal3": {
                     "gid": "EEFC478DE05BE452C9D876CC62F447BA",
@@ -184,11 +184,6 @@
                 "buildid": "15720265",
                 "timeupdated": "1726573359"
             },
-            "internal2": {
-                "buildid": "11171529",
-                "pwdrequired": "1",
-                "timeupdated": "1683383612"
-            },
             "legacy-0.5.x": {
                 "buildid": "10409337",
                 "description": "Initial Early Access version. Originally released: 2022-05-17",
@@ -218,6 +213,11 @@
                 "buildid": "15720265",
                 "pwdrequired": "1",
                 "timeupdated": "1726565477"
+            },
+            "internal2": {
+                "buildid": "15743248",
+                "pwdrequired": "1",
+                "timeupdated": "1727160977"
             },
             "internal3": {
                 "buildid": "14560493",
@@ -292,7 +292,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 25260545,
-    "_sha": "595a966f89722a0e1197ecd9d2fa1bbe22da6eff",
+    "_change_number": 25363366,
+    "_sha": "652e982d6f51f60e6a3be4112bcc68bf7903bd7a",
     "_size": 7457
 }
