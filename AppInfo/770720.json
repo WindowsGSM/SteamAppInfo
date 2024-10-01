@@ -294,7 +294,6 @@
             },
             "40": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stage +sys_dump_type 3",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -347,7 +346,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "117_main 117_shadtest lqa_test 117_precheck closed_beta_test 201_test"
+                    "betakey": "117_main 117_shadtest lqa_test 117_precheck closed_beta_test 201_test external_playtest"
                 },
                 "description_loc": {
                     "english": "alpha_pt"
@@ -591,6 +590,11 @@
                     "size": "CB88C374F83487D7051CD66F6A6AE6C8",
                     "download": "219A7E8E391563EF563C969E2CCC4A73"
                 },
+                "external_playtest": {
+                    "gid": "A1DEB70B764C7693784E68518A7624AE",
+                    "size": "2D903FDEC8D1C23044C7800FF6178778",
+                    "download": "E0D71939D193FBB1C0FC6386CAB70DF8"
+                },
                 "external_tech_test": {
                     "gid": "8F418F7928582C8F26A360272F9AEC3A",
                     "size": "81BDDCD8AEAED3DBE77C5E9945AB11C6",
@@ -715,6 +719,11 @@
                     "gid": "6559C4273C77F67612DFC016320C1D64",
                     "size": "84F6D1A9185C3CF56F028F712ECB0EB9",
                     "download": "094FC171185D9CD94B1EA5749FF3FE59"
+                },
+                "external_playtest": {
+                    "gid": "07C0335AC106C72BB45FBA7ADE0CF8C3",
+                    "size": "9F13DE927DC4237093D5AD51B0AD789D",
+                    "download": "C0388FCAEA9C3C38960A6292833789E2"
                 },
                 "external_tech_test": {
                     "gid": "BF181609681192B3342D98AD89A69FF3",
@@ -841,6 +850,11 @@
                     "size": "C33951ED8E20B1DD3C40141F09CC8A01",
                     "download": "25A45EFA982A05A6CD7629AFB2682554"
                 },
+                "external_playtest": {
+                    "gid": "4BC8FE562299CCE7882BA1D879B7BBA2",
+                    "size": "09F534E78DE00B70F78C3BFE03872C95",
+                    "download": "5635DA0506E92FA3E786BCB4F9E6CAB5"
+                },
                 "external_tech_test": {
                     "gid": "156C39C407F56898260F64344CC6080E",
                     "size": "8932EB161E625AFAC77025D060BA4956",
@@ -966,6 +980,11 @@
                     "size": "0A85352FD521AF332736CB69C7676D22",
                     "download": "0A85352FD521AF332736CB69C7676D22"
                 },
+                "external_playtest": {
+                    "gid": "79C4229E7D5872F80AA6A3C220E75298",
+                    "size": "6A8F0981261B7ADBBCBFD0BD36BFCF08",
+                    "download": "6A8F0981261B7ADBBCBFD0BD36BFCF08"
+                },
                 "external_tech_test": {
                     "gid": "7AAF6E970DB0ED10AC7D80BCB22FB170",
                     "size": "4AF44011B4277C7D1553C7D7D9A3F8A6",
@@ -1083,6 +1102,11 @@
                 "pwdrequired": "1",
                 "timeupdated": "1724854408"
             },
+            "external_playtest": {
+                "buildid": "15843737",
+                "pwdrequired": "1",
+                "timeupdated": "1727773800"
+            },
             "external_tech_test": {
                 "buildid": "15008972",
                 "pwdrequired": "1",
@@ -1126,7 +1150,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 25473060,
-    "_sha": "2c82ef8c80e82de245ff1509a521b672f97b155e",
-    "_size": 32360
+    "_change_number": 25473853,
+    "_sha": "8eb8bf6597b9d4e028930a0b14deaf72c04dce3f",
+    "_size": 33150
 }
