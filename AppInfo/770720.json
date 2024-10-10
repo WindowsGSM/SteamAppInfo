@@ -346,7 +346,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "117_main 117_shadtest closed_beta_test 201_test external_playtest current"
+                    "betakey": "117_main 117_shadtest closed_beta_test 201_test external_playtest current tencent_playtest"
                 },
                 "description_loc": {
                     "english": "alpha_pt"
@@ -540,11 +540,6 @@
                     "size": "C27C7E5EBDBC0CE05BED8B8FA81B4506",
                     "download": "384FDEAC5D20F95C95C13B23A909A1A8"
                 },
-                "117_precheck": {
-                    "gid": "08F13A71C9112164342369461FAFCC73",
-                    "size": "86A5B6563D5A82675BF75B6C80C09841",
-                    "download": "532C2B758D5BC96C5F724AEBB3CA2CD7"
-                },
                 "201_test": {
                     "gid": "A4AD327709B32DB54B5AF4FF461F21EE",
                     "size": "640507200A00729503709C4095FF17DC",
@@ -629,6 +624,11 @@
                     "gid": "00D6847B5EF65B78460A71D15E8EA261",
                     "size": "079E397362E83AEDDAC62D0D1B3612D8",
                     "download": "EEEC4C2812926BA67E1F999E0B7F2653"
+                },
+                "tencent_playtest": {
+                    "gid": "71854E4F99881CFB9AA4C06834D9EB14",
+                    "size": "F1AC07286D43C3FEA90614E593A51918",
+                    "download": "4517A7E944062B84CC70A07A34D36E8C"
                 }
             }
         },
@@ -664,11 +664,6 @@
                     "gid": "EF41012C3DA03ADB6B7F741788A5A1BD",
                     "size": "B2815813228382C93DE90D287D11CD42",
                     "download": "852077D2EEBA5DAB373B4CC58E433649"
-                },
-                "117_precheck": {
-                    "gid": "BFCB825FC0FDFF405DDBDDD240D2F561",
-                    "size": "DE63251023AC0ABCBD490C76212B7DF1",
-                    "download": "32C8595C684EFD30C57AD90F19EC251C"
                 },
                 "201_test": {
                     "gid": "72A30F2B51FF956EA08390F3DE5FDF87",
@@ -754,6 +749,11 @@
                     "gid": "8F30D4AEA6F04E5D9DC0C7ABE5244092",
                     "size": "5CC5E57C812ACC47FE3101007E5334B1",
                     "download": "DBE5C515CE9E207A7AC90DC8ECEF81FA"
+                },
+                "tencent_playtest": {
+                    "gid": "D2AFFAB5F3A0206CCC761EF921BC602D",
+                    "size": "C0B7E9E6AD74018238314FAF250C51CD",
+                    "download": "5965704FCDDB63A8D3A81A56DA4361BA"
                 }
             }
         },
@@ -789,11 +789,6 @@
                     "gid": "36E177CA837C31FF3F5C34E01339D43E",
                     "size": "0C48596E08E076E5C48B7E8FC4408A8B",
                     "download": "E66952E00FF8CF4ED045D86DA82AAB4A"
-                },
-                "117_precheck": {
-                    "gid": "6FFF1FF14E06A0369EAC1FA459C2941F",
-                    "size": "0E32CF4495E32033323B20736E21BCC9",
-                    "download": "44778C0DDB60C88D958674421619E044"
                 },
                 "201_test": {
                     "gid": "4BD0D88D5918689F18BA7E512C15F33D",
@@ -879,6 +874,11 @@
                     "gid": "12470BC12B5570A0A798E51C3F6700B2",
                     "size": "AE9BA7F60B64960E8D3D22C3D4E7E241",
                     "download": "3B4EE0A891360FCF97F720CD38C790CA"
+                },
+                "tencent_playtest": {
+                    "gid": "73ED9BD4783E33277FC2E1A82A2BF27A",
+                    "size": "95985655EC9B35FDDD480EC4ADCD934A",
+                    "download": "A3BD205DAC04B82B6F82BBC23CF19F54"
                 }
             }
         },
@@ -914,11 +914,6 @@
                     "gid": "9F5C7CEDF68BFB6A808D59C28D65123C",
                     "size": "21732ED4FC72F8E906F9195CF7ADCA1E",
                     "download": "21732ED4FC72F8E906F9195CF7ADCA1E"
-                },
-                "117_precheck": {
-                    "gid": "448E701170714AA2C259165F1500FB08",
-                    "size": "4B7604DEBBFAE8F282DEB41ED186FEB0",
-                    "download": "4B7604DEBBFAE8F282DEB41ED186FEB0"
                 },
                 "201_test": {
                     "gid": "72AF8553A2AA6E0456AA0C9C836A2810",
@@ -1004,6 +999,11 @@
                     "gid": "7877BD614D4C0A6D6C1443948AE3F76E",
                     "size": "2875511819A6A4EC8A1C033BD24CE4A8",
                     "download": "2875511819A6A4EC8A1C033BD24CE4A8"
+                },
+                "tencent_playtest": {
+                    "gid": "09DF957247E6D53F2F0577CE9C89A486",
+                    "size": "5CC41D33DDAC43F26DF86CE5F2434435",
+                    "download": "5CC41D33DDAC43F26DF86CE5F2434435"
                 }
             }
         },
@@ -1031,11 +1031,6 @@
                 "buildid": "15962363",
                 "pwdrequired": "1",
                 "timeupdated": "1728455609"
-            },
-            "117_precheck": {
-                "buildid": "14883914",
-                "pwdrequired": "1",
-                "timeupdated": "1719817769"
             },
             "201_test": {
                 "buildid": "15704290",
@@ -1121,11 +1116,16 @@
                 "buildid": "15468409",
                 "pwdrequired": "1",
                 "timeupdated": "1724400019"
+            },
+            "tencent_playtest": {
+                "buildid": "15990812",
+                "pwdrequired": "1",
+                "timeupdated": "1728556319"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 25644051,
-    "_sha": "fb706f68b608e213e6416a27cd1bc31bcdf611e2",
-    "_size": 32371
+    "_change_number": 25645612,
+    "_sha": "a1076e4256a05da2cb53d829cac83750b9561525",
+    "_size": 32408
 }
