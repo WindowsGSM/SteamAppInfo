@@ -341,7 +341,7 @@
             },
             "44": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stagealpha",
+                "arguments": "+online_account_client_settings stagealpha +ui_input_debug_cursor_scopes 1 +ui_debug_layout_loading 1 +log_writetofileverbosity 3",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -591,9 +591,9 @@
                     "download": "567DA9487AB7E5C23A675E0600D746C6"
                 },
                 "latest": {
-                    "gid": "6A6B7B5E5A56CF6AF6E7F010E5339363",
-                    "size": "A0DF27C92C993757B0A76948C58723C5",
-                    "download": "CB9EA8EFFCC32A9268886D8CCB773A71"
+                    "gid": "A70B0B43B89AA2A916EAF452A9C844D9",
+                    "size": "831E0AB73E7647DB4FA0BC6C9D2C6796",
+                    "download": "62951DF55BA7136176EBEBCDEFDA89B5"
                 },
                 "lionbridge_qa": {
                     "gid": "55D4C31CEB741649E23DC319832FDA7E",
@@ -716,9 +716,9 @@
                     "download": "69420040302A60AAA6E82E9DBA645001"
                 },
                 "latest": {
-                    "gid": "AB5254E5AC1235C48917ACE6D61009DA",
-                    "size": "512CD17EF99CB05BE16FD2293C3CEB0B",
-                    "download": "542EE4347636D4401C27565265E99320"
+                    "gid": "595DEDD87ACD74AED25FEF15DAFEEEF8",
+                    "size": "8BB0658EB024E067CA91A8FEBDBB314C",
+                    "download": "162DEE9A65C92C5C8EC0E505554E925A"
                 },
                 "lionbridge_qa": {
                     "gid": "9E10073AFB38C13C01D2280E6E37C04B",
@@ -841,9 +841,9 @@
                     "download": "85F32091F9F7A984F10E4BF55961F38C"
                 },
                 "latest": {
-                    "gid": "F6E849D1B4FBE5AA05DB76323E1F8CD3",
-                    "size": "4A25C4B2BE322B8EB4C6BC1D7B25E11C",
-                    "download": "8333404240B4417891DE0B66D8E84BB0"
+                    "gid": "4C7638F2EBC6CBD7DE973E2E4CACAFA8",
+                    "size": "006168A37A25273A724616ED0AF58844",
+                    "download": "2565C2E76F781C43A409F14D21F4BDAA"
                 },
                 "lionbridge_qa": {
                     "gid": "2523B46904BACE7A6753505AEB935B5F",
@@ -1083,9 +1083,9 @@
                 "timeupdated": "1720869669"
             },
             "latest": {
-                "buildid": "16119243",
+                "buildid": "16125279",
                 "pwdrequired": "1",
-                "timeupdated": "1729498093"
+                "timeupdated": "1729529965"
             },
             "lionbridge_qa": {
                 "buildid": "16074451",
@@ -1125,7 +1125,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 25816562,
-    "_sha": "c2d5aa60148ed7b85489d783ad0123d128bebba5",
-    "_size": 32408
+    "_change_number": 25824046,
+    "_sha": "30321b4c5653515d3e5f9937f5c263734d748cb5",
+    "_size": 32495
 }
