@@ -219,9 +219,9 @@
             "timeupdated": "1602784746"
         },
         "quality_assurance": {
-            "buildid": "16168759",
+            "buildid": "16169186",
             "pwdrequired": "1",
-            "timeupdated": "1729789740"
+            "timeupdated": "1729791974"
         }
     },
     "17515": {},
@@ -1080,13 +1080,13 @@
             "timeupdated": "1729583723"
         },
         "staging": {
-            "buildid": "16168818",
-            "timeupdated": "1729789950"
+            "buildid": "16169165",
+            "timeupdated": "1729791894"
         },
         "staging-debug": {
-            "buildid": "16168835",
+            "buildid": "16169190",
             "pwdrequired": "1",
-            "timeupdated": "1729790060"
+            "timeupdated": "1729791993"
         },
         "test": {
             "buildid": "15110119",
@@ -5724,30 +5724,10 @@
             "pwdrequired": "1",
             "timeupdated": "1729790934"
         },
-        "halloween-earlyaccess": {
-            "buildid": "16142306",
-            "description": "Early Halloween build access for server modders.",
-            "timeupdated": "1729647870"
-        },
-        "pluginapi-beta": {
-            "buildid": "12081119",
-            "description": "Plugin API staging branch",
-            "timeupdated": "1693593482"
-        },
-        "staff-testing": {
-            "buildid": "16157840",
+        "nightly": {
+            "buildid": "16159956",
             "pwdrequired": "1",
-            "timeupdated": "1729725288"
-        },
-        "early-server-build": {
-            "buildid": "16142306",
-            "description": "Access to server builds before clients release",
-            "timeupdated": "1729647883"
-        },
-        "experimental": {
-            "buildid": "14562752",
-            "description": "Experimental branch for early testing and public development purposes",
-            "timeupdated": "1717183209"
+            "timeupdated": "1729741590"
         },
         "mr-testing": {
             "buildid": "16118244",
@@ -5764,20 +5744,40 @@
             "pwdrequired": "1",
             "timeupdated": "1729544960"
         },
+        "thomasjosif-test": {
+            "buildid": "15659557",
+            "pwdrequired": "1",
+            "timeupdated": "1726029652"
+        },
         "qa-testing": {
             "buildid": "16157840",
             "pwdrequired": "1",
             "timeupdated": "1729725296"
         },
-        "nightly": {
-            "buildid": "16159956",
+        "staff-testing": {
+            "buildid": "16157840",
             "pwdrequired": "1",
-            "timeupdated": "1729741590"
+            "timeupdated": "1729725288"
         },
-        "thomasjosif-test": {
-            "buildid": "15659557",
-            "pwdrequired": "1",
-            "timeupdated": "1726029652"
+        "halloween-earlyaccess": {
+            "buildid": "16142306",
+            "description": "Early Halloween build access for server modders.",
+            "timeupdated": "1729647870"
+        },
+        "pluginapi-beta": {
+            "buildid": "12081119",
+            "description": "Plugin API staging branch",
+            "timeupdated": "1693593482"
+        },
+        "early-server-build": {
+            "buildid": "16142306",
+            "description": "Access to server builds before clients release",
+            "timeupdated": "1729647883"
+        },
+        "experimental": {
+            "buildid": "14562752",
+            "description": "Experimental branch for early testing and public development purposes",
+            "timeupdated": "1717183209"
         }
     },
     "996600": {

@@ -129,10 +129,10 @@
                     "size": "F8735E965F70FE28F82D599AB714FBB7",
                     "download": "793DFDF3E5922DACB32E31B9490C0524"
                 },
-                "staff-testing": {
-                    "gid": "63202D5D649F2AF8ABAD821B669EB4BA",
-                    "size": "F077012B41AE983ABD18892354879C9D",
-                    "download": "187FF74DD5BCDEAAA6EF80B4BFCF27D3"
+                "nightly": {
+                    "gid": "4672EC87316D3A4BB60F1F7986BD1BAB",
+                    "size": "790070EAC152977F970955EFB2D0255E",
+                    "download": "BF2CB30DB0993FE24304292A80B8C892"
                 },
                 "mr-testing": {
                     "gid": "D559DBD9C97A579C6D6EA320CEED71A3",
@@ -149,20 +149,20 @@
                     "size": "BDAF4D497D4116EEFEF695FF7ED39BAD",
                     "download": "E7297B8345B215D407BF6E34953CC1E8"
                 },
+                "thomasjosif-test": {
+                    "gid": "64562FB1996F2383A0A3CAEFA3479284",
+                    "size": "9F9CD24DF49B330C52D332AF42EBA17B",
+                    "download": "0D0A715D3DCF7571C46C448F5CF84B9A"
+                },
                 "qa-testing": {
                     "gid": "AA43F4E46BED64BDB58205E961F99E21",
                     "size": "1C50289DB46D4DFA17C6B462843B0F9A",
                     "download": "6DE16AE26A49BD741D1DC3DA321DD326"
                 },
-                "nightly": {
-                    "gid": "4672EC87316D3A4BB60F1F7986BD1BAB",
-                    "size": "790070EAC152977F970955EFB2D0255E",
-                    "download": "BF2CB30DB0993FE24304292A80B8C892"
-                },
-                "thomasjosif-test": {
-                    "gid": "64562FB1996F2383A0A3CAEFA3479284",
-                    "size": "9F9CD24DF49B330C52D332AF42EBA17B",
-                    "download": "0D0A715D3DCF7571C46C448F5CF84B9A"
+                "staff-testing": {
+                    "gid": "63202D5D649F2AF8ABAD821B669EB4BA",
+                    "size": "F077012B41AE983ABD18892354879C9D",
+                    "download": "187FF74DD5BCDEAAA6EF80B4BFCF27D3"
                 }
             }
         },
@@ -204,10 +204,10 @@
                     "size": "468DEEA7FB3095BA681D7C994BC9F49E",
                     "download": "A390BADCC44D04EBFD003833F6154383"
                 },
-                "staff-testing": {
-                    "gid": "5A99E05F62A03312287DCA2ADBADD7FF",
-                    "size": "F734C08E61E4391F096500743421C18A",
-                    "download": "F5ADE5D1E0C47D51396ABCCBED4ECBA8"
+                "nightly": {
+                    "gid": "27D170E46D13950DDBADA1BFD1D72B7D",
+                    "size": "4176DB2E84DEDDC9007F6C02AB4DDAD3",
+                    "download": "9E7C027AFAD260474E1CB90F1CED82B6"
                 },
                 "mr-testing": {
                     "gid": "DE12E7BF30185003D0C9F850FE839ADB",
@@ -224,20 +224,20 @@
                     "size": "1E133FC8BC8467060E3B49CE5C1B6E19",
                     "download": "99556B75DD4CED09A793F79479D60410"
                 },
+                "thomasjosif-test": {
+                    "gid": "694C29F92ADDB4E20BC5873926D37814",
+                    "size": "B88EBEB79BF9EF8742A1C106C86EF313",
+                    "download": "6D9D63294222C00CA942CAB69B76FDCF"
+                },
                 "qa-testing": {
                     "gid": "C739C88EEE6DB6D35FDE36911E06705B",
                     "size": "63184E771C354D4D6EF225B9393CC795",
                     "download": "BBC7FFB2477D65CC758F542A34D0A7C6"
                 },
-                "nightly": {
-                    "gid": "27D170E46D13950DDBADA1BFD1D72B7D",
-                    "size": "4176DB2E84DEDDC9007F6C02AB4DDAD3",
-                    "download": "9E7C027AFAD260474E1CB90F1CED82B6"
-                },
-                "thomasjosif-test": {
-                    "gid": "694C29F92ADDB4E20BC5873926D37814",
-                    "size": "B88EBEB79BF9EF8742A1C106C86EF313",
-                    "download": "6D9D63294222C00CA942CAB69B76FDCF"
+                "staff-testing": {
+                    "gid": "5A99E05F62A03312287DCA2ADBADD7FF",
+                    "size": "F734C08E61E4391F096500743421C18A",
+                    "download": "F5ADE5D1E0C47D51396ABCCBED4ECBA8"
                 }
             }
         },
@@ -251,30 +251,10 @@
                 "pwdrequired": "1",
                 "timeupdated": "1729790934"
             },
-            "halloween-earlyaccess": {
-                "buildid": "16142306",
-                "description": "Early Halloween build access for server modders.",
-                "timeupdated": "1729647870"
-            },
-            "pluginapi-beta": {
-                "buildid": "12081119",
-                "description": "Plugin API staging branch",
-                "timeupdated": "1693593482"
-            },
-            "staff-testing": {
-                "buildid": "16157840",
+            "nightly": {
+                "buildid": "16159956",
                 "pwdrequired": "1",
-                "timeupdated": "1729725288"
-            },
-            "early-server-build": {
-                "buildid": "16142306",
-                "description": "Access to server builds before clients release",
-                "timeupdated": "1729647883"
-            },
-            "experimental": {
-                "buildid": "14562752",
-                "description": "Experimental branch for early testing and public development purposes",
-                "timeupdated": "1717183209"
+                "timeupdated": "1729741590"
             },
             "mr-testing": {
                 "buildid": "16118244",
@@ -291,25 +271,45 @@
                 "pwdrequired": "1",
                 "timeupdated": "1729544960"
             },
+            "thomasjosif-test": {
+                "buildid": "15659557",
+                "pwdrequired": "1",
+                "timeupdated": "1726029652"
+            },
             "qa-testing": {
                 "buildid": "16157840",
                 "pwdrequired": "1",
                 "timeupdated": "1729725296"
             },
-            "nightly": {
-                "buildid": "16159956",
+            "staff-testing": {
+                "buildid": "16157840",
                 "pwdrequired": "1",
-                "timeupdated": "1729741590"
+                "timeupdated": "1729725288"
             },
-            "thomasjosif-test": {
-                "buildid": "15659557",
-                "pwdrequired": "1",
-                "timeupdated": "1726029652"
+            "halloween-earlyaccess": {
+                "buildid": "16142306",
+                "description": "Early Halloween build access for server modders.",
+                "timeupdated": "1729647870"
+            },
+            "pluginapi-beta": {
+                "buildid": "12081119",
+                "description": "Plugin API staging branch",
+                "timeupdated": "1693593482"
+            },
+            "early-server-build": {
+                "buildid": "16142306",
+                "description": "Access to server builds before clients release",
+                "timeupdated": "1729647883"
+            },
+            "experimental": {
+                "buildid": "14562752",
+                "description": "Experimental branch for early testing and public development purposes",
+                "timeupdated": "1717183209"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 25881642,
-    "_sha": "9b2fd3ab1d50a6b03490faec47f3d3e0dd08cfd3",
+    "_change_number": 25881871,
+    "_sha": "19d4370d7eff8c36acf052574a3132c51a197fb3",
     "_size": 7777
 }
