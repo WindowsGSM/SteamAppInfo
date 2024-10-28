@@ -346,7 +346,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "117_main 117_shadtest closed_beta_test 201_test external_playtest current tencent_playtest"
+                    "betakey": "117_main 117_shadtest closed_beta_test 201_test external_playtest current tencent_playtest internal_playtest"
                 },
                 "description_loc": {
                     "english": "alpha_pt"
@@ -590,6 +590,11 @@
                     "size": "81BDDCD8AEAED3DBE77C5E9945AB11C6",
                     "download": "567DA9487AB7E5C23A675E0600D746C6"
                 },
+                "internal_playtest": {
+                    "gid": "A6CF527822A0386EDCEB1A036CD23A47",
+                    "size": "18687E2E6BC47E22442F32C62F87046F",
+                    "download": "C1759DF20927BE8AA5FC1796CC41F4F5"
+                },
                 "latest": {
                     "gid": "56109D4A32E6A95B8D3DA795E131769B",
                     "size": "E1CAEF7A6ABF2F4AC04DEA2D909E63B7",
@@ -719,6 +724,11 @@
                     "gid": "BF181609681192B3342D98AD89A69FF3",
                     "size": "EF16F035B2FB39B39964B4A9C57793C1",
                     "download": "69420040302A60AAA6E82E9DBA645001"
+                },
+                "internal_playtest": {
+                    "gid": "12763C7BB5DD740982C09001EBC71A4C",
+                    "size": "44D536AE6C61A9BCF6AF9E3BADE08737",
+                    "download": "16670DB32014F86606F174FEF42A443B"
                 },
                 "latest": {
                     "gid": "97652188F42A57C29E9D91554F07E105",
@@ -850,6 +860,11 @@
                     "size": "8932EB161E625AFAC77025D060BA4956",
                     "download": "85F32091F9F7A984F10E4BF55961F38C"
                 },
+                "internal_playtest": {
+                    "gid": "5726AB10C229E9FD0E9E7ACD35B67FED",
+                    "size": "4AE0BDDEFC2109D4BF602D9F787D2B05",
+                    "download": "66444075D7DC9C10C86427F91D49D2E7"
+                },
                 "latest": {
                     "gid": "1DCD0F5D919E9F24EAE5A8763B3D169F",
                     "size": "9E7C2A5A02A5FC72CAA2B69FBD3A86F0",
@@ -980,6 +995,11 @@
                     "size": "4AF44011B4277C7D1553C7D7D9A3F8A6",
                     "download": "4AF44011B4277C7D1553C7D7D9A3F8A6"
                 },
+                "internal_playtest": {
+                    "gid": "6F0FBFAEACDDB8BFCDD3E704B0862C36",
+                    "size": "FC984C084760497976E438A041913B7A",
+                    "download": "FC984C084760497976E438A041913B7A"
+                },
                 "latest": {
                     "gid": "C091CA544879CC3B65DD35D50ADD0586",
                     "size": "8B17FFA7D78F55908B9538F784D3F1F6",
@@ -1102,6 +1122,11 @@
                 "pwdrequired": "1",
                 "timeupdated": "1720869669"
             },
+            "internal_playtest": {
+                "buildid": "16202227",
+                "pwdrequired": "1",
+                "timeupdated": "1730108139"
+            },
             "latest": {
                 "buildid": "16203669",
                 "pwdrequired": "1",
@@ -1150,7 +1175,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 25927763,
-    "_sha": "533e9307a0228f512e52c1c44f488ea2d929b397",
-    "_size": 33363
+    "_change_number": 25928173,
+    "_sha": "801ba6daf8b0be16e41854da7884415b2aa81179",
+    "_size": 34227
 }
