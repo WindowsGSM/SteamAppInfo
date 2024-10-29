@@ -86,11 +86,6 @@
                     "size": "31027191",
                     "download": "10645600"
                 },
-                "beta": {
-                    "gid": "2561135692768219300",
-                    "size": "31027191",
-                    "download": "10645600"
-                },
                 "experimental": {
                     "gid": "2561135692768219300",
                     "size": "31027191",
@@ -190,6 +185,11 @@
                     "gid": "1162310969535756618",
                     "size": "30667580",
                     "download": "10570128"
+                },
+                "beta": {
+                    "gid": "4708524459142550882",
+                    "size": "31075812",
+                    "download": "10692496"
                 }
             },
             "encryptedmanifests": {
@@ -207,11 +207,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2044919680647048760",
-                    "size": "37189034",
-                    "download": "9429264"
-                },
-                "beta": {
                     "gid": "2044919680647048760",
                     "size": "37189034",
                     "download": "9429264"
@@ -315,6 +310,11 @@
                     "gid": "7071631943706385452",
                     "size": "35684669",
                     "download": "9087712"
+                },
+                "beta": {
+                    "gid": "2105687083672323987",
+                    "size": "37209039",
+                    "download": "9437872"
                 }
             },
             "encryptedmanifests": {
@@ -329,11 +329,6 @@
             "public": {
                 "buildid": "11782930",
                 "timeupdated": "1690291556"
-            },
-            "beta": {
-                "buildid": "11782930",
-                "description": "Public Beta",
-                "timeupdated": "1690291612"
             },
             "experimental": {
                 "buildid": "11782930",
@@ -419,6 +414,11 @@
                 "description": "ov",
                 "timeupdated": "1664008976"
             },
+            "beta": {
+                "buildid": "16207541",
+                "description": "Public Beta",
+                "timeupdated": "1730171011"
+            },
             "development": {
                 "buildid": "16207541",
                 "pwdrequired": "1",
@@ -427,7 +427,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 25933318,
-    "_sha": "e792b05ca95147bf4124e4f44386316321620ed6",
+    "_change_number": 25943186,
+    "_sha": "145651eae869de71dbe5197de9b2eee7c002c21c",
     "_size": 9567
 }
