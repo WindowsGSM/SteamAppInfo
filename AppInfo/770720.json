@@ -346,7 +346,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "closed_beta_test 201_test external_playtest current tencent_playtest internal_playtest"
+                    "betakey": "closed_beta_test 201_test external_playtest current tencent_playtest internal_playtest navmesh"
                 },
                 "description_loc": {
                     "english": "alpha_pt"
@@ -610,6 +610,11 @@
                     "size": "F94533BBEA781845A4940BDCF1A3ABD2",
                     "download": "F83BF8B3C3A2195A394A52AFB544DFF8"
                 },
+                "navmesh": {
+                    "gid": "F32587730F05A8664E4FF3E54D15A3D3",
+                    "size": "6A5D27192690BD7FF406335C9EA4F2D3",
+                    "download": "799072E127EC9C514D38A146DE94FEED"
+                },
                 "qa_testroom": {
                     "gid": "4AC62BA1BB54E4EA0F38F8BBC7EA0BAB",
                     "size": "F528FB537D05838C43F275DA97D23B6A",
@@ -739,6 +744,11 @@
                     "gid": "9ABF6F3994A24F315C29942D867C7F4B",
                     "size": "6C12F5A570FE1722BD141DF661299444",
                     "download": "5C9FA81DB9DD17BA13E7ABF613D421AC"
+                },
+                "navmesh": {
+                    "gid": "117E0317DFFA52ED96F4F304AB1024E7",
+                    "size": "C222C748F80CDEEB961A825C430D159C",
+                    "download": "92015B6FB4498B3BC3557F44A4A17382"
                 },
                 "qa_testroom": {
                     "gid": "289DF19955E0CE54F8C7BA9D9DA91BBF",
@@ -870,6 +880,11 @@
                     "size": "16C88391A4FFCA9F3F66B249E596ACC8",
                     "download": "2661FDB1A1035D637F8AF46B633328A4"
                 },
+                "navmesh": {
+                    "gid": "25559EFBF597A95E7E5731D526AA8F1D",
+                    "size": "B9E7BEF5181D70435B6286483B7E9FF2",
+                    "download": "8E1DA215E8D4DBDE66B162EF7A050C6E"
+                },
                 "qa_testroom": {
                     "gid": "46C5C5EA66080B95F58827B5F19AB50A",
                     "size": "D6515EBEC77953DC76BEBE54258DC62B",
@@ -1000,6 +1015,11 @@
                     "size": "DADC74B1D11C7A0D372E3FC189F3861E",
                     "download": "DADC74B1D11C7A0D372E3FC189F3861E"
                 },
+                "navmesh": {
+                    "gid": "5659DEE5FBC98ECB516E9C7BA9E52936",
+                    "size": "FC856DA7D34810F9C6A3F6CEA4E8904E",
+                    "download": "FC856DA7D34810F9C6A3F6CEA4E8904E"
+                },
                 "qa_testroom": {
                     "gid": "F09F7E6BE447D6D4239B8B3D2F5742B0",
                     "size": "D5035BBD8FB1259BAF1B79895E6F73FC",
@@ -1122,6 +1142,11 @@
                 "pwdrequired": "1",
                 "timeupdated": "1728309781"
             },
+            "navmesh": {
+                "buildid": "16310021",
+                "pwdrequired": "1",
+                "timeupdated": "1730888004"
+            },
             "qa_testroom": {
                 "buildid": "16297368",
                 "pwdrequired": "1",
@@ -1150,7 +1175,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 26066530,
-    "_sha": "b61ae43ad20d3bfa2390d8063997bee7a36102dd",
-    "_size": 33363
+    "_change_number": 26069618,
+    "_sha": "88827637dc8543be0278b079aa9eefc14abbc8a1",
+    "_size": 34167
 }
