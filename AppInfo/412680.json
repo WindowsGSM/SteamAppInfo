@@ -69,6 +69,11 @@
                     "gid": "7634415400121569693",
                     "size": "942433156",
                     "download": "724245984"
+                },
+                "qa-test": {
+                    "gid": "5352302241078150073",
+                    "size": "3585323949",
+                    "download": "1237752160"
                 }
             },
             "encryptedmanifests": {
@@ -117,11 +122,6 @@
                     "size": "504DE097A4196B6D07D0EB9AFE1C0D75",
                     "download": "E07D380E66C69108DD7F1AE2054BC794"
                 },
-                "qa-test": {
-                    "gid": "1FEF7FC32415420B79848D85FDB249D0",
-                    "size": "8130154BC1AE9520C5C3746528105C68",
-                    "download": "D7D194EA9942951A6521D543EF2873BA"
-                },
                 "stress-test": {
                     "gid": "31B42798D17A33ADDDC949F6065A552F",
                     "size": "5D6DC4975BDC2D0DE1F37414B2882DD2",
@@ -143,6 +143,11 @@
                     "gid": "8843792720460170649",
                     "size": "826369688",
                     "download": "589808336"
+                },
+                "qa-test": {
+                    "gid": "2958680849621846886",
+                    "size": "6536880568",
+                    "download": "1375081968"
                 }
             },
             "encryptedmanifests": {
@@ -162,9 +167,9 @@
                     "download": "F84E26D2CADFAA4120D00A3946CE7A58"
                 },
                 "qa-debug": {
-                    "gid": "3A3B9415170180A203250DE3EE7A88BB",
-                    "size": "821C8420E54CB851F73770DB060D6CDE",
-                    "download": "C3312423220D5E15BDD9F6AC2D143454"
+                    "gid": "7654DF05D7D693ECC2937DBA3131450C",
+                    "size": "25B7F333997807AE7100CE156CBCB4DC",
+                    "download": "779C589604969D4B41F4164117E4637F"
                 },
                 "qa-debug-h": {
                     "gid": "EE085F94CAE36398A06B2B9623A4AC48",
@@ -190,11 +195,6 @@
                     "gid": "A6E3F25E0544D3F6AC0298009C166F8C",
                     "size": "2A1C50DF8B4F1ECAAB97DC0CEF004AF2",
                     "download": "647FBDF335EA7BFE0EA3EAEEEFC3DB72"
-                },
-                "qa-test": {
-                    "gid": "053D1214DCC60C41A3EB9EDCE2D7D599",
-                    "size": "CFEDBE4F45069FA0D07FD3F792C583E4",
-                    "download": "EF44D55F544337399F8B9B64977E3092"
                 },
                 "stress-test": {
                     "gid": "E8EFE0A7B22C6F39FD1529DA4F7FBEE2",
@@ -244,9 +244,9 @@
                 "timeupdated": "1714710407"
             },
             "qa-debug": {
-                "buildid": "16411768",
+                "buildid": "16377386",
                 "pwdrequired": "1",
-                "timeupdated": "1731621346"
+                "timeupdated": "1731622970"
             },
             "qa-debug-h": {
                 "buildid": "16322370",
@@ -275,7 +275,7 @@
             },
             "qa-test": {
                 "buildid": "16411768",
-                "pwdrequired": "1",
+                "description": "qa",
                 "timeupdated": "1731621772"
             },
             "stress-test": {
@@ -286,7 +286,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 26201241,
-    "_sha": "87a0d5f3672abafd3ba54662574da00aff38310e",
-    "_size": 7734
+    "_change_number": 26201446,
+    "_sha": "93410eb6fc93ac3d47e6c0844a49c4ffba7af5e0",
+    "_size": 7621
 }
