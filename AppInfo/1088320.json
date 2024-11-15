@@ -13,6 +13,7 @@
         "clienttga": "1cf55d3689fa3a5cbef3cb3e5aba74515d405821",
         "linuxclienticon": "dbaf8487e2db8f2bcfa6ab87abd97c0d7cc79bb6",
         "releasestate": "released",
+        "restricted_countries": "DE",
         "associations": {},
         "gameid": "1088320",
         "exfgls": "9"
@@ -103,9 +104,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2829171575428731009",
-                    "size": "2432133507",
-                    "download": "1852333680"
+                    "gid": "4171214487131752656",
+                    "size": "2432830830",
+                    "download": "1853082304"
                 }
             },
             "encryptedmanifests": {
@@ -120,9 +121,9 @@
                     "download": "FD452318AFD4CA1EA54C72037888167C"
                 },
                 "upload": {
-                    "gid": "FFCB0B23DB84B6DC8150ADA10DE41C12",
-                    "size": "E22A0DAD856DA81065EC4ECD9DFFFD6E",
-                    "download": "FD461E16FFEDFB5538D7FF9F55AE27A8"
+                    "gid": "170D35376E162B2662BE90887DEFA945",
+                    "size": "0BB5161FA96085F62189D891E9411566",
+                    "download": "4728B8514F04C58C6D6FFB2328A024F7"
                 }
             }
         },
@@ -134,9 +135,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6243716455071661115",
-                    "size": "4650055082",
-                    "download": "2170467344"
+                    "gid": "1146374309280592678",
+                    "size": "4650646376",
+                    "download": "2171233040"
                 }
             },
             "encryptedmanifests": {
@@ -151,16 +152,16 @@
                     "download": "3B04CCC04204CBFBF7A350D1FC985E4E"
                 },
                 "upload": {
-                    "gid": "BB5D15814C7547DE606CB1A3528C76EB",
-                    "size": "C54CF0717F8BD5A37F6FD21AEA1E6F81",
-                    "download": "15A03ABE9C3D2413175B5026053E6FD8"
+                    "gid": "FA9250F6ED0D024DD2CA8604E0B5D9AF",
+                    "size": "35DD952DEE7A3F15FC49E62FD445C4BB",
+                    "download": "3016D4A137BFCC4B6A0C6E6416D1F542"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "16370848",
-                "timeupdated": "1731362277"
+                "buildid": "16424301",
+                "timeupdated": "1731696025"
             },
             "test": {
                 "buildid": "16370136",
@@ -173,14 +174,14 @@
                 "timeupdated": "1727965917"
             },
             "upload": {
-                "buildid": "16370790",
+                "buildid": "16424301",
                 "pwdrequired": "1",
-                "timeupdated": "1731361835"
+                "timeupdated": "1731695785"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 26148749,
-    "_sha": "cc74bc42b76a43a5044c7c58000d72cdda1030cc",
-    "_size": 3929
+    "_change_number": 26217631,
+    "_sha": "63376c40a51a961a18b908a3bedebead3a665c86",
+    "_size": 3960
 }
