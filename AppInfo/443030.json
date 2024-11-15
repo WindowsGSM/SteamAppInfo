@@ -7,6 +7,7 @@
         "osarch": "64",
         "releasestate": "released",
         "freetodownload": "1",
+        "restricted_countries": "DE",
         "associations": {},
         "gameid": "443030"
     },
@@ -162,9 +163,9 @@
                     "download": "F77BC7665C04E105BE38865C85B49DE3"
                 },
                 "nightly-stable": {
-                    "gid": "5C6FAB5260E8340D3BDA42032B889719",
-                    "size": "84A10CD336ED3483B954DCE6B790BE4F",
-                    "download": "CBE8A81FD3CB0460813B945A05C8A958"
+                    "gid": "D28F7A326ABFA2DD9BC856B50308A140",
+                    "size": "9376A00951178F880C9C2AD1C52F38AA",
+                    "download": "EE9775C10DE92CB4C3E70D94EE5BDEA1"
                 },
                 "nightly-test": {
                     "gid": "08EBD8FC397A40BE4DEE5151EE32FFA3",
@@ -354,9 +355,9 @@
                 "timeupdated": "1729605673"
             },
             "nightly-stable": {
-                "buildid": "16412923",
+                "buildid": "16426878",
                 "pwdrequired": "1",
-                "timeupdated": "1731628214"
+                "timeupdated": "1731714530"
             },
             "nightly-test": {
                 "buildid": "16415318",
@@ -391,7 +392,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 26213028,
-    "_sha": "837c11a32cc1c14d787c1d67f6de704082b47cb0",
-    "_size": 10293
+    "_change_number": 26221198,
+    "_sha": "5776766b92c9b2b193acce83a3bd753cd1769340",
+    "_size": 10324
 }
