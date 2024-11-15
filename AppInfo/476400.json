@@ -39,7 +39,6 @@
         }
     },
     "depots": {
-        "baselanguages": "english",
         "1004": {
             "config": {
                 "oslist": "windows"
@@ -79,21 +78,28 @@
             },
             "depotfromapp": "1007"
         },
-        "228986": {
+        "228983": {
             "config": {
                 "oslist": "windows"
             },
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
-        "228987": {
+        "228984": {
             "config": {
                 "oslist": "windows"
             },
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
-        "228988": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
             "config": {
                 "oslist": "windows"
             },
@@ -114,6 +120,21 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
         "476401": {
             "manifests": {
                 "public": {
@@ -189,7 +210,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 26208132,
-    "_sha": "af51cf38126a717df3b6d5337e9ace6e841f94bb",
-    "_size": 4210
+    "_change_number": 26212150,
+    "_sha": "e860934bb087178ba6815f1e0d66e6af66fcaedd",
+    "_size": 4561
 }
