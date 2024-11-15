@@ -75,11 +75,6 @@
                     "size": "2761465898",
                     "download": "2085396528"
                 },
-                "previous": {
-                    "gid": "7174436011351066746",
-                    "size": "2743917021",
-                    "download": "2082263856"
-                },
                 "beta": {
                     "gid": "1349968662063837275",
                     "size": "1115046203",
@@ -89,6 +84,11 @@
                     "gid": "2874601712976274731",
                     "size": "1075354563",
                     "download": "594474944"
+                },
+                "previous": {
+                    "gid": "5709407333810071175",
+                    "size": "1069964533",
+                    "download": "594834064"
                 }
             }
         },
@@ -113,11 +113,6 @@
                     "size": "2735017251",
                     "download": "2077799264"
                 },
-                "previous": {
-                    "gid": "2070487081457163010",
-                    "size": "2720783582",
-                    "download": "2075215584"
-                },
                 "beta": {
                     "gid": "4065441692112622053",
                     "size": "1087450420",
@@ -127,6 +122,11 @@
                     "gid": "7602852431760000048",
                     "size": "1047792748",
                     "download": "586530912"
+                },
+                "previous": {
+                    "gid": "7489877987184250956",
+                    "size": "1042394286",
+                    "download": "586824112"
                 }
             }
         },
@@ -145,10 +145,6 @@
                 "description": "Pre-rocket refactor update",
                 "timeupdated": "1702360982"
             },
-            "previous": {
-                "buildid": "11427657",
-                "timeupdated": "1689829236"
-            },
             "beta": {
                 "buildid": "16413887",
                 "description": "beta branch",
@@ -158,11 +154,15 @@
                 "buildid": "15643481",
                 "description": "Pre-terrain rework update",
                 "timeupdated": "1726440881"
+            },
+            "previous": {
+                "buildid": "16209219",
+                "timeupdated": "1731652659"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 26204340,
-    "_sha": "82ad43cf9ad16ba7408e3397f68b47c187d30d8d",
-    "_size": 3636
+    "_change_number": 26206708,
+    "_sha": "693adbf10d47c8e3f055090e84578e6af2d30112",
+    "_size": 3634
 }
