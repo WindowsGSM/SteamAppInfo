@@ -39,6 +39,7 @@
         }
     },
     "depots": {
+        "baselanguages": "english",
         "1004": {
             "config": {
                 "oslist": "windows"
@@ -134,7 +135,6 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
-        "baselanguages": "english",
         "476401": {
             "manifests": {
                 "public": {
@@ -155,35 +155,9 @@
                     "download": "2B734902B5C8D2FA3DAB2EEDFDD3B480"
                 },
                 "devtest": {
-                    "gid": "96677890F8343A3240A1E50B6FA99A9B",
+                    "gid": "EFC7CEA059D073D64BE91612D060DB0E",
                     "size": "0004A506B2501DCAFD3EC806FD2F50DA",
-                    "download": "4E165198A1062C19F70C1AB53F67A87D"
-                }
-            }
-        },
-        "476403": {
-            "manifests": {
-                "public": {
-                    "gid": "2004275097551322084",
-                    "size": "3781155649",
-                    "download": "1390732848"
-                }
-            },
-            "encryptedmanifests": {
-                "1035": {
-                    "gid": "6EC16F5D44327BD124E18122A7F974CE",
-                    "size": "E053BAB9D10D6284716B16D72F8AF999",
-                    "download": "6ABD3F15093E746D87584F5D8D573255"
-                },
-                "communitytest-ds": {
-                    "gid": "464EF47B1569429ED29F33450990A609",
-                    "size": "1B005DCC230A9768FDCECB2B62753704",
-                    "download": "966099A417D817D6721A57B4F9A086D2"
-                },
-                "devtest": {
-                    "gid": "CD55247E4756CC60CA2408572A08EE76",
-                    "size": "60CAA8483449B24C184AF14F7934D3E3",
-                    "download": "132E49575EBEBFB78DA379E8F99C4AA3"
+                    "download": "AD151C3E2E2B99915369D7A165DE8A08"
                 }
             }
         },
@@ -203,14 +177,14 @@
                 "timeupdated": "1710518130"
             },
             "devtest": {
-                "buildid": "16443573",
+                "buildid": "16444009",
                 "pwdrequired": "1",
-                "timeupdated": "1731930619"
+                "timeupdated": "1731933182"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 26243529,
-    "_sha": "f1454a3b6e78f7bbc0b95eb41ed0d7c1b697a1f5",
-    "_size": 4561
+    "_change_number": 26244068,
+    "_sha": "16a460cf20f7911e4865b061f34230c3b30fa18e",
+    "_size": 3843
 }
