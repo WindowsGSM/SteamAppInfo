@@ -306,7 +306,7 @@
                 "description": "externalnv"
             },
             "41": {
-                "executable": "hunt.exe",
+                "executable": "bin\\win_x64\\HuntGame.exe",
                 "arguments": "+online_account_client_settings blah -online_server capi-daily-main.huntshowdown.com -online_server_port 61089 ",
                 "type": "option1",
                 "config": {
@@ -596,9 +596,9 @@
                     "download": "C9D1C9BA059C03CB15711BCE45B95A95"
                 },
                 "lionbridge_qa": {
-                    "gid": "5033E9F4C752ED688834FD52BFF03D4A",
-                    "size": "39E9948CE4509E2E87CD179B353D56CC",
-                    "download": "AA8909DCE5F0E33306A89EC7A6A528D4"
+                    "gid": "1B0744CB4421E58CE73874CD9F8ED529",
+                    "size": "E387F0ED4116A8BD0ACF2AE8BC0A2815",
+                    "download": "4523B2367BAF3BF2788EEEB2B31456F5"
                 },
                 "m1_test": {
                     "gid": "8A6678F85D7342D1C76136C5A8053DFF",
@@ -731,9 +731,9 @@
                     "download": "8BF489E136A291DFE5A67AF3E6EE3910"
                 },
                 "lionbridge_qa": {
-                    "gid": "BC1430C681C265A49F83307FF53E4645",
-                    "size": "B9795AF17118E6934540F2E8702A3CE5",
-                    "download": "F1B662FEB8971C8A785D96FF76881EC4"
+                    "gid": "8EB3E2B621EA4591A536FA8F5D31943A",
+                    "size": "ADDA04A4F18C49AFE4A7A7C4374F54BA",
+                    "download": "983EB5BA14643618E85ADCB790FB2949"
                 },
                 "m1_test": {
                     "gid": "3E383ADDAC37B8D73498735F48730200",
@@ -866,9 +866,9 @@
                     "download": "C38384A993C60CA18C04EF30A1C05980"
                 },
                 "lionbridge_qa": {
-                    "gid": "A71CD9F2206C9E755731C0FC09B24B6D",
+                    "gid": "639BFF771C61DC464B6C93E4EECF011C",
                     "size": "174B6DA895BC63B30ADE04A981231357",
-                    "download": "47D511B3064596C346EEE506BEF583B8"
+                    "download": "ABF38F1E30E838491542919726AB5045"
                 },
                 "m1_test": {
                     "gid": "8DA29D640F489AE4947B0BDB895E7827",
@@ -1128,9 +1128,9 @@
                 "timeupdated": "1731798935"
             },
             "lionbridge_qa": {
-                "buildid": "16372833",
+                "buildid": "16414057",
                 "pwdrequired": "1",
-                "timeupdated": "1731406152"
+                "timeupdated": "1731918637"
             },
             "m1_test": {
                 "buildid": "15326370",
@@ -1175,7 +1175,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 26240582,
-    "_sha": "923fc90307ebcfea316d7978bff2d06412deedff",
-    "_size": 34167
+    "_change_number": 26240824,
+    "_sha": "87bde0aa7c2c1bdb0975bddfca25bd2116c5c11d",
+    "_size": 34185
 }
