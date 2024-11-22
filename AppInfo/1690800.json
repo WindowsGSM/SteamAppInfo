@@ -94,11 +94,6 @@
                 }
             },
             "encryptedmanifests": {
-                "default-cheats": {
-                    "gid": "EB88A2372CA5BFAF1A5DB90E896CB0B5",
-                    "size": "0360DDAEE4907D8951F40D82DB65DB37",
-                    "download": "71ABD1A593D1B4C4A86DCE619ECE0069"
-                },
                 "epic": {
                     "gid": "0CC0A3B3B394A6930420DEA3393F2EFD",
                     "size": "A88FC3B449EA58D0D9BFAA4565FB213C",
@@ -113,6 +108,11 @@
                     "gid": "3BE7FA5F96FC800A2314CA12C26BB8E2",
                     "size": "1E4F1F55DE8C275674E330DAB668472B",
                     "download": "68307D139DB3CB83DA00E84074DDA541"
+                },
+                "default-cheats": {
+                    "gid": "BE7A7A61AA08D2F3ECEA27D6AFD8553B",
+                    "size": "3C5F4834A5EDAE18D971E3AEB68B539D",
+                    "download": "1ADD83991EA6E0688E131195EA18FF2B"
                 },
                 "internal": {
                     "gid": "6F0FA361AAE8AA616429EFB3ACC3F9B8",
@@ -208,11 +208,6 @@
                 }
             },
             "encryptedmanifests": {
-                "default-cheats": {
-                    "gid": "3EF84EED2D7FE1575968211A9E1DEE1F",
-                    "size": "4D434BE8CF5F761DF59DCAF74BEF52EB",
-                    "download": "5CA9DB2C8026A243268A3807442F6291"
-                },
                 "epic": {
                     "gid": "45C2565EE9237D189F00B31D5EA895CD",
                     "size": "992E33D353FF787254A7E602AA4ACFC9",
@@ -227,6 +222,11 @@
                     "gid": "785EF0A4E0203E4800900A951E96E85E",
                     "size": "0691FA72CBFABA86284CB5F78B0E868C",
                     "download": "2A25922A1CFE093E6B3BADA521BB59E3"
+                },
+                "default-cheats": {
+                    "gid": "CFBD45C7CA7A64F7F0ECAD87B5A2597A",
+                    "size": "57EAE3FF40B76C06A742CD46C45FE8A0",
+                    "download": "9348DAEBBAF800727A5528BA44FED32E"
                 },
                 "internal": {
                     "gid": "64F83B820D118AF545FC82AC2E1F40B7",
@@ -310,11 +310,6 @@
                 "buildid": "16393186",
                 "timeupdated": "1731602031"
             },
-            "default-cheats": {
-                "buildid": "10593110",
-                "pwdrequired": "1",
-                "timeupdated": "1677071669"
-            },
             "epic": {
                 "buildid": "12629664",
                 "pwdrequired": "1",
@@ -329,6 +324,11 @@
                 "buildid": "11678712",
                 "pwdrequired": "1",
                 "timeupdated": "1689114585"
+            },
+            "default-cheats": {
+                "buildid": "12929915",
+                "pwdrequired": "1",
+                "timeupdated": "1732273819"
             },
             "experimental": {
                 "buildid": "16393186",
@@ -412,7 +412,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 26309171,
-    "_sha": "ef9b37ec61c15b41286da4f95e525a261bdd858c",
+    "_change_number": 26315500,
+    "_sha": "cbb5413564b9ff4cd463714f375b05b67b55af20",
     "_size": 11245
 }
