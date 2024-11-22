@@ -480,6 +480,20 @@
                     "english": "eac_pgo_use"
                 },
                 "description": "eac_pgo_use"
+            },
+            "60": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings xyz -online_server capi-daily-main-asia.huntshowdown.com -online_server_port 61092",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "grac_ratings"
+                },
+                "description_loc": {
+                    "english": "grac_ratings"
+                },
+                "description": "grac_ratings"
             }
         },
         "uselaunchcommandline": "1"
@@ -1182,7 +1196,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 26320064,
-    "_sha": "3aef35ecdcf5df91cc629b2fa29aa364cb64df1d",
-    "_size": 34283
+    "_change_number": 26320190,
+    "_sha": "173ebfeb474d427fefb8feb6d344cae1fd9e826f",
+    "_size": 34686
 }
