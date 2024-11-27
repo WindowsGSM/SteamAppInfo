@@ -483,8 +483,8 @@
             },
             "60": {
                 "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings yxz -online_server capi-stgdes-asia.huntshowdown.com-online_server_port 61088  ",
-                "type": "default",
+                "arguments": "+online_account_client_settings stage",
+                "type": "option1",
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
@@ -1196,7 +1196,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 26382632,
-    "_sha": "d56224fe0a837c70cb6b47c360031cb7d144853d",
-    "_size": 34671
+    "_change_number": 26382702,
+    "_sha": "bed1618fbe73e20e23d80776c858ae7305fdaa4d",
+    "_size": 34597
 }
