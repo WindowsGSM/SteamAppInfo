@@ -65,19 +65,14 @@
         "1863441": {
             "manifests": {
                 "public": {
-                    "gid": "8207171899938311470",
-                    "size": "2799307533",
-                    "download": "1588422304"
+                    "gid": "7213132082777869062",
+                    "size": "2792094952",
+                    "download": "1588423440"
                 },
-                "beta": {
-                    "gid": "8289181221596438742",
-                    "size": "2488136964",
-                    "download": "1581734752"
-                },
-                "v1.2.11": {
-                    "gid": "8207171899938311470",
-                    "size": "2799307533",
-                    "download": "1588422304"
+                "v1.2.12": {
+                    "gid": "7213132082777869062",
+                    "size": "2792094952",
+                    "download": "1588423440"
                 }
             },
             "encryptedmanifests": {
@@ -105,8 +100,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "15491413",
-                "timeupdated": "1731573340"
+                "buildid": "16599204",
+                "timeupdated": "1733138979"
             },
             "community.server.test": {
                 "buildid": "9827894",
@@ -118,11 +113,6 @@
                 "pwdrequired": "1",
                 "timeupdated": "1670938954"
             },
-            "beta": {
-                "buildid": "15164372",
-                "description": "beta",
-                "timeupdated": "1722007251"
-            },
             "internal.test.a": {
                 "buildid": "15491413",
                 "pwdrequired": "1",
@@ -133,15 +123,15 @@
                 "pwdrequired": "1",
                 "timeupdated": "1733134693"
             },
-            "v1.2.11": {
-                "buildid": "15491413",
-                "description": "Beta v1.2.11",
-                "timeupdated": "1731573359"
+            "v1.2.12": {
+                "buildid": "16599204",
+                "description": "v1.2.12",
+                "timeupdated": "1733139068"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 26450576,
-    "_sha": "f196df950807a313762f07d356b88cf612395cc4",
-    "_size": 3422
+    "_change_number": 26451465,
+    "_sha": "c2d95f9eecd16c498d53eddf0cbfcde876c0d189",
+    "_size": 3200
 }
