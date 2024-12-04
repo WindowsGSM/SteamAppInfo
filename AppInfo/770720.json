@@ -245,7 +245,7 @@
             },
             "34": {
                 "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings xyz  -online_server capi-cnbeta-eu.huntshowdown.com -online_server_port 61090",
+                "arguments": "+online_account_client_settings dailymain",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -284,20 +284,6 @@
                     "english": "PCSTAGE"
                 },
                 "description": "PCSTAGE"
-            },
-            "38": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stagealpha +sys_dump_type 2",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "ui_3.0"
-                },
-                "description_loc": {
-                    "english": "ui_3.0"
-                },
-                "description": "ui_3.0"
             },
             "40": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
@@ -631,9 +617,9 @@
                     "download": "2E67BA3D501A992C43C555AC0DD8BDE5"
                 },
                 "mkt_recording": {
-                    "gid": "F85285B92A5F9626264B01C48FE13834",
-                    "size": "A73A71FBEADEF03C75C86101E1CC1AF0",
-                    "download": "805C5F5236133040451B38979C04124C"
+                    "gid": "47C4B2AF93354E954E563788777514D9",
+                    "size": "533880B5F5CE23FAF66AACD751C79C19",
+                    "download": "EA482752796C36660C06239DB3033288"
                 },
                 "qa_testroom": {
                     "gid": "ABF69F23CFDFC4FDAAF153894FFA7D05",
@@ -751,9 +737,9 @@
                     "download": "B0CDEE7AA4E8193E547AE738F8DD4AAD"
                 },
                 "mkt_recording": {
-                    "gid": "C1F1D7C03070C6FB66D4E1109B5CFD33",
-                    "size": "6A1D0D78327B4DB504BBCE5B215B01EB",
-                    "download": "A4139778481C7DBC862BBF9B4CDE6A68"
+                    "gid": "DC3CD17598E5CC9DF736390E9187A195",
+                    "size": "D7200F9AC28C6D9419CEA50982D8D486",
+                    "download": "A0DD0EBE99990A8B00DF069245891361"
                 },
                 "qa_testroom": {
                     "gid": "E528B25CD310772C6B0F5BFE42E776C6",
@@ -871,9 +857,9 @@
                     "download": "FDA8744D96D3FD8192B8B7CB08A19306"
                 },
                 "mkt_recording": {
-                    "gid": "F04291BF37BDCFA24FDAE05C796927F7",
-                    "size": "BF354C02C49362C36A0A0A1F9C1C1364",
-                    "download": "44D68F847F353081AEA4242D1B8AF2E1"
+                    "gid": "67EDFF824CE13FCDC57F2F072703DEE3",
+                    "size": "6407DD175C3975D79E33D2546403A8FC",
+                    "download": "040F36457C6FC8D824DAA9DF80E29C64"
                 },
                 "qa_testroom": {
                     "gid": "56D79A0160BD1EA0199897EFCEE4BB97",
@@ -1103,9 +1089,9 @@
                 "timeupdated": "1733309929"
             },
             "mkt_recording": {
-                "buildid": "16537898",
+                "buildid": "16627829",
                 "pwdrequired": "1",
-                "timeupdated": "1732693351"
+                "timeupdated": "1733343813"
             },
             "qa_testroom": {
                 "buildid": "16627829",
@@ -1135,7 +1121,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 26490791,
-    "_sha": "620d998868bdfbc610e74e554ccc0aa1880bf5ab",
-    "_size": 32686
+    "_change_number": 26495774,
+    "_sha": "644bf55f460089ff5c2c62625223f3ee9c39dbb8",
+    "_size": 32270
 }
