@@ -36,6 +36,13 @@
                     "size": "1720774032",
                     "download": "774557648"
                 }
+            },
+            "encryptedmanifests": {
+                "frog": {
+                    "gid": "69478C8B8E5117B4545AD2D8879354F7",
+                    "size": "1C8638E8AE13486FAAF00431AD854C39",
+                    "download": "3C9121E33F45A22C66C8038B5AC6FB78"
+                }
             }
         },
         "232295": {
@@ -52,6 +59,13 @@
                     "gid": "9167847065259172248",
                     "size": "92169920",
                     "download": "32963824"
+                }
+            },
+            "encryptedmanifests": {
+                "frog": {
+                    "gid": "080F929BA190144832D61D167839BEA8",
+                    "size": "AE19161F180692EEF85750963A82ABF3",
+                    "download": "28AC02423A036645DDAAC12B5D84E604"
                 }
             }
         },
@@ -70,6 +84,13 @@
                     "size": "65848919",
                     "download": "17155056"
                 }
+            },
+            "encryptedmanifests": {
+                "frog": {
+                    "gid": "0D1D5D6A62C7BACDC02B77AC608CB45E",
+                    "size": "50DF8F45A9231E407080FFA529C1F13C",
+                    "download": "3481740F6F97160DB7FE31C972F251AA"
+                }
             }
         },
         "overridescddb": "1",
@@ -82,11 +103,16 @@
                 "buildid": "6936591",
                 "description": "Latest available build",
                 "timeupdated": "1625257971"
+            },
+            "frog": {
+                "buildid": "16715734",
+                "pwdrequired": "1",
+                "timeupdated": "1733973477"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 26374598,
-    "_sha": "7b7c58970daa468dcc7ce08debf562c526d5f9b6",
-    "_size": 1723
+    "_change_number": 26603984,
+    "_sha": "0c8fd648c88eda1163329eaf02096580c2502b3c",
+    "_size": 2436
 }

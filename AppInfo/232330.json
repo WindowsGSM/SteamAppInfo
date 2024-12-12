@@ -36,6 +36,13 @@
                     "size": "2229493575",
                     "download": "1092759440"
                 }
+            },
+            "encryptedmanifests": {
+                "frog": {
+                    "gid": "44F8A2DDBB5D77E95F81A7F1B75A5A04",
+                    "size": "52B5499C7DDF199C8EA028D130A502AC",
+                    "download": "584DD5616BFDA7C84E29E0C95AF8631A"
+                }
             }
         },
         "232335": {
@@ -52,6 +59,13 @@
                     "gid": "2005180106795533146",
                     "size": "92931776",
                     "download": "33253360"
+                }
+            },
+            "encryptedmanifests": {
+                "frog": {
+                    "gid": "845303E066653416148A85C01E684D38",
+                    "size": "76A231F3A852E286AF26FCDBEA122C43",
+                    "download": "D9F946EAEC8A13091D0527DE49AF821E"
                 }
             }
         },
@@ -70,6 +84,13 @@
                     "size": "67634043",
                     "download": "17652512"
                 }
+            },
+            "encryptedmanifests": {
+                "frog": {
+                    "gid": "E2E6720B3B4CF50F19B3E8C27C225979",
+                    "size": "6A3EFE123FA3267877FD6E9185D179F2",
+                    "download": "17F9F47AAB4BAE92227452EA6C317503"
+                }
             }
         },
         "overridescddb": "1",
@@ -82,11 +103,16 @@
                 "buildid": "6953255",
                 "description": "Latest available build",
                 "timeupdated": "1625257761"
+            },
+            "frog": {
+                "buildid": "16715743",
+                "pwdrequired": "1",
+                "timeupdated": "1733973476"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 26374598,
-    "_sha": "2661e01294398c71126443463e0c2f625209ec27",
-    "_size": 1725
+    "_change_number": 26603979,
+    "_sha": "8bf4e5d6cc851cdefd67d8893ffd29405dba07ef",
+    "_size": 2438
 }
