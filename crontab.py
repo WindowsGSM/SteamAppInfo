@@ -15,7 +15,7 @@ def main():
     branches = {}
 
     for app_id in app_ids:
-        if 'depots' not in infos[app_id]:
+        if 'depots' not in infos[app_id] or 'branches' not in infos[app_id]['depots']:
             continue
 
         branches[app_id] = infos[app_id]['depots']['branches']
