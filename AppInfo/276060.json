@@ -126,18 +126,6 @@
                     "download": "1351900912"
                 }
             },
-            "encryptedmanifests": {
-                "release_candidate": {
-                    "gid": "EC691BEF805D6E9143F3054F9CEFEF2D",
-                    "size": "9049B59260E549AA3D32AB9D244C4264",
-                    "download": "8C2B972165971B3BE2A5E55EE10AAF73"
-                },
-                "release_candidate_community": {
-                    "gid": "A80D0AC1DA8C7F1029C20EC83C0050AB",
-                    "size": "27F12EE31486C145A54CAD1E40E8CB29",
-                    "download": "0D0935E9018D6BED3C5C4381E3DF2EBC"
-                }
-            },
             "depotfromapp": "225840"
         },
         "276061": {
@@ -154,18 +142,6 @@
                     "gid": "4021068643738023678",
                     "size": "59568814",
                     "download": "22097936"
-                }
-            },
-            "encryptedmanifests": {
-                "release_candidate": {
-                    "gid": "55D0A39F0520C7A0B7FF7518D881C665",
-                    "size": "C57E11D7853DDA5682BDB18BE6C902E0",
-                    "download": "8FD9C1775EB6FB303638BFA6A6ADF043"
-                },
-                "release_candidate_community": {
-                    "gid": "EDA3E2C2126193561CCBBA9DA660EDBF",
-                    "size": "3EE6F7F444F66407205C3D4D67D5926C",
-                    "download": "54F4A5C230C3998C78B6863A7DE2ED33"
                 }
             }
         },
@@ -184,18 +160,6 @@
                     "size": "105013609",
                     "download": "28337712"
                 }
-            },
-            "encryptedmanifests": {
-                "release_candidate": {
-                    "gid": "0B2816F6912F1BEDACD2E59FCB6A00F3",
-                    "size": "73F1C134AB85EFBB7A20430B40C6613F",
-                    "download": "6A816602574C1A950359BA83A032B512"
-                },
-                "release_candidate_community": {
-                    "gid": "14F57780B9AFB81A65D57C672B4E89DF",
-                    "size": "7187C969249533776E24FC86B8E5956C",
-                    "download": "18E0E4D664FAABF9816DC7D78A28D8DB"
-                }
             }
         },
         "276063": {
@@ -213,18 +177,6 @@
                     "size": "8590180",
                     "download": "2618144"
                 }
-            },
-            "encryptedmanifests": {
-                "release_candidate": {
-                    "gid": "4A84A549302965C47753242359F49ADD",
-                    "size": "837EB08C26A2E22966344FA27AC286A1",
-                    "download": "480EE764ADA9E7792FD484FD00DEA1C7"
-                },
-                "release_candidate_community": {
-                    "gid": "0B98F9E04B899A4DED11A4864D3DE201",
-                    "size": "2A4230D46AD0C65F20EB51A440FC17CF",
-                    "download": "AD9BF34492965B4D3E2360326BC5D49C"
-                }
             }
         },
         "branches": {
@@ -232,25 +184,16 @@
                 "buildid": "16648738",
                 "timeupdated": "1733563437"
             },
-            "release_candidate": {
-                "buildid": "16648738",
-                "pwdrequired": "1",
-                "timeupdated": "1733432558"
-            },
-            "release_candidate_community": {
-                "buildid": "16648738",
-                "pwdrequired": "1",
-                "timeupdated": "1733432566"
-            },
             "release_candidate_public": {
                 "buildid": "16648738",
                 "description": "Release candidate (public)",
                 "timeupdated": "1733432577"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26540035,
-    "_sha": "a97a6e6bbb806b4843eee285453ab0583ba0dad4",
-    "_size": 5847
+    "_change_number": 27103756,
+    "_sha": "585ee0cb3b62c3de21c3e18eeae9a057d1e806a3",
+    "_size": 3994
 }

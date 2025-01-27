@@ -179,18 +179,6 @@
                     "size": "36830679",
                     "download": "5176528"
                 }
-            },
-            "encryptedmanifests": {
-                "server-dev": {
-                    "gid": "7946CD836852E89617CE13B07203B21D",
-                    "size": "6395C7D1BC1D78FC86D19664D3627928",
-                    "download": "ED702D1028D4692C194922F4D8AF55C2"
-                },
-                "internal-testing": {
-                    "gid": "CC5152289B92668AB5EFD804BA4CB324",
-                    "size": "9C87AEA30580C33841D0D663A2E6B3F9",
-                    "download": "F3D841993B7E09DC8397F06B29FFF708"
-                }
             }
         },
         "565062": {
@@ -288,18 +276,6 @@
                     "gid": "4449930068786716846",
                     "size": "39974173",
                     "download": "11531424"
-                }
-            },
-            "encryptedmanifests": {
-                "server-dev": {
-                    "gid": "793C4AD2996ECDAAD072204644A0617D",
-                    "size": "7FD300706CB857D73DB821E0ABEAB669",
-                    "download": "D2F00B8917BC46BF0FBEACF614C017F1"
-                },
-                "internal-testing": {
-                    "gid": "4875AB68F0AF472C964DB607E7E22B78",
-                    "size": "958769F092D5CA17260A23E69917A4EB",
-                    "download": "061BEA21E83867A7BC9FAC4EC6EA0B96"
                 }
             }
         },
@@ -399,18 +375,6 @@
                     "size": "71398345",
                     "download": "19478736"
                 }
-            },
-            "encryptedmanifests": {
-                "server-dev": {
-                    "gid": "28E55236ECC4C36C3E33D7C049886601",
-                    "size": "F3CE5FC760CF888CB2FD8D4F7880EB09",
-                    "download": "9991B3886D973069CD144398853C58C7"
-                },
-                "internal-testing": {
-                    "gid": "81527A61FE0B0CF76995DEA84875085A",
-                    "size": "DD1EE06CF83FB084E71CFC17D8D2E73F",
-                    "download": "62A5F605A7AC8529836EE4C10E6A24FE"
-                }
             }
         },
         "565064": {
@@ -509,18 +473,6 @@
                     "size": "52031036",
                     "download": "11817728"
                 }
-            },
-            "encryptedmanifests": {
-                "server-dev": {
-                    "gid": "2A06A40F6EB28D55A42446D3567B5648",
-                    "size": "3973A0F3AF62DF3E2D7DBF8FE4080791",
-                    "download": "0517EFEB413638FD68EF522CD60C9B06"
-                },
-                "internal-testing": {
-                    "gid": "A97C6BE2F8D97B20C9B055D7E7E0F990",
-                    "size": "60603DE41DBFEB2DD6863ABBCDA64A63",
-                    "download": "9936BA96A5A3194E73B3983BFD23C7EE"
-                }
             }
         },
         "branches": {
@@ -593,11 +545,6 @@
                 "description": "2.3.2 - New maintenance command & performance optimizations",
                 "timeupdated": "1701774450"
             },
-            "server-dev": {
-                "buildid": "6157678",
-                "pwdrequired": "1",
-                "timeupdated": "1611921035"
-            },
             "2.4.3": {
                 "buildid": "13518580",
                 "description": "2.4.3 - Behemoth DLC, World Bosses, Ship Mgt, AMD crash fix",
@@ -613,24 +560,20 @@
                 "description": "Beta Branch - Newest Changes & Experimental Features",
                 "timeupdated": "1734023924"
             },
-            "internal-testing": {
-                "buildid": "16724515",
-                "pwdrequired": "1",
-                "timeupdated": "1734023854"
-            },
             "previous": {
                 "buildid": "14719268",
                 "description": "Previous Build 2.5.2 - Will be disabled soon",
                 "timeupdated": "1733752577"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "ufs": {
         "quota": "100000000000",
         "maxnumfiles": "10000"
     },
     "_missing_token": false,
-    "_change_number": 26626000,
-    "_sha": "1b661639187439803d75d1d420f7d93664443a6f",
-    "_size": 14331
+    "_change_number": 27015870,
+    "_sha": "4455de6390eb0f255a9dc1cf7b4b3bf6f65a1a58",
+    "_size": 12569
 }

@@ -136,48 +136,6 @@
                     "size": "3285257322",
                     "download": "864720912"
                 }
-            },
-            "encryptedmanifests": {
-                "nighly_arm64": {
-                    "gid": "210881CDCC747DEF1A58D52308186623",
-                    "size": "DFBEAB39F61924703D171CD192A1F902",
-                    "download": "50AEEDEEEF51087873AD92E9842EB882"
-                },
-                "nighly_shack_arm64": {
-                    "gid": "029B858C9A1C4F82669D148C9A948E1D",
-                    "size": "ACAA9BFC0BE87833D90DCA6B3BC1FD73",
-                    "download": "8E03223931F278F01FE55D98307E50C7"
-                },
-                "shacktesters": {
-                    "gid": "7E7EB4B639055DD04BD86C54A145CBB2",
-                    "size": "F038C54D679DA72ED5D6DBD427CA3E01",
-                    "download": "CE7EBA17B676247569859B819B834D3D"
-                },
-                "stable_rc": {
-                    "gid": "D3F360E5F5549ED5013E5A45F0350D98",
-                    "size": "0DB5D041E3A69B92A062457892F153AC",
-                    "download": "85D9DE6FD56035EFB51D44F6CBDC3549"
-                },
-                "wizards": {
-                    "gid": "C4C26AF068AF4427AB19F100C1851CB9",
-                    "size": "A5CBA2D1FC31B3FF250B67CCA13EC817",
-                    "download": "67CB7A2430D25843E8ABBDDC1BA8B50D"
-                },
-                "wizards_shack": {
-                    "gid": "3CBC337801D35BA40D7E8027A5CE3099",
-                    "size": "A787BD70ED18763A39C49F5707261306",
-                    "download": "78765CAF019657F8C610F8F1F0A42CDF"
-                },
-                "nighly": {
-                    "gid": "725DEECBA296E6C855F8D882671F6CBF",
-                    "size": "36CF87112BD83E4267DA2037D5C26363",
-                    "download": "E8F6077862DF3C36B033BA3C8B5A6030"
-                },
-                "nighly_shack": {
-                    "gid": "99391469D46F537FB3B7500CB2A9EF70",
-                    "size": "9EB80DA2BC4A275D2AC2711354F78152",
-                    "download": "8DF792BE4A311B342AE13D222F396DAA"
-                }
             }
         },
         "workshopdepot": "622970",
@@ -218,16 +176,6 @@
                 "description": "Update 28 with Workshop",
                 "timeupdated": "1686261512"
             },
-            "nighly_arm64": {
-                "buildid": "8774567",
-                "pwdrequired": "1",
-                "timeupdated": "1653004510"
-            },
-            "nighly_shack_arm64": {
-                "buildid": "8816294",
-                "pwdrequired": "1",
-                "timeupdated": "1653585272"
-            },
             "shack_beta": {
                 "buildid": "12137074",
                 "description": "beta",
@@ -237,49 +185,20 @@
                 "buildid": "6282543",
                 "timeupdated": "1614724243"
             },
-            "shacktesters": {
-                "buildid": "12181847",
-                "pwdrequired": "1",
-                "timeupdated": "1694637623"
-            },
-            "stable_rc": {
-                "buildid": "12034897",
-                "pwdrequired": "1",
-                "timeupdated": "1693441242"
-            },
             "vrml": {
                 "buildid": "11886816",
                 "description": "Season 13",
                 "timeupdated": "1712154978"
             },
-            "wizards": {
-                "buildid": "14101045",
-                "pwdrequired": "1",
-                "timeupdated": "1713546744"
-            },
-            "wizards_shack": {
-                "buildid": "14136550",
-                "pwdrequired": "1",
-                "timeupdated": "1713813913"
-            },
-            "nighly": {
-                "buildid": "16661289",
-                "pwdrequired": "1",
-                "timeupdated": "1733516116"
-            },
-            "nighly_shack": {
-                "buildid": "16650859",
-                "pwdrequired": "1",
-                "timeupdated": "1733447541"
-            },
             "shack": {
                 "buildid": "16650859",
                 "timeupdated": "1733449237"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26533750,
-    "_sha": "a6c98798fc5fab0f539cf2093abce40a993d23c4",
-    "_size": 6541
+    "_change_number": 27157215,
+    "_sha": "ade0644492855ab8799486c8d5e7219203e62102",
+    "_size": 4252
 }

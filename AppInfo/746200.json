@@ -107,9 +107,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6658616605395496233",
-                    "size": "26104591730",
-                    "download": "10602186784"
+                    "gid": "5067977434936363426",
+                    "size": "26126886701",
+                    "download": "10609741408"
                 },
                 "cinematic-branch": {
                     "gid": "5134661732417894322",
@@ -121,33 +121,6 @@
                     "size": "21237725404",
                     "download": "8819788208"
                 }
-            },
-            "encryptedmanifests": {
-                "416last": {
-                    "gid": "0A145ECAE1AED7DF4033135A715C8922",
-                    "size": "EFD3FF6FAC835A6A339471FA705F8D70",
-                    "download": "6F545DCCC0817E223DB5EE8C92FEC300"
-                },
-                "421last": {
-                    "gid": "E7216C508B97555532D795B2775F538C",
-                    "size": "67CA21AD273976BE75185800B2ED4EA3",
-                    "download": "A98AC2BBFD376880006B09E92A176AAD"
-                },
-                "mercury": {
-                    "gid": "D208506726CC7F4794A4874C910585FF",
-                    "size": "0254FFBBCD0CE4EB029040C81B13214B",
-                    "download": "F031E0AD5E154C58DA70C2CD86A33725"
-                },
-                "validation-branch": {
-                    "gid": "4A85BAFFF9353E1675BA63BAC5C21DE1",
-                    "size": "DFEBCA95E3757B1A7642987561F4E37F",
-                    "download": "1C8DB139FA30B4216D7375790AB51106"
-                },
-                "newbuild-release": {
-                    "gid": "DB5DAAC233317EEABAF5B8A20D7266B9",
-                    "size": "AE7D63C222B287B2A792B6DF28256909",
-                    "download": "31A9431655EFDC21B1A3FFC24623D904"
-                }
             }
         },
         "746202": {
@@ -157,9 +130,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2965454324398825850",
-                    "size": "28148542010",
-                    "download": "10857426544"
+                    "gid": "9135022650078766559",
+                    "size": "28170701206",
+                    "download": "10864935024"
                 },
                 "cinematic-branch": {
                     "gid": "2154165448052012121",
@@ -171,78 +144,27 @@
                     "size": "23343598761",
                     "download": "9097838464"
                 }
-            },
-            "encryptedmanifests": {
-                "416last": {
-                    "gid": "4C5D4E9E6ED6CB943BF9F0F345E4FB72",
-                    "size": "A307504F2A519C1C7132587241CE1985",
-                    "download": "52BB509F287DB030764B4FD814056DA3"
-                },
-                "421last": {
-                    "gid": "AD55DAFF2DE504EED9BDFFCBD0C46702",
-                    "size": "BC7E1C9F248108B4036FD755E85E7CC0",
-                    "download": "EA40795A44567D08E39ACDBD5D70F2CD"
-                },
-                "mercury": {
-                    "gid": "CD0EADB4A33F05821310E4B9CD0F1C3B",
-                    "size": "AD586655FE6816441C9E78245C25CBFA",
-                    "download": "4E3BC9A2378A7732775BB93B6A2E19C2"
-                },
-                "validation-branch": {
-                    "gid": "3BB5739A9C44F6659DC2FADB2D83B501",
-                    "size": "02F43CCA02269CF888E46398BC7C6B3D",
-                    "download": "F66F4F88E9986233121E718F7DAE1D3C"
-                },
-                "newbuild-release": {
-                    "gid": "3CDB311FE8253F31A4428C9AC3D13094",
-                    "size": "0277BE64C9252C4CFA7ADEE0F75DC646",
-                    "download": "3F4F9E2D7565DC8A72E7D981E6334810"
-                }
             }
         },
         "branches": {
             "public": {
-                "buildid": "16724439",
-                "timeupdated": "1734029735"
-            },
-            "416last": {
-                "buildid": "4093443",
-                "pwdrequired": "1",
-                "timeupdated": "1565544532"
-            },
-            "421last": {
-                "buildid": "8252175",
-                "pwdrequired": "1",
-                "timeupdated": "1645620932"
+                "buildid": "16790072",
+                "timeupdated": "1734548043"
             },
             "cinematic-branch": {
                 "buildid": "4334767",
                 "timeupdated": "1572355580"
             },
-            "mercury": {
-                "buildid": "8227247",
-                "pwdrequired": "1",
-                "timeupdated": "1645238117"
-            },
             "v0.1.0.227771": {
                 "buildid": "12934837",
                 "description": "temp branch for modding",
                 "timeupdated": "1706902846"
-            },
-            "validation-branch": {
-                "buildid": "9656460",
-                "pwdrequired": "1",
-                "timeupdated": "1666709152"
-            },
-            "newbuild-release": {
-                "buildid": "16724439",
-                "pwdrequired": "1",
-                "timeupdated": "1734023129"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26617143,
-    "_sha": "696aa4277caf7c9092cc2b301fae000446718eab",
-    "_size": 5537
+    "_change_number": 27015870,
+    "_sha": "b3c5b5c01ac6efe4e3d33cf18521b49d5ac09ccb",
+    "_size": 3191
 }

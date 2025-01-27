@@ -200,33 +200,6 @@
                     "size": "6358198944",
                     "download": "1377815056"
                 }
-            },
-            "encryptedmanifests": {
-                "publictest": {
-                    "gid": "74FFF09D11684DD7C7CF42840B24891C",
-                    "size": "487E0C434225FDB551CCE866E3010DA0",
-                    "download": "1CC0F1746AB78D73BFDDA9D5C18370A2"
-                },
-                "playtest": {
-                    "gid": "31BBA72CB33E97492D6D2DFDE1386E42",
-                    "size": "B3F2A6A8F2463E0CD05868DB9899E667",
-                    "download": "103FE873CEB64391986FA20B181E0953"
-                },
-                "stableready": {
-                    "gid": "B4C84D6CC53E08AE6204CDD88D3CFE7E",
-                    "size": "3D8B7FD5B337DD640263404724C335AD",
-                    "download": "14DE89726D8DE04817C3FFB8B65163CC"
-                },
-                "steamctg": {
-                    "gid": "B8D4EE2555A11284AC7839B4D79A6B8E",
-                    "size": "13D63F624A41272657424A6BD8AACA69",
-                    "download": "6AA68F687066FDBCD124BFB6EE0366A7"
-                },
-                "test": {
-                    "gid": "47405AC14F6551D6C83BC98D06C2F3C6",
-                    "size": "F38CFF0870031C7D606ED9961983A2A9",
-                    "download": "5C5E81685172BEA3EB5C8636003F22B5"
-                }
             }
         },
         "branches": {
@@ -313,11 +286,6 @@
                 "description": "compatibility branch for dx9 and 32 bit",
                 "timeupdated": "1464358279"
             },
-            "publictest": {
-                "buildid": "10558353",
-                "pwdrequired": "1",
-                "timeupdated": "1676470980"
-            },
             "1.203.6": {
                 "buildid": "13198064",
                 "description": "Warfare Evolution",
@@ -327,31 +295,12 @@
                 "buildid": "15393985",
                 "description": "Signal",
                 "timeupdated": "1728924870"
-            },
-            "playtest": {
-                "buildid": "15852939",
-                "pwdrequired": "1",
-                "timeupdated": "1727700203"
-            },
-            "stableready": {
-                "buildid": "16178582",
-                "pwdrequired": "1",
-                "timeupdated": "1729850024"
-            },
-            "steamctg": {
-                "buildid": "16655404",
-                "pwdrequired": "1",
-                "timeupdated": "1733482885"
-            },
-            "test": {
-                "buildid": "14455777",
-                "pwdrequired": "1",
-                "timeupdated": "1716385593"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26524454,
-    "_sha": "cfb0dc107ca3c1de473aa9c0bbdf065515295f1d",
-    "_size": 7913
+    "_change_number": 27152984,
+    "_sha": "0ca97f5b784feb4464119ba64f67163828c792cb",
+    "_size": 6507
 }

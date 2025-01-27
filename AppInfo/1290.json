@@ -46,28 +46,6 @@
                     "download": "627444112"
                 }
             },
-            "encryptedmanifests": {
-                "development": {
-                    "gid": "C8300831E61104D988A3420570AD7540",
-                    "size": "6FDA31994D715E5641F410AD8C275F4F",
-                    "download": "8C4BB585ED1BC3AD92C0867E78AE221F"
-                },
-                "prerelease": {
-                    "gid": "F820D5754E63AA9FD2D0FC25F542DD8D",
-                    "size": "4BCDAFD8568D01BBEEC462C9865B0F82",
-                    "download": "41B4CFF9287F756F05160483C57799FE"
-                },
-                "playtest": {
-                    "gid": "4928886F0D57A88825C9D1D01B322934",
-                    "size": "0FD2ED6B482838B2831C3606E849297E",
-                    "download": "338BAF579FD654F3899C8ACFCDF4CC09"
-                },
-                "public-playtest": {
-                    "gid": "A3F6C768F3027A4525FAEBCB2EF51582",
-                    "size": "C3CF5B5B43058646767EC1F83F69DE72",
-                    "download": "10DD1F49C5BE858BB7F813C080229A21"
-                }
-            },
             "depotfromapp": "1280"
         },
         "1291": {
@@ -88,34 +66,12 @@
                     "size": "2040092502",
                     "download": "898734816"
                 }
-            },
-            "encryptedmanifests": {
-                "development": {
-                    "gid": "EADF50FE9BE7631E62373C10F71FB59C",
-                    "size": "7628089272E93EAAD32DC42AE186D40C",
-                    "download": "9594AF38C518D398D80566C6C061E262"
-                },
-                "playtest": {
-                    "gid": "1C075159D2EB8A7E825BADA5DE1B7665",
-                    "size": "B265FE793FA97A942A8BA4712B40BE29",
-                    "download": "2FC05B099A2D14D383221E4705763494"
-                },
-                "public-playtest": {
-                    "gid": "2CE8F181C62626FDE8C572378CFEDB64",
-                    "size": "299653569DE03CDD653C5C34F9CA990A",
-                    "download": "808E78FDBA07C3E3AFC01D8F24E1722A"
-                }
             }
         },
         "branches": {
             "public": {
                 "buildid": "16273989",
                 "timeupdated": "1730544898"
-            },
-            "development": {
-                "buildid": "10584959",
-                "pwdrequired": "1",
-                "timeupdated": "1676771456"
             },
             "legacy-v6.0.0": {
                 "buildid": "1026294",
@@ -126,21 +82,12 @@
                 "buildid": "12027408",
                 "description": " \tPre-release testing branch",
                 "timeupdated": "1692921611"
-            },
-            "playtest": {
-                "buildid": "16114515",
-                "pwdrequired": "1",
-                "timeupdated": "1729449248"
-            },
-            "public-playtest": {
-                "buildid": "16114515",
-                "pwdrequired": "1",
-                "timeupdated": "1729449238"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26223828,
-    "_sha": "83abf4a3ae1e9a7caa25ad7cc51a8dac62187dcf",
-    "_size": 3387
+    "_change_number": 27175214,
+    "_sha": "79d77eb9cb0b2297dcbaa97574aab80f0f814be5",
+    "_size": 1779
 }

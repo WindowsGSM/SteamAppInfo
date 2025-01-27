@@ -206,79 +206,18 @@
                     "size": "3703510879",
                     "download": "1386726368"
                 }
-            },
-            "encryptedmanifests": {
-                "closedtest": {
-                    "gid": "71FE65B26F946189AE854DC67FEED7DC",
-                    "size": "BFB33C61EBD033182431F60F5C28BB58",
-                    "download": "DD8E7AB77FAB5031B0CB22E63793EF51"
-                },
-                "closedtestb": {
-                    "gid": "3EAB8B937CE73D54B8B6DB4CE79DBDE0",
-                    "size": "6A447CFD84F6E2C954939C3AAB5E3422",
-                    "download": "872D2353CE6DE8A33209DD7CAFAB0EE9"
-                },
-                "development": {
-                    "gid": "B5DFCD17599091D0AA1CAC000471D6AD",
-                    "size": "C70DA3D3D72EC1BD41DFC3F5B69629B5",
-                    "download": "226A4E2F607621265D361D5BC9242E5D"
-                },
-                "marketing": {
-                    "gid": "3DB5140E7D3D6605D6CB5E2AF345F843",
-                    "size": "8707034CDBA29D56D320CACD7BBCDE61",
-                    "download": "4B3F90E783CF539DC064C1560DE977D0"
-                },
-                "pre-release": {
-                    "gid": "03A616E22B7C45EB5EB03AC6E095606D",
-                    "size": "FFDA7CC3B67F1A534246CB9E110B0F36",
-                    "download": "1F621202B3EFFDC7B3E2F9744AC11443"
-                },
-                "staging": {
-                    "gid": "F10253D8F07AEF4ED51708F3602A5AB6",
-                    "size": "1A1AA7AD8C4769627D242CA70AD53921",
-                    "download": "E796AFA2A231005D4E0E01D03AD952A8"
-                }
             }
         },
         "branches": {
             "public": {
                 "buildid": "4376452",
                 "timeupdated": "1573718171"
-            },
-            "closedtest": {
-                "buildid": "3158816",
-                "pwdrequired": "1",
-                "timeupdated": "1538010947"
-            },
-            "closedtestb": {
-                "buildid": "4376452",
-                "pwdrequired": "1",
-                "timeupdated": "1573542373"
-            },
-            "development": {
-                "buildid": "4314306",
-                "pwdrequired": "1",
-                "timeupdated": "1571811687"
-            },
-            "marketing": {
-                "buildid": "2449676",
-                "pwdrequired": "1",
-                "timeupdated": "1516344501"
-            },
-            "pre-release": {
-                "buildid": "2997520",
-                "pwdrequired": "1",
-                "timeupdated": "1533605320"
-            },
-            "staging": {
-                "buildid": "3106354",
-                "pwdrequired": "1",
-                "timeupdated": "1536648671"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26182481,
-    "_sha": "6937f4d3fb63bf7ab793f62b5520149139472144",
-    "_size": 5969
+    "_change_number": 27015870,
+    "_sha": "3c25017e30533baf794408632176732230b40b2d",
+    "_size": 4270
 }

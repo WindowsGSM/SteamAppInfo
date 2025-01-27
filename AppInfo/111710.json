@@ -85,18 +85,6 @@
                     "size": "1",
                     "download": "160"
                 }
-            },
-            "encryptedmanifests": {
-                "beta": {
-                    "gid": "504AB37A274E32E64A3211B9798F8E32",
-                    "size": "1B544FC39988938F991DACBCD79ADFCD",
-                    "download": "0B3580386B7448FF721DDE464F61FD15"
-                },
-                "previous": {
-                    "gid": "F8CC04D24610CA5345EC46AB64BB72FE",
-                    "size": "648B11DD9EB8CCE22769588D7709E5CA",
-                    "download": "16F1A27E66A2987A28DA83B920554505"
-                }
             }
         },
         "17711": {
@@ -123,18 +111,6 @@
                     "size": "37750808",
                     "download": "10670800"
                 }
-            },
-            "encryptedmanifests": {
-                "beta": {
-                    "gid": "3B1D00F81FBE146692B4D66115C8F29F",
-                    "size": "875956FA653D447A1FB9EEFFA6A489DB",
-                    "download": "D0B3FA275D45208DA1228DF53AD4A7E2"
-                },
-                "previous": {
-                    "gid": "D8E407722BD27A231DB9486154871C49",
-                    "size": "401A9525DCDDFFC04FBD55EA5B2A49C7",
-                    "download": "C09CF6340FC4BF8742395C083BCE5FD9"
-                }
             }
         },
         "markdlcdepots": "1",
@@ -142,21 +118,12 @@
             "public": {
                 "buildid": "3212411",
                 "timeupdated": "1539564137"
-            },
-            "beta": {
-                "buildid": "2990994",
-                "pwdrequired": "1",
-                "timeupdated": "1533001748"
-            },
-            "previous": {
-                "buildid": "2791029",
-                "pwdrequired": "1",
-                "timeupdated": "1533072915"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26374598,
-    "_sha": "6b36feb6eea2a0f9e25b6b23acf969e4ad1cbf4e",
-    "_size": 3215
+    "_change_number": 27119347,
+    "_sha": "d638afebd2b041c8e88c3e823e6b99a63cb6048b",
+    "_size": 2280
 }

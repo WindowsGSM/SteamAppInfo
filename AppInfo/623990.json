@@ -172,43 +172,6 @@
                     "size": "63077702800",
                     "download": "58869491600"
                 }
-            },
-            "encryptedmanifests": {
-                "none": {
-                    "gid": "A65C07D5DA39ABD9190790CCE5DA1C2F",
-                    "size": "AC85D946DF2526D96EFF52D9F4BC44D9",
-                    "download": "E398DEA28C82F407729F8EFF279CAC8C"
-                },
-                "pts-a": {
-                    "gid": "5B6F412E0893D98BB0D18A1DA57082B9",
-                    "size": "1F6CA2EABC2085CA021B986D739B7ADD",
-                    "download": "8736104F4597254F2A4F29AA035938B8"
-                },
-                "pts-b": {
-                    "gid": "815DBF780421A0B80015D0906CE775AF",
-                    "size": "8330A5F852FABA0C3545BC32D6B9714A",
-                    "download": "E21DED4BF21BF9C5FA71B0AA3A29E7A9"
-                },
-                "pts-stable": {
-                    "gid": "896DDB4794043B9859B13095B24F4EB2",
-                    "size": "E91BD8543510378ACBCACF2624C3BBE7",
-                    "download": "BADF3EA8C10E470E77E8E8623B96354D"
-                },
-                "pts_test": {
-                    "gid": "9E873138EF856BE2795D6E0B5A30F3D3",
-                    "size": "C468BF7BFA4CF05F03338944C40A804F",
-                    "download": "19FBC604AC8683AC2A1E26F6C898DC5F"
-                },
-                "test": {
-                    "gid": "A17D2475C357FBE88B76F14079186511",
-                    "size": "3BD906714E399012208BB0C9EF0E472F",
-                    "download": "65FE4A2274CCC0731BB4344B126F0E9F"
-                },
-                "crossplay": {
-                    "gid": "F6B65AAA85AA836F1321B17F85BA5CBF",
-                    "size": "9D3605A12F8A940A423AB85A19424B97",
-                    "download": "8571E9AFF6F743A80CB0F33D756A4798"
-                }
             }
         },
         "1716751": {
@@ -225,46 +188,12 @@
             "public": {
                 "buildid": "16501189",
                 "timeupdated": "1732300402"
-            },
-            "none": {
-                "buildid": "2816154",
-                "pwdrequired": "1",
-                "timeupdated": "1527616334"
-            },
-            "pts-a": {
-                "buildid": "10897477",
-                "pwdrequired": "1",
-                "timeupdated": "1680221529"
-            },
-            "pts-b": {
-                "buildid": "10897477",
-                "pwdrequired": "1",
-                "timeupdated": "1701359529"
-            },
-            "pts-stable": {
-                "buildid": "3597594",
-                "pwdrequired": "1",
-                "timeupdated": "1551227497"
-            },
-            "pts_test": {
-                "buildid": "12663006",
-                "pwdrequired": "1",
-                "timeupdated": "1699549127"
-            },
-            "test": {
-                "buildid": "7996610",
-                "pwdrequired": "1",
-                "timeupdated": "1641829298"
-            },
-            "crossplay": {
-                "buildid": "16486605",
-                "pwdrequired": "1",
-                "timeupdated": "1732206198"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26375805,
-    "_sha": "b2dcfba888c2e3bdd02266fd93efcf5ecb7d9d16",
-    "_size": 6090
+    "_change_number": 27015870,
+    "_sha": "b5f559636cfc1d17da1cfc065d9b42fe5bf3740d",
+    "_size": 4153
 }

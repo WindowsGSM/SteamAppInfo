@@ -129,8 +129,8 @@
             "7": "1685",
             "8": "3859"
         },
-        "review_score": "6",
-        "review_percentage": "71"
+        "review_score": "5",
+        "review_percentage": "69"
     },
     "extended": {
         "developer": "BioWare",
@@ -184,13 +184,6 @@
                     "size": "243038879",
                     "download": "94584208"
                 }
-            },
-            "encryptedmanifests": {
-                "beta": {
-                    "gid": "0C5748A3ED31731E41EE220C7830C0F8",
-                    "size": "301FD2928891FEBF77C4F4AA8B594974",
-                    "download": "2A313A1ED1D5849B327A8057F8C8F61D"
-                }
             }
         },
         "1433124": {
@@ -203,13 +196,6 @@
                     "gid": "7345569389585025551",
                     "size": "12147822642",
                     "download": "11881251152"
-                }
-            },
-            "encryptedmanifests": {
-                "beta": {
-                    "gid": "6478BF15D47D56F98C0BBE55F44DF8A9",
-                    "size": "6B850FE72F6FC9BEB5044011F76D3320",
-                    "download": "A04C21EB858174735D3D0520F508EBF3"
                 }
             }
         },
@@ -224,29 +210,18 @@
                     "size": "45185411755",
                     "download": "43547337440"
                 }
-            },
-            "encryptedmanifests": {
-                "beta": {
-                    "gid": "9B54FEF676D711E9D3FC547203A1D81D",
-                    "size": "B31ECA187C118CDEF41002D8B18F2DFF",
-                    "download": "838EFE32760175EBF65F7BA1D41E47B5"
-                }
             }
         },
         "branches": {
             "public": {
                 "buildid": "16539845",
                 "timeupdated": "1732634623"
-            },
-            "beta": {
-                "buildid": "16539845",
-                "pwdrequired": "1",
-                "timeupdated": "1732634565"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26369116,
-    "_sha": "e130d9af8a030ad091961cad6395d77e56177431",
-    "_size": 5313
+    "_change_number": 27126697,
+    "_sha": "2f88ae0f6b2e2f119b8e0d7e0bd4449f8ba3bc4d",
+    "_size": 4625
 }

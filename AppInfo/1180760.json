@@ -50,18 +50,6 @@
                     "size": "2247350388",
                     "download": "1761438240"
                 }
-            },
-            "encryptedmanifests": {
-                "public_test_server": {
-                    "gid": "6E8401C256712113B3B0876522D333B6",
-                    "size": "D6C97ED3DA743B3E7024ABC10C9858E7",
-                    "download": "D6D52F26894A96998238FFE988CD4574"
-                },
-                "qa_server": {
-                    "gid": "1B1BA01261AB4A7E7E6BDEF62461795F",
-                    "size": "48DB4E75D9D41A2EE12BA5C88A3D2C1A",
-                    "download": "25EFDDC01021CF8373DD83BEAC3EF7EB"
-                }
             }
         },
         "baselanguages": "english",
@@ -69,21 +57,12 @@
             "public": {
                 "buildid": "8775641",
                 "timeupdated": "1653576968"
-            },
-            "public_test_server": {
-                "buildid": "5439922",
-                "pwdrequired": "1",
-                "timeupdated": "1597968292"
-            },
-            "qa_server": {
-                "buildid": "12808850",
-                "pwdrequired": "1",
-                "timeupdated": "1701101958"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26374214,
-    "_sha": "614fe0709c12e96238209657801f71a0e1c925c8",
-    "_size": 1928
+    "_change_number": 26997904,
+    "_sha": "f07f4094cd57b1f155ef93696fe5f4c98b745132",
+    "_size": 1340
 }

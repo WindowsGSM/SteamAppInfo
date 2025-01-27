@@ -197,31 +197,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6459882344717262520",
-                    "size": "811122391",
-                    "download": "436195952"
-                }
-            },
-            "encryptedmanifests": {
-                "developer": {
-                    "gid": "8477184805D092B49D767C37F85F073A",
-                    "size": "AEBBCF13B7F02C7DC1BC8253F8CDB800",
-                    "download": "F7AAD9E3884BD0FC222D86536B384F43"
+                    "gid": "5444692834381663617",
+                    "size": "811258809",
+                    "download": "436301488"
                 },
-                "kato": {
-                    "gid": "3C891719F06C182C99D129AF68E1400F",
-                    "size": "F2D38E27E840CE34F4156AF285CEC354",
-                    "download": "E40D613BFF02D9A3268DA9094582F58E"
-                },
-                "testing": {
-                    "gid": "FD0612F7BBF5FBEC6CB849E81C18FDB2",
-                    "size": "E1F4C9248EC4976817A72A2254D8B687",
-                    "download": "49667EABADCCB0F6273739839E52BE3B"
-                },
-                "testpublic": {
-                    "gid": "687F899ACFC5D6CE829FB0BF99121FD1",
-                    "size": "C30BEA33379107DF7DB428F59ADCE200",
-                    "download": "0F6A0376808A9B40CD9597D17290EC6C"
+                "oldversion": {
+                    "gid": "5123952975873512126",
+                    "size": "811258809",
+                    "download": "436303904"
                 }
             }
         },
@@ -234,33 +217,19 @@
         },
         "branches": {
             "public": {
-                "buildid": "14861402",
-                "timeupdated": "1719510991"
+                "buildid": "16992802",
+                "timeupdated": "1736851627"
             },
-            "developer": {
-                "buildid": "13040111",
-                "pwdrequired": "1",
-                "timeupdated": "1717430524"
-            },
-            "kato": {
-                "buildid": "15018672",
-                "pwdrequired": "1",
-                "timeupdated": "1724228859"
-            },
-            "testing": {
-                "buildid": "16400942",
-                "pwdrequired": "1",
-                "timeupdated": "1732259173"
-            },
-            "testpublic": {
-                "buildid": "16729176",
-                "pwdrequired": "1",
-                "timeupdated": "1734052475"
+            "oldversion": {
+                "buildid": "16895170",
+                "description": "Version Old 126.5",
+                "timeupdated": "1735932000"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26621523,
-    "_sha": "e636873ddba72b6ded2ffe225a16228dd7dfd97f",
-    "_size": 5149
+    "_change_number": 27104013,
+    "_sha": "9caf4bd6e77e81d76c98663a9e1c9b991f500ce3",
+    "_size": 4268
 }

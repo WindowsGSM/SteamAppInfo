@@ -136,23 +136,6 @@
                     "size": "63289855",
                     "download": "21319040"
                 }
-            },
-            "encryptedmanifests": {
-                "jenkins_builds": {
-                    "gid": "E5CE50219A6937CECDEB4C623E05C29F",
-                    "size": "9055D1B829E05D821608CD8EB0EAA814",
-                    "download": "75019151284D75398DBE8126083F8D61"
-                },
-                "nightly": {
-                    "gid": "7AA8F27D2AC866E1FA75FBBF5A8B3CED",
-                    "size": "2FE66D2BE6AD05FF0B1B9E0D08372E58",
-                    "download": "615D6173B67F4B9A53AC003CDAAC78B3"
-                },
-                "nightly-prod": {
-                    "gid": "64CC7AF852C6BD02484887DBC803C775",
-                    "size": "A3E768DE7F6D66A988E8395F577ADA94",
-                    "download": "B6EA5DFCA50BFFD67DB7CCC8D3D3BDC1"
-                }
             }
         },
         "228782": {
@@ -176,23 +159,6 @@
                     "size": "111648835",
                     "download": "42602688"
                 }
-            },
-            "encryptedmanifests": {
-                "jenkins_builds": {
-                    "gid": "8F4F11B6671AF995E36796A7E92E1F23",
-                    "size": "71E6B03504C6B50511240E141694A777",
-                    "download": "F5FF09F4F0E7CC1FBFED2EE34E801079"
-                },
-                "nightly": {
-                    "gid": "1EB257A1406352E4F7426ED500BAA3AF",
-                    "size": "A3B2BD56F1EAF22E22F8F55ABB7C122D",
-                    "download": "C41DA7A054DF2951AE7B20972476FC4F"
-                },
-                "nightly-prod": {
-                    "gid": "F9473B0E9F94B6DCC4BCDD046D937C1A",
-                    "size": "3E45E2E210D1E876C842FD0C2D3B47DD",
-                    "download": "B8AE821A222C5467817B86384A5801F1"
-                }
             }
         },
         "228783": {
@@ -211,34 +177,12 @@
                     "size": "156325636",
                     "download": "43395936"
                 }
-            },
-            "encryptedmanifests": {
-                "jenkins_builds": {
-                    "gid": "183CADB406301EB7A910DE7759A399B2",
-                    "size": "1F72ADC5D92E1AEEF48E14D4F42A9929",
-                    "download": "D29F0D0F63BCB1659C3827B1C67F9DB5"
-                }
             }
         },
         "branches": {
             "public": {
                 "buildid": "10384546",
                 "timeupdated": "1674594940"
-            },
-            "jenkins_builds": {
-                "buildid": "10384546",
-                "pwdrequired": "1",
-                "timeupdated": "1674498753"
-            },
-            "nightly": {
-                "buildid": "1569738",
-                "pwdrequired": "1",
-                "timeupdated": "1484442007"
-            },
-            "nightly-prod": {
-                "buildid": "1569740",
-                "pwdrequired": "1",
-                "timeupdated": "1484442111"
             },
             "release_candidate": {
                 "buildid": "10384546",
@@ -249,10 +193,11 @@
                 "buildid": "1536482",
                 "timeupdated": "1538440637"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26374598,
-    "_sha": "62d4a22e3d7b653cf994e6031bbeeb3e183ddf9d",
-    "_size": 5511
+    "_change_number": 27159494,
+    "_sha": "eca78cb5cdda51a8c7a7de17d876a250ab7763b1",
+    "_size": 3870
 }

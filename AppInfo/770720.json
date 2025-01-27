@@ -27,6 +27,47 @@
         "content_descriptors": {
             "0": "5"
         },
+        "steam_deck_compatibility": {
+            "category": "2",
+            "test_timestamp": "1734134400",
+            "tested_build_id": "11405781",
+            "tests": {
+                "0": {
+                    "display": "3",
+                    "token": "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+                },
+                "1": {
+                    "display": "3",
+                    "token": "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+                },
+                "2": {
+                    "display": "3",
+                    "token": "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+                },
+                "3": {
+                    "display": "3",
+                    "token": "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+                },
+                "4": {
+                    "display": "4",
+                    "token": "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+                }
+            },
+            "configuration": {
+                "supported_input": "gamepad",
+                "requires_manual_keyboard_invoke": "1",
+                "requires_non_controller_launcher_nav": "0",
+                "primary_player_is_controller_slot_0": "0",
+                "non_deck_display_glyphs": "1",
+                "small_text": "1",
+                "requires_internet_for_setup": "0",
+                "requires_internet_for_singleplayer": "0",
+                "recommended_runtime": "proton-9.0-3RC",
+                "requires_h264": "0",
+                "gamescope_frame_limiter_not_supported": "0",
+                "hdr_support": "0"
+            }
+        },
         "metacritic_name": "Hunt: Showdown (Test Server)",
         "small_capsule": {
             "english": "capsule_231x87.jpg"
@@ -84,7 +125,9 @@
         "community_visible_stats": "1",
         "community_hub_visible": "1",
         "gameid": "770720",
-        "store_tags": {}
+        "store_tags": {},
+        "review_score": "5",
+        "review_percentage": "66"
     },
     "config": {
         "installdir": "Hunt Showdown (Test Server)",
@@ -333,7 +376,7 @@
                 }
             },
             "44": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
+                "executable": "hunt.exe",
                 "arguments": "+online_account_client_settings stagealpha +ui_input_debug_cursor_scopes 1 +ui_debug_layout_loading 1 +log_writetofileverbosity 3 +sys_customCrashHandlerAttribute playtest",
                 "type": "option1",
                 "config": {
@@ -371,7 +414,7 @@
                 }
             },
             "52": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
+                "executable": "hunt.exe",
                 "arguments": "+online_account_client_settings stage2 +sys_dump_type 3 +online_news_server_port 5011 +log_writetofileverbosity 4",
                 "type": "default",
                 "config": {
@@ -398,13 +441,13 @@
                 "description": "be_2.0"
             },
             "55": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
+                "executable": "hunt.exe",
                 "arguments": "+online_account_client_settings stage_cloud",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "main_test m1_test"
+                    "betakey": "cloud_test"
                 },
                 "description_loc": {
                     "english": "main_test"
@@ -494,6 +537,34 @@
                     "english": "cnqa"
                 },
                 "description": "cnqa"
+            },
+            "62": {
+                "executable": "bin\\win_x64\\HuntGame.exe",
+                "arguments": "+online_account_client_settings stage_external +sys_dump_type 3 +log_verbosity 4 +log_writetofileverbosity 4 +vivox_log_enabled 2",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "tencent_qa"
+                },
+                "description_loc": {
+                    "english": "Tenc_QA"
+                },
+                "description": "Tenc_QA"
+            },
+            "63": {
+                "executable": "bin\\win_x64\\HuntGame.exe",
+                "arguments": "+online_account_client_settings dailymain",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "windows_test"
+                },
+                "description_loc": {
+                    "english": "windows_test"
+                },
+                "description": "windows_test"
             }
         },
         "uselaunchcommandline": "1"
@@ -539,78 +610,6 @@
                     "size": "584652560",
                     "download": "406174832"
                 }
-            },
-            "encryptedmanifests": {
-                "closed_beta_test": {
-                    "gid": "7DD2E33C32E191F94BC139DE42A115A0",
-                    "size": "7FC7E9203FF4AAD6212C15A0ADF1B6B5",
-                    "download": "5FCB7630D1373171422C6E4C082A1FF5"
-                },
-                "current": {
-                    "gid": "7026D89A9CE679776F0A3862227E4818",
-                    "size": "797FF69835668B153CDD5676F7836B05",
-                    "download": "70BD410376FFAA84D98327BE0EE3804E"
-                },
-                "daily_main": {
-                    "gid": "0385F37C41089A8A377C259AE604A59D",
-                    "size": "754382D9CEE39B63D5228D5BD08ECA17",
-                    "download": "6BE285A579CF4CE4785F2C4EB63F78AC"
-                },
-                "external_playtest": {
-                    "gid": "7E3F189B240C4300F7C9DD9D89FA2A21",
-                    "size": "F38D9776182A6DEC1E3A33365F9E65EB",
-                    "download": "7489BEF967277692CFE28474E4EC7831"
-                },
-                "grac_ratings": {
-                    "gid": "3F64D05E8CD80C6B5BC58631917F07D8",
-                    "size": "2352F1821E5FA6436B306DA9AFC35135",
-                    "download": "0FC65B0B6016F49189BB21B565100C19"
-                },
-                "internal_playtest": {
-                    "gid": "000CF9EF2667F26619EDB0B8ADE0E387",
-                    "size": "D28741DF417461BFCB832D89FBF9F932",
-                    "download": "31F63E8CDA1B042C5B92E534430FFD3D"
-                },
-                "latest": {
-                    "gid": "CCE4E69282E55D7A980E0A31DAFD2A50",
-                    "size": "E69A547001A3719E7B6173C7CE066394",
-                    "download": "E9AF99B2B2A73B3FCFF534E643A93347"
-                },
-                "lionbridge_qa": {
-                    "gid": "EDCF3E37AD1539810AA8099C4908B585",
-                    "size": "2C27CC58A0E3C01BDFF984CEFCACF74A",
-                    "download": "20D244F62682A22B0DEE36B75474B7C6"
-                },
-                "mkt_recording": {
-                    "gid": "B477394B731D59A9041A40CA5AA518F0",
-                    "size": "4D53132C7BCEA7CD38253E5B46FB13A0",
-                    "download": "BA6BCB654FA6119294EB8C8C1FE2BAE6"
-                },
-                "qa_testroom": {
-                    "gid": "313ABA9D7FEF8B48A7249E74375979E8",
-                    "size": "83A275AD316100B6D8B25B648EA1F1B6",
-                    "download": "EA20B83021485000AFC2195F42D6599A"
-                },
-                "qa_testroom_2": {
-                    "gid": "D88F4015AB4E4E71052EB0F5DD973D92",
-                    "size": "05BC0D31DFC7A2721C70817F1EC1614D",
-                    "download": "DE656DEEA704357AF1E2BAB4B7BA3F68"
-                },
-                "qa_testroom_3": {
-                    "gid": "EA2EE8F1D9CFF0E36F1382764DC9C557",
-                    "size": "1CF86D45D4BC8A996C1BF06A17282A27",
-                    "download": "ACADCA808A1C9F2DC62D035C29F1AC71"
-                },
-                "security_hunt": {
-                    "gid": "F63B543302EBFB362B856601900FAB54",
-                    "size": "A4D34DE83DC556B43772A010729C9302",
-                    "download": "5D3517F13AC6F41168BBA82104A1C6C8"
-                },
-                "tencent_playtest": {
-                    "gid": "7941FED40B516468C93CBBBE4134CF7E",
-                    "size": "9125A851FA413C2524A88E74AE0D0E5B",
-                    "download": "7D934E5EC77FB3B6CE68771A8AA80950"
-                }
             }
         },
         "770722": {
@@ -623,78 +622,6 @@
                     "gid": "8452020855376724922",
                     "size": "49193337342",
                     "download": "49572495680"
-                }
-            },
-            "encryptedmanifests": {
-                "closed_beta_test": {
-                    "gid": "7E0DF208E1DFC72CE97AAEF8254BCFEC",
-                    "size": "CC0CAA96A1EF3A544526141DD57DBEBC",
-                    "download": "F004112BCA1BE756AC9A90F65B10574E"
-                },
-                "current": {
-                    "gid": "7D01BA72BA869FA5DF933C3954CEEC58",
-                    "size": "3049F2A027B2DC9AC2F01A4DEC07457E",
-                    "download": "B7420CD57CA1F4A74826639CDFC01BEF"
-                },
-                "daily_main": {
-                    "gid": "7ACF7061B1AB2BCCCAE080550CBC5131",
-                    "size": "221406D1B2208FCC817EF1450B0FD860",
-                    "download": "DB632C695503B775CAB2F1CE040332F8"
-                },
-                "external_playtest": {
-                    "gid": "ADD25B15B32C4B22B5FDCA41DE6D138B",
-                    "size": "FE235024D64124C8EB7D03BF7B27FEF6",
-                    "download": "C5F48821D1C1FC7D79F5ABB1BD3462F2"
-                },
-                "grac_ratings": {
-                    "gid": "C89CD481BC729F89145033D25F1BA95F",
-                    "size": "796AEE91F1EE4B7CE733430A0AB72FAE",
-                    "download": "77F07A74388419578624AC3E6B2EA66D"
-                },
-                "internal_playtest": {
-                    "gid": "091E2B71B698F65EC6A70CD2A3B0201F",
-                    "size": "E2611D0876C0FCB6F8FEDA7690DFD405",
-                    "download": "33DB4991A371100AB0B4E3B917E6AB4E"
-                },
-                "latest": {
-                    "gid": "95EDA49A2877338FD697ECB74464573A",
-                    "size": "62BC680B3BA7BB585554A918A75852DD",
-                    "download": "1BD9F9A4273B2F176E09A198CC8A7F0F"
-                },
-                "lionbridge_qa": {
-                    "gid": "E7273130E7E1DB3066C582386FF1ABB4",
-                    "size": "09D9BD9F7DAA30FC501923BBDA9A8C30",
-                    "download": "5AB6F23A1A4471CC63F7163E8E62BCF8"
-                },
-                "mkt_recording": {
-                    "gid": "67AA191185CAE1646710903E73DE53E6",
-                    "size": "4F40CDA3B3C6FE0CD7CD115DEBB5CFD9",
-                    "download": "0F2D4B2F466A855E1B846EBAC2B64671"
-                },
-                "qa_testroom": {
-                    "gid": "D5E16FB4DF2A2E897934ED2D46FB4769",
-                    "size": "81906C6B15C1617AC7D60944BB6FD120",
-                    "download": "AF7CBB2C043516F9AAC0ED119F4B872F"
-                },
-                "qa_testroom_2": {
-                    "gid": "6ECF2C32648B0AB53C993704DB6B38CD",
-                    "size": "8EBB3685023D05ECB8FAC9B52E9245AD",
-                    "download": "0440AA6760856F2A8FF0588B1FE1EDBA"
-                },
-                "qa_testroom_3": {
-                    "gid": "F2C082D7AFA2DCD0125F3D6CD9DBD12D",
-                    "size": "10022C9AE532BFA1F7D70D6FAC473B79",
-                    "download": "22494DF54D4FA0C491624193C60E8182"
-                },
-                "security_hunt": {
-                    "gid": "FA38A325A9A7DE8079A3DD0FB5884A8C",
-                    "size": "5E0D87397107932FAF01141DF537201C",
-                    "download": "CE82E9CAF66108EC08C992938E396BA4"
-                },
-                "tencent_playtest": {
-                    "gid": "2D3F20112E7074DADDC4F6EF2B9B96F0",
-                    "size": "EB89F32AA8D0D0379B08F72DC1BDBF89",
-                    "download": "25F0699B9DCC14287DF98197B5BE4786"
                 }
             }
         },
@@ -709,78 +636,6 @@
                     "size": "170593326",
                     "download": "171683968"
                 }
-            },
-            "encryptedmanifests": {
-                "closed_beta_test": {
-                    "gid": "AF0D500E7E968BF0E32459D63D488F6B",
-                    "size": "474B5C113D290CCE65869062AC5F400F",
-                    "download": "66D8FF15AF833CE19DA8851BC5373ABD"
-                },
-                "current": {
-                    "gid": "0F3113A88DFA9A0DC3364B7F309A2A1F",
-                    "size": "FBBD821271BA8D8BB9711DAC0F1E935C",
-                    "download": "78C82A676979E05FF41C8B0DC9BD488A"
-                },
-                "daily_main": {
-                    "gid": "295C3413BDD08A49E00EC9CB5FF5015A",
-                    "size": "B4DCE7A9620F115D12A8DE001253A810",
-                    "download": "572C1CC100BDBE6625236CEAA1E15349"
-                },
-                "external_playtest": {
-                    "gid": "892AF0AA03DE7E7154C3504726324945",
-                    "size": "D068189F87AC8A7D8B493484B4B70258",
-                    "download": "4E178D09DD81EA2CC32A408CCC234FAA"
-                },
-                "grac_ratings": {
-                    "gid": "08A9B3FCE15A8828640120A731E8AB15",
-                    "size": "1E1888B5811D4369025668FD89970E32",
-                    "download": "A6439ED6F4F9D83C43A3C827CFC4FB23"
-                },
-                "internal_playtest": {
-                    "gid": "57775D9632CB8B8C7F45EAEB02793E8B",
-                    "size": "5497E5448371F25FA1E08ACCC07F8540",
-                    "download": "8848D239FEBA6F1AE393E25583288D29"
-                },
-                "latest": {
-                    "gid": "78A48E9F9716A86B564F55C6BDC8BBCC",
-                    "size": "4ED7CADDB3A8A43E90A373AE23E8A5A2",
-                    "download": "B4A59E34293742C957B198B10602C623"
-                },
-                "lionbridge_qa": {
-                    "gid": "0B88A7B48E9A9E95BC9D3FBF24CC1C6B",
-                    "size": "7ADCC80872298795AE321DC5B17CE1F3",
-                    "download": "D08823001B12AFBF8D15462194064CCD"
-                },
-                "mkt_recording": {
-                    "gid": "16A1032A1E230583F60DAA8DA656D606",
-                    "size": "54AF8346B5D3B68ADCD54A2687E21A33",
-                    "download": "0D63FF1A291DE4326C09D9629DF2DF8A"
-                },
-                "qa_testroom": {
-                    "gid": "FBB34FCE9AC58637F2D8128B78575B2A",
-                    "size": "6DBB0A3CC6DDAEF85DBE9CEF02B98C91",
-                    "download": "F8AB545CAAAB4A9D58E2CB2A227AE6CB"
-                },
-                "qa_testroom_2": {
-                    "gid": "EE0253BD014D40A4990467348CD534C6",
-                    "size": "46EDCDB79B8AA6BB4CC0EFEA0CB8C4C7",
-                    "download": "1DBD2EC03F58ADA0045DEF3BEC35B745"
-                },
-                "qa_testroom_3": {
-                    "gid": "BE973844513BB755772398AE39422553",
-                    "size": "03A3BB4063105042CC3A978E9BE47239",
-                    "download": "E52FCA10D5D349172AA793679F42751F"
-                },
-                "security_hunt": {
-                    "gid": "BEC650B27DE2BC65FCD13DB783AF26DF",
-                    "size": "525240A4A32B589B34000268D04A79FA",
-                    "download": "3859BEAB1B92B256568BA8ECFB0175AF"
-                },
-                "tencent_playtest": {
-                    "gid": "F4F4746B6A05188E468358FAE8AFF854",
-                    "size": "5BD2F6D42847E1E34E6CED8521305B6E",
-                    "download": "CA104D27A26B593BBD22FBE8AF379B61"
-                }
             }
         },
         "770724": {
@@ -794,159 +649,18 @@
                     "size": "0",
                     "download": "0"
                 }
-            },
-            "encryptedmanifests": {
-                "closed_beta_test": {
-                    "gid": "00CB90734C5828DE65AF95F7806288CF",
-                    "size": "12D7D8B4DABAC3EADFE6DD6E20F26497",
-                    "download": "12D7D8B4DABAC3EADFE6DD6E20F26497"
-                },
-                "current": {
-                    "gid": "E9F8A87EBAE4715A2A2A3BD3A4C6C640",
-                    "size": "F0B15EA6DFB8FA4FA1F8780E432CC9A8",
-                    "download": "F0B15EA6DFB8FA4FA1F8780E432CC9A8"
-                },
-                "daily_main": {
-                    "gid": "155ADB35564CD8FB321B35067079C78E",
-                    "size": "027D39D08C81D1FA36C86E267B69985A",
-                    "download": "027D39D08C81D1FA36C86E267B69985A"
-                },
-                "external_playtest": {
-                    "gid": "547684EAAA1B77502626FFA8542733C8",
-                    "size": "CFB19CC9B5CB65078DB726449652987C",
-                    "download": "CFB19CC9B5CB65078DB726449652987C"
-                },
-                "grac_ratings": {
-                    "gid": "DBA5DE0F82C538634B7C80BBAC4BAE98",
-                    "size": "2D1C2E986FCCC1C61670DA074AF6F36C",
-                    "download": "2D1C2E986FCCC1C61670DA074AF6F36C"
-                },
-                "internal_playtest": {
-                    "gid": "6F0FBFAEACDDB8BFCDD3E704B0862C36",
-                    "size": "FC984C084760497976E438A041913B7A",
-                    "download": "FC984C084760497976E438A041913B7A"
-                },
-                "latest": {
-                    "gid": "C091CA544879CC3B65DD35D50ADD0586",
-                    "size": "8B17FFA7D78F55908B9538F784D3F1F6",
-                    "download": "8B17FFA7D78F55908B9538F784D3F1F6"
-                },
-                "lionbridge_qa": {
-                    "gid": "897A322766F37BDAA87636FCFA712DB1",
-                    "size": "346B24432265748235BC9EF840B40699",
-                    "download": "346B24432265748235BC9EF840B40699"
-                },
-                "mkt_recording": {
-                    "gid": "AC871FE858E748A358F59CFE4BB2D2E4",
-                    "size": "0984266CF3E8085DDB281819BBE3D93C",
-                    "download": "0984266CF3E8085DDB281819BBE3D93C"
-                },
-                "qa_testroom": {
-                    "gid": "F09F7E6BE447D6D4239B8B3D2F5742B0",
-                    "size": "D5035BBD8FB1259BAF1B79895E6F73FC",
-                    "download": "D5035BBD8FB1259BAF1B79895E6F73FC"
-                },
-                "qa_testroom_2": {
-                    "gid": "F9A617478A2E7DBC7BDE427361999F77",
-                    "size": "710CC5677DD8A9052796174425433B94",
-                    "download": "710CC5677DD8A9052796174425433B94"
-                },
-                "qa_testroom_3": {
-                    "gid": "7877BD614D4C0A6D6C1443948AE3F76E",
-                    "size": "2875511819A6A4EC8A1C033BD24CE4A8",
-                    "download": "2875511819A6A4EC8A1C033BD24CE4A8"
-                },
-                "security_hunt": {
-                    "gid": "4E6FA18A84966E3581E20B5B4D390AA7",
-                    "size": "7ACB3E24B4E7702A6EEBA0EB9B831FFA",
-                    "download": "7ACB3E24B4E7702A6EEBA0EB9B831FFA"
-                },
-                "tencent_playtest": {
-                    "gid": "09DF957247E6D53F2F0577CE9C89A486",
-                    "size": "5CC41D33DDAC43F26DF86CE5F2434435",
-                    "download": "5CC41D33DDAC43F26DF86CE5F2434435"
-                }
             }
         },
         "branches": {
             "public": {
                 "buildid": "11405781",
                 "timeupdated": "1686560547"
-            },
-            "closed_beta_test": {
-                "buildid": "16641541",
-                "pwdrequired": "1",
-                "timeupdated": "1733397222"
-            },
-            "current": {
-                "buildid": "16627829",
-                "pwdrequired": "1",
-                "timeupdated": "1733396416"
-            },
-            "daily_main": {
-                "buildid": "16393647",
-                "pwdrequired": "1",
-                "timeupdated": "1731916677"
-            },
-            "external_playtest": {
-                "buildid": "16323174",
-                "pwdrequired": "1",
-                "timeupdated": "1730981308"
-            },
-            "grac_ratings": {
-                "buildid": "16288637",
-                "pwdrequired": "1",
-                "timeupdated": "1732292195"
-            },
-            "internal_playtest": {
-                "buildid": "16728248",
-                "pwdrequired": "1",
-                "timeupdated": "1734344302"
-            },
-            "latest": {
-                "buildid": "16775533",
-                "pwdrequired": "1",
-                "timeupdated": "1734451793"
-            },
-            "lionbridge_qa": {
-                "buildid": "16741716",
-                "pwdrequired": "1",
-                "timeupdated": "1734446209"
-            },
-            "mkt_recording": {
-                "buildid": "16627829",
-                "pwdrequired": "1",
-                "timeupdated": "1733343813"
-            },
-            "qa_testroom": {
-                "buildid": "16774637",
-                "pwdrequired": "1",
-                "timeupdated": "1734447598"
-            },
-            "qa_testroom_2": {
-                "buildid": "16641541",
-                "pwdrequired": "1",
-                "timeupdated": "1733734422"
-            },
-            "qa_testroom_3": {
-                "buildid": "16761305",
-                "pwdrequired": "1",
-                "timeupdated": "1734422000"
-            },
-            "security_hunt": {
-                "buildid": "16177176",
-                "pwdrequired": "1",
-                "timeupdated": "1729843195"
-            },
-            "tencent_playtest": {
-                "buildid": "16248925",
-                "pwdrequired": "1",
-                "timeupdated": "1730459835"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26680804,
-    "_sha": "3449b96355285e3109eca5a71c1654039f3afad9",
-    "_size": 26577
+    "_change_number": 27186726,
+    "_sha": "02103519f5a08c6f3244dc060d09cdadd80bf170",
+    "_size": 16928
 }

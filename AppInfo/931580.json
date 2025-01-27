@@ -60,38 +60,6 @@
                     "size": "4358147298",
                     "download": "1783817248"
                 }
-            },
-            "encryptedmanifests": {
-                "candidate4testlive": {
-                    "gid": "3DB1BA89168EF19F7CB993C36BEEADA6",
-                    "size": "1726844A1F1CF586CB9C28F87EF09FC3",
-                    "download": "4DF83311D1B8F9512C00C50E81E1DC93"
-                },
-                "beta_backup1": {
-                    "gid": "192BC931126A448DC7C8EEF3CF3D9263",
-                    "size": "C889A1D463394DFF2153794C73097632",
-                    "download": "2B00FB06382B1B1E5C350859FB418B28"
-                },
-                "beta_backup2": {
-                    "gid": "0888E791357F20870E424D141845903D",
-                    "size": "AADB8757B323E91B13BD0A21555378FE",
-                    "download": "D42EEC75AEC1444B1D0772B028EF2831"
-                },
-                "coc_staging": {
-                    "gid": "018F12D5B3AEF01944B34BA7305CADC7",
-                    "size": "D444E479519495B70EE1754C421F9075",
-                    "download": "B49C5C8096404C1BA552C5B95C23464D"
-                },
-                "cocplaytest": {
-                    "gid": "B6A9070C77C6E086FCE7D964A2B6E369",
-                    "size": "D078D1183AE2D890D027E0B7D6667299",
-                    "download": "CAF9B662D29C311D2408978D11264F3F"
-                },
-                "rc-beta": {
-                    "gid": "8CDCC278EAFC8040F15A0A2B4C8BDC7A",
-                    "size": "1C0AD953076BCFCB3BDEFF6D6216CA7B",
-                    "download": "DD35E8C37B893CE2B661219B37DD1169"
-                }
             }
         },
         "931582": {
@@ -105,79 +73,18 @@
                     "size": "0",
                     "download": "0"
                 }
-            },
-            "encryptedmanifests": {
-                "candidate4testlive": {
-                    "gid": "260E15F5E24AF25294CDDE932FBD055F",
-                    "size": "04524542102F3C358FF3FD9B8B29E93E",
-                    "download": "04524542102F3C358FF3FD9B8B29E93E"
-                },
-                "beta_backup1": {
-                    "gid": "7A14BC02123B10F25C8B7CA80C3615C1",
-                    "size": "8C4D82E08CA1815B0A729CF828E3A386",
-                    "download": "8C4D82E08CA1815B0A729CF828E3A386"
-                },
-                "beta_backup2": {
-                    "gid": "C701E0BB17A1D1F687BAC651B5213293",
-                    "size": "073A75F541448C780B886035A5733F2F",
-                    "download": "073A75F541448C780B886035A5733F2F"
-                },
-                "coc_staging": {
-                    "gid": "D901D028F7D80FD95179F373F63142F5",
-                    "size": "962661E9EA62DE67F7889726682D148C",
-                    "download": "962661E9EA62DE67F7889726682D148C"
-                },
-                "cocplaytest": {
-                    "gid": "0C6B717AAE99279FEF0CEB564B49B3CD",
-                    "size": "958C822E8303ABB29C566F62CA1516F1",
-                    "download": "958C822E8303ABB29C566F62CA1516F1"
-                },
-                "rc-beta": {
-                    "gid": "DB1CB7D50EE8C9B160B9F910A6EDE76D",
-                    "size": "EEF6B68AB614BE00CE98595C732F21D3",
-                    "download": "EEF6B68AB614BE00CE98595C732F21D3"
-                }
             }
         },
         "branches": {
             "public": {
                 "buildid": "15513137",
                 "timeupdated": "1725364037"
-            },
-            "candidate4testlive": {
-                "buildid": "10538631",
-                "pwdrequired": "1",
-                "timeupdated": "1676281847"
-            },
-            "beta_backup1": {
-                "buildid": "13964155",
-                "pwdrequired": "1",
-                "timeupdated": "1725363322"
-            },
-            "beta_backup2": {
-                "buildid": "13855252",
-                "pwdrequired": "1",
-                "timeupdated": "1725363311"
-            },
-            "coc_staging": {
-                "buildid": "14432023",
-                "pwdrequired": "1",
-                "timeupdated": "1716233101"
-            },
-            "cocplaytest": {
-                "buildid": "14432023",
-                "pwdrequired": "1",
-                "timeupdated": "1716464296"
-            },
-            "rc-beta": {
-                "buildid": "15513137",
-                "pwdrequired": "1",
-                "timeupdated": "1724812213"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26182576,
-    "_sha": "d9ea0f0e2a36009e5290f43ef94d3576b90620f8",
-    "_size": 4620
+    "_change_number": 27015870,
+    "_sha": "434004008050043c8a87e17a8108ec0ab0077546",
+    "_size": 1790
 }

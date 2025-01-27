@@ -121,38 +121,6 @@
                     "size": "7242507810",
                     "download": "1928532704"
                 }
-            },
-            "encryptedmanifests": {
-                "pre-alpha_test_development": {
-                    "gid": "FAA47FA8C7004269578745BC4B422920",
-                    "size": "EBB6A88F9F48F3D990ACBEAE925C2EFB",
-                    "download": "914D714E9D1A71E81F2AB74F770C0BA4"
-                },
-                "pre-alpha_test_shipping": {
-                    "gid": "BA4B6B5ABB378BC47EDC06E63732A553",
-                    "size": "27288BE0664724B7E852D6D697682A44",
-                    "download": "3DD0CD875B38FE6803BC9ECD07C5D8B7"
-                },
-                "alpha_development": {
-                    "gid": "325C8821424D4CA1E7E51AB1C94640E3",
-                    "size": "6910B41D2633D1C8E840B0A40BB72E0D",
-                    "download": "4A329E75639ADCB194EAF8798A914CF2"
-                },
-                "alpha_shipping": {
-                    "gid": "6F61B3D8D956A4E5ED307A29B649140E",
-                    "size": "B5BDD0971B36BCB2E03515AE9EA429AE",
-                    "download": "9018325C12C7824A3B9A476180A9CB8D"
-                },
-                "pre-alpha_development": {
-                    "gid": "E7D44B76BE346302A5ED7C62D075EBEE",
-                    "size": "834C9CD5B06D5948619F3B22A51068A9",
-                    "download": "4BE3DABC52794B568F390FC7E8E1A324"
-                },
-                "pre-alpha_shipping": {
-                    "gid": "FAFDE3C645C0414C2783C87999FA3314",
-                    "size": "2835CDC1DF6F13533763B783A6C859C9",
-                    "download": "C5DFE5D697F976F4FBA2CF3FBC0AEEE6"
-                }
             }
         },
         "branches": {
@@ -180,16 +148,6 @@
                 "description": "Stable version of 2.4.x",
                 "timeupdated": "1701164576"
             },
-            "pre-alpha_test_development": {
-                "buildid": "11788160",
-                "pwdrequired": "1",
-                "timeupdated": "1690337847"
-            },
-            "pre-alpha_test_shipping": {
-                "buildid": "12419252",
-                "pwdrequired": "1",
-                "timeupdated": "1697074169"
-            },
             "3.3.2": {
                 "buildid": "14105857",
                 "description": "Stable version of 3.3.x",
@@ -199,31 +157,12 @@
                 "buildid": "14517466",
                 "description": "\tStable version of 3.4.x",
                 "timeupdated": "1717144257"
-            },
-            "alpha_development": {
-                "buildid": "15010407",
-                "pwdrequired": "1",
-                "timeupdated": "1720769507"
-            },
-            "alpha_shipping": {
-                "buildid": "15044501",
-                "pwdrequired": "1",
-                "timeupdated": "1721100429"
-            },
-            "pre-alpha_development": {
-                "buildid": "14663890",
-                "pwdrequired": "1",
-                "timeupdated": "1718021704"
-            },
-            "pre-alpha_shipping": {
-                "buildid": "14664804",
-                "pwdrequired": "1",
-                "timeupdated": "1718026495"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26374254,
-    "_sha": "93320d5144899077cc25f9e91f2b1d4fab6966c0",
-    "_size": 5281
+    "_change_number": 26997904,
+    "_sha": "70f40e19de461bfa5e21eb95680b3bbef141048a",
+    "_size": 3456
 }

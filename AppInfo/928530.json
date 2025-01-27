@@ -109,23 +109,6 @@
                     "size": "781509233",
                     "download": "317936032"
                 }
-            },
-            "encryptedmanifests": {
-                "development": {
-                    "gid": "0996BC91701A10F108D207D7A2E06996",
-                    "size": "F92806822CB2A0DD559219166CF60E15",
-                    "download": "A8441BDDB92CA680BAB8BFBA439382B6"
-                },
-                "pal_testing": {
-                    "gid": "89C4F3DD51F2FAEEE3F87533A5894CCF",
-                    "size": "8ADE80BD245A05BA3EFB3762D4115172",
-                    "download": "361FF5079AC570EC63E2475E4C254098"
-                },
-                "release": {
-                    "gid": "54865AC1B571C45C3B4269B8B99F017E",
-                    "size": "69DF118EDE5EFC0987FAF8C19C4AEA2F",
-                    "download": "B1D1CDB1125D4F4F9A56615CDFA44BD0"
-                }
             }
         },
         "928532": {
@@ -139,39 +122,18 @@
                     "size": "781645341",
                     "download": "321275840"
                 }
-            },
-            "encryptedmanifests": {
-                "development": {
-                    "gid": "28FE89F807C48D262D386AF2B1645E24",
-                    "size": "A0C6C15F1C4021943C3C5CDAE6137742",
-                    "download": "346F5FE1086437D6D6FD0704885107FC"
-                }
             }
         },
         "branches": {
             "public": {
                 "buildid": "6838348",
                 "timeupdated": "1623230268"
-            },
-            "development": {
-                "buildid": "6825167",
-                "pwdrequired": "1",
-                "timeupdated": "1623073210"
-            },
-            "pal_testing": {
-                "buildid": "4966159",
-                "pwdrequired": "1",
-                "timeupdated": "1588266635"
-            },
-            "release": {
-                "buildid": "5223294",
-                "pwdrequired": "1",
-                "timeupdated": "1593265700"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26182576,
-    "_sha": "572c2720ba689df37bfad6af9aa713eea2002dca",
-    "_size": 3693
+    "_change_number": 27015870,
+    "_sha": "e29907c9c62980373542ffca7a48ee83c9f8e37b",
+    "_size": 2629
 }

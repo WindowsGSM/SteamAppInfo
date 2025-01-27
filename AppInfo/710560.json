@@ -114,99 +114,18 @@
                     "size": "0",
                     "download": "0"
                 }
-            },
-            "encryptedmanifests": {
-                "cb_unup": {
-                    "gid": "05B8919C89F851E0298A2B63EF6828FC",
-                    "size": "15A29049E21731AE2A0EB55B05397F21",
-                    "download": "F7DD1D201F22BC5385936173E66B35BC"
-                },
-                "nuds": {
-                    "gid": "BD2B309A51BD9DFD2EB51DA50070565A",
-                    "size": "23936FDA3109A4C86890F941C61376A0",
-                    "download": "6CDBB5E7B05790B4487EEAA6D889E58A"
-                },
-                "staging": {
-                    "gid": "6BF738B2CF9B6211CFBB618B77D0E9C5",
-                    "size": "18DB2018B55D9DA0EF154D874DBFD3E2",
-                    "download": "14EBC6B4ED066C203D125B54642B1337"
-                },
-                "experimental": {
-                    "gid": "2984537196913F2DC5270B732D8E38B7",
-                    "size": "DD5746ED255C456DF40958A2D7C6952B",
-                    "download": "D0F28E358F4CDD835F837E0EBD6167B3"
-                },
-                "experimental_staging": {
-                    "gid": "BB5AB616333B89C9935D8F2361695C92",
-                    "size": "9685D08CF1D3A97FCD1A295283D4C8CA",
-                    "download": "2235B5818D8F73FC8A1D15A2886124A3"
-                },
-                "qa_main_cds": {
-                    "gid": "32606F75361EB472A0D1B06321A6EF44",
-                    "size": "306AF186EE36991F4B12C339FE03D468",
-                    "download": "54C41D419377DC9FD76D05A10406122A"
-                },
-                "release": {
-                    "gid": "63DF35ABD17F088107B5CB5C9A1AB4F4",
-                    "size": "38B40D53CBC9C2520BB9106F8CDF3F8F",
-                    "download": "CAE28C664C718843572AEBB2D2A96E67"
-                },
-                "release_candidate": {
-                    "gid": "D9F7919E316378CFEC4BD301FCB1102B",
-                    "size": "CB673B94D0C701D98CF0B613953B6662",
-                    "download": "587219F423A4A261EE07977D2270EF9C"
-                }
             }
         },
         "branches": {
             "public": {
                 "buildid": "7695194",
                 "timeupdated": "1636625351"
-            },
-            "cb_unup": {
-                "buildid": "12524311",
-                "pwdrequired": "1",
-                "timeupdated": "1698173067"
-            },
-            "nuds": {
-                "buildid": "5364503",
-                "pwdrequired": "1",
-                "timeupdated": "1596461840"
-            },
-            "staging": {
-                "buildid": "14065252",
-                "pwdrequired": "1",
-                "timeupdated": "1713239022"
-            },
-            "experimental": {
-                "buildid": "15663904",
-                "pwdrequired": "1",
-                "timeupdated": "1726059106"
-            },
-            "experimental_staging": {
-                "buildid": "15663904",
-                "pwdrequired": "1",
-                "timeupdated": "1726057371"
-            },
-            "qa_main_cds": {
-                "buildid": "16766806",
-                "pwdrequired": "1",
-                "timeupdated": "1734396870"
-            },
-            "release": {
-                "buildid": "15992667",
-                "pwdrequired": "1",
-                "timeupdated": "1728983426"
-            },
-            "release_candidate": {
-                "buildid": "15992667",
-                "pwdrequired": "1",
-                "timeupdated": "1728554521"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26669806,
-    "_sha": "b5d6ad8ebb71cd5bd1feb35b8ec376de1eb1b7d8",
-    "_size": 4729
+    "_change_number": 27140712,
+    "_sha": "d54f1122ccc4bd31e308e522e0cc71bfcc529343",
+    "_size": 2447
 }

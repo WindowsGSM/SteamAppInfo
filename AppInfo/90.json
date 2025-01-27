@@ -60,16 +60,9 @@
                     "download": "8090192"
                 },
                 "beta": {
-                    "gid": "3422820008550101176",
+                    "gid": "3379700437114774183",
                     "size": "36583373",
-                    "download": "11094560"
-                }
-            },
-            "encryptedmanifests": {
-                "test": {
-                    "gid": "26CAA9D0D6114EB178FFB73AA2F80DBE",
-                    "size": "E20FC6B3C224A581894BAB4CE217164A",
-                    "download": "56B1A5EC9768595C9ECA395A680DD69B"
+                    "download": "11094464"
                 }
             }
         },
@@ -89,16 +82,9 @@
                     "download": "4814512"
                 },
                 "beta": {
-                    "gid": "2602921513184876182",
-                    "size": "16173789",
-                    "download": "5310992"
-                }
-            },
-            "encryptedmanifests": {
-                "test": {
-                    "gid": "40E31FBA91B8CD48A961BB65CE468E14",
-                    "size": "9BAB5A7E65DC34B1FFB494F900904BE6",
-                    "download": "F9498711C5F82093507D488398015AC5"
+                    "gid": "7160638285805069857",
+                    "size": "15944895",
+                    "download": "5255792"
                 }
             }
         },
@@ -113,50 +99,50 @@
         "81": {
             "systemdefined": "1",
             "depotfromapp": "80",
-            "sharedinstall": "2",
             "config": {
                 "mod": "czero"
-            }
+            },
+            "sharedinstall": "2"
         },
         "31": {
             "systemdefined": "1",
             "depotfromapp": "30",
-            "sharedinstall": "2",
             "config": {
                 "mod": "dod"
-            }
+            },
+            "sharedinstall": "2"
         },
         "21": {
             "systemdefined": "1",
             "depotfromapp": "20",
-            "sharedinstall": "2",
             "config": {
                 "mod": "tfc"
-            }
+            },
+            "sharedinstall": "2"
         },
         "41": {
             "systemdefined": "1",
             "depotfromapp": "40",
-            "sharedinstall": "2",
             "config": {
                 "mod": "dmc"
-            }
+            },
+            "sharedinstall": "2"
         },
         "61": {
             "systemdefined": "1",
             "depotfromapp": "60",
-            "sharedinstall": "2",
             "config": {
                 "mod": "ricochet"
-            }
+            },
+            "sharedinstall": "2"
         },
         "51": {
             "systemdefined": "1",
             "depotfromapp": "50",
-            "sharedinstall": "2",
             "config": {
                 "mod": "gearbox"
-            }
+            },
+            "sharedinstall": "2"
         },
         "1004": {
             "config": {
@@ -209,18 +195,14 @@
                 "timeupdated": "1700620170"
             },
             "beta": {
-                "buildid": "15961496",
-                "timeupdated": "1728506866"
-            },
-            "test": {
-                "buildid": "15961496",
-                "pwdrequired": "1",
-                "timeupdated": "1728506842"
+                "buildid": "17131367",
+                "timeupdated": "1738003009"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 25635706,
-    "_sha": "e008a8e9e0cd40df072a08e0356552e74477e816",
-    "_size": 4036
+    "_change_number": 27188667,
+    "_sha": "0695b6142351b42dd86d54dbcb1904bc73c5cd99",
+    "_size": 3552
 }

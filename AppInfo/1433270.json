@@ -95,23 +95,6 @@
                     "size": "1077030009",
                     "download": "350458960"
                 }
-            },
-            "encryptedmanifests": {
-                "kuebv-test": {
-                    "gid": "135830FE74285D5389D5AEB6A05F9284",
-                    "size": "68368A46C57FC60A501F5383C9AB67B8",
-                    "download": "19BA9019EDD9B43251C7DD87FDF984C3"
-                },
-                "ced-test": {
-                    "gid": "E7DAE1F5DCAA542F2B407AFF178A9894",
-                    "size": "A399875D42482173680CB441BEFE7D22",
-                    "download": "298B96C3B061B2773C7C6B98A08B8EE7"
-                },
-                "ci-build": {
-                    "gid": "BFB18C001BFAF211D587C9C47855A3A9",
-                    "size": "E3C7F4EB228105A212508EB54FD46FA7",
-                    "download": "F7D70A6F2E5F6402B2A1A76AC070FF96"
-                }
             }
         },
         "1433272": {
@@ -126,49 +109,18 @@
                     "size": "1020604966",
                     "download": "343577328"
                 }
-            },
-            "encryptedmanifests": {
-                "kuebv-test": {
-                    "gid": "9038C01E16E7349CFAA6A744B7DDFF52",
-                    "size": "0D545F6747095E5ACCAB205FBA705196",
-                    "download": "ABEA44E57CB2C53169BA5A69D9DCC598"
-                },
-                "ced-test": {
-                    "gid": "B9BCBFC0F05ACA9564742B56FBA73604",
-                    "size": "3ADBDCDD76FCCCF3EDC08919A45EEFA1",
-                    "download": "8C4CAE6F82DA98C3E1EEF960F96FAD5E"
-                },
-                "ci-build": {
-                    "gid": "BD1406551FE44CF1FB70AC4B3AC68652",
-                    "size": "1DD25046433E1856547FB5D583F911DD",
-                    "download": "F65689200151CB81798F880304EB3A25"
-                }
             }
         },
         "branches": {
             "public": {
                 "buildid": "11506896",
                 "timeupdated": "1687195092"
-            },
-            "kuebv-test": {
-                "buildid": "11658195",
-                "pwdrequired": "1",
-                "timeupdated": "1688868577"
-            },
-            "ced-test": {
-                "buildid": "14339777",
-                "pwdrequired": "1",
-                "timeupdated": "1715483488"
-            },
-            "ci-build": {
-                "buildid": "14339777",
-                "pwdrequired": "1",
-                "timeupdated": "1715483485"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26374254,
-    "_sha": "3126c659bcf641bc0058535f42491f1ab5bad8e2",
-    "_size": 3832
+    "_change_number": 26997904,
+    "_sha": "6008a5ce2eb3f4b40d75003cab2c58ecd4e51468",
+    "_size": 2424
 }

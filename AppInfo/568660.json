@@ -47,18 +47,6 @@
                     "size": "2553557103",
                     "download": "503408800"
                 }
-            },
-            "encryptedmanifests": {
-                "developer-only": {
-                    "gid": "FD78B46962DB74C438570903AEDF67A6",
-                    "size": "AA2061227626DB68D7E607A2310F8FB5",
-                    "download": "F85420B447AA274474ECC117C43915F1"
-                },
-                "test-branch": {
-                    "gid": "C8674AAB179BB76EFFEF712A5DDA4C2C",
-                    "size": "3FF0C6C3D72BBAF5D554B1D3E6AC5FC3",
-                    "download": "FF7BDDD4F2286A2C2AE63ECA79739D5B"
-                }
             }
         },
         "568662": {
@@ -78,22 +66,13 @@
                 "buildid": "5932831",
                 "timeupdated": "1607386099"
             },
-            "developer-only": {
-                "buildid": "7791313",
-                "pwdrequired": "1",
-                "timeupdated": "1638130969"
-            },
             "live-server-version": {
                 "buildid": "5932831",
                 "description": "live server",
                 "timeupdated": "1607386080"
-            },
-            "test-branch": {
-                "buildid": "5932831",
-                "pwdrequired": "1",
-                "timeupdated": "1607386089"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "ufs": {
         "quota": "0",
@@ -102,7 +81,7 @@
         "ignoreexternalfiles": "1"
     },
     "_missing_token": false,
-    "_change_number": 26182440,
-    "_sha": "cf069c59d2a7354367bcf1593f80ac60a654fb41",
-    "_size": 2283
+    "_change_number": 27015870,
+    "_sha": "2798b965c6965931a4bfa91e2d19108bb210dc96",
+    "_size": 1700
 }

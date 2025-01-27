@@ -13,13 +13,13 @@
         "icon": "6476b34a04cbffb63ddc6fec22fe4d499f86906a",
         "logo": "d14d93262f4e6574626a8b3ce535d20ec46f0e12",
         "logo_small": "d14d93262f4e6574626a8b3ce535d20ec46f0e12_thumb",
+        "freetodownload": "1",
         "associations": {},
         "gameid": "1748680",
         "exfgls": "9"
     },
     "extended": {
-        "gamedir": "Fight or Flight",
-        "serverbrowsername": "Fight or Flight"
+        "gamedir": ""
     },
     "config": {
         "installdir": "Fight or Flight Dedicated Server",
@@ -117,6 +117,10 @@
             "sharedinstall": "1"
         },
         "1748681": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
             "manifests": {
                 "public": {
                     "gid": "932167781690151748",
@@ -133,7 +137,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 23760255,
-    "_sha": "e1a64de734df04380bc5012fdd1b4a7ddbc76a2f",
-    "_size": 3746
+    "_change_number": 27120343,
+    "_sha": "44ecd9dd9f8effae8874eab87ada224d15af6a51",
+    "_size": 3779
 }

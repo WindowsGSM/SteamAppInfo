@@ -216,8 +216,8 @@
             "15": "15172",
             "16": "6971",
             "17": "5094",
-            "18": "4252",
-            "19": "5030"
+            "18": "5030",
+            "19": "4252"
         },
         "review_score": "8",
         "review_percentage": "86"
@@ -289,56 +289,18 @@
                     "size": "10227137838",
                     "download": "9422341424"
                 }
-            },
-            "encryptedmanifests": {
-                "development": {
-                    "gid": "D1C09C9F8E5AE6069B553A19C07AC27E",
-                    "size": "25B91E3FB92AAFA77DBC7995CA54DC12",
-                    "download": "03D3864DD9839FD850B171221BBBA47F"
-                },
-                "patchtest": {
-                    "gid": "EF321E94FB37196B675C459F2541036B",
-                    "size": "25639D602A716108AC4609ED6E3C2DB4",
-                    "download": "65265CED800CB56B427A3A8AAA33E394"
-                },
-                "pressrelease": {
-                    "gid": "98B7560E1B996537234F6B247E928BEB",
-                    "size": "62814C52E53E5C5883A53CEAE489138E",
-                    "download": "43DC141B9CE27986F44880EF0979382D"
-                }
             }
         },
         "1386902": {
-            "manifests": {},
-            "encryptedmanifests": {
-                "development": {
-                    "gid": "349FA298BD82BB60A0A89201F99983A8",
-                    "size": "B59704B94CA7C539D80F7BBCD0A73C09",
-                    "download": "4791D5F4333CCE8F8CEEA632BE01D1DE"
-                }
-            }
+            "manifests": {}
         },
         "branches": {
             "public": {
                 "buildid": "7368691",
                 "timeupdated": "1635242799"
-            },
-            "development": {
-                "buildid": "7436884",
-                "pwdrequired": "1",
-                "timeupdated": "1632820013"
-            },
-            "patchtest": {
-                "buildid": "5846647",
-                "pwdrequired": "1",
-                "timeupdated": "1605690261"
-            },
-            "pressrelease": {
-                "buildid": "5709461",
-                "pwdrequired": "1",
-                "timeupdated": "1603213441"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "ufs": {
         "quota": "64000000",
@@ -355,7 +317,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 26425801,
-    "_sha": "f3ce1ba9e3d1c6637215b72ec7cc4d9889df8a4f",
-    "_size": 7823
+    "_change_number": 26906793,
+    "_sha": "fd6e3a3aa595a86e2c472c7fc2ca0b32057c7122",
+    "_size": 6753
 }

@@ -84,111 +84,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "15334321432738161",
-                    "size": "13137817102",
-                    "download": "2655349184"
+                    "gid": "6717473099110440489",
+                    "size": "13137314697",
+                    "download": "2654820800"
                 },
                 "experimental": {
-                    "gid": "15334321432738161",
-                    "size": "13137817102",
-                    "download": "2655349184"
-                }
-            },
-            "encryptedmanifests": {
-                "epic": {
-                    "gid": "0CC0A3B3B394A6930420DEA3393F2EFD",
-                    "size": "A88FC3B449EA58D0D9BFAA4565FB213C",
-                    "download": "7198AEBAC8D864C18EFA8FE568BECBC6"
-                },
-                "qa-cheats": {
-                    "gid": "3BE7FA5F96FC800A2314CA12C26BB8E2",
-                    "size": "1E4F1F55DE8C275674E330DAB668472B",
-                    "download": "68307D139DB3CB83DA00E84074DDA541"
-                },
-                "default-cheats": {
-                    "gid": "BE7A7A61AA08D2F3ECEA27D6AFD8553B",
-                    "size": "3C5F4834A5EDAE18D971E3AEB68B539D",
-                    "download": "1ADD83991EA6E0688E131195EA18FF2B"
-                },
-                "experimental-cheats": {
-                    "gid": "9E78BA9C30E475D115F81FA1DFE765F9",
-                    "size": "F81DAC5F5B04F8E1087C8B4900D49953",
-                    "download": "7C5BAC30DCA9A484342FB161F124699D"
-                },
-                "internal": {
-                    "gid": "6F0FA361AAE8AA616429EFB3ACC3F9B8",
-                    "size": "7383715BE6D2F38C5CFE048C661C915F",
-                    "download": "E22308D670F0FE99B9B237393D287755"
-                },
-                "internal-trailer": {
-                    "gid": "91601CA64DFC0A714B470B68C5E1A9E6",
-                    "size": "27C5CD05E9EF3604D87230D8AE5D23CD",
-                    "download": "2D08D0C5DC1F5910DC8A62BC62117895"
-                },
-                "internal2": {
-                    "gid": "B9548B2D02C4E8EF04B064C4352F6DB4",
-                    "size": "E7AFBD603BCFBCBCF5598BB491C25EB1",
-                    "download": "133E572FCC166FEE7BB35FA53D78155E"
-                },
-                "internal3": {
-                    "gid": "1797959962EBB5FD82D38230A0B67124",
-                    "size": "D10F94889D12CD3A39BD757F90319BCC",
-                    "download": "B541CBDC9552BEE93F5DE23708BDFF23"
-                },
-                "internal4": {
-                    "gid": "80A2A2BD5260A5AE26C61947D8705C79",
-                    "size": "4B6170684557169BCFE5519A8A2C48E6",
-                    "download": "F80E7F4738089E3D33A77B7EA3DF32E0"
-                },
-                "internal5": {
-                    "gid": "FF35D8D550ABE8D1ED2B97D0272CD7E8",
-                    "size": "B3DC3DD38FF8931915534F786EFD4C9B",
-                    "download": "4E5B98A7879B0E7A789CE5C951069B20"
-                },
-                "internal6": {
-                    "gid": "2B79F513B19F79D00086582BC796E392",
-                    "size": "EDA7EE116B16F273EFFB20F117B9C816",
-                    "download": "10D3A35C80B76EB492B5BE922D268B6F"
-                },
-                "internal7": {
-                    "gid": "133E61BE51E08944566F143C00610CBF",
-                    "size": "9A286EAC12858892B38B21E4D0284071",
-                    "download": "7E6CF77F6C669452E1FADAAC39F1A92E"
-                },
-                "internal8": {
-                    "gid": "337975B5E5366DAD277F2BA776720546",
-                    "size": "F8AC16EE62895994C110DA32E6196452",
-                    "download": "97DE1E327ADA4174249C2DBC1F580D4D"
-                },
-                "media": {
-                    "gid": "E4CED69BB9C044958A2F8A345C177333",
-                    "size": "28306EF5BFFF9977CDA6FA6FF4706C42",
-                    "download": "C7FE4BB1C580289F635B4638CE578628"
-                },
-                "nightly": {
-                    "gid": "8A04C9EC5EFC43A8D4AB8F5E8AA49E1F",
-                    "size": "DA05D1F27201BEC3B05492FB7C87E9F7",
-                    "download": "5721241ECABFF8736B620F1F8B72D7C6"
-                },
-                "patching": {
-                    "gid": "E6DB25B002A57FD73258688B15032C37",
-                    "size": "74BCD31E7A491B20D790F173FE304A8F",
-                    "download": "241D988AB232A606ED13F87F93B5C538"
-                },
-                "patchnotes-cheats": {
-                    "gid": "F44D4A33C6CA7E798FFAC75826341D11",
-                    "size": "50F2B09FE6C95FF86A28C1C045400025",
-                    "download": "7AEF7EBF4238A55AB84588223E21B3F9"
-                },
-                "staging": {
-                    "gid": "7F209181678BDFFDA76C15D01C608796",
-                    "size": "B4756760D88D9AA22DE95EE83C63A28E",
-                    "download": "DB605C2FB5DECF8A07BF150F3AC0D594"
-                },
-                "tech-support": {
-                    "gid": "7061C63CE18EE3A488266E8F752862BF",
-                    "size": "354FC9AC9E7A7F2A35A10C694A7CE053",
-                    "download": "9C33D9A2C1352B2ECD0536600680F36A"
+                    "gid": "6717473099110440489",
+                    "size": "13137314697",
+                    "download": "2654820800"
                 }
             }
         },
@@ -198,222 +101,31 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5954014120064192401",
-                    "size": "4233224623",
-                    "download": "1190074064"
+                    "gid": "6204133154971956314",
+                    "size": "4232957825",
+                    "download": "1189969616"
                 },
                 "experimental": {
-                    "gid": "5954014120064192401",
-                    "size": "4233224623",
-                    "download": "1190074064"
-                }
-            },
-            "encryptedmanifests": {
-                "epic": {
-                    "gid": "45C2565EE9237D189F00B31D5EA895CD",
-                    "size": "992E33D353FF787254A7E602AA4ACFC9",
-                    "download": "B7C2A4E8F3CE354B16B224A91937D353"
-                },
-                "qa-cheats": {
-                    "gid": "785EF0A4E0203E4800900A951E96E85E",
-                    "size": "0691FA72CBFABA86284CB5F78B0E868C",
-                    "download": "2A25922A1CFE093E6B3BADA521BB59E3"
-                },
-                "default-cheats": {
-                    "gid": "CFBD45C7CA7A64F7F0ECAD87B5A2597A",
-                    "size": "57EAE3FF40B76C06A742CD46C45FE8A0",
-                    "download": "9348DAEBBAF800727A5528BA44FED32E"
-                },
-                "experimental-cheats": {
-                    "gid": "D39105CDC57FA0D8928242C185A6B5E5",
-                    "size": "EF5A38BD46320EEA760A07C5099F5ECA",
-                    "download": "5CB9EC8DB8BC265799EA018E69A81E7C"
-                },
-                "internal": {
-                    "gid": "64F83B820D118AF545FC82AC2E1F40B7",
-                    "size": "D6AB752E3CE55A7F68A1F505217E684A",
-                    "download": "584D39D2B74BF110A62FF6554CF104D0"
-                },
-                "internal-trailer": {
-                    "gid": "8C43E48437B65FC5E50553075E784547",
-                    "size": "B8236D24001DF50EBD2F492AE92FF264",
-                    "download": "28590DD22FDC63A57C4A7872156DF4A8"
-                },
-                "internal2": {
-                    "gid": "89C0B223A56DDE637F150F0D6160A123",
-                    "size": "9C3C0354B2D716DED65E7400267DD531",
-                    "download": "B7F439342BA33B35DAD934A58536CA52"
-                },
-                "internal3": {
-                    "gid": "B994947E38996128BCC69D0DF34BA5BF",
-                    "size": "05626B2A7326FA6C70A7656B6A43EF06",
-                    "download": "02677E983926D7AFC1A7D4156947A24C"
-                },
-                "internal4": {
-                    "gid": "92B0E7DC99A50B3D61F33A5C7B4CE8C5",
-                    "size": "BEC563F1E23DFE41A2EB10824D8C1C8F",
-                    "download": "637990DC075128A45F6BF4C7F9BB0CE1"
-                },
-                "internal5": {
-                    "gid": "790D0F0E854DBA3908BC05ED2F37E3B8",
-                    "size": "ADA3DAD1248616C2D9D4C36C7E09A738",
-                    "download": "D0DEF675B5D24FF963DE237B77A6CEAF"
-                },
-                "internal6": {
-                    "gid": "C93547244B4430B4336330292AD85372",
-                    "size": "AC459D1FAA6F6E09473C0D33A0548C1C",
-                    "download": "88B8CCB2DCCF6F59F16D96F827DB657C"
-                },
-                "internal7": {
-                    "gid": "5BC44EF8D51B0E0AB904279F26BA1007",
-                    "size": "06004604A99ABF637C43546FF3587073",
-                    "download": "8BC94A6B74686D28C432618FBAFB792F"
-                },
-                "internal8": {
-                    "gid": "7535FF49FEF54FEE1B4348F1AFB55EBA",
-                    "size": "44D0744E8B71D0B48D2BB2CBEC8D1E04",
-                    "download": "125F66393A85DAE7DE0CB2B158794880"
-                },
-                "media": {
-                    "gid": "3CAC3A92FE01A4C7939F841B45D71933",
-                    "size": "D0E55AAC720A0F510AA59C519BAB07C4",
-                    "download": "A0A86F164145D00744FD1A51A82B791E"
-                },
-                "nightly": {
-                    "gid": "7BDC3A5BB8C846976BEF6C0E04F25905",
-                    "size": "504C227523D9A781AFA782B530341D02",
-                    "download": "1E6068C2D6F87BC8795840EA9CFE577A"
-                },
-                "patching": {
-                    "gid": "EBADF86B151F228A18184CC0AF15CF2A",
-                    "size": "2C3262D1DAF5988A7C690F82EC0B1A60",
-                    "download": "C4F88F2B14AB88A6EB9A8B94B5ED2E83"
-                },
-                "patchnotes-cheats": {
-                    "gid": "2FCBE131D0210A5E9208E838A9CC27F9",
-                    "size": "491232AC248041259C5C8F4CD8F26FB5",
-                    "download": "6AE995C3824C8B58CE2965AE24868437"
-                },
-                "staging": {
-                    "gid": "520AA78ACDBD2E705754C12AD381D378",
-                    "size": "50D8C56101BCB0A3390BB6E6A8564AD8",
-                    "download": "0A8FF8507C0C95709D149B9FB62E28B6"
-                },
-                "tech-support": {
-                    "gid": "EBF736D8AA2961029B507CA1D442C0F9",
-                    "size": "5D0DF473B29B4B60B5F9318238F50ADD",
-                    "download": "217FB0DD263A33E6072B6A2969B73A63"
+                    "gid": "6204133154971956314",
+                    "size": "4232957825",
+                    "download": "1189969616"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "16682735",
-                "timeupdated": "1733769628"
-            },
-            "epic": {
-                "buildid": "12629664",
-                "pwdrequired": "1",
-                "timeupdated": "1699274263"
-            },
-            "qa-cheats": {
-                "buildid": "11678712",
-                "pwdrequired": "1",
-                "timeupdated": "1689114585"
-            },
-            "default-cheats": {
-                "buildid": "12929915",
-                "pwdrequired": "1",
-                "timeupdated": "1732273819"
+                "buildid": "16775547",
+                "timeupdated": "1734694759"
             },
             "experimental": {
-                "buildid": "16682735",
-                "timeupdated": "1733769592"
-            },
-            "experimental-cheats": {
-                "buildid": "16393186",
-                "pwdrequired": "1",
-                "timeupdated": "1733163269"
-            },
-            "internal": {
-                "buildid": "16486949",
-                "pwdrequired": "1",
-                "timeupdated": "1732196168"
-            },
-            "internal-trailer": {
-                "buildid": "16764172",
-                "pwdrequired": "1",
-                "timeupdated": "1734384464"
-            },
-            "internal2": {
-                "buildid": "16707584",
-                "pwdrequired": "1",
-                "timeupdated": "1733921872"
-            },
-            "internal3": {
-                "buildid": "16407477",
-                "pwdrequired": "1",
-                "timeupdated": "1731595405"
-            },
-            "internal4": {
-                "buildid": "16568286",
-                "pwdrequired": "1",
-                "timeupdated": "1732807807"
-            },
-            "internal5": {
-                "buildid": "16759075",
-                "pwdrequired": "1",
-                "timeupdated": "1734353676"
-            },
-            "internal6": {
-                "buildid": "16767589",
-                "pwdrequired": "1",
-                "timeupdated": "1734402153"
-            },
-            "internal7": {
-                "buildid": "16579504",
-                "pwdrequired": "1",
-                "timeupdated": "1732887453"
-            },
-            "internal8": {
-                "buildid": "16777855",
-                "pwdrequired": "1",
-                "timeupdated": "1734465589"
-            },
-            "media": {
-                "buildid": "15570278",
-                "pwdrequired": "1",
-                "timeupdated": "1725309546"
-            },
-            "nightly": {
-                "buildid": "16772066",
-                "pwdrequired": "1",
-                "timeupdated": "1734433433"
-            },
-            "patching": {
-                "buildid": "16779168",
-                "pwdrequired": "1",
-                "timeupdated": "1734473951"
-            },
-            "patchnotes-cheats": {
-                "buildid": "15291339",
-                "pwdrequired": "1",
-                "timeupdated": "1723039622"
-            },
-            "staging": {
                 "buildid": "16775547",
-                "pwdrequired": "1",
-                "timeupdated": "1734451878"
-            },
-            "tech-support": {
-                "buildid": "15913157",
-                "pwdrequired": "1",
-                "timeupdated": "1727943936"
+                "timeupdated": "1734694699"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26685371,
-    "_sha": "f0f3b8b09e83cbca471d237b6c19293ff0f97d83",
-    "_size": 11267
+    "_change_number": 27189580,
+    "_sha": "4590ab246b14661ef18910b9f8e2f14566d82b47",
+    "_size": 2510
 }

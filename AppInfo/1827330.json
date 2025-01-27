@@ -89,23 +89,6 @@
                     "size": "926972512",
                     "download": "683729792"
                 }
-            },
-            "encryptedmanifests": {
-                "development": {
-                    "gid": "5016DA13169E3558071D9266588B9287",
-                    "size": "D2C3810DC22DB16D263D71A514A5D34E",
-                    "download": "2F24179F0698CEC04707188EEC41F9DE"
-                },
-                "development_next": {
-                    "gid": "E310DFDA4C581060016362E3115EDC4F",
-                    "size": "B10594CD8F6075B7964C7ED3399E26D6",
-                    "download": "2C96405A4B54E2C1387D46287BF4E415"
-                },
-                "experimental_private": {
-                    "gid": "B8A3817256A96BA50A8814E4AE504B1F",
-                    "size": "E1742C06E9C2D169850F09B2A85EC8FD",
-                    "download": "6AAB9A39166BD54A431AD789CEA1DAE3"
-                }
             }
         },
         "branches": {
@@ -113,30 +96,16 @@
                 "buildid": "16026326",
                 "timeupdated": "1728825936"
             },
-            "development": {
-                "buildid": "16026282",
-                "pwdrequired": "1",
-                "timeupdated": "1728825960"
-            },
-            "development_next": {
-                "buildid": "16026282",
-                "pwdrequired": "1",
-                "timeupdated": "1728822198"
-            },
             "experimental": {
                 "buildid": "16026326",
                 "description": "Public experimental branch",
                 "timeupdated": "1728825952"
-            },
-            "experimental_private": {
-                "buildid": "16026326",
-                "pwdrequired": "1",
-                "timeupdated": "1728822066"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26374567,
-    "_sha": "48587ce8598039a7535e063347cc5eb0688cfbf3",
-    "_size": 3094
+    "_change_number": 26845279,
+    "_sha": "88001a594f2be567c3c11a30dd44383ccf55ea4a",
+    "_size": 2202
 }

@@ -68,19 +68,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5805349154506095828",
-                    "size": "8453699913",
-                    "download": "1922329136"
+                    "gid": "2104768085662715587",
+                    "size": "6076282230",
+                    "download": "1486715008"
                 },
-                "canary": {
-                    "gid": "1352113144452048356",
-                    "size": "8507605688",
-                    "download": "1934578096"
-                },
-                "hotfix": {
-                    "gid": "5805349154506095828",
-                    "size": "8453699913",
-                    "download": "1922329136"
+                "experimental": {
+                    "gid": "6339079231874684183",
+                    "size": "8799517639",
+                    "download": "2253163568"
                 }
             }
         },
@@ -90,41 +85,32 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2841404673161708660",
-                    "size": "10508158829",
-                    "download": "2156978032"
+                    "gid": "2872405410385848727",
+                    "size": "7130122007",
+                    "download": "1598702224"
                 },
-                "canary": {
-                    "gid": "2165925093903168548",
-                    "size": "10555771473",
-                    "download": "2169805312"
-                },
-                "hotfix": {
-                    "gid": "2841404673161708660",
-                    "size": "10508158829",
-                    "download": "2156978032"
+                "experimental": {
+                    "gid": "3799359709153120957",
+                    "size": "9745430855",
+                    "download": "2325064928"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "16363028",
-                "timeupdated": "1731320493"
+                "buildid": "17107437",
+                "timeupdated": "1737648279"
             },
-            "canary": {
-                "buildid": "16772399",
-                "description": "Bleeding-edge releases",
-                "timeupdated": "1734435106"
-            },
-            "hotfix": {
-                "buildid": "16363028",
-                "description": "We put hotfixes here before they're deployed",
-                "timeupdated": "1731314834"
+            "experimental": {
+                "buildid": "17137311",
+                "description": "Bleeding-edge updates",
+                "timeupdated": "1737908162"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26676783,
-    "_sha": "cd713e2e5d1a224c60e47ebc3044f29fccf3c00f",
-    "_size": 2586
+    "_change_number": 27173112,
+    "_sha": "f0c8cd3aa96cc7891f303eede44c00dc3103eec5",
+    "_size": 2249
 }

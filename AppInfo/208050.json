@@ -54,13 +54,6 @@
                     "size": "14791805",
                     "download": "0"
                 }
-            },
-            "encryptedmanifests": {
-                "devbeta": {
-                    "gid": "220E53390AAE6CD1B490BB7CB28E217F",
-                    "size": "F477409AB879560F98F42392F409851D",
-                    "download": "9DE74CB7FAE96C631207B495E62DACC0"
-                }
             }
         },
         "63394": {
@@ -72,15 +65,12 @@
         "branches": {
             "public": {
                 "buildid": "59069"
-            },
-            "devbeta": {
-                "buildid": "59069",
-                "pwdrequired": "1"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26374598,
-    "_sha": "c4ddff430bebcfaf0773329f2c60103e75f1487b",
-    "_size": 1544
+    "_change_number": 27134964,
+    "_sha": "4d267e7f691091bde0e68db7c7fa20ae4f61e74c",
+    "_size": 1293
 }

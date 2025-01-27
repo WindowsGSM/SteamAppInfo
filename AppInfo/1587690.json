@@ -73,18 +73,6 @@
                     "size": "0",
                     "download": "0"
                 }
-            },
-            "encryptedmanifests": {
-                "valvetest": {
-                    "gid": "893867E7B33C2E2F7CF213CBBBB35134",
-                    "size": "4ED1F643088AFC249BD1F770A40A46DF",
-                    "download": "8DF6F7C3B01B02EEAF4327BFB268C621"
-                },
-                "factory": {
-                    "gid": "E960D9E9F85E8DFB49DB6C8B74B3CEC4",
-                    "size": "77A579D4F6B5CFEFA299A4FBAC594B6A",
-                    "download": "34402B73B60D58E0653700B9AB7D3F85"
-                }
             }
         },
         "baselanguages": "english",
@@ -92,25 +80,16 @@
             "public": {
                 "buildid": "6919161",
                 "timeupdated": "1633636805"
-            },
-            "valvetest": {
-                "buildid": "6954348",
-                "pwdrequired": "1",
-                "timeupdated": "1625015405"
-            },
-            "factory": {
-                "buildid": "16232611",
-                "pwdrequired": "1",
-                "timeupdated": "1730270622"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "ufs": {
         "quota": "5242880",
         "maxnumfiles": "200"
     },
     "_missing_token": false,
-    "_change_number": 26375805,
-    "_sha": "e80b47cb2dbd833e62658ec39046bef64133244b",
-    "_size": 2284
+    "_change_number": 27069862,
+    "_sha": "1f809b31f7443d71d2770d746caeb91d06945606",
+    "_size": 1718
 }

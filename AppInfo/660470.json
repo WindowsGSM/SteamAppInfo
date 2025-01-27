@@ -28,39 +28,18 @@
     },
     "depots": {
         "660472": {
-            "manifests": {},
-            "encryptedmanifests": {
-                "official": {
-                    "gid": "83901D82DB8A0DFE79D45812CB7645D3",
-                    "size": "11D18D33F8C26FFDEBCEE784C16441F5",
-                    "download": "32279068B83D18A4F7CC69720C9373B1"
-                },
-                "testing": {
-                    "gid": "0FDEE0C006B8E1EE42A627499A9DE4EF",
-                    "size": "AB1FFA21979C9AA7CAA7E2F2CA43EAB5",
-                    "download": "C3E993D8C286E0A7248E26A6A6F3152D"
-                }
-            }
+            "manifests": {}
         },
         "branches": {
             "public": {
                 "buildid": "3842467",
                 "timeupdated": "1558425574"
-            },
-            "official": {
-                "buildid": "16756447",
-                "pwdrequired": "1",
-                "timeupdated": "1734337990"
-            },
-            "testing": {
-                "buildid": "16756447",
-                "pwdrequired": "1",
-                "timeupdated": "1734337981"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26657485,
-    "_sha": "066c29b356bf5b98e10018f6159c404c1e1a597a",
-    "_size": 1442
+    "_change_number": 27015583,
+    "_sha": "e8d2116500b1485652776c33e7848f657431a140",
+    "_size": 877
 }

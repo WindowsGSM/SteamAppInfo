@@ -107,9 +107,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6155879647630460087",
-                    "size": "1035230178",
-                    "download": "722149648"
+                    "gid": "3949740380966609122",
+                    "size": "998620228",
+                    "download": "698389280"
                 },
                 "experimentalwindows": {
                     "gid": "7282175433893886699",
@@ -117,21 +117,9 @@
                     "download": "971095184"
                 },
                 "experimental": {
-                    "gid": "1170115810782889426",
-                    "size": "944123707",
-                    "download": "658128944"
-                }
-            },
-            "encryptedmanifests": {
-                "development": {
-                    "gid": "BC9B7B2BEB5F8EA0135370236F9F6D59",
-                    "size": "9C0D61A7D4445E26B36A2AD3AF84DC2C",
-                    "download": "6ADDE282FFE01E6CC76D0022C49F3B34"
-                },
-                "pre-experimental": {
-                    "gid": "D288811ED47A774279615A23389E9434",
-                    "size": "014CF1F018401B5BE46AF77AC28B974D",
-                    "download": "9CB0F255DC8D3A0A95921C8A9800BC1B"
+                    "gid": "3949740380966609122",
+                    "size": "998620228",
+                    "download": "698389280"
                 }
             }
         },
@@ -142,9 +130,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6610748345116671575",
-                    "size": "1095623993",
-                    "download": "758418336"
+                    "gid": "1576914869115971752",
+                    "size": "1053477919",
+                    "download": "733439904"
                 },
                 "experimentalwindows": {
                     "gid": "4652151882370758544",
@@ -152,53 +140,32 @@
                     "download": "950174928"
                 },
                 "experimental": {
-                    "gid": "4214676332312316951",
-                    "size": "980056351",
-                    "download": "688668576"
-                }
-            },
-            "encryptedmanifests": {
-                "development": {
-                    "gid": "9850B5BFA120F16E12F978C69786D37E",
-                    "size": "25C1DACCC195C3800A7F9AE42707E2FA",
-                    "download": "67A0C26A9247DC26C7C7C445058F8E9A"
-                },
-                "pre-experimental": {
-                    "gid": "F65974CD82223009F0F803444FC4DD8C",
-                    "size": "3B8B719E9ADCF0CB1258C88ADE05AEAD",
-                    "download": "B54EF36C79DD274281DDBCBC5C3213D2"
+                    "gid": "1576914869115971752",
+                    "size": "1053477919",
+                    "download": "733439904"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "16303563",
-                "timeupdated": "1730832730"
+                "buildid": "16814444",
+                "timeupdated": "1734708748"
             },
             "experimentalwindows": {
                 "buildid": "9754712",
                 "description": "windows test",
                 "timeupdated": "1666272627"
             },
-            "development": {
-                "buildid": "14158188",
-                "pwdrequired": "1",
-                "timeupdated": "1713956237"
-            },
             "experimental": {
-                "buildid": "16775009",
+                "buildid": "16814444",
                 "description": "for testing",
-                "timeupdated": "1734452508"
-            },
-            "pre-experimental": {
-                "buildid": "16777376",
-                "pwdrequired": "1",
-                "timeupdated": "1734462239"
+                "timeupdated": "1734708700"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26683199,
-    "_sha": "c02a3dd6a9a711f1a4622165820c5ab329337599",
-    "_size": 4560
+    "_change_number": 26845279,
+    "_sha": "616a120ce5bd08d83faea31261d71fa0c9f466a6",
+    "_size": 3578
 }

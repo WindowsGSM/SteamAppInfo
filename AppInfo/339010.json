@@ -120,12 +120,17 @@
                     "size": "35505017",
                     "download": "23848928"
                 },
-                "legacy": {
+                "java": {
                     "gid": "8860498018075835343",
                     "size": "35505017",
                     "download": "23848928"
                 },
                 "unity": {
+                    "gid": "21240271230280590",
+                    "size": "6",
+                    "download": "64"
+                },
+                "unity_old": {
                     "gid": "21240271230280590",
                     "size": "6",
                     "download": "64"
@@ -138,6 +143,11 @@
             },
             "manifests": {
                 "unity": {
+                    "gid": "8481833914642096877",
+                    "size": "2604907337",
+                    "download": "707685408"
+                },
+                "unity_old": {
                     "gid": "1544497695891714846",
                     "size": "2716743865",
                     "download": "800827232"
@@ -150,6 +160,11 @@
             },
             "manifests": {
                 "unity": {
+                    "gid": "3176388774455016490",
+                    "size": "2608012499",
+                    "download": "709273584"
+                },
+                "unity_old": {
                     "gid": "3345873021965477175",
                     "size": "2711256237",
                     "download": "800779408"
@@ -161,20 +176,25 @@
                 "buildid": "7281128",
                 "timeupdated": "1630433202"
             },
-            "legacy": {
+            "java": {
                 "buildid": "7281128",
-                "description": "Java Version",
-                "timeupdated": "1630433220"
+                "description": "Legacy Version",
+                "timeupdated": "1734539214"
             },
             "unity": {
-                "buildid": "15655729",
+                "buildid": "16876012",
                 "description": "New Version Preview",
-                "timeupdated": "1725999737"
+                "timeupdated": "1735578011"
+            },
+            "unity_old": {
+                "buildid": "15655729",
+                "description": "Old 0.7.5.2",
+                "timeupdated": "1734539078"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 26182341,
-    "_sha": "8d518ce980426c48597fe8c3874607ec33d1158a",
-    "_size": 3501
+    "_change_number": 26818872,
+    "_sha": "e7a2ddbcce1610a2969001c8cd3ba75cdc14600b",
+    "_size": 3948
 }

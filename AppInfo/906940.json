@@ -100,28 +100,6 @@
                     "size": "1166647080",
                     "download": "873131104"
                 }
-            },
-            "encryptedmanifests": {
-                "development": {
-                    "gid": "A6577BA8084FF224CEA7280D6E665757",
-                    "size": "C2C355827DEF1A0C6FBC69CF6142A2E7",
-                    "download": "3FD9E3B3D553C1A2E260360CCC2903A8"
-                },
-                "pscert": {
-                    "gid": "2B7E688DE6DFB4C37D925CF6D7E135D6",
-                    "size": "A9B075E3988E13F2B7C5DA81D11D97DD",
-                    "download": "98343B7A25358D8122D7595CECDEB3D4"
-                },
-                "release": {
-                    "gid": "9A0760A9C5452697F65309AF864CEB70",
-                    "size": "EBF2C62A52546D662A7142FDF555CCC1",
-                    "download": "243D23E3C2D82C1053EA65FAF0E4728E"
-                },
-                "xboxcert": {
-                    "gid": "ACCBA4AC8D66C13B3A0E24773873E8AA",
-                    "size": "B4ECC5B826E60BF8ECE5E3FBB5A9CC7A",
-                    "download": "59C88372326C2994AAC2D9AC032DFB6E"
-                }
             }
         },
         "906941": {
@@ -149,44 +127,12 @@
                     "size": "1305591125",
                     "download": "982222208"
                 }
-            },
-            "encryptedmanifests": {
-                "development": {
-                    "gid": "313D32CF08AB75C228B23560E7421311",
-                    "size": "037C8F8CE8184C16FE16447822A7D293",
-                    "download": "B3DC83790EDE7DC6CEC6E55F8F6C7862"
-                },
-                "pscert": {
-                    "gid": "AC2376278DEB003062EDA9FDF35F2AD4",
-                    "size": "E3E1D1ADA18062C4256DDB97B5BD412D",
-                    "download": "A40C2DD4D20B0D94C7770F5DE183E5D7"
-                },
-                "release": {
-                    "gid": "58FAD713887A0E1DEE073D509BB10D94",
-                    "size": "F0910272998901E60E5CF7CD32481360",
-                    "download": "E6FB6E6C249A4C01B095FDD519D53050"
-                },
-                "xboxcert": {
-                    "gid": "367641B77961AF89767AFBE4D5DBFBF7",
-                    "size": "FB354476A3602FCAD514BA37F053B6B9",
-                    "download": "51E83DDA5F746142A45E31BE33B582A6"
-                }
             }
         },
         "branches": {
             "public": {
                 "buildid": "11405738",
                 "timeupdated": "1686065646"
-            },
-            "development": {
-                "buildid": "12718159",
-                "pwdrequired": "1",
-                "timeupdated": "1700122833"
-            },
-            "pscert": {
-                "buildid": "11011529",
-                "pwdrequired": "1",
-                "timeupdated": "1681572899"
             },
             "psrelease": {
                 "buildid": "11100189",
@@ -198,29 +144,20 @@
                 "description": "Public Test",
                 "timeupdated": "1685020379"
             },
-            "release": {
-                "buildid": "11405738",
-                "pwdrequired": "1",
-                "timeupdated": "1686064957"
-            },
-            "xboxcert": {
-                "buildid": "11011529",
-                "pwdrequired": "1",
-                "timeupdated": "1681572908"
-            },
             "xbrelease": {
                 "buildid": "11100189",
                 "description": "Xbox Release Server",
                 "timeupdated": "1682555570"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "ufs": {
         "quota": "100000000000",
         "maxnumfiles": "10000"
     },
     "_missing_token": false,
-    "_change_number": 26182576,
-    "_sha": "a1f904e28f47d086ee9915ec4956725e902d41dd",
-    "_size": 4991
+    "_change_number": 27015870,
+    "_sha": "89fc495ff4c7df35427a5a8f9d55f32c7a463f3e",
+    "_size": 3136
 }

@@ -99,69 +99,18 @@
                     "size": "18508207410",
                     "download": "8187017088"
                 }
-            },
-            "encryptedmanifests": {
-                "closed-testing": {
-                    "gid": "2F856B4FB5E0B98DAA385EF089F58077",
-                    "size": "05658907758E60C44AF758389ABA4B69",
-                    "download": "985D80AB80F940EE69517E8ADC981DA8"
-                },
-                "internal": {
-                    "gid": "B120CBBAF650E54F320EBDBC2625AC82",
-                    "size": "FFF06F22AA680B97AC88FDA4A4C979A2",
-                    "download": "A58BDDC9560E203C6182F4AE75CCE94C"
-                },
-                "public-testing": {
-                    "gid": "17CA68BE87830FCF4ED5794B096F5685",
-                    "size": "53488C894DF8D19C1A110CBDEF7D8DA9",
-                    "download": "84F8C8D9D64A9A22C48AFE1FF5948C20"
-                },
-                "release": {
-                    "gid": "D59457B49EF610A5859343FCF31F737B",
-                    "size": "875DD0B060DD542D926BD115E9B25F36",
-                    "download": "9EFEABBB9199ED1B06409CB8221E0D68"
-                },
-                "release_alt": {
-                    "gid": "62EC6EACEFB471BA03C14B85B79163D2",
-                    "size": "8FAE7DAC2F19A9BF02CF75445D1D0EFB",
-                    "download": "BA7AF93A5A5C5A64B8D6C5F5A3DC0231"
-                }
             }
         },
         "branches": {
             "public": {
                 "buildid": "11224335",
                 "timeupdated": "1688668223"
-            },
-            "closed-testing": {
-                "buildid": "9422573",
-                "pwdrequired": "1",
-                "timeupdated": "1661954927"
-            },
-            "internal": {
-                "buildid": "10153896",
-                "pwdrequired": "1",
-                "timeupdated": "1671105846"
-            },
-            "public-testing": {
-                "buildid": "7650308",
-                "pwdrequired": "1",
-                "timeupdated": "1650300156"
-            },
-            "release": {
-                "buildid": "11224335",
-                "pwdrequired": "1",
-                "timeupdated": "1683965374"
-            },
-            "release_alt": {
-                "buildid": "10114896",
-                "pwdrequired": "1",
-                "timeupdated": "1688739937"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26374178,
-    "_sha": "9652d1ba56b5d9be05e841d01b906c9e2cc384d6",
-    "_size": 3642
+    "_change_number": 26997904,
+    "_sha": "d6d985aa990688bbe6c0952ca05289e604dd5de3",
+    "_size": 2212
 }

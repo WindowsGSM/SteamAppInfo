@@ -98,33 +98,6 @@
                     "size": "398190689",
                     "download": "116622864"
                 }
-            },
-            "encryptedmanifests": {
-                "developer": {
-                    "gid": "433CF828974103B17705CF28DEC06795",
-                    "size": "592260B830766D62BD3EC96E00120353",
-                    "download": "AACD550467F1BD8773B8AE5BDCBA3046"
-                },
-                "testing": {
-                    "gid": "544BC9F30BDC67DEA6C4A1E64C741039",
-                    "size": "F73C40610E99B408774FC1E8C07F2C48",
-                    "download": "512A4DB11293879C9258D789EAD70F34"
-                },
-                "testing2": {
-                    "gid": "949610418E3B2AEC153012740FD0D1B1",
-                    "size": "AEEDA1758C10942876CA59AF63BD30CD",
-                    "download": "27AF5600A0B1D61F2A32D9200E4F01C2"
-                },
-                "testing3": {
-                    "gid": "56B4F20CAC1B43187D56E803117978A5",
-                    "size": "B595AC1587CB2B5748E1B2AA8A790315",
-                    "download": "4EED69F6854CE810EF8752B5FF401629"
-                },
-                "trailer": {
-                    "gid": "14398FDFD3A158A212701BAABBC207D2",
-                    "size": "1644AFD1DEF2F732BFA8FF6042637D9B",
-                    "download": "D09F7C56C6649070F26C9D4B9557275B"
-                }
             }
         },
         "1963722": {
@@ -137,69 +110,18 @@
                     "size": "462350246",
                     "download": "117040496"
                 }
-            },
-            "encryptedmanifests": {
-                "developer": {
-                    "gid": "A7AE01861837A163F75893279A99F518",
-                    "size": "4EC9A27E1629433140C224EC924221AA",
-                    "download": "FA696D2E484C1749793BB5EC0C5D04B4"
-                },
-                "testing": {
-                    "gid": "95F72C2B6A80DD5F8F650DF6AECF8529",
-                    "size": "D99B03E87FAE8B0AA8B5E67687576005",
-                    "download": "87558C1A9A54D5A4AB31FABB72917370"
-                },
-                "testing2": {
-                    "gid": "51D543B54BB8B040B6C9A18E403E9881",
-                    "size": "01317FBDA4EB5C305156E89F2C047BC0",
-                    "download": "31ECA0A0FE2F633747DA702185FAC219"
-                },
-                "testing3": {
-                    "gid": "E6454932676FFFA99959E82283406243",
-                    "size": "B96E56676478855C222B7CFE332AF511",
-                    "download": "08EA7541ADAD2CBF6C05061B791B0CCB"
-                },
-                "trailer": {
-                    "gid": "DF5A32899F2DB472EE762D676C8E3D3F",
-                    "size": "56D015A76C397F144B3BC65A81706FF3",
-                    "download": "A64F80ECE3DAB193EF87C996862D71B5"
-                }
             }
         },
         "branches": {
             "public": {
                 "buildid": "16653617",
                 "timeupdated": "1733738816"
-            },
-            "developer": {
-                "buildid": "16692336",
-                "pwdrequired": "1",
-                "timeupdated": "1733826747"
-            },
-            "testing": {
-                "buildid": "16645202",
-                "pwdrequired": "1",
-                "timeupdated": "1733412846"
-            },
-            "testing2": {
-                "buildid": "16536181",
-                "pwdrequired": "1",
-                "timeupdated": "1732616532"
-            },
-            "testing3": {
-                "buildid": "16642409",
-                "pwdrequired": "1",
-                "timeupdated": "1733399747"
-            },
-            "trailer": {
-                "buildid": "14374097",
-                "pwdrequired": "1",
-                "timeupdated": "1715772124"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26573175,
-    "_sha": "47156159281a09fdb2469c1e02c3018fc59ad187",
-    "_size": 4528
+    "_change_number": 27145426,
+    "_sha": "699a844785481a039b4b6f09324aba40869ea3b1",
+    "_size": 2223
 }

@@ -85,13 +85,6 @@
                     "size": "904278518",
                     "download": "722372416"
                 }
-            },
-            "encryptedmanifests": {
-                "experimental_private": {
-                    "gid": "9A02AFBF05B671DA360AC9DD9AFB0C61",
-                    "size": "944A8D3ABE63BC470D11560E8AE6BBF4",
-                    "download": "DBCA508A17A27ED6D3E56C78D27FBD82"
-                }
             }
         },
         "branches": {
@@ -103,16 +96,12 @@
                 "buildid": "16026370",
                 "description": "Public experimental branch",
                 "timeupdated": "1728826010"
-            },
-            "experimental_private": {
-                "buildid": "16026370",
-                "pwdrequired": "1",
-                "timeupdated": "1728822694"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26374567,
-    "_sha": "622cbb812c3cb554d4771744846c36402a7ed75a",
-    "_size": 2456
+    "_change_number": 26845279,
+    "_sha": "5a184ff094e036e2a0fc9dd66e47e9a138b8dee3",
+    "_size": 2144
 }

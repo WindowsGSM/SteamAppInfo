@@ -131,48 +131,6 @@
                     "size": "18377623095",
                     "download": "11327551360"
                 }
-            },
-            "encryptedmanifests": {
-                "closedalpha": {
-                    "gid": "2D37AFBA90AE6F38D224B8E70D4C005C",
-                    "size": "C97CAF777DC718B9BF18C9A24F08F563",
-                    "download": "6291BCAB6783B58B880390947DEE5270"
-                },
-                "eleononly": {
-                    "gid": "6991DAFBD2AB0C379FE5B170C9C394C6",
-                    "size": "210FD6E8823D1F48C9B5A1D39CEB0F0F",
-                    "download": "31E7EF683F7F998731194536714EE8A8"
-                },
-                "eleontest": {
-                    "gid": "C5BEE49385595024F92E156EAB11EA05",
-                    "size": "9B64FF8FB65835B2304CD4AB044C3357",
-                    "download": "9E1710C23D0D4FDD042E989EE1209FE2"
-                },
-                "internal": {
-                    "gid": "AE9C9A9BEB3201EC0B39B5A7BA851FE6",
-                    "size": "A019AF675BB8CD5AAA3B6D760762C58F",
-                    "download": "9464455CD897857F4512544B1DF0332C"
-                },
-                "internal2": {
-                    "gid": "3A7DC20719C05913DCBD1F06FD5D7E96",
-                    "size": "7F4D949FF9BF588946FD0BC8E8E18026",
-                    "download": "6C0158B87D80E079FEE80CCC5390E6C7"
-                },
-                "previews": {
-                    "gid": "11B65940E838A637B4A73AE1888785C7",
-                    "size": "BE1E11AC1C449B4A43A4D3DEB219CC1E",
-                    "download": "361878A93A9208C114AB3D5386F53794"
-                },
-                "steamtest": {
-                    "gid": "38113F845D0A492E3941483E6AB606C0",
-                    "size": "274CBE0740ED8F96F1681F7E885A4F0C",
-                    "download": "EE17F18CD9F7800594FFCE3E67C903CB"
-                },
-                "steamtest2": {
-                    "gid": "03DD7ADC2774D54D0A7C01CB650FF63F",
-                    "size": "5D5A7883935F7E9D44C9068BD236B8B0",
-                    "download": "0D4A7249A80926EA8A50F3DA62371A8E"
-                }
             }
         },
         "branches": {
@@ -220,55 +178,16 @@
                 "description": "Archive: Alpha 9",
                 "timeupdated": "1560769269"
             },
-            "closedalpha": {
-                "buildid": "16707232",
-                "pwdrequired": "1",
-                "timeupdated": "1733926852"
-            },
-            "eleononly": {
-                "buildid": "16354429",
-                "pwdrequired": "1",
-                "timeupdated": "1731189294"
-            },
-            "eleontest": {
-                "buildid": "16321938",
-                "pwdrequired": "1",
-                "timeupdated": "1730991884"
-            },
             "experimental": {
                 "buildid": "16707232",
                 "description": "Experimental branch",
                 "timeupdated": "1733926885"
-            },
-            "internal": {
-                "buildid": "16767557",
-                "pwdrequired": "1",
-                "timeupdated": "1734401982"
-            },
-            "internal2": {
-                "buildid": "15838704",
-                "pwdrequired": "1",
-                "timeupdated": "1727984960"
-            },
-            "previews": {
-                "buildid": "15655149",
-                "pwdrequired": "1",
-                "timeupdated": "1725998362"
-            },
-            "steamtest": {
-                "buildid": "16354429",
-                "pwdrequired": "1",
-                "timeupdated": "1732791228"
-            },
-            "steamtest2": {
-                "buildid": "14722823",
-                "pwdrequired": "1",
-                "timeupdated": "1719243042"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26670732,
-    "_sha": "045623755726cf449619a0aa8819d98ef69a7488",
-    "_size": 6339
+    "_change_number": 27187381,
+    "_sha": "fc49bfafaa4e9f26a85855fcae765052bc4fed6b",
+    "_size": 4080
 }
