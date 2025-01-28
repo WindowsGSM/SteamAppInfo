@@ -23,66 +23,22 @@
     "depots": {
         "41078": {
             "systemdefined": "1",
-            "manifests": {},
-            "encryptedmanifests": {
-                "closedbeta": {
-                    "gid": "712DBB7125F1B2AE9CDCC01A1325F83A",
-                    "size": "75A072A35CCF7C6700ED6D7E359CCD0D",
-                    "download": "EDBA5F877536C4B5D0E644A02A60AA99"
-                },
-                "internal": {
-                    "gid": "7160AFAC18AC1DB28CDB7CDC48412836",
-                    "size": "79FA0599A24F22AEF755B9AF6CDB0ABA",
-                    "download": "9B1BE7F961C4251A3AA6F6AAB3782C1C"
-                }
-            }
+            "manifests": {}
         },
         "41083": {
             "systemdefined": "1",
-            "manifests": {},
-            "encryptedmanifests": {
-                "closedbeta": {
-                    "gid": "EC7BCE1BE5004EF4EA56A81AA637729D",
-                    "size": "F599994658A0FCB1C4E72B53E29EA9DC",
-                    "download": "EDBA5F877536C4B5D0E644A02A60AA99"
-                },
-                "internal": {
-                    "gid": "055FE61A0709AE96465EC7F24443A57B",
-                    "size": "C42474C73E0603193282020B2ACB12AC",
-                    "download": "9B1BE7F961C4251A3AA6F6AAB3782C1C"
-                }
-            }
+            "manifests": {}
         },
         "41084": {
-            "manifests": {},
-            "encryptedmanifests": {
-                "closedbeta": {
-                    "gid": "BDED92D89BEC88E42D4810BCCD848AF3",
-                    "size": "B494F22E99CE895FD3D5E2B8E9318144",
-                    "download": "EDBA5F877536C4B5D0E644A02A60AA99"
-                },
-                "internal": {
-                    "gid": "A912F98E2ACF48AF950AFA6586F40F1B",
-                    "size": "E07D26BA8BBAB271BBE8E1D8D428B8B1",
-                    "download": "9B1BE7F961C4251A3AA6F6AAB3782C1C"
-                }
-            }
+            "manifests": {}
         },
         "overridescddb": "1",
         "preloadonly": "1",
-        "branches": {
-            "closedbeta": {
-                "buildid": "8180",
-                "pwdrequired": "1"
-            },
-            "internal": {
-                "buildid": "8180",
-                "pwdrequired": "1"
-            }
-        }
+        "branches": {},
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 24483107,
-    "_sha": "766eced799819caf744944b37c9d0eb321c0616d",
-    "_size": 2024
+    "_change_number": 27209232,
+    "_sha": "7ab80a09005209481465501f4faf727adf3ee8f2",
+    "_size": 757
 }

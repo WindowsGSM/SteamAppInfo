@@ -164,13 +164,6 @@
                     "size": "878414269",
                     "download": "160891696"
                 }
-            },
-            "encryptedmanifests": {
-                "closedtest": {
-                    "gid": "029D348A1468A3B52103A70E1E3B02A1",
-                    "size": "5F70F02E6F4696F0F1F074EBAB5FD562",
-                    "download": "0FE30B47883B002B4ED95A7E9B651990"
-                }
             }
         },
         "450982": {
@@ -188,13 +181,6 @@
                     "size": "1654070120",
                     "download": "317060944"
                 }
-            },
-            "encryptedmanifests": {
-                "closedtest": {
-                    "gid": "A3386A624CB1151A84F4AE76BA3BFF44",
-                    "size": "A15569D5302988B55EDBADA54A8357BD",
-                    "download": "DBBBA2CE65196216D61184DA0E933B0A"
-                }
             }
         },
         "branches": {
@@ -202,20 +188,16 @@
                 "buildid": "5040319",
                 "timeupdated": "1589715432"
             },
-            "closedtest": {
-                "buildid": "5040319",
-                "pwdrequired": "1",
-                "timeupdated": "1589715409"
-            },
             "publictest": {
                 "buildid": "5040319",
                 "description": "Test new unstable versions here",
                 "timeupdated": "1589715423"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26182377,
-    "_sha": "154c7950c0dcef862d38faba8b0c957733fad7b8",
-    "_size": 4511
+    "_change_number": 27209232,
+    "_sha": "46a477063c32c328ccc4f97fb1b11f3e0eb7db6c",
+    "_size": 4010
 }

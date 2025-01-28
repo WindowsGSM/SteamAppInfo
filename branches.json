@@ -107,50 +107,10 @@
             "buildid": "10231202",
             "timeupdated": "1672443540"
         },
-        "backup": {
-            "buildid": "2275931",
-            "pwdrequired": "1",
-            "timeupdated": "1520527767"
-        },
         "beta": {
             "buildid": "10231202",
             "description": "Beta Branch",
             "timeupdated": "1672374489"
-        },
-        "build_253": {
-            "buildid": "64174",
-            "pwdrequired": "1",
-            "timeupdated": "1547731014"
-        },
-        "build_277": {
-            "buildid": "836716",
-            "pwdrequired": "1",
-            "timeupdated": "1547730967"
-        },
-        "build_307": {
-            "buildid": "1275763",
-            "pwdrequired": "1",
-            "timeupdated": "1473365691"
-        },
-        "experimental": {
-            "buildid": "9581144",
-            "pwdrequired": "1",
-            "timeupdated": "1663965932"
-        },
-        "maptesting": {
-            "buildid": "4447692",
-            "pwdrequired": "1",
-            "timeupdated": "1575155009"
-        },
-        "testing": {
-            "buildid": "10226154",
-            "pwdrequired": "1",
-            "timeupdated": "1672271111"
-        },
-        "throwback": {
-            "buildid": "24990",
-            "pwdrequired": "1",
-            "timeupdated": "1547585483"
         }
     },
     "8680": {},
@@ -185,36 +145,16 @@
             "buildid": "3809221",
             "description": "ZPS v3.0.9a - Deprecated",
             "timeupdated": "1602784746"
-        },
-        "eugene": {
-            "buildid": "14136484",
-            "pwdrequired": "1",
-            "timeupdated": "1729839089"
-        },
-        "quality_assurance": {
-            "buildid": "16176546",
-            "pwdrequired": "1",
-            "timeupdated": "1729839531"
         }
     },
     "17515": {},
     "17525": {},
     "17535": {},
-    "17555": {
-        "beta": {
-            "buildid": "57943",
-            "pwdrequired": "1"
-        }
-    },
+    "17555": {},
     "17575": {
         "public": {
             "buildid": "16187474",
             "timeupdated": "1729901941"
-        },
-        "beta": {
-            "buildid": "16187474",
-            "pwdrequired": "1",
-            "timeupdated": "1729900979"
         }
     },
     "17585": {
@@ -266,11 +206,6 @@
             "buildid": "7784087",
             "timeupdated": "1637948561"
         },
-        "beta_internal": {
-            "buildid": "7784087",
-            "pwdrequired": "1",
-            "timeupdated": "1637937614"
-        },
         "legacy": {
             "buildid": "4369943",
             "timeupdated": "1639667946"
@@ -301,16 +236,6 @@
             "buildid": "5821912",
             "timeupdated": "1605201996"
         },
-        "closedbeta": {
-            "buildid": "2297899",
-            "pwdrequired": "1",
-            "timeupdated": "1511111222"
-        },
-        "internal": {
-            "buildid": "5821912",
-            "pwdrequired": "1",
-            "timeupdated": "1605199434"
-        },
         "publicbeta": {
             "buildid": "2297899",
             "timeupdated": "1511111232"
@@ -338,11 +263,6 @@
         "public": {
             "buildid": "2741211",
             "timeupdated": "1525798853"
-        },
-        "beta": {
-            "buildid": "2741211",
-            "pwdrequired": "1",
-            "timeupdated": "1525309657"
         }
     },
     "43210": {
@@ -378,10 +298,6 @@
     "91720": {
         "public": {
             "buildid": "70036"
-        },
-        "beta": {
-            "buildid": "70036",
-            "pwdrequired": "1"
         }
     },
     "96810": {
@@ -419,19 +335,11 @@
     "210370": {
         "public": {
             "buildid": "68226"
-        },
-        "test": {
-            "buildid": "68226",
-            "pwdrequired": "1"
         }
     },
     "212542": {
         "public": {
             "buildid": "815573"
-        },
-        "internalbeta": {
-            "buildid": "815573",
-            "pwdrequired": "1"
         }
     },
     "213040": {
@@ -444,34 +352,15 @@
         "public": {
             "buildid": "1074388",
             "timeupdated": "1461081330"
-        },
-        "internalbeta": {
-            "buildid": "1074388",
-            "pwdrequired": "1",
-            "timeupdated": "1460647847"
         }
     },
     "215360": {
         "public": {
             "buildid": "1074382",
             "timeupdated": "1461081307"
-        },
-        "internalbeta": {
-            "buildid": "1074382",
-            "pwdrequired": "1",
-            "timeupdated": "1460647789"
         }
     },
-    "216280": {
-        "closedbeta": {
-            "buildid": "8180",
-            "pwdrequired": "1"
-        },
-        "internal": {
-            "buildid": "8180",
-            "pwdrequired": "1"
-        }
-    },
+    "216280": {},
     "220070": {
         "public": {
             "buildid": "5216959",
@@ -481,11 +370,6 @@
             "buildid": "2903861",
             "timeupdated": "1530282484"
         },
-        "betaauto": {
-            "buildid": "5216973",
-            "pwdrequired": "1",
-            "timeupdated": "1593133818"
-        },
         "defaultauto": {
             "buildid": "5216959",
             "description": "auto set to live by build machine",
@@ -493,10 +377,6 @@
         },
         "hotfix1": {
             "buildid": "29366"
-        },
-        "internal": {
-            "buildid": "117386",
-            "pwdrequired": "1"
         },
         "linuxtesting": {
             "buildid": "502647"
@@ -514,30 +394,11 @@
         "public": {
             "buildid": "17033453",
             "timeupdated": "1737147896"
-        },
-        "beta": {
-            "buildid": "14030116",
-            "pwdrequired": "1",
-            "timeupdated": "1712938010"
-        },
-        "private_beta_old": {
-            "buildid": "6260430",
-            "pwdrequired": "1",
-            "timeupdated": "1623878637"
-        },
-        "private_beta": {
-            "buildid": "14189257",
-            "pwdrequired": "1",
-            "timeupdated": "1714155613"
         }
     },
     "223160": {
         "public": {
             "buildid": "158228"
-        },
-        "dev": {
-            "buildid": "158228",
-            "pwdrequired": "1"
         }
     },
     "223240": {
@@ -559,95 +420,11 @@
             "buildid": "3889697",
             "description": "Unstable testing version",
             "timeupdated": "1559730582"
-        },
-        "pr_test": {
-            "buildid": "3022120",
-            "pwdrequired": "1",
-            "timeupdated": "1533900743"
-        },
-        "ps4_test": {
-            "buildid": "12972693",
-            "pwdrequired": "1",
-            "timeupdated": "1702647254"
-        },
-        "stableprep": {
-            "buildid": "5726931",
-            "pwdrequired": "1",
-            "timeupdated": "1603449781"
-        },
-        "video": {
-            "buildid": "8245752",
-            "pwdrequired": "1",
-            "timeupdated": "1701872189"
-        },
-        "xb1_test": {
-            "buildid": "12972654",
-            "pwdrequired": "1",
-            "timeupdated": "1702646996"
-        },
-        "internaldebug": {
-            "buildid": "16166379",
-            "pwdrequired": "1",
-            "timeupdated": "1729778764"
-        },
-        "internalplaytest": {
-            "buildid": "16762104",
-            "pwdrequired": "1",
-            "timeupdated": "1734372956"
-        },
-        "ps4_internal": {
-            "buildid": "16761844",
-            "pwdrequired": "1",
-            "timeupdated": "1734369518"
-        },
-        "ps4_stable": {
-            "buildid": "16761844",
-            "pwdrequired": "1",
-            "timeupdated": "1734423416"
-        },
-        "qa_tmp": {
-            "buildid": "14156038",
-            "pwdrequired": "1",
-            "timeupdated": "1713943569"
-        },
-        "release_test": {
-            "buildid": "16394708",
-            "pwdrequired": "1",
-            "timeupdated": "1731514275"
-        },
-        "stable": {
-            "buildid": "16762104",
-            "pwdrequired": "1",
-            "timeupdated": "1734423370"
-        },
-        "xb1_experimental": {
-            "buildid": "16985990",
-            "pwdrequired": "1",
-            "timeupdated": "1737019954"
-        },
-        "xb1_internal": {
-            "buildid": "16761853",
-            "pwdrequired": "1",
-            "timeupdated": "1734369733"
-        },
-        "xb1_internal_exp": {
-            "buildid": "16985990",
-            "pwdrequired": "1",
-            "timeupdated": "1736765417"
-        },
-        "xb1_stable": {
-            "buildid": "16761853",
-            "pwdrequired": "1",
-            "timeupdated": "1734423392"
         }
     },
     "224620": {
         "public": {
             "buildid": "107219"
-        },
-        "beta": {
-            "buildid": "132405",
-            "pwdrequired": "1"
         }
     },
     "227040": {
@@ -686,36 +463,6 @@
         "public": {
             "buildid": "14007421",
             "timeupdated": "1721826461"
-        },
-        "beta": {
-            "buildid": "14007421",
-            "pwdrequired": "1",
-            "timeupdated": "1712739326"
-        },
-        "lagtest": {
-            "buildid": "14007421",
-            "pwdrequired": "1",
-            "timeupdated": "1712944123"
-        },
-        "linuxbeta": {
-            "buildid": "3479126",
-            "pwdrequired": "1",
-            "timeupdated": "1547827918"
-        },
-        "ovotcotod": {
-            "buildid": "1854800",
-            "pwdrequired": "1",
-            "timeupdated": "1496158215"
-        },
-        "qa_test": {
-            "buildid": "9330275",
-            "pwdrequired": "1",
-            "timeupdated": "1660725334"
-        },
-        "showbuild": {
-            "buildid": "1880499",
-            "pwdrequired": "1",
-            "timeupdated": "1497038083"
         }
     },
     "232250": {
@@ -742,11 +489,6 @@
             "buildid": "6936591",
             "description": "Latest available build",
             "timeupdated": "1625257971"
-        },
-        "frog": {
-            "buildid": "16943930",
-            "pwdrequired": "1",
-            "timeupdated": "1736370247"
         }
     },
     "232330": {
@@ -758,11 +500,6 @@
             "buildid": "6953255",
             "description": "Latest available build",
             "timeupdated": "1625257761"
-        },
-        "frog": {
-            "buildid": "16943934",
-            "pwdrequired": "1",
-            "timeupdated": "1736370246"
         }
     },
     "233780": {
@@ -796,11 +533,6 @@
             "description": "beta branch",
             "timeupdated": "1533747863"
         },
-        "competitive": {
-            "buildid": "1141664",
-            "pwdrequired": "1",
-            "timeupdated": "1464027867"
-        },
         "hotfix": {
             "buildid": "3016394",
             "timeupdated": "1533748113"
@@ -819,10 +551,6 @@
         },
         "beta": {
             "buildid": "172968"
-        },
-        "betabrew": {
-            "buildid": "386003",
-            "pwdrequired": "1"
         },
         "internalbeta": {
             "buildid": "72017"
@@ -846,11 +574,6 @@
             "buildid": "397638",
             "description": "The obsolete \"upcoming\" prerelease build",
             "timeupdated": "1463012296"
-        },
-        "frog": {
-            "buildid": "16943918",
-            "pwdrequired": "1",
-            "timeupdated": "1736370247"
         }
     },
     "255470": {
@@ -861,11 +584,6 @@
         "prerelease": {
             "buildid": "6935416",
             "timeupdated": "1625258030"
-        },
-        "frog": {
-            "buildid": "16943929",
-            "pwdrequired": "1",
-            "timeupdated": "1736370247"
         }
     },
     "258550": {
@@ -905,23 +623,11 @@
     "261020": {
         "public": {
             "buildid": "173946"
-        },
-        "qaserver": {
-            "buildid": "173946",
-            "pwdrequired": "1"
         }
     },
     "273530": {
         "public": {
             "buildid": "248417"
-        },
-        "bleeding": {
-            "buildid": "248417",
-            "pwdrequired": "1"
-        },
-        "nightly": {
-            "buildid": "614310",
-            "pwdrequired": "1"
         }
     },
     "276060": {
@@ -939,16 +645,6 @@
         "public": {
             "buildid": "16881797",
             "timeupdated": "1735651050"
-        },
-        "developer": {
-            "buildid": "7716160",
-            "pwdrequired": "1",
-            "timeupdated": "1636995203"
-        },
-        "quality_assurance": {
-            "buildid": "16973446",
-            "pwdrequired": "1",
-            "timeupdated": "1736585167"
         }
     },
     "294420": {
@@ -1055,16 +751,6 @@
         "beta": {
             "buildid": "1492681",
             "timeupdated": "1480618526"
-        },
-        "ranked": {
-            "buildid": "8117482",
-            "pwdrequired": "1",
-            "timeupdated": "1643631772"
-        },
-        "ranked_30": {
-            "buildid": "7831173",
-            "pwdrequired": "1",
-            "timeupdated": "1638720245"
         },
         "upcoming": {
             "buildid": "10629479",
@@ -1185,51 +871,23 @@
         "public": {
             "buildid": "10410257",
             "timeupdated": "1674756540"
-        },
-        "dev": {
-            "buildid": "10480167",
-            "pwdrequired": "1",
-            "timeupdated": "1675553727"
-        },
-        "experimental": {
-            "buildid": "5504149",
-            "pwdrequired": "1",
-            "timeupdated": "1599237694"
-        },
-        "hosting": {
-            "buildid": "10328281",
-            "pwdrequired": "1",
-            "timeupdated": "1673832032"
         }
     },
     "302550": {
         "public": {
             "buildid": "2429760",
             "timeupdated": "1515687264"
-        },
-        "beta": {
-            "buildid": "603061",
-            "pwdrequired": "1"
         }
     },
     "313900": {
         "public": {
             "buildid": "778980"
-        },
-        "playtesting": {
-            "buildid": "505661",
-            "pwdrequired": "1"
         }
     },
     "317670": {
         "public": {
             "buildid": "16113210",
             "timeupdated": "1729433555"
-        },
-        "devtest": {
-            "buildid": "16113210",
-            "pwdrequired": "1",
-            "timeupdated": "1729430953"
         },
         "previous": {
             "buildid": "14788855",
@@ -1247,19 +905,9 @@
             "buildid": "11261643",
             "timeupdated": "1684421064"
         },
-        "beta": {
-            "buildid": "11261643",
-            "pwdrequired": "1",
-            "timeupdated": "1684403474"
-        },
         "dx9-legacy": {
             "buildid": "823465",
             "description": "Outdated DirectX9 legacy version"
-        },
-        "public-beta": {
-            "buildid": "11261643",
-            "pwdrequired": "1",
-            "timeupdated": "1684421050"
         },
         "vanilla-1.3.6": {
             "buildid": "2206016",
@@ -1275,19 +923,11 @@
     "324870": {
         "public": {
             "buildid": "391321"
-        },
-        "custom_map_beta": {
-            "buildid": "823286",
-            "pwdrequired": "1"
         }
     },
     "324890": {
         "public": {
             "buildid": "823291"
-        },
-        "custom_map_beta": {
-            "buildid": "823291",
-            "pwdrequired": "1"
         }
     },
     "328950": {
@@ -1310,11 +950,6 @@
         "public": {
             "buildid": "1299088",
             "timeupdated": "1478270475"
-        },
-        "testing": {
-            "buildid": "1299088",
-            "pwdrequired": "1",
-            "timeupdated": "1478270500"
         }
     },
     "332850": {
@@ -1382,11 +1017,6 @@
             "description": "Rollback before reimplementation of DXVK",
             "timeupdated": "1731521319"
         },
-        "developer": {
-            "buildid": "16703694",
-            "pwdrequired": "1",
-            "timeupdated": "1733897728"
-        },
         "public-beta": {
             "buildid": "16239606",
             "timeupdated": "1731019143"
@@ -1397,20 +1027,10 @@
             "buildid": "16690316",
             "timeupdated": "1733827166"
         },
-        "livepreview": {
-            "buildid": "16690316",
-            "pwdrequired": "1",
-            "timeupdated": "1733814614"
-        },
         "preview": {
             "buildid": "16690316",
             "description": "early look",
             "timeupdated": "1733814622"
-        },
-        "staging": {
-            "buildid": "16690316",
-            "pwdrequired": "1",
-            "timeupdated": "1733814581"
         }
     },
     "361580": {
@@ -1465,124 +1085,11 @@
             "buildid": "2157534",
             "timeupdated": "1506719813"
         },
-        "531800_mm_test": {
-            "buildid": "1936631",
-            "pwdrequired": "1",
-            "timeupdated": "1499194722"
-        },
-        "531800brady": {
-            "buildid": "1681719",
-            "pwdrequired": "1",
-            "timeupdated": "1490023522"
-        },
-        "531800latest": {
-            "buildid": "1817005",
-            "pwdrequired": "1",
-            "timeupdated": "1494567140"
-        },
-        "531800marketing": {
-            "buildid": "1805229",
-            "pwdrequired": "1",
-            "timeupdated": "1494200375"
-        },
-        "531800nightly": {
-            "buildid": "2164470",
-            "pwdrequired": "1",
-            "timeupdated": "1506924212"
-        },
-        "531800open_beta": {
-            "buildid": "1817005",
-            "pwdrequired": "1",
-            "timeupdated": "1494637481"
-        },
-        "amg_alchemancer": {
-            "buildid": "1713916",
-            "pwdrequired": "1",
-            "timeupdated": "1491492580"
-        },
-        "beta_1_cl_70050": {
-            "buildid": "1713916",
-            "pwdrequired": "1",
-            "timeupdated": "1490620693"
-        },
-        "beta_2_cl_71491": {
-            "buildid": "1751036",
-            "pwdrequired": "1",
-            "timeupdated": "1492032313"
-        },
-        "beta_4_cl_73696": {
-            "buildid": "1801505",
-            "pwdrequired": "1",
-            "timeupdated": "1494015688"
-        },
-        "continuous": {
-            "buildid": "1131031",
-            "pwdrequired": "1",
-            "timeupdated": "1463464221"
-        },
-        "gdc_server": {
-            "buildid": "962095",
-            "pwdrequired": "1"
-        },
-        "hosting": {
-            "buildid": "1130410",
-            "pwdrequired": "1",
-            "timeupdated": "1463582697"
-        },
-        "last_live": {
-            "buildid": "1907007",
-            "pwdrequired": "1",
-            "timeupdated": "1500500138"
-        },
-        "latest": {
-            "buildid": "2157534",
-            "pwdrequired": "1",
-            "timeupdated": "1506644575"
-        },
         "local": {
             "buildid": "1338613",
             "description": "Local Content Server",
             "lcsrequired": "1",
             "timeupdated": "1473987094"
-        },
-        "marketing2": {
-            "buildid": "1819616",
-            "pwdrequired": "1",
-            "timeupdated": "1494885394"
-        },
-        "mirage_launch": {
-            "buildid": "1838560",
-            "pwdrequired": "1",
-            "timeupdated": "1495546166"
-        },
-        "mirage_live": {
-            "buildid": "2063791",
-            "pwdrequired": "1",
-            "timeupdated": "1505226657"
-        },
-        "nightly": {
-            "buildid": "2114228",
-            "pwdrequired": "1",
-            "timeupdated": "1505834669"
-        },
-        "pax_archive": {
-            "buildid": "1075490",
-            "pwdrequired": "1",
-            "timeupdated": "1462224670"
-        },
-        "pc_gamer": {
-            "buildid": "1634131",
-            "pwdrequired": "1",
-            "timeupdated": "1487196405"
-        },
-        "trailer": {
-            "buildid": "1562005",
-            "pwdrequired": "1",
-            "timeupdated": "1484109461"
-        },
-        "withlinux": {
-            "buildid": "892205",
-            "pwdrequired": "1"
         }
     },
     "378670": {
@@ -1590,45 +1097,15 @@
             "buildid": "2520189",
             "timeupdated": "1518903596"
         },
-        "beta": {
-            "buildid": "2520189",
-            "pwdrequired": "1",
-            "timeupdated": "1518561622"
-        },
         "legacy": {
             "buildid": "851748",
             "description": "The Final Unity 4 Build"
-        },
-        "newdefault": {
-            "buildid": "1239414",
-            "pwdrequired": "1",
-            "timeupdated": "1489021093"
-        },
-        "sigdev": {
-            "buildid": "2520189",
-            "pwdrequired": "1",
-            "timeupdated": "1518480298"
-        },
-        "test": {
-            "buildid": "1416840",
-            "pwdrequired": "1",
-            "timeupdated": "1570153069"
         }
     },
     "381690": {
         "public": {
             "buildid": "4088734",
             "timeupdated": "1565307435"
-        },
-        "developer": {
-            "buildid": "3177678",
-            "pwdrequired": "1",
-            "timeupdated": "1542136718"
-        },
-        "test": {
-            "buildid": "4088734",
-            "pwdrequired": "1",
-            "timeupdated": "1565305546"
         }
     },
     "382030": {
@@ -1653,11 +1130,6 @@
             "buildid": "16267076",
             "timeupdated": "1730479781"
         },
-        "graveyard": {
-            "buildid": "1242112",
-            "pwdrequired": "1",
-            "timeupdated": "1470830701"
-        },
         "legacy": {
             "buildid": "1154654",
             "description": "oldest relevant version of game",
@@ -1667,27 +1139,12 @@
             "buildid": "8591740",
             "description": "2017++ release version",
             "timeupdated": "1704142812"
-        },
-        "development": {
-            "buildid": "16267076",
-            "pwdrequired": "1",
-            "timeupdated": "1730479763"
         }
     },
     "393250": {
         "public": {
             "buildid": "1350771",
             "timeupdated": "1474552513"
-        },
-        "development": {
-            "buildid": "1284851",
-            "pwdrequired": "1",
-            "timeupdated": "1471453401"
-        },
-        "testing": {
-            "buildid": "1350771",
-            "pwdrequired": "1",
-            "timeupdated": "1474546591"
         }
     },
     "402370": {
@@ -1698,11 +1155,6 @@
         "beta": {
             "buildid": "4596061",
             "timeupdated": "1579697936"
-        },
-        "internal": {
-            "buildid": "4596061",
-            "pwdrequired": "1",
-            "timeupdated": "1579697883"
         },
         "previous_version": {
             "buildid": "3127452",
@@ -1742,11 +1194,6 @@
             "buildid": "11512956",
             "timeupdated": "1687304120"
         },
-        "tomtest": {
-            "buildid": "10796707",
-            "pwdrequired": "1",
-            "timeupdated": "1679072387"
-        },
         "whagwan": {
             "buildid": "3240003",
             "description": "Test",
@@ -1757,16 +1204,6 @@
         "public": {
             "buildid": "14637969",
             "timeupdated": "1717889874"
-        },
-        "dailybuild": {
-            "buildid": "14637969",
-            "pwdrequired": "1",
-            "timeupdated": "1717756323"
-        },
-        "devonly": {
-            "buildid": "14637969",
-            "pwdrequired": "1",
-            "timeupdated": "1717756507"
         }
     },
     "412680": {
@@ -1794,36 +1231,6 @@
         "public": {
             "buildid": "3175065",
             "timeupdated": "1538473078"
-        },
-        "gamescom": {
-            "buildid": "1968859",
-            "pwdrequired": "1",
-            "timeupdated": "1501499302"
-        },
-        "online_internal": {
-            "buildid": "3175065",
-            "pwdrequired": "1",
-            "timeupdated": "1538471802"
-        },
-        "prediction_test": {
-            "buildid": "2002592",
-            "pwdrequired": "1",
-            "timeupdated": "1502185097"
-        },
-        "stagingtest": {
-            "buildid": "2949243",
-            "pwdrequired": "1",
-            "timeupdated": "1531821644"
-        },
-        "testing": {
-            "buildid": "2624937",
-            "pwdrequired": "1",
-            "timeupdated": "1524226330"
-        },
-        "wmdtesting": {
-            "buildid": "2854122",
-            "pwdrequired": "1",
-            "timeupdated": "1528793720"
         }
     },
     "414570": {
@@ -1836,77 +1243,12 @@
         "public": {
             "buildid": "4607866",
             "timeupdated": "1580232666"
-        },
-        "development": {
-            "buildid": "4607866",
-            "pwdrequired": "1",
-            "timeupdated": "1579964115"
         }
     },
     "418480": {
         "public": {
             "buildid": "16560093",
             "timeupdated": "1733320850"
-        },
-        "2020beta": {
-            "buildid": "5352672",
-            "pwdrequired": "1",
-            "timeupdated": "1596160056"
-        },
-        "gamm": {
-            "buildid": "3963254",
-            "pwdrequired": "1",
-            "timeupdated": "1561702742"
-        },
-        "iceberg": {
-            "buildid": "1779458",
-            "pwdrequired": "1",
-            "timeupdated": "1493128845"
-        },
-        "nightly": {
-            "buildid": "3592367",
-            "pwdrequired": "1",
-            "timeupdated": "1551103993"
-        },
-        "nightlymain": {
-            "buildid": "3846024",
-            "pwdrequired": "1",
-            "timeupdated": "1558636532"
-        },
-        "nodoublexp": {
-            "buildid": "2310485",
-            "pwdrequired": "1",
-            "timeupdated": "1511434976"
-        },
-        "pax_build": {
-            "buildid": "1627445",
-            "pwdrequired": "1",
-            "timeupdated": "1487117265"
-        },
-        "privatebeta": {
-            "buildid": "1847220",
-            "pwdrequired": "1",
-            "timeupdated": "1495831105"
-        },
-        "terndev": {
-            "buildid": "5884600",
-            "pwdrequired": "1",
-            "timeupdated": "1606374973"
-        },
-        "anti_ddos": {
-            "buildid": "15663578",
-            "pwdrequired": "1",
-            "timeupdated": "1726055915"
-        },
-        "beta": {
-            "buildid": "16560093",
-            "pwdrequired": "1",
-            "timeupdated": "1732757091"
-        },
-        "eacbeta": {
-            "buildid": "16205576",
-            "pwdrequired": "1",
-            "timeupdated": "1730117463"
         }
     },
     "419790": {
@@ -1923,16 +1265,6 @@
         "laststable": {
             "buildid": "4692850",
             "timeupdated": "1588513389"
-        },
-        "pretest": {
-            "buildid": "1611455",
-            "pwdrequired": "1",
-            "timeupdated": "1486696917"
-        },
-        "publictest": {
-            "buildid": "3969070",
-            "pwdrequired": "1",
-            "timeupdated": "1561930866"
         }
     },
     "426660": {
@@ -1967,61 +1299,6 @@
         "public": {
             "buildid": "2328371",
             "timeupdated": "1512050628"
-        },
-        "branch-development": {
-            "buildid": "2328369",
-            "pwdrequired": "1",
-            "timeupdated": "1512035336"
-        },
-        "branch-release": {
-            "buildid": "2328371",
-            "pwdrequired": "1",
-            "timeupdated": "1512035383"
-        },
-        "dev-jmk": {
-            "buildid": "1060616",
-            "pwdrequired": "1",
-            "timeupdated": "1461677350"
-        },
-        "dev-nd": {
-            "buildid": "1100008",
-            "pwdrequired": "1",
-            "timeupdated": "1461832254"
-        },
-        "development": {
-            "buildid": "1305513",
-            "pwdrequired": "1",
-            "timeupdated": "1472470919"
-        },
-        "external": {
-            "buildid": "1357412",
-            "pwdrequired": "1",
-            "timeupdated": "1475068638"
-        },
-        "internal-qa": {
-            "buildid": "1476388",
-            "pwdrequired": "1",
-            "timeupdated": "1479908107"
-        },
-        "mainline-development": {
-            "buildid": "2303237",
-            "pwdrequired": "1",
-            "timeupdated": "1511346878"
-        },
-        "mainline-release": {
-            "buildid": "2312578",
-            "pwdrequired": "1",
-            "timeupdated": "1511794733"
-        },
-        "release-candidate": {
-            "buildid": "2321489",
-            "pwdrequired": "1",
-            "timeupdated": "1511870523"
-        },
-        "release-test": {
-            "buildid": "1364341",
-            "pwdrequired": "1",
-            "timeupdated": "1475143041"
         }
     },
     "447760": {
@@ -2041,11 +1318,6 @@
             "buildid": "5040319",
             "timeupdated": "1589715432"
         },
-        "closedtest": {
-            "buildid": "5040319",
-            "pwdrequired": "1",
-            "timeupdated": "1589715409"
-        },
         "publictest": {
             "buildid": "5040319",
             "description": "Test new unstable versions here",
@@ -2056,11 +1328,6 @@
         "public": {
             "buildid": "1965313",
             "timeupdated": "1500245971"
-        },
-        "testing": {
-            "buildid": "1908015",
-            "pwdrequired": "1",
-            "timeupdated": "1498103791"
         }
     },
     "460040": {
@@ -2068,34 +1335,9 @@
             "buildid": "16107671",
             "timeupdated": "1729348409"
         },
-        "buildsystem2": {
-            "buildid": "4887874",
-            "pwdrequired": "1",
-            "timeupdated": "1586638073"
-        },
-        "integration": {
-            "buildid": "1667369",
-            "pwdrequired": "1",
-            "timeupdated": "1488503304"
-        },
-        "2.38.0": {
-            "buildid": "17059137",
-            "pwdrequired": "1",
-            "timeupdated": "1737331912"
-        },
-        "alpha": {
-            "buildid": "16294714",
-            "pwdrequired": "1",
-            "timeupdated": "1730769432"
-        },
         "beta": {
             "buildid": "16107671",
             "timeupdated": "1729347615"
-        },
-        "smithys_test_branch": {
-            "buildid": "16107671",
-            "pwdrequired": "1",
-            "timeupdated": "1729348361"
         }
     },
     "460300": {
@@ -2112,11 +1354,6 @@
         "public": {
             "buildid": "1773234",
             "timeupdated": "1492798376"
-        },
-        "develop": {
-            "buildid": "1773234",
-            "pwdrequired": "1",
-            "timeupdated": "1492791841"
         }
     },
     "460670": {
@@ -2143,11 +1380,6 @@
         "public": {
             "buildid": "16866391",
             "timeupdated": "1735401987"
-        },
-        "beta": {
-            "buildid": "16866391",
-            "pwdrequired": "1",
-            "timeupdated": "1735401958"
         }
     },
     "476400": {
@@ -2171,21 +1403,6 @@
             "buildid": "7189550",
             "timeupdated": "1628925710"
         },
-        "ps4release": {
-            "buildid": "6352689",
-            "pwdrequired": "1",
-            "timeupdated": "1615999813"
-        },
-        "ps4release2": {
-            "buildid": "6352689",
-            "pwdrequired": "1",
-            "timeupdated": "1615302743"
-        },
-        "ps4server": {
-            "buildid": "6352689",
-            "pwdrequired": "1",
-            "timeupdated": "1616000139"
-        },
         "publictest": {
             "buildid": "2954711",
             "timeupdated": "1531946714"
@@ -2193,27 +1410,12 @@
         "release": {
             "buildid": "6394339",
             "timeupdated": "1658947769"
-        },
-        "xboxrelease": {
-            "buildid": "6352689",
-            "pwdrequired": "1",
-            "timeupdated": "1615302766"
-        },
-        "xboxserver": {
-            "buildid": "6352689",
-            "pwdrequired": "1",
-            "timeupdated": "1616000191"
         }
     },
     "490500": {
         "public": {
             "buildid": "3612103",
             "timeupdated": "1551633058"
-        },
-        "test": {
-            "buildid": "2925358",
-            "pwdrequired": "1",
-            "timeupdated": "1530899122"
         }
     },
     "493970": {
@@ -2226,11 +1428,6 @@
         "public": {
             "buildid": "1949880",
             "timeupdated": "1499701715"
-        },
-        "development": {
-            "buildid": "1926031",
-            "pwdrequired": "1",
-            "timeupdated": "1498758971"
         }
     },
     "514900": {

@@ -34,13 +34,6 @@
                     "size": "560341546",
                     "download": "0"
                 }
-            },
-            "encryptedmanifests": {
-                "beta": {
-                    "gid": "E2163CE240B5DBE4294739ACA0AB2FF4",
-                    "size": "C13A90D721315EEF52EC62C4B2DAC4C1",
-                    "download": "8C1C5DB8D897559878D4BCB7BF9F72F0"
-                }
             }
         },
         "overridescddb": "1",
@@ -48,15 +41,12 @@
         "branches": {
             "public": {
                 "buildid": "107219"
-            },
-            "beta": {
-                "buildid": "132405",
-                "pwdrequired": "1"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 24483107,
-    "_sha": "5a72621a7c7f4cbf493e82d8ee6eb365ffc0520f",
-    "_size": 1088
+    "_change_number": 27209232,
+    "_sha": "c473535aba4e5e2ffabb898475ac47d56754031e",
+    "_size": 842
 }

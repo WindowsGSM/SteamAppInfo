@@ -94,28 +94,6 @@
                     "size": "1687608493",
                     "download": "776891696"
                 }
-            },
-            "encryptedmanifests": {
-                "beta": {
-                    "gid": "2FA80B7FB7C7CA28387C4BC964066E52",
-                    "size": "E0CBEF4A41C9DF725BE9B660708698EC",
-                    "download": "2E051280109EB70104571E4007373BC9"
-                },
-                "newdefault": {
-                    "gid": "E457E442072E3C71E12E7AB64E1EBED5",
-                    "size": "F4CA513F5CC37362358F76FFBDD28E0D",
-                    "download": "4C3E35030DA5D841FFE787BC15263292"
-                },
-                "sigdev": {
-                    "gid": "F0933CD09A11F24E9687D350648DC1F0",
-                    "size": "C23A6CA864D32C50416AF9BB222AAD41",
-                    "download": "19ADB77591624DE9E70A6E5C2788CFA4"
-                },
-                "test": {
-                    "gid": "EE97F5493D4A13C208FFC41CF575A11A",
-                    "size": "A86727D3012E1B6B0F68C5412978AB31",
-                    "download": "249B592E6B4DE68E5961F0FEB2FB3113"
-                }
             }
         },
         "branches": {
@@ -123,38 +101,19 @@
                 "buildid": "2520189",
                 "timeupdated": "1518903596"
             },
-            "beta": {
-                "buildid": "2520189",
-                "pwdrequired": "1",
-                "timeupdated": "1518561622"
-            },
             "legacy": {
                 "buildid": "851748",
                 "description": "The Final Unity 4 Build"
-            },
-            "newdefault": {
-                "buildid": "1239414",
-                "pwdrequired": "1",
-                "timeupdated": "1489021093"
-            },
-            "sigdev": {
-                "buildid": "2520189",
-                "pwdrequired": "1",
-                "timeupdated": "1518480298"
-            },
-            "test": {
-                "buildid": "1416840",
-                "pwdrequired": "1",
-                "timeupdated": "1570153069"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "ufs": {
         "quota": "5000000",
         "maxnumfiles": "200"
     },
     "_missing_token": false,
-    "_change_number": 26182341,
-    "_sha": "af84eb51b53b2dc0a2daa233f9f6d12af3739b74",
-    "_size": 3349
+    "_change_number": 27209232,
+    "_sha": "9248fee68a0e36e17fb7d3f27764bb017e653f8d",
+    "_size": 2244
 }

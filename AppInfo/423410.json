@@ -66,18 +66,6 @@
                     "size": "4005864994",
                     "download": "1847641968"
                 }
-            },
-            "encryptedmanifests": {
-                "pretest": {
-                    "gid": "94DCA660DEFDACD5984D04D46189E139",
-                    "size": "947675F4FC5F8AC606CC836C6D819DDD",
-                    "download": "C18C84C96A833203F3E69C0641446770"
-                },
-                "publictest": {
-                    "gid": "A1AFD0E9B916E18EB1D0B64D4BE655D9",
-                    "size": "1FAA53619933384DCCA356627B556D62",
-                    "download": "ACD9CD6A24079C8DAFD4326BD7B5A967"
-                }
             }
         },
         "branches": {
@@ -88,21 +76,12 @@
             "laststable": {
                 "buildid": "4692850",
                 "timeupdated": "1588513389"
-            },
-            "pretest": {
-                "buildid": "1611455",
-                "pwdrequired": "1",
-                "timeupdated": "1486696917"
-            },
-            "publictest": {
-                "buildid": "3969070",
-                "pwdrequired": "1",
-                "timeupdated": "1561930866"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26182377,
-    "_sha": "218244b249980a189238b2ed772f3a24661e317c",
-    "_size": 2052
+    "_change_number": 27209232,
+    "_sha": "6239bff7200ae8c52ceacf70ff1f77c271cf903c",
+    "_size": 1485
 }

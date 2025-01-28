@@ -83,129 +83,18 @@
                     "size": "1935378518",
                     "download": "734943376"
                 }
-            },
-            "encryptedmanifests": {
-                "branch-development": {
-                    "gid": "FEC3CF979D906EA3C67A0293D215BE05",
-                    "size": "5CFA36CAAA6035D570F7804AA7316E9D",
-                    "download": "20C819E94849B6E3858857FCBF0E26B4"
-                },
-                "branch-release": {
-                    "gid": "B346A76D1FF0031EBD60F48AA11ED60D",
-                    "size": "30BEB2347214AB5FAD621AE3DA6D5F07",
-                    "download": "9F57619CC0D2338B801901CA6431FBD2"
-                },
-                "dev-jmk": {
-                    "gid": "2187F927E09508CCD16345867FADC6D1",
-                    "size": "2D4914FF4E69FC0989D2FA8AC3BECE63",
-                    "download": "1AC4473A8BFF4F6851009AFAD8F9757E"
-                },
-                "dev-nd": {
-                    "gid": "5F06E7215798AE0E5C1C2A5652564C04",
-                    "size": "7496C9F932A6624356745773747780D3",
-                    "download": "D481747DD11E2D9DEB95E38DD51C5638"
-                },
-                "development": {
-                    "gid": "4CF13E94CA37B22EAE431B4D61A6EF5C",
-                    "size": "972AC0CD187653B148C5D1CD62F04D97",
-                    "download": "8D668AFF26BDA7EDFB70DAEBFDA56F43"
-                },
-                "external": {
-                    "gid": "A8F36FBBBEF9E43C14928AB95F941D9C",
-                    "size": "A75360137732E8E5D50F4AE82AAF6C97",
-                    "download": "3E7C2895AF63E083D58993D3D0A8E925"
-                },
-                "internal-qa": {
-                    "gid": "703EE46F34BBC57EF65436DE11AC009E",
-                    "size": "4C9E5BAE35B47A8179C7DC748B4E1C4D",
-                    "download": "58AEF8242ECD73960CFE2030232220FE"
-                },
-                "mainline-development": {
-                    "gid": "6607C058183AF9E2F2B0F989FD763FF6",
-                    "size": "D6B3238FE2B4E9312DB2639B24541F92",
-                    "download": "82BCD8D632E43A28D8004EE14C6C43DA"
-                },
-                "mainline-release": {
-                    "gid": "1D46D9A7F156740D5BEE286B576032E2",
-                    "size": "5F0258D74C82F025B67D7ADA65C7ED24",
-                    "download": "717411649621C48E08C80FB289DF25C3"
-                },
-                "release-candidate": {
-                    "gid": "E3B4DE971C5419C2160DA4F490A00B38",
-                    "size": "AE0BE98237C90996F491D58DA876E606",
-                    "download": "D3AB5723DB518FAD68F2FCD1CA94F8B2"
-                },
-                "release-test": {
-                    "gid": "9DFC0E1E2FC117BD76060C3B03EAA200",
-                    "size": "B98038C2F6BBD32CE26CDBBE4DC0A825",
-                    "download": "FCB8FEDB19246143B60070922CD7F847"
-                }
             }
         },
         "branches": {
             "public": {
                 "buildid": "2328371",
                 "timeupdated": "1512050628"
-            },
-            "branch-development": {
-                "buildid": "2328369",
-                "pwdrequired": "1",
-                "timeupdated": "1512035336"
-            },
-            "branch-release": {
-                "buildid": "2328371",
-                "pwdrequired": "1",
-                "timeupdated": "1512035383"
-            },
-            "dev-jmk": {
-                "buildid": "1060616",
-                "pwdrequired": "1",
-                "timeupdated": "1461677350"
-            },
-            "dev-nd": {
-                "buildid": "1100008",
-                "pwdrequired": "1",
-                "timeupdated": "1461832254"
-            },
-            "development": {
-                "buildid": "1305513",
-                "pwdrequired": "1",
-                "timeupdated": "1472470919"
-            },
-            "external": {
-                "buildid": "1357412",
-                "pwdrequired": "1",
-                "timeupdated": "1475068638"
-            },
-            "internal-qa": {
-                "buildid": "1476388",
-                "pwdrequired": "1",
-                "timeupdated": "1479908107"
-            },
-            "mainline-development": {
-                "buildid": "2303237",
-                "pwdrequired": "1",
-                "timeupdated": "1511346878"
-            },
-            "mainline-release": {
-                "buildid": "2312578",
-                "pwdrequired": "1",
-                "timeupdated": "1511794733"
-            },
-            "release-candidate": {
-                "buildid": "2321489",
-                "pwdrequired": "1",
-                "timeupdated": "1511870523"
-            },
-            "release-test": {
-                "buildid": "1364341",
-                "pwdrequired": "1",
-                "timeupdated": "1475143041"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26182377,
-    "_sha": "f51f0e3c5b877d8a1e7f0d2bfc818d29fe1f332a",
-    "_size": 5146
+    "_change_number": 27209232,
+    "_sha": "f4c94d78cb101b1ac8150e7faa8a79ae427a668d",
+    "_size": 1975
 }

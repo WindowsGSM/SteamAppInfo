@@ -63,13 +63,6 @@
                     "size": "46491216",
                     "download": "14916736"
                 }
-            },
-            "encryptedmanifests": {
-                "developer": {
-                    "gid": "3D4F4778383E94CEC1DE36EC1C3F1DF2",
-                    "size": "A7F527189044974BE66CE6C2B9957F0D",
-                    "download": "591160AC7099B552E60901693AA37712"
-                }
             }
         },
         "346683": {
@@ -102,13 +95,6 @@
                     "size": "85447402",
                     "download": "23024192"
                 }
-            },
-            "encryptedmanifests": {
-                "developer": {
-                    "gid": "ABE146FFA6919EC424020472A5E93719",
-                    "size": "88087BC185A3E809CC374D7C6160F638",
-                    "download": "1F1890AC38DCD2A4BEF126A35E3FEF36"
-                }
             }
         },
         "346681": {
@@ -137,13 +123,6 @@
                     "gid": "8670107969863158838",
                     "size": "29573784583",
                     "download": "12806396672"
-                }
-            },
-            "encryptedmanifests": {
-                "developer": {
-                    "gid": "341E7E636C31B7966D5CFB5E7086FB90",
-                    "size": "E953312EEB4F4970FCD5D4A6C2FACC94",
-                    "download": "BFE0645C461064BFA59624973CA14315"
                 }
             }
         },
@@ -180,19 +159,15 @@
                 "description": "Rollback before reimplementation of DXVK",
                 "timeupdated": "1731521319"
             },
-            "developer": {
-                "buildid": "16703694",
-                "pwdrequired": "1",
-                "timeupdated": "1733897728"
-            },
             "public-beta": {
                 "buildid": "16239606",
                 "timeupdated": "1731019143"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26587894,
-    "_sha": "5eba489c5ba1be90f7abc68eb3f8830a90b3b601",
-    "_size": 4405
+    "_change_number": 27209232,
+    "_sha": "cb427f5808b062ed17e986b10d55b6760144de80",
+    "_size": 3697
 }

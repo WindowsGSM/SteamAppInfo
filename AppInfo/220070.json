@@ -125,18 +125,6 @@
                     "size": "1450729446",
                     "download": "504860544"
                 }
-            },
-            "encryptedmanifests": {
-                "betaauto": {
-                    "gid": "558B47AA98355DD7CFC49EF5021C5339",
-                    "size": "96CE0D092CEF06B8807F83565BD3C726",
-                    "download": "CC71C58AACD4B612B17D8A6F0FB31D56"
-                },
-                "internal": {
-                    "gid": "E5E8C2BB91121BCA3B41E7ABC6A375C3",
-                    "size": "88C72C57CDE4541ED31E07C145C716D1",
-                    "download": "CE6DA5B23EAEEED2ACE66C25D0A65CCB"
-                }
             }
         },
         "220072": {
@@ -169,13 +157,6 @@
                     "size": "1176348971",
                     "download": "284044288"
                 }
-            },
-            "encryptedmanifests": {
-                "betaauto": {
-                    "gid": "727CF96C26685EE57E7EDC19BBDAF090",
-                    "size": "2F6115616CB3C888E7F07A6FA2C96996",
-                    "download": "1D5DE4D5EEB7DC337439D57B8FAA7A26"
-                }
             }
         },
         "branches": {
@@ -187,11 +168,6 @@
                 "buildid": "2903861",
                 "timeupdated": "1530282484"
             },
-            "betaauto": {
-                "buildid": "5216973",
-                "pwdrequired": "1",
-                "timeupdated": "1593133818"
-            },
             "defaultauto": {
                 "buildid": "5216959",
                 "description": "auto set to live by build machine",
@@ -199,10 +175,6 @@
             },
             "hotfix1": {
                 "buildid": "29366"
-            },
-            "internal": {
-                "buildid": "117386",
-                "pwdrequired": "1"
             },
             "linuxtesting": {
                 "buildid": "502647"
@@ -215,10 +187,11 @@
             "prepatch": {
                 "buildid": "576791"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26374598,
-    "_sha": "f2e88dbb6c35224ed17de5c0db2e52fd1674f53a",
-    "_size": 4692
+    "_change_number": 27209232,
+    "_sha": "eabc1cd4edaf71ae580db1af1f9f046e1e29a850",
+    "_size": 3952
 }

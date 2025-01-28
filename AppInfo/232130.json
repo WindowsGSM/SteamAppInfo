@@ -87,79 +87,18 @@
                     "size": "31977736861",
                     "download": "8754688832"
                 }
-            },
-            "encryptedmanifests": {
-                "beta": {
-                    "gid": "40DAD4141CBA6D9934BF193A258B06B0",
-                    "size": "3B31D9EA5AD0F66DE30C6FCA525D16B3",
-                    "download": "9AADACFE0DB9AB7A12F0DAF342CBF105"
-                },
-                "lagtest": {
-                    "gid": "342A8FA285A084D2B22590CEF9C14BF5",
-                    "size": "A50CDC2F3029DC94DBE1D9B75399725D",
-                    "download": "B51BD135EC82AA6F129C3591983C3D65"
-                },
-                "linuxbeta": {
-                    "gid": "52A58446D4D24C81C3571638CA286209",
-                    "size": "DFD27BEC968954E7E522FDB6A46FFBD8",
-                    "download": "642873FEC5AFB3F5B791DCC3DC9E60EC"
-                },
-                "ovotcotod": {
-                    "gid": "1D6371217C8474CF8CDF66EDC26438AA",
-                    "size": "BC3FB19DCF9AE1660880E83E5C7EFF9F",
-                    "download": "D2A1885DD7F806BCC8A46BCAA8532FD5"
-                },
-                "qa_test": {
-                    "gid": "523D9724A46EF59EAA97EDE9B5E450A1",
-                    "size": "7BABDE42B7DD0F5D72F2E2DD60C7CB74",
-                    "download": "EFAB31BBAD33B6C32F4764E9091E1315"
-                },
-                "showbuild": {
-                    "gid": "0391C17A9B93798EA6370674FC83C450",
-                    "size": "48D52039D4A4DB6E0168ECC5D64C0331",
-                    "download": "542ECDC34E630008663298D67412A7C6"
-                }
             }
         },
         "branches": {
             "public": {
                 "buildid": "14007421",
                 "timeupdated": "1721826461"
-            },
-            "beta": {
-                "buildid": "14007421",
-                "pwdrequired": "1",
-                "timeupdated": "1712739326"
-            },
-            "lagtest": {
-                "buildid": "14007421",
-                "pwdrequired": "1",
-                "timeupdated": "1712944123"
-            },
-            "linuxbeta": {
-                "buildid": "3479126",
-                "pwdrequired": "1",
-                "timeupdated": "1547827918"
-            },
-            "ovotcotod": {
-                "buildid": "1854800",
-                "pwdrequired": "1",
-                "timeupdated": "1496158215"
-            },
-            "qa_test": {
-                "buildid": "9330275",
-                "pwdrequired": "1",
-                "timeupdated": "1660725334"
-            },
-            "showbuild": {
-                "buildid": "1880499",
-                "pwdrequired": "1",
-                "timeupdated": "1497038083"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26374598,
-    "_sha": "2d2a11789b68febc239c57da7ebcadfdf1c7a249",
-    "_size": 3422
+    "_change_number": 27209232,
+    "_sha": "51269705d5a2013b1a824a96444331e5536e7b53",
+    "_size": 1749
 }

@@ -48,18 +48,6 @@
                     "size": "1879055485",
                     "download": "674500352"
                 }
-            },
-            "encryptedmanifests": {
-                "graveyard": {
-                    "gid": "260AAFFF3E2CD75E8B66D2E950EDBFD3",
-                    "size": "B2431148C5E81C19E6B0B4002C22CDB8",
-                    "download": "DB46EACD5DDF33A1AA88EAB423E6614B"
-                },
-                "development": {
-                    "gid": "51E586C00E44D9B23060D66F04704BCE",
-                    "size": "5EB81DA33C4F876FB30AE025F29D25C0",
-                    "download": "0015D6B0073CD845BEE2C9B0D1CC3BB8"
-                }
             }
         },
         "383412": {
@@ -81,18 +69,6 @@
                     "gid": "2533489559891090029",
                     "size": "93493140",
                     "download": "30740624"
-                }
-            },
-            "encryptedmanifests": {
-                "graveyard": {
-                    "gid": "D96178920907B00BB719F6BD449525C9",
-                    "size": "867820506BFE11D40645360E704AA0E0",
-                    "download": "84896AE1457EB6F9C41629C2215B34E2"
-                },
-                "development": {
-                    "gid": "9BD561E8C5DC0D2E59861DF5900DBCE1",
-                    "size": "02A2764AA7D8BF65B1FA92A08317F702",
-                    "download": "847DDB264F307A245820616777383575"
                 }
             }
         },
@@ -116,29 +92,12 @@
                     "size": "113471895",
                     "download": "18181312"
                 }
-            },
-            "encryptedmanifests": {
-                "graveyard": {
-                    "gid": "05710C877C33BA232D4EAAFDB8E3F753",
-                    "size": "F9206CEA1074FDAF50A94449E6C61346",
-                    "download": "6F7611A07E238F608488B4502F24225E"
-                },
-                "development": {
-                    "gid": "3A5C6D59A0000815688DD5F2AFAE4CF5",
-                    "size": "FE1DAA30EB89ADB86C970A1A42093648",
-                    "download": "A7817CA4D15F0421BD4F82A76C547FC1"
-                }
             }
         },
         "branches": {
             "public": {
                 "buildid": "16267076",
                 "timeupdated": "1730479781"
-            },
-            "graveyard": {
-                "buildid": "1242112",
-                "pwdrequired": "1",
-                "timeupdated": "1470830701"
             },
             "legacy": {
                 "buildid": "1154654",
@@ -149,16 +108,12 @@
                 "buildid": "8591740",
                 "description": "2017++ release version",
                 "timeupdated": "1704142812"
-            },
-            "development": {
-                "buildid": "16267076",
-                "pwdrequired": "1",
-                "timeupdated": "1730479763"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26182377,
-    "_sha": "199e51a0947def2a7642c02bd27b86df64610323",
-    "_size": 3825
+    "_change_number": 27209232,
+    "_sha": "be13b3fe8850e97293dcb57005216b7b9a04f2de",
+    "_size": 2479
 }

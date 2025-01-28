@@ -91,48 +91,6 @@
                     "size": "3509529212",
                     "download": "954539296"
                 }
-            },
-            "encryptedmanifests": {
-                "backup": {
-                    "gid": "54FF99CAF1510622BACFD06ACBFF48D2",
-                    "size": "6B18CB44D808C7C712C535C3B7D2D13B",
-                    "download": "08D4C972F55EF2D5D176F6BE0045F106"
-                },
-                "build_253": {
-                    "gid": "4567082EDC283918B9564070A79FCF6E",
-                    "size": "77C9C5CC19E22DF57115B69D28AEC98F",
-                    "download": "1D8FE24B2C8B426C4E988E72BACE803E"
-                },
-                "build_277": {
-                    "gid": "DDEC2A661BFF84A73B2233C4D80AE153",
-                    "size": "F44F7A1D2B90A46A6BAFDC8691F2098C",
-                    "download": "02DDAA199A0A08539665DAF045B5BEF6"
-                },
-                "build_307": {
-                    "gid": "7227B56D52C82CDD271FD568EE3A579B",
-                    "size": "2B42BF6E1BE1C25A98F568BA9E7E17D1",
-                    "download": "2EC90F99A3688E94D6C16817CB69EA99"
-                },
-                "experimental": {
-                    "gid": "A688DF7A543EA25043D979512424B09B",
-                    "size": "6D6E5E04714AA2631894CB7932A432D8",
-                    "download": "7632C8DFF4027F974E88C47BDB53A851"
-                },
-                "maptesting": {
-                    "gid": "A1801182C4BBAA7EE89A1909D229BA24",
-                    "size": "941F1CD8F7CEE9A5E5B7424A7B90C59F",
-                    "download": "4BF11F9FF6C03E191C5440D25C284A8E"
-                },
-                "testing": {
-                    "gid": "9BCA0C0FC6F33FEBA4CE5DA9ABFB2A4C",
-                    "size": "171DBAFFB20EC6E0A612064B9549D022",
-                    "download": "E6D53DC2375A38A27B0C786FEEED283E"
-                },
-                "throwback": {
-                    "gid": "340F86A9FAD1E40A2C4D4A9AE594AF79",
-                    "size": "D943381D0B12632D31B8D87F5BB02363",
-                    "download": "2580EC6137EA13211D1CA4F238BE6CE6"
-                }
             }
         },
         "overridescddb": "1",
@@ -141,55 +99,16 @@
                 "buildid": "10231202",
                 "timeupdated": "1672443540"
             },
-            "backup": {
-                "buildid": "2275931",
-                "pwdrequired": "1",
-                "timeupdated": "1520527767"
-            },
             "beta": {
                 "buildid": "10231202",
                 "description": "Beta Branch",
                 "timeupdated": "1672374489"
-            },
-            "build_253": {
-                "buildid": "64174",
-                "pwdrequired": "1",
-                "timeupdated": "1547731014"
-            },
-            "build_277": {
-                "buildid": "836716",
-                "pwdrequired": "1",
-                "timeupdated": "1547730967"
-            },
-            "build_307": {
-                "buildid": "1275763",
-                "pwdrequired": "1",
-                "timeupdated": "1473365691"
-            },
-            "experimental": {
-                "buildid": "9581144",
-                "pwdrequired": "1",
-                "timeupdated": "1663965932"
-            },
-            "maptesting": {
-                "buildid": "4447692",
-                "pwdrequired": "1",
-                "timeupdated": "1575155009"
-            },
-            "testing": {
-                "buildid": "10226154",
-                "pwdrequired": "1",
-                "timeupdated": "1672271111"
-            },
-            "throwback": {
-                "buildid": "24990",
-                "pwdrequired": "1",
-                "timeupdated": "1547585483"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26457979,
-    "_sha": "abc34a97967ea8fbb0594ccc304a721d371e4db2",
-    "_size": 4233
+    "_change_number": 27209232,
+    "_sha": "c3b235d2d0e80a465f668da597f94a9b70f55572",
+    "_size": 1990
 }

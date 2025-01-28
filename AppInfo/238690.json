@@ -50,13 +50,6 @@
                     "size": "5405810252",
                     "download": "0"
                 }
-            },
-            "encryptedmanifests": {
-                "betabrew": {
-                    "gid": "B7B7B1EE4E23B2B917A460C6B7BE1C1C",
-                    "size": "1F5A421325C19852390C22425C8272EB",
-                    "download": "ED18BE0607DD1C8D5D6988D40D525E7C"
-                }
             }
         },
         "overridescddb": "1",
@@ -67,17 +60,14 @@
             "beta": {
                 "buildid": "172968"
             },
-            "betabrew": {
-                "buildid": "386003",
-                "pwdrequired": "1"
-            },
             "internalbeta": {
                 "buildid": "72017"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26374594,
-    "_sha": "0ef6ffb126612a69bd407ef5a39db5516059921c",
-    "_size": 1571
+    "_change_number": 27209232,
+    "_sha": "a5a4fabe89a487a4631a749124ad459b349d0174",
+    "_size": 1317
 }

@@ -104,33 +104,6 @@
                     "size": "1923671908",
                     "download": "443225040"
                 }
-            },
-            "encryptedmanifests": {
-                "ps4release": {
-                    "gid": "3A089FD759E75FC8F64547928F6384D1",
-                    "size": "24804F91C80C20D28DA9A19B4511252A",
-                    "download": "F65199DFBAB55EE0B1D0CF41B400255E"
-                },
-                "ps4release2": {
-                    "gid": "19963455650C6298EB687CBA2945AA0F",
-                    "size": "425DB8BB787EFCC1D84BA9025BE279A9",
-                    "download": "2EE091F6604C67F812D5E289575F9D61"
-                },
-                "ps4server": {
-                    "gid": "9B00478BE010821D1327497BEAC8E065",
-                    "size": "A4AE8BDBB3CFB1E3EBD84D7BAF3DF5CE",
-                    "download": "1AB14ACFF3260A05EB3165A2A58612DD"
-                },
-                "xboxrelease": {
-                    "gid": "06CA0736806FC6FB007EB5B1799F2BAB",
-                    "size": "7E09AE43AC51181C9715FCDDED73B771",
-                    "download": "1DFD0FC2D3AF63F279BAE6CEBA0AD0CC"
-                },
-                "xboxserver": {
-                    "gid": "50029525B57E5C0CACB2A9EBA55FF31C",
-                    "size": "286E5977DE8861614521549335135EB3",
-                    "download": "57C4695361C34FDDCCC93B5E2D822CB4"
-                }
             }
         },
         "489652": {
@@ -158,33 +131,6 @@
                     "size": "2079782438",
                     "download": "476320592"
                 }
-            },
-            "encryptedmanifests": {
-                "ps4release": {
-                    "gid": "FEC32742F9FA1FC1F85D11BDF36A0AE7",
-                    "size": "4C8D2E364A2C7070146BB4364E09E5E9",
-                    "download": "854569A47841B4233EB8C87F171209DB"
-                },
-                "ps4release2": {
-                    "gid": "1E5DA278E74E5AC7B8881972BC25825A",
-                    "size": "6674EC9E794C5717CDCC9CD161318305",
-                    "download": "779BA466A914C1DEA2CB05DE39CBF0AE"
-                },
-                "ps4server": {
-                    "gid": "1C654687CEBC97158ECAC732348D8FAD",
-                    "size": "D6E0955F69677603B7AE65941F5029D3",
-                    "download": "FEDFABAF70E515194D2E359E1F2A63A0"
-                },
-                "xboxrelease": {
-                    "gid": "2C127F994E5A6D460C0B021AB8F48170",
-                    "size": "8ECEAA71DA91678154E22F17AEA30814",
-                    "download": "580AEC5EB9FEA43769D5A8E420873D1E"
-                },
-                "xboxserver": {
-                    "gid": "6B4F5405A91A1E6C83BBAA2BDE6FDD44",
-                    "size": "C04C709983B79CD33C58F997A55D1F63",
-                    "download": "84A835CAA92EB61C743327213F639E56"
-                }
             }
         },
         "branches": {
@@ -196,21 +142,6 @@
                 "buildid": "7189550",
                 "timeupdated": "1628925710"
             },
-            "ps4release": {
-                "buildid": "6352689",
-                "pwdrequired": "1",
-                "timeupdated": "1615999813"
-            },
-            "ps4release2": {
-                "buildid": "6352689",
-                "pwdrequired": "1",
-                "timeupdated": "1615302743"
-            },
-            "ps4server": {
-                "buildid": "6352689",
-                "pwdrequired": "1",
-                "timeupdated": "1616000139"
-            },
             "publictest": {
                 "buildid": "2954711",
                 "timeupdated": "1531946714"
@@ -218,21 +149,12 @@
             "release": {
                 "buildid": "6394339",
                 "timeupdated": "1658947769"
-            },
-            "xboxrelease": {
-                "buildid": "6352689",
-                "pwdrequired": "1",
-                "timeupdated": "1615302766"
-            },
-            "xboxserver": {
-                "buildid": "6352689",
-                "pwdrequired": "1",
-                "timeupdated": "1616000191"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26182440,
-    "_sha": "65ec80c7fe19fee47a5949d38066d7b96f60d543",
-    "_size": 5450
+    "_change_number": 27209232,
+    "_sha": "789fc5b766854470e72db89586812dacb48f1aaf",
+    "_size": 3114
 }

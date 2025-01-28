@@ -64,23 +64,6 @@
                     "size": "4662084334",
                     "download": "2605353376"
                 }
-            },
-            "encryptedmanifests": {
-                "dev": {
-                    "gid": "F6E93145E0624A7EBBDADA16DEB54CE0",
-                    "size": "0461F75B43CA5CB5785BEB159AB271E6",
-                    "download": "0777859C3169E0DBF23A882E5490AF97"
-                },
-                "experimental": {
-                    "gid": "8C83840627A7063E735F79F536C60DC2",
-                    "size": "B4F34062459D083E9929C22C24B20EB9",
-                    "download": "428C9343B3BAEB5E0283EA00046C8A50"
-                },
-                "hosting": {
-                    "gid": "FF11775E0EAB2A58DA21D19088CB77F4",
-                    "size": "FAFC64CCDAF179FB95B7E9D3A7D37A3A",
-                    "download": "5381E4C57D0A53E1332DE9F18CB7E26C"
-                }
             }
         },
         "workshopdepot": "302200",
@@ -88,26 +71,12 @@
             "public": {
                 "buildid": "10410257",
                 "timeupdated": "1674756540"
-            },
-            "dev": {
-                "buildid": "10480167",
-                "pwdrequired": "1",
-                "timeupdated": "1675553727"
-            },
-            "experimental": {
-                "buildid": "5504149",
-                "pwdrequired": "1",
-                "timeupdated": "1599237694"
-            },
-            "hosting": {
-                "buildid": "10328281",
-                "pwdrequired": "1",
-                "timeupdated": "1673832032"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26181913,
-    "_sha": "272d5ef7b67a1616e62e64a57472543ca0b3e80a",
-    "_size": 2522
+    "_change_number": 27209232,
+    "_sha": "e82d3021eb889513052dcd18f2eaa802fee995f1",
+    "_size": 1681
 }

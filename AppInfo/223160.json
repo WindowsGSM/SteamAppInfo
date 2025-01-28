@@ -36,13 +36,6 @@
                     "size": "827134688",
                     "download": "0"
                 }
-            },
-            "encryptedmanifests": {
-                "dev": {
-                    "gid": "87CB5A29C029C08DCD0522F5398B25E6",
-                    "size": "05132716B316E080A1372D0D8768EA4D",
-                    "download": "2C6E18A39B4941A9F7448AAC3CB305DB"
-                }
             }
         },
         "overridescddb": "1",
@@ -50,15 +43,12 @@
         "branches": {
             "public": {
                 "buildid": "158228"
-            },
-            "dev": {
-                "buildid": "158228",
-                "pwdrequired": "1"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 24483107,
-    "_sha": "58f5f27f1a3eb772c0c49f9915a60aa763781812",
-    "_size": 1141
+    "_change_number": 27209232,
+    "_sha": "2f60bd52239593a25d3874087abb58fb1c1c515f",
+    "_size": 897
 }
