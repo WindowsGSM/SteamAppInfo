@@ -377,7 +377,7 @@
             },
             "44": {
                 "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings stagealpha +ui_input_debug_cursor_scopes 1 +ui_debug_layout_loading 1 +log_writetofileverbosity 3 +sys_customCrashHandlerAttribute playtest",
+                "arguments": "+online_account_client_settings stagealpha +ui_input_debug_cursor_scopes 1 +ui_debug_layout_loading 1 +log_writetofileverbosity 3 +sys_customCrashHandlerAttribute playtest +ui_summary_screen_flow_debug 1 +ui_popup_checklist_debug 1 +ui_summary_screen_debug 1",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -674,7 +674,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 27253982,
-    "_sha": "b66fbe51b570214b899e79270822e439ace8fc05",
-    "_size": 17251
+    "_change_number": 27255260,
+    "_sha": "8c6e0b26ce18904388b1c1236c5b0ca9e1c3b778",
+    "_size": 17338
 }
