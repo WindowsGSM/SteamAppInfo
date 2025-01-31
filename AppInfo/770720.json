@@ -348,7 +348,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "daily_main qa_testroom"
+                    "betakey": "qa_testroom"
                 },
                 "description_loc": {
                     "english": "daily_main"
@@ -565,6 +565,20 @@
                     "english": "windows_test"
                 },
                 "description": "windows_test"
+            },
+            "64": {
+                "executable": "bin\\win_x64\\HuntGame.exe",
+                "arguments": "+online_account_client_settings stage_external",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "daily_main"
+                },
+                "description_loc": {
+                    "english": "main"
+                },
+                "description": "main"
             }
         },
         "uselaunchcommandline": "1"
@@ -660,7 +674,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 27248983,
-    "_sha": "02103519f5a08c6f3244dc060d09cdadd80bf170",
-    "_size": 16928
+    "_change_number": 27248999,
+    "_sha": "3801d43e92e8beb9026bcfcc3efedd46113ee538",
+    "_size": 17252
 }
