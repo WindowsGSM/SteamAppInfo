@@ -23,18 +23,6 @@
         "contenttype": "3",
         "installdir": "RisingWorldDedicatedServer",
         "launch": {
-            "0": {
-                "executable": "rw_server.exe",
-                "type": "server",
-                "config": {
-                    "oslist": "windows",
-                    "betakey": "default"
-                },
-                "description_loc": {
-                    "english": "Launch"
-                },
-                "description": "Launch"
-            },
             "1": {
                 "executable": "RisingWorldServer.exe",
                 "type": "server",
@@ -202,7 +190,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 27269493,
-    "_sha": "d19aa39e2fa8b8893accaf13b6e35e218b069252",
-    "_size": 4118
+    "_change_number": 27269508,
+    "_sha": "aee2c8f9874903e6709f50e32968b20d9922ad7f",
+    "_size": 3883
 }
