@@ -91,15 +91,15 @@
                     "size": "3116916540",
                     "download": "769319520"
                 },
-                "shack_beta": {
-                    "gid": "510778677660452160",
-                    "size": "1852138741",
-                    "download": "384684432"
-                },
                 "shack": {
                     "gid": "2199085877868594893",
                     "size": "3285257322",
                     "download": "864720912"
+                },
+                "shack_beta": {
+                    "gid": "510778677660452160",
+                    "size": "1852138741",
+                    "download": "384684432"
                 }
             }
         },
@@ -118,20 +118,20 @@
                 "description": "Update 28 with Workshop",
                 "timeupdated": "1686261512"
             },
+            "shack": {
+                "buildid": "16650859",
+                "timeupdated": "1733449237"
+            },
             "shack_beta": {
                 "buildid": "12137074",
                 "description": "beta",
                 "timeupdated": "1694544278"
-            },
-            "shack": {
-                "buildid": "16650859",
-                "timeupdated": "1733449237"
             }
         },
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 27469349,
-    "_sha": "37f4433580daaa5f56cd17ad9123c5131351f35d",
+    "_change_number": 27470034,
+    "_sha": "09908b84fe884d6cd6b49149966f550f67f3d60f",
     "_size": 2721
 }
