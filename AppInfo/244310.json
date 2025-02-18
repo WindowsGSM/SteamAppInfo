@@ -27,20 +27,25 @@
                     "size": "729419399",
                     "download": "296330080"
                 },
+                "previous_upcoming": {
+                    "gid": "7021382552385958892",
+                    "size": "585906369",
+                    "download": "241206176"
+                },
                 "prerelease": {
-                    "gid": "2914782630826829845",
-                    "size": "628565050",
-                    "download": "255938560"
+                    "gid": "8615662327533592876",
+                    "size": "729419399",
+                    "download": "296330080"
                 },
                 "previous": {
                     "gid": "4450448967343889496",
                     "size": "628691986",
                     "download": "255958992"
                 },
-                "previous_upcoming": {
-                    "gid": "7021382552385958892",
-                    "size": "585906369",
-                    "download": "241206176"
+                "previous2021": {
+                    "gid": "2914782630826829845",
+                    "size": "628565050",
+                    "download": "255938560"
                 }
             }
         },
@@ -54,20 +59,25 @@
                     "size": "228423725",
                     "download": "78868848"
                 },
+                "previous_upcoming": {
+                    "gid": "947288342241400810",
+                    "size": "85837456",
+                    "download": "35693392"
+                },
                 "prerelease": {
-                    "gid": "6004463475531467995",
-                    "size": "94437248",
-                    "download": "34340880"
+                    "gid": "1489833506237685180",
+                    "size": "228423725",
+                    "download": "78868848"
                 },
                 "previous": {
                     "gid": "478946293458400227",
                     "size": "86865520",
                     "download": "32180096"
                 },
-                "previous_upcoming": {
-                    "gid": "947288342241400810",
-                    "size": "85837456",
-                    "download": "35693392"
+                "previous2021": {
+                    "gid": "6004463475531467995",
+                    "size": "94437248",
+                    "download": "34340880"
                 }
             }
         },
@@ -81,20 +91,25 @@
                     "size": "75236002",
                     "download": "21318000"
                 },
+                "previous_upcoming": {
+                    "gid": "197554846229567789",
+                    "size": "43273855",
+                    "download": "15369008"
+                },
                 "prerelease": {
-                    "gid": "6299109015578496445",
-                    "size": "53839379",
-                    "download": "14470368"
+                    "gid": "6956662238151572328",
+                    "size": "75236002",
+                    "download": "21318000"
                 },
                 "previous": {
                     "gid": "8894712212653909576",
                     "size": "45256792",
                     "download": "12744528"
                 },
-                "previous_upcoming": {
-                    "gid": "197554846229567789",
-                    "size": "43273855",
-                    "download": "15369008"
+                "previous2021": {
+                    "gid": "6299109015578496445",
+                    "size": "53839379",
+                    "download": "14470368"
                 }
             }
         },
@@ -104,25 +119,29 @@
                 "buildid": "17261187",
                 "timeupdated": "1739909653"
             },
-            "prerelease": {
-                "buildid": "6982827",
-                "timeupdated": "1625518931"
-            },
-            "previous": {
-                "buildid": "4259087",
-                "description": "The previous release",
-                "timeupdated": "1625518921"
-            },
             "previous_upcoming": {
                 "buildid": "397638",
                 "description": "The obsolete \"upcoming\" prerelease build",
                 "timeupdated": "1463012296"
+            },
+            "prerelease": {
+                "buildid": "17261187",
+                "timeupdated": "1739909741"
+            },
+            "previous": {
+                "buildid": "4259087",
+                "description": "The previous release",
+                "timeupdated": "1739909891"
+            },
+            "previous2021": {
+                "buildid": "6982827",
+                "description": "Previous Build",
+                "timeupdated": "1739909997"
             }
-        },
-        "privatebranches": "1"
+        }
     },
     "_missing_token": false,
-    "_change_number": 27541693,
-    "_sha": "586e317f26faf1b6c8097f4f27688b6bc06e11ad",
-    "_size": 2569
+    "_change_number": 27541773,
+    "_sha": "46668faa09625c54365e23cc6ec027126bbb0626",
+    "_size": 3020
 }
