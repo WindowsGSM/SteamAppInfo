@@ -27,14 +27,19 @@
         "232330": {
             "manifests": {
                 "public": {
-                    "gid": "2613653526845220043",
-                    "size": "2229493575",
-                    "download": "1092759440"
+                    "gid": "8012076251401872268",
+                    "size": "2274170578",
+                    "download": "1122056432"
                 },
                 "prerelease": {
-                    "gid": "2613653526845220043",
-                    "size": "2229493575",
-                    "download": "1092759440"
+                    "gid": "8012076251401872268",
+                    "size": "2274170578",
+                    "download": "1122056432"
+                },
+                "previous": {
+                    "gid": "738175110623382735",
+                    "size": "2274170578",
+                    "download": "1122056432"
                 }
             }
         },
@@ -44,14 +49,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2005180106795533146",
-                    "size": "92931776",
-                    "download": "33253360"
+                    "gid": "6284704787655950281",
+                    "size": "241611173",
+                    "download": "82201456"
                 },
                 "prerelease": {
-                    "gid": "2005180106795533146",
-                    "size": "92931776",
-                    "download": "33253360"
+                    "gid": "6284704787655950281",
+                    "size": "241611173",
+                    "download": "82201456"
+                },
+                "previous": {
+                    "gid": "323412521994985575",
+                    "size": "242037157",
+                    "download": "82357024"
                 }
             }
         },
@@ -61,33 +71,42 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2107924716899862244",
-                    "size": "67634043",
-                    "download": "17652512"
+                    "gid": "4365247718224700910",
+                    "size": "105524814",
+                    "download": "28618256"
                 },
                 "prerelease": {
-                    "gid": "2107924716899862244",
-                    "size": "67634043",
-                    "download": "17652512"
+                    "gid": "4365247718224700910",
+                    "size": "105524814",
+                    "download": "28618256"
+                },
+                "previous": {
+                    "gid": "3164857254915670224",
+                    "size": "105510066",
+                    "download": "28606512"
                 }
             }
         },
         "overridescddb": "1",
         "branches": {
             "public": {
-                "buildid": "6953255",
-                "timeupdated": "1625257768"
+                "buildid": "17399407",
+                "timeupdated": "1739907810"
             },
             "prerelease": {
-                "buildid": "6953255",
+                "buildid": "17399407",
                 "description": "Latest available build",
-                "timeupdated": "1625257761"
+                "timeupdated": "1739907819"
+            },
+            "previous": {
+                "buildid": "17374470",
+                "description": "Previous Build",
+                "timeupdated": "1739907853"
             }
-        },
-        "privatebranches": "1"
+        }
     },
     "_missing_token": false,
-    "_change_number": 27526332,
-    "_sha": "836369035c640bddb9b5975d3d930af9bcddb634",
-    "_size": 1750
+    "_change_number": 27541207,
+    "_sha": "e292d5a3bc2a581f6af9b423bb7e51d7acca51b5",
+    "_size": 2192
 }
