@@ -3,29 +3,22 @@
     "common": {
         "name": "Half-Life Deathmatch: Source Dedicated server",
         "type": "Tool",
-        "releasestate": "released",
-        "oslist": "windows",
+        "oslist": "windows,linux",
         "clienticon": "d991f95d96e1c76d2acb944bb09447628cd96caa",
         "clienttga": "bf3b23c9bf2252c27e6472c65383176002c1643c",
         "icon": "b4f572a6cc5a6a84ae84634c31414b9123d2f26b",
         "linuxclienticon": "87bda297bfca8fa26490f4a35d634d978c7da319",
         "clienticns": "44b51f7d161d4d16f4517d36bd9eab1589b75c9e",
         "freetodownload": "1",
+        "releasestate": "released",
+        "osarch": "",
+        "osextended": "",
         "gameid": "255470"
     },
     "config": {
         "contenttype": "3",
         "installdir": "Half-Life Deathmatch Source Dedicated server",
-        "launch": {
-            "0": {
-                "executable": "srcds.exe",
-                "arguments": "-game hl1mp",
-                "description": "Launch",
-                "config": {
-                    "oslist": "windows"
-                }
-            }
-        }
+        "launch": {}
     },
     "depots": {
         "255470": {
@@ -109,7 +102,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 27541498,
-    "_sha": "6f8a9ee12a4ada4005001c88de406391c45d13c0",
-    "_size": 2403
+    "_change_number": 27663944,
+    "_sha": "6dbb3af180a0694370c1a4e3de09fd2986135c7e",
+    "_size": 2287
 }
