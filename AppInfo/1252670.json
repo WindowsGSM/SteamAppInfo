@@ -296,21 +296,13 @@
         "privatebranches": "1"
     },
     "ufs": {
-        "quota": "10000000000",
-        "maxnumfiles": "10000",
+        "quota": "0",
+        "maxnumfiles": "0",
         "hidecloudui": "1",
-        "ignoreexternalfiles": "1",
-        "savefiles": {
-            "0": {
-                "root": "gameinstall",
-                "path": "saves",
-                "pattern": "*",
-                "recursive": "1"
-            }
-        }
+        "ignoreexternalfiles": "1"
     },
     "_missing_token": false,
-    "_change_number": 27976141,
-    "_sha": "a0636e0fc3a4e8b5c3a999267123ae19df9ee726",
-    "_size": 7088
+    "_change_number": 27976494,
+    "_sha": "d4f725a6ade47ab7d1643fec70ac5f2c73898496",
+    "_size": 6949
 }
