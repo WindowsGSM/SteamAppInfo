@@ -184,7 +184,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 latest teamtest latest_lwp content_integration"
+                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 latest teamtest latest_lwp"
                 },
                 "description_loc": {
                     "english": "STGDSN"
@@ -596,6 +596,20 @@
                     "english": "player_test"
                 },
                 "description": "player_test"
+            },
+            "66": {
+                "executable": "bin\\win_x64\\HuntGame.exe",
+                "arguments": "+online_account_client_settings blah -online_server capi-cnstg-useast.huntshowdown.com -online_server_port 61088",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "content_integration"
+                },
+                "description_loc": {
+                    "english": "content_integration"
+                },
+                "description": "content_integration"
             }
         },
         "uselaunchcommandline": "1"
@@ -691,7 +705,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 28109078,
-    "_sha": "ced1d4d0186114283c34c8cec3250bdbea5b9505",
-    "_size": 17823
+    "_change_number": 28109784,
+    "_sha": "d1dd4af48a8b1b74e8c4ed4dcbbb0996cd6ed61c",
+    "_size": 18243
 }
