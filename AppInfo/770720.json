@@ -379,7 +379,7 @@
                 }
             },
             "44": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
+                "executable": "hunt.exe",
                 "arguments": "+online_account_client_settings stagealpha +ui_input_debug_cursor_scopes 1 +ui_debug_layout_loading 1 +log_writetofileverbosity 3 +sys_customCrashHandlerAttribute playtest +ui_summary_screen_flow_debug 1 +ui_popup_checklist_debug 1 +ui_summary_screen_debug 1",
                 "type": "option1",
                 "config": {
@@ -705,7 +705,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 28262528,
-    "_sha": "073216ae518ca2a5c9a139c130c492b000b993f8",
-    "_size": 18723
+    "_change_number": 28262816,
+    "_sha": "463a74f90240417131f0c962186763f61d4e2fcb",
+    "_size": 18705
 }
