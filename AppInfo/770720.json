@@ -610,6 +610,20 @@
                     "english": "content_integration"
                 },
                 "description": "content_integration"
+            },
+            "67": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings blah -online_server capi-stage-alpha-asia.huntshowdown.com -online_server_port 61092",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "tc_asia_test"
+                },
+                "description_loc": {
+                    "english": "tc_asia_test"
+                },
+                "description": "tc_asia_test"
             }
         },
         "uselaunchcommandline": "1"
@@ -705,7 +719,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 28480741,
-    "_sha": "1e37e5754d54c2618010def9923fb742cfe251e2",
-    "_size": 18908
+    "_change_number": 28481437,
+    "_sha": "ef5fc4fd15dc2e0da9a97633af8c6cc583ee7146",
+    "_size": 19313
 }
