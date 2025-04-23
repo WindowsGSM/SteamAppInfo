@@ -380,7 +380,7 @@
             },
             "44": {
                 "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings stagealpha +ui_input_debug_cursor_scopes 1 +ui_debug_layout_loading 1 +log_writetofileverbosity 3 +sys_customCrashHandlerAttribute playtest +ui_summary_screen_flow_debug 1 +ui_popup_checklist_debug 1 +ui_summary_screen_debug 1 +tlm_hunt_enable 1 +tlm_enable_perf gmpu -tlm_hunt_id PlaytestPC +g_perf_budget_gpu 1",
+                "arguments": "+online_account_client_settings stagealpha +ui_input_debug_cursor_scopes 1 +ui_debug_layout_loading 1 +log_writetofileverbosity 3 +sys_customCrashHandlerAttribute playtest +ui_summary_screen_flow_debug 1 +ui_popup_checklist_debug 1 +ui_summary_screen_debug 1",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -719,7 +719,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 28616189,
-    "_sha": "1e6f236e064cefcfdd29754f259d38d91a75a195",
-    "_size": 19399
+    "_change_number": 28617502,
+    "_sha": "ef5fc4fd15dc2e0da9a97633af8c6cc583ee7146",
+    "_size": 19313
 }
