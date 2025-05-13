@@ -12,6 +12,7 @@
         "restricted_countries": "DE",
         "steam_deck_compatibility": {
             "category": "1",
+            "steamos_compatibility": "0",
             "test_timestamp": "1663286400",
             "tested_build_id": "8348742",
             "tests": {
@@ -20,6 +21,7 @@
                     "token": "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Retired"
                 }
             },
+            "steamos_tests": {},
             "configuration": {
                 "supported_input": "other",
                 "requires_manual_keyboard_invoke": "1",
@@ -221,7 +223,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 28881877,
-    "_sha": "3fb0c9926111bca82e27afaf230a2b14e1443c69",
-    "_size": 4625
+    "_change_number": 28969138,
+    "_sha": "662cefa8b200d5d72515c4953e5ddedcf73a74e0",
+    "_size": 4686
 }

@@ -32,6 +32,7 @@
         },
         "steam_deck_compatibility": {
             "category": "2",
+            "steamos_compatibility": "0",
             "test_timestamp": "1734134400",
             "tested_build_id": "11405781",
             "tests": {
@@ -56,6 +57,7 @@
                     "token": "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
                 }
             },
+            "steamos_tests": {},
             "configuration": {
                 "supported_input": "gamepad",
                 "requires_manual_keyboard_invoke": "1",
@@ -131,7 +133,6 @@
         "content_descriptors_including_dlc": {
             "0": "5"
         },
-        "store_tags": {},
         "review_score": "5",
         "review_percentage": "48"
     },
@@ -722,7 +723,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 28968792,
-    "_sha": "01ad9b9521e1cad3e770419e87c137f230a408db",
-    "_size": 19430
+    "_change_number": 28969138,
+    "_sha": "0e6969d19dcb353f6866f62589f1a6a2890bb079",
+    "_size": 19468
 }

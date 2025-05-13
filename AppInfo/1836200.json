@@ -15,6 +15,7 @@
         "logo_small": "6fadf075d478c811dff8de8900c662e84704a01f_thumb",
         "steam_deck_compatibility": {
             "category": "1",
+            "steamos_compatibility": "0",
             "test_timestamp": "1663286400",
             "tested_build_id": "8750170",
             "tests": {
@@ -23,6 +24,7 @@
                     "token": "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Retired"
                 }
             },
+            "steamos_tests": {},
             "configuration": {
                 "supported_input": "gamepad",
                 "requires_manual_keyboard_invoke": "0",
@@ -169,7 +171,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 28908960,
-    "_sha": "a42f9b385e04061aba8b6aeef5976da81aab2a48",
-    "_size": 3700
+    "_change_number": 28969138,
+    "_sha": "a9a1a9aa48fcec392f845cb854666590571761eb",
+    "_size": 3761
 }
