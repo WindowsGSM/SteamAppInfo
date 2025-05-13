@@ -388,7 +388,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "closed_beta_test 201_test external_playtest tc_playtest internal_playtest navmesh"
+                    "betakey": "closed_beta_test 201_test external_playtest tc_playtest internal_playtest navmesh current"
                 },
                 "description_loc": {
                     "english": "alpha_pt"
@@ -487,20 +487,6 @@
                     "english": "dlsscheck"
                 },
                 "description": "dlsscheck"
-            },
-            "58": {
-                "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings yxz -online_server capi-daily-main-asia.huntshowdown.com -online_server_port 61089",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "current"
-                },
-                "description_loc": {
-                    "english": "current"
-                },
-                "description": "current"
             },
             "59": {
                 "executable": "hunt.exe",
@@ -736,7 +722,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 28954573,
-    "_sha": "987c8ed384eac9cc33dd944307503fa4e7c63e2e",
-    "_size": 19810
+    "_change_number": 28954757,
+    "_sha": "01ad9b9521e1cad3e770419e87c137f230a408db",
+    "_size": 19430
 }
