@@ -15,7 +15,7 @@
         "logo_small": "6fadf075d478c811dff8de8900c662e84704a01f_thumb",
         "steam_deck_compatibility": {
             "category": "1",
-            "steamos_compatibility": "0",
+            "steamos_compatibility": "1",
             "test_timestamp": "1663286400",
             "tested_build_id": "8750170",
             "tests": {
@@ -24,7 +24,12 @@
                     "token": "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Retired"
                 }
             },
-            "steamos_tests": {},
+            "steamos_tests": {
+                "0": {
+                    "display": "2",
+                    "token": "#SteamOS_TestResult_SteamOSDoesNotSupport_Retired"
+                }
+            },
             "configuration": {
                 "supported_input": "gamepad",
                 "requires_manual_keyboard_invoke": "0",
@@ -36,7 +41,9 @@
                 "requires_internet_for_singleplayer": "0",
                 "recommended_runtime": "proton-stable",
                 "requires_h264": "0",
-                "gamescope_frame_limiter_not_supported": "0"
+                "requires_voice_files": "0",
+                "gamescope_frame_limiter_not_supported": "0",
+                "hdr_support": "0"
             }
         },
         "small_capsule": {
@@ -171,7 +178,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 28969138,
-    "_sha": "a9a1a9aa48fcec392f845cb854666590571761eb",
-    "_size": 3761
+    "_change_number": 28990304,
+    "_sha": "6b71efe4bee2be74a6a0051762b6ff73a68cfb22",
+    "_size": 3922
 }
