@@ -22,7 +22,7 @@
         "restricted_countries": "DE",
         "steam_deck_compatibility": {
             "category": "2",
-            "steamos_compatibility": "0",
+            "steamos_compatibility": "2",
             "test_timestamp": "1676332800",
             "tested_build_id": "3108500",
             "tests": {
@@ -63,7 +63,32 @@
                     "token": "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
                 }
             },
-            "steamos_tests": {},
+            "steamos_tests": {
+                "0": {
+                    "display": "3",
+                    "token": "#SteamOS_TestResult_GameStartupFunctional"
+                },
+                "1": {
+                    "display": "1",
+                    "token": "#SteamOS_TestResult_LauncherInteractionIssues"
+                },
+                "2": {
+                    "display": "1",
+                    "token": "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+                },
+                "3": {
+                    "display": "1",
+                    "token": "#SteamOS_TestResult_GameOrLauncherDoesntExitCleanly"
+                },
+                "4": {
+                    "display": "1",
+                    "token": "#SteamOS_TestResult_CrossPlatformCloudSavesNotSupported"
+                },
+                "5": {
+                    "display": "1",
+                    "token": "#SteamOS_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+                }
+            },
             "configuration": {
                 "supported_input": "gamepad",
                 "requires_manual_keyboard_invoke": "1",
@@ -75,7 +100,9 @@
                 "requires_internet_for_singleplayer": "0",
                 "recommended_runtime": "proton-7.0-5",
                 "requires_h264": "1",
-                "gamescope_frame_limiter_not_supported": "0"
+                "requires_voice_files": "0",
+                "gamescope_frame_limiter_not_supported": "0",
+                "hdr_support": "0"
             }
         },
         "metacritic_name": "Observer",
@@ -376,7 +403,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 28969138,
-    "_sha": "3024c16eec5c7bb154955fa85dfc7945994d872d",
-    "_size": 8087
+    "_change_number": 28974216,
+    "_sha": "58e60a468a3f5a099bdc16982fac14be3e653c9b",
+    "_size": 8804
 }
