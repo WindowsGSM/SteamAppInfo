@@ -36,7 +36,13 @@
                 }
             }
         },
-        "uselaunchcommandline": "1"
+        "uselaunchcommandline": "1",
+        "app_mappings": {
+            "0": {
+                "platform": "linux",
+                "tool": "SteamLinuxRuntime_sniper"
+            }
+        }
     },
     "depots": {
         "1004": {
@@ -137,7 +143,7 @@
         "maxnumfiles": "100"
     },
     "_missing_token": false,
-    "_change_number": 29038340,
-    "_sha": "d8b29b55a8be84390ce921d98ce45ab02c9c66f0",
-    "_size": 2630
+    "_change_number": 29038375,
+    "_sha": "2781c716fee04bf2eef9e9385a79f96df9cd6fc2",
+    "_size": 2735
 }
