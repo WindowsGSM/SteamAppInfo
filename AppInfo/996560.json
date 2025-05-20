@@ -27,6 +27,14 @@
                     "oslist": "windows",
                     "osarch": "64"
                 }
+            },
+            "1": {
+                "executable": "LocalAdmin",
+                "type": "server",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
             }
         }
     },
@@ -187,7 +195,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 29073957,
-    "_sha": "e1b490276e00a3472ea032a6c4d7d5ab4b97564c",
-    "_size": 4031
+    "_change_number": 29087391,
+    "_sha": "dea59a08e9e8a8e6ea84ff13249ae8e4ade80e9c",
+    "_size": 4168
 }
