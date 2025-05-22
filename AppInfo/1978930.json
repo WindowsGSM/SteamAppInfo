@@ -123,6 +123,16 @@
                     "gid": "8392934454763021119",
                     "size": "657058939",
                     "download": "352592672"
+                },
+                "experimental": {
+                    "gid": "8392934454763021119",
+                    "size": "657058939",
+                    "download": "352592672"
+                },
+                "stable": {
+                    "gid": "6607609639972373117",
+                    "size": "638304361",
+                    "download": "345177712"
                 }
             }
         },
@@ -132,6 +142,16 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "6707617029473580317",
+                    "size": "18770638",
+                    "download": "18094832"
+                },
+                "experimental": {
+                    "gid": "6707617029473580317",
+                    "size": "18770638",
+                    "download": "18094832"
+                },
+                "stable": {
                     "gid": "6707617029473580317",
                     "size": "18770638",
                     "download": "18094832"
@@ -147,6 +167,16 @@
                     "gid": "8807566130884532821",
                     "size": "23940768",
                     "download": "4826960"
+                },
+                "experimental": {
+                    "gid": "8807566130884532821",
+                    "size": "23940768",
+                    "download": "4826960"
+                },
+                "stable": {
+                    "gid": "8807566130884532821",
+                    "size": "23940768",
+                    "download": "4826960"
                 }
             }
         },
@@ -156,6 +186,16 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "8131669567185833422",
+                    "size": "433",
+                    "download": "400"
+                },
+                "experimental": {
+                    "gid": "8131669567185833422",
+                    "size": "433",
+                    "download": "400"
+                },
+                "stable": {
                     "gid": "8131669567185833422",
                     "size": "433",
                     "download": "400"
@@ -171,6 +211,16 @@
                     "gid": "1159642203859116658",
                     "size": "3601750400",
                     "download": "764136832"
+                },
+                "experimental": {
+                    "gid": "1159642203859116658",
+                    "size": "3601750400",
+                    "download": "764136832"
+                },
+                "stable": {
+                    "gid": "4029309283787714648",
+                    "size": "3369552568",
+                    "download": "729356992"
                 }
             }
         },
@@ -178,12 +228,22 @@
             "public": {
                 "buildid": "12027059",
                 "timeupdated": "1693236002"
+            },
+            "experimental": {
+                "buildid": "12027059",
+                "description": "Experimental branch",
+                "timeupdated": "1747889867"
+            },
+            "stable": {
+                "buildid": "11539311",
+                "description": "Stable branch",
+                "timeupdated": "1747889853"
             }
         },
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 26845279,
-    "_sha": "8714f8d71b91d2f9c52cd2d1474cf3ec7900c567",
-    "_size": 3259
+    "_change_number": 29118791,
+    "_sha": "bf8827ca195d054abb63e4e4f5285d1da19f1031",
+    "_size": 4629
 }
