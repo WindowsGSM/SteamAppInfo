@@ -1,7 +1,7 @@
 {
     "appid": "439660",
     "common": {
-        "name": "Tower Unite Dedicated Server",
+        "name": "Tower Unite Dedicated Server 2016",
         "type": "Tool",
         "oslist": "windows,linux",
         "icon": "f29be37c6cbcf486839f109c0ba862828bd59881",
@@ -10,6 +10,8 @@
         "logo": "ac6dd14c3af8892e7b04073dbf01b1d12cc102fc",
         "logo_small": "ac6dd14c3af8892e7b04073dbf01b1d12cc102fc_thumb",
         "releasestate": "released",
+        "osarch": "64",
+        "osextended": "",
         "freetodownload": "1",
         "small_capsule": {
             "english": "capsule_231x87.jpg"
@@ -34,12 +36,15 @@
             "0": {
                 "executable": "TowerServer.exe",
                 "arguments": "-log",
-                "description": "Start Dedicated Server",
                 "type": "default",
                 "config": {
                     "oslist": "windows",
                     "osarch": "64"
-                }
+                },
+                "description_loc": {
+                    "english": "Start Dedicated Server"
+                },
+                "description": "Start Dedicated Server"
             },
             "1": {
                 "executable": "Tower/Binaries/Linux/TowerServer-Linux-Shipping",
@@ -147,7 +152,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 29323247,
-    "_sha": "c797952fa9bb6f520f6bddb1bced32b26f32b94b",
-    "_size": 2943
+    "_change_number": 29335215,
+    "_sha": "8a8227ccd4bad533763bbc5716b73010ca5e1466",
+    "_size": 3059
 }
