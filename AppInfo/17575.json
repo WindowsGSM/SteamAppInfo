@@ -39,6 +39,18 @@
                     "oslist": "linux"
                 }
             }
+        },
+        "app_mappings": {
+            "0": {
+                "platform": "linux",
+                "tool": "SteamLinuxRuntime_sniper",
+                "branch": "64bit"
+            },
+            "1": {
+                "platform": "linux",
+                "tool": "SteamLinuxRuntime_sniper",
+                "branch": "temp"
+            }
         }
     },
     "depots": {
@@ -86,7 +98,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 29445365,
-    "_sha": "7612f3c934d5b9acc857e1d0e4fcd6ced581bbd7",
-    "_size": 1719
+    "_change_number": 29445654,
+    "_sha": "b6a73a8687a9081227f4d419e5c4b5d16d557aa4",
+    "_size": 1947
 }
