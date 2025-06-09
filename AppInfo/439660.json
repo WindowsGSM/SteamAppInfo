@@ -34,17 +34,16 @@
         "installdir": "Tower Unite Dedicated Server",
         "launch": {
             "0": {
-                "executable": "TowerServer.exe",
-                "arguments": "-log",
+                "executable": "TowerServerGUI.exe",
                 "type": "default",
                 "config": {
                     "oslist": "windows",
                     "osarch": "64"
                 },
                 "description_loc": {
-                    "english": "Start Dedicated Server"
+                    "english": "Start Dedicated Condo Launcher"
                 },
-                "description": "Start Dedicated Server"
+                "description": "Start Dedicated Condo Launcher"
             },
             "1": {
                 "executable": "Tower/Binaries/Linux/TowerServer-Linux-Shipping",
@@ -152,7 +151,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 29473723,
-    "_sha": "7adefd6e31e0f462aa340a9b5cca62926c599785",
-    "_size": 3059
+    "_change_number": 29475210,
+    "_sha": "fff8df7a109c227018be87dec69e95c56a24c464",
+    "_size": 3054
 }
