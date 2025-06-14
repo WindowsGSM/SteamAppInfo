@@ -197,14 +197,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5444692834381663617",
-                    "size": "811258809",
-                    "download": "436301488"
+                    "gid": "1843255398560031061",
+                    "size": "696614812",
+                    "download": "359906192"
                 },
                 "oldversion": {
                     "gid": "5444692834381663617",
                     "size": "811258809",
                     "download": "436301488"
+                },
+                "testpublic": {
+                    "gid": "1843255398560031061",
+                    "size": "696614812",
+                    "download": "359906192"
                 }
             }
         },
@@ -217,19 +222,24 @@
         },
         "branches": {
             "public": {
-                "buildid": "16992802",
-                "timeupdated": "1749308286"
+                "buildid": "18860351",
+                "timeupdated": "1749934021"
             },
             "oldversion": {
                 "buildid": "16992802",
                 "description": "Version Old 126.5",
                 "timeupdated": "1748369304"
+            },
+            "testpublic": {
+                "buildid": "18860351",
+                "description": "CrossplayerEOS",
+                "timeupdated": "1749839865"
             }
         },
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 29555703,
-    "_sha": "5a66e9038ffa366ead24f4d1ab355e96c35e5e88",
-    "_size": 4268
+    "_change_number": 29568970,
+    "_sha": "5d1863c35e8085604d3a4f4333a54d068cb34940",
+    "_size": 4505
 }
