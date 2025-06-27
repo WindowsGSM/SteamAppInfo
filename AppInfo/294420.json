@@ -113,14 +113,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6718131435641091070",
-                    "size": "17833405490",
-                    "download": "11876786848"
+                    "gid": "833351683593058679",
+                    "size": "15104995736",
+                    "download": "11546302592"
                 },
                 "latest_experimental": {
-                    "gid": "137561259253061591",
-                    "size": "15104995737",
-                    "download": "11546303920"
+                    "gid": "833351683593058679",
+                    "size": "15104995736",
+                    "download": "11546302592"
+                },
+                "v2.0": {
+                    "gid": "833351683593058679",
+                    "size": "15104995736",
+                    "download": "11546302592"
                 },
                 "v1.4": {
                     "gid": "6718131435641091070",
@@ -220,14 +225,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4337473738794231947",
-                    "size": "11855698597",
-                    "download": "7266745312"
+                    "gid": "4515170568972576684",
+                    "size": "15032977945",
+                    "download": "11473371760"
                 },
                 "latest_experimental": {
-                    "gid": "395054255637533508",
+                    "gid": "4515170568972576684",
                     "size": "15032977945",
-                    "download": "11473368736"
+                    "download": "11473371760"
+                },
+                "v2.0": {
+                    "gid": "4515170568972576684",
+                    "size": "15032977945",
+                    "download": "11473371760"
                 },
                 "v1.4": {
                     "gid": "4337473738794231947",
@@ -318,13 +328,18 @@
         },
         "branches": {
             "public": {
-                "buildid": "17990043",
-                "timeupdated": "1744394487"
+                "buildid": "19002068",
+                "timeupdated": "1751043842"
             },
             "latest_experimental": {
-                "buildid": "19001377",
+                "buildid": "19002068",
                 "description": "Unstable build",
-                "timeupdated": "1750889850"
+                "timeupdated": "1751044044"
+            },
+            "v2.0": {
+                "buildid": "19002068",
+                "description": "Version 2.0 Stable",
+                "timeupdated": "1751043889"
             },
             "v1.4": {
                 "buildid": "17990043",
@@ -415,7 +430,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 29790181,
-    "_sha": "a61957bc4a15430a6c29320dcf39b41e8ab06d70",
-    "_size": 9531
+    "_change_number": 29791670,
+    "_sha": "d04e880970cf7ef1d901f936534ad884e2a22661",
+    "_size": 9879
 }
