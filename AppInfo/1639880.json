@@ -88,9 +88,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2364499812890317283",
-                    "size": "1010998691",
-                    "download": "317772608"
+                    "gid": "6377657706693330750",
+                    "size": "1370746487",
+                    "download": "522213792"
                 },
                 "1.10b": {
                     "gid": "2303407881568629235",
@@ -101,6 +101,11 @@
                     "gid": "1144970778157545360",
                     "size": "884000338",
                     "download": "239296160"
+                },
+                "1.0-releasebuild": {
+                    "gid": "2364499812890317283",
+                    "size": "1010998691",
+                    "download": "317772608"
                 },
                 "1.13": {
                     "gid": "6599200428175941002",
@@ -113,9 +118,9 @@
                     "download": "264773344"
                 },
                 "experimental": {
-                    "gid": "2364499812890317283",
-                    "size": "1010998691",
-                    "download": "317772608"
+                    "gid": "6377657706693330750",
+                    "size": "1370746487",
+                    "download": "522213792"
                 }
             }
         },
@@ -140,6 +145,11 @@
                     "size": "828749778",
                     "download": "186709856"
                 },
+                "1.0-releasebuild": {
+                    "gid": "2553955375277100618",
+                    "size": "992529134",
+                    "download": "231716112"
+                },
                 "1.13": {
                     "gid": "3287206638975838103",
                     "size": "934344925",
@@ -160,8 +170,8 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "18516364",
-                "timeupdated": "1747651407"
+                "buildid": "19024070",
+                "timeupdated": "1751017232"
             },
             "1.10b": {
                 "buildid": "11252688",
@@ -172,6 +182,11 @@
                 "buildid": "12632155",
                 "description": "For modding compatibility",
                 "timeupdated": "1700544879"
+            },
+            "1.0-releasebuild": {
+                "buildid": "18516364",
+                "description": "For modding compatibility",
+                "timeupdated": "1751017180"
             },
             "1.13": {
                 "buildid": "14596040",
@@ -184,15 +199,15 @@
                 "timeupdated": "1740125808"
             },
             "experimental": {
-                "buildid": "18516364",
+                "buildid": "19024070",
                 "description": "For testing",
-                "timeupdated": "1747650556"
+                "timeupdated": "1751017062"
             }
         },
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 29060001,
-    "_sha": "79530b75ee730a4dbbc9e9f10d43c5a709175906",
-    "_size": 4120
+    "_change_number": 29783865,
+    "_sha": "818074e522ab057c1a6ae14b3ea5bd9d826717f6",
+    "_size": 4504
 }
