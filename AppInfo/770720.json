@@ -399,7 +399,7 @@
             },
             "44": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stagealpha +ui_input_debug_cursor_scopes 1 +ui_debug_layout_loading 1 +log_writetofileverbosity 3 +sys_customCrashHandlerAttribute playtest +ui_summary_screen_flow_debug 1 +ui_popup_checklist_debug 1 +ui_summary_screen_debug 1 +tlm_hunt_enable 1 +tlm_enable_perf gmpu -tlm_hunt_id PlaytestPC +g_perf_budget_gpu 1",
+                "arguments": "+online_account_client_settings stagealpha +ui_input_debug_cursor_scopes 1 +ui_debug_layout_loading 1 +log_writetofileverbosity 3 +sys_customCrashHandlerAttribute playtest +ui_summary_screen_flow_debug 1 +ui_popup_checklist_debug 1 +ui_summary_screen_debug 1 +tlm_hunt_enable 1 +tlm_enable_perf gmpu -tlm_hunt_id PlaytestPC +g_perf_budget_gpu 1 +r_DisplayInfoFontScale 1.25 +r_DisplayInfo 6",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -738,7 +738,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 29817836,
-    "_sha": "e0141bb6ad9f050ccb81532aa54cfd5a71407625",
-    "_size": 19786
+    "_change_number": 29818811,
+    "_sha": "908fa46693d87904906366069367792b0bea8a67",
+    "_size": 19832
 }
