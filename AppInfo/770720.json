@@ -643,6 +643,20 @@
                     "english": "amd_performance"
                 },
                 "description": "amd_performance"
+            },
+            "69": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings dailymain",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "eac_test"
+                },
+                "description_loc": {
+                    "english": "eac_test"
+                },
+                "description": "eac_test"
             }
         },
         "uselaunchcommandline": "1"
@@ -738,7 +752,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 29967447,
-    "_sha": "155fd7822b6a2bf49e0eeaa1ed2898dee21bbc22",
-    "_size": 19832
+    "_change_number": 29967487,
+    "_sha": "150d5d91266ab61f6238788b8884b6cb9b18e539",
+    "_size": 20150
 }
