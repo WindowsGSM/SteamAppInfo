@@ -36,9 +36,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "5786003204048175177",
-                    "size": "10353224478",
-                    "download": "2842788496"
+                    "gid": "6272211832925854082",
+                    "size": "10843682711",
+                    "download": "3104294304"
                 },
                 "legacy-v6.0.0": {
                     "gid": "4376981082077672751",
@@ -49,6 +49,11 @@
                     "gid": "6272211832925854082",
                     "size": "10843682711",
                     "download": "3104294304"
+                },
+                "previous": {
+                    "gid": "5786003204048175177",
+                    "size": "10353224478",
+                    "download": "2842788496"
                 }
             },
             "depotfromapp": "1280"
@@ -57,9 +62,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "5803402660365387711",
-                    "size": "2066093291",
-                    "download": "904388384"
+                    "gid": "8178915429139929326",
+                    "size": "2602417222",
+                    "download": "1114036096"
                 },
                 "legacy-v6.0.0": {
                     "gid": "3431600298929727963",
@@ -70,13 +75,18 @@
                     "gid": "8178915429139929326",
                     "size": "2602417222",
                     "download": "1114036096"
+                },
+                "previous": {
+                    "gid": "5803402660365387711",
+                    "size": "2066093291",
+                    "download": "904388384"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "16273989",
-                "timeupdated": "1730544898"
+                "buildid": "19183735",
+                "timeupdated": "1752217998"
             },
             "legacy-v6.0.0": {
                 "buildid": "1026294",
@@ -87,12 +97,17 @@
                 "buildid": "19183735",
                 "description": "Public branch for Italy playtest",
                 "timeupdated": "1752215661"
+            },
+            "previous": {
+                "buildid": "16273989",
+                "description": "Last good build",
+                "timeupdated": "1752217964"
             }
         },
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 30004729,
-    "_sha": "81e0cd632e16c3b3b478cfb0ddea98cd2b34f283",
-    "_size": 1916
+    "_change_number": 30005239,
+    "_sha": "e4b56bce7eb75262b8d3f1e68e90359ddf9147b8",
+    "_size": 2270
 }
