@@ -436,8 +436,8 @@
                 }
             },
             "52": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stage2 +sys_dump_type 3 +online_news_server_port 5011 +log_writetofileverbosity 4",
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings stage2 +sys_dump_type 3 +online_news_server_port 5011 +log_writetofileverbosity 4 +r_displayinfo 6",
                 "type": "default",
                 "config": {
                     "oslist": "windows",
@@ -752,7 +752,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 30104608,
-    "_sha": "150d5d91266ab61f6238788b8884b6cb9b18e539",
-    "_size": 20150
+    "_change_number": 30105146,
+    "_sha": "9bfb4bf5b59c13f0af9eacd57f7df119252dfd08",
+    "_size": 20149
 }
