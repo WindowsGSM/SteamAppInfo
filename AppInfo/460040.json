@@ -37,6 +37,19 @@
                 "config": {
                     "oslist": "linux"
                 }
+            },
+            "2": {
+                "executable": "srcds_win64.exe",
+                "arguments": "-game empires -steam -nobreakpad +r_hunkalloclightmaps 0",
+                "type": "server",
+                "config": {
+                    "oslist": "windows",
+                    "betakey": "2025_sdk_update"
+                },
+                "description_loc": {
+                    "english": "Launch 2025 SDK Server"
+                },
+                "description": "Launch 2025 SDK Server"
             }
         }
     },
@@ -189,7 +202,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 30139535,
-    "_sha": "0a1db3d42689755ed8123617c47135e72b922428",
-    "_size": 3703
+    "_change_number": 30139807,
+    "_sha": "e9da57526a512c948d89dd6bc879046ccdc2f5da",
+    "_size": 4056
 }
