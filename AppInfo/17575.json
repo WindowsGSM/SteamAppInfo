@@ -1,7 +1,7 @@
 {
     "appid": "17575",
     "common": {
-        "name": "Pirates, Vikings, and Knights II Dedicated Server",
+        "name": "Pirates Vikings & Knights II Dedicated Server",
         "type": "Tool",
         "freeondemand": "1",
         "oslist": "windows,linux",
@@ -55,6 +55,10 @@
                 "platform": "linux",
                 "tool": "SteamLinuxRuntime_sniper",
                 "branch": "open-beta"
+            },
+            "3": {
+                "platform": "linux",
+                "tool": "SteamLinuxRuntime_sniper"
             }
         }
     },
@@ -123,7 +127,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 30498376,
-    "_sha": "5153d88c6de86770e1955c9a3d7c1b67aabb7321",
-    "_size": 2528
+    "_change_number": 30498836,
+    "_sha": "ec2f89375ddafdbf757b9e209f1160725d4735b3",
+    "_size": 2604
 }
