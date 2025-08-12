@@ -203,7 +203,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 latest teamtest latest_lwp ist-testserver1 ist-testserver2 ist-testserver3 cero_ratings"
+                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 latest teamtest latest_lwp ist-testserver1 ist-testserver2 ist-testserver3"
                 },
                 "description_loc": {
                     "english": "STGDSN"
@@ -657,6 +657,20 @@
                     "english": "eac_test"
                 },
                 "description": "eac_test"
+            },
+            "70": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings yxz -online_server capi-stgdes-asia.huntshowdown.com -online_server_port 61088",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "cero_ratings"
+                },
+                "description_loc": {
+                    "english": "Cero_Age_Ratings"
+                },
+                "description": "Cero_Age_Ratings"
             }
         },
         "uselaunchcommandline": "1"
@@ -752,7 +766,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 30545262,
-    "_sha": "b65982f8b836a5147bd99067f8b6ab8426ab04bf",
-    "_size": 20192
+    "_change_number": 30545751,
+    "_sha": "e926b9dd6dbe92801957edbb78d20f29ddc3b308",
+    "_size": 20586
 }
