@@ -657,6 +657,20 @@
                     "english": "eac_test"
                 },
                 "description": "eac_test"
+            },
+            "70": {
+                "executable": "game.exe",
+                "arguments": "+online_account_client_settings stage",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "cero_ratings"
+                },
+                "description_loc": {
+                    "english": "Cero_Age_Ratings"
+                },
+                "description": "Cero_Age_Ratings"
             }
         },
         "uselaunchcommandline": "1"
@@ -752,7 +766,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 30542001,
-    "_sha": "765f37055959205d60aa18def3448c4f0ac011c3",
-    "_size": 20179
+    "_change_number": 30542451,
+    "_sha": "4b64d6e73c982833fa9d9fd6f77be6d47427e3da",
+    "_size": 20513
 }
