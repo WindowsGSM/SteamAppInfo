@@ -130,6 +130,11 @@
                     "gid": "2760047272057007564",
                     "size": "18442425360",
                     "download": "11377397120"
+                },
+                "previous_release": {
+                    "gid": "6214468939267645656",
+                    "size": "18404702668",
+                    "download": "11347782544"
                 }
             }
         },
@@ -182,12 +187,17 @@
                 "buildid": "19572487",
                 "description": "Experimental branch",
                 "timeupdated": "1755026754"
+            },
+            "previous_release": {
+                "buildid": "18799197",
+                "description": "For temp access to v1.12.3",
+                "timeupdated": "1755031762"
             }
         },
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 30554729,
-    "_sha": "fef8efb9c6a06ecf80987e7b40774308bfc0b57c",
-    "_size": 4081
+    "_change_number": 30555755,
+    "_sha": "ea8e6f68ffc45cf45c69acdfa3fd0eb2d71ace60",
+    "_size": 4346
 }
