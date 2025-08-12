@@ -203,7 +203,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 latest teamtest latest_lwp ist-testserver1 ist-testserver2 ist-testserver3"
+                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 latest teamtest latest_lwp ist-testserver1 ist-testserver2 ist-testserver3 cero_ratings"
                 },
                 "description_loc": {
                     "english": "STGDSN"
@@ -657,20 +657,6 @@
                     "english": "eac_test"
                 },
                 "description": "eac_test"
-            },
-            "70": {
-                "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings stage",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "cero_ratings"
-                },
-                "description_loc": {
-                    "english": "Cero_Age_Ratings"
-                },
-                "description": "Cero_Age_Ratings"
             }
         },
         "uselaunchcommandline": "1"
@@ -766,7 +752,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 30542713,
-    "_sha": "99261915e0ed14cd87bcca29103fc58e6e23d060",
-    "_size": 20513
+    "_change_number": 30545262,
+    "_sha": "b65982f8b836a5147bd99067f8b6ab8426ab04bf",
+    "_size": 20192
 }
