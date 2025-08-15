@@ -399,7 +399,7 @@
             },
             "44": {
                 "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings stagealpha +ui_input_debug_cursor_scopes 1 +ui_debug_layout_loading 1 +log_writetofileverbosity 3 +sys_customCrashHandlerAttribute playtest +ui_summary_screen_flow_debug 1 +ui_popup_checklist_debug 1 +ui_summary_screen_debug 1 +tlm_hunt_enable 1 +tlm_enable_perf gmpu -tlm_hunt_id PlaytestPC +g_perf_budget_gpu 1 +r_DisplayInfoFontScale 1.25 +r_DisplayInfo 6 +r_D3D12EnableDRED 1 +ui_dev_UseNewEULAScreen 1",
+                "arguments": "+online_account_client_settings stagealpha +ui_input_debug_cursor_scopes 1 +ui_debug_layout_loading 1 +log_writetofileverbosity 3 +sys_customCrashHandlerAttribute playtest +ui_summary_screen_flow_debug 1 +ui_popup_checklist_debug 1 +ui_summary_screen_debug 1 +tlm_hunt_enable 1 +tlm_enable_perf gmpu -tlm_hunt_id PlaytestPC +g_perf_budget_gpu 1 +r_DisplayInfoFontScale 1.25 +r_DisplayInfo 6 +r_D3D12EnableDRED 1",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -766,7 +766,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 30605696,
-    "_sha": "e926b9dd6dbe92801957edbb78d20f29ddc3b308",
-    "_size": 20586
+    "_change_number": 30606119,
+    "_sha": "eecf35cc42a1e8a144195fa9434ded1372b687e9",
+    "_size": 20559
 }
