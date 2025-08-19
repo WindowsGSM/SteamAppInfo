@@ -197,13 +197,13 @@
                 "description": "MPQA2"
             },
             "14": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
+                "executable": "hunt.exe",
                 "arguments": "+online_account_client_settings stage",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 latest teamtest latest_lwp ist-testserver1 ist-testserver2 ist-testserver3 cero_ratings"
+                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 latest teamtest latest_lwp ist-testserver1 ist-testserver2 ist-testserver3"
                 },
                 "description_loc": {
                     "english": "STGDSN"
@@ -657,6 +657,20 @@
                     "english": "eac_test"
                 },
                 "description": "eac_test"
+            },
+            "70": {
+                "executable": "bin\\win_x64\\HuntGame.exe",
+                "arguments": "+online_account_client_settings yxz -online_server capi-stgdes-eu.huntshowdown.com -online_server_port 61088",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "cero_ratings"
+                },
+                "description_loc": {
+                    "english": "cero_ratings"
+                },
+                "description": "cero_ratings"
             }
         },
         "uselaunchcommandline": "1"
@@ -752,7 +766,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 30667897,
-    "_sha": "f890820255e5e1f9fe8ca3acf16c0b921081e356",
-    "_size": 20183
+    "_change_number": 30668385,
+    "_sha": "cf2a2e9da66c2dc41827a0405fc153e564db8f6e",
+    "_size": 20567
 }
