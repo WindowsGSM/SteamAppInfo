@@ -658,18 +658,18 @@
                 },
                 "description": "eac_test"
             },
-            "70": {
+            "71": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings yxz -online_server capi-stgdes-eu.huntshowdown.com -online_server_port 61088",
+                "arguments": "+online_account_client_settings yxz -online_server capi1-pcstg-eu.huntshowdown.com -online_server_port 61087",
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
                     "betakey": "cero_ratings"
                 },
                 "description_loc": {
-                    "english": "cero_ratings"
+                    "english": "test"
                 },
-                "description": "cero_ratings"
+                "description": "test"
             }
         },
         "uselaunchcommandline": "1"
@@ -765,7 +765,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 30847930,
-    "_sha": "e44680cd6ec2ee4be643be91928ddb55ce878fca",
-    "_size": 20545
+    "_change_number": 30848970,
+    "_sha": "61bb178364b2b1145f15324d6f330d121a1809eb",
+    "_size": 20529
 }
