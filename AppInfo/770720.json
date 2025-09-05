@@ -658,19 +658,6 @@
                 },
                 "description": "eac_test"
             },
-            "71": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": " +online_account_client_settings yxz -online_server capi1-pcstg-eu.huntshowdown.com -online_server_port 61088",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "cero_ratings"
-                },
-                "description_loc": {
-                    "english": "test"
-                },
-                "description": "test"
-            },
             "72": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
                 "arguments": "+online_account_client_settings stagealpha +ui_input_debug_cursor_scopes 1 +ui_debug_layout_loading 1 +log_writetofileverbosity 3 +sys_customCrashHandlerAttribute playtest +ui_summary_screen_flow_debug 1 +ui_popup_checklist_debug 1 +ui_summary_screen_debug 1 +tlm_hunt_enable 1 +tlm_enable_perf gmpruv -tlm_hunt_id PlaytestPC +g_perf_budget_gpu 1 +r_DisplayInfoFontScale 1.25 +r_DisplayInfo 6 +r_D3D12EnableDRED 1  +r_TexturesStreamingMaxTrims 4 +r_TexturesStreamingMaxAllowedFailedAllocation 4",
@@ -684,6 +671,19 @@
                     "english": "perf_debug"
                 },
                 "description": "perf_debug"
+            },
+            "73": {
+                "executable": "bin\\win_x64\\HuntGame.exe",
+                "arguments": "+online_account_client_settings yxz -online_server capi-stgdes-eu.huntshowdown.com -online_server_port 61088",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "cero_ratings"
+                },
+                "description_loc": {
+                    "english": "test_test"
+                },
+                "description": "test_test"
             }
         },
         "uselaunchcommandline": "1"
@@ -779,7 +779,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 30956616,
-    "_sha": "9186b9ad1ca58ef503b28a140a8b496300853bcc",
-    "_size": 21345
+    "_change_number": 30956644,
+    "_sha": "09ac47c370eef5315a90603156153506af158192",
+    "_size": 21354
 }
