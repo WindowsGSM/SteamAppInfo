@@ -113,11 +113,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4310003625144874424",
-                    "size": "15296647314",
-                    "download": "11795506976"
+                    "gid": "1292423131736526157",
+                    "size": "15301529314",
+                    "download": "11964303376"
                 },
                 "latest_experimental": {
+                    "gid": "1292423131736526157",
+                    "size": "15301529314",
+                    "download": "11964303376"
+                },
+                "v2.3": {
                     "gid": "1292423131736526157",
                     "size": "15301529314",
                     "download": "11964303376"
@@ -216,11 +221,6 @@
                     "gid": "6555466999693160687",
                     "size": "1503218421",
                     "download": "101865792144"
-                },
-                "testing_profiling": {
-                    "gid": "833351683593058679",
-                    "size": "15104995736",
-                    "download": "11546302592"
                 }
             }
         },
@@ -230,11 +230,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2602637233892446208",
-                    "size": "15224615146",
-                    "download": "11716843744"
+                    "gid": "553429890660451139",
+                    "size": "15229886840",
+                    "download": "11886968688"
                 },
                 "latest_experimental": {
+                    "gid": "553429890660451139",
+                    "size": "15229886840",
+                    "download": "11886968688"
+                },
+                "v2.3": {
                     "gid": "553429890660451139",
                     "size": "15229886840",
                     "download": "11886968688"
@@ -328,23 +333,23 @@
                     "gid": "771574079178892216",
                     "size": "1683921450",
                     "download": "231425075915"
-                },
-                "testing_profiling": {
-                    "gid": "4515170568972576684",
-                    "size": "15032977945",
-                    "download": "11473371760"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "19449443",
-                "timeupdated": "1754586777"
+                "buildid": "19878685",
+                "timeupdated": "1757437399"
             },
             "latest_experimental": {
                 "buildid": "19878685",
                 "description": "Unstable build",
                 "timeupdated": "1757191742"
+            },
+            "v2.3": {
+                "buildid": "19878685",
+                "description": "Version 2.3 Stable",
+                "timeupdated": "1757437274"
             },
             "v2.2": {
                 "buildid": "19449443",
@@ -435,17 +440,12 @@
             "alpha8.8": {
                 "buildid": "334790",
                 "description": "Alpha 8.8 Stable"
-            },
-            "testing_profiling": {
-                "buildid": "19002068",
-                "description": "For profiling purposes only",
-                "timeupdated": "1751314047"
             }
         },
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 31008764,
-    "_sha": "2b3693da4aefac370953f7563a1b3b22a1156749",
-    "_size": 10230
+    "_change_number": 31021082,
+    "_sha": "e9388852ec2c70e5c31b148f2487d463c53a70ed",
+    "_size": 10181
 }
