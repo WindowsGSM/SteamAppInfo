@@ -436,7 +436,7 @@
                 }
             },
             "52": {
-                "executable": "hunt.exe",
+                "executable": "bin\\win_x64\\HuntGame.exe",
                 "arguments": "+online_account_client_settings stage2 +sys_dump_type 2 +online_news_server_port 5011 +log_writetofileverbosity 4 +r_displayinfo 6",
                 "type": "default",
                 "config": {
@@ -644,20 +644,6 @@
                 },
                 "description": "amd_performance"
             },
-            "69": {
-                "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings dailymain",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "eac_test"
-                },
-                "description_loc": {
-                    "english": "eac_test"
-                },
-                "description": "eac_test"
-            },
             "72": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
                 "arguments": "+online_account_client_settings stagealpha +ui_input_debug_cursor_scopes 1 +ui_debug_layout_loading 1 +log_writetofileverbosity 3 +sys_customCrashHandlerAttribute playtest +ui_summary_screen_flow_debug 1 +ui_popup_checklist_debug 1 +ui_summary_screen_debug 1 +tlm_hunt_enable 1 +tlm_enable_perf gmpruv -tlm_hunt_id PlaytestPC +g_perf_budget_gpu 1 +r_DisplayInfoFontScale 1.25 +r_DisplayInfo 6 +r_D3D12EnableDRED 1  +r_TexturesStreamingMaxTrims 4 +r_TexturesStreamingMaxAllowedFailedAllocation 4",
@@ -779,7 +765,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 31051863,
-    "_sha": "70adde2904efab6140ba7531c9e47a918f0e9b44",
-    "_size": 21374
+    "_change_number": 31052239,
+    "_sha": "eb3349bd584726ebef30e772f5205f75f9aaac16",
+    "_size": 21074
 }
