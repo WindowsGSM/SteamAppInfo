@@ -294,20 +294,6 @@
                 },
                 "description": "PCSTG2"
             },
-            "33": {
-                "executable": "bin\\win_x64_steam_release\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stage2",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "externalamd"
-                },
-                "description_loc": {
-                    "english": "dev_engine"
-                },
-                "description": "dev_engine"
-            },
             "34": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
                 "arguments": "+online_account_client_settings stgdes",
@@ -336,33 +322,6 @@
                 },
                 "description": "STGALPHA"
             },
-            "36": {
-                "executable": "bin\\win_x64_steam_release\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stage",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "dev_engine"
-                },
-                "description_loc": {
-                    "english": "PCSTAGE"
-                },
-                "description": "PCSTAGE"
-            },
-            "40": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "externalnvidia"
-                },
-                "description_loc": {
-                    "english": "externalnv"
-                },
-                "description": "externalnv"
-            },
             "41": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
                 "arguments": "+online_account_client_settings dailymain",
@@ -376,26 +335,6 @@
                     "english": "daily_main"
                 },
                 "description": "daily_main"
-            },
-            "42": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stagealpha",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "117_external"
-                }
-            },
-            "43": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stage",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "perf_testing"
-                }
             },
             "44": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
@@ -425,16 +364,6 @@
                 },
                 "description": "Branch of Age Rating Submission"
             },
-            "49": {
-                "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings bla -online_server cs1-stg-lw-eu.huntshowdown.com -online_server_port 61088",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "backend_2.0"
-                }
-            },
             "52": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
                 "arguments": "+online_account_client_settings stage2 +sys_dump_type 2 +online_news_server_port 5011 +log_writetofileverbosity 4 +r_displayinfo 6",
@@ -448,75 +377,6 @@
                     "english": "Ext_test"
                 },
                 "description": "Ext_test"
-            },
-            "53": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "be_2.0"
-                },
-                "description_loc": {
-                    "english": "be_2.0"
-                },
-                "description": "be_2.0"
-            },
-            "55": {
-                "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings stage_cloud",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "cloud_test"
-                },
-                "description_loc": {
-                    "english": "main_test"
-                },
-                "description": "main_test"
-            },
-            "56": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stage",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "external_tech_test"
-                },
-                "description_loc": {
-                    "english": "external_tech_test"
-                },
-                "description": "external_tech_test"
-            },
-            "57": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stage",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "adhoctest"
-                },
-                "description_loc": {
-                    "english": "dlsscheck"
-                },
-                "description": "dlsscheck"
-            },
-            "59": {
-                "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings stagealpha",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "eac_pgo_use"
-                },
-                "description_loc": {
-                    "english": "eac_pgo_use"
-                },
-                "description": "eac_pgo_use"
             },
             "60": {
                 "executable": "hunt.exe",
@@ -560,20 +420,6 @@
                 },
                 "description": "Tenc_QA"
             },
-            "63": {
-                "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings dailymain",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "windows_test"
-                },
-                "description_loc": {
-                    "english": "windows_test"
-                },
-                "description": "windows_test"
-            },
             "64": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
                 "arguments": "+online_account_client_settings stage_external",
@@ -587,62 +433,6 @@
                     "english": "main"
                 },
                 "description": "main"
-            },
-            "65": {
-                "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings bla -online_server frwp5hntdemosrv -online_server_port 11000",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "player_test"
-                },
-                "description_loc": {
-                    "english": "player_test"
-                },
-                "description": "player_test"
-            },
-            "66": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings blah -online_server capi-cnstg-useast.huntshowdown.com -online_server_port 61088",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "content_integration"
-                },
-                "description_loc": {
-                    "english": "content_integration"
-                },
-                "description": "content_integration"
-            },
-            "67": {
-                "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings blah -online_server capi-stage-alpha-asia.huntshowdown.com -online_server_port 61092",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "tc_asia_test"
-                },
-                "description_loc": {
-                    "english": "tc_asia_test"
-                },
-                "description": "tc_asia_test"
-            },
-            "68": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings xyz -online_server capi-cnbeta-useast.huntshowdown.com -online_server_port 61090",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "amd_performance"
-                },
-                "description_loc": {
-                    "english": "amd_performance"
-                },
-                "description": "amd_performance"
             },
             "72": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
@@ -765,7 +555,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 31052795,
-    "_sha": "eb3349bd584726ebef30e772f5205f75f9aaac16",
-    "_size": 21074
+    "_change_number": 31053162,
+    "_sha": "56219a2dfc45ca6820660917b8053150107cc221",
+    "_size": 15699
 }
