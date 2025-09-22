@@ -9,6 +9,9 @@
         "icon": "db61c9e7b9b7703d1633c8d074704b0dfc0a5d3f",
         "releasestate": "released",
         "freetodownload": "1",
+        "oslist": "windows,linux",
+        "osarch": "",
+        "osextended": "",
         "gameid": "2093570"
     },
     "config": {
@@ -65,6 +68,9 @@
             "depotfromapp": "1007"
         },
         "2093571": {
+            "config": {
+                "oslist": "windows"
+            },
             "manifests": {
                 "public": {
                     "gid": "2257825283298808081",
@@ -73,16 +79,28 @@
                 }
             }
         },
+        "2093572": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1324716078321238635",
+                    "size": "301478824",
+                    "download": "111125056"
+                }
+            }
+        },
         "branches": {
             "public": {
-                "buildid": "20076276",
-                "timeupdated": "1758545160"
+                "buildid": "20079198",
+                "timeupdated": "1758557924"
             }
         },
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 31241761,
-    "_sha": "cf8b77d0405d19c8a3c776de8e4a6c29b1888955",
-    "_size": 1568
+    "_change_number": 31245777,
+    "_sha": "8843006a134975868fd7d8ceb536689a200503ac",
+    "_size": 1878
 }
