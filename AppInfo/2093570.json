@@ -19,6 +19,7 @@
         "launch": {
             "0": {
                 "executable": "LightphobeGameServer.exe",
+                "arguments": "-log",
                 "type": "default",
                 "config": {
                     "oslist": "windows",
@@ -27,6 +28,7 @@
             },
             "1": {
                 "executable": "LightphobeGameServer.sh",
+                "arguments": "-log",
                 "type": "default",
                 "config": {
                     "oslist": "linux",
@@ -108,7 +110,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 31246125,
-    "_sha": "556035c64edd99397f2db36fb699e561593b6320",
-    "_size": 2029
+    "_change_number": 31249534,
+    "_sha": "dd1908b7c7bbe3bda8ca32856e9c0ebc5ce99771",
+    "_size": 2077
 }
