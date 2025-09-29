@@ -66,6 +66,11 @@
                     "gid": "7605192079890583418",
                     "size": "2467673696",
                     "download": "1258033008"
+                },
+                "linux_testing": {
+                    "gid": "177717015717515694",
+                    "size": "2355590836",
+                    "download": "1218507824"
                 }
             }
         },
@@ -73,24 +78,41 @@
             "config": {
                 "oslist": "linux"
             },
-            "manifests": {}
+            "manifests": {
+                "linux_testing": {
+                    "gid": "2056199801296794241",
+                    "size": "65518035",
+                    "download": "21494560"
+                }
+            }
         },
         "1875503": {
             "config": {
                 "oslist": "windows"
             },
-            "manifests": {}
+            "manifests": {
+                "linux_testing": {
+                    "gid": "2194679454549368791",
+                    "size": "95053976",
+                    "download": "39689152"
+                }
+            }
         },
         "branches": {
             "public": {
                 "buildid": "19706245",
                 "timeupdated": "1755918727"
+            },
+            "linux_testing": {
+                "buildid": "20178130",
+                "description": " Linux testing branch",
+                "timeupdated": "1759174368"
             }
         },
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 31379442,
-    "_sha": "0c7807f9c280e5f6abafc221bce046199272ad59",
-    "_size": 1784
+    "_change_number": 31379626,
+    "_sha": "c894964bad5c6484e241a4185cd845135d40644b",
+    "_size": 2271
 }
