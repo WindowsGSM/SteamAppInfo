@@ -27,6 +27,14 @@
                 "config": {
                     "oslist": "windows"
                 }
+            },
+            "1": {
+                "executable": "srcds_run",
+                "arguments": "-game treason",
+                "type": "default",
+                "config": {
+                    "oslist": "linux"
+                }
             }
         }
     },
@@ -67,6 +75,11 @@
             },
             "manifests": {}
         },
+        "1875503": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
         "branches": {
             "public": {
                 "buildid": "19706245",
@@ -76,7 +89,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 31378539,
-    "_sha": "a6be601d1b885628d10cff4c09f634ed7a5b8843",
-    "_size": 1543
+    "_change_number": 31379183,
+    "_sha": "904b5cf5d73ffa4f7437dcd58d696ea94be87979",
+    "_size": 1759
 }
