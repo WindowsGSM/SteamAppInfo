@@ -388,7 +388,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "lionbridge_qa eac_check"
+                    "betakey": "lionbridge_qa"
                 },
                 "description_loc": {
                     "english": "Ext_test"
@@ -477,6 +477,20 @@
                     "english": "Internally testing"
                 },
                 "description": "Internally testing"
+            },
+            "74": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings stage_external +sys_dump_type 2 +online_news_server_port 5011 +log_writetofileverbosity 4 +r_displayinfo 6 +cl_perfStatVerbosity 1 +cl_perfStatCam 1",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "eac_check"
+                },
+                "description_loc": {
+                    "english": "eac_check"
+                },
+                "description": "eac_check"
             }
         },
         "uselaunchcommandline": "1"
@@ -572,7 +586,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 31413976,
-    "_sha": "59ada52ce2e928c49cf2e3ba4852e9ab690dc69d",
-    "_size": 16576
+    "_change_number": 31414246,
+    "_sha": "f0a4a4e811787f2011f5a470d5d94abf8d706d94",
+    "_size": 17026
 }
