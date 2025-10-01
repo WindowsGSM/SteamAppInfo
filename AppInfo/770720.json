@@ -491,6 +491,20 @@
                     "english": "eac_check"
                 },
                 "description": "eac_check"
+            },
+            "75": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings stgdes",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "cursor_check"
+                },
+                "description_loc": {
+                    "english": "cursor_check"
+                },
+                "description": "cursor_check"
             }
         },
         "uselaunchcommandline": "1"
@@ -586,7 +600,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 31418293,
-    "_sha": "da0c5ba41071eeac438f2237b4e6e8b6aba18ed2",
-    "_size": 16992
+    "_change_number": 31418575,
+    "_sha": "e1c614f725b01927edb24f094ffd3f532ada3339",
+    "_size": 17319
 }
