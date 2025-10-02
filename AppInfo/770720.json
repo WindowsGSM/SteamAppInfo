@@ -382,7 +382,7 @@
                 "description": "Branch of Age Rating Submission"
             },
             "52": {
-                "executable": "hunt.exe",
+                "executable": "bin\\win_x64\\HuntGame.exe",
                 "arguments": "+online_account_client_settings stage2 +sys_dump_type 2 +online_news_server_port 5011 +log_writetofileverbosity 4 +r_displayinfo 6 +cl_perfStatVerbosity 1 +cl_perfStatCam 1",
                 "type": "default",
                 "config": {
@@ -600,7 +600,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 31440705,
-    "_sha": "6fab2d8eb4e3a69b6b242295e553cc7e13f8fb03",
-    "_size": 17356
+    "_change_number": 31441318,
+    "_sha": "2a4212a8fa2ffe020ea680d652128f15100c7a02",
+    "_size": 17374
 }
