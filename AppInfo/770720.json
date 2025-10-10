@@ -466,7 +466,7 @@
                 "description": "perf_debug"
             },
             "73": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
+                "executable": "hunt.exe",
                 "arguments": "+online_account_client_settings yxz -online_server capi1-pcstg-eu.huntshowdown.com -online_server_port 61088",
                 "config": {
                     "oslist": "windows",
@@ -480,7 +480,7 @@
             },
             "74": {
                 "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings stage2 +sys_dump_type 2 +online_news_server_port 5011 +log_writetofileverbosity 4 +r_displayinfo 6 +cl_perfStatVerbosity 1 +cl_perfStatCam 1",
+                "arguments": "+online_account_client_settings capi-cnstg-useast.huntshowdown.com:61093",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -614,7 +614,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 31588717,
-    "_sha": "379759fafa85547b929e329eab5b6d19f3412ba9",
-    "_size": 17804
+    "_change_number": 31589484,
+    "_sha": "ad3d0bdc77360d1a7ef6943f6e3ba4a034793cae",
+    "_size": 17686
 }
