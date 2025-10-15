@@ -26,7 +26,11 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64"
-                }
+                },
+                "description_loc": {
+                    "english": "net7.0 (LW v0.91.3)"
+                },
+                "description": "net7.0 (LW v0.91.3)"
             },
             "1": {
                 "executable": "net7.0/Server",
@@ -34,14 +38,55 @@
                 "config": {
                     "oslist": "linux",
                     "osarch": "64"
-                }
+                },
+                "description_loc": {
+                    "english": "net7.0 (LW v0.91.3)"
+                },
+                "description": "net7.0 (LW v0.91.3)"
             },
             "2": {
                 "executable": "net7.0/Server",
                 "type": "default",
                 "config": {
                     "oslist": "macos"
-                }
+                },
+                "description_loc": {
+                    "english": "net7.0 (LW v0.91.3)"
+                },
+                "description": "net7.0 (LW v0.91.3)"
+            },
+            "3": {
+                "executable": "net9.0/Server.exe",
+                "type": "default",
+                "config": {
+                    "oslist": "windows"
+                },
+                "description_loc": {
+                    "english": "net9.0 (LW v0.92+)"
+                },
+                "description": "net9.0 (LW v0.92+)"
+            },
+            "4": {
+                "executable": "net9.0/Server",
+                "type": "default",
+                "config": {
+                    "oslist": "linux"
+                },
+                "description_loc": {
+                    "english": "net9.0 (LW v0.92+)"
+                },
+                "description": "net9.0 (LW v0.92+)"
+            },
+            "5": {
+                "executable": "net9.0/Server",
+                "type": "default",
+                "config": {
+                    "oslist": "macos"
+                },
+                "description_loc": {
+                    "english": "net9.0 (LW v0.92+)"
+                },
+                "description": "net9.0 (LW v0.92+)"
             }
         }
     },
@@ -302,7 +347,7 @@
         "ignoreexternalfiles": "1"
     },
     "_missing_token": false,
-    "_change_number": 31561313,
-    "_sha": "591c4cc6f75a87b50148a7e1c8885216235b704b",
-    "_size": 6951
+    "_change_number": 31675456,
+    "_sha": "1a773067c4ca7a414086e10cd840e8144a654033",
+    "_size": 7992
 }
