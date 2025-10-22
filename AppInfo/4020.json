@@ -80,6 +80,11 @@
                     "size": "6617357521",
                     "download": "3430452448"
                 },
+                "network_test": {
+                    "gid": "4558508629819468158",
+                    "size": "6617356946",
+                    "download": "3430452736"
+                },
                 "prerelease": {
                     "gid": "2107953891666621145",
                     "size": "6597426983",
@@ -107,6 +112,11 @@
                     "gid": "2348069750234378020",
                     "size": "60648416",
                     "download": "24336928"
+                },
+                "network_test": {
+                    "gid": "841481244394411126",
+                    "size": "60345840",
+                    "download": "24118240"
                 },
                 "prerelease": {
                     "gid": "5336478210658998759",
@@ -136,6 +146,11 @@
                     "size": "123632130",
                     "download": "37530256"
                 },
+                "network_test": {
+                    "gid": "6229785092856707883",
+                    "size": "123654294",
+                    "download": "37908176"
+                },
                 "prerelease": {
                     "gid": "7337158995001277286",
                     "size": "119508884",
@@ -159,6 +174,11 @@
                 "description": "Development Branch",
                 "timeupdated": "1761073016"
             },
+            "network_test": {
+                "buildid": "20497876",
+                "description": "Testing of network compatibility breaking changes",
+                "timeupdated": "1761143247"
+            },
             "prerelease": {
                 "buildid": "19330088",
                 "description": "Pre-Release Branch",
@@ -172,7 +192,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 31838101,
-    "_sha": "3011558e984a54185532a6746cb769304e628fc3",
-    "_size": 3465
+    "_change_number": 31839207,
+    "_sha": "92fd4303675da0875711453c073b903b0cec4f38",
+    "_size": 3977
 }
