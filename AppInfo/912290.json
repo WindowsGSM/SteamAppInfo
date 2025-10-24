@@ -73,13 +73,15 @@
         "installdir": "Miscreated Experimental Server",
         "launch": {
             "0": {
-                "executable": "Miscreated.exe",
-                "description": "Launch",
-                "type": "none",
+                "executable": "Bin64/Miscreated.exe",
                 "config": {
                     "oslist": "windows",
                     "osarch": "64"
-                }
+                },
+                "description_loc": {
+                    "english": "Launch"
+                },
+                "description": "Launch"
             }
         }
     },
@@ -160,7 +162,7 @@
         "ignoreexternalfiles": "1"
     },
     "_missing_token": false,
-    "_change_number": 31888875,
-    "_sha": "c0183bbb316a2d7408a59a04d57c02ecce72abfd",
-    "_size": 3332
+    "_change_number": 31889157,
+    "_sha": "a35d562273b3a5a4193f1a00f7ec3987258350c5",
+    "_size": 3378
 }
