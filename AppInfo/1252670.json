@@ -20,73 +20,26 @@
     "config": {
         "installdir": "Logic World Dedicated Server",
         "launch": {
-            "0": {
-                "executable": "net7.0/Server.exe",
-                "type": "default",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64"
-                },
-                "description_loc": {
-                    "english": "net7.0 (LW v0.91.3)"
-                },
-                "description": "net7.0 (LW v0.91.3)"
-            },
-            "1": {
-                "executable": "net7.0/Server",
-                "type": "default",
-                "config": {
-                    "oslist": "linux",
-                    "osarch": "64"
-                },
-                "description_loc": {
-                    "english": "net7.0 (LW v0.91.3)"
-                },
-                "description": "net7.0 (LW v0.91.3)"
-            },
-            "2": {
-                "executable": "net7.0/Server",
-                "type": "default",
-                "config": {
-                    "oslist": "macos"
-                },
-                "description_loc": {
-                    "english": "net7.0 (LW v0.91.3)"
-                },
-                "description": "net7.0 (LW v0.91.3)"
-            },
             "3": {
                 "executable": "net9.0/Server.exe",
                 "type": "default",
                 "config": {
                     "oslist": "windows"
-                },
-                "description_loc": {
-                    "english": "net9.0 (LW v0.92+)"
-                },
-                "description": "net9.0 (LW v0.92+)"
+                }
             },
             "4": {
                 "executable": "net9.0/Server",
                 "type": "default",
                 "config": {
                     "oslist": "linux"
-                },
-                "description_loc": {
-                    "english": "net9.0 (LW v0.92+)"
-                },
-                "description": "net9.0 (LW v0.92+)"
+                }
             },
             "5": {
                 "executable": "net9.0/Server",
                 "type": "default",
                 "config": {
                     "oslist": "macos"
-                },
-                "description_loc": {
-                    "english": "net9.0 (LW v0.92+)"
-                },
-                "description": "net9.0 (LW v0.92+)"
+                }
             }
         }
     },
@@ -367,7 +320,7 @@
         "ignoreexternalfiles": "1"
     },
     "_missing_token": false,
-    "_change_number": 31847535,
-    "_sha": "9cfb4af693251345339801bcf3ff2876aee11204",
-    "_size": 8521
+    "_change_number": 31891057,
+    "_sha": "d32dd0533ef15a0e5b3d5bdbf9fda5e238a9fd07",
+    "_size": 7440
 }
