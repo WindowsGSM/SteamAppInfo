@@ -51,6 +51,12 @@
                     "oslist": "linux"
                 }
             }
+        },
+        "app_mappings": {
+            "0": {
+                "platform": "linux",
+                "tool": "SteamLinuxRuntime_scout"
+            }
         }
     },
     "depots": {
@@ -145,7 +151,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 32343477,
-    "_sha": "e3111730c645cf11b6e85bb235f3e68ba9251989",
-    "_size": 3171
+    "_change_number": 32344604,
+    "_sha": "d537d66842464705698b35f72f4e152375cb7284",
+    "_size": 3275
 }
