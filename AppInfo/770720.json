@@ -157,6 +157,11 @@
             "category_46": "1",
             "category_62": "1"
         },
+        "supported_languages": {
+            "ukrainian": {
+                "supported": "true"
+            }
+        },
         "steam_release_date": "1522940400",
         "community_visible_stats": "1",
         "community_hub_visible": "1",
@@ -538,7 +543,7 @@
         "uselaunchcommandline": "1"
     },
     "depots": {
-        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,brazilian",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,brazilian,ukrainian",
         "228985": {
             "config": {
                 "oslist": "windows"
@@ -628,7 +633,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 32538172,
-    "_sha": "43572750071bce6af0951369d6b49b693828d28a",
-    "_size": 17868
+    "_change_number": 32539459,
+    "_sha": "43a1df46b96225fea8ac3be9c53882ef20975b42",
+    "_size": 17959
 }
