@@ -142,7 +142,8 @@
         },
         "869803": {
             "config": {
-                "oslist": "linux"
+                "oslist": "linux",
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -163,6 +164,12 @@
             }
         },
         "869804": {},
+        "869805": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
         "branches": {
             "public": {
                 "buildid": "20756361",
@@ -182,7 +189,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 32675286,
-    "_sha": "51eb5cc883967391c89eefa666d569c38060c7cd",
-    "_size": 4097
+    "_change_number": 32740844,
+    "_sha": "03468b0d981ef598b2f4e8043cc200b72fc4a6e6",
+    "_size": 4200
 }
