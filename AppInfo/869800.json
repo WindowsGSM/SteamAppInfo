@@ -34,20 +34,35 @@
         "installdir": "Jabroni Brawl Episode 3 Dedicated Server",
         "launch": {
             "0": {
-                "executable": "bin\\win32\\jbep3.exe",
-                "arguments": "-dedicated -game jbep3 -steam",
-                "type": "server",
-                "config": {
-                    "oslist": "windows"
-                }
-            },
-            "1": {
                 "executable": "srcds_run.sh",
-                "arguments": "-game jbep3 -steam",
+                "arguments": "-dedicated -game jbep3 -steam",
                 "type": "server",
                 "config": {
                     "oslist": "linux"
                 }
+            },
+            "1": {
+                "executable": "bin\\win64\\jbep3.exe",
+                "arguments": "-game jbep3 -steam",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64"
+                },
+                "description_loc": {
+                    "english": "Launch Game Server (64-bit)"
+                },
+                "description": "Launch Game Server (64-bit)"
+            },
+            "2": {
+                "executable": "bin\\win32\\jbep3.exe",
+                "arguments": "-game jbep3 -steam",
+                "config": {
+                    "oslist": "windows"
+                },
+                "description_loc": {
+                    "english": "Launch Game Server"
+                },
+                "description": "Launch Game Server"
             }
         },
         "uselaunchcommandline": "1"
@@ -200,7 +215,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 32744553,
-    "_sha": "dcd1797660f782714759369cfef61240dd7d807a",
-    "_size": 4435
+    "_change_number": 32744748,
+    "_sha": "fc50687ae967595297ae6691f179343b7074fc61",
+    "_size": 4821
 }
