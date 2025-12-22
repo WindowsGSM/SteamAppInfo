@@ -177,17 +177,17 @@
                     "size": "35505017",
                     "download": "23848928"
                 },
-                "unity": {
-                    "gid": "1106061157941522167",
-                    "size": "5",
-                    "download": "64"
-                },
                 "unity_old": {
                     "gid": "21240271230280590",
                     "size": "6",
                     "download": "64"
                 },
                 "unity_previous": {
+                    "gid": "1106061157941522167",
+                    "size": "5",
+                    "download": "64"
+                },
+                "unity_previous2": {
                     "gid": "1106061157941522167",
                     "size": "5",
                     "download": "64"
@@ -204,11 +204,6 @@
                     "size": "2588428983",
                     "download": "725458272"
                 },
-                "unity": {
-                    "gid": "6023123360257611820",
-                    "size": "2587856190",
-                    "download": "725307024"
-                },
                 "unity_old": {
                     "gid": "1544497695891714846",
                     "size": "2716743865",
@@ -218,6 +213,11 @@
                     "gid": "6031864557696116801",
                     "size": "2622312972",
                     "download": "711410352"
+                },
+                "unity_previous2": {
+                    "gid": "6023123360257611820",
+                    "size": "2587856190",
+                    "download": "725307024"
                 }
             }
         },
@@ -231,11 +231,6 @@
                     "size": "2589720317",
                     "download": "727487344"
                 },
-                "unity": {
-                    "gid": "6158104242876312103",
-                    "size": "2589420879",
-                    "download": "727324432"
-                },
                 "unity_old": {
                     "gid": "3345873021965477175",
                     "size": "2711256237",
@@ -245,6 +240,11 @@
                     "gid": "7766798145897239713",
                     "size": "2632368310",
                     "download": "713713040"
+                },
+                "unity_previous2": {
+                    "gid": "6158104242876312103",
+                    "size": "2589420879",
+                    "download": "727324432"
                 }
             }
         },
@@ -258,11 +258,6 @@
                 "description": "Legacy Version",
                 "timeupdated": "1734539214"
             },
-            "unity": {
-                "buildid": "20684266",
-                "description": "New Version Preview",
-                "timeupdated": "1762371550"
-            },
             "unity_old": {
                 "buildid": "15655729",
                 "description": "Old 0.7.5.2",
@@ -272,11 +267,16 @@
                 "buildid": "18312316",
                 "description": "Old 0.8.5.2",
                 "timeupdated": "1746819465"
+            },
+            "unity_previous2": {
+                "buildid": "20684266",
+                "description": "Old 0.9",
+                "timeupdated": "1766429915"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 32933321,
-    "_sha": "2e27725868e743bbed22b9dfc144bd3ecb010b24",
-    "_size": 6162
+    "_change_number": 32933982,
+    "_sha": "969cd17cadcd7c002a03476fb3b3babc1915ceaf",
+    "_size": 6190
 }
