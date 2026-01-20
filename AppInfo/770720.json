@@ -267,7 +267,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 ist-testserver1 ist-testserver2 ist-testserver3"
+                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 ist-testserver1 ist-testserver2 ist-testserver3 qa_capture"
                 },
                 "description_loc": {
                     "english": "MPQA4 (No EAC)"
@@ -281,7 +281,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 ist-testserver1 ist-testserver2 ist-testserver3"
+                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 ist-testserver1 ist-testserver2 ist-testserver3 qa_capture"
                 },
                 "description_loc": {
                     "english": "MPQA5"
@@ -387,7 +387,7 @@
                 "description": "Branch of Age Rating Submission"
             },
             "52": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
+                "executable": "hunt.exe",
                 "arguments": "+online_account_client_settings stage2 +sys_dump_type 2 +online_news_server_port 5011 +log_writetofileverbosity 4 +r_displayinfo 6 +cl_perfStatVerbosity 1 +cl_perfStatCam 1",
                 "type": "default",
                 "config": {
@@ -633,7 +633,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 33334432,
-    "_sha": "411853777959ec203fac78b8a215a4db5999efaf",
-    "_size": 17923
+    "_change_number": 33334585,
+    "_sha": "46c7fc4379d1c3abf22746d40b3c6792cc594c72",
+    "_size": 17927
 }
