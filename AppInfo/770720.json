@@ -524,19 +524,6 @@
                     "english": "MPQA1 (No EAC)"
                 },
                 "description": "MPQA1 (No EAC)"
-            },
-            "77": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stgdes",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64"
-                },
-                "description_loc": {
-                    "english": "stage_design"
-                },
-                "description": "stage_design"
             }
         },
         "uselaunchcommandline": "1"
@@ -632,7 +619,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 33448274,
-    "_sha": "6c14b81c21a34c8470fdfb3c81063d8631df1890",
-    "_size": 17989
+    "_change_number": 33449666,
+    "_sha": "84e43baeca17783c53f96ed52208b9fcf987ff28",
+    "_size": 17675
 }
