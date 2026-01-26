@@ -183,7 +183,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 backend_test 1161_rc 1.16.2_qa ist-testserver1 ist-testserver2 ist-testserver3 stage_design"
+                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 backend_test 1161_rc 1.16.2_qa ist-testserver1 ist-testserver2 ist-testserver3"
                 },
                 "description_loc": {
                     "english": "PCSTG"
@@ -524,6 +524,19 @@
                     "english": "MPQA1 (No EAC)"
                 },
                 "description": "MPQA1 (No EAC)"
+            },
+            "77": {
+                "executable": "bin\\win_x64\\HuntGame.exe",
+                "arguments": "+online_account_client_settings yxz -online_server capi1-pcstg-eu.huntshowdown.com -online_server_port 61088",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "stage_design"
+                },
+                "description_loc": {
+                    "english": "internal_playtesting"
+                },
+                "description": "internal_playtesting"
             }
         },
         "uselaunchcommandline": "1"
@@ -619,7 +632,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 33449666,
-    "_sha": "84e43baeca17783c53f96ed52208b9fcf987ff28",
-    "_size": 17675
+    "_change_number": 33449811,
+    "_sha": "895a8e317577580ba5f8b7f4dc3d5e22f79a7bd1",
+    "_size": 18071
 }
