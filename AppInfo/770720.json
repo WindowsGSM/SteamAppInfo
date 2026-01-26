@@ -177,13 +177,13 @@
         "installdir": "Hunt Showdown (Test Server)",
         "launch": {
             "0": {
-                "executable": "hunt.exe",
+                "executable": "bin\\win_x64\\HuntGame.exe",
                 "arguments": "+online_account_client_settings stage_external +sys_dump_type 2",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 backend_test 1161_rc 1.16.2_qa ist-testserver1 ist-testserver2 ist-testserver3"
+                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 backend_test 1161_rc 1.16.2_qa ist-testserver1 ist-testserver2 ist-testserver3 stage_design"
                 },
                 "description_loc": {
                     "english": "PCSTG"
@@ -531,8 +531,7 @@
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "stage_design"
+                    "osarch": "64"
                 },
                 "description_loc": {
                     "english": "stage_design"
@@ -633,7 +632,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 33447906,
-    "_sha": "07f17f406a887897be9a8bce7f3c1d0b789e3b2f",
+    "_change_number": 33448274,
+    "_sha": "6c14b81c21a34c8470fdfb3c81063d8631df1890",
     "_size": 17989
 }
