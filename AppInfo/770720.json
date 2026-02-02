@@ -537,6 +537,20 @@
                     "english": "internal_playtesting"
                 },
                 "description": "internal_playtesting"
+            },
+            "78": {
+                "executable": "game.exe",
+                "arguments": "+online_account_client_settings yxz online_server capi-cnstg-eu.huntshowdown.com:61088",
+                "type": "default",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "tool_check"
+                },
+                "description_loc": {
+                    "english": "Tool_Testing"
+                },
+                "description": "Tool_Testing"
             }
         },
         "uselaunchcommandline": "1"
@@ -632,7 +646,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 33588988,
-    "_sha": "70c1d069ce0202929540342a072a48ad7176eccc",
-    "_size": 18102
+    "_change_number": 33591593,
+    "_sha": "0af68b424926f81198be69f7a58732821993e27d",
+    "_size": 18475
 }
