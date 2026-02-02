@@ -219,13 +219,13 @@
                 "description": "MPQA2"
             },
             "14": {
-                "executable": "hunt.exe",
+                "executable": "bin\\win_x64\\HuntGame.exe",
                 "arguments": "+online_account_client_settings stgdes",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 latest teamtest latest_lwp ist-testserver1 ist-testserver2 ist-testserver3"
+                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 latest teamtest latest_lwp ist-testserver1 ist-testserver2 ist-testserver3 stage_design"
                 },
                 "description_loc": {
                     "english": "STGDSN"
@@ -632,7 +632,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 33587313,
-    "_sha": "f20ce718b0cd75f914abb9db31b35f871617f93c",
-    "_size": 18071
+    "_change_number": 33588988,
+    "_sha": "70c1d069ce0202929540342a072a48ad7176eccc",
+    "_size": 18102
 }
