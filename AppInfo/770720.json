@@ -526,7 +526,7 @@
             },
             "78": {
                 "executable": "game.exe",
-                "arguments": "+online_account_client_settings yxz online_server capi-cnstg-eu.huntshowdown.com:61088",
+                "arguments": "+online_account_client_settings yxz online_server capi-cnstg-eu.huntshowdown.com -online_server_port 61088",
                 "type": "default",
                 "config": {
                     "oslist": "windows",
@@ -632,7 +632,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 33611377,
-    "_sha": "bd5b9dd4510cd2e727823067258d5e623eddeab2",
-    "_size": 18141
+    "_change_number": 33612202,
+    "_sha": "a85cf5c5eef6b11ea71895e69a1bc688531bf4b4",
+    "_size": 18161
 }
