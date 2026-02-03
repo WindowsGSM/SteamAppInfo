@@ -517,7 +517,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "stage_design"
+                    "betakey": "Internal_Playtest_2"
                 },
                 "description_loc": {
                     "english": "internal_playtesting"
@@ -526,7 +526,7 @@
             },
             "78": {
                 "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings yxz online_server capi-cnstg-useast.huntshowdown.com -online_server_port 61093",
+                "arguments": "+online_account_client_settings yxz -online_server capi-cnstg-eu.huntshowdown.com -online_server_port 61093",
                 "type": "default",
                 "config": {
                     "oslist": "windows",
@@ -632,7 +632,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 33612899,
-    "_sha": "c2f3c674be2a3473d724b738d19a48b3ee484ed9",
-    "_size": 18165
+    "_change_number": 33613338,
+    "_sha": "edc085ddfbf6e1c5f878bbab707c4240120070a9",
+    "_size": 18169
 }
