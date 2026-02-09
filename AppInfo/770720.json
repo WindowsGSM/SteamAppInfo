@@ -483,20 +483,6 @@
                 },
                 "description": "eac_check"
             },
-            "75": {
-                "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings stgdes +log_writetofileverbosity 4",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "cursor_check"
-                },
-                "description_loc": {
-                    "english": "cursor_check"
-                },
-                "description": "cursor_check"
-            },
             "76": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
                 "arguments": "+online_account_client_settings monroe +sys_dump_type 3",
@@ -632,7 +618,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 33730080,
-    "_sha": "fd2272e2e6f52f525e6da0512f530f35229d44e9",
-    "_size": 18101
+    "_change_number": 33730838,
+    "_sha": "548d017e3f7896d74db995de5b78598106e126a9",
+    "_size": 17746
 }
