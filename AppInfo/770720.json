@@ -526,7 +526,7 @@
             },
             "79": {
                 "executable": "hunt.exe",
-                "arguments": "-online_account_client_settings local -online_server capi-cnbeta-eu.huntshowdown.com -online_server_port 61090 -crycloud_logs 1 -net_log 1",
+                "arguments": "+online_account_client_settings cnbeta",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -632,7 +632,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 33738297,
-    "_sha": "365f7f65484abb873a7c2d32d93de1377ad5e83e",
-    "_size": 18098
+    "_change_number": 33740332,
+    "_sha": "6c97defa59f153a26668aef23e289e8c613db91a",
+    "_size": 17998
 }
