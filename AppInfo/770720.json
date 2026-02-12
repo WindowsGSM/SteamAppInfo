@@ -169,6 +169,7 @@
         "content_descriptors_including_dlc": {
             "0": "5"
         },
+        "store_tags": {},
         "review_score": "5",
         "review_percentage": "50"
     },
@@ -350,7 +351,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "closed_beta_test 201_test tc_playtest navmesh current"
+                    "betakey": "closed_beta_test 201_test tc_playtest navmesh current internal_playtest"
                 },
                 "description_loc": {
                     "english": "alpha_pt"
@@ -502,7 +503,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "Internal_Playtest_2 internal_playtest"
+                    "betakey": "Internal_Playtest_2"
                 },
                 "description_loc": {
                     "english": "internal_playtesting"
@@ -631,7 +632,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 33805703,
-    "_sha": "a85ec2032ba1941bc1f2536defd82c4268e20276",
-    "_size": 17975
+    "_change_number": 33806939,
+    "_sha": "221222c6d22dd977ef263ef64392fb1585ce514c",
+    "_size": 17998
 }
