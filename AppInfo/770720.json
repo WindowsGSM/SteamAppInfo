@@ -499,7 +499,7 @@
             },
             "77": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings pcstage",
+                "arguments": "+online_account_client_settings pcstage +ui_debug_layout_loading 1 +log_writetofileverbosity 4 +sys_customCrashHandlerAttribute playtest +tlm_hunt_enable 1 +tlm_enable_perf gmpruv -tlm_hunt_id PlaytestPC +g_perf_budget_gpu 1 +r_D3D12EnableDRED 1 +cl_perfStatVerbosity 1 +cl_perfStatCam 1 +ui_popup_checklist_debug 1 +sys_dump_type 3 +r_EnableNvidiaAftermath 1",
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
@@ -632,7 +632,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 33806939,
-    "_sha": "221222c6d22dd977ef263ef64392fb1585ce514c",
-    "_size": 17998
+    "_change_number": 33807795,
+    "_sha": "cadbfc980c8c53e680192b42caab084fb302bcad",
+    "_size": 18318
 }
