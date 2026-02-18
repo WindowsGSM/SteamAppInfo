@@ -59,6 +59,7 @@
         }
     },
     "depots": {
+        "baselanguages": "",
         "1004": {
             "config": {
                 "oslist": "windows"
@@ -112,7 +113,6 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
-        "baselanguages": "",
         "882431": {
             "manifests": {
                 "public": {
@@ -121,9 +121,9 @@
                     "download": "8506838352"
                 },
                 "tester": {
-                    "gid": "7547631294484185716",
-                    "size": "11497636621",
-                    "download": "8500967696"
+                    "gid": "8819838783122207379",
+                    "size": "11497638669",
+                    "download": "8458212816"
                 }
             }
         },
@@ -138,9 +138,9 @@
                     "download": "104876160"
                 },
                 "tester": {
-                    "gid": "8869437610393861763",
+                    "gid": "5596117252138107928",
                     "size": "303251392",
-                    "download": "104896800"
+                    "download": "104908656"
                 }
             }
         },
@@ -161,21 +161,24 @@
                 }
             }
         },
+        "719892": {
+            "depotfromapp": "719890"
+        },
         "branches": {
             "public": {
                 "buildid": "21751734",
                 "timeupdated": "1770057810"
             },
             "tester": {
-                "buildid": "21989485",
+                "buildid": "21990195",
                 "description": "Tester branch",
-                "timeupdated": "1771440830"
+                "timeupdated": "1771444036"
             }
         },
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 33931871,
-    "_sha": "4136ec475e3151879d57f841659386a81af536bf",
-    "_size": 3788
+    "_change_number": 33932811,
+    "_sha": "5b535b1faabfe6d9fe3158bc9357ee96ff3fb7b0",
+    "_size": 3835
 }
