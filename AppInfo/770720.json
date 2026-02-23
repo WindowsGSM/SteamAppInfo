@@ -345,13 +345,13 @@
                 "description": "daily_main"
             },
             "44": {
-                "executable": "hunt.exe",
+                "executable": "bin\\win_x64\\HuntGame.exe",
                 "arguments": "+online_account_client_settings stagealpha +ui_debug_layout_loading 1 +log_writetofileverbosity 3 +sys_customCrashHandlerAttribute playtest +tlm_hunt_enable 1 +tlm_enable_perf gmpruv -tlm_hunt_id PlaytestPC +g_perf_budget_gpu 1 +r_D3D12EnableDRED 1 +cl_perfStatVerbosity 1 +cl_perfStatCam 1 +ui_popup_checklist_debug 1 +sys_dump_type 3 +r_EnableNvidiaAftermath 1",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "closed_beta_test 201_test tc_playtest navmesh current"
+                    "betakey": "closed_beta_test 201_test tc_playtest navmesh current internal_playtest"
                 },
                 "description_loc": {
                     "english": "alpha_pt"
@@ -503,7 +503,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "Internal_Playtest_2 internal_playtest"
+                    "betakey": "Internal_Playtest_2"
                 },
                 "description_loc": {
                     "english": "internal_playtesting"
@@ -632,7 +632,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 34016845,
-    "_sha": "05f2449270fe8c2e985d81bd919c440758507b11",
-    "_size": 18318
+    "_change_number": 34017267,
+    "_sha": "8bfac04ad8952a5f57ccef931057887b9a99d2ec",
+    "_size": 18336
 }
