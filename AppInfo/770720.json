@@ -337,7 +337,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom mkt_recording"
+                    "betakey": "qa_testroom"
                 },
                 "description_loc": {
                     "english": "daily_main"
@@ -537,6 +537,20 @@
                     "english": "multi_test"
                 },
                 "description": "multi_test"
+            },
+            "80": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings stgdes",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "mkt_recording"
+                },
+                "description_loc": {
+                    "english": "mkt_recording"
+                },
+                "description": "mkt_recording"
             }
         },
         "uselaunchcommandline": "1"
@@ -632,7 +646,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 34169558,
-    "_sha": "a1a36801954ecaea6cdf16df04be4df2ec1b5c23",
-    "_size": 18337
+    "_change_number": 34169952,
+    "_sha": "23a728ec3cb2043e705de542be44aeabdfddf935",
+    "_size": 18653
 }
