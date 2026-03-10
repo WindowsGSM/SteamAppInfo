@@ -167,25 +167,29 @@
         "branches": {
             "public": {
                 "buildid": "1094577",
-                "timeupdated": "1462782631"
+                "timeupdated": "1462782631",
+                "timebuildupdated": "1461656015"
             },
             "legacyosx": {
                 "buildid": "652468",
-                "description": "For Mac OS X 10.5 Leopard and 10.6 Snow Leopard"
+                "description": "For Mac OS X 10.5 Leopard and 10.6 Snow Leopard",
+                "timebuildupdated": "1433836271"
             },
             "publicbeta": {
                 "buildid": "1094577",
                 "description": "Public testing",
-                "timeupdated": "1461659349"
+                "timeupdated": "1461659349",
+                "timebuildupdated": "1461656015"
             },
             "safemode": {
-                "buildid": "652468"
+                "buildid": "652468",
+                "timebuildupdated": "1433836271"
             }
         },
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 27103756,
-    "_sha": "447401878fd8ff1d07d480c495994be80e4512a2",
-    "_size": 3617
+    "_change_number": 34351876,
+    "_sha": "8e3092e46d687b98c40b099b2887925ca23d71f3",
+    "_size": 3765
 }
