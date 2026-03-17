@@ -32,6 +32,13 @@
                     "oslist": "linux"
                 }
             }
+        },
+        "app_mappings": {
+            "0": {
+                "platform": "linux",
+                "tool": "SteamLinuxRuntime_sniper",
+                "branch": "github"
+            }
         }
     },
     "depots": {
@@ -117,7 +124,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 34470498,
-    "_sha": "5f8300a6c65b322e7cef24fde79a069d96914f31",
-    "_size": 2183
+    "_change_number": 34471224,
+    "_sha": "5551750701e361721bba71c07ae9bb5612ae309c",
+    "_size": 2311
 }
