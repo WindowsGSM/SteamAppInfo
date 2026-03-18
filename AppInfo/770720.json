@@ -537,20 +537,6 @@
                     "english": "multi_test"
                 },
                 "description": "multi_test"
-            },
-            "80": {
-                "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings stgdes",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "mkt_recording"
-                },
-                "description_loc": {
-                    "english": "mkt_recording"
-                },
-                "description": "mkt_recording"
             }
         },
         "uselaunchcommandline": "1"
@@ -647,7 +633,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 34497472,
-    "_sha": "395b37931f36713cdc5e3f190e54a2b3e80392a0",
-    "_size": 18702
+    "_change_number": 34498455,
+    "_sha": "ec04de3ff1eb4519b02ee328e388bc6b6b601168",
+    "_size": 18372
 }
