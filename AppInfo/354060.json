@@ -10,6 +10,9 @@
         "logo": "48c507e4c786f41b8c2d1cbef29ec5aa9703766d",
         "logo_small": "48c507e4c786f41b8c2d1cbef29ec5aa9703766d_thumb",
         "freetodownload": "1",
+        "oslist": "windows",
+        "osarch": "64",
+        "osextended": "",
         "associations": {},
         "gameid": "354060"
     },
@@ -24,6 +27,20 @@
         }
     },
     "depots": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
         "229006": {
             "config": {
                 "oslist": "windows"
@@ -61,7 +78,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 34614119,
-    "_sha": "e337a936c7d8fc3efe1b16d3844b84d406bdc6fe",
-    "_size": 1387
+    "_change_number": 34615207,
+    "_sha": "edb16470b4a4c3b552efe60cc05cdc2fe0c72b81",
+    "_size": 1679
 }
