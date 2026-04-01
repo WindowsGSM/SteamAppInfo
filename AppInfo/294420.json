@@ -113,11 +113,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "884967445019848441",
-                    "size": "16960147160",
-                    "download": "13645088448"
+                    "gid": "4973862835415237937",
+                    "size": "16970635048",
+                    "download": "13664077968"
                 },
                 "latest_experimental": {
+                    "gid": "4973862835415237937",
+                    "size": "16970635048",
+                    "download": "13664077968"
+                },
+                "v2.6": {
                     "gid": "4973862835415237937",
                     "size": "16970635048",
                     "download": "13664077968"
@@ -225,11 +230,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4052358094841845751",
-                    "size": "16906150876",
-                    "download": "13571311824"
+                    "gid": "5955696906242074551",
+                    "size": "16916605506",
+                    "download": "13589411760"
                 },
                 "latest_experimental": {
+                    "gid": "5955696906242074551",
+                    "size": "16916605506",
+                    "download": "13589411760"
+                },
+                "v2.6": {
                     "gid": "5955696906242074551",
                     "size": "16916605506",
                     "download": "13589411760"
@@ -328,14 +338,20 @@
         },
         "branches": {
             "public": {
-                "buildid": "21600865",
-                "timeupdated": "1769450968",
-                "timebuildupdated": "1769079836"
+                "buildid": "22422094",
+                "timeupdated": "1775062898",
+                "timebuildupdated": "1773951890"
             },
             "latest_experimental": {
                 "buildid": "22422094",
                 "description": "Unstable build",
                 "timeupdated": "1774056693",
+                "timebuildupdated": "1773951890"
+            },
+            "v2.6": {
+                "buildid": "22422094",
+                "description": "Version 2.6 Stable",
+                "timeupdated": "1775061885",
                 "timebuildupdated": "1773951890"
             },
             "v2.5": {
@@ -451,7 +467,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 34796663,
-    "_sha": "655358d4333d4ff506a10d0fc5b8b7e78c9b20f6",
-    "_size": 10611
+    "_change_number": 34797277,
+    "_sha": "c7fe39d3a6f46b0c0abe3d253a5fc196ccd8eeb2",
+    "_size": 10997
 }
