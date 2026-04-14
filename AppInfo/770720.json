@@ -169,6 +169,7 @@
         "content_descriptors_including_dlc": {
             "0": "5"
         },
+        "store_tags": {},
         "review_score": "5",
         "review_percentage": "48"
     },
@@ -550,6 +551,20 @@
                     "english": "mkt_recording"
                 },
                 "description": "mkt_recording"
+            },
+            "81": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings bla -online_server capi1-nightly-eu.huntshowdown.com -online_server_port 61094 +sys_dump_type 3 +cl_perfstatverbosity 4 +log_writetofileverbosity 4 +r_D3D12EnableDRED 1 +cl_perfStatVerbosity 1 +cl_perfStatCam 1",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "ist-internaltest1 ist-internaltest2"
+                },
+                "description_loc": {
+                    "english": "nightly_ist"
+                },
+                "description": "nightly_ist"
             }
         },
         "uselaunchcommandline": "1"
@@ -646,7 +661,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 35211181,
-    "_sha": "e157a0de202b7f95b47938ac5f8f9eb5675be477",
-    "_size": 18643
+    "_change_number": 35216881,
+    "_sha": "d63c35aebf95b716fe1021ec8ae66553f04ac5aa",
+    "_size": 19218
 }
