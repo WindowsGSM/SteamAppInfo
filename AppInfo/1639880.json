@@ -87,9 +87,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8681122966104195801",
-                    "size": "2386345286",
-                    "download": "1513109136"
+                    "gid": "8901459934877383235",
+                    "size": "1706629589",
+                    "download": "648646528"
                 },
                 "1.10b": {
                     "gid": "2303407881568629235",
@@ -100,6 +100,11 @@
                     "gid": "1144970778157545360",
                     "size": "884000338",
                     "download": "239296160"
+                },
+                "1.0-pets": {
+                    "gid": "8681122966104195801",
+                    "size": "2386345286",
+                    "download": "1513109136"
                 },
                 "1.0-releasebuild": {
                     "gid": "2364499812890317283",
@@ -130,9 +135,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5549737644382630922",
-                    "size": "1136909590",
-                    "download": "327439312"
+                    "gid": "3492963822267805757",
+                    "size": "1579956461",
+                    "download": "426574032"
                 },
                 "1.10b": {
                     "gid": "582378037886370378",
@@ -143,6 +148,11 @@
                     "gid": "876347941046873366",
                     "size": "828749778",
                     "download": "186709856"
+                },
+                "1.0-pets": {
+                    "gid": "5549737644382630922",
+                    "size": "1136909590",
+                    "download": "327439312"
                 },
                 "1.0-releasebuild": {
                     "gid": "2553955375277100618",
@@ -160,18 +170,18 @@
                     "download": "212414544"
                 },
                 "experimental": {
-                    "gid": "5549737644382630922",
-                    "size": "1136909590",
-                    "download": "327439312"
+                    "gid": "3492963822267805757",
+                    "size": "1579956461",
+                    "download": "426574032"
                 }
             }
         },
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "21855381",
-                "timeupdated": "1770670762",
-                "timebuildupdated": "1770670448"
+                "buildid": "22812548",
+                "timeupdated": "1776328560",
+                "timebuildupdated": "1776328092"
             },
             "1.10b": {
                 "buildid": "11252688",
@@ -184,6 +194,12 @@
                 "description": "For modding compatibility",
                 "timeupdated": "1700544879",
                 "timebuildupdated": "1699292553"
+            },
+            "1.0-pets": {
+                "buildid": "21855381",
+                "description": "archive",
+                "timeupdated": "1770670762",
+                "timebuildupdated": "1770670448"
             },
             "1.0-releasebuild": {
                 "buildid": "18516364",
@@ -204,16 +220,16 @@
                 "timebuildupdated": "1735904837"
             },
             "experimental": {
-                "buildid": "22810562",
+                "buildid": "22812548",
                 "description": "For testing",
-                "timeupdated": "1776317905",
-                "timebuildupdated": "1776317905"
+                "timeupdated": "1776328092",
+                "timebuildupdated": "1776328092"
             }
         },
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 35256895,
-    "_sha": "6b91d015e11ac5e723a6c442a996f2625001aecd",
-    "_size": 4751
+    "_change_number": 35259866,
+    "_sha": "83d750145dda41a34c9645c4c3d2306201d745b0",
+    "_size": 5131
 }
