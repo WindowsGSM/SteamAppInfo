@@ -374,7 +374,7 @@
             },
             "52": {
                 "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings stage2 +sys_dump_type 2 +online_news_server_port 5011 +log_writetofileverbosity 4 +r_displayinfo 6 +cl_perfStatVerbosity 1 +cl_perfStatCam 1",
+                "arguments": "+online_account_client_settings stage2 +sys_dump_type 2 +online_news_server_port 5011 +log_writetofileverbosity 4 +r_displayinfo 6 +cl_perfStatVerbosity 1 +cl_perfStatCam 1 +r_EnableNvidiaAftermath 1",
                 "type": "default",
                 "config": {
                     "oslist": "windows",
@@ -661,7 +661,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 35387430,
-    "_sha": "08b6d1f1320dabfd95813a001534b60009ff3468",
-    "_size": 19218
+    "_change_number": 35393287,
+    "_sha": "4059aa28caa12e17b86e91a966a03fbc29bdc935",
+    "_size": 19245
 }
