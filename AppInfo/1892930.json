@@ -4,7 +4,7 @@
         "name": "s&box server",
         "type": "Tool",
         "parent": "590830",
-        "oslist": "windows",
+        "oslist": "windows,linux",
         "osarch": "64",
         "osextended": "",
         "clienticon": "92ed656fb9df1985a9d5f235d03901cfb4732873",
@@ -18,13 +18,12 @@
         "gameid": "1892930"
     },
     "config": {
-        "installdir": "Dedicated Server",
+        "installdir": "sbox dedicated server",
         "launch": {
             "0": {
                 "executable": "sbox-server.exe",
                 "type": "default",
                 "config": {
-                    "oslist": "windows",
                     "osarch": "64"
                 }
             }
@@ -113,6 +112,12 @@
                 }
             }
         },
+        "1892933": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            }
+        },
         "branches": {
             "public": {
                 "buildid": "22917829",
@@ -129,7 +134,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 35465637,
-    "_sha": "4486b2983931f4f8776ea515ed7471bf156d6781",
-    "_size": 2561
+    "_change_number": 35465669,
+    "_sha": "3b02118d945e635b6fc98eb7d2b762f19f240e2b",
+    "_size": 2630
 }
