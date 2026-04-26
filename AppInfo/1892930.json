@@ -88,9 +88,9 @@
                     "download": "2482916192"
                 },
                 "staging": {
-                    "gid": "920950466870244300",
-                    "size": "2928086064",
-                    "download": "2483953344"
+                    "gid": "4680967810044693611",
+                    "size": "2928087059",
+                    "download": "2483953776"
                 }
             }
         },
@@ -106,9 +106,9 @@
                     "download": "78936592"
                 },
                 "staging": {
-                    "gid": "2233157936604963117",
+                    "gid": "1874393051337866735",
                     "size": "216684490",
-                    "download": "78938336"
+                    "download": "78938928"
                 }
             }
         },
@@ -116,6 +116,13 @@
             "config": {
                 "oslist": "linux",
                 "osarch": "64"
+            },
+            "manifests": {
+                "staging": {
+                    "gid": "5418963366141665879",
+                    "size": "768118904",
+                    "download": "224163120"
+                }
             }
         },
         "branches": {
@@ -125,16 +132,16 @@
                 "timebuildupdated": "1776927184"
             },
             "staging": {
-                "buildid": "22955362",
+                "buildid": "22961743",
                 "description": "Builds before live",
-                "timeupdated": "1777128526",
-                "timebuildupdated": "1777128526"
+                "timeupdated": "1777194878",
+                "timebuildupdated": "1777194878"
             }
         },
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 35465669,
-    "_sha": "3b02118d945e635b6fc98eb7d2b762f19f240e2b",
-    "_size": 2630
+    "_change_number": 35471742,
+    "_sha": "a38378a378d33ff4fd4d4400e5bb3b9f3ff2e986",
+    "_size": 2770
 }
