@@ -303,7 +303,7 @@
                 "description": "MPQA MAIN"
             },
             "30": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
+                "executable": "hunt.exe",
                 "arguments": "+online_account_client_settings stage2 +sys_dump_type 3 +online_news_server_port 5011",
                 "type": "option1",
                 "config": {
@@ -565,6 +565,20 @@
                     "english": "nightly_ist"
                 },
                 "description": "nightly_ist"
+            },
+            "82": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings stagealpha +sys_dump_type 2 +online_news_server_port 5011 +log_writetofileverbosity 4 +r_displayinfo 6 +cl_perfStatVerbosity 1 +cl_perfStatCam 1 +r_EnableNvidiaAftermath 1",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "lionbridge_qa"
+                },
+                "description_loc": {
+                    "english": "alpha_test"
+                },
+                "description": "alpha_test"
             }
         },
         "uselaunchcommandline": "1"
@@ -661,7 +675,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 35487209,
-    "_sha": "4059aa28caa12e17b86e91a966a03fbc29bdc935",
-    "_size": 19245
+    "_change_number": 35489376,
+    "_sha": "114a3e16d623da7cc3dd677e077cdc658f424630",
+    "_size": 19716
 }
