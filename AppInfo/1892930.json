@@ -83,14 +83,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5353659601550644443",
-                    "size": "2928090868",
-                    "download": "2483777376"
+                    "gid": "5189390719403265164",
+                    "size": "2926885520",
+                    "download": "2484044752"
                 },
                 "staging": {
-                    "gid": "3223644240697349167",
-                    "size": "2926885527",
-                    "download": "2484044768"
+                    "gid": "3984318048165451186",
+                    "size": "2926885528",
+                    "download": "2484045872"
                 }
             }
         },
@@ -101,14 +101,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1504732838380872693",
-                    "size": "216677060",
-                    "download": "78936768"
+                    "gid": "8052943784169361066",
+                    "size": "217431667",
+                    "download": "80953472"
                 },
                 "staging": {
-                    "gid": "7378805535105181003",
-                    "size": "217431667",
-                    "download": "80953392"
+                    "gid": "6164426333935810753",
+                    "size": "217431155",
+                    "download": "80953552"
                 }
             }
         },
@@ -118,30 +118,35 @@
                 "osarch": "64"
             },
             "manifests": {
-                "staging": {
-                    "gid": "7104599388937622085",
+                "public": {
+                    "gid": "1108057693332472114",
                     "size": "252601175",
-                    "download": "94260640"
+                    "download": "94260752"
+                },
+                "staging": {
+                    "gid": "4982198179388930814",
+                    "size": "252601175",
+                    "download": "94261120"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "22926397",
-                "timeupdated": "1777216447",
-                "timebuildupdated": "1776961460"
+                "buildid": "22990278",
+                "timeupdated": "1777371728",
+                "timebuildupdated": "1777369565"
             },
             "staging": {
-                "buildid": "22989020",
+                "buildid": "22991177",
                 "description": "Builds before live",
-                "timeupdated": "1777364551",
-                "timebuildupdated": "1777364551"
+                "timeupdated": "1777373202",
+                "timebuildupdated": "1777373202"
             }
         },
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 35512037,
-    "_sha": "cc43b24e4733cfb929bf97ad44f2416d64823c80",
-    "_size": 2776
+    "_change_number": 35515352,
+    "_sha": "cfe38347780b6683fa6a45c0a4ae35746d42bca2",
+    "_size": 2888
 }
