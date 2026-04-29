@@ -71,12 +71,12 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "7518958249439448857",
+                    "gid": "3116495009912566999",
                     "size": "6638827473",
                     "download": "3444370992"
                 },
                 "dev": {
-                    "gid": "6619527731394353626",
+                    "gid": "5127884415275354533",
                     "size": "6638827466",
                     "download": "3444370976"
                 },
@@ -86,14 +86,14 @@
                     "download": "3444731056"
                 },
                 "prerelease": {
-                    "gid": "7518958249439448857",
+                    "gid": "3116495009912566999",
                     "size": "6638827473",
                     "download": "3444370992"
                 },
                 "x86-64": {
-                    "gid": "3938214787382753217",
+                    "gid": "6487612525619206973",
                     "size": "6637511251",
-                    "download": "3444067712"
+                    "download": "3444067728"
                 }
             }
         },
@@ -104,14 +104,14 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "8035114923227701889",
-                    "size": "77926648",
-                    "download": "31528624"
+                    "gid": "7729720667948586992",
+                    "size": "77927160",
+                    "download": "31528464"
                 },
                 "dev": {
-                    "gid": "5202297210338158550",
-                    "size": "77926648",
-                    "download": "31528512"
+                    "gid": "4332834915175775932",
+                    "size": "77927160",
+                    "download": "31528432"
                 },
                 "network_test": {
                     "gid": "3177607210704862855",
@@ -119,14 +119,14 @@
                     "download": "31523056"
                 },
                 "prerelease": {
-                    "gid": "8035114923227701889",
-                    "size": "77926648",
-                    "download": "31528624"
+                    "gid": "7729720667948586992",
+                    "size": "77927160",
+                    "download": "31528464"
                 },
                 "x86-64": {
-                    "gid": "7619068788750846152",
-                    "size": "426817232",
-                    "download": "161945920"
+                    "gid": "3089080788561051372",
+                    "size": "426821328",
+                    "download": "161947024"
                 }
             }
         },
@@ -137,14 +137,14 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "7771025656847854373",
+                    "gid": "964862665337815542",
                     "size": "123263728",
-                    "download": "38072304"
+                    "download": "38072544"
                 },
                 "dev": {
-                    "gid": "5822956562604552144",
+                    "gid": "3688984450247903966",
                     "size": "125432221",
-                    "download": "38924064"
+                    "download": "38924720"
                 },
                 "network_test": {
                     "gid": "5686893750677583943",
@@ -152,29 +152,29 @@
                     "download": "38064768"
                 },
                 "prerelease": {
-                    "gid": "7771025656847854373",
+                    "gid": "964862665337815542",
                     "size": "123263728",
-                    "download": "38072304"
+                    "download": "38072544"
                 },
                 "x86-64": {
-                    "gid": "7651571570119018445",
-                    "size": "227696922",
-                    "download": "70684928"
+                    "gid": "3947681060662233694",
+                    "size": "227701018",
+                    "download": "70684016"
                 }
             }
         },
         "workshopdepot": "0",
         "branches": {
             "public": {
-                "buildid": "23000230",
-                "timeupdated": "1777474595",
-                "timebuildupdated": "1777410550"
+                "buildid": "23017233",
+                "timeupdated": "1777491507",
+                "timebuildupdated": "1777491180"
             },
             "dev": {
-                "buildid": "22995538",
-                "description": "Development Branch",
-                "timeupdated": "1777389782",
-                "timebuildupdated": "1777389782"
+                "buildid": "23016896",
+                "description": "Development branch - Live daily updates",
+                "timeupdated": "1777489650",
+                "timebuildupdated": "1777489650"
             },
             "network_test": {
                 "buildid": "22872282",
@@ -183,21 +183,21 @@
                 "timebuildupdated": "1776708669"
             },
             "prerelease": {
-                "buildid": "23000230",
-                "description": "Pre-Release Branch",
-                "timeupdated": "1777410550",
-                "timebuildupdated": "1777410550"
+                "buildid": "23017233",
+                "description": "Preview of the next Default Public Version",
+                "timeupdated": "1777491180",
+                "timebuildupdated": "1777491180"
             },
             "x86-64": {
-                "buildid": "23000394",
-                "description": "Testing 64-bit builds",
-                "timeupdated": "1777474216",
-                "timebuildupdated": "1777411405"
+                "buildid": "23017006",
+                "description": "64-bit binaries",
+                "timeupdated": "1777490134",
+                "timebuildupdated": "1777490134"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 35546751,
-    "_sha": "09792b811af11a10e795e4dd248b594578ccf212",
-    "_size": 4166
+    "_change_number": 35553034,
+    "_sha": "4bbe9f3351c03d1c1eb5f26966a69cadadaae0ec",
+    "_size": 4203
 }
