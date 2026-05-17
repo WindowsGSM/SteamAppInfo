@@ -35,6 +35,7 @@ jobs:
           python crontab.py
       
       - name: Push to built branch
+        if: github.event_name == 'schedule'
         uses: Automattic/action-commit-to-branch@master
         with:
           branch: 'main'
