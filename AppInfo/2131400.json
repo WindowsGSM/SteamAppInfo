@@ -67,9 +67,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2797993962155104910",
-                    "size": "17438291017",
-                    "download": "5946072720"
+                    "gid": "5308971936840898818",
+                    "size": "17446904265",
+                    "download": "5952759936"
                 },
                 "0.022h10": {
                     "gid": "2362915255748856066",
@@ -131,10 +131,15 @@
                     "size": "17438291017",
                     "download": "5946072720"
                 },
+                "0.024h2": {
+                    "gid": "5308971936840898818",
+                    "size": "17446904265",
+                    "download": "5952759936"
+                },
                 "experimental": {
-                    "gid": "7425862563594731131",
-                    "size": "18394918748",
-                    "download": "6160169536"
+                    "gid": "1346179511872396026",
+                    "size": "18826671248",
+                    "download": "6196638752"
                 }
             }
         },
@@ -144,9 +149,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3790543641096425525",
-                    "size": "15678544124",
-                    "download": "6117713296"
+                    "gid": "3570804184352104297",
+                    "size": "15678919335",
+                    "download": "6118015408"
                 },
                 "0.022h10": {
                     "gid": "9151233056833329132",
@@ -208,6 +213,11 @@
                     "size": "15678544124",
                     "download": "6117713296"
                 },
+                "0.024h2": {
+                    "gid": "3570804184352104297",
+                    "size": "15678919335",
+                    "download": "6118015408"
+                },
                 "experimental": {
                     "gid": "8376733567323579277",
                     "size": "16427553041",
@@ -217,9 +227,9 @@
         },
         "branches": {
             "public": {
-                "buildid": "23528473",
-                "timeupdated": "1780459197",
-                "timebuildupdated": "1780410944"
+                "buildid": "23817797",
+                "timeupdated": "1781928257",
+                "timebuildupdated": "1781856711"
             },
             "0.022h10": {
                 "buildid": "20877230",
@@ -293,17 +303,23 @@
                 "timeupdated": "1780459197",
                 "timebuildupdated": "1780410944"
             },
+            "0.024h2": {
+                "buildid": "23817797",
+                "description": "0.024h2 Rollback",
+                "timeupdated": "1781928257",
+                "timebuildupdated": "1781856711"
+            },
             "experimental": {
-                "buildid": "23821932",
+                "buildid": "23833372",
                 "description": "Bleeding-edge updates",
-                "timeupdated": "1781874542",
-                "timebuildupdated": "1781874542"
+                "timeupdated": "1781942608",
+                "timebuildupdated": "1781942608"
             }
         },
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 36701409,
-    "_sha": "3e27b03f4a5b27a7b351975635aa0ad916de3c65",
-    "_size": 7008
+    "_change_number": 36717672,
+    "_sha": "c7a50517563c7a94a9767289966c806558ce32b6",
+    "_size": 7398
 }
