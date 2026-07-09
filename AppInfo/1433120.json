@@ -13,12 +13,19 @@
         "steam_deck_compatibility": {
             "category": "1",
             "steamos_compatibility": "1",
+            "steam_machine_compatibility": "1",
             "test_timestamp": "1663286400",
             "tested_build_id": "8348742",
             "tests": {
                 "0": {
                     "display": "2",
                     "token": "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Retired"
+                }
+            },
+            "steam_machine_tests": {
+                "0": {
+                    "display": "2",
+                    "token": "#SteamMachine_TestResult_SteamOSDoesNotSupport_Retired"
                 }
             },
             "steamos_tests": {
@@ -230,7 +237,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 36631845,
-    "_sha": "d0d90f14c25a9c3b611f36a21759ac55b79eb0b1",
-    "_size": 4868
+    "_change_number": 37155792,
+    "_sha": "256c0e8153b0f6002891067f9ad4306701b68497",
+    "_size": 5052
 }

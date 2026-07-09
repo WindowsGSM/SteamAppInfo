@@ -33,6 +33,7 @@
         "steam_deck_compatibility": {
             "category": "2",
             "steamos_compatibility": "2",
+            "steam_machine_compatibility": "2",
             "test_timestamp": "1734134400",
             "tested_build_id": "11405781",
             "tests": {
@@ -55,6 +56,24 @@
                 "4": {
                     "display": "4",
                     "token": "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+                }
+            },
+            "steam_machine_tests": {
+                "0": {
+                    "display": "3",
+                    "token": "#SteamMachine_TestResult_DefaultControllerConfigNotFullyFunctional"
+                },
+                "1": {
+                    "display": "3",
+                    "token": "#SteamMachine_TestResult_ControllerGlyphsDoNotMatchDevice"
+                },
+                "2": {
+                    "display": "3",
+                    "token": "#SteamMachine_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+                },
+                "3": {
+                    "display": "4",
+                    "token": "#SteamMachine_TestResult_DefaultConfigurationIsPerformant"
                 }
             },
             "steamos_tests": {
@@ -677,7 +696,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 37147663,
-    "_sha": "76bb70074a09eae3e9e45dc5c3695865f3892ad1",
-    "_size": 19855
+    "_change_number": 37156354,
+    "_sha": "cf6459e4b5c7a7cc1e759693dac0eb4836d789d9",
+    "_size": 20405
 }

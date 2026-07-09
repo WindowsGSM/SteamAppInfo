@@ -22,6 +22,7 @@
         "steam_deck_compatibility": {
             "category": "2",
             "steamos_compatibility": "2",
+            "steam_machine_compatibility": "0",
             "test_timestamp": "1676332800",
             "tested_build_id": "3108500",
             "tests": {
@@ -62,6 +63,7 @@
                     "token": "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
                 }
             },
+            "steam_machine_tests": {},
             "steamos_tests": {
                 "0": {
                     "display": "3",
@@ -425,7 +427,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 36236288,
-    "_sha": "8b74dcab548f9602b598928e7701c43f4192baa5",
-    "_size": 9675
+    "_change_number": 37155792,
+    "_sha": "a880ba66ccda252a713fb9987aeb6f6e1230e706",
+    "_size": 9748
 }
