@@ -113,11 +113,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7411074501649498682",
-                    "size": "17630981663",
-                    "download": "14393061440"
+                    "gid": "96700354218410542",
+                    "size": "17619205784",
+                    "download": "14388132176"
                 },
                 "latest_experimental": {
+                    "gid": "96700354218410542",
+                    "size": "17619205784",
+                    "download": "14388132176"
+                },
+                "v3.0.1": {
                     "gid": "96700354218410542",
                     "size": "17619205784",
                     "download": "14388132176"
@@ -141,11 +146,6 @@
                     "gid": "1296141151294039802",
                     "size": "15389923372",
                     "download": "12077859952"
-                },
-                "v2.0": {
-                    "gid": "833351683593058679",
-                    "size": "15104995736",
-                    "download": "11546302592"
                 },
                 "v1.4": {
                     "gid": "6718131435641091070",
@@ -230,11 +230,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1317445544247847640",
-                    "size": "17557755177",
-                    "download": "14303641808"
+                    "gid": "6346271874669916200",
+                    "size": "17546210919",
+                    "download": "14297948432"
                 },
                 "latest_experimental": {
+                    "gid": "6346271874669916200",
+                    "size": "17546210919",
+                    "download": "14297948432"
+                },
+                "v3.0.1": {
                     "gid": "6346271874669916200",
                     "size": "17546210919",
                     "download": "14297948432"
@@ -258,11 +263,6 @@
                     "gid": "2400498987573585128",
                     "size": "15338231323",
                     "download": "12007406272"
-                },
-                "v2.0": {
-                    "gid": "4515170568972576684",
-                    "size": "15032977945",
-                    "download": "11473371760"
                 },
                 "v1.4": {
                     "gid": "4337473738794231947",
@@ -338,14 +338,20 @@
         },
         "branches": {
             "public": {
-                "buildid": "23906567",
-                "timeupdated": "1782752439",
-                "timebuildupdated": "1782366846"
+                "buildid": "24117900",
+                "timeupdated": "1783962348",
+                "timebuildupdated": "1783550884"
             },
             "latest_experimental": {
                 "buildid": "24117900",
                 "description": "Unstable build",
                 "timeupdated": "1783637713",
+                "timebuildupdated": "1783550884"
+            },
+            "v3.0.1": {
+                "buildid": "24117900",
+                "description": "Version 3.0.1 Stable",
+                "timeupdated": "1783961721",
                 "timebuildupdated": "1783550884"
             },
             "v3.0.0": {
@@ -371,12 +377,6 @@
                 "description": "Version 2.4 Stable",
                 "timeupdated": "1763615196",
                 "timebuildupdated": "1760370259"
-            },
-            "v2.0": {
-                "buildid": "19002068",
-                "description": "Version 2.0 Stable",
-                "timeupdated": "1751043889",
-                "timebuildupdated": "1750890356"
             },
             "v1.4": {
                 "buildid": "17990043",
@@ -467,7 +467,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 37223135,
-    "_sha": "c789af537c083f6d1024f9534772c1c67793db9f",
-    "_size": 11005
+    "_change_number": 37230860,
+    "_sha": "ba62dc0703d393f34dc1b3b883f9ea0bbccc3c21",
+    "_size": 11010
 }
