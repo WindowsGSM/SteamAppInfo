@@ -372,7 +372,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "closed_beta_test 201_test tc_playtest navmesh current internal_playtest external_pt qa_testroom_3"
+                    "betakey": "closed_beta_test 201_test tc_playtest navmesh current internal_playtest external_pt qa_testroom_3 ab_test"
                 },
                 "description_loc": {
                     "english": "alpha_pt"
@@ -566,7 +566,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "mkt_recording ab_test"
+                    "betakey": "mkt_recording"
                 },
                 "description_loc": {
                     "english": "mkt_recording"
@@ -600,6 +600,20 @@
                     "english": "alpha_test"
                 },
                 "description": "alpha_test"
+            },
+            "83": {
+                "executable": "bin\\win_x64\\HuntGame.exe",
+                "arguments": "+online_account_client_settings pcstage",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "ufl_check"
+                },
+                "description_loc": {
+                    "english": "ufl_check"
+                },
+                "description": "ufl_check"
             }
         },
         "uselaunchcommandline": "1"
@@ -696,7 +710,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 37411295,
-    "_sha": "a3623bacd0c0dd957520272d6ceee316f7767ec2",
-    "_size": 20351
+    "_change_number": 37414615,
+    "_sha": "3d77bcb11e38bc71766326ae6693d6809181d896",
+    "_size": 20688
 }
