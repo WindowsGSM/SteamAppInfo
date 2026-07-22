@@ -367,7 +367,7 @@
                 "description": "daily_main"
             },
             "44": {
-                "executable": "hunt.exe",
+                "executable": "bin\\win_x64\\HuntGame.exe",
                 "arguments": "+online_account_client_settings stagealpha +ui_debug_layout_loading 1 +log_writetofileverbosity 3 +sys_customCrashHandlerAttribute playtest +tlm_hunt_enable 1 +tlm_enable_perf gmpruv -tlm_hunt_id PlaytestPC +g_perf_budget_gpu 1 +r_D3D12EnableDRED 1 +cl_perfStatVerbosity 1 +cl_perfStatCam 1 +ui_popup_checklist_debug 1 +r_enableNvidiaAftermath 1",
                 "type": "option1",
                 "config": {
@@ -395,7 +395,7 @@
                 "description": "Branch of Age Rating Submission"
             },
             "52": {
-                "executable": "hunt.exe",
+                "executable": "bin\\win_x64\\HuntGame.exe",
                 "arguments": "+online_account_client_settings stage2 +sys_dump_type 2 +online_news_server_port 5011 +log_writetofileverbosity 4 +r_displayinfo 6 +cl_perfStatVerbosity 1 +cl_perfStatCam 1 +r_EnableNvidiaAftermath 1 +r_D3D12EnableDRED 1",
                 "type": "default",
                 "config": {
@@ -711,7 +711,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 37440745,
-    "_sha": "e48cd52371775cb9e80f55ba9988e1894e867920",
-    "_size": 20726
+    "_change_number": 37443176,
+    "_sha": "994ecb2f00e1558c56b06998dd4b90c51b9b5c65",
+    "_size": 20762
 }
