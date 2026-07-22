@@ -50,7 +50,8 @@
                 "requires_h264": "0",
                 "requires_voice_files": "0",
                 "gamescope_frame_limiter_not_supported": "0",
-                "hdr_support": "0"
+                "hdr_support": "0",
+                "requires_proton_soundfonts": "0"
             }
         },
         "small_capsule": {
@@ -143,9 +144,9 @@
         "1836202": {
             "manifests": {
                 "public": {
-                    "gid": "1297654556519956753",
-                    "size": "95318355406",
-                    "download": "89680885520"
+                    "gid": "5999314537869297869",
+                    "size": "95552919179",
+                    "download": "89915272656"
                 }
             }
         },
@@ -178,15 +179,15 @@
         },
         "branches": {
             "public": {
-                "buildid": "24262752",
-                "timeupdated": "1784310897",
-                "timebuildupdated": "1784305697"
+                "buildid": "24337156",
+                "timeupdated": "1784741245",
+                "timebuildupdated": "1784734908"
             }
         },
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 37449701,
-    "_sha": "578525a8642e8c044f8f4249121635fd59ab6227",
-    "_size": 4142
+    "_change_number": 37452352,
+    "_sha": "6ceabcb2c3b828a94267f8bd9b6f1d5af2cfb0ab",
+    "_size": 4180
 }
