@@ -367,7 +367,7 @@
                 "description": "daily_main"
             },
             "44": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
+                "executable": "hunt.exe",
                 "arguments": "+online_account_client_settings stagealpha +ui_debug_layout_loading 1 +log_writetofileverbosity 3 +sys_customCrashHandlerAttribute playtest +tlm_hunt_enable 1 +tlm_enable_perf gmpruv -tlm_hunt_id PlaytestPC +g_perf_budget_gpu 1 +r_D3D12EnableDRED 1 +cl_perfStatVerbosity 1 +cl_perfStatCam 1 +ui_popup_checklist_debug 1 +r_enableNvidiaAftermath 1",
                 "type": "option1",
                 "config": {
@@ -711,7 +711,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 37477892,
-    "_sha": "994ecb2f00e1558c56b06998dd4b90c51b9b5c65",
-    "_size": 20762
+    "_change_number": 37495593,
+    "_sha": "f908277c0866f86b02d4bb7c08d6fe49d8575200",
+    "_size": 20744
 }
