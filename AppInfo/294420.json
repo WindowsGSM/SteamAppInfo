@@ -113,11 +113,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "96700354218410542",
-                    "size": "17619205784",
-                    "download": "14388132176"
+                    "gid": "1209042370651217230",
+                    "size": "17683442531",
+                    "download": "14447183680"
                 },
                 "latest_experimental": {
+                    "gid": "1209042370651217230",
+                    "size": "17683442531",
+                    "download": "14447183680"
+                },
+                "v3.1.0": {
                     "gid": "1209042370651217230",
                     "size": "17683442531",
                     "download": "14447183680"
@@ -141,11 +146,6 @@
                     "gid": "884967445019848441",
                     "size": "16960147160",
                     "download": "13645088448"
-                },
-                "v2.4": {
-                    "gid": "1296141151294039802",
-                    "size": "15389923372",
-                    "download": "12077859952"
                 },
                 "v1.4": {
                     "gid": "6718131435641091070",
@@ -230,11 +230,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6346271874669916200",
-                    "size": "17546210919",
-                    "download": "14297948432"
+                    "gid": "2960098775852388768",
+                    "size": "17607301692",
+                    "download": "14353993568"
                 },
                 "latest_experimental": {
+                    "gid": "2960098775852388768",
+                    "size": "17607301692",
+                    "download": "14353993568"
+                },
+                "v3.1.0": {
                     "gid": "2960098775852388768",
                     "size": "17607301692",
                     "download": "14353993568"
@@ -258,11 +263,6 @@
                     "gid": "4052358094841845751",
                     "size": "16906150876",
                     "download": "13571311824"
-                },
-                "v2.4": {
-                    "gid": "2400498987573585128",
-                    "size": "15338231323",
-                    "download": "12007406272"
                 },
                 "v1.4": {
                     "gid": "4337473738794231947",
@@ -338,14 +338,20 @@
         },
         "branches": {
             "public": {
-                "buildid": "24117900",
-                "timeupdated": "1783962348",
-                "timebuildupdated": "1783550884"
+                "buildid": "24392395",
+                "timeupdated": "1785164498",
+                "timebuildupdated": "1785009652"
             },
             "latest_experimental": {
                 "buildid": "24392395",
                 "description": "Unstable build",
                 "timeupdated": "1785012094",
+                "timebuildupdated": "1785009652"
+            },
+            "v3.1.0": {
+                "buildid": "24392395",
+                "description": "Version 3.1.0 Stable",
+                "timeupdated": "1785164136",
                 "timebuildupdated": "1785009652"
             },
             "v3.0.1": {
@@ -371,12 +377,6 @@
                 "description": "Version 2.5 Stable",
                 "timeupdated": "1769450875",
                 "timebuildupdated": "1769079836"
-            },
-            "v2.4": {
-                "buildid": "20371871",
-                "description": "Version 2.4 Stable",
-                "timeupdated": "1763615196",
-                "timebuildupdated": "1760370259"
             },
             "v1.4": {
                 "buildid": "17990043",
@@ -467,7 +467,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 37530768,
-    "_sha": "6417289a7e62382f2667a50faa698c4989e0f9ed",
-    "_size": 11012
+    "_change_number": 37562300,
+    "_sha": "620218270278d3f09fc81bfe6db7541f6f08ca52",
+    "_size": 11022
 }
