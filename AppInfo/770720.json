@@ -616,6 +616,20 @@
                     "english": "ufl_check"
                 },
                 "description": "ufl_check"
+            },
+            "84": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings stagealpha ",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "internal_playtest qa_capture qa_testroom"
+                },
+                "description_loc": {
+                    "english": "alpha_test"
+                },
+                "description": "alpha_test"
             }
         },
         "uselaunchcommandline": "1"
@@ -712,7 +726,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 37607968,
-    "_sha": "053e1b4aef0af77c5489f4db5bcd85c438f75b10",
-    "_size": 20746
+    "_change_number": 37611578,
+    "_sha": "2cbf3bc8fbfdb097bd24cb1aac022bed1c05e446",
+    "_size": 21102
 }
