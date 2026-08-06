@@ -374,7 +374,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "closed_beta_test 201_test tc_playtest navmesh external_pt qa_testroom_3 ab_test internal_playtest"
+                    "betakey": "closed_beta_test 201_test tc_playtest navmesh external_pt qa_testroom_3 ab_test internal_playtest current"
                 },
                 "description_loc": {
                     "english": "alpha_pt"
@@ -638,12 +638,12 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "current"
+                    "betakey": "current__"
                 },
                 "description_loc": {
-                    "english": "current"
+                    "english": "current__"
                 },
-                "description": "current"
+                "description": "current__"
             }
         },
         "uselaunchcommandline": "1"
@@ -740,7 +740,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 37815729,
-    "_sha": "e1316763958b24d10192ecfe528148ff441c3c73",
-    "_size": 21388
+    "_change_number": 37822928,
+    "_sha": "1c0fefb2a8a9d35d4cccbb719dadefda50bd0c73",
+    "_size": 21402
 }
