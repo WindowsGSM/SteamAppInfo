@@ -30,13 +30,29 @@
                     "oslist": "windows",
                     "osarch": "64"
                 }
+            },
+            "1": {
+                "executable": "Fragsurf.x86_64",
+                "arguments": "-batchmode -nographics -logFile -",
+                "type": "server",
+                "config": {
+                    "oslist": "linux",
+                    "osarch": "64"
+                }
             }
         },
-        "uselaunchcommandline": "1"
+        "uselaunchcommandline": "1",
+        "app_mappings": {
+            "0": {
+                "platform": "linux",
+                "tool": "SteamLinuxRuntime_sniper"
+            }
+        }
     },
     "depots": {
         "baselanguages": "english",
         "hasdepotsindlc": "0",
+        "workshopdepot": "1035540",
         "1004": {
             "config": {
                 "oslist": "windows"
@@ -89,13 +105,25 @@
                     "download": "898528544"
                 },
                 "beta": {
-                    "gid": "8750665855814958732",
-                    "size": "2131158082",
-                    "download": "991481664"
+                    "gid": "6835678945096783613",
+                    "size": "2170648552",
+                    "download": "1041253504"
                 }
             }
         },
-        "workshopdepot": "1035540",
+        "1035542": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "beta": {
+                    "gid": "1670640283536996045",
+                    "size": "2133563434",
+                    "download": "1032831456"
+                }
+            }
+        },
         "branches": {
             "public": {
                 "buildid": "16826028",
@@ -103,9 +131,9 @@
                 "timebuildupdated": "1734820064"
             },
             "beta": {
-                "buildid": "24564065",
-                "timeupdated": "1785897246",
-                "timebuildupdated": "1785897198"
+                "buildid": "24644145",
+                "timeupdated": "1786317258",
+                "timebuildupdated": "1786317245"
             }
         }
     },
@@ -116,7 +144,7 @@
         "sync_while_suspended": "1"
     },
     "_missing_token": false,
-    "_change_number": 37777979,
-    "_sha": "3b75fab4d6202c008ac1547b2e88cec0235b7d20",
-    "_size": 2343
+    "_change_number": 37894932,
+    "_sha": "65ff8c33d0fea7712aae6ae8bf8524508d32dabd",
+    "_size": 2865
 }
