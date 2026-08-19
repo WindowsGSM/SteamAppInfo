@@ -98,14 +98,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1699968664194881891",
-                    "size": "24238342",
-                    "download": "6191200"
+                    "gid": "7234380173646011592",
+                    "size": "220659561",
+                    "download": "136060288"
                 },
                 "beta": {
                     "gid": "7234380173646011592",
                     "size": "220659561",
                     "download": "136060288"
+                },
+                "previous-release": {
+                    "gid": "1699968664194881891",
+                    "size": "24238342",
+                    "download": "6191200"
                 }
             }
         },
@@ -116,34 +121,45 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "808072426333417283",
-                    "size": "55836813",
-                    "download": "14306128"
+                    "gid": "3912885364661183090",
+                    "size": "237735758",
+                    "download": "138407680"
                 },
                 "beta": {
                     "gid": "3912885364661183090",
                     "size": "237735758",
                     "download": "138407680"
+                },
+                "previous-release": {
+                    "gid": "808072426333417283",
+                    "size": "55836813",
+                    "download": "14306128"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "2017198",
-                "timeupdated": "1502295697",
-                "timebuildupdated": "1502088778"
+                "buildid": "24649093",
+                "timeupdated": "1787120394",
+                "timebuildupdated": "1786349836"
             },
             "beta": {
                 "buildid": "24649093",
                 "description": "next version",
                 "timeupdated": "1786349836",
                 "timebuildupdated": "1786349836"
+            },
+            "previous-release": {
+                "buildid": "2017198",
+                "description": "This is the release prior to default",
+                "timeupdated": "1502295697",
+                "timebuildupdated": "1502088778"
             }
         },
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 37901920,
-    "_sha": "ad7d5b6a0a37e0d79733824abe509a771dc648cd",
-    "_size": 2904
+    "_change_number": 38143564,
+    "_sha": "c558aa5b3db65aee8431e9c6d2aaee7bf22e9f91",
+    "_size": 3335
 }
