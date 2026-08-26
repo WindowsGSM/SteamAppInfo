@@ -113,9 +113,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8421519744609534061",
-                    "size": "17683440103",
-                    "download": "14447224688"
+                    "gid": "1254327717081864695",
+                    "size": "17687249081",
+                    "download": "14450497296"
+                },
+                "v3.2.0": {
+                    "gid": "1254327717081864695",
+                    "size": "17687249081",
+                    "download": "14450497296"
                 },
                 "latest_experimental": {
                     "gid": "1254327717081864695",
@@ -131,11 +136,6 @@
                     "gid": "96700354218410542",
                     "size": "17619205784",
                     "download": "14388132176"
-                },
-                "v3.0.0": {
-                    "gid": "7411074501649498682",
-                    "size": "17630981663",
-                    "download": "14393061440"
                 },
                 "v2.6": {
                     "gid": "4973862835415237937",
@@ -225,9 +225,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2089214172134382404",
-                    "size": "17607302336",
-                    "download": "14354128448"
+                    "gid": "1712639873522480804",
+                    "size": "17607560420",
+                    "download": "14354445200"
+                },
+                "v3.2.0": {
+                    "gid": "1712639873522480804",
+                    "size": "17607560420",
+                    "download": "14354445200"
                 },
                 "latest_experimental": {
                     "gid": "1712639873522480804",
@@ -243,11 +248,6 @@
                     "gid": "6346271874669916200",
                     "size": "17546210919",
                     "download": "14297948432"
-                },
-                "v3.0.0": {
-                    "gid": "1317445544247847640",
-                    "size": "17557755177",
-                    "download": "14303641808"
                 },
                 "v2.6": {
                     "gid": "5955696906242074551",
@@ -328,9 +328,15 @@
         },
         "branches": {
             "public": {
-                "buildid": "24436799",
-                "timeupdated": "1785337219",
-                "timebuildupdated": "1785259782"
+                "buildid": "24911252",
+                "timeupdated": "1787763777",
+                "timebuildupdated": "1787590294"
+            },
+            "v3.2.0": {
+                "buildid": "24911252",
+                "description": "Version 3.2.0 Stable",
+                "timeupdated": "1787763777",
+                "timebuildupdated": "1787590294"
             },
             "latest_experimental": {
                 "buildid": "24911252",
@@ -349,12 +355,6 @@
                 "description": "Version 3.0.1 Stable",
                 "timeupdated": "1783961721",
                 "timebuildupdated": "1783550884"
-            },
-            "v3.0.0": {
-                "buildid": "23906567",
-                "description": "Version  3.0.0 Stable",
-                "timeupdated": "1782750036",
-                "timebuildupdated": "1782366846"
             },
             "v2.6": {
                 "buildid": "22422094",
@@ -451,7 +451,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 38331263,
-    "_sha": "c7924670c0b4dd59ca1042fead666ebe41a1e852",
-    "_size": 10638
+    "_change_number": 38354360,
+    "_sha": "9ad6cbf1dc99b3f7bee9d4ccce22fb2c349bcb82",
+    "_size": 10637
 }
