@@ -644,6 +644,20 @@
                     "english": "current__"
                 },
                 "description": "current__"
+            },
+            "86": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings stage2 +log_writetofileverbosity 4",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "lionbridge_qa_main"
+                },
+                "description_loc": {
+                    "english": "PCStage02"
+                },
+                "description": "PCStage02"
             }
         },
         "uselaunchcommandline": "1"
@@ -740,7 +754,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 38531135,
-    "_sha": "781a95cc3bce43901120e8916b44e10ae5beac0a",
-    "_size": 21330
+    "_change_number": 38541412,
+    "_sha": "dc6986d00296a356298de71c14410ee99a39502e",
+    "_size": 21685
 }
