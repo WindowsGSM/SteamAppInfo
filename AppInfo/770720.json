@@ -638,7 +638,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "stage_design current mkt_recording closed_beta_test"
+                    "betakey": "stage_design current "
                 },
                 "description_loc": {
                     "english": "current__"
@@ -658,6 +658,20 @@
                     "english": "PCStage02"
                 },
                 "description": "PCStage02"
+            },
+            "87": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings stagealpha",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "mkt_recording closed_beta_test internal_playtest"
+                },
+                "description_loc": {
+                    "english": "pt"
+                },
+                "description": "pt"
             }
         },
         "uselaunchcommandline": "1"
@@ -754,7 +768,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 38556886,
-    "_sha": "dc6986d00296a356298de71c14410ee99a39502e",
-    "_size": 21685
+    "_change_number": 38563594,
+    "_sha": "6b2fc3b4199e34c1428f89cf6dd1c99a0d1c8af4",
+    "_size": 22002
 }
