@@ -672,6 +672,34 @@
                     "english": "pt"
                 },
                 "description": "pt"
+            },
+            "88": {
+                "executable": "bin\\win_x64\\HuntGame.exe",
+                "arguments": "+online_account_client_settings lionbridge01 +sys_dump_type 2 +log_writetofileverbosity 4 +ui_generate_gamemodes 1 +r_displayinfo 6 +cl_perfStatVerbosity 1 +cl_perfStatCam 1 +r_D3D12EnableDRED 2",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "lionbridge_qa_main"
+                },
+                "description_loc": {
+                    "english": "Lionbridge01"
+                },
+                "description": "Lionbridge01"
+            },
+            "89": {
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings lionbridge02 +sys_dump_type 2 +log_writetofileverbosity 4 +ui_generate_gamemodes 1 +r_displayinfo 6 +cl_perfStatVerbosity 1 +cl_perfStatCam 1 +r_D3D12EnableDRED 2",
+                "type": "option1",
+                "config": {
+                    "oslist": "windows",
+                    "osarch": "64",
+                    "betakey": "lionbridge_qa"
+                },
+                "description_loc": {
+                    "english": "Lionbridge02"
+                },
+                "description": "Lionbridge02"
             }
         },
         "uselaunchcommandline": "1"
@@ -768,7 +796,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 38568657,
-    "_sha": "31a98c1ce32d16098659d63bf4c1e2b91308dab3",
-    "_size": 21984
+    "_change_number": 38577310,
+    "_sha": "644c7ab46f57bdddf4a880f2aad227e7823b04c1",
+    "_size": 22975
 }

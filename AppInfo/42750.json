@@ -37,6 +37,20 @@
         }
     },
     "depots": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
         "42682": {
             "systemdefined": "1",
             "config": {
@@ -49,9 +63,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "9089183337461621316",
-                    "size": "5982326",
-                    "download": "1672272"
+                    "gid": "2427974803223634451",
+                    "size": "117744",
+                    "download": "69616"
                 }
             }
         },
@@ -123,15 +137,15 @@
         "baselanguages": "english,french,german,italian,spanish,polish,russian,japanese",
         "branches": {
             "public": {
-                "buildid": "2741211",
-                "timeupdated": "1525798853",
-                "timebuildupdated": "1525309428"
+                "buildid": "24939921",
+                "timeupdated": "1788451381",
+                "timebuildupdated": "1787706924"
             }
         },
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 38555571,
-    "_sha": "5db504f2237831ecd457f315554b12c5a2301f1b",
-    "_size": 2821
+    "_change_number": 38577523,
+    "_sha": "1ad5d6d9e476bdf20732bc2784149264216e53fe",
+    "_size": 3053
 }
