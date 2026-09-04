@@ -242,13 +242,13 @@
                 "description": "MPQA2"
             },
             "14": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stgdes",
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings stgdes +ui_debug_layout_loading 1 +log_writetofileverbosity 3 +sys_customCrashHandlerAttribute playtest +tlm_hunt_enable 1 +tlm_enable_perf gmpruv -tlm_hunt_id PlaytestPC +g_perf_budget_gpu 1 +r_D3D12EnableDRED 2 +cl_perfStatVerbosity 1 +cl_perfStatCam 1 +ui_popup_checklist_debug 1 +r_enableNvidiaAftermath 0",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 latest teamtest latest_lwp ist-testserver1 ist-testserver2 ist-testserver3 stage_design"
+                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 latest teamtest latest_lwp ist-testserver1 ist-testserver2 ist-testserver3 stage_design  internal_playtest closed_beta_test"
                 },
                 "description_loc": {
                     "english": "STGDSN"
@@ -666,7 +666,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "mkt_recording closed_beta_test internal_playtest"
+                    "betakey": "mkt_recording"
                 },
                 "description_loc": {
                     "english": "pt"
@@ -796,7 +796,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 38597247,
-    "_sha": "644c7ab46f57bdddf4a880f2aad227e7823b04c1",
-    "_size": 22975
+    "_change_number": 38603361,
+    "_sha": "b052f2d16e50d02fd55e5e4db1db36ade575ff95",
+    "_size": 23261
 }
