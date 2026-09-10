@@ -23,7 +23,8 @@
     "config": {
         "launch": {
             "0": {
-                "executable": "Binaries/Win32/DHGameServer.exe"
+                "executable": "Binaries/Win32/OrionServerTool.exe",
+                "workingdir": "Binaries/Win32"
             }
         },
         "contenttype": "3",
@@ -47,10 +48,11 @@
                 "timeupdated": "1574378788",
                 "timebuildupdated": "1489947820"
             }
-        }
+        },
+        "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 34351876,
-    "_sha": "5b69e626b3af34a10a0ad9e418090bdd5e1ab1a4",
-    "_size": 1045
+    "_change_number": 38764166,
+    "_sha": "2335dd64667601c1e75dac6dbc71921ce1457511",
+    "_size": 1108
 }
