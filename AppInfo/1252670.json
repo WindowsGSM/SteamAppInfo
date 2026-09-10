@@ -92,14 +92,19 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "6552182336446400406",
+                    "size": "109116916",
+                    "download": "42884944"
+                },
+                "public-previews": {
+                    "gid": "6552182336446400406",
+                    "size": "109116916",
+                    "download": "42884944"
+                },
+                "older-version-0.92.3": {
                     "gid": "4444680060956584498",
                     "size": "109096424",
                     "download": "42821888"
-                },
-                "public-previews": {
-                    "gid": "6846333546230867477",
-                    "size": "109116924",
-                    "download": "42884928"
                 },
                 "older-version-0.92.2": {
                     "gid": "9033535525521251331",
@@ -166,14 +171,19 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "2163261875662228315",
+                    "size": "110662462",
+                    "download": "43447904"
+                },
+                "public-previews": {
+                    "gid": "2163261875662228315",
+                    "size": "110662462",
+                    "download": "43447904"
+                },
+                "older-version-0.92.3": {
                     "gid": "2734150309431135205",
                     "size": "110656122",
                     "download": "43383600"
-                },
-                "public-previews": {
-                    "gid": "7741827386395792440",
-                    "size": "110662470",
-                    "download": "43447920"
                 },
                 "older-version-0.92.2": {
                     "gid": "3982634416518218726",
@@ -240,14 +250,19 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "2684342385930466935",
+                    "size": "108859825",
+                    "download": "42714896"
+                },
+                "public-previews": {
+                    "gid": "2684342385930466935",
+                    "size": "108859825",
+                    "download": "42714896"
+                },
+                "older-version-0.92.3": {
                     "gid": "7131285404223028279",
                     "size": "108855485",
                     "download": "42596288"
-                },
-                "public-previews": {
-                    "gid": "3175706654163622322",
-                    "size": "108859833",
-                    "download": "42714880"
                 },
                 "older-version-0.92.2": {
                     "gid": "7244272081185038936",
@@ -308,15 +323,21 @@
         },
         "branches": {
             "public": {
-                "buildid": "24102046",
-                "timeupdated": "1783558592",
-                "timebuildupdated": "1783480559"
+                "buildid": "25219828",
+                "timeupdated": "1788998119",
+                "timebuildupdated": "1788997683"
             },
             "public-previews": {
-                "buildid": "25194295",
+                "buildid": "25219828",
                 "description": "Public previews of upcoming LW updates",
-                "timeupdated": "1788896441",
-                "timebuildupdated": "1788896408"
+                "timeupdated": "1788998119",
+                "timebuildupdated": "1788997683"
+            },
+            "older-version-0.92.3": {
+                "buildid": "24102046",
+                "description": "Version 0.92.3, released 2026-07-08",
+                "timeupdated": "1783558763",
+                "timebuildupdated": "1783480559"
             },
             "older-version-0.92.2": {
                 "buildid": "21246120",
@@ -394,7 +415,7 @@
         "ignoreexternalfiles": "1"
     },
     "_missing_token": false,
-    "_change_number": 38707005,
-    "_sha": "ce37f95d9f8fad03cf4bc464ca6961d0eac0827d",
-    "_size": 9531
+    "_change_number": 38743977,
+    "_sha": "53bbd27e53cbfbbfec3ffec54ee999bd458c7008",
+    "_size": 10097
 }
