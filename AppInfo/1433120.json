@@ -10,27 +10,71 @@
         "logo": "577d0304f48423ec13a0d25b2bd55e1a23ba9262",
         "logo_small": "577d0304f48423ec13a0d25b2bd55e1a23ba9262_thumb",
         "steam_deck_compatibility": {
-            "category": "1",
-            "steamos_compatibility": "1",
-            "steam_machine_compatibility": "1",
-            "test_timestamp": "1663286400",
-            "tested_build_id": "8348742",
+            "category": "2",
+            "steamos_compatibility": "2",
+            "steam_machine_compatibility": "2",
+            "test_timestamp": "1790012742",
+            "tested_build_id": "25392424",
             "tests": {
                 "0": {
-                    "display": "2",
-                    "token": "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Retired"
+                    "display": "3",
+                    "token": "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+                },
+                "1": {
+                    "display": "3",
+                    "token": "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+                },
+                "2": {
+                    "display": "3",
+                    "token": "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+                },
+                "3": {
+                    "display": "3",
+                    "token": "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+                },
+                "4": {
+                    "display": "4",
+                    "token": "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+                },
+                "5": {
+                    "display": "4",
+                    "token": "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
                 }
             },
             "steam_machine_tests": {
                 "0": {
-                    "display": "2",
-                    "token": "#SteamMachine_TestResult_SteamOSDoesNotSupport_Retired"
+                    "display": "3",
+                    "token": "#SteamMachine_TestResult_DefaultControllerConfigNotFullyFunctional"
+                },
+                "1": {
+                    "display": "3",
+                    "token": "#SteamMachine_TestResult_ControllerGlyphsDoNotMatchDevice"
+                },
+                "2": {
+                    "display": "3",
+                    "token": "#SteamMachine_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+                },
+                "3": {
+                    "display": "4",
+                    "token": "#SteamMachine_TestResult_DefaultControllerConfigFullyFunctional"
+                },
+                "4": {
+                    "display": "4",
+                    "token": "#SteamMachine_TestResult_DefaultConfigurationIsPerformant"
                 }
             },
             "steamos_tests": {
                 "0": {
-                    "display": "2",
-                    "token": "#SteamOS_TestResult_SteamOSDoesNotSupport_Retired"
+                    "display": "3",
+                    "token": "#SteamOS_TestResult_GameStartupFunctional"
+                },
+                "1": {
+                    "display": "1",
+                    "token": "#SteamOS_TestResult_DefaultControllerConfigNotFullyFunctional"
+                },
+                "2": {
+                    "display": "1",
+                    "token": "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
                 }
             },
             "configuration": {
@@ -38,8 +82,8 @@
                 "requires_manual_keyboard_invoke": "1",
                 "requires_non_controller_launcher_nav": "0",
                 "primary_player_is_controller_slot_0": "0",
-                "non_deck_display_glyphs": "0",
-                "small_text": "0",
+                "non_deck_display_glyphs": "1",
+                "small_text": "1",
                 "requires_internet_for_setup": "0",
                 "requires_internet_for_singleplayer": "0",
                 "recommended_runtime": "proton-stable",
@@ -238,7 +282,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 39023810,
-    "_sha": "45457129501af4933f367c344c36358e265c911a",
-    "_size": 5080
+    "_change_number": 39070647,
+    "_sha": "7963e4ee020f4d055ef042124e177d24a5cf4cb4",
+    "_size": 6420
 }
