@@ -42,7 +42,9 @@
         "category": {},
         "steam_release_date": "1635184800",
         "community_hub_visible": "1",
-        "gameid": "1801280"
+        "gameid": "1801280",
+        "review_score": "7",
+        "review_percentage": "83"
     },
     "config": {
         "installdir": "SCP CB Multiplayer Dedicated Server",
@@ -98,6 +100,11 @@
                     "gid": "8012846635657396632",
                     "size": "449326918",
                     "download": "264845456"
+                },
+                "beta": {
+                    "gid": "6005279453172228077",
+                    "size": "458397849",
+                    "download": "285506128"
                 }
             }
         },
@@ -107,6 +114,12 @@
                 "buildid": "15744161",
                 "timeupdated": "1726671467",
                 "timebuildupdated": "1726671440"
+            },
+            "beta": {
+                "buildid": "25653674",
+                "description": " Branch for beta updates.",
+                "timeupdated": "1790865801",
+                "timebuildupdated": "1790861243"
             }
         },
         "privatebranches": "1"
@@ -140,7 +153,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 39323160,
-    "_sha": "112e2df06afa53b69270c84ee3d61b1029c3e97b",
-    "_size": 2744
+    "_change_number": 39387286,
+    "_sha": "66cc7d1cefcb43359f5297e2663b65369f7975a4",
+    "_size": 3067
 }
