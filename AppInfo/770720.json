@@ -480,17 +480,17 @@
                 "description": "perf_debug"
             },
             "73": {
-                "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings yxz -online_server capi1-pcstg-eu.huntshowdown.com -online_server_port 61088",
+                "executable": "bin\\win_x64\\HuntGame.exe",
+                "arguments": "+online_account_client_settings stagealpha +ui_debug_layout_loading 1 +log_writetofileverbosity 3 +sys_customCrashHandlerAttribute playtest +tlm_hunt_enable 1 +tlm_enable_perf gmpruv -tlm_hunt_id PlaytestPC +g_perf_budget_gpu 1 +r_D3D12EnableDRED 2 +cl_perfStatVerbosity 1 +cl_perfStatCam 1 +ui_popup_checklist_debug 1 +r_enableNvidiaAftermath 0 +g_newMultiplayerFlowEnabled 1 +online_multiplayer_client_debug_log 1 +nakama_server cryaccount-dev-eu-6209.eu-west1-a.nakamacloud.io +nakama_server_port 443 +nakama_use_ssl 1 +nakama_secret 99zHJuCtiZ6SuaY4",
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
                     "betakey": "external_playtest"
                 },
                 "description_loc": {
-                    "english": "Internally testing"
+                    "english": "internal testing"
                 },
-                "description": "Internally testing"
+                "description": "internal testing"
             },
             "74": {
                 "executable": "hunt.exe",
@@ -796,7 +796,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 39402237,
-    "_sha": "472727487a6d2b9d491c554180f6583611098546",
-    "_size": 23488
+    "_change_number": 39421324,
+    "_sha": "1ae7f674585a2e43b80a36112cb4a981ad8ef41f",
+    "_size": 23947
 }
