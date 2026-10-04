@@ -25,12 +25,16 @@
         "launch": {
             "0": {
                 "executable": "JetballServer.exe",
-                "arguments": "\"EpicCity?ServerName=DoNotLaunchServerFromSteam?port=7777?MaxPlayers=0?listen\" -log",
-                "type": "default",
+                "arguments": "\"EpicCity?ServerName=DedJetballServer?rport=7777?MaxPlayers=8?listen\" -QueryPort-27015 -port=7777 -SteamServerName=DedSteamServer -log",
+                "type": "server",
                 "config": {
                     "oslist": "windows",
                     "osarch": "64"
-                }
+                },
+                "description_loc": {
+                    "english": "Run dedicated server. Open ports 7777 and 27015 on your router."
+                },
+                "description": "Run dedicated server. Open ports 7777 and 27015 on your router."
             }
         }
     },
@@ -116,7 +120,7 @@
         }
     },
     "_missing_token": false,
-    "_change_number": 39477338,
-    "_sha": "cc74b9bcde6f78f5977f9548d05f1a8b9b120d5b",
-    "_size": 2320
+    "_change_number": 39480609,
+    "_sha": "d8ed83ba12d25fd38f899abd22c5c1e08757c84b",
+    "_size": 2571
 }
