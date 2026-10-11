@@ -35,9 +35,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "4787558778717918998",
-                    "size": "11873734574",
-                    "download": "3717971952"
+                    "gid": "5053205410223284310",
+                    "size": "11873772029",
+                    "download": "3717982800"
                 },
                 "legacy-v6.0.0": {
                     "gid": "4376981082077672751",
@@ -48,6 +48,11 @@
                     "gid": "7590134165699065270",
                     "size": "11567985834",
                     "download": "3512609424"
+                },
+                "rollback": {
+                    "gid": "4787558778717918998",
+                    "size": "11873734574",
+                    "download": "3717971952"
                 }
             },
             "depotfromapp": "1280"
@@ -56,9 +61,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "3096497423954710094",
-                    "size": "2755923157",
-                    "download": "1249420256"
+                    "gid": "3707681452303884253",
+                    "size": "2755927092",
+                    "download": "1249421904"
                 },
                 "legacy-v6.0.0": {
                     "gid": "3431600298929727963",
@@ -70,6 +75,11 @@
                     "size": "2668499947",
                     "download": "1212226064"
                 },
+                "rollback": {
+                    "gid": "3096497423954710094",
+                    "size": "2755923157",
+                    "download": "1249420256"
+                },
                 "v12.1.7-chinese-localization": {
                     "gid": "7954859441938425593",
                     "size": "2745068329",
@@ -79,9 +89,9 @@
         },
         "branches": {
             "public": {
-                "buildid": "25418979",
-                "timeupdated": "1789898411",
-                "timebuildupdated": "1789898132"
+                "buildid": "25861149",
+                "timeupdated": "1791704645",
+                "timebuildupdated": "1791704282"
             },
             "legacy-v6.0.0": {
                 "buildid": "1026294",
@@ -95,6 +105,12 @@
                 "timeupdated": "1764453352",
                 "timebuildupdated": "1764450083"
             },
+            "rollback": {
+                "buildid": "25418979",
+                "description": "Rollback to the previous version",
+                "timeupdated": "1789898411",
+                "timebuildupdated": "1789898132"
+            },
             "v12.1.7-chinese-localization": {
                 "buildid": "21637651",
                 "description": "Simplified Chinese Translation",
@@ -105,7 +121,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 39036013,
-    "_sha": "ab93e7ce91d7846015f74eb297f794948ef9db89",
-    "_size": 2336
+    "_change_number": 39710248,
+    "_sha": "838bc6f27528b9ce3e48d198e4a192c473b4b232",
+    "_size": 2744
 }
