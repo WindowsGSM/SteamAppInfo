@@ -1,7 +1,7 @@
 {
     "appid": "557690",
     "common": {
-        "name": "Vengeance: Dedicated Server (OBSOLETE)",
+        "name": "Vengeance: Dedicated Server",
         "type": "Tool",
         "parent": "384960",
         "releasestate": "released",
@@ -12,6 +12,7 @@
         "icon": "36e6b99658ac806ad94294c414a82eeb5250585f",
         "logo": "3031b45cc232be25dba8991d7fe2c4a03e956289",
         "logo_small": "3031b45cc232be25dba8991d7fe2c4a03e956289_thumb",
+        "freetodownload": "1",
         "associations": {},
         "gameid": "557690"
     },
@@ -27,7 +28,7 @@
                 }
             },
             "1": {
-                "executable": "vengeanceServer.exe",
+                "executable": "Vengeance Reboot.exe",
                 "type": "default",
                 "config": {
                     "oslist": "windows",
@@ -96,22 +97,22 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2674142791512406017",
-                    "size": "1212415250",
-                    "download": "390634256"
+                    "gid": "6846679262002452120",
+                    "size": "945903531",
+                    "download": "355150336"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "2349227",
-                "timeupdated": "1512672006",
-                "timebuildupdated": "1512672006"
+                "buildid": "25910161",
+                "timeupdated": "1791902609",
+                "timebuildupdated": "1791902609"
             }
         }
     },
     "_missing_token": false,
-    "_change_number": 38905983,
-    "_sha": "375a7c010c4fe4575b4ba556569f959d70fafdee",
-    "_size": 2181
+    "_change_number": 39781840,
+    "_sha": "fd8ccd747e2d40ae530a03922d432fb2cae01c62",
+    "_size": 2195
 }

@@ -360,7 +360,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom lb_lqa"
+                    "betakey": "qa_testroom"
                 },
                 "description_loc": {
                     "english": "daily_main"
@@ -604,13 +604,13 @@
                 "description": "alpha_test"
             },
             "83": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings pcstage",
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings pcstage +g_newMultiplayerFlowEnabled 1",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "ufl_check"
+                    "betakey": "ufl_check lb_lqa"
                 },
                 "description_loc": {
                     "english": "ufl_check"
@@ -689,7 +689,7 @@
             },
             "89": {
                 "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings lionbridge02 +sys_dump_type 2 +log_writetofileverbosity 4 +ui_generate_gamemodes 1 +r_displayinfo 6 +cl_perfStatVerbosity 1 +cl_perfStatCam 1 +r_D3D12EnableDRED 2",
+                "arguments": "+online_account_client_settings lionbridge02 +sys_dump_type 2 +log_writetofileverbosity 4 +ui_generate_gamemodes 1 +r_displayinfo 6 +cl_perfStatVerbosity 1 +cl_perfStatCam 1 +r_D3D12EnableDRED 2 +g_newMultiplayerFlowEnabled 1",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -796,7 +796,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 39767422,
-    "_sha": "50efef373f64a085e81f9b514735eed8a26b7ca3",
-    "_size": 23961
+    "_change_number": 39778452,
+    "_sha": "15a4a60b8840d90bacd69484c658917e680120e2",
+    "_size": 24005
 }
