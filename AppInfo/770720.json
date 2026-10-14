@@ -206,7 +206,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 backend_test 1161_rc 1.16.2_qa ist-testserver1 ist-testserver2 ist-testserver3"
+                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 backend_test 1161_rc 1.16.2_qa ist-testserver1"
                 },
                 "description_loc": {
                     "english": "PCSTG"
@@ -220,7 +220,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 latest ist-testserver1 ist-testserver2 ist-testserver3"
+                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 latest ist-testserver1"
                 },
                 "description_loc": {
                     "english": "MPQA1"
@@ -234,7 +234,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 latest latest_lwp ist-testserver1 ist-testserver2 ist-testserver3"
+                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 latest latest_lwp ist-testserver1"
                 },
                 "description_loc": {
                     "english": "MPQA2"
@@ -248,7 +248,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 latest teamtest latest_lwp ist-testserver1 ist-testserver2 ist-testserver3 stage_design"
+                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 latest teamtest latest_lwp ist-testserver1"
                 },
                 "description_loc": {
                     "english": "STGDSN"
@@ -276,7 +276,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 ist-testserver1 ist-testserver2 ist-testserver3"
+                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 ist-testserver1"
                 },
                 "description_loc": {
                     "english": "MPQA3 (No EAC)"
@@ -290,7 +290,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 ist-testserver1 ist-testserver2 ist-testserver3 qa_capture"
+                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 ist-testserver1 qa_capture"
                 },
                 "description_loc": {
                     "english": "MPQA4 (No EAC)"
@@ -304,7 +304,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 ist-testserver1 ist-testserver2 ist-testserver3 qa_capture"
+                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 ist-testserver1 qa_capture"
                 },
                 "description_loc": {
                     "english": "MPQA5 (EAC)"
@@ -318,7 +318,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 ist-testserver1 ist-testserver2 ist-testserver3"
+                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 ist-testserver1"
                 },
                 "description_loc": {
                     "english": "MPQA MAIN"
@@ -332,7 +332,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 ist-testserver1 ist-testserver2 ist-testserver3"
+                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 ist-testserver1"
                 },
                 "description_loc": {
                     "english": "PCSTG2"
@@ -368,13 +368,13 @@
                 "description": "daily_main"
             },
             "44": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stagealpha +ui_debug_layout_loading 1 +log_writetofileverbosity 3 +sys_customCrashHandlerAttribute playtest +tlm_hunt_enable 1 +tlm_enable_perf gmpruv -tlm_hunt_id PlaytestPC +g_perf_budget_gpu 1 +r_D3D12EnableDRED 2 +cl_perfStatVerbosity 1 +cl_perfStatCam 1 +ui_popup_checklist_debug 1 +r_enableNvidiaAftermath 0 +g_newMultiplayerFlowEnabled 1 +online_multiplayer_client_debug_log 1 +nakama_server cryaccount-dev-eu-6209.eu-west1-a.nakamacloud.io +nakama_server_port 443 +nakama_use_ssl 1",
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings stagealpha +ui_debug_layout_loading 1 +log_writetofileverbosity 3 +sys_customCrashHandlerAttribute playtest +tlm_hunt_enable 1 +tlm_enable_perf gmpruv -tlm_hunt_id PlaytestPC +g_perf_budget_gpu 1 +r_D3D12EnableDRED 2 +cl_perfStatVerbosity 1 +cl_perfStatCam 1 +ui_popup_checklist_debug 1 +r_enableNvidiaAftermath 0 +g_newMultiplayerFlowEnabled 1 +online_multiplayer_client_debug_log 1",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "201_test tc_playtest navmesh external_pt qa_testroom_3 ab_test internal_playtest closed_beta_test game_tester game_tester_2 external_playtest_2"
+                    "betakey": "201_test tc_playtest navmesh external_pt qa_testroom_3 internal_playtest closed_beta_test game_tester game_tester_2 external_playtest_2"
                 },
                 "description_loc": {
                     "english": "alpha_pt"
@@ -430,40 +430,12 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom qa_testroom_2 ist-testserver1 ist-testserver2 ist-testserver3"
+                    "betakey": "qa_testroom qa_testroom_2 ist-testserver1"
                 },
                 "description_loc": {
                     "english": "cnqa"
                 },
                 "description": "cnqa"
-            },
-            "62": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stage_external +sys_dump_type 3 +log_verbosity 4 +log_writetofileverbosity 4 +vivox_log_enabled 2",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "tencent_qa"
-                },
-                "description_loc": {
-                    "english": "Tenc_QA"
-                },
-                "description": "Tenc_QA"
-            },
-            "64": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stage_external",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "daily_main"
-                },
-                "description_loc": {
-                    "english": "main"
-                },
-                "description": "main"
             },
             "72": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
@@ -480,8 +452,8 @@
                 "description": "perf_debug"
             },
             "73": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings stagealpha +ui_debug_layout_loading 1 +log_writetofileverbosity 3 +sys_customCrashHandlerAttribute playtest +tlm_hunt_enable 1 +tlm_enable_perf gmpruv -tlm_hunt_id PlaytestPC +g_perf_budget_gpu 1 +r_D3D12EnableDRED 2 +cl_perfStatVerbosity 1 +cl_perfStatCam 1 +ui_popup_checklist_debug 1 +r_enableNvidiaAftermath 0 +g_newMultiplayerFlowEnabled 1 +online_multiplayer_client_debug_log 1 +nakama_server cryaccount-dev-eu-6209.eu-west1-a.nakamacloud.io +nakama_server_port 443 +nakama_use_ssl 1 +nakama_secret 99zHJuCtiZ6SuaY4",
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings stagealpha +ui_debug_layout_loading 1 +log_writetofileverbosity 3 +sys_customCrashHandlerAttribute playtest +tlm_hunt_enable 1 +tlm_enable_perf gmpruv -tlm_hunt_id PlaytestPC +g_perf_budget_gpu 1 +r_D3D12EnableDRED 2 +cl_perfStatVerbosity 1 +cl_perfStatCam 1 +ui_popup_checklist_debug 1 +r_enableNvidiaAftermath 0 +g_newMultiplayerFlowEnabled 1 +online_multiplayer_client_debug_log 1",
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
@@ -492,20 +464,6 @@
                 },
                 "description": "internal testing"
             },
-            "74": {
-                "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings stage_external",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "eac_check"
-                },
-                "description_loc": {
-                    "english": "eac_check"
-                },
-                "description": "eac_check"
-            },
             "76": {
                 "executable": "bin\\win_x64\\HuntGame.exe",
                 "arguments": "+online_account_client_settings monroe +sys_dump_type 3",
@@ -513,7 +471,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 latest ist-testserver1 ist-testserver2 ist-testserver3"
+                    "betakey": "qa_testroom qa_testroom_2 qa_testroom_3 latest ist-testserver1"
                 },
                 "description_loc": {
                     "english": "MPQA1 (No EAC)"
@@ -532,34 +490,6 @@
                     "english": "internal_playtesting"
                 },
                 "description": "internal_playtesting"
-            },
-            "78": {
-                "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings cnstage",
-                "type": "default",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "tool_check"
-                },
-                "description_loc": {
-                    "english": "Tool_Testing"
-                },
-                "description": "Tool_Testing"
-            },
-            "79": {
-                "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings cnbeta",
-                "type": "option1",
-                "config": {
-                    "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "multi_test"
-                },
-                "description_loc": {
-                    "english": "multi_test"
-                },
-                "description": "multi_test"
             },
             "80": {
                 "executable": "hunt.exe",
@@ -582,7 +512,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "ist-testserver3 ist-testserver1 ist-testserver2"
+                    "betakey": "ist-testserver1"
                 },
                 "description_loc": {
                     "english": "nightly_ist"
@@ -638,7 +568,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "stage_design current "
+                    "betakey": "current "
                 },
                 "description_loc": {
                     "english": "current__"
@@ -796,7 +726,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 39807389,
-    "_sha": "15a4a60b8840d90bacd69484c658917e680120e2",
-    "_size": 24005
+    "_change_number": 39817911,
+    "_sha": "c337c812251e05d899b6f7b8a1df95e2464271bb",
+    "_size": 21575
 }
