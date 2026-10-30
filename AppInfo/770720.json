@@ -299,7 +299,7 @@
             },
             "27": {
                 "executable": "hunt.exe",
-                "arguments": "+online_account_client_settings blah -online_server 192.168.11.142 -online_server_port 11000 +online_websvc_enable_tls 0 +nakama_server \"cryaccount-dev-2f8d.eu-west1-a.nakamacloud.io\" +nakama_server_port 443 +nakama_use_ssl 1 +nakama_secret \"7hpOZaHt7cWJ0DZC\"",
+                "arguments": "+online_account_client_settings blah -online_server 192.168.11.142 -online_server_port 11000 +online_websvc_enable_tls 0",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -438,8 +438,8 @@
                 "description": "cnqa"
             },
             "72": {
-                "executable": "bin\\win_x64\\HuntGame.exe",
-                "arguments": "+online_account_client_settings blah -online_server 192.168.11.142 -online_server_port 11000 +online_websvc_enable_tls 0 +nakama_server \"cryaccount-dev-2f8d.eu-west1-a.nakamacloud.io\" +nakama_server_port 443 +nakama_use_ssl 1 +nakama_secret \"7hpOZaHt7cWJ0DZC\" +r_D3D12EnableDRED 2 +log_writetofileverbosity 4",
+                "executable": "hunt.exe",
+                "arguments": "+online_account_client_settings blah -online_server 192.168.11.142 -online_server_port 11000 +r_D3D12EnableDRED 2 +log_writetofileverbosity 4",
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
@@ -739,7 +739,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 40413447,
-    "_sha": "1970a37ae4d9c2b9258b2bb83597881dc0f23fd8",
-    "_size": 21770
+    "_change_number": 40427688,
+    "_sha": "de9aa2255669bdc4a7f3052a04f843aedae89f3e",
+    "_size": 21438
 }
