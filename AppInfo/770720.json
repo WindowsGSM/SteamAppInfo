@@ -581,8 +581,7 @@
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "lionbridge_qa_main"
+                    "osarch": "64"
                 },
                 "description_loc": {
                     "english": "PCStage02"
@@ -609,8 +608,7 @@
                 "type": "option1",
                 "config": {
                     "oslist": "windows",
-                    "osarch": "64",
-                    "betakey": "lionbridge_qa_main"
+                    "osarch": "64"
                 },
                 "description_loc": {
                     "english": "Lionbridge01"
@@ -624,7 +622,7 @@
                 "config": {
                     "oslist": "windows",
                     "osarch": "64",
-                    "betakey": "lionbridge_qa"
+                    "betakey": "lionbridge_qa lionbridge_qa_main"
                 },
                 "description_loc": {
                     "english": "Lionbridge02"
@@ -739,7 +737,7 @@
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 40619344,
-    "_sha": "de9aa2255669bdc4a7f3052a04f843aedae89f3e",
-    "_size": 21438
+    "_change_number": 40636460,
+    "_sha": "563ce4fc901108f6042c4ad852c16cc51de86d0f",
+    "_size": 21383
 }
