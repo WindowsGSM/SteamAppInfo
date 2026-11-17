@@ -4,9 +4,10 @@
         "name": "Rust Dedicated Server",
         "type": "Game",
         "releasestate": "released",
-        "oslist": "windows,linux",
-        "osarch": "",
-        "osextended": "",
+        "oslist": "windows,macos,linux",
+        "osarch": "64",
+        "osextended": "macosapplesilicon",
+        "oscpu": "",
         "associations": {},
         "gameid": "258550",
         "store_tags": {}
@@ -48,9 +49,9 @@
                     "download": "537159312"
                 },
                 "staging": {
-                    "gid": "7868642140001822811",
-                    "size": "759019471",
-                    "download": "533493904"
+                    "gid": "1277109675595847411",
+                    "size": "759020495",
+                    "download": "533494752"
                 }
             }
         },
@@ -80,11 +81,17 @@
                     "download": "508255456"
                 },
                 "staging": {
-                    "gid": "5095056667596986593",
-                    "size": "765937901",
-                    "download": "505081184"
+                    "gid": "9220213988256152795",
+                    "size": "765938925",
+                    "download": "505082288"
                 }
             }
+        },
+        "258553": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {}
         },
         "258554": {
             "manifests": {
@@ -109,9 +116,9 @@
                     "download": "1023063680"
                 },
                 "staging": {
-                    "gid": "3360364934915801815",
-                    "size": "4904207397",
-                    "download": "1027434480"
+                    "gid": "7532071937901374278",
+                    "size": "4904967765",
+                    "download": "1027926656"
                 }
             }
         },
@@ -140,15 +147,15 @@
                 "timebuildupdated": "1794853165"
             },
             "staging": {
-                "buildid": "26722859",
-                "timeupdated": "1794892985",
-                "timebuildupdated": "1794892985"
+                "buildid": "26734650",
+                "timeupdated": "1794930267",
+                "timebuildupdated": "1794930267"
             }
         },
         "privatebranches": "1"
     },
     "_missing_token": false,
-    "_change_number": 41106315,
-    "_sha": "f3b9f6a6c2d7454b299d6803c4196a49f4526868",
-    "_size": 3128
+    "_change_number": 41144866,
+    "_sha": "d6246de917f3ce99ecca6d0357389e0b022bffbb",
+    "_size": 3255
 }
